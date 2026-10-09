@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Shay x Ronisia x Meryl
+> Photo : Leto
 
-647 songs - 1 day 5 hr 37 min
+649 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [MOULA SOLITUDE](https://open.spotify.com/track/3kvIHD7EIlMQ86X3w7kW0Y) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [EXTASIA](https://open.spotify.com/album/46Kr05vkVqq1vFI7rh7WtX) | 3:15 | 2025-10-09 | 2025-11-21 |
 | [Movie](https://open.spotify.com/track/1k9oEJse03hhCI21JiOK4g) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Movie](https://open.spotify.com/album/3t1LD12LY64mEVWWKfbMeM) | 2:23 | 2024-10-24 | 2025-06-06 |
 | [Méchant](https://open.spotify.com/track/1h8484CNhIZqhMsqD0ljkl) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Méchant](https://open.spotify.com/album/0qnEbi793qwTHRjUIsNQxD) | 2:21 | 2023-09-28 | 2023-12-08 |
-| [MÉDICAMENT](https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [MÉDICAMENT](https://open.spotify.com/album/4Vk4vV6FLeDiJE0uupd7Bt) | 3:06 | 2026-05-21 |  |
+| [MÉDICAMENT](https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [MÉDICAMENT](https://open.spotify.com/album/4Vk4vV6FLeDiJE0uupd7Bt) | 3:06 | 2026-05-21 | 2026-10-09 |
 | [MÉLANCOLIE CRUELLE](https://open.spotify.com/track/6GnrGUBp0Fe7wuEfUnjWuN) | [Kanoé](https://open.spotify.com/artist/7jUHzlUQxkrsszeYAIqHCY) | [MÉLANCOLIE CRUELLE](https://open.spotify.com/album/5idYQiFWglPfkvr9yrxUoJ) | 2:11 | 2026-04-09 | 2026-05-29 |
 | [Mélange](https://open.spotify.com/track/0tQ6DjtHWrKBr2WwiD3Au1) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq) | [Mélange](https://open.spotify.com/album/3KiZbHf512Q8PHbrwpebjo) | 2:39 | 2026-06-11 | 2026-07-24 |
 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 | 2024-05-02 | 2025-01-17 |
@@ -408,6 +408,7 @@
 | [No Way](https://open.spotify.com/track/2IPePznzAo4HTEgYKYAeqI) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [No Way](https://open.spotify.com/album/7H1oynrcSG8kfpvlOyBInU) | 2:54 | 2024-12-19 | 2025-04-18 |
 | [Noche](https://open.spotify.com/track/2OFjQrosVRVFY2nVxrFvBG) | [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk) | [LES DIÈSES 2](https://open.spotify.com/album/1MyXhXWrMODghP4Oa9p054) | 3:10 | 2024-04-25 | 2024-06-01 |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-09-28 | 2024-03-08 |
+| [Nous deux](https://open.spotify.com/track/3yXOtAnjSEMjhIVhxmmdIC) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [TONIGHT](https://open.spotify.com/album/1OTfJFoGv5Rl6O67eiN6M0) | 3:05 | 2026-10-08 |  |
 | [Nouvelles](https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:59 | 2023-09-28 | 2023-11-10 |
 | [Nwar Mentality](https://open.spotify.com/track/5XoppyR8RCPjoq4coqiYgL) | [Roni0block](https://open.spotify.com/artist/6JZrCsUM6Ap5jKgQ7rRVsV), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Nwar Mentality](https://open.spotify.com/album/3J3O09MC6Fp6osV9UPSitX) | 2:19 | 2025-10-09 | 2025-11-21 |
 | [NZELA](https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NZELA](https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s) | 3:11 | 2026-09-10 |  |
@@ -600,6 +601,7 @@
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-09-28 | 2023-12-14 |
 | [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-14 | 2024-01-26 |
 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 | 2026-06-04 |  |
+| [Trivago](https://open.spotify.com/track/54xaeZD9ya5jd1YJ0LiYew) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX) | [Casus Belli](https://open.spotify.com/album/2GlRfEUPzFoYTxGcREodSB) | 2:24 | 2026-10-08 |  |
 | [Trop Bizarre](https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Trop Bizarre](https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI) | 4:32 | 2023-09-28 | 2024-05-10 |
 | [Trop Fraiche](https://open.spotify.com/track/3hIKqZ803uCNrimYU2ERiL) | [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR) | [Trop Fraiche](https://open.spotify.com/album/7GBneKI6IR3latK2CdK7Vr) | 3:17 | 2026-07-09 |  |
 | [TROP TARD](https://open.spotify.com/track/4g6v0Y4KEwdfwCDii1SFob) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e) | [TROP TARD](https://open.spotify.com/album/1mkOVWIB0xuPts7ASixrs7) | 2:26 | 2025-08-28 | 2025-09-19 |
@@ -635,7 +637,7 @@
 | [Y méritent pas](https://open.spotify.com/track/60071ZZAxwmHyubRk4DBCO) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Y méritent pas](https://open.spotify.com/album/1hLHkG5EzDG7nGBjdXifQ6) | 2:45 | 2026-06-18 | 2026-07-31 |
 | [Y'A BLO](https://open.spotify.com/track/0kKrice1pNmJSOW8q5FnTx) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Y'A BLO](https://open.spotify.com/album/6sFyM6izpawV5ZL536dd1D) | 3:07 | 2026-07-16 |  |
 | [Y'A R](https://open.spotify.com/track/5hXA6P3qydIe3375WfGjVk) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [ZMIG](https://open.spotify.com/album/688e1LKDyb3Zqoo4hpMwch) | 1:45 | 2026-01-15 | 2026-03-06 |
-| [YAKUZA](https://open.spotify.com/track/7DEuA8IpagjlToEyGmm3Zw) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [YAKUZA](https://open.spotify.com/album/6siFETHEE13cuuyRJo85TA) | 2:41 | 2026-05-28 |  |
+| [YAKUZA](https://open.spotify.com/track/7DEuA8IpagjlToEyGmm3Zw) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [YAKUZA](https://open.spotify.com/album/6siFETHEE13cuuyRJo85TA) | 2:41 | 2026-05-28 | 2026-10-09 |
 | [Yellow](https://open.spotify.com/track/5qbP24GpHFlqe4U0jTCde0) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Yellow](https://open.spotify.com/album/0HKIayo9MXwrMS0RfqnCar) | 2:48 | 2025-07-10 | 2025-08-09 |
 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2023-12-14 | 2024-06-21 |
 | [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 | 2023-11-23 | 2024-01-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music with a Latin flair. Cover: Codiciado",
+  "description": "Country music with a Latin flair. Cover: Kacey Musgraves and Intocable",
   "name": "Country Latino",
   "tracks": [
     {
@@ -3746,6 +3746,28 @@
       "duration_ms": 182733,
       "name": "Uh-huh (Aj\u00e1)",
       "url": "https://open.spotify.com/track/1gjG3auVpW1dugekfaCHXo"
+    },
+    {
+      "album": {
+        "name": "Uncertain, TX (feat. Intocable) [Spanish Version]",
+        "url": "https://open.spotify.com/album/7rWbojvauIqKj6PHESW6YB"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213382,
+      "name": "Uncertain, TX (feat. Intocable) - Spanish Version",
+      "url": "https://open.spotify.com/track/3CF6hmINIcPUh0wfxN0ft3"
     },
     {
       "album": {

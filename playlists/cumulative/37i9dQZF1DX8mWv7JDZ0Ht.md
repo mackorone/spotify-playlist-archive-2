@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Fran Gil
 
-1,003 songs - 2 day 2 hr 21 min
+1,004 songs - 2 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [Música para Recomeços](https://open.spotify.com/track/2W5aFc2XGAt4AEH3ZY7427) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Música para Recomeços](https://open.spotify.com/album/0AKpFm7l7y3GiZk0POcVq4) | 2:58 | 2022-09-09 | 2022-09-24 |
 | [N](https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r) | 3:34 | 2023-04-28 | 2024-01-27 |
 | [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 | 2023-10-13 | 2023-10-29 |
+| [Na Mão Do Acaso](https://open.spotify.com/track/3FuodKkKDIGEYA35q1wFcl) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Na Mão Do Acaso](https://open.spotify.com/album/64hOSYnhRludB66MlnWpZ1) | 3:38 | 2026-10-09 |  |
 | [Na Proa da Saudade](https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Gérbera + Na Proa da Saudade](https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH) | 3:36 | 2025-01-17 | 2026-04-11 |
 | [nada do que você falou](https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc) | [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [nada do que você falou](https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU) | 2:33 | 2024-05-31 | 2026-01-24 |
 | [Nada vai ser como antes](https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Tudo que deu pra fazer em um ano](https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I) | 2:11 | 2025-12-12 |  |
@@ -723,7 +724,7 @@
 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 | 2022-08-01 | 2023-01-28 |
 | [Quando](https://open.spotify.com/track/1hzBmDY92rHMRkWpydY120) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Quando](https://open.spotify.com/album/2iwPRtSrvVoBU9VpAeylfY) | 3:14 | 2022-11-18 | 2023-01-28 |
 | [Quando a Gente Existe](https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Quando a Gente Existe](https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5) | 3:24 | 2024-06-07 | 2024-10-12 |
-| [QUANDO ASSUM VOAR](https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [QUANDO ASSUM VOAR](https://open.spotify.com/album/0m909aW6kNTzgB05lzga06) | 2:55 | 2026-05-22 |  |
+| [QUANDO ASSUM VOAR](https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [QUANDO ASSUM VOAR](https://open.spotify.com/album/0m909aW6kNTzgB05lzga06) | 2:55 | 2026-05-22 | 2026-10-09 |
 | [Quando Cê Vem](https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Quando Cê Vem](https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu) | 2:36 | 2023-10-27 | 2024-06-01 |
 | [Quando isso vai passar?](https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando isso vai passar?](https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH) | 2:36 | 2023-12-08 | 2024-06-22 |
 | [Quando me ver passar](https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando me ver passar](https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7) | 2:14 | 2026-05-22 |  |

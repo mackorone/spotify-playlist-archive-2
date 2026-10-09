@@ -7332,7 +7332,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 202180,
       "name": "\u05d9\u05e9\u05e0\u05dd \u05d9\u05de\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4XVhvCZ61rqSeg6cgArJNz"
@@ -10746,6 +10746,24 @@
       "duration_ms": 137727,
       "name": "\u05de\u05ea \u05d4\u05e2\u05d5\u05dc\u05dd",
       "url": "https://open.spotify.com/track/0e4RKSgXlsUrHQ9pg807iH"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05ea\u05d2\u05e2\u05d2\u05e2 (The Raichel Session)",
+        "url": "https://open.spotify.com/album/01kDM8jLQcaIftzniD6EzL"
+      },
+      "artists": [
+        {
+          "name": "Mooki",
+          "url": "https://open.spotify.com/artist/2RMH8nqc3YmaUEikglXlXm"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259986,
+      "name": "\u05de\u05ea\u05d2\u05e2\u05d2\u05e2 - The Raichel Session",
+      "url": "https://open.spotify.com/track/59lZCZi9R0PVFWnWAsJW3d"
     },
     {
       "album": {

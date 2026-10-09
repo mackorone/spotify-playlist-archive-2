@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Wishy
 
-2,255 songs - 5 day 7 hr 48 min
+2,258 songs - 5 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -921,6 +921,7 @@
 | [Holy Water](https://open.spotify.com/track/1KzTsAzc0ikZdjAvpiKL6v) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Holy Water](https://open.spotify.com/album/32W3rqgBhPjZCJnRvU6V8k) | 3:00 | 2025-06-06 | 2025-12-13 |
 | [Holy, Holy](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Holy, Holy](https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V) | 6:03 | 2024-08-23 | 2025-01-11 |
 | [Home](https://open.spotify.com/track/3tYH04NBLuzodhjHpsBjoh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:51 | 2022-07-29 | 2022-11-19 |
+| [Home Alone](https://open.spotify.com/track/4WJwVMnu4hXTXII4M70NCA) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Home Alone](https://open.spotify.com/album/65DSuU3rw6zLEnJegwnKQs) | 3:10 | 2026-10-09 |  |
 | [Homebody](https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Homebody](https://open.spotify.com/album/5QxN2n76RFYhOAO3ebbfCG) | 2:49 | 2023-01-20 | 2023-04-01 |
 | [Hometown](https://open.spotify.com/track/0k1lGsi6pL8abra2yzIxeU) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [Hometown](https://open.spotify.com/album/0Zrm8OUvkOisdzvWo9Fhl8) | 2:56 | 2021-07-02 | 2022-02-11 |
 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 | 2021-06-25 | 2022-04-21 |
@@ -1153,6 +1154,7 @@
 | [Lately](https://open.spotify.com/track/6iw3NfFyPpp9sQuuHhRhls) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Lately](https://open.spotify.com/album/1xnvzjGkz4iR6x8KOad9mM) | 2:28 | 2021-08-27 | 2022-04-21 |
 | [Laugh](https://open.spotify.com/track/1KFiQ4QHDouaNd0Yo5Qq7S) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Live Laugh Love](https://open.spotify.com/album/4YnYmg51rAmk9HVjTkg8yx) | 5:15 | 2024-03-29 | 2024-06-29 |
 | [Laura \(feat\. Remo Drive\)](https://open.spotify.com/track/641GXCVvbYOfstD2mJRQa3) | [Wormy](https://open.spotify.com/artist/7tdmyWI7sZC48UZmOity9Z), [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Laura \(feat\. Remo Drive\)](https://open.spotify.com/album/0fsIKo7CKxRxzR34aDeQhS) | 3:54 | 2022-03-22 | 2022-04-29 |
+| [Laying Down](https://open.spotify.com/track/2vYaRSGzWjD3X17T1ICQvp) | [swell foop](https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r) | [Laying Down](https://open.spotify.com/album/6aB7po4FUlk7DB0471ku6e) | 2:50 | 2026-10-09 |  |
 | [Layla](https://open.spotify.com/track/6nMN0skRJ95zgzRlJnRCJs) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Layla](https://open.spotify.com/album/27DCicKUYuGiMN7keqhb7p) | 4:10 | 2023-02-03 | 2023-04-09 |
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-12 | 2024-08-10 |
 | [Lead Up](https://open.spotify.com/track/27MaTwiBKmoQyF2yyINzJg) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Lead Up](https://open.spotify.com/album/5RhCEqk9Hmw5xWaLdjo2Ge) | 5:18 | 2025-02-28 | 2025-07-12 |
@@ -1833,6 +1835,7 @@
 | [Sprite](https://open.spotify.com/track/7fL7ZuSeJOSAzWsl9lAhCI) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Green Blue + Indigo Violet](https://open.spotify.com/album/0G2STVHSAHhYIB3LoB9K8N) | 3:10 | 2021-06-07 | 2022-06-11 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 | 2023-07-22 |
 | [Stairway To Nowhere](https://open.spotify.com/track/0UuDFttpfahZ397HtsDEHp) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Stairway To Nowhere](https://open.spotify.com/album/4YdlrnD4zgtuV6KmmrQuS9) | 4:28 | 2026-03-27 |  |
+| [Stalks](https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Stalks](https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC) | 2:47 | 2026-10-09 |  |
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-13 |  |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2021-06-08 | 2022-06-11 |
 | [Starlight](https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:09 | 2023-04-14 | 2023-06-17 |

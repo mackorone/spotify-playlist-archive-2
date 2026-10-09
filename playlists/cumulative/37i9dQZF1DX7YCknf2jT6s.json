@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Meshell Ndegeocello",
+  "description": "New jazz for open minds. Cover: Julian Lage",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -861,6 +861,28 @@
     },
     {
       "album": {
+        "name": "A Thousand Hands (feat. Brother Portrait)",
+        "url": "https://open.spotify.com/album/0IOEFdzphgliJHqq27piQu"
+      },
+      "artists": [
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        },
+        {
+          "name": "Brother Portrait",
+          "url": "https://open.spotify.com/artist/4WRbROBubNgsRt1ARIjqEn"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208374,
+      "name": "A Thousand Hands (feat. Brother Portrait)",
+      "url": "https://open.spotify.com/track/3LvRjfLh4N3VDr8c3LE3gi"
+    },
+    {
+      "album": {
         "name": "Alive at the Village Vanguard",
         "url": "https://open.spotify.com/album/0ZtyPgjVZsMzwxeDYYgllf"
       },
@@ -880,6 +902,54 @@
       "duration_ms": 274520,
       "name": "A Wish",
       "url": "https://open.spotify.com/track/2Tq89QmtNijYrcXOqkks0w"
+    },
+    {
+      "album": {
+        "name": "Abathuthu",
+        "url": "https://open.spotify.com/album/0Tx7NZnfovKps11qh1mLTf"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202837,
+      "name": "Abathuthu",
+      "url": "https://open.spotify.com/track/7CdBGfruRsDm5lOlFsoH8q"
+    },
+    {
+      "album": {
+        "name": "Aberdeen",
+        "url": "https://open.spotify.com/album/6Djhn6LSBunJkJUZi0el1f"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        },
+        {
+          "name": "Kenny Wollesen",
+          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437933,
+      "name": "Aberdeen",
+      "url": "https://open.spotify.com/track/3iVoB8pt8vazxR7NwvvUCL"
     },
     {
       "album": {
@@ -2406,6 +2476,32 @@
       "duration_ms": 127866,
       "name": "Another Chance (feat. Jeff Bradshaw & The Origin Band)",
       "url": "https://open.spotify.com/track/5CiTbfWPMr4lJvas3v2nCm"
+    },
+    {
+      "album": {
+        "name": "Another Night (It's Just) ft. Theo Croker, Daru Jones, Oli Rockberger",
+        "url": "https://open.spotify.com/album/0DYW8xek5shDjDAla1Hv7i"
+      },
+      "artists": [
+        {
+          "name": "China Moses",
+          "url": "https://open.spotify.com/artist/2KqBple0Yu8pssNGNvWNmV"
+        },
+        {
+          "name": "Daru Jones",
+          "url": "https://open.spotify.com/artist/3kOGIhN1mgwbrQMgY5KV9U"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "Another Night (It's Just) ft. Theo Croker, Daru Jones, Oli Rockberger",
+      "url": "https://open.spotify.com/track/0dWT5IDit0SKvC50eKNn1w"
     },
     {
       "album": {
@@ -21242,6 +21338,10 @@
         {
           "name": "Melissa Aldana",
           "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        },
+        {
+          "name": "Gonzalo Rubalcaba",
+          "url": "https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F"
         }
       ],
       "date_added": "2026-10-02",

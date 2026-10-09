@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-627 songs - 1 day 13 hr 35 min
+629 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Dawn](https://open.spotify.com/track/1GjayjS8KEuljD5GhTuDDq) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [The Putbacks](https://open.spotify.com/artist/1MFxqj3TBAaTuiEgLnBfsR) | [Dawn](https://open.spotify.com/album/4VIuikghlCfEl022xOlhaR) | 3:52 | 2021-07-09 | 2022-07-24 |
 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 | 2025-11-14 |  |
 | [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 | 2023-01-27 | 2023-10-21 |
+| [December Sunshine](https://open.spotify.com/track/52JNz2JSYdRVDQwGb2KKPd) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [December Sunshine](https://open.spotify.com/album/7Fdm9UfKRv0ZYmyWC118P0) | 2:37 | 2026-10-09 |  |
 | [Defence](https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Defence EP](https://open.spotify.com/album/3tTvRrOthZJ5w7gEwXRuo0) | 4:39 | 2024-05-24 | 2025-12-13 |
 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 | 2023-07-14 | 2025-02-08 |
 | [Desperate For Love](https://open.spotify.com/track/5GArZVXDLrhpGYqvtifNPP) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [Desperate For Love](https://open.spotify.com/album/0p1KhvYBw0k7Cql2vkT0io) | 3:14 | 2024-06-07 | 2026-03-14 |
@@ -300,7 +301,7 @@
 | [Lifted Up](https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Lifted Up](https://open.spotify.com/album/4jGb0IWRLtC75RQzIWGpEV) | 2:55 | 2024-01-26 | 2024-06-01 |
 | [Lights Out](https://open.spotify.com/track/3iQFJHSLteF9a9UO3scUfh) | [Tom Caruana](https://open.spotify.com/artist/4ID3jRfahxJfsr1dFpMrYp), [Charlie Newton](https://open.spotify.com/artist/0I3eS0ipvFizRmEkcHgoGO) | [Lights Out](https://open.spotify.com/album/2CkwDTtBMN2GzJo05QF8WE) | 3:04 | 2023-03-17 | 2023-07-22 |
 | [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:09 | 2023-04-07 | 2023-06-03 |
-| [Like a Woman](https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Slang Spirituals](https://open.spotify.com/album/1sPGKewgVhu3Iwfqq1XZwa) | 4:26 | 2024-09-13 |  |
+| [Like a Woman](https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Slang Spirituals](https://open.spotify.com/album/1sPGKewgVhu3Iwfqq1XZwa) | 4:26 | 2024-09-13 | 2026-10-09 |
 | [Little Birdie](https://open.spotify.com/track/7nsbVEf7v7RvrhktbIX42o) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Little Birdie](https://open.spotify.com/album/3lFtl9ngeK56wTq6IikwC7) | 4:03 | 2021-08-06 | 2022-07-29 |
 | [Little by Little](https://open.spotify.com/track/2b5RJXQYweJKXgcfQaokKX) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Little by Little](https://open.spotify.com/album/14dI8QEGClOLipxmUfIaBR) | 2:39 | 2021-07-09 | 2022-07-26 |
 | [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 | 2024-08-02 | 2024-09-14 |
@@ -436,7 +437,7 @@
 | [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 | 2021-08-02 | 2023-02-18 |
 | [Rita Is Gone](https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Marcus King Band](https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO) | 4:25 | 2021-07-09 | 2023-01-28 |
 | [River](https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [River](https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E) | 4:30 | 2022-05-06 | 2024-06-29 |
-| [Rock Your Baby](https://open.spotify.com/track/0LrsR74qQuD4V7IojAvK0m) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Rock Your Baby](https://open.spotify.com/album/28nLfpXbzJt4lWPH24ZVlc) | 3:22 | 2026-09-11 |  |
+| [Rock Your Baby](https://open.spotify.com/track/0LrsR74qQuD4V7IojAvK0m) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Rock Your Baby](https://open.spotify.com/album/28nLfpXbzJt4lWPH24ZVlc) | 3:22 | 2026-09-11 | 2026-10-09 |
 | [Rocking My Boat](https://open.spotify.com/track/5iJtFfrTB0W8GXPPA0Nc28) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [Rocking My Boat](https://open.spotify.com/album/0KEbI9xxTx7us0RRFwm8lM) | 2:42 | 2024-10-04 | 2025-04-26 |
 | [Rolodex](https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK) | [Jonny Kosmo](https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx) | [Light Speaks the Quilt](https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov) | 2:56 | 2022-11-11 | 2023-02-18 |
 | [Rome](https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:38 | 2021-07-09 | 2024-02-24 |
@@ -449,6 +450,7 @@
 | [Sad Hearted Clown](https://open.spotify.com/track/2ZsssRULtkfkbo5D2yh6gT) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Sad Hearted Clown](https://open.spotify.com/album/6Y8dPnHS85nm1OsACr26Pg) | 3:37 | 2023-06-23 | 2023-11-11 |
 | [Sadie](https://open.spotify.com/track/2Nq1CHPEOt21w1ctEaV22j) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Sadie](https://open.spotify.com/album/7nXFbaFq3Z9gGPZnE8wew8) | 2:56 | 2023-04-21 | 2023-07-01 |
 | [Sage Motel](https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Sage Motel](https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9) | 3:52 | 2022-05-13 | 2023-06-24 |
+| [Satisfy The Way I Do](https://open.spotify.com/track/4TegVvKvMmGIpFvDGgL1rt) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Satisfy The Way I Do](https://open.spotify.com/album/1PvLiOeno1xXFaYgF1apnz) | 3:45 | 2026-10-09 |  |
 | [Save Me](https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Hello, I'm Britti.](https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a) | 3:21 | 2024-02-02 | 2025-08-23 |
 | [Save Your Tears For Someone New](https://open.spotify.com/track/5akqZJ3JnHRk5aLnfJBbqt) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/4YZsaY91O8d2BIVLPgfdUi) | 2:51 | 2022-10-28 | 2022-11-12 |
 | [Save Your Tears For Someone New](https://open.spotify.com/track/6NZZW5KsaurTurkESdixSq) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/5pmMftX2kDOQPbzop5G7ie) | 2:51 | 2022-10-28 | 2022-11-03 |

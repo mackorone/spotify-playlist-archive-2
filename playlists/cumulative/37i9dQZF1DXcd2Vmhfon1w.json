@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Natos y Waor, GRECAS",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Faenna",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 144000,
       "name": "Asunto Grave",
       "url": "https://open.spotify.com/track/7BXm0iA464PngNDuDlDuZY"
@@ -3402,7 +3402,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 201118,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/3st8XoJzT5MgKRxt4Cawzf"
@@ -4147,6 +4147,52 @@
     },
     {
       "album": {
+        "name": "Cypher x Greenpeace: Free Activists",
+        "url": "https://open.spotify.com/album/4egOxaTKFESFH5CnL8h6ex"
+      },
+      "artists": [
+        {
+          "name": "Faenna",
+          "url": "https://open.spotify.com/artist/2iLGzMc00PRgD5qP07bP2b"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
+        },
+        {
+          "name": "La Kala",
+          "url": "https://open.spotify.com/artist/4k9urycI0mmEXS8Rakahfl"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        },
+        {
+          "name": "Jaloner",
+          "url": "https://open.spotify.com/artist/6mxuwUdhUgLS5QcCA08Rlz"
+        },
+        {
+          "name": "SOLO K.OS",
+          "url": "https://open.spotify.com/artist/5WBArXzW6FUzDMPERDT16g"
+        },
+        {
+          "name": "Nico Miseria",
+          "url": "https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro"
+        },
+        {
+          "name": "KYNE",
+          "url": "https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492000,
+      "name": "Cypher x Greenpeace: Free Activists",
+      "url": "https://open.spotify.com/track/55wuY1SuhB9Hq7k3w3JuQE"
+    },
+    {
+      "album": {
         "name": "C\u00cdRCULO VICIOSO",
         "url": "https://open.spotify.com/album/1ScB2GKUreyU4eYkEDb5jq"
       },
@@ -4645,6 +4691,32 @@
     },
     {
       "album": {
+        "name": "EL ANGELITO",
+        "url": "https://open.spotify.com/album/5k44dxs3yejHzvzbm1x3dT"
+      },
+      "artists": [
+        {
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+        },
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207634,
+      "name": "DIAMANTES",
+      "url": "https://open.spotify.com/track/1Msnx4ygFtYXzYWB3DhvQ4"
+    },
+    {
+      "album": {
         "name": "DIME LA VERDAD",
         "url": "https://open.spotify.com/album/43w9kyC0ZFRCdDcTjWp44d"
       },
@@ -5035,6 +5107,32 @@
     },
     {
       "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/3JfNQMBfk7xkXOmOyr2bKM"
+      },
+      "artists": [
+        {
+          "name": "Sho-Hai",
+          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
+        },
+        {
+          "name": "R De Rumba",
+          "url": "https://open.spotify.com/artist/6zJkLYY6jdwLbRCo3Acc3C"
+        },
+        {
+          "name": "Sholo Truth",
+          "url": "https://open.spotify.com/artist/0adm9y5GF0lJNMfKyj7dyN"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218075,
+      "name": "Dulce & Salao (con Sholo Truth)",
+      "url": "https://open.spotify.com/track/26SjDWuCuZR4PqCM5FR2sn"
+    },
+    {
+      "album": {
         "name": "Duolingo",
         "url": "https://open.spotify.com/album/55azoE4F9722K21vWCJHIy"
       },
@@ -5108,7 +5206,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 150545,
       "name": "Efecto Domino",
       "url": "https://open.spotify.com/track/0kEVc5TujVq3f2KFRt1DQ1"
@@ -5178,6 +5276,28 @@
       "duration_ms": 175151,
       "name": "El Brillo",
       "url": "https://open.spotify.com/track/3TienUeja5ummxdmi2crSN"
+    },
+    {
+      "album": {
+        "name": "El Caribe en Navidad",
+        "url": "https://open.spotify.com/album/4RnAX89rY7p4SyFSOFGe8b"
+      },
+      "artists": [
+        {
+          "name": "Shoda Monkas",
+          "url": "https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226691,
+      "name": "El Caribe en Navidad",
+      "url": "https://open.spotify.com/track/1Z5QVSeUFiLbXmRNAzTxuT"
     },
     {
       "album": {
@@ -7276,7 +7396,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 158400,
       "name": "HA$H DE MOROCCO",
       "url": "https://open.spotify.com/track/0wZTlJJqfkwsbTVYx77GTp"
@@ -8820,6 +8940,36 @@
       "duration_ms": 203181,
       "name": "LA NETA SIN CARETA",
       "url": "https://open.spotify.com/track/5mELwfFZZRAdCTXjhdNSwB"
+    },
+    {
+      "album": {
+        "name": "LA NOCHE M\u00c1S LINDA",
+        "url": "https://open.spotify.com/album/3d7meweN9ko7dOK6sgkjKS"
+      },
+      "artists": [
+        {
+          "name": "TAWA",
+          "url": "https://open.spotify.com/artist/3DdbBW5RRLPV3Kv4CSwHzi"
+        },
+        {
+          "name": "Cecilio G.",
+          "url": "https://open.spotify.com/artist/2Q2fYVYxFSmodq53BFyD6p"
+        },
+        {
+          "name": "NEV04",
+          "url": "https://open.spotify.com/artist/0z3WaMe767CMYd3OXlSQ0Q"
+        },
+        {
+          "name": "L-Street",
+          "url": "https://open.spotify.com/artist/3y1o8cWHM51A07FnayRy5N"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "LA NOCHE M\u00c1S LINDA",
+      "url": "https://open.spotify.com/track/1TuPbtQeqzw8vv9lfiUM2Z"
     },
     {
       "album": {
@@ -11914,7 +12064,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 246684,
       "name": "Nazis fuera del rap",
       "url": "https://open.spotify.com/track/16rklbDpKuZtebdWRpC6Fu"
@@ -13090,6 +13240,28 @@
       "duration_ms": 220964,
       "name": "Pa que lo gocen (feat. Dollar Selmouni & Blasfem)",
       "url": "https://open.spotify.com/track/0TcHENybtIPcEPfr4bSPpA"
+    },
+    {
+      "album": {
+        "name": "Los Perros con los Perros",
+        "url": "https://open.spotify.com/album/3KHeko13XZGOxCyipdr4ry"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Pa que no llore mi Mama",
+      "url": "https://open.spotify.com/track/7mIT76kRgacdihipUCM2cn"
     },
     {
       "album": {
@@ -14706,6 +14878,28 @@
       "duration_ms": 207153,
       "name": "Red Bull 64 Bars #01",
       "url": "https://open.spotify.com/track/6bFE8KodR6SWcSytWAI3s0"
+    },
+    {
+      "album": {
+        "name": "Red Bull 64 Bars #02",
+        "url": "https://open.spotify.com/album/3i52dWBzIlpUdpOgs1Mvln"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "DistrictBeats",
+          "url": "https://open.spotify.com/artist/5ozh1mENQbB4whMtYBhKFe"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236210,
+      "name": "Red Bull 64 Bars #02",
+      "url": "https://open.spotify.com/track/4t18ol0BSKAobj3Uy0oOmj"
     },
     {
       "album": {
@@ -16344,7 +16538,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 155106,
       "name": "Stardew Valley",
       "url": "https://open.spotify.com/track/1CaBdEbJa5CFSbZ1rGRRoP"
@@ -16780,7 +16974,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 171431,
       "name": "TE A\u00d1ORO",
       "url": "https://open.spotify.com/track/3NA5fbE64m88qT4sewNKZF"

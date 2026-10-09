@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-482 songs - 1 day 3 hr 32 min
+483 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 | 2024-03-15 | 2024-10-12 |
 | [Dirt Road Anthem](https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 3:49 | 2019-06-24 | 2023-11-17 |
 | [Dirt Road Anthem](https://open.spotify.com/track/5ZVGvay4xwgXMnQWffNYeU) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv) | 3:49 | 2023-11-10 | 2024-04-19 |
-| [Do I Make You Wanna](https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:54 | 2019-10-26 |  |
+| [Do I Make You Wanna](https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:54 | 2019-10-26 | 2026-10-09 |
 | [Doin' Fine](https://open.spotify.com/track/6nqvInlnaMzEzaw4s0zbee) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:19 | 2019-06-23 | 2022-04-21 |
 | [Don't Get Better Than That](https://open.spotify.com/track/2ruYYd5CAlXujmzomLpweJ) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Don't Get Better Than That](https://open.spotify.com/album/1sexOatccy4u2OfSYiTDRb) | 3:17 | 2019-06-25 | 2022-04-17 |
 | [Don't It](https://open.spotify.com/track/4iLPK8QnOvqm0Azbsk2GDn) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:09 | 2020-06-12 | 2022-04-21 |
@@ -484,6 +484,7 @@
 | [You Make It Easy](https://open.spotify.com/track/2ZxTjs4EdJl4Y9YByIiNoo) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [You Make It Easy](https://open.spotify.com/album/0EVP8vXYQaq3kr0kWv8rNG) | 3:16 | 2019-05-28 | 2022-07-28 |
 | [You Make It Easy](https://open.spotify.com/track/6EGAfJaLUFzhS4zRBIEQ2J) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rearview Town](https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A) | 3:16 | 2019-05-31 | 2020-02-22 |
 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2023-03-10 | 2025-07-01 |
+| [You Should See Me Now](https://open.spotify.com/track/6Bt7KhPcD0rjrbqSTwgRKV) | [Landon Wilks](https://open.spotify.com/artist/7xxu3GGGAWwH4MbrT12aMG) | [Young and Restless](https://open.spotify.com/album/3yjNyEr90FjbUGixaNScQQ) | 3:28 | 2026-10-09 |  |
 | [You're Gonna Miss This](https://open.spotify.com/track/5Ga2YBqKtetWgWL2pl3g3f) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Definitive Greatest Hits](https://open.spotify.com/album/5CFWkDEnKrS3Ar8Da5CGhR) | 3:43 | 2019-06-23 | 2022-07-29 |
 | [Young & Crazy](https://open.spotify.com/track/6ll39ALTlddWWQZLjSFlwM) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [Sunshine & Whiskey](https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof) | 3:00 | 2022-03-25 | 2022-04-18 |
 | [Young Forever](https://open.spotify.com/track/4u6eRWSXvzVZtRP6m48Psx) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Young Forever](https://open.spotify.com/album/7hhV77g3kd5INnC8UA3ONo) | 3:17 | 2019-05-25\* | 2022-04-21 |

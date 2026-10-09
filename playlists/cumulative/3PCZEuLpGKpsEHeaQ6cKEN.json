@@ -23740,6 +23740,28 @@
     {
       "album": {
         "name": "More",
+        "url": "https://open.spotify.com/album/29eGoKuewxA8cz9VBXdxO7"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        },
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556555,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0wNr3LhIQxyTYyT9ljSELV"
+    },
+    {
+      "album": {
+        "name": "More",
         "url": "https://open.spotify.com/album/7DAyAlObwl5f8mcrqFCeWm"
       },
       "artists": [
@@ -24966,6 +24988,28 @@
       "duration_ms": 170800,
       "name": "Nineteen Eighty Five",
       "url": "https://open.spotify.com/track/0hU9CayKJ8KmZJJcCZmwQB"
+    },
+    {
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/2y2hZBcATZYJM29ssKp96w"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184419,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b"
     },
     {
       "album": {

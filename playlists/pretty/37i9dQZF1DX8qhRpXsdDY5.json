@@ -1,6 +1,6 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 233050,
+  "num_followers": 233049,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 221302,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "Navidad en America",
         "url": "https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 478333,
       "name": "Navidad en Am\u00e9rica",
       "url": "https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 221302,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
     },
     {
       "added_at": "2025-12-04 18:43:31",

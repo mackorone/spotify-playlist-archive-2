@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Intersection of R&B and afrobeats. Cover: Tomi Thomas",
+  "description": "Intersection of R&B and afrobeats. Cover: Bien",
   "name": "afro&b ",
   "tracks": [
     {
@@ -816,6 +816,28 @@
       "duration_ms": 174159,
       "name": "ARMED & DANGEROUS (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
+    },
+    {
+      "album": {
+        "name": "T's & C's Apply",
+        "url": "https://open.spotify.com/album/381comodDFpQlXwdxvAix1"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146913,
+      "name": "As Planned",
+      "url": "https://open.spotify.com/track/7mJ8e4pYEs9Sx1MhnAVfv4"
     },
     {
       "album": {
@@ -1982,7 +2004,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 206529,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3mcfpjbuhVHCAdNvbEXAQS"
@@ -5621,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Okay",
+        "url": "https://open.spotify.com/album/4FRm1vre15Rj6NwZnf9qmj"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199591,
+      "name": "I'll Be Okay",
+      "url": "https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW"
+    },
+    {
+      "album": {
         "name": "I\u2019ll Take Care Of U (ITCOFU)",
         "url": "https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp"
       },
@@ -8029,6 +8069,24 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/1Tf1Mr6JEp2xUdVB61cpBI"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170144,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4faET9puA0PpJEj3MLXFky"
+    },
+    {
+      "album": {
         "name": "M\u00e8re ya Palais",
         "url": "https://open.spotify.com/album/6URO16cnGDleeYxQFZE8Yj"
       },
@@ -8066,7 +8124,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 186902,
       "name": "NAKANAMO - V2",
       "url": "https://open.spotify.com/track/2WIVtwjKtZuyxA1ZQu7qsB"
@@ -8318,7 +8376,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 159000,
       "name": "No Evil",
       "url": "https://open.spotify.com/track/0QT5b8Hfk8uzUMs2LlTFgV"
@@ -9094,6 +9152,28 @@
       "duration_ms": 149333,
       "name": "Pitakwa Girls Riddim",
       "url": "https://open.spotify.com/track/0l3GrZX1V14Nl7wDGqpcdL"
+    },
+    {
+      "album": {
+        "name": "Place I Go To",
+        "url": "https://open.spotify.com/album/1OMB7zASUZqxgdWESvBhJR"
+      },
+      "artists": [
+        {
+          "name": "mala\u00efka",
+          "url": "https://open.spotify.com/artist/3gdZY0Ui68OFFeZ27EpGZo"
+        },
+        {
+          "name": "Ria Boss",
+          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324250,
+      "name": "Place I Go To",
+      "url": "https://open.spotify.com/track/43kHmYAXTofGm3P1mNr0bf"
     },
     {
       "album": {
@@ -10030,7 +10110,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 192377,
       "name": "Scary",
       "url": "https://open.spotify.com/track/6VFuYRQyhWSGrkdPgJq8kD"

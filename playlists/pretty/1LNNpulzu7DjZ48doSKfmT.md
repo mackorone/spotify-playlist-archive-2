@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 422 songs - 21 hr 57 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 429 songs - 22 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -430,5 +430,12 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 420 | [Killers In Fashion](https://open.spotify.com/track/0VPNS83bOlDjZPqMbWMxo9) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb), [NickEG](https://open.spotify.com/artist/40UjCQcm7cyXgjT0ERN21I) | [Killers In Fashion](https://open.spotify.com/album/3gcQUxWe0nU7YJXYJ5wyEw) | 2:16 |
 | 421 | [Grand](https://open.spotify.com/track/1zrIWgf3gY6FMrKDFgelC5) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb), [Killwoodz](https://open.spotify.com/artist/5t43cJsTHLU62JgEkXdfjL), [MONEY FLUX](https://open.spotify.com/artist/5jSYSRRs3QX4N2YlDeLlY6) | [Kill Or Drown](https://open.spotify.com/album/7fFlVCVr3bOPeGC7DpDZ3Q) | 2:40 |
 | 422 | [Lift Me Up](https://open.spotify.com/track/6MS9JFqZY2bxILcwyr3n5n) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [Lift Me Up](https://open.spotify.com/album/44YEDKM5XEB1MbzyeiGYqe) | 4:03 |
+| 423 | [Future Paranoia](https://open.spotify.com/track/0JkVP9dN0djsS4j1aKMwZO) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Future Paranoia](https://open.spotify.com/album/1X5EWN85z3URtBr5A0Msyd) | 2:22 |
+| 424 | [Una y Mil Veces](https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Una y Mil Veces](https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM) | 4:26 |
+| 425 | [FUEGO Y FLOW](https://open.spotify.com/track/40aqUHbV1yPQxklUf6Zluw) | [Capotillo Freestyle](https://open.spotify.com/artist/1Zh8D2mb5oKdx4kudfbOlf) | [FUEGO Y FLOW](https://open.spotify.com/album/4fNITN6iH9rL3AmjlIwcLI) | 2:41 |
+| 426 | [Move](https://open.spotify.com/track/2PFrtm7qyaj3yQgSmk9TLx) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [Move](https://open.spotify.com/album/2DRV8eWjlwWoEfeZlDlQlY) | 2:51 |
+| 427 | [Costa Rica](https://open.spotify.com/track/4qhXTUAOnYgpdH0fppPwOM) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Costa Rica](https://open.spotify.com/album/2rajpnbcWikhG6gMEvXVdB) | 4:24 |
+| 428 | [That Booty my lady.](https://open.spotify.com/track/4YP2lr6J6hKI6pO9Q1EYyM) | [Truth Signal Beats.](https://open.spotify.com/artist/23PasEXWaoZ4bTkZr9hyhf) | [That Booty my lady.](https://open.spotify.com/album/6xGEuFEksN0SBWwiHJRQKw) | 3:25 |
+| 429 | [September 1st \- Instrumental Version](https://open.spotify.com/track/0kFVihmhanzgytWCRaKEr2) | [DaMarcus VanBuren](https://open.spotify.com/artist/1cuEMktMYY9Dn4bBkjxCtb) | [VII.B.E.S \(Instrumental Versions\)](https://open.spotify.com/album/07scKbEPcpCNvOK3ryikiN) | 2:30 |
 
-Snapshot ID: `AAAev3M1IVRL1i3TZsqVadFTPky0E7qq`
+Snapshot ID: `AAAexnjzbHpfByelvCz2TG0GapNvq6SP`

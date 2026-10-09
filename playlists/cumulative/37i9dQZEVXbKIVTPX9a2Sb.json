@@ -2218,15 +2218,11 @@
         {
           "name": "Yzomandias",
           "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
         }
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 193288,
       "name": "AMAMRAD",
       "url": "https://open.spotify.com/track/23gaprHz5HF1T4ImWwTxpF"
@@ -9294,7 +9290,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -16771,24 +16767,6 @@
     },
     {
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        }
-      ],
-      "date_added": "2026-06-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129795,
-      "name": "G Party",
-      "url": "https://open.spotify.com/track/1mxbzkQiU9lmF3hC7nYOv1"
-    },
-    {
-      "album": {
         "name": "G Party / V\u0161e co chci",
         "url": "https://open.spotify.com/album/0fpV73MJQpNyQPAdQQWQbu"
       },
@@ -16804,6 +16782,24 @@
       "duration_ms": 129795,
       "name": "G Party",
       "url": "https://open.spotify.com/track/2mHPooUWrNQWl36TFYCWSw"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz"
+      },
+      "artists": [
+        {
+          "name": "Rico",
+          "url": "https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129795,
+      "name": "G Party",
+      "url": "https://open.spotify.com/track/1mxbzkQiU9lmF3hC7nYOv1"
     },
     {
       "album": {
@@ -23030,7 +23026,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
@@ -28084,7 +28080,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 110769,
       "name": "Love Them",
       "url": "https://open.spotify.com/track/1MSpOgcVfE7xYqONNJD2jE"
@@ -37882,7 +37878,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -40058,7 +40054,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 153548,
       "name": "PROBLEMA",
       "url": "https://open.spotify.com/track/7z3S0D5k9yJ3xTCbbg6icz"
@@ -48500,7 +48496,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -59184,7 +59180,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "\u017ee nechci t\u011b tady",
       "url": "https://open.spotify.com/track/1RkIp8fMQX0nSBqloHW7pM"

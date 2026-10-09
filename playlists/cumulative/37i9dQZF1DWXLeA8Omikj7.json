@@ -5572,7 +5572,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 201826,
       "name": "Echo Dissolve",
       "url": "https://open.spotify.com/track/6c2HWpuYwsuDCEalqiV4Jb"
@@ -8536,6 +8536,24 @@
       "duration_ms": 216000,
       "name": "Guerilla Project",
       "url": "https://open.spotify.com/track/4tzSk097iBjarEFpA8Z8vz"
+    },
+    {
+      "album": {
+        "name": "Half An Owl And A Full Moon Rising",
+        "url": "https://open.spotify.com/album/7bHXauY3cYMdIEuGwDKuvW"
+      },
+      "artists": [
+        {
+          "name": "Steffi",
+          "url": "https://open.spotify.com/artist/644PvPeYIyoq0n0eBP5fxG"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369250,
+      "name": "Half An Owl And A Full Moon Rising",
+      "url": "https://open.spotify.com/track/0JKlN9aw9stNFUepjUeWat"
     },
     {
       "album": {
@@ -13944,7 +13962,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 290969,
       "name": "Objetos enterrados",
       "url": "https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0"
@@ -14059,6 +14077,24 @@
     },
     {
       "album": {
+        "name": "Compass",
+        "url": "https://open.spotify.com/album/5sDyyfGYxXo8LgPWoW4Pjz"
+      },
+      "artists": [
+        {
+          "name": "Sandrien",
+          "url": "https://open.spotify.com/artist/1OhQuHtue5ufdnIbP4RpH7"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498926,
+      "name": "Of Wind, Birds & Water",
+      "url": "https://open.spotify.com/track/6CnQ5nukNusjrYJL38zmpS"
+    },
+    {
+      "album": {
         "name": "Offscreen",
         "url": "https://open.spotify.com/album/42IL2uIgYRpVZzkcjmwyZI"
       },
@@ -14114,7 +14150,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 209722,
       "name": "Ojai",
       "url": "https://open.spotify.com/track/25OzqeRhXTJahO5uiOfYtw"
@@ -15076,7 +15112,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160263,
       "name": "Pink Bape Lighter",
       "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
@@ -15466,7 +15502,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 304499,
       "name": "Prophecy At 1420 MHz",
       "url": "https://open.spotify.com/track/4CpyZQzwxCzQPiUTvlOBrn"
@@ -15878,7 +15914,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 349218,
       "name": "Reckoning",
       "url": "https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp"
@@ -16782,6 +16818,24 @@
       "duration_ms": 243374,
       "name": "Ryat",
       "url": "https://open.spotify.com/track/6MA8bZDOKnJ0s6niH7INtO"
+    },
+    {
+      "album": {
+        "name": "Ryoma (L\u00f2 Song)",
+        "url": "https://open.spotify.com/album/2CromrSa0aAChvSMsGhzfI"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491800,
+      "name": "Ryoma - L\u00f2 Song",
+      "url": "https://open.spotify.com/track/5iN2812IEaJjw87nkpgoo7"
     },
     {
       "album": {
@@ -17992,6 +18046,24 @@
       "duration_ms": 287878,
       "name": "Slow Devotion",
       "url": "https://open.spotify.com/track/3ElEx0U0P8tR4LXtCqkqyy"
+    },
+    {
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/4JzaNFwJjOtZ22MO8RiIv5"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Loveless",
+          "url": "https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274303,
+      "name": "Slow rise",
+      "url": "https://open.spotify.com/track/1M97AwHG9QJIyJpXcfB7fO"
     },
     {
       "album": {
@@ -21069,6 +21141,24 @@
     },
     {
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/6ANEFyJt1MhW1uQSKhXZCV"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272888,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/0E7dPlV79iZOFJDB077rCG"
+    },
+    {
+      "album": {
         "name": "Together In Static",
         "url": "https://open.spotify.com/album/2UEzaEym36kNtiNDi7b1mR"
       },
@@ -23296,7 +23386,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160000,
       "name": "Yu",
       "url": "https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q"

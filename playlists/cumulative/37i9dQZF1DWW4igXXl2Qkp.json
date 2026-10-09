@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: Wxoda",
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: Raud",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -3675,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "GIRLY POP",
+        "url": "https://open.spotify.com/album/6YAVVj3nrnhhN96rz91D0Z"
+      },
+      "artists": [
+        {
+          "name": "Bby Kell",
+          "url": "https://open.spotify.com/artist/5WRWYkfhIvW4PULAcT4Owq"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89208,
+      "name": "baby K",
+      "url": "https://open.spotify.com/track/64ymc1luMokPgd8PZ1lI4F"
+    },
+    {
+      "album": {
         "name": "Baby Shark",
         "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
       },
@@ -6584,6 +6602,24 @@
       "duration_ms": 153890,
       "name": "Boosie Flow",
       "url": "https://open.spotify.com/track/4s6ZhyFcY18Pw3R6vuga4Q"
+    },
+    {
+      "album": {
+        "name": "Boppin It",
+        "url": "https://open.spotify.com/album/4JKtwJazIpz4qKZPcgu0Cw"
+      },
+      "artists": [
+        {
+          "name": "Raud",
+          "url": "https://open.spotify.com/artist/0BgRotGO2vUPyxguQlXsR7"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196848,
+      "name": "Boppin It",
+      "url": "https://open.spotify.com/track/2wWfoGuXPRsLHpoCdhz8xB"
     },
     {
       "album": {
@@ -12926,7 +12962,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 135920,
       "name": "EOTD",
       "url": "https://open.spotify.com/track/7tjyrCQXM5F3zbptkdIxha"
@@ -13464,6 +13500,24 @@
       "duration_ms": 145057,
       "name": "Face no Book",
       "url": "https://open.spotify.com/track/61F7oyUltrI5dMVw3IvbQT"
+    },
+    {
+      "album": {
+        "name": "FACES",
+        "url": "https://open.spotify.com/album/599afOlChYpnM08PHkcVyW"
+      },
+      "artists": [
+        {
+          "name": "Skino",
+          "url": "https://open.spotify.com/artist/1mekq0jjS5Dq1GQZ3AHux8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114826,
+      "name": "FACES",
+      "url": "https://open.spotify.com/track/6YjA0gYTw4TXjGUu9QsCxa"
     },
     {
       "album": {
@@ -15860,7 +15914,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 165298,
       "name": "Geeked Shit - remix",
       "url": "https://open.spotify.com/track/0zRkeslMkmS7y4RNCCwIgH"
@@ -19772,6 +19826,24 @@
       "duration_ms": 132412,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5lTqCImHbc7CyDYfMkyyVd"
+    },
+    {
+      "album": {
+        "name": "I KNOW",
+        "url": "https://open.spotify.com/album/35CBMu9UySkfgmfzylznla"
+      },
+      "artists": [
+        {
+          "name": "Seph Pablo",
+          "url": "https://open.spotify.com/artist/6Gwutl16MwnUFO9JKZ59pX"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109598,
+      "name": "I KNOW",
+      "url": "https://open.spotify.com/track/4MwsSRDksdzL28a2AlN048"
     },
     {
       "album": {
@@ -23909,6 +23981,28 @@
     },
     {
       "album": {
+        "name": "LIKE DIS",
+        "url": "https://open.spotify.com/album/4SQaR6y8fb2VCVCbjgGN3H"
+      },
+      "artists": [
+        {
+          "name": "Paris Price",
+          "url": "https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7"
+        },
+        {
+          "name": "Kayo",
+          "url": "https://open.spotify.com/artist/4ko9m2pKiIWyajOKSfNpwS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "LIKE DIS",
+      "url": "https://open.spotify.com/track/24N1XimC45vgRnZFM2iqzh"
+    },
+    {
+      "album": {
         "name": "Like I thought",
         "url": "https://open.spotify.com/album/0GAUK3frr51WqLjhlb7O8H"
       },
@@ -25736,7 +25830,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 120928,
       "name": "Mari Glock",
       "url": "https://open.spotify.com/track/4tcerjzYYVUdIcfcYfuvRa"
@@ -34010,7 +34104,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 220800,
       "name": "Que Sera",
       "url": "https://open.spotify.com/track/5ITL4jQQFHcnlkClBcVLJa"
@@ -41872,7 +41966,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 116585,
       "name": "Throw dat p$$$y",
       "url": "https://open.spotify.com/track/5M2eXmOyQxZmMU2CcRb33m"

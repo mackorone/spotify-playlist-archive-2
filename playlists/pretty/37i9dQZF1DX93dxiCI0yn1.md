@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 次世代ラッパーを発掘するオーディションプロジェクト「RAPSTAR 2026」公式プレイリスト。今年の審査員と昨年活躍したアーティストの楽曲を聴いて今シーズンに備えよう。 10月10日\(土\) 22:00 ABEMAで放送START！
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,507 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,518 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

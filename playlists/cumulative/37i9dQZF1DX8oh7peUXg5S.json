@@ -820,7 +820,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 128736,
       "name": "Aunque Ya No Soy Dos",
       "url": "https://open.spotify.com/track/1i84csZfyq4tw1B4PLEKT5"
@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "DE MOMENTO",
+        "url": "https://open.spotify.com/album/5A65LmVDvw8Qb6yQ2niqBL"
+      },
+      "artists": [
+        {
+          "name": "Depedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "DE MOMENTO",
+      "url": "https://open.spotify.com/track/36BPEKUIFzlkqbkraLzfuQ"
+    },
+    {
+      "album": {
         "name": "Romancero",
         "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
       },
@@ -1878,6 +1896,24 @@
       "duration_ms": 131999,
       "name": "Derrumbe",
       "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
+    },
+    {
+      "album": {
+        "name": "Desbocada y contenida",
+        "url": "https://open.spotify.com/album/1dN6TAVgHJP5US3uidMFWQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Desbocada y contenida",
+      "url": "https://open.spotify.com/track/6V7l0Jl6ILDsLbqs0UAc5T"
     },
     {
       "album": {
@@ -1972,7 +2008,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 166482,
       "name": "Diablito de San Juan",
       "url": "https://open.spotify.com/track/41JcSBWA8QW2kZ5lYxrWbd"
@@ -2088,7 +2124,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
@@ -3398,7 +3434,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 208267,
       "name": "La calma",
       "url": "https://open.spotify.com/track/1eQjvqHAHX5M6Mt2aj6HES"
@@ -5580,7 +5616,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 127677,
       "name": "Olvid\u00e9 los Acordes",
       "url": "https://open.spotify.com/track/5nfE74z21F9VAdEZyq7mAv"
@@ -5984,7 +6020,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196854,
       "name": "Petirrojo",
       "url": "https://open.spotify.com/track/1VyWUvrBCAEPuFgZXxtHJ7"
@@ -6194,7 +6230,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 175764,
       "name": "Que Entre el Sol",
       "url": "https://open.spotify.com/track/1xlriKN5WZhiqIrfa8rjzG"
@@ -6242,6 +6278,24 @@
       "duration_ms": 231706,
       "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
       "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
+    },
+    {
+      "album": {
+        "name": "Quemas (2026)",
+        "url": "https://open.spotify.com/album/7wj7LIIkWYY5vtIMtLIZHw"
+      },
+      "artists": [
+        {
+          "name": "Xoel L\u00f3pez",
+          "url": "https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167062,
+      "name": "Quemas - 2026",
+      "url": "https://open.spotify.com/track/7EKWxJ86vKdOkU4fmJ3EQI"
     },
     {
       "album": {
@@ -6517,6 +6571,24 @@
     },
     {
       "album": {
+        "name": "Camila / Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+        "url": "https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358625,
+      "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+      "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
+    },
+    {
+      "album": {
         "name": "Raz\u00f3n de Vivir",
         "url": "https://open.spotify.com/album/7BewtSiQFc2G8bKOe1kuSj"
       },
@@ -6646,7 +6718,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 203896,
       "name": "Rug\u00edo de Sentir",
       "url": "https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs"
@@ -7078,7 +7150,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 249408,
       "name": "Sigo en pie",
       "url": "https://open.spotify.com/track/33CzSRBCvq3949oyRrVDV5"
@@ -7472,6 +7544,28 @@
       "duration_ms": 159653,
       "name": "Tal Vez Te Acuerdes de M\u00ed (feat. Nina) - Sesiones Moraima",
       "url": "https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8"
+    },
+    {
+      "album": {
+        "name": "Tanto para dar",
+        "url": "https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp"
+      },
+      "artists": [
+        {
+          "name": "Meritxell Neddermann",
+          "url": "https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174225,
+      "name": "Tanto para dar",
+      "url": "https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0"
     },
     {
       "album": {
@@ -7951,6 +8045,46 @@
     },
     {
       "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/5cHSBtvvXZeJzOs6nKVQnq"
+      },
+      "artists": [
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/7HPZopT5gwiSC8J4MXsxWA"
+    },
+    {
+      "album": {
+        "name": "T\u00da Y YO",
+        "url": "https://open.spotify.com/album/6TKP2GcRy5oHvwTz9JvDU9"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        },
+        {
+          "name": "Mateo Latorre",
+          "url": "https://open.spotify.com/artist/4uPTJCn39hxqi4LSXZCld5"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181252,
+      "name": "T\u00da Y YO",
+      "url": "https://open.spotify.com/track/1KiuTIseJQUVj8QkhfcyqN"
+    },
+    {
+      "album": {
         "name": "El Viaje",
         "url": "https://open.spotify.com/album/0bvqm9JJHdSoQmNakHR948"
       },
@@ -8028,6 +8162,24 @@
       "duration_ms": 201209,
       "name": "Un D\u00eda De Estos",
       "url": "https://open.spotify.com/track/6ZmJgYJp4agUqbcPVPCTv9"
+    },
+    {
+      "album": {
+        "name": "Un Idiota en el Tejado",
+        "url": "https://open.spotify.com/album/4PYqbbPvcOXoJqmkG4cduA"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "Un Idiota en el Tejado",
+      "url": "https://open.spotify.com/track/7Hk1PZpVP5IFrmAhEcpjpK"
     },
     {
       "album": {
@@ -8694,7 +8846,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 215232,
       "name": "\u00bfQui\u00e9n Escuchar\u00e1 Mi Canto? - Con Rozal\u00e9n",
       "url": "https://open.spotify.com/track/2HZu8xCSU8xX5nS1gC0rtA"

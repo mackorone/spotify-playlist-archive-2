@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "a little rap, a little pop, a little country... sometimes. BabyChiefDoIt on the cover.",
+  "description": "a little rap, a little pop, a little country... sometimes. brakence on the cover.",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -6683,6 +6683,24 @@
     },
     {
       "album": {
+        "name": "HONEYMOON NIGHT",
+        "url": "https://open.spotify.com/album/3fUva1Oq4K38WJKDA6RbNl"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198904,
+      "name": "HONEYMOON NIGHT",
+      "url": "https://open.spotify.com/track/5qlaVYDcab5jX9CXTZQW32"
+    },
+    {
+      "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
       },
@@ -7588,6 +7606,24 @@
       "duration_ms": 189309,
       "name": "IMPATIENT",
       "url": "https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k"
+    },
+    {
+      "album": {
+        "name": "IMPULSIVE",
+        "url": "https://open.spotify.com/album/3ywEQ1qz7ZjehBOSAOPieP"
+      },
+      "artists": [
+        {
+          "name": "Thekidszn",
+          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "IMPULSIVE",
+      "url": "https://open.spotify.com/track/6HkdUz90Kmcxr0cprI10UL"
     },
     {
       "album": {
@@ -9332,7 +9368,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 180000,
       "name": "Mention Me - From The Movie \"GOAT\"",
       "url": "https://open.spotify.com/track/3rpA5iIZtlhMOeHUo1GNvq"
@@ -12136,7 +12172,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"

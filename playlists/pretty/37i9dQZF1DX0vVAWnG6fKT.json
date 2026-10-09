@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 149658,
+  "num_followers": 149660,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
         "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 146733,
       "name": "Straighten Up And Fly Right",
       "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Columbia Country Classics Volume 2: Honky Tonk Heroes",
-        "url": "https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L"
-      },
-      "artists": [
-        {
-          "name": "Floyd Tillman",
-          "url": "https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "I Love You So Much It Hurts",
-      "url": "https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 167826,
       "name": "Take an Old Cold 'Tater (and Wait)",
       "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "Guitar Legend: The RCA Years",
+        "url": "https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0"
+      },
+      "artists": [
+        {
+          "name": "Chet Atkins & His Colorado Mountain Boys",
+          "url": "https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Canned Heat - Buddha Remastered - 2000",
+      "url": "https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Guitar Legend: The RCA Years",
-        "url": "https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0"
+        "name": "Columbia Country Classics Volume 2: Honky Tonk Heroes",
+        "url": "https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L"
       },
       "artists": [
         {
-          "name": "Chet Atkins & His Colorado Mountain Boys",
-          "url": "https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1"
+          "name": "Floyd Tillman",
+          "url": "https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn"
         }
       ],
-      "duration_ms": 152893,
-      "name": "Canned Heat - Buddha Remastered - 2000",
-      "url": "https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE"
+      "duration_ms": 161933,
+      "name": "I Love You So Much It Hurts",
+      "url": "https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "Heavy Traffic Ahead",
-      "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "The Columbia Singles Collection (1949-1964)",
         "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Presenting Patsy Montana",
-        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },
       "artists": [
         {
-          "name": "Patsy Montana",
-          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
         }
       ],
-      "duration_ms": 174053,
-      "name": "My Poncho Pony",
-      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
+      "duration_ms": 171466,
+      "name": "Heavy Traffic Ahead",
+      "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -872,9 +856,25 @@
           "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 128199,
-      "name": "My Window Faces the South",
-      "url": "https://open.spotify.com/track/4SAvq8Fem0hqUlkP0dxXQ1"
+      "duration_ms": 173693,
+      "name": "Cherokee Maiden",
+      "url": "https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "Presenting Patsy Montana",
+        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
+      },
+      "artists": [
+        {
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "My Poncho Pony",
+      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
+        "name": "Presenting Al Dexter",
+        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
+      },
+      "artists": [
+        {
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+        }
+      ],
+      "duration_ms": 145738,
+      "name": "You May Be Sorry",
+      "url": "https://open.spotify.com/track/4nHwLv2K7Ahy9AyqByOTjR"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
         "name": "The Legend of Merle Travis",
         "url": "https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 130506,
       "name": "Steel Guitar Rag",
       "url": "https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
-        "name": "Pistol Packin' Mama - The Best Of Al Dexter",
-        "url": "https://open.spotify.com/album/3gHhom0cyrNyr2n1bReRqS"
-      },
-      "artists": [
-        {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
-        }
-      ],
-      "duration_ms": 163056,
-      "name": "Too Late To Worry, Too Blue To Cry",
-      "url": "https://open.spotify.com/track/0a30xoC1ElyAD6w8k1ydFm"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
+        "name": "Pistol Packin' Mama - The Best Of Al Dexter",
+        "url": "https://open.spotify.com/album/3gHhom0cyrNyr2n1bReRqS"
+      },
+      "artists": [
+        {
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+        }
+      ],
+      "duration_ms": 163056,
+      "name": "Too Late To Worry, Too Blue To Cry",
+      "url": "https://open.spotify.com/track/0a30xoC1ElyAD6w8k1ydFm"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
         "name": "The Late Great - 14 Greatest Hits",
         "url": "https://open.spotify.com/album/3ADMy0SgWASJ7tRcWimwl1"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 153373,
       "name": "Room Full of Roses",
       "url": "https://open.spotify.com/track/2cBvzEpULwlad4RaXbcIiw"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
-        "name": "Presenting Al Dexter",
-        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
-      },
-      "artists": [
-        {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
-        }
-      ],
-      "duration_ms": 145738,
-      "name": "You May Be Sorry",
-      "url": "https://open.spotify.com/track/4nHwLv2K7Ahy9AyqByOTjR"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Mister Western Swing",
-        "url": "https://open.spotify.com/album/18P75CloFJDcR9uQXtoL2A"
-      },
-      "artists": [
-        {
-          "name": "Leon Mcauliff And His Cimarron Boys",
-          "url": "https://open.spotify.com/artist/3t65o10yzAAQTTk7IoopK2"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Panhandle Rag",
-      "url": "https://open.spotify.com/track/5gWpIqRE0H93DQxViKGbJ7"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "Pistol Packin' Mama - The Best of Al Dexter",
         "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 169795,
       "name": "Wine, Women and Song",
       "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "Mister Western Swing",
+        "url": "https://open.spotify.com/album/18P75CloFJDcR9uQXtoL2A"
+      },
+      "artists": [
+        {
+          "name": "Leon Mcauliff And His Cimarron Boys",
+          "url": "https://open.spotify.com/artist/3t65o10yzAAQTTk7IoopK2"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Panhandle Rag",
+      "url": "https://open.spotify.com/track/5gWpIqRE0H93DQxViKGbJ7"
     },
     {
       "added_at": "2026-02-11 22:46:25",

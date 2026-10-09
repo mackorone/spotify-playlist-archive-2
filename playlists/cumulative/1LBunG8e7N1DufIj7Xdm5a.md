@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,861 songs - 10 day 23 hr 37 min
+4,865 songs - 10 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1472,6 +1472,7 @@
 | [Estate Senza Fine](https://open.spotify.com/track/5PoRCTVy71ZktLKIfELZ57) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 1:49 | 2025-09-12 |  |
 | [Estranei](https://open.spotify.com/track/1FeKKIwmQ1sS4DPniLLEaT) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [Estranei](https://open.spotify.com/album/1skmozP6QLcI0OiMJSv4OZ) | 2:54 | 2026-10-08 |  |
 | [Estranged \- Demo](https://open.spotify.com/track/2vzD0wKcG68wJOrhQE4BEM) | [Blissen](https://open.spotify.com/artist/1L2cL2b8Q3dOYhqOiFISYi) | [Estranged \(Demo\)](https://open.spotify.com/album/6UMINyoC0ZVlJZhouWHUXI) | 3:33 | 2025-05-20 |  |
+| [Estrelas me Seguem](https://open.spotify.com/track/73bNgajn2fdmaOehmhl5OX) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [A Short Message To You](https://open.spotify.com/album/1eLX1dezUn6SmU0MUUYG5j) | 2:07 | 2026-10-08 |  |
 | [Estrella de luna](https://open.spotify.com/track/5NjudslnouGdwlYfJFyTU6) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:29 | 2026-03-15 |  |
 | [Eternal Fever](https://open.spotify.com/track/4DPj9E7QNoh0TLj48fCyE1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:02 | 2025-09-16 |  |
 | [Eternal Flame](https://open.spotify.com/track/793zMrBCSBOYgD7JhYB97f) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [Everything](https://open.spotify.com/album/7oGKY090fvrI6pgFW64kXS) | 3:55 | 2026-03-15 |  |
@@ -2003,6 +2004,7 @@
 | [I Am](https://open.spotify.com/track/5FRgx1KZYq5AUsebojppwz) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 3:47 | 2025-03-30 |  |
 | [I Am Me](https://open.spotify.com/track/5Fa4b7WhQMAlx2XhOnqBch) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [I Am Me](https://open.spotify.com/album/1UIacRZ7DmpLS6DWp38Mgb) | 3:17 | 2025-09-26 |  |
 | [I Am Michael Fagan](https://open.spotify.com/track/1HETRjENhnUO0tku8mz52Z) | [The C33s](https://open.spotify.com/artist/3ez4KxW1kFC6XlXfMgOYH2) | [I Am Michael Fagan](https://open.spotify.com/album/0w4hogLcI2zFkJ5dBzmETC) | 2:40 | 2025-11-05 |  |
+| [I BE ME](https://open.spotify.com/track/0TwWsBOMgc9G7tlsNnDdvU) | [boardwalkmuscle](https://open.spotify.com/artist/68IuRxKkIWIQ19PjJhKupR), [NBA YoungBoy](https://open.spotify.com/artist/1Dy7HmdCDvaHZOOCO5mJsu) | [I BE ME](https://open.spotify.com/album/3q1NRW0EqYlvOhwHIjalDG) | 4:28 | 2026-10-08 |  |
 | [I Call You Out \- Remix Radio Edit](https://open.spotify.com/track/2qVTr0zS7xjwECF9gYIjod) | [Roni Sadgan](https://open.spotify.com/artist/6P2EMT02pMK8xCpPamli1p), [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2), [Andrew Niman](https://open.spotify.com/artist/3rPvscmqALj5qgbgZvsaQT), [Mou5EmO](https://open.spotify.com/artist/47lc0URdetebX2eTcY4Qd9) | [I Call You Out Remixes](https://open.spotify.com/album/0oIVSMp24n4UPUiKC3vJst) | 4:31 | 2026-07-20 |  |
 | [I Can't Win](https://open.spotify.com/track/7kFuIcU2JkwY4WoY9Eytup) | [Gabi Garbutt](https://open.spotify.com/artist/1zdPDrnGi5pv0U8f8kFEmi) | [Cockerel](https://open.spotify.com/album/7K4IwPHd9KkN7T0PGvT7zQ) | 4:21 | 2025-11-05 |  |
 | [I Choose to Live](https://open.spotify.com/track/4hFfzteMtbt3HtWft1pZ50) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [I Choose to Live](https://open.spotify.com/album/0cdulu3FpKkcN5oBYftA1s) | 3:48 | 2025-03-20 |  |
@@ -2408,6 +2410,7 @@
 | [Lifeline](https://open.spotify.com/track/1oRFOjU1bsCO4BlgqpoI5w) | [HOLYMAMI](https://open.spotify.com/artist/1GTxrZqye2o8lcovuaygFe) | [Lifeline](https://open.spotify.com/album/6SZxtcWdtM7WGZWLJfqGUs) | 2:52 | 2025-08-18 | 2026-07-29 |
 | [Lift Me Higher](https://open.spotify.com/track/6QSSJsS0gOYHoZJqMgI6S6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 3:29 | 2025-09-19 |  |
 | [Lift Me Higher \(another\)](https://open.spotify.com/track/1MgiZ3RuSXeANikoEqN6lM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 3:02 | 2025-09-19 |  |
+| [Light Air](https://open.spotify.com/track/46xsmhel32WEYMPdHl63Lu) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [1994](https://open.spotify.com/album/2wfuupUkYaanOecKigtulu) | 3:56 | 2026-10-08 |  |
 | [Light and Shade](https://open.spotify.com/track/7sa5gI0Y7esnxauSo8GyAz) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Light and Shade](https://open.spotify.com/album/4ivcLwXDhTVKPoCTxqBNUe) | 3:27 | 2025-10-16 |  |
 | [Lights](https://open.spotify.com/track/3GhIso27w22Hj1SegG2yMF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [K\-Pop in English](https://open.spotify.com/album/6jDpOM9wGvIhzz5DNLamVM) | 2:28 | 2025-05-27 |  |
 | [Lights \(another\)](https://open.spotify.com/track/0pIeCkzIixsPWKnrmf8715) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [K\-Pop in English](https://open.spotify.com/album/6jDpOM9wGvIhzz5DNLamVM) | 2:51 | 2025-09-17 |  |
@@ -3681,6 +3684,7 @@
 | [Shiny Daydreams \(another\)](https://open.spotify.com/track/1c2lUtWLEN8u83esZX9WMq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Groovy pop](https://open.spotify.com/album/2fxdt8WQaSS5xHYoYcuVk0) | 4:00 | 2025-09-17 |  |
 | [Shiny Lights](https://open.spotify.com/track/3cOymZkuua7XyKZU02aPqc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Disco Pop](https://open.spotify.com/album/3YPMZbyyiuAblLkyUMiixm) | 3:07 | 2025-09-19 |  |
 | [Shiny Lights \(another\)](https://open.spotify.com/track/0Omm52IPL0bjIQrzZWyymw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Disco Pop](https://open.spotify.com/album/3YPMZbyyiuAblLkyUMiixm) | 2:26 | 2025-09-19 |  |
+| [Shooting Star](https://open.spotify.com/track/649guyZMWfHWo1DstGQaWs) | [Albie Tarr](https://open.spotify.com/artist/0x9qBvSIB4OYISgA2Xyfdx) | [Shooting Star](https://open.spotify.com/album/1TwTx5GYymtmt7uLEM2YOd) | 3:37 | 2026-10-08 |  |
 | [Shotgun Shell Breakfast](https://open.spotify.com/track/1yUa1cu6yUlogx6pSYafmz) | [Shooby Alexander](https://open.spotify.com/artist/2OJPVD3CO35MymnTq8bZkS) | [Shotgun Shell Breakfast](https://open.spotify.com/album/3RoiAPhbbQERs2tIwNBUPX) | 2:54 | 2026-06-19 |  |
 | [Shouting Aloud](https://open.spotify.com/track/1upWPjPzqOcd6pcTy9B8oS) | [Fran Squadrito](https://open.spotify.com/artist/2FD9tfsKOSAqcuCsGGOErr) | [Shouting Aloud](https://open.spotify.com/album/72na7CDxMITNivb60N2N3C) | 3:37 | 2025-05-26 |  |
 | [Show U Da World](https://open.spotify.com/track/0BAMN2JvxrAFuXDiTlwyAh) | [BabyBoy1N3](https://open.spotify.com/artist/3I7oak9z3Ucz3zyXHkPrOh), [user00xman](https://open.spotify.com/artist/5jHEV2nmLvDyu6MwUU9ftS), [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [She Love Binx](https://open.spotify.com/album/0aT80cXiVytpfOQc27Ng9a) | 1:42 | 2025-06-23 |  |

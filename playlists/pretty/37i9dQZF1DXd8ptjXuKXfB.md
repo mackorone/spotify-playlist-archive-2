@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,233 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,245 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 37 | [GRIND](https://open.spotify.com/track/29URpEljCaPFoODyrDmuhd) | [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [GRIND](https://open.spotify.com/album/2lsK4dIcNT3eK6Z6c9E3tW) | 2:16 |
 | 38 | [Kell egy pár nap](https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Valamit Majd Kitalálok](https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1) | 3:17 |
 | 39 | [SHAKE DAT](https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV), [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [VINNER](https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc) | 2:39 |
-| 40 | [ALL NIGHT](https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [ALL NIGHT](https://open.spotify.com/album/7f6h07e7uMJ86dRRi5L1FV) | 2:24 |
-| 41 | [MIRE SZÁMÍTOTTÁL](https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 2:10 |
+| 40 | [MIRE SZÁMÍTOTTÁL](https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 2:10 |
+| 41 | [ALL NIGHT](https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [ALL NIGHT](https://open.spotify.com/album/7f6h07e7uMJ86dRRi5L1FV) | 2:24 |
 | 42 | [Deák Ferenc](https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Deák Ferenc](https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz) | 2:34 |
 | 43 | [Így sem könnyebb](https://open.spotify.com/track/4WjtNR5fqgtMSstBY3yvPN) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Valamit Majd Kitalálok](https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1) | 2:40 |
 | 44 | [NEM ÉRI MEG](https://open.spotify.com/track/3q5jY2ojaqWSruLalNfS5b) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [NEM ÉRI MEG](https://open.spotify.com/album/7tNvyky9aZqqqOIIMPfTSH) | 2:51 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 64 | [KERTES HÁZ](https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [KERTES HÁZ](https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd) | 2:19 |
 | 65 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 |
 | 66 | [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 |
-| 67 | [EMELEM A TÉTET](https://open.spotify.com/track/7IpQfpX3nNGfxlTBjB2CLl) | [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0) | [EMELEM A TÉTET](https://open.spotify.com/album/0v7us2KpvvfQV6IP1zwUDp) | 2:33 |
-| 68 | [kamera](https://open.spotify.com/track/0lFWkfW4AshK7Fz451VdWl) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [civil](https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N) | 2:42 |
+| 67 | [kamera](https://open.spotify.com/track/0lFWkfW4AshK7Fz451VdWl) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [civil](https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N) | 2:42 |
+| 68 | [EMELEM A TÉTET](https://open.spotify.com/track/7IpQfpX3nNGfxlTBjB2CLl) | [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0) | [EMELEM A TÉTET](https://open.spotify.com/album/0v7us2KpvvfQV6IP1zwUDp) | 2:33 |
 | 69 | [special 2026](https://open.spotify.com/track/0ENokHRN2tmGOFC9Jeygoa) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [special 2026](https://open.spotify.com/album/2N9fTNl951zgM3eG13ILtQ) | 1:54 |
 | 70 | [Fújj meg szél](https://open.spotify.com/track/4pWG3fl6XukJyLm349JLfS) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Suttog a szél](https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY) | 4:31 |
 | 71 | [Megcsalok veled akárkit](https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9) | [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Megcsalok veled akárkit](https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6) | 2:24 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 77 | [BULLSHIT](https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [BULLSHIT](https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW) | 2:18 |
 | 78 | [Ha bukok](https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Ha bukok](https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd) | 2:19 |
 | 79 | [Main hoe](https://open.spotify.com/track/1MXazdZm0ezYXeMsish3JZ) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Main hoe](https://open.spotify.com/album/0efK3caC1OsdoNdSc4hHqc) | 2:47 |
-| 80 | [Pesti bárdok](https://open.spotify.com/track/6GbI4lomlbCVHGfufZrjOv) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Pesti bárdok](https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8) | 5:55 |
+| 80 | [Beef](https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe) | [bongor](https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD), [Kapitány Máté](https://open.spotify.com/artist/2Z3ar2v1UZV7rR8R4qZMTn) | [EXTÁZIS](https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5) | 3:04 |
 
 Snapshot ID: `AAAAAAfqFvTGY/5ok+n8KvnhwdDfBO0m`

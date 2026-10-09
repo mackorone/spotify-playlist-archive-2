@@ -152,7 +152,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 231529,
       "name": "258",
       "url": "https://open.spotify.com/track/5phC3U5ofvJzPZMaJbCl7M"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "ABG",
       "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Ch\u00ecm S\u00e2u",
       "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 192631,
       "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
       "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 175647,
       "name": "C\u00e1 M\u1eadp Con",
       "url": "https://open.spotify.com/track/2ZaNDguKgghsZ1LRlbCZNv"
@@ -3401,6 +3401,36 @@
     },
     {
       "album": {
+        "name": "Kh\u00f3 Gi\u00e3i B\u00e0y",
+        "url": "https://open.spotify.com/album/0CrOHxMhHN5u1F3ZcbfIJ2"
+      },
+      "artists": [
+        {
+          "name": "Anh B\u1eb1ng",
+          "url": "https://open.spotify.com/artist/4GBykvsDgQheUyYel2RHZN"
+        },
+        {
+          "name": "24k.Right",
+          "url": "https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0"
+        },
+        {
+          "name": "Mason Nguyen",
+          "url": "https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31"
+        },
+        {
+          "name": "RiverDLove",
+          "url": "https://open.spotify.com/artist/6ey6TSIiVwFMvXFI2jpVGG"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Kh\u00f3 Gi\u00e3i B\u00e0y",
+      "url": "https://open.spotify.com/track/6BdG5uQlVydUEEnbGnfDn8"
+    },
+    {
+      "album": {
         "name": "Bi\u1ebft Kh\u00f4ng",
         "url": "https://open.spotify.com/album/7n2jNDLM8QfnupifxZFtoU"
       },
@@ -3670,7 +3700,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 231504,
       "name": "K\u1ebb C\u1eafp G\u1eb7p B\u00e0 Gi\u00e0 (feat. Binz)",
       "url": "https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk"
@@ -4150,7 +4180,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 152575,
       "name": "mang h\u1ebft n\u1ed7i bu\u1ed3n \u0111\u1ec3 anh \u00f4m l\u1ea5y",
       "url": "https://open.spotify.com/track/0UVrJ6Qu6LwGatdQTdD6Sa"
@@ -5102,7 +5132,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 180567,
       "name": "Nh\u1eefng Ng\u00e0y",
       "url": "https://open.spotify.com/track/4wPdNUt2SgMeobxEFceN3y"
@@ -5570,7 +5600,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 205232,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
@@ -5832,7 +5862,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 210464,
       "name": "qu\u00ean",
       "url": "https://open.spotify.com/track/0Osu09oX7LWAzmjCbKtPv8"
@@ -6124,7 +6154,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 180000,
       "name": "Sinh Nh\u1eadt C\u1ee7a Xinh Nh\u1ea5t",
       "url": "https://open.spotify.com/track/1W5kZCi3DyAwUu1flTIHdZ"
@@ -6226,7 +6256,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 169523,
       "name": "Steppa",
       "url": "https://open.spotify.com/track/4CXAWKWJYgq1KsN6Vrpdpl"
@@ -6388,7 +6418,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 141030,
       "name": "TALK TO MYSELF",
       "url": "https://open.spotify.com/track/5upBvuANFHteDvEaaoDJgR"
@@ -8070,7 +8100,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 280615,
       "name": "\u0110EN HUY\u1ec0N",
       "url": "https://open.spotify.com/track/4RremNgBNeLFvrrDNuQ87M"
@@ -8180,7 +8210,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 180163,
       "name": "\u0110\u00e1ng L\u00fd Anh N\u00ean Y\u00eau Em H\u01a1n",
       "url": "https://open.spotify.com/track/2UvqD395dhlJWO0SxHJ89n"

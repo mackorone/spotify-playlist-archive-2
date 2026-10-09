@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Manon Lisa",
+  "description": "Le meilleur des hits avec Ofenbach.",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -1905,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "album": {
         "name": "CIEL",
         "url": "https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL"
       },
@@ -2658,7 +2676,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189419,
       "name": "DJ",
       "url": "https://open.spotify.com/track/0ZFNx84bKLoCb2jx8FN2Az"
@@ -4640,7 +4658,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -5879,6 +5897,24 @@
     },
     {
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
@@ -6260,7 +6296,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 176213,
       "name": "melodrama",
       "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
@@ -7379,6 +7415,24 @@
     },
     {
       "album": {
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/3r3lR28Ybv6d5N5DPWfQ1L"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/49JeKZqejPtqJKpK7x9Ew4"
+    },
+    {
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
@@ -7530,7 +7584,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 163961,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R"
@@ -9094,7 +9148,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 156443,
       "name": "Take Me Away - French Version",
       "url": "https://open.spotify.com/track/73SraS0lQwmtbEGXUIkIQO"
@@ -9829,6 +9883,24 @@
     },
     {
       "album": {
+        "name": "Tricheur",
+        "url": "https://open.spotify.com/album/32ZKihSHtuK9M9ZHJJdqaf"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162626,
+      "name": "Tricheur",
+      "url": "https://open.spotify.com/track/1pytJFt4mxfD4sMd6qjj6U"
+    },
+    {
+      "album": {
         "name": "Triste",
         "url": "https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be"
       },
@@ -10286,7 +10358,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188320,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"

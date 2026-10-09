@@ -4579,6 +4579,28 @@
     },
     {
       "album": {
+        "name": "Everything\u2019s Changing",
+        "url": "https://open.spotify.com/album/1dIF0wRA2ZU1O6pan4HXpz"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Sharlene Hector",
+          "url": "https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196428,
+      "name": "Everything\u2019s Changing",
+      "url": "https://open.spotify.com/track/4wWOvvgnWCl0rekcIZYjK6"
+    },
+    {
+      "album": {
         "name": "Untold Business",
         "url": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO"
       },
@@ -8972,7 +8994,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 191903,
       "name": "Let's Start The Dance",
       "url": "https://open.spotify.com/track/1rXxfCI9nrQ0vAvQjmxO3x"

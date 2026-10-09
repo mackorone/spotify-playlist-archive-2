@@ -209,6 +209,28 @@
     },
     {
       "album": {
+        "name": "Aathi Iva Yarraa (From \"Scene\")",
+        "url": "https://open.spotify.com/album/1VxSYl9AQXNtw4DnjFG1QS"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Rajpriyan",
+          "url": "https://open.spotify.com/artist/3aV1xXHRwgdlbPE8bAEmOJ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187764,
+      "name": "Aathi Iva Yarraa (From \"Scene\")",
+      "url": "https://open.spotify.com/track/4evA3itYJjye3xAru81Jdv"
+    },
+    {
+      "album": {
         "name": "Ace Anthem (From \"Ace\")",
         "url": "https://open.spotify.com/album/7M4HfCk1Hj2AZAJtg2yIbr"
       },

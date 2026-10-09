@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "DEATH NOTE Original Soundtrack",
+        "url": "https://open.spotify.com/album/1lf2Ys7Ml8zfJ9vY3OdKAH"
+      },
+      "artists": [
+        {
+          "name": "Yoshihisa Hirano",
+          "url": "https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83000,
+      "name": "Kyrie",
+      "url": "https://open.spotify.com/track/4SpUOWlfIzUmYYpnGN1aPp"
+    },
+    {
+      "album": {
         "name": "Genshin Impact - Fountain of Belleau (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/4UwFbGhMZA4LZqqAnt8LCB"
       },
@@ -1116,6 +1134,32 @@
       "duration_ms": 91760,
       "name": "Swan Lake, Op. 20: XIII. Dance of the Little Swans. Allegro moderato",
       "url": "https://open.spotify.com/track/7hucTf89u7zdLOSto9JJvP"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker",
+        "url": "https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306533,
+      "name": "Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 14a, Pas de deux. Andante maestoso",
+      "url": "https://open.spotify.com/track/2oUX4i8ByoaDrHHz9z5Bga"
     },
     {
       "album": {

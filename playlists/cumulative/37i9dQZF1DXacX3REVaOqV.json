@@ -7747,6 +7747,28 @@
     },
     {
       "album": {
+        "name": "I Want You (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/4JQWcP3E46ajseeMViMY7G"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Allysha Joy",
+          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270967,
+      "name": "I Want You (DJ-Kicks)",
+      "url": "https://open.spotify.com/track/4AzzI4aJxY03CyJf5JZTvi"
+    },
+    {
+      "album": {
         "name": "I Want Your Love",
         "url": "https://open.spotify.com/album/4aA0YfSnvcwgMwVN6pPRpa"
       },
@@ -11143,6 +11165,24 @@
     },
     {
       "album": {
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4Xrhh1KIHnF75euIaB5R2G"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/1usXazJyIWEURYCP0IYtah"
+    },
+    {
+      "album": {
         "name": "When the Lights Go (Deluxe)",
         "url": "https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf"
       },
@@ -12150,7 +12190,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 292330,
       "name": "PARTY NEVER STOPS",
       "url": "https://open.spotify.com/track/5aFi8YUPnBS7Z32QtbnIbE"
@@ -13828,7 +13868,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 165120,
       "name": "Shivers (feat. Coco Nancy)",
       "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"

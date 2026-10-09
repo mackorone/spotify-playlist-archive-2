@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 125768,
+  "num_followers": 125795,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Blinded",
+        "url": "https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 207969,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Monday Morning Faith (Acoustic)",
         "url": "https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Be Glad (Live)",
-        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 533500,
-      "name": "Be Glad - Live",
-      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Sun Rises",
         "url": "https://open.spotify.com/album/6Has46aL8NIuwJcanqM7Ha"
       },
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Blinded",
-        "url": "https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc"
+        "name": "Be Glad (Live)",
+        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 207969,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP"
+      "duration_ms": 533500,
+      "name": "Be Glad - Live",
+      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "The Morning",
         "url": "https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 179244,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "First Light / Last Word",
-        "url": "https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        },
-        {
-          "name": "Ben Cruse",
-          "url": "https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf"
-        }
-      ],
-      "duration_ms": 333367,
-      "name": "Morning Psalm (feat. Ben Cruse)",
-      "url": "https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Get Up: The Remixes",
         "url": "https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe"
       },
@@ -1139,18 +1119,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Hallow",
-        "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
+        "name": "First Light / Last Word",
+        "url": "https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII"
       },
       "artists": [
         {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        },
+        {
+          "name": "Ben Cruse",
+          "url": "https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf"
         }
       ],
-      "duration_ms": 158608,
-      "name": "Hallow",
-      "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
+      "duration_ms": 333367,
+      "name": "Morning Psalm (feat. Ben Cruse)",
+      "url": "https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1171,6 +1155,22 @@
       "duration_ms": 196862,
       "name": "So Blessed",
       "url": "https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Hallow",
+        "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 158608,
+      "name": "Hallow",
+      "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
     },
     {
       "added_at": "2026-07-29 15:45:01",

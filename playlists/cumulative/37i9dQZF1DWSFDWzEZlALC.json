@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Ivo Martin",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Raum27",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 256017,
       "name": "Alles Muss Raus",
       "url": "https://open.spotify.com/track/1FNLtsYr6n2wVm7Btv9PUP"
@@ -2264,6 +2264,24 @@
       "duration_ms": 152324,
       "name": "Amanda",
       "url": "https://open.spotify.com/track/5jyRLWQaULXTKZcFIMlmmt"
+    },
+    {
+      "album": {
+        "name": "ambivalent",
+        "url": "https://open.spotify.com/album/1Y86OCfhthlTxQN8q2Fj61"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "ambivalent",
+      "url": "https://open.spotify.com/track/7gDZP9lg3moTaYvBDvDJ8P"
     },
     {
       "album": {
@@ -3594,6 +3612,24 @@
       "duration_ms": 220000,
       "name": "Balancieren",
       "url": "https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8"
+    },
+    {
+      "album": {
+        "name": "Bali Boi",
+        "url": "https://open.spotify.com/album/1CS0gBehDFCmEkNrupUXf4"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150023,
+      "name": "Bali Boi",
+      "url": "https://open.spotify.com/track/0KgtaX0W8X8qPxP59wea2F"
     },
     {
       "album": {
@@ -5964,7 +6000,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170987,
       "name": "crocodile tears",
       "url": "https://open.spotify.com/track/7KLVwQ5aDg5V2SI6cknRrn"
@@ -10406,7 +10442,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 148544,
       "name": "fehler nach fehler",
       "url": "https://open.spotify.com/track/71i9gwYxoMOrj4fQ1nD4pw"
@@ -10808,6 +10844,28 @@
       "duration_ms": 121461,
       "name": "Flaschenpost",
       "url": "https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw"
+    },
+    {
+      "album": {
+        "name": "Flieder",
+        "url": "https://open.spotify.com/album/1l7gp5dPiIGq2ORcvRbMcv"
+      },
+      "artists": [
+        {
+          "name": "Ketzberg",
+          "url": "https://open.spotify.com/artist/0d3hTwGrBcFFVknmesFObY"
+        },
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134222,
+      "name": "Flieder",
+      "url": "https://open.spotify.com/track/15hucx8JkjGEJB45xwb7i0"
     },
     {
       "album": {
@@ -18211,6 +18269,24 @@
     },
     {
       "album": {
+        "name": "Solang die Sonne scheint",
+        "url": "https://open.spotify.com/album/2kj9h8Ity53px6aOoDfczS"
+      },
+      "artists": [
+        {
+          "name": "Kosta",
+          "url": "https://open.spotify.com/artist/1xuEncO5GPghuggYpT74pC"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144808,
+      "name": "Kiezkneipenblond",
+      "url": "https://open.spotify.com/track/2kOgRD5yEM2rDsjkInXw9t"
+    },
+    {
+      "album": {
         "name": "Kind",
         "url": "https://open.spotify.com/album/5trcQO9w0S8auaknT2zFTI"
       },
@@ -19306,7 +19382,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 184545,
       "name": "Lamia",
       "url": "https://open.spotify.com/track/4P6y5weDdwdXOkqD1FDLyT"
@@ -19520,7 +19596,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 146134,
       "name": "Lass los (wenn du musst)",
       "url": "https://open.spotify.com/track/0NVMXZNNgwa3boKmiMJ5d0"
@@ -19560,7 +19636,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 173669,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/08kPU1nRw2TFkqxmFFh0IL"
@@ -20958,7 +21034,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 145500,
       "name": "luisa schweig! (bitte)",
       "url": "https://open.spotify.com/track/4cxGhmSJt9gdiMWINsUs1B"
@@ -21734,7 +21810,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 182720,
       "name": "Meer",
       "url": "https://open.spotify.com/track/2G40wtkEKNzDiXocNvDTYH"
@@ -22995,6 +23071,24 @@
     },
     {
       "album": {
+        "name": "Nachgeschmack",
+        "url": "https://open.spotify.com/album/3jAzCv9K4nuQpLSqSHfI1S"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Nachgeschmack",
+      "url": "https://open.spotify.com/track/0S15EgLEle4KhJvHce5Bls"
+    },
+    {
+      "album": {
         "name": "nachmittagsverkehr",
         "url": "https://open.spotify.com/album/6PbSf0u1cnUA52Nttpsc9M"
       },
@@ -23384,6 +23478,24 @@
       "duration_ms": 183320,
       "name": "Nichts gegen dich",
       "url": "https://open.spotify.com/track/7CZyvxPwTO3pVvVHNw2qlP"
+    },
+    {
+      "album": {
+        "name": "Nichts ist f\u00fcr immer",
+        "url": "https://open.spotify.com/album/3if8ExXO7UOHQ1qf38bRj9"
+      },
+      "artists": [
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137320,
+      "name": "Nichts ist f\u00fcr immer",
+      "url": "https://open.spotify.com/track/6YmrYpOIHC65Qb8PtLc7HO"
     },
     {
       "album": {
@@ -24612,7 +24724,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 110646,
       "name": "Oma",
       "url": "https://open.spotify.com/track/0yLJ87t5QJAaYXilo0vi04"
@@ -26660,7 +26772,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 198076,
       "name": "Roter Faden",
       "url": "https://open.spotify.com/track/4o7GbCUuZuVaqsoWLgW8lk"
@@ -27886,7 +27998,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 128039,
       "name": "Sch\u00f6ne Dinge",
       "url": "https://open.spotify.com/track/09RGNVNIZxz465MyuzNBUs"
@@ -31583,6 +31695,42 @@
     },
     {
       "album": {
+        "name": "Fragmente",
+        "url": "https://open.spotify.com/album/34saAcCkHEJ3A25JpDxgRm"
+      },
+      "artists": [
+        {
+          "name": "laela",
+          "url": "https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/0H5hye7VY1TE4XnvzwUf68"
+    },
+    {
+      "album": {
+        "name": "SHARAKTAH",
+        "url": "https://open.spotify.com/album/71c0iGzjoQCNUvrraR0aS8"
+      },
+      "artists": [
+        {
+          "name": "Sharaktah",
+          "url": "https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/60FmAiDXA1pTM4w7lfvu8U"
+    },
+    {
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -32402,6 +32550,24 @@
       "duration_ms": 171260,
       "name": "Universum gro\u00df",
       "url": "https://open.spotify.com/track/1YSL2Q8PYtVeKaH0TEnMqR"
+    },
+    {
+      "album": {
+        "name": "unperfekt",
+        "url": "https://open.spotify.com/album/5SPv8lGsvszmGjhaPRy9EY"
+      },
+      "artists": [
+        {
+          "name": "BRUNKE",
+          "url": "https://open.spotify.com/artist/5wkIrkK9SrKKa1Ki64wIXy"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149055,
+      "name": "unperfekt",
+      "url": "https://open.spotify.com/track/5hOYOpPaZ0sfscHAV3NTZm"
     },
     {
       "album": {
@@ -33833,6 +33999,24 @@
     },
     {
       "album": {
+        "name": "wann hast du zeit?",
+        "url": "https://open.spotify.com/album/5aC7qsRrqXW8ELbtbVcEFb"
+      },
+      "artists": [
+        {
+          "name": "SYDOW",
+          "url": "https://open.spotify.com/artist/5mbkFxQCZwbv7p5h2S5GVl"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148736,
+      "name": "wann hast du zeit?",
+      "url": "https://open.spotify.com/track/0fvAYtVN0yyfnLhXzPWWnC"
+    },
+    {
+      "album": {
         "name": "Wann trennt ihr euch",
         "url": "https://open.spotify.com/album/3DgfEGL7UW6cJZEwYZV2Qc"
       },
@@ -33848,6 +34032,24 @@
       "duration_ms": 186960,
       "name": "Wann trennt ihr euch",
       "url": "https://open.spotify.com/track/4SIWTBspOcTt71kRYA87td"
+    },
+    {
+      "album": {
+        "name": "War das schon alles",
+        "url": "https://open.spotify.com/album/5idGQyDVxHrJgPa9XQ3AuK"
+      },
+      "artists": [
+        {
+          "name": "yara",
+          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171570,
+      "name": "War das schon alles",
+      "url": "https://open.spotify.com/track/0Vms499FZPiBQOtjUCOPCH"
     },
     {
       "album": {
@@ -34710,6 +34912,24 @@
       "duration_ms": 133750,
       "name": "Weniger am Meer",
       "url": "https://open.spotify.com/track/5IQMCyGdG4eJjEk2shPsL8"
+    },
+    {
+      "album": {
+        "name": "wenigstens f\u00fcr jetzt",
+        "url": "https://open.spotify.com/album/5Pq4onkgUufE1MH3PAXQjH"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "wenigstens f\u00fcr jetzt",
+      "url": "https://open.spotify.com/track/0pbdMK8Pix2NfRSkbTVZ72"
     },
     {
       "album": {
@@ -36052,7 +36272,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 125000,
       "name": "Wo ist mein Limit",
       "url": "https://open.spotify.com/track/6sa9sJyYl7F56irJaMT6B9"

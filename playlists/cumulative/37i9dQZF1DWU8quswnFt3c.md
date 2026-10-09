@@ -4,7 +4,7 @@
 
 > Listen to women at full volume with Majo Aguilar from Mexico.
 
-3,104 songs - 7 day 3 hr 44 min
+3,105 songs - 7 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 | 2023-11-29 | 2024-01-11 |
 | [Amok](https://open.spotify.com/track/41fl1aHm371uXzcWVQEBJr) | [Amber Broos](https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz) | [Amok](https://open.spotify.com/album/7mUh92qMoAmLccin67zYtr) | 4:42 | 2023-07-05 | 2023-08-03 |
 | [Amor Azar](https://open.spotify.com/track/0utCRix8bmtLLhMSItgE72) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Lucia Fumero](https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ) | [Rueda Eterna](https://open.spotify.com/album/60upWGNYp7K9cllRlT8UJT) | 2:42 | 2026-10-08 |  |
-| [amor con coco](https://open.spotify.com/track/7s0D5cHFmgwKPqv8Bzf4Ia) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [amor con coco](https://open.spotify.com/album/09stTRWAeegzwtavBVXjD6) | 3:23 | 2026-10-08 |  |
+| [amor con coco](https://open.spotify.com/track/7s0D5cHFmgwKPqv8Bzf4Ia) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [amor con coco](https://open.spotify.com/album/09stTRWAeegzwtavBVXjD6) | 3:23 | 2026-10-08 | 2026-10-09 |
 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 | 2025-02-19 | 2025-04-03 |
 | [Amour Propre](https://open.spotify.com/track/0YviyT90HZHpGqLQDfif2b) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 3:29 | 2026-05-06 | 2026-07-02 |
 | [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 | 2022-02-02 | 2022-03-09 |
@@ -3039,6 +3039,7 @@
 | [外婆橋](https://open.spotify.com/track/1fZoJB9tee2LLp1wIa37jG) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [外婆橋](https://open.spotify.com/album/5HqV4KGoIXXvuTQMrtWKKm) | 6:05 | 2022-09-07 | 2022-10-05 |
 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 | 2023-07-05 | 2023-08-03 |
 | [失眠](https://open.spotify.com/track/2vPvqW9oZVLdb4l7NXOQSp) | [Suki Low](https://open.spotify.com/artist/5ZK1YCasWVI9DVQtxLRnYD) | [Ladies Night](https://open.spotify.com/album/2lUeeTjyDm6h2YOCR9OHIn) | 3:31 | 2026-02-04 | 2026-03-20 |
+| [好鍾意！](https://open.spotify.com/track/7EiOKCZaPnIyQuvD7T84T1) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [好鍾意！](https://open.spotify.com/album/7LsMpEveA8Ak8TazJdUmIs) | 3:10 | 2026-10-08 |  |
 | [如果每天都可以 happy happy 誰想要sad:\)\)](https://open.spotify.com/track/5u6xwrIwh9cPW9VXCODU7v) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 4:28 | 2025-12-03 | 2026-02-06 |
 | [威廉](https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [威廉](https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t) | 5:05 | 2023-11-08 | 2023-11-30 |
 | [少年](https://open.spotify.com/track/6kY3RfueR0KIb2rTM7SRJU) | [Sandee Chan](https://open.spotify.com/artist/50DjkxUjr341CAWEf6mEXS) | [調教](https://open.spotify.com/album/5pd7J7w4Ku29uN91bIrD5c) | 3:48 | 2022-06-01 | 2022-07-07 |

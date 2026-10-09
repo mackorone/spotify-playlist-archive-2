@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto:  R\u00f4 Rosa",
+  "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto:  Hungria",
   "name": "Rap Ac\u00fastico",
   "tracks": [
     {
@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Disco Voador",
+        "url": "https://open.spotify.com/album/6hQ1w3vIU8doEOGVaafgZc"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234640,
+      "name": "Disco Voador",
+      "url": "https://open.spotify.com/track/5z3bXk6Xq7sYzqe9vcbMbz"
+    },
+    {
+      "album": {
         "name": "O Fant\u00e1stico Mundo de Ganni",
         "url": "https://open.spotify.com/album/538I6tmaZtHvRMQDpaNLIC"
       },
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 181185,
       "name": "Filha de Iemanj\u00e1",
       "url": "https://open.spotify.com/track/1oWHwJS4FrWcCrw6d6fq8F"

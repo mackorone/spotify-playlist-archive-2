@@ -745,6 +745,28 @@
     },
     {
       "album": {
+        "name": "ALDIL\u00c0",
+        "url": "https://open.spotify.com/album/2O0gLqUcB47ONYawgjIuW1"
+      },
+      "artists": [
+        {
+          "name": "Rageless",
+          "url": "https://open.spotify.com/artist/4emQ3Gb8u0vIF1sNr9gtWZ"
+        },
+        {
+          "name": "67kai",
+          "url": "https://open.spotify.com/artist/6ZAiKp5uNAjhDK9hp85SLD"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "ALDIL\u00c0",
+      "url": "https://open.spotify.com/track/5D6IYFG7wKHt4woOgzMeMP"
+    },
+    {
+      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6WPFLiWImRXK22OqMBOTpE"
       },
@@ -910,7 +932,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 185000,
       "name": "Anno Fantastico (feat. Shiva, Tony Boy)",
       "url": "https://open.spotify.com/track/4PBn4zkgReSPmM41RYijJM"
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 119282,
       "name": "Blitz",
       "url": "https://open.spotify.com/track/6prazZbaULprg73XDkvbhl"
@@ -3696,7 +3718,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 151503,
       "name": "E FORT CHE FORT",
       "url": "https://open.spotify.com/track/0gjleHdL9Q5XpEsYargTsH"
@@ -3970,6 +3992,28 @@
       "duration_ms": 157950,
       "name": "FCCV",
       "url": "https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA"
+    },
+    {
+      "album": {
+        "name": "FENOMENO 47",
+        "url": "https://open.spotify.com/album/36mjYUQDuOe372X18xuUHb"
+      },
+      "artists": [
+        {
+          "name": "EYKEY",
+          "url": "https://open.spotify.com/artist/3aOWq3jfuEv9aBQXqW8iTe"
+        },
+        {
+          "name": "Kalionte",
+          "url": "https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121220,
+      "name": "FENOMENO 47",
+      "url": "https://open.spotify.com/track/1eyvslAiiSFVYRGfpQtvfP"
     },
     {
       "album": {
@@ -6842,7 +6886,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 152558,
       "name": "MBAPP\u00c9",
       "url": "https://open.spotify.com/track/73fXHaInE5GKLyO5D7XlzP"
@@ -10917,6 +10961,24 @@
     },
     {
       "album": {
+        "name": "Rolls Royce",
+        "url": "https://open.spotify.com/album/2o4foqsE9ZAiRTExTCXLgM"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "Rolls Royce",
+      "url": "https://open.spotify.com/track/3CYZEJWJOWuc7hJj3NhBi4"
+    },
+    {
+      "album": {
         "name": "ROND\u00d2 VENEZIANO",
         "url": "https://open.spotify.com/album/3KSJAsWDTepE3ouqherxnQ"
       },
@@ -11212,6 +11274,32 @@
       "duration_ms": 131181,
       "name": "SASARIELLO",
       "url": "https://open.spotify.com/track/6lXoRJ8HdtZJajljOxBov2"
+    },
+    {
+      "album": {
+        "name": "SATOSHI (feat. Yung Snapp)",
+        "url": "https://open.spotify.com/album/0TADc9PpcLe79OWcDhLJdg"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Dele",
+          "url": "https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "SATOSHI (feat. Yung Snapp)",
+      "url": "https://open.spotify.com/track/0wFCXLqWEDOiwXzBN8Glgx"
     },
     {
       "album": {
@@ -12828,7 +12916,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 182857,
       "name": "TRICK E BALLAKK",
       "url": "https://open.spotify.com/track/7vs1ObCmNfHDY87Xe9a1K4"

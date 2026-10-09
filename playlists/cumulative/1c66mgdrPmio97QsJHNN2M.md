@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,004 songs - 6 day 14 hr 9 min
+3,006 songs - 6 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [BEYOND MY REACH](https://open.spotify.com/track/652NnQ1m3eWcua8MQ0o0B3) | [oblivious](https://open.spotify.com/artist/19LndR3DnzJma8Gj0C5ccz) | [BEYOND MY REACH](https://open.spotify.com/album/59sZlu642XN4SG9FuVnBQb) | 3:24 | 2025-12-27 | 2026-01-28 |
 | [BEYOND REPAIR \- Demo](https://open.spotify.com/track/2LrKTv3mmFtq8rxz89ja9p) | [DYNA](https://open.spotify.com/artist/1MVIESkcJtleUke23ZOIdy) | [BEYOND REPAIR \(Demo\)](https://open.spotify.com/album/6J4ubA3FUlE9HX22a2NuGA) | 2:22 | 2026-08-13 | 2026-09-14 |
 | [Beyond the Galaxies](https://open.spotify.com/track/6nuVgxXUY9yqW6jRwqcVs9) | [Northern Orbit](https://open.spotify.com/artist/3HRsU30Xs4TFD4arZcr7t3) | [Beyond the Galaxies](https://open.spotify.com/album/02FmDtJx2FML3faE4FFrAB) | 3:45 | 2025-11-10 | 2025-12-11 |
+| [Bhole \- Extended Mix](https://open.spotify.com/track/5KVAaLLKtp9UQutdEhi3a1) | [Indiaanksh](https://open.spotify.com/artist/3x0FiSfPsnzpGBQ4wik8v1) | [Bhole \(Extended Mix\)](https://open.spotify.com/album/2Iu7MJXqYCdAJ4DBG2MNdW) | 4:29 | 2026-10-08 |  |
 | [Biffadotum Riffaroni](https://open.spotify.com/track/0LTmzCaGQEyx9AkdeoNxPK) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Lamp and Table](https://open.spotify.com/album/6prKFt1sVLA54zP2pnTI7p) | 3:02 | 2025-11-28 | 2025-12-31 |
 | [Big Balls](https://open.spotify.com/track/17Zn1bqw3V8qkqUqDPooZ2) | [Sergio Brooklyn](https://open.spotify.com/artist/27OHfprA8m8vtPOsF5oBSl), [Jessie Wagner](https://open.spotify.com/artist/1GOWkEyghfYevfkCg4yych) | [Big Balls](https://open.spotify.com/album/56yG8gjTEmoOqYEcksfv62) | 2:32 | 2026-09-15 |  |
 | [Big City](https://open.spotify.com/track/5BYoDRCWOj8zDc7Frujd9F) | [MARIS BEN](https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2) | [What The Moon Doesn't Tell The Sun](https://open.spotify.com/album/3qYwKbKVXTEvl8uIZFhhiJ) | 2:47 | 2026-03-12 | 2026-04-13 |
@@ -1628,6 +1629,7 @@
 | [Meant to be me \(unplugged\)](https://open.spotify.com/track/2XZQOTMO2rsg3uK9nuOooR) | [greenVIOLET](https://open.spotify.com/artist/3dm73uJdkFTebai5DZNVnI) | [Meant to be me \(live\)](https://open.spotify.com/album/5DCfTqE5syV5iYZKuS3hV6) | 3:04 | 2026-01-17 | 2026-02-21 |
 | [Medium Ugly](https://open.spotify.com/track/2hoQ1QWYFoHoxmMCNErCmt) | [Megan Burke](https://open.spotify.com/artist/6hyEvVAoREnUuUEfzOAG7C) | [Medium Ugly](https://open.spotify.com/album/6QAQWfuw2WH0VOXPNpgxm5) | 3:22 | 2025-11-10 | 2025-12-11 |
 | [Megalomaníacos](https://open.spotify.com/track/58HYvjRyjxKlxgFB2HlVqc) | [Hady](https://open.spotify.com/artist/2qGLXYYehyVLp2k2wfrtBt) | [Megalomaníacos](https://open.spotify.com/album/7lCVZ1ZfC0fC2nW5mp8lPf) | 3:29 | 2026-01-06 | 2026-02-07 |
+| [Melancholia](https://open.spotify.com/track/5lWTJx0HNfNvQoYrGNY1YU) | [fakethemoonlanding](https://open.spotify.com/artist/0DaC63rNxzYGnaIMfAcU9u) | [Melancholia](https://open.spotify.com/album/3HmsopgO3Nc2ohlHEhjIjs) | 3:07 | 2026-10-08 |  |
 | [Mellow](https://open.spotify.com/track/1pFcAbbMyByoi03hZlOip8) | [DECO\-LUXE](https://open.spotify.com/artist/2j3K8z15j2LdBX0pHafEwD), [Kyat Cute](https://open.spotify.com/artist/4BL32kGiMSmAs1vKPWFfL4) | [Eventide](https://open.spotify.com/album/1J8zyVJVITfNX8sxNhpA4Q) | 3:47 | 2026-09-03 | 2026-10-07 |
 | [Melody Rules](https://open.spotify.com/track/0H784Zsy48coFQLHTwthPA) | [Tim McInnes](https://open.spotify.com/artist/0J71GWwjERGNLrEBjOOiQX) | [Melody Rules](https://open.spotify.com/album/0Hsux3OUWvxIkTPhzTWWsm) | 3:00 | 2025-10-24 | 2025-11-26 |
 | [Memoria](https://open.spotify.com/track/7lHiBXwoCvOY1ZJUBWicse) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 3:00 | 2026-01-17 | 2026-02-21 |

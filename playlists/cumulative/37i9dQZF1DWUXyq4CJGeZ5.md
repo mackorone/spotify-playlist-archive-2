@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-567 songs - 1 day 0 hr 37 min
+568 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 | 2023-03-10 | 2025-11-06 |
 | [Excavation](https://open.spotify.com/track/3kOJMvFCOHykQws1qsVMsu) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Ruminate](https://open.spotify.com/album/4pOyBEYZRfEGsbSOinaytz) | 3:24 | 2023-03-10 |  |
 | [Faith](https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P) | [Oscar Grönborg](https://open.spotify.com/artist/6oelQEIUrYRIGVxWcFmtwn) | [Faith](https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE) | 2:00 | 2023-03-10 |  |
+| [Fall leaves](https://open.spotify.com/track/5NP8KvmKUyv8nAMZEbMJEJ) | [Algot Rivers](https://open.spotify.com/artist/78sN5SzdAK6l7uBMRqL2gr) | [Fall leaves](https://open.spotify.com/album/1m9wj2HJLSHRBtAcX3jMmf) | 2:05 | 2026-10-09 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2023-03-10 | 2025-08-13 |
 | [Feel For Balance](https://open.spotify.com/track/11RToQo0Dt4xy0z301RV5Q) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Feel For Balance](https://open.spotify.com/album/4nexlHbho207Wndt2F5SI5) | 2:38 | 2025-08-05 |  |
 | [feels like home](https://open.spotify.com/track/3v1M7kq2L1wgRKXgWuY3N3) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [feels like home](https://open.spotify.com/album/6pN0ppTy0rliZ8OkoPBKmL) | 2:21 | 2025-04-23 |  |

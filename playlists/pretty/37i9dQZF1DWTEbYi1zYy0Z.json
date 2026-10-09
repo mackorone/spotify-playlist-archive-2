@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 92152,
+  "num_followers": 92179,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE9HAHt6W40cTzJWElBPRVb8lmoI",
+  "snapshot_id": "AAAAALSfjJVaT8ZN1s83unUDEbeNowte",
   "tracks": [
+    {
+      "added_at": "2026-10-09 04:01:02",
+      "album": {
+        "name": "October Nights",
+        "url": "https://open.spotify.com/album/3Kpop9c8APS7fy7skeV7Ty"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        }
+      ],
+      "duration_ms": 216954,
+      "name": "October Nights",
+      "url": "https://open.spotify.com/track/33iFfeY7WZ37MVgvaOwp97"
+    },
     {
       "added_at": "2026-10-02 04:00:34",
       "album": {
@@ -91,22 +107,6 @@
       "duration_ms": 269326,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/5L5ZVU7Qd5q0asSU09wVWa"
-    },
-    {
-      "added_at": "2026-09-04 04:00:32",
-      "album": {
-        "name": "Power Of Love",
-        "url": "https://open.spotify.com/album/1mf44H1WGANYnw8ou3bOal"
-      },
-      "artists": [
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        }
-      ],
-      "duration_ms": 264261,
-      "name": "Power Of Love",
-      "url": "https://open.spotify.com/track/6zJ1o08f3iSzApXkrvvtoN"
     },
     {
       "added_at": "2026-09-18 04:00:56",

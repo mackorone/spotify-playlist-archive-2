@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. El Randal, Rey Quinto en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Armenta en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 156283,
       "name": "4x4",
       "url": "https://open.spotify.com/track/3ow0KDTn32H0MKskS6UkHI"
@@ -496,6 +496,24 @@
       "duration_ms": 176666,
       "name": "5 Y 5 Suman 10",
       "url": "https://open.spotify.com/track/7EXd6k3GrVjpkgtTnXKtSE"
+    },
+    {
+      "album": {
+        "name": "No Fue Suerte",
+        "url": "https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142959,
+      "name": "5.0",
+      "url": "https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi"
     },
     {
       "album": {
@@ -4225,6 +4243,28 @@
     },
     {
       "album": {
+        "name": "Cabez\u00f3n",
+        "url": "https://open.spotify.com/album/0Nyco4fXjYeSGecS7eC4QB"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        },
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176504,
+      "name": "Cabez\u00f3n",
+      "url": "https://open.spotify.com/track/6y7YORyjqzue1YZUzc1fLn"
+    },
+    {
+      "album": {
         "name": "Cabron Por Oficio",
         "url": "https://open.spotify.com/album/2vo3gYBbi9MjmI8sPkDq5T"
       },
@@ -4842,7 +4882,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 209482,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/79yEct1P9ZLUXUH1E8x3Dd"
@@ -5898,7 +5938,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 184320,
       "name": "COMO MI AP\u00c1",
       "url": "https://open.spotify.com/track/3Ji32OMnLSkWcxTg8eL6VU"
@@ -8532,7 +8572,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 162415,
       "name": "EA EA EA",
       "url": "https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak"
@@ -10402,6 +10442,24 @@
       "duration_ms": 170259,
       "name": "El Chore",
       "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
+    },
+    {
+      "album": {
+        "name": "El Chucho",
+        "url": "https://open.spotify.com/album/5ElP8d4o1qQL9Ql7FYpV4l"
+      },
+      "artists": [
+        {
+          "name": "Miguel Comando",
+          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233538,
+      "name": "El Chucho",
+      "url": "https://open.spotify.com/track/2v9NgjMXtwCL9x2FWdRKJB"
     },
     {
       "album": {
@@ -12498,6 +12556,24 @@
       "duration_ms": 175295,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+    },
+    {
+      "album": {
+        "name": "El Genio",
+        "url": "https://open.spotify.com/album/227rHLLsgOjGb89iaHiKNe"
+      },
+      "artists": [
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163069,
+      "name": "El Genio",
+      "url": "https://open.spotify.com/track/3vl4qPZBt0lnUguH0aBgi8"
     },
     {
       "album": {
@@ -19517,6 +19593,24 @@
     },
     {
       "album": {
+        "name": "Gente Tan Mitotera",
+        "url": "https://open.spotify.com/album/7pWuvduNIhBge9K8kGbo0s"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0mKwwooLvl1B4rmOAyUcNA"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "Gente Tan Mitotera",
+      "url": "https://open.spotify.com/track/2wPE8iMR1KzUuTYlhrqabl"
+    },
+    {
+      "album": {
         "name": "gervonta",
         "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
       },
@@ -25713,6 +25807,24 @@
     },
     {
       "album": {
+        "name": "Los Billetes",
+        "url": "https://open.spotify.com/album/6166mye5jEBuhkC3SKYYe9"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140100,
+      "name": "Los Billetes",
+      "url": "https://open.spotify.com/track/0ZWWmCuwFAQ4RxCwGbQMB0"
+    },
+    {
+      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -27109,6 +27221,32 @@
     },
     {
       "album": {
+        "name": "Maleantes",
+        "url": "https://open.spotify.com/album/6ugPXa6O2KWYQgKAD0sEHo"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        },
+        {
+          "name": "Grupo En Califas",
+          "url": "https://open.spotify.com/artist/2XD1avUsri0Gkf2IMX65wg"
+        },
+        {
+          "name": "Anthony VZ",
+          "url": "https://open.spotify.com/artist/0PLXSnBmO0woxJmEBu2VXy"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173269,
+      "name": "Maleantes",
+      "url": "https://open.spotify.com/track/0gRACGbcwLG73b3oEHgzuS"
+    },
+    {
+      "album": {
         "name": "Malencachado",
         "url": "https://open.spotify.com/album/6wmNklPRCzIZLXU2XyrArL"
       },
@@ -27524,7 +27662,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 155478,
       "name": "McGregor",
       "url": "https://open.spotify.com/track/5uQ1IgTuCcYH7DWKrc6kkc"
@@ -30689,6 +30827,24 @@
     },
     {
       "album": {
+        "name": "NUMBER ONE",
+        "url": "https://open.spotify.com/album/4iK80CPuM4qXIMaoNASIhd"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161900,
+      "name": "NUMBER ONE",
+      "url": "https://open.spotify.com/track/5ycPjGNxz5iuIKcXfBcEGs"
+    },
+    {
+      "album": {
         "name": "Torbellino",
         "url": "https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF"
       },
@@ -32382,7 +32538,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 144821,
       "name": "Polvos De Colores",
       "url": "https://open.spotify.com/track/3cvLKaix1M4N7HPlXWibtJ"
@@ -33334,7 +33490,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 193205,
       "name": "Que Gacho",
       "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
@@ -36886,7 +37042,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 146104,
       "name": "S\u00faper Snake",
       "url": "https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam"

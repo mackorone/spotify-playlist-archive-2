@@ -1439,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "Around You",
+        "url": "https://open.spotify.com/album/1ttCtrA5iUWXMfuQLPL4Do"
+      },
+      "artists": [
+        {
+          "name": "Morgin Madison",
+          "url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej"
+        },
+        {
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220781,
+      "name": "Around You",
+      "url": "https://open.spotify.com/track/6oox0upuGz8JH5XqDShOjS"
+    },
+    {
+      "album": {
         "name": "Arsonist",
         "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
       },
@@ -3739,6 +3761,32 @@
     },
     {
       "album": {
+        "name": "Crossing The Line",
+        "url": "https://open.spotify.com/album/516HSNB164LGntlgdxlxK4"
+      },
+      "artists": [
+        {
+          "name": "Edwin Reiman",
+          "url": "https://open.spotify.com/artist/5UdKup6xMGhMy3YJE6L69D"
+        },
+        {
+          "name": "Bukkoy",
+          "url": "https://open.spotify.com/artist/2AxWX6zdyCGXu35opfjh4q"
+        },
+        {
+          "name": "ABBY M.",
+          "url": "https://open.spotify.com/artist/7ctrKlHGrafDZ9LvSneAAM"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Crossing The Line",
+      "url": "https://open.spotify.com/track/4XEadPTujBpAnsgTuLxSOk"
+    },
+    {
+      "album": {
         "name": "Crusade",
         "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
       },
@@ -4572,7 +4620,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 163320,
       "name": "Don't Lose Your Head",
       "url": "https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny"
@@ -6318,7 +6366,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 201562,
       "name": "Find My Light",
       "url": "https://open.spotify.com/track/29Bpgc0EKxU2QJcURnlxC2"
@@ -7994,12 +8042,12 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
-        },
-        {
           "name": "Cleopard2000",
           "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
+        },
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
         }
       ],
       "date_added": "2026-10-02",
@@ -20878,7 +20926,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 138161,
       "name": "To The Front",
       "url": "https://open.spotify.com/track/7fF7p3s2PcYRuGpUPZweTm"
@@ -22412,7 +22460,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 177790,
       "name": "Whole Again",
       "url": "https://open.spotify.com/track/0yZB1yPbdmzMFjZElCD4Lb"

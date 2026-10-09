@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 106708,
+  "num_followers": 106774,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
-      },
-      "artists": [
-        {
-          "name": "Dj Obza",
-          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
-        },
-        {
-          "name": "Leon Lee",
-          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
-        }
-      ],
-      "duration_ms": 411952,
-      "name": "Mang' Dakiwe (feat. Leon Lee)",
-      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Thanda (Tshwala) 10.0",
         "url": "https://open.spotify.com/album/4pv0SUaxH6eAFpMFCUdAdd"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 271737,
       "name": "Thanda (Tshwala) 10.0",
       "url": "https://open.spotify.com/track/3Ug0mFTvXP0aMerC6TZdA1"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
+      },
+      "artists": [
+        {
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        },
+        {
+          "name": "Leon Lee",
+          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
+        }
+      ],
+      "duration_ms": 411952,
+      "name": "Mang' Dakiwe (feat. Leon Lee)",
+      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
     },
     {
       "added_at": "2026-09-10 22:02:20",
@@ -947,6 +947,34 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
+        "name": "Hamba Kanje (feat. LeeMcKrazy)",
+        "url": "https://open.spotify.com/album/3hJTA361imvPpqRrWBLVHQ"
+      },
+      "artists": [
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        }
+      ],
+      "duration_ms": 308789,
+      "name": "Hamba Kanje (feat. LeeMcKrazy)",
+      "url": "https://open.spotify.com/track/2GUCK9glnfH55qpmULt9w8"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
         "name": "Umona",
         "url": "https://open.spotify.com/album/2h86FnfcyRYsYWFkoUDq8q"
       },
@@ -975,34 +1003,6 @@
       "duration_ms": 368588,
       "name": "Umona",
       "url": "https://open.spotify.com/track/26YYPFHWxEnft8x64CsTxW"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
-        "name": "Hamba Kanje (feat. LeeMcKrazy)",
-        "url": "https://open.spotify.com/album/3hJTA361imvPpqRrWBLVHQ"
-      },
-      "artists": [
-        {
-          "name": "Royal MusiQ",
-          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
-        },
-        {
-          "name": "Djy Biza",
-          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
-        },
-        {
-          "name": "CowBoii",
-          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        }
-      ],
-      "duration_ms": 308789,
-      "name": "Hamba Kanje (feat. LeeMcKrazy)",
-      "url": "https://open.spotify.com/track/2GUCK9glnfH55qpmULt9w8"
     },
     {
       "added_at": "2026-09-10 22:02:20",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Club What",
-        "url": "https://open.spotify.com/album/0ytwKT6P9xm0gqDiverXYc"
-      },
-      "artists": [
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        },
-        {
-          "name": "Djy Vino",
-          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
-        }
-      ],
-      "duration_ms": 408866,
-      "name": "Club What",
-      "url": "https://open.spotify.com/track/04bX9mKlMxc30PnCIQZcO5"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Sanitizer",
         "url": "https://open.spotify.com/album/1dPG0MRY5u8J2e2cw1NPCN"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 416404,
       "name": "Sanitizer",
       "url": "https://open.spotify.com/track/3dFpRuEIxuQfm2EHBf4ZVU"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Club What",
+        "url": "https://open.spotify.com/album/0ytwKT6P9xm0gqDiverXYc"
+      },
+      "artists": [
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        },
+        {
+          "name": "Djy Vino",
+          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
+        }
+      ],
+      "duration_ms": 408866,
+      "name": "Club What",
+      "url": "https://open.spotify.com/track/04bX9mKlMxc30PnCIQZcO5"
     },
     {
       "added_at": "2026-09-10 22:02:20",

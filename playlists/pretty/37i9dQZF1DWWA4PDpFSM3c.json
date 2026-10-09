@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 111483,
+  "num_followers": 111529,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -909,6 +909,30 @@
       "url": "https://open.spotify.com/track/2gHh47zmMSM6FfapMfi2ZD"
     },
     {
+      "added_at": "2026-10-07 05:43:29",
+      "album": {
+        "name": "Don\u2019T Trouble The Trouble (Telugu)",
+        "url": "https://open.spotify.com/album/7jaN6dXYgPcTMtv0cpUKej"
+      },
+      "artists": [
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Sri Harsha Emani",
+          "url": "https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit"
+        }
+      ],
+      "duration_ms": 237951,
+      "name": "Laali Laali",
+      "url": "https://open.spotify.com/track/2tPzWMEmCJSgf38S896ASk"
+    },
+    {
       "added_at": "2026-08-27 10:33:18",
       "album": {
         "name": "Om Bheem Bush",
@@ -947,30 +971,6 @@
       "duration_ms": 309662,
       "name": "Evare",
       "url": "https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe"
-    },
-    {
-      "added_at": "2026-10-07 05:43:29",
-      "album": {
-        "name": "Don\u2019T Trouble The Trouble (Telugu)",
-        "url": "https://open.spotify.com/album/7jaN6dXYgPcTMtv0cpUKej"
-      },
-      "artists": [
-        {
-          "name": "Sinduri Vishal",
-          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Sri Harsha Emani",
-          "url": "https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit"
-        }
-      ],
-      "duration_ms": 237951,
-      "name": "Laali Laali",
-      "url": "https://open.spotify.com/track/2tPzWMEmCJSgf38S896ASk"
     },
     {
       "added_at": "2026-08-27 10:33:18",

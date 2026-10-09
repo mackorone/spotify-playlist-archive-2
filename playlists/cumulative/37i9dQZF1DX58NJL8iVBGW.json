@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 186000,
       "name": "Fire in the Dark",
       "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
@@ -2651,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Last Kind Words Blues",
+        "url": "https://open.spotify.com/album/1Pnq9uR8uVcqGsn3BJrkK6"
+      },
+      "artists": [
+        {
+          "name": "Muireann Bradley",
+          "url": "https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Last Kind Words Blues",
+      "url": "https://open.spotify.com/track/1EpJfbTFRdKwmfmP5jxtNw"
+    },
+    {
+      "album": {
         "name": "Lay This Body Down",
         "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
       },
@@ -2818,6 +2836,24 @@
       "duration_ms": 186213,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
+    },
+    {
+      "album": {
+        "name": "Miss Melancholia",
+        "url": "https://open.spotify.com/album/0XCfNPZlbtZsl5sU4SdcF4"
+      },
+      "artists": [
+        {
+          "name": "Cyrena Wages",
+          "url": "https://open.spotify.com/artist/5W7qXdFfySCIpNNruRLZZt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223857,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/7fRqQWHgf47GSJEGY86myq"
     },
     {
       "album": {
@@ -3416,6 +3452,28 @@
       "duration_ms": 181868,
       "name": "Raise Hell",
       "url": "https://open.spotify.com/track/2NPHU2WJaI3rrtCNNuQ8L1"
+    },
+    {
+      "album": {
+        "name": "Rambling Man",
+        "url": "https://open.spotify.com/album/6leYDhpSeZgSHHSxyvfdse"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        },
+        {
+          "name": "Lillie Flynn",
+          "url": "https://open.spotify.com/artist/32vbokqejlgd5khDYNhV1Y"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Rambling Man",
+      "url": "https://open.spotify.com/track/4pAk9Oq0IRkPVbtXyi8HmJ"
     },
     {
       "album": {
@@ -4598,7 +4656,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 332298,
       "name": "Virginia - Acoustic",
       "url": "https://open.spotify.com/track/4JuKvre86tbBagC5LClu3z"
@@ -4656,7 +4714,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 275720,
       "name": "What Does It Matter Now?",
       "url": "https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M"

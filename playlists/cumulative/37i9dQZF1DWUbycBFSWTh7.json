@@ -1755,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Cerrado / Undercurrent",
+        "url": "https://open.spotify.com/album/0Smiau862XNHGHdiFLqohC"
+      },
+      "artists": [
+        {
+          "name": "Melle Jutte",
+          "url": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337000,
+      "name": "Cerrado",
+      "url": "https://open.spotify.com/track/2piYP4uGKw6t1I1okWGWBO"
+    },
+    {
+      "album": {
         "name": "Chocolate Puddin'",
         "url": "https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7"
       },
@@ -9522,7 +9540,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 360000,
       "name": "Pink Little Frog",
       "url": "https://open.spotify.com/track/2LTkGebiABcRGgDBWi6hSG"

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Verbal Jint\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: northfacegawd\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-852 songs - 1 day 21 hr 24 min
+853 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [BEBE](https://open.spotify.com/track/6mrdTsiYQs9KzemKKu2Rx5) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [BIPOLAR](https://open.spotify.com/album/7jfWOLdcSrB7Q4TgRFDwXZ) | 3:05 | 2022-06-18 | 2022-06-26 |
 | [Because](https://open.spotify.com/track/08xMOoUaMWWlNStVUdBTBC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Because](https://open.spotify.com/album/5uwBi26yP09mvt51AAQtY9) | 3:16 | 2022-04-01 | 2026-02-08 |
 | [Because I Was Young](https://open.spotify.com/track/5pGCRUSMcQ5OrezFaDxKHq) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Because I Was Young](https://open.spotify.com/album/0l7iV8S15L6uJyAJwjKn3u) | 3:16 | 2022-04-21 | 2022-07-28 |
-| [Bedroom Trip](https://open.spotify.com/track/7IgqalEZ1xisip3UudYGtC) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [Bedroom Trip](https://open.spotify.com/album/1HDyIVnpOFHK3tRUWjdnKQ) | 2:00 | 2026-07-22 |  |
+| [Bedroom Trip](https://open.spotify.com/track/7IgqalEZ1xisip3UudYGtC) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [Bedroom Trip](https://open.spotify.com/album/1HDyIVnpOFHK3tRUWjdnKQ) | 2:00 | 2026-07-22 | 2026-10-09 |
 | [Beer \(Prod.Way Ched\)](https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Dingo X Ambition Musik](https://open.spotify.com/album/3naaXqEfJnwlSqyFshTwlF) | 4:00 | 2022-07-24 | 2026-03-11 |
 | [being friends suck](https://open.spotify.com/track/3ZheaNstMAwG3uTbAoaZCG) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [GirlFrenD](https://open.spotify.com/artist/3HFox5DosAsJrKOwfwTf2A) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:09 | 2022-04-21 | 2022-07-13 |
 | [BENTLEY 1.5](https://open.spotify.com/track/6SlV6daW2N2f15CdsZGzBB) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BENTLEY 1.5](https://open.spotify.com/album/0Rl5epGTAzSWPA1eQqwfh5) | 3:13 | 2022-05-11 | 2022-06-11 |
@@ -286,6 +286,7 @@
 | [GooGoo GaGa](https://open.spotify.com/track/2qZju0KIGsybfWzvHwhRXc) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm) | [Stunnin' 4 You](https://open.spotify.com/album/2tbeLYLLL1NUao38z46uZV) | 2:48 | 2025-03-20 | 2025-04-10 |
 | [GOrGeOuS](https://open.spotify.com/track/5hs5J3f6lH9v286otiDBeS) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:21 | 2022-04-21 | 2022-07-28 |
 | [Gossip \(Feat\. Kid Milli, Han Yo Han\)](https://open.spotify.com/track/7cv7ZK2JgGi135mxeOJATM) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/album/01HcaVOVBDK2gCXqPr4hGj) | 3:51 | 2022-04-21 | 2022-04-24 |
+| [Gotta Go](https://open.spotify.com/track/5jUDMWpR68CevilmC8Dpec) | [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1) | [Time To Glo 3](https://open.spotify.com/album/5z9qOSPPc4JDOpB4D2cV4d) | 1:47 | 2026-10-08 |  |
 | [Gotta Go \(feat\. Effie\)](https://open.spotify.com/track/02FyHuG8gc0fzhY2Ps1jGJ) | [Yammo](https://open.spotify.com/artist/4RaAk6G5YqpM22TFGfZwFV), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [Gotta Go \(feat\. Effie\)](https://open.spotify.com/album/0NTzzkUmxHCqUluQmtC5qC) | 2:43 | 2022-10-01 | 2022-10-08 |
 | [GRAIN](https://open.spotify.com/track/5fV59hTTF805bqlzmI3TcH) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 4:17 | 2022-05-11 | 2022-05-18 |
 | [Gravity](https://open.spotify.com/track/5pgkM00lDqxQBTYgcsprbX) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw) | [Gravity](https://open.spotify.com/album/63vnTWO0PfP3FGy7YND2cB) | 2:15 | 2022-04-21 | 2022-07-03 |

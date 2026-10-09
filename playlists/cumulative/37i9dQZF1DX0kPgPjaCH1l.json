@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "Baba God, run am \ud83d\ude4f. \nCover:  T Dollar",
+  "description": "Baba God, run am \ud83d\ude4f. \nCover: FOLA",
   "name": "afro adura ",
   "tracks": [
     {
@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185364,
+      "name": "awade",
+      "url": "https://open.spotify.com/track/1RTnTc6i3GZI7xvu8xYve0"
+    },
+    {
+      "album": {
         "name": "Ololade Asake",
         "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
       },
@@ -554,7 +572,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 144232,
       "name": "Bahubali",
       "url": "https://open.spotify.com/track/2jSkGbyUK1VmBXE3hgJyBl"
@@ -594,7 +612,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 141818,
       "name": "Better",
       "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
@@ -2382,6 +2400,24 @@
     {
       "album": {
         "name": "My Way",
+        "url": "https://open.spotify.com/album/1Tf1Mr6JEp2xUdVB61cpBI"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170144,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4faET9puA0PpJEj3MLXFky"
+    },
+    {
+      "album": {
+        "name": "My Way",
         "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
       },
       "artists": [
@@ -2618,7 +2654,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 148536,
       "name": "Orin Halleluyah",
       "url": "https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox"
@@ -2790,6 +2826,24 @@
       "duration_ms": 129750,
       "name": "Pity Me",
       "url": "https://open.spotify.com/track/2RVUFIMYxs6HeebK7i2Ff3"
+    },
+    {
+      "album": {
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Poku",
+      "url": "https://open.spotify.com/track/4xANWPs4KkxY2Klfdr6Qok"
     },
     {
       "album": {

@@ -303,6 +303,28 @@
     },
     {
       "album": {
+        "name": "BADASS",
+        "url": "https://open.spotify.com/album/4G5OaPKi65aIfyY0vR1C1V"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Rumane",
+          "url": "https://open.spotify.com/artist/0bSPH6EeWI56i8A5Z3m7R2"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "BADASS",
+      "url": "https://open.spotify.com/track/6nIRQecf0Wpfbm078oZTsr"
+    },
+    {
+      "album": {
         "name": "Ban Ja Tu",
         "url": "https://open.spotify.com/album/6ZuTjqP8moTUaVFpX60neO"
       },
@@ -498,7 +520,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 180000,
       "name": "Chacha",
       "url": "https://open.spotify.com/track/2tKAXlASKQjzo0SJJvO9Yj"
@@ -1399,6 +1421,32 @@
     },
     {
       "album": {
+        "name": "Mangda Wapis Kyun",
+        "url": "https://open.spotify.com/album/06gZ62SyRZF80Ty5RxMvWL"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "Kidjaywest",
+          "url": "https://open.spotify.com/artist/2S34cREqbQ10LEU0hvvpCF"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198056,
+      "name": "Mangda Wapis Kyun",
+      "url": "https://open.spotify.com/track/0uxLzgP3Y2SgLOyWDDUc6f"
+    },
+    {
+      "album": {
         "name": "MIAMI!",
         "url": "https://open.spotify.com/album/5j74TBT6zysTlIyEm7UZH5"
       },
@@ -1718,7 +1766,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 233762,
       "name": "Self Trained",
       "url": "https://open.spotify.com/track/5qdf2fDJZLxXAtFgOXdDVL"

@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43248,
+  "num_followers": 43249,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAa3YJXY1EyaOGSE1a0die6KLG+bCG6",
+  "snapshot_id": "AAAa4Aepno+iFRabGe9Oq+8ez+HxBBGc",
   "tracks": [
+    {
+      "added_at": "2026-10-09 04:26:56",
+      "album": {
+        "name": "Back Once Again",
+        "url": "https://open.spotify.com/album/2u0PXadmhy701I4eG4unyB"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "duration_ms": 149559,
+      "name": "Back Once Again",
+      "url": "https://open.spotify.com/track/4db1NxHlA788NkAG7t3Boi"
+    },
+    {
+      "added_at": "2026-10-09 04:27:23",
+      "album": {
+        "name": "Mi Mente",
+        "url": "https://open.spotify.com/album/7B0WYE4UQ9FlGOJdhiXcXp"
+      },
+      "artists": [
+        {
+          "name": "Shelco",
+          "url": "https://open.spotify.com/artist/4PXoP4OdRB1Hzdr67DIHRD"
+        }
+      ],
+      "duration_ms": 129704,
+      "name": "Mi Mente",
+      "url": "https://open.spotify.com/track/6P4IyOuAWrbN93pcw2vxSv"
+    },
     {
       "added_at": "2026-09-25 10:45:05",
       "album": {

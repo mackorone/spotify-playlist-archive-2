@@ -3383,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Found Dogs",
+        "url": "https://open.spotify.com/album/383eZVIN0GzKNWEQZwC6sM"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260869,
+      "name": "My God Thank You John",
+      "url": "https://open.spotify.com/track/1U5aOY6V1s7D1jbnrzq7JA"
+    },
+    {
+      "album": {
         "name": "Never Give In",
         "url": "https://open.spotify.com/album/1gfai8PiMzjSugxZAUkWdJ"
       },
@@ -5092,24 +5110,6 @@
       "duration_ms": 329746,
       "name": "Time After Time - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
-    },
-    {
-      "album": {
-        "name": "Found Dogs",
-        "url": "https://open.spotify.com/album/383eZVIN0GzKNWEQZwC6sM"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "date_added": "2026-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/1U5aOY6V1s7D1jbnrzq7JA"
     },
     {
       "album": {

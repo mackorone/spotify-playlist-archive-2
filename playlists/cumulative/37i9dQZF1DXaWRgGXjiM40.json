@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "O Melhor De Mim (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/58b5pvh1FcryAJOb0FAHoz"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169566,
+      "name": "C\u00ea Perdeu (Igual Eu) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7meq91abCS4XbydTUSKn7K"
+    },
+    {
+      "album": {
         "name": "C\u00ea Tem o Molho",
         "url": "https://open.spotify.com/album/2pz2hyMhJErRGw7qUfHaBC"
       },
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 224223,
       "name": "Neon - Spotify Sessions",
       "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
@@ -2517,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "Thauane-Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5d4XW9zt2kNOwMxJ4xFLHU"
+      },
+      "artists": [
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145692,
+      "name": "Veneno E Gelo",
+      "url": "https://open.spotify.com/track/1sdXiQ6JUOR7bSFlw8Jexe"
+    },
+    {
+      "album": {
         "name": "Vestido Curto (Ao Vivo)",
         "url": "https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC"
       },
@@ -2572,7 +2608,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196405,
       "name": "Vira Homem",
       "url": "https://open.spotify.com/track/0GrEqRHf5FioT1hOB8PBxZ"

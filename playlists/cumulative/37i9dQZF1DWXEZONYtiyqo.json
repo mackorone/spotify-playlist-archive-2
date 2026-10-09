@@ -1051,6 +1051,28 @@
     },
     {
       "album": {
+        "name": "Arunc cu florile",
+        "url": "https://open.spotify.com/album/730v07BNw7fZLX6iUOo4er"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        },
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155008,
+      "name": "Arunc cu florile",
+      "url": "https://open.spotify.com/track/1ILEUclvI62ca0mR5cbg2E"
+    },
+    {
+      "album": {
         "name": "As late as possible",
         "url": "https://open.spotify.com/album/5Vma6ifh8VQDl4RXkMFn8W"
       },
@@ -2742,6 +2764,24 @@
       "duration_ms": 170602,
       "name": "Dac\u0103 mai vrei",
       "url": "https://open.spotify.com/track/5NJzBq5gVZBsSPghS69p4F"
+    },
+    {
+      "album": {
+        "name": "Dans",
+        "url": "https://open.spotify.com/album/4rRwt4oR2CSdy9NGfX6ukN"
+      },
+      "artists": [
+        {
+          "name": "Emilian",
+          "url": "https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170999,
+      "name": "Dans",
+      "url": "https://open.spotify.com/track/0RbvFQL2jCgEOEiqeE9q7Y"
     },
     {
       "album": {

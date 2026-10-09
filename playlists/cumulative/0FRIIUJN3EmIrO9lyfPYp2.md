@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-1,049 songs - 1 day 12 hr 31 min
+1,052 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [before the storm](https://open.spotify.com/track/1CcqraKc18dkz9wAfJ6phG) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l) | [before the storm](https://open.spotify.com/album/52Lvllr32VvSnJkpjFq7aM) | 1:35 | 2026-05-01 |  |
 | [before we say goodbye](https://open.spotify.com/track/0YsI81Y23qJR5T4AlKyfzW) | [Eleftherios](https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9), [c152](https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB) | [before we say goodbye](https://open.spotify.com/album/2G8K8Uzuh3mfWccSnfhedx) | 2:07 | 2025-05-09 |  |
 | [before you](https://open.spotify.com/track/0bo22295RdWx1yqhrhkGNs) | [lost.empathy](https://open.spotify.com/artist/18uJyxsA7ILa8hGsEoSuTD) | [before you](https://open.spotify.com/album/6vVntSkNiIJHnpMr2yPYF1) | 1:53 | 2025-02-14 |  |
+| [beginnings](https://open.spotify.com/track/6D7qEfEc0GTEyQehvXLgaF) | [oversly](https://open.spotify.com/artist/0yW83Q0140sPnXTdk9gcyK) | [beginnings](https://open.spotify.com/album/11iBR8TH2dVByWJSIfoBv1) | 1:46 | 2026-10-08 |  |
 | [being with you makes me smile](https://open.spotify.com/track/5ShpjtxHj6cRBxomVzoEyM) | [ØXMI](https://open.spotify.com/artist/2ZwYlOl3XChBOCL6CBGrBn), [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [being with you makes me smile](https://open.spotify.com/album/71UObw9Jg0n2afEH5QyQg7) | 2:01 | 2026-04-25 |  |
 | [belatedly](https://open.spotify.com/track/3i9N9EM7NdAuiXrTqaD35f) | [jn\_n.mp3](https://open.spotify.com/artist/3cd41L5XzRuJJN2Rzj14tE) | [moment](https://open.spotify.com/album/1JAYcuNh8qTWEqMIZw6fCT) | 1:39 | 2025-11-07 | 2026-01-03 |
 | [believe](https://open.spotify.com/track/11ejdHGKb7sl6I3EoEjJWJ) | [athan](https://open.spotify.com/artist/6s1gzGO7T3KUQlQcDl74e5), [insensible](https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU) | [believe](https://open.spotify.com/album/4wMxTunIPnwNCjXQceBrgE) | 2:41 | 2026-01-24 |  |
@@ -443,6 +444,7 @@
 | [hopeless thoughts](https://open.spotify.com/track/7hozvn2qAFDM3E28eKYrLD) | [Coste](https://open.spotify.com/artist/02bWOkyCCJEggi9w8qBjjf), [foreveralone](https://open.spotify.com/artist/0JYV0ESM5OGAHVl9TjC62H) | [hopeless thoughts](https://open.spotify.com/album/7bQNewg1oGpXSYZprtQUh9) | 1:32 | 2025-03-08 |  |
 | [how can i forget](https://open.spotify.com/track/4w3SJh3dy2PzT52J4JmSiN) | [helix fracture](https://open.spotify.com/artist/33FFHowZPPYyzmNhnhCMIM) | [how can i forget](https://open.spotify.com/album/6bvYCX29cTQlof0FwkXM7X) | 1:49 | 2026-05-30 |  |
 | [How Long](https://open.spotify.com/track/5TuykF1IhF5y5AUJ7Of87n) | [Iz Luiz](https://open.spotify.com/artist/16UO2AZsAtnrGFThNb6Fh1) | [How Long](https://open.spotify.com/album/1d5PuXmsC4lcEyDew2FVw7) | 1:42 | 2025-12-05 | 2026-01-03 |
+| [how was your day](https://open.spotify.com/track/0Ctf5Uj8KHbeIY0JkjMrMn) | [austen](https://open.spotify.com/artist/0mGVTqV5kBBY2gd7Yo1mTx) | [how was your day](https://open.spotify.com/album/3MStvdBjt0GC2kBFxqZLdL) | 2:33 | 2026-10-08 |  |
 | [human error](https://open.spotify.com/track/7e2itWS4Vu163PYyzEZdgO) | [no\_data](https://open.spotify.com/artist/6WVuLnZPKDKWtz29KqnU95), [Nox Quarta](https://open.spotify.com/artist/34zMVLLW7mJclM2z8u8Lm6) | [human error](https://open.spotify.com/album/1ZgIOm26Sc6dvBfuNwxHN8) | 2:13 | 2025-08-02 |  |
 | [hummingbird \(alternate version\)](https://open.spotify.com/track/5BuSTk6Mg1oj1NDsO5o9Bs) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [hummingbird \(alternate version\)](https://open.spotify.com/album/1y9h4dn4klMbQwqiWCSjeB) | 1:43 | 2026-03-27 |  |
 | [hurt](https://open.spotify.com/track/1KIcKklh5ERa9KJX33Qkoq) | [fauxe.](https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo) | [hurt](https://open.spotify.com/album/46jce4mYMMqJCo9aZpjNBr) | 1:25 | 2025-12-05 | 2026-01-03 |
@@ -655,6 +657,7 @@
 | [nobody cares](https://open.spotify.com/track/44dlWHUxpyIizB4f7doE5c) | [calinia](https://open.spotify.com/artist/48rcHYTnRvLL8ui7bhaGtm) | [nobody cares](https://open.spotify.com/album/401i67cWUM4twQQFcxqNiV) | 1:36 | 2025-05-23 |  |
 | [noclipped](https://open.spotify.com/track/501wHSjq1TaT0b1zGCpFOT) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [noclipped](https://open.spotify.com/album/3fuJ0x3bo5I4amCpzavOib) | 1:25 | 2026-06-19 |  |
 | [noctiluca](https://open.spotify.com/track/0IsicxXe0F0KEX0IGbmNkZ) | [Headphone Activist](https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk) | [noctiluca](https://open.spotify.com/album/6ufwHPH1OLXwVIoCu6sLdx) | 2:12 | 2025-02-21 |  |
+| [nocturnal lullaby](https://open.spotify.com/track/1DM9zA0MD0HnqBZT32xCSx) | [Bluegaze](https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM) | [nocturnal lullaby](https://open.spotify.com/album/1bG1Eyr2nyutEmPzfv1Tbl) | 2:14 | 2026-10-08 |  |
 | [nomad](https://open.spotify.com/track/3ZJEyY5LI4bwiqZEZD1AZD) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Dean Korso](https://open.spotify.com/artist/0X7zZBoY6ObInbi8IUVfpx), [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb), [Jeff Rona](https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ) | [Samsara Passengers](https://open.spotify.com/album/1ZO0FfO35vAA2Z6Qnp2xEC) | 2:34 | 2025-08-22 |  |
 | [nostalgia 16](https://open.spotify.com/track/6SQUTfGqJ6xo0P9aSzcBNx) | [ID10](https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX) | [nostalgia 16](https://open.spotify.com/album/1MZ85JZRgBCvy7IrtFKVAU) | 1:30 | 2026-08-01 |  |
 | [nostalgia blocks](https://open.spotify.com/track/30a1Do9MYO0H39Sy7rnuGi) | [SadMehr](https://open.spotify.com/artist/5xV4zB24n76iArYMFMFbSQ) | [nostalgia blocks](https://open.spotify.com/album/5tS4LwCZNQPIbm8OxRd5St) | 1:38 | 2025-06-20 | 2026-01-03 |

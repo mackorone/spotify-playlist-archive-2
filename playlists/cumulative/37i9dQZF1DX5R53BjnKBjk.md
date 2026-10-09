@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Camargo
 
-384 songs - 19 hr 50 min
+386 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Canal Laranja](https://open.spotify.com/track/4MxIs8Uf9ca58TZaU1Afpq) | [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe), [meot](https://open.spotify.com/artist/20xtrfwLue7Sslipsez0NI), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Canal Laranja](https://open.spotify.com/album/02C3OtPh10TYHuXsV8Qr2n) | 5:00 | 2023-11-30 | 2026-02-28 |
 | [Capsula do Tempo](https://open.spotify.com/track/489aEO9UR1aPjzsZhBmyyz) | [Zero](https://open.spotify.com/artist/4Wa9MXf7s93g8NPX9DFec2) | [Capsula do Tempo](https://open.spotify.com/album/5DFSztWFj6wfvm19f2jSSA) | 2:23 | 2022-04-29 | 2022-10-01 |
 | [Caramelo](https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Caramelo](https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7) | 3:28 | 2022-09-02 | 2026-02-28 |
+| [Carinho](https://open.spotify.com/track/2nNWtxK93xB0jCpdAzu6k3) | [Lorena Moura](https://open.spotify.com/artist/1Voc4loA71s0PHb8K2cNUT) | [Mata\-Leão](https://open.spotify.com/album/71dIXMjX1mEsLYIqyUtNrE) | 3:55 | 2026-10-09 |  |
 | [Carnaval](https://open.spotify.com/track/1c7HUxuSqQLOm5T5bK2fB8) | [ZAINA](https://open.spotify.com/artist/6jJhhdjcxwEekmGV2cBvOW) | [Carnaval](https://open.spotify.com/album/5dbVY5NJpmtcIV4CeBlqgN) | 3:07 | 2022-02-18 | 2022-04-29 |
 | [Carpe Diem](https://open.spotify.com/track/7iGVqFzpfBCg8Q8fJHSPl5) | [Maellen](https://open.spotify.com/artist/0HMN7572MhSLJU8hM6sA3I) | [Carpe Diem](https://open.spotify.com/album/600kV0xSMSL0FKL175DcVv) | 2:40 | 2022-01-21 | 2022-02-05 |
 | [carta do futuro](https://open.spotify.com/track/2sN2yyqjF3XdJ7kErLkbyg) | [Leandro Buenno](https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B) | [MUNDO POSITIVO](https://open.spotify.com/album/4VKiP4fLjXO8Y98TIAUuFo) | 1:37 | 2022-12-02 | 2023-01-28 |
@@ -203,6 +204,7 @@
 | [Me Devora](https://open.spotify.com/track/1JCG7ZiDvgpIYvXn0ciuQ5) | [Sofia Pitta](https://open.spotify.com/artist/37VgvjyVydckXZJUFOuNY0) | [Pureza Selvagem](https://open.spotify.com/album/7FJGC9D4fsCaJOCRTDc1Ww) | 3:08 | 2026-09-03 |  |
 | [Me Liga](https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk) | [GAROUÁ](https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN) | [Me Liga](https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM) | 2:56 | 2022-10-28 | 2026-02-28 |
 | [Medo de Mim](https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Futurea](https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K) | 2:46 | 2022-10-07 | 2026-02-28 |
+| [Medo do Escuro](https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x) | [Bruna Foss](https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6) | [ESTRANGEIRA](https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr) | 3:14 | 2026-10-09 |  |
 | [meia volta](https://open.spotify.com/track/3uPnhYJOAw1lvwRewOLS8U) | [ursamenor](https://open.spotify.com/artist/3LRnqw1s1QkstgysFp0eyK) | [meia volta](https://open.spotify.com/album/5mJRNHDQf9db5gFTu9nD1W) | 3:45 | 2026-08-14 |  |
 | [Menina Erê](https://open.spotify.com/track/2XSwUili6c6hRKkGaq541V) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK) | [Menina Erê](https://open.spotify.com/album/2Pl5B2KkwSPn6yyYkFfPaN) | 4:12 | 2022-02-18 | 2022-05-17 |
 | [MENINO](https://open.spotify.com/track/5WYr2jBHdaHYGqiX77CMxM) | [RROCHA](https://open.spotify.com/artist/6Dtjq6vMmraShujDGCgbya), [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q) | [Conterrâneos Estrangeiros](https://open.spotify.com/album/6aXcddKHHP4dcie5R6UPgg) | 3:59 | 2022-01-07 | 2022-08-20 |
@@ -324,8 +326,8 @@
 | [SIM!](https://open.spotify.com/track/0FKiqBavvrUq9csPKGQxEY) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [NOVA BOSSA: aquele abraço aos ratos vivos](https://open.spotify.com/album/1Rgcijony0Ve3tp7VlrI2h) | 4:02 | 2026-08-19 |  |
 | [Sinais, Pt\. 2](https://open.spotify.com/track/4KvOzCwHSLdzyl9MxlFiVv) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [Sinais, Pt\. 2](https://open.spotify.com/album/0kqkt2wT6FHCZqs3nZ8Lol) | 4:05 | 2022-01-07 | 2022-09-24 |
 | [Sinto Estrelas Em Você](https://open.spotify.com/track/7Mo2CbjQf10IbKABBtwo4f) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Majewski](https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm), [Luana Nogueira](https://open.spotify.com/artist/14yE0zCPijGLzggeKOMawo) | [Sinto Estrelas Em Você](https://open.spotify.com/album/1R4ooaw0K2tErUROdmmSVS) | 2:56 | 2022-01-07 | 2022-04-23 |
-| [sinto saudade](https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [sinto saudade](https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk) | 2:30 | 2026-02-27 |  |
-| [Sobrenatural](https://open.spotify.com/track/09tfbr1Hp1NVfpq1NIl4w4) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [ALMA](https://open.spotify.com/album/1zkjLKJGDBPnFMKLf8oV3T) | 2:47 | 2026-02-27 |  |
+| [sinto saudade](https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [sinto saudade](https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk) | 2:30 | 2026-02-27 | 2026-10-09 |
+| [Sobrenatural](https://open.spotify.com/track/09tfbr1Hp1NVfpq1NIl4w4) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [ALMA](https://open.spotify.com/album/1zkjLKJGDBPnFMKLf8oV3T) | 2:47 | 2026-02-27 | 2026-10-09 |
 | [Sofá 7 \- Demo](https://open.spotify.com/track/5jaRGv0vkI2lgfsHVhW4eM) | [A VIRGO](https://open.spotify.com/artist/70ZpXCpXVlf7XIbNJc3xBI) | [Sofá 7 Demos](https://open.spotify.com/album/0T4a8723JiAA5rTpUaSQxq) | 4:51 | 2022-01-07 | 2022-06-28 |
 | [Somos um Fim](https://open.spotify.com/track/11oS5QyBFJT4u8QhEslrR3) | [Gaboardi](https://open.spotify.com/artist/6Gz6rPxHpaoaRdSgQvbj1r), [Kyssla](https://open.spotify.com/artist/21PfuPwFo3Qud4Eyg6nCoX) | [Somos um Fim](https://open.spotify.com/album/4rAKpsk1oiubQdtYZzGAE9) | 3:10 | 2022-01-07 | 2022-07-23 |
 | [Sorte](https://open.spotify.com/track/6sOJ72MO2hRuARLUugRB8W) | [Carol Porto](https://open.spotify.com/artist/7k2Nsq0KcaursuxcNcZis1) | [Voos](https://open.spotify.com/album/0XajQuoQwXpMCIS0u0ugPb) | 2:58 | 2022-01-07 | 2022-01-15 |

@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Happy Filipino Heritage Month! <br/>Cover: beabadoobee
 
-1,445 songs - 3 day 3 hr 10 min
+1,447 songs - 3 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [CHLORINE](https://open.spotify.com/track/4km4gNXy7TTPG0e2LT5kYo) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [CHLORINE](https://open.spotify.com/album/3juQIkQykDHqa62bUwVoCf) | 2:22 | 2024-07-19 | 2024-09-21 |
 | [Circles](https://open.spotify.com/track/3oRFASmKBxhLj1vlsyCJ3m) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Circles](https://open.spotify.com/album/7Mrf0iOJdb2suGyWSCq96u) | 3:37 | 2022-05-27 | 2022-07-06 |
 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 | 2022-09-23 | 2022-10-08 |
+| [close to you](https://open.spotify.com/track/62EGzcAgn5m00LbligcAMY) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [close to you](https://open.spotify.com/album/11tfftWLFm6rPm63YlgfrD) | 3:31 | 2026-10-09 |  |
 | [close with desires \(feat\. thuy\)](https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [close with desires \(feat\. thuy\)](https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID) | 3:25 | 2023-09-01 | 2024-08-31 |
 | [Closer](https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Closer](https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox) | 3:06 | 2025-05-02 | 2025-05-17 |
 | [cloud 11](https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [cloud 11](https://open.spotify.com/album/77XSyzmCy40q7rNihXkGU7) | 2:33 | 2024-08-30 | 2025-02-22 |
@@ -277,6 +278,7 @@
 | [dance dance](https://open.spotify.com/track/1SaUBCZJOk3XCCZd1nFOte) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [The Happy Star](https://open.spotify.com/album/6TncHvvXh96HDGtWGrsNIV) | 2:54 | 2023-02-18 | 2023-07-01 |
 | [Dance on the Shoreline](https://open.spotify.com/track/7uUwOx2B3emiTPtlhuRsMy) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI) | 4:20 | 2024-10-25 | 2025-03-08 |
 | [Dandelion](https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Dandelion](https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI) | 3:22 | 2025-01-17 | 2025-04-12 |
+| [Dangerous](https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [MACHIKO](https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc) | 3:42 | 2026-10-09 |  |
 | [David](https://open.spotify.com/track/6NmPTgi8MsQL38JslZJEqV) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [David](https://open.spotify.com/album/6nKphWfsj3KEOJo6wkjPb5) | 3:17 | 2022-06-03 | 2022-07-01 |
 | [DawaN](https://open.spotify.com/track/7mFbfAxNEbD4zxiIAnI9Uh) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8) | [DawaN](https://open.spotify.com/album/4dHjGQlzKApdCchkkHyu0M) | 2:00 | 2024-01-26 | 2024-04-19 |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-07 | 2024-01-27 |

@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/0NOrQm5BYyeVQc7emADltD"
@@ -3752,7 +3752,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 172066,
       "name": "Blood Pact",
       "url": "https://open.spotify.com/track/5aS14v4x5nkDvks91OhuoI"
@@ -6462,7 +6462,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 239419,
       "name": "Damage",
       "url": "https://open.spotify.com/track/15dSwo3aENIYiPz2eo0bAr"
@@ -6578,7 +6578,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "DANGEROUS",
       "url": "https://open.spotify.com/track/70RmpH9F7edjr4Q31FYDGa"
@@ -7809,6 +7809,24 @@
     },
     {
       "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/3Bm3vw6rxLUGI2RiD4HdUY"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/0pyFy1WKgJ64vTI73iLRvc"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/2KG6O4Ca7PE3aOVBXuVziI"
       },
@@ -8202,7 +8220,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 233000,
       "name": "DON'T MISS",
       "url": "https://open.spotify.com/track/7e0amNgdCkgyqXaufuzgj6"
@@ -10794,7 +10812,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 204506,
       "name": "FiVE TiMES DEAD (by my wallet)",
       "url": "https://open.spotify.com/track/3g5b38X8sbsN96sLwo8CZJ"
@@ -11690,7 +11708,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 90192,
       "name": "GET BUCK",
       "url": "https://open.spotify.com/track/4jFcc445MlREVKxAMJQnrR"
@@ -12132,6 +12150,24 @@
       "duration_ms": 162706,
       "name": "Gnash",
       "url": "https://open.spotify.com/track/6Yu7zrXznYyNuzkpcwTuUp"
+    },
+    {
+      "album": {
+        "name": "God Complex",
+        "url": "https://open.spotify.com/album/4WcVI2hu0K6OMQ18vwckcI"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175739,
+      "name": "God Complex",
+      "url": "https://open.spotify.com/track/2s4sKpzli3xejePqxXswAh"
     },
     {
       "album": {
@@ -12600,6 +12636,24 @@
       "duration_ms": 225426,
       "name": "Granite",
       "url": "https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd"
+    },
+    {
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Grave Stomper",
+      "url": "https://open.spotify.com/track/00IJfwYpin6v5HkLXMCSnn"
     },
     {
       "album": {
@@ -13855,6 +13909,24 @@
     },
     {
       "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/38hmrb2ZXyxN0BLXAuAiPm"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206608,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0OwO15Nbw1PmnK7ZSrWChb"
+    },
+    {
+      "album": {
         "name": "HIGHER POWER",
         "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
       },
@@ -13902,7 +13974,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189166,
       "name": "Hold Onto Me",
       "url": "https://open.spotify.com/track/1bpiC1yM4P1O6LFjRRdk3A"
@@ -14734,7 +14806,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 214160,
       "name": "I DESTROYED YOU",
       "url": "https://open.spotify.com/track/5w2mj0Q6CKU3rwmRT09Fr3"
@@ -16939,6 +17011,24 @@
     },
     {
       "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/35e8rg7jfHUZafZpTAuhp5"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191543,
+      "name": "La Promesa",
+      "url": "https://open.spotify.com/track/5anCJxgVfQLzlHJ53tXOXm"
+    },
+    {
+      "album": {
         "name": "Lachryma",
         "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
       },
@@ -18660,7 +18750,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 212938,
       "name": "Love Left",
       "url": "https://open.spotify.com/track/5srjx0NalbvzLb0IxL3olF"
@@ -20048,7 +20138,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 282726,
       "name": "Modern Life Is Lonely",
       "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
@@ -21552,7 +21642,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170357,
       "name": "NO PLACE LIKE HOME",
       "url": "https://open.spotify.com/track/7nY2UloR2gR1I5xZadsBJN"
@@ -24264,7 +24354,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 185425,
       "name": "Pure Ecstasy",
       "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
@@ -24756,7 +24846,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 197573,
       "name": "REALLY REALLY RAD",
       "url": "https://open.spotify.com/track/6lgT6kDLUpiCVReXcypnWM"
@@ -27660,7 +27750,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 185621,
       "name": "smile.",
       "url": "https://open.spotify.com/track/5cqmz7kCM7eeBNZ4rQd9l3"
@@ -28314,7 +28404,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 272567,
       "name": "Starless",
       "url": "https://open.spotify.com/track/0MXz52zYBIIe3wuqojwjsr"
@@ -30684,7 +30774,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 218418,
       "name": "The Legend of Eternia (from \"Masters of the Universe\")",
       "url": "https://open.spotify.com/track/6RtCz9MKANSHRnBzwGdcC0"
@@ -30836,6 +30926,24 @@
       "duration_ms": 201793,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/46onMrFCJJlvAy748S6AfX"
+    },
+    {
+      "album": {
+        "name": "The Myth",
+        "url": "https://open.spotify.com/album/2SY7vgnve0DHjWjK5UxoBj"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "The Myth",
+      "url": "https://open.spotify.com/track/3K8XMRAhQnl4VWsaYpNwDu"
     },
     {
       "album": {
@@ -36132,7 +36240,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 194693,
       "name": "Your Name In Red Ink",
       "url": "https://open.spotify.com/track/2Wuq5insP2K1DiQZrfGhGn"

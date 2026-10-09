@@ -6519,6 +6519,24 @@
     },
     {
       "album": {
+        "name": "Rockie",
+        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
+      },
+      "artists": [
+        {
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228844,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/38C5EMmXonGMK1M9z5PxeP"
+    },
+    {
+      "album": {
         "name": "Ensatina",
         "url": "https://open.spotify.com/album/2EvxK6NN9lsxwUL2GoM1ez"
       },
@@ -7144,7 +7162,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 194373,
       "name": "Give",
       "url": "https://open.spotify.com/track/77GTVy8uNP7c6Yz3CjBZLi"
@@ -7686,7 +7704,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 228240,
       "name": "half smile",
       "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
@@ -11624,7 +11642,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 218875,
       "name": "Moon & I",
       "url": "https://open.spotify.com/track/5wM8etfBjxRW89bu70pdgj"
@@ -12606,6 +12624,24 @@
       "duration_ms": 208200,
       "name": "Not Tonight",
       "url": "https://open.spotify.com/track/51fA9CQ39Kqbw6pNiXiBSr"
+    },
+    {
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149663,
+      "name": "nothing",
+      "url": "https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i"
     },
     {
       "album": {
@@ -16974,6 +17010,24 @@
       "duration_ms": 191113,
       "name": "That's Nice",
       "url": "https://open.spotify.com/track/5Wxus9Be7FAYrnIXrbK6Q1"
+    },
+    {
+      "album": {
+        "name": "PEYOTE",
+        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187438,
+      "name": "The Art Of Letting Go",
+      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
     },
     {
       "album": {

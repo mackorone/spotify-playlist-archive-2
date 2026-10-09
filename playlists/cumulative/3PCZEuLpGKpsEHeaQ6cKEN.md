@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,904 songs - 4 day 4 hr 54 min
+1,906 songs - 4 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1075,6 +1075,7 @@
 | [Moon](https://open.spotify.com/track/6D8NhLlyVPps9aqLrJJ1Ut) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Moon](https://open.spotify.com/album/6iVVrWVHA2KE7AzvRoSIU8) | 3:13 | 2025-07-04 |  |
 | [Moonblower](https://open.spotify.com/track/6IEJblHp8m40ceXwFw2bPw) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Descent](https://open.spotify.com/artist/2lkpWTHHz2wqjXk5cLTc4I), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Moonblower](https://open.spotify.com/album/5RHSQF9j9G1DOcJTSOLDMj) | 3:34 | 2026-07-03 |  |
 | [Moonlight To Sunrise](https://open.spotify.com/track/3zLY6nSZwlkUKfRZmQ0Guo) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Moonlight To Sunrise](https://open.spotify.com/album/7y5zb9rWSyouzeCdciuIY0) | 2:47 | 2024-07-04 | 2024-10-19 |
+| [More](https://open.spotify.com/track/0wNr3LhIQxyTYyT9ljSELV) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [More](https://open.spotify.com/album/29eGoKuewxA8cz9VBXdxO7) | 9:16 | 2026-10-09 |  |
 | [More](https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Elena Pitoulis](https://open.spotify.com/artist/0Zw91yH74OemLqD4rHn96K) | [More](https://open.spotify.com/album/7DAyAlObwl5f8mcrqFCeWm) | 3:36 | 2022-11-24 | 2023-04-07 |
 | [More & More](https://open.spotify.com/track/4SJTYAk2TP94J5zkOxuvhF) | [New Hype](https://open.spotify.com/artist/394nMXTFPSgEKKDUverHbo) | [More & More](https://open.spotify.com/album/0zcz7GotKIvX14OmaBMkPF) | 2:38 | 2022-07-28 | 2022-08-26 |
 | [More \- Klangkarussell Remix](https://open.spotify.com/track/3EUbxkyjOzUzF2oERdCXzz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Elena Pitoulis](https://open.spotify.com/artist/0Zw91yH74OemLqD4rHn96K), [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [More \(Klangkarussell Remix\)](https://open.spotify.com/album/1awXHEllnVRsjbcjzDKjp7) | 4:33 | 2026-08-14 |  |
@@ -1126,6 +1127,7 @@
 | [Night In Milan](https://open.spotify.com/track/5WZp98NX90Oqy2mAQcwleA) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Night In Milan](https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL) | 2:34 | 2023-04-28 | 2023-12-14 |
 | [Nightcall](https://open.spotify.com/track/751L4THHaTpy4Zg8j8Iyyt) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Nightcall](https://open.spotify.com/album/2DziMdUwAj43jNP8LVxCMT) | 5:27 | 2024-07-15 | 2024-10-19 |
 | [Nineteen Eighty Five](https://open.spotify.com/track/0hU9CayKJ8KmZJJcCZmwQB) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Nineteen Eighty Five](https://open.spotify.com/album/6T6MpgVmGlarTvUST4SYIY) | 2:50 | 2023-04-20 | 2023-08-11 |
+| [Nirvana](https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Nirvana](https://open.spotify.com/album/2y2hZBcATZYJM29ssKp96w) | 3:04 | 2026-10-09 |  |
 | [No Come Down](https://open.spotify.com/track/5VLCOsWeZhFZekCMXYNIK9) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [No Come Down](https://open.spotify.com/album/0p4JkUHKxEaogi2xwh3u7c) | 2:43 | 2024-08-15 | 2025-01-17 |
 | [No Fun](https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:10 | 2023-03-30 | 2023-04-14 |
 | [No Fun](https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM) | 2:10 | 2022-06-09 | 2023-03-31 |

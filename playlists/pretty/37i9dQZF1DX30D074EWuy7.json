@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35147,
+  "num_followers": 35155,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Plexus Plexus",
         "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
       },
@@ -1011,18 +1027,34 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+        "name": "Baccanalia",
+        "url": "https://open.spotify.com/album/1vZN5RZS4DXB5idYXNw7yd"
       },
       "artists": [
         {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        },
+        {
+          "name": "Pietro Santangelo",
+          "url": "https://open.spotify.com/artist/41nfHS3bucPKfaDcxmto5k"
+        },
+        {
+          "name": "Paolo Bat\u00e0 Bianconcini",
+          "url": "https://open.spotify.com/artist/6mmAGoy7iLFg1hbrTybW4s"
+        },
+        {
+          "name": "Giuseppe Giroffi",
+          "url": "https://open.spotify.com/artist/4HZGZUDQB8bkNNGHyldGkC"
+        },
+        {
+          "name": "Luigi Di Nunzio",
+          "url": "https://open.spotify.com/artist/13FhDIGKvNjFDqkx6AbPQr"
         }
       ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+      "duration_ms": 283675,
+      "name": "Lupercalia",
+      "url": "https://open.spotify.com/track/2M54kioZePt2NA1LDqYIHM"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1059,38 +1091,6 @@
       "duration_ms": 175047,
       "name": "Stella del sud",
       "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Baccanalia",
-        "url": "https://open.spotify.com/album/1vZN5RZS4DXB5idYXNw7yd"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        },
-        {
-          "name": "Pietro Santangelo",
-          "url": "https://open.spotify.com/artist/41nfHS3bucPKfaDcxmto5k"
-        },
-        {
-          "name": "Paolo Bat\u00e0 Bianconcini",
-          "url": "https://open.spotify.com/artist/6mmAGoy7iLFg1hbrTybW4s"
-        },
-        {
-          "name": "Giuseppe Giroffi",
-          "url": "https://open.spotify.com/artist/4HZGZUDQB8bkNNGHyldGkC"
-        },
-        {
-          "name": "Luigi Di Nunzio",
-          "url": "https://open.spotify.com/artist/13FhDIGKvNjFDqkx6AbPQr"
-        }
-      ],
-      "duration_ms": 283675,
-      "name": "Lupercalia",
-      "url": "https://open.spotify.com/track/2M54kioZePt2NA1LDqYIHM"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 153600,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 254494,
       "name": "Oltremare",
       "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1583,6 +1583,30 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Audio File",
+        "url": "https://open.spotify.com/album/288oOjXAVQxmsnEl4p9y1k"
+      },
+      "artists": [
+        {
+          "name": "Filippo Bubbico",
+          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
+        },
+        {
+          "name": "Riccardo Oliva",
+          "url": "https://open.spotify.com/artist/3199MCKg3T4Hau16EXF9YA"
+        },
+        {
+          "name": "Alberto Manco",
+          "url": "https://open.spotify.com/artist/5j7r9SKaMVTDHKiTajIDoN"
+        }
+      ],
+      "duration_ms": 149397,
+      "name": "Audio File",
+      "url": "https://open.spotify.com/track/3bjAOHIWIYliHwOmN2dbY5"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
@@ -1663,30 +1687,6 @@
       "duration_ms": 222000,
       "name": "2 AM",
       "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Audio File",
-        "url": "https://open.spotify.com/album/288oOjXAVQxmsnEl4p9y1k"
-      },
-      "artists": [
-        {
-          "name": "Filippo Bubbico",
-          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
-        },
-        {
-          "name": "Riccardo Oliva",
-          "url": "https://open.spotify.com/artist/3199MCKg3T4Hau16EXF9YA"
-        },
-        {
-          "name": "Alberto Manco",
-          "url": "https://open.spotify.com/artist/5j7r9SKaMVTDHKiTajIDoN"
-        }
-      ],
-      "duration_ms": 149397,
-      "name": "Audio File",
-      "url": "https://open.spotify.com/track/3bjAOHIWIYliHwOmN2dbY5"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1779,18 +1779,34 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "1000 Smiles",
-        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
       },
       "artists": [
         {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
         }
       ],
-      "duration_ms": 132413,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1827,18 +1843,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+        "name": "1000 Smiles",
+        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
       },
       "artists": [
         {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
         }
       ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
+      "duration_ms": 132413,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1875,22 +1891,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "IRA",
         "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
       },
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Vitamin C",
-        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
       },
       "artists": [
         {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
         }
       ],
-      "duration_ms": 209285,
-      "name": "Vitamin C",
-      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     }
   ],
   "unique_name": "Jazz Italia",

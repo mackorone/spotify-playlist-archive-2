@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: HEY JUNE!
+> Introducing RADAR Philippines Cast of 2026\. Cover: rhodessa
 
-360 songs - 21 hr 19 min
+363 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [BANG](https://open.spotify.com/track/7fpM0yEqXzIUwUTPIYAkT7) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [BANG](https://open.spotify.com/album/2LMtd1kV7sobFRQkgExSob) | 3:42 | 2023-04-13 | 2024-04-03 |
 | [Bangin](https://open.spotify.com/track/0ZVXBU8LCG0HutT5Oa8eI4) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Bangin](https://open.spotify.com/album/1v0xYbW5NagAzjMeBWIM5A) | 3:47 | 2022-03-24 | 2023-04-14 |
 | [Bazinga](https://open.spotify.com/track/5QZw4F3N3PvuKNKHm9L20b) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 3:22 | 2021-11-25 | 2022-03-25 |
+| [Bb\. Araw \- Ughwit Part II](https://open.spotify.com/track/37HEoH3AA7mLvKf4bBvyqw) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [Bb\. Araw \(Ughwit Part II\)](https://open.spotify.com/album/3Wcq68wMppTPA6LlxitlXI) | 2:56 | 2026-10-09 |  |
 | [Best Time](https://open.spotify.com/track/0EUhMQB6Ct1AT0mBBOZsTp) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Best Time](https://open.spotify.com/album/3HQ1Ns14lMczw62mIU36h3) | 3:35 | 2022-04-21 | 2022-12-01 |
 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 | 2024-04-05 | 2025-03-28 |
 | [better than he does](https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [better than he does](https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF) | 2:33 | 2024-11-05 | 2025-03-28 |
@@ -61,6 +62,7 @@
 | [Breaking Bad](https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Breaking Bad](https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw) | 3:51 | 2023-04-13 | 2024-04-03 |
 | [BROke](https://open.spotify.com/track/20hKYW4VoQsOpN8ajbxhYc) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw / BROke](https://open.spotify.com/album/1Ly0s70g58vx4v2ET5hphQ) | 3:45 | 2025-06-27 | 2026-04-07 |
 | [Bughaw](https://open.spotify.com/track/6C8Oy25ieRZqOsSJ6PAb86) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bughaw](https://open.spotify.com/album/2BHCBLxhR5lvCMoLiRMfDv) | 3:53 | 2024-12-09 | 2025-03-28 |
+| [Burgers42](https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Burgers42](https://open.spotify.com/album/77XylCmFSpEZ7bI0Hm0fsi) | 3:42 | 2026-10-09 |  |
 | [Call You](https://open.spotify.com/track/68k3V1OBcNslacVbU1HNXA) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Call You](https://open.spotify.com/album/4gwvRkM54QFDjeOXFAL2CX) | 3:03 | 2021-11-25 | 2022-03-25 |
 | [can't get enough](https://open.spotify.com/track/2RmQWlkPigl7R15u7Mm0fr) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [BEING](https://open.spotify.com/album/1kFYiskcStEnrfLZXqF7Kv) | 3:38 | 2024-04-02 | 2025-03-28 |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-15 | 2025-03-28 |
@@ -211,6 +213,7 @@
 | [Misfire](https://open.spotify.com/track/3LB91BYKAZqcQG7Q2TGepV) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/0UmM7cmL7Mxy4ZUCDdD41e) | 3:41 | 2026-04-06 |  |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-05-29 | 2025-03-28 |
 | [MRT](https://open.spotify.com/track/3yXpDz9ZiB3TjKlCkhxwpn) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [ONE CLICK STRAIGHT](https://open.spotify.com/album/23F8kscAHfAgZS2PZxMzNg) | 4:09 | 2025-03-27 | 2026-04-07 |
+| [MRT](https://open.spotify.com/track/5phUrZ8lthcgMLvbcTOfUP) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [MRT](https://open.spotify.com/album/50qL1bmse7LhypECTNh8yn) | 4:26 | 2026-10-09 |  |
 | [Muli](https://open.spotify.com/track/1oYQtNQUxSODedcc5hPmp9) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Muli](https://open.spotify.com/album/3RKZKxaNLwRXw84ruc3f9F) | 4:50 | 2021-11-25 | 2022-03-25 |
 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 | 2024-09-25 | 2025-10-06 |
 | [Multo](https://open.spotify.com/track/2ZR2TneGu0mfJGeGQLVPEB) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Multo](https://open.spotify.com/album/2zR4J1iWwzLdujGob4YwCt) | 3:17 | 2025-03-27 | 2026-04-07 |

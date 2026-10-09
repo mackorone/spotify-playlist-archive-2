@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore&\#x2F;Hardstyle Music by Japanese Artists \(L.U\. 26.06.01\)
 
-[SONGBIRD\-CN](https://open.spotify.com/user/megustager) - 956 likes - 554 songs - 1 day 13 hr 56 min
+[SONGBIRD\-CN](https://open.spotify.com/user/megustager) - 956 likes - 555 songs - 1 day 13 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -562,5 +562,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 552 | [GOT TO PARTY](https://open.spotify.com/track/5Vsb928oMHlLaveRee454v) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [INFINITE](https://open.spotify.com/album/0irRLnZ9RlyZajjTLACs50) | 2:49 |
 | 553 | [Fantasia of Salvation](https://open.spotify.com/track/30BZO8w8Il1gQhJP6PhUAn) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [Fantasia of Salvation](https://open.spotify.com/album/7A2UrCNVVZMFXFQnITnz18) | 3:41 |
 | 554 | [High Forever](https://open.spotify.com/track/6wzgc8uhfC6riYUzhpXMXs) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [High Forever](https://open.spotify.com/album/0yyjFFA5LNU562gqR5llHd) | 3:10 |
+| 555 | [Azathoth](https://open.spotify.com/track/1cOpsSPDqCyCltxOlDMovt) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [Azathoth](https://open.spotify.com/album/1D9TtWXNGvauYsEi25VxEK) | 2:30 |
 
-Snapshot ID: `AAACiSS7fAgZFDLg4zYWIRl3NYeUw/o2`
+Snapshot ID: `AAACijivS+bD87kP8NA8OW9UXX78aLdA`

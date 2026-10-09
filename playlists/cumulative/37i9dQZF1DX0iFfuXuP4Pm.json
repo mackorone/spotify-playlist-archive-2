@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Jin DC",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Mariah Deborah",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Bahagya",
+        "url": "https://open.spotify.com/album/4xHpN7YcAzmbmHZnUJlERm"
+      },
+      "artists": [
+        {
+          "name": "Mariah Deborah",
+          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245833,
+      "name": "Bahagya",
+      "url": "https://open.spotify.com/track/526rzqbY2yTDMcnkF60iwC"
+    },
+    {
+      "album": {
         "name": "Bahala Na Sila",
         "url": "https://open.spotify.com/album/5mZeVTKDwnXcNj0TZBHPGx"
       },
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 165033,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/0DAYGnA7XlkWlajNTbncQ8"
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 280746,
       "name": "Friendship Over",
       "url": "https://open.spotify.com/track/7njPH1AlzjrnRCAwrjqnLT"
@@ -6549,6 +6567,24 @@
     },
     {
       "album": {
+        "name": "Muli (Secret Verse)",
+        "url": "https://open.spotify.com/album/5vVmtJ5IMEbqsFruJ51LBm"
+      },
+      "artists": [
+        {
+          "name": "Ace Banzuelo",
+          "url": "https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288754,
+      "name": "Muli (Secret Verse)",
+      "url": "https://open.spotify.com/track/3XPhjx5P6Le2hPtVggY38F"
+    },
+    {
+      "album": {
         "name": "Multo",
         "url": "https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo"
       },
@@ -7038,7 +7074,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 198048,
       "name": "Nasa Ulap",
       "url": "https://open.spotify.com/track/2QL0YcVoACpQrfVeMSfDfR"
@@ -8030,6 +8066,24 @@
       "duration_ms": 162050,
       "name": "panalangin",
       "url": "https://open.spotify.com/track/68doFzNBmManicbD9yfRoA"
+    },
+    {
+      "album": {
+        "name": "Panata",
+        "url": "https://open.spotify.com/album/0ejwXq9GcS9hYIG5IqsXNa"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Panata",
+      "url": "https://open.spotify.com/track/0v6IfrakYWcxlqDGGHOL1c"
     },
     {
       "album": {
@@ -9764,7 +9818,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 163672,
       "name": "Selepono",
       "url": "https://open.spotify.com/track/0t2b2Dc7sI3J2quYJ0aWwj"
@@ -11043,6 +11097,24 @@
     },
     {
       "album": {
+        "name": "Tenchu",
+        "url": "https://open.spotify.com/album/3fkVoiyeZHUly0szR3MLRC"
+      },
+      "artists": [
+        {
+          "name": "Esremborak",
+          "url": "https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362821,
+      "name": "Tenchu",
+      "url": "https://open.spotify.com/track/16E9xFP8csyjHwFhKmpGMj"
+    },
+    {
+      "album": {
         "name": "Soapdish Reloaded",
         "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
       },
@@ -11638,7 +11710,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 252923,
       "name": "USAD",
       "url": "https://open.spotify.com/track/5TeM0uxDT663mth1LMOqPg"
@@ -11924,6 +11996,28 @@
       "duration_ms": 192000,
       "name": "We Were There (kabataan ko'y sayo)",
       "url": "https://open.spotify.com/track/20lgvwb7zyJc3KmnXcVcXb"
+    },
+    {
+      "album": {
+        "name": "Weng Weng",
+        "url": "https://open.spotify.com/album/6OtupUNjShdvKageqJHimo"
+      },
+      "artists": [
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "Gaspari",
+          "url": "https://open.spotify.com/artist/32pwg5wo0jdAWgDIAiKKzi"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Weng Weng",
+      "url": "https://open.spotify.com/track/6740F9FsmpoNCjbOchwM8o"
     },
     {
       "album": {

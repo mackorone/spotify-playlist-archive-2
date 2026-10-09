@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 
 > All the artists playing at FORM Arcosanti 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 738 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 36 | [Na Dem](https://open.spotify.com/track/6Mn3ebt3BKoQqrCZKamdjA) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Na Dem](https://open.spotify.com/album/6ToelXLgu2gyxDtdIfHuui) | 4:29 |
 | 37 | [Needle Guy](https://open.spotify.com/track/5EfGtVw1Hpr8kgnDBJZ3Ar) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Needle Guy](https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj) | 2:59 |
 
-Snapshot ID: `AAAAADQgB2Pm3eSbW98pOCIFJRXLmHpc`
+Snapshot ID: `AAAAALePAcilllhPwTz+QLudgaBR2l6b`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY38HTJIe83j.md) - [plain]
 
 > A lovely mix of videos from your favorite indie artists\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 891 likes - 64 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 911 likes - 64 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY38HTJIe83j.md) - [plain]
 | 5 | [The Rage](https://open.spotify.com/track/3WT7mTie7v1QxBmzJjOYzc) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [The Rage](https://open.spotify.com/album/3rATpXb10GsrrKV2Gzfavk) | 3:40 |
 | 6 | [Stone Fruit](https://open.spotify.com/track/3jYDorq64lAz2h7yZfu8YZ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Stone Fruit](https://open.spotify.com/album/263WxvVqUbvXADFoSiHho2) | 3:34 |
 | 7 | [Keep It To Yourself](https://open.spotify.com/track/76QoxYSnU7KCLju4gVdr3X) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Keep It To Yourself](https://open.spotify.com/album/51USQqekHnufQYomSXRCOr) | 4:20 |
-| 8 | [Rocksteady/HeavyMetal](https://open.spotify.com/track/6GCS874bhrBlJ7fOyNQXNW) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm), [Eden Joel](https://open.spotify.com/artist/7KFY1PM6mATHkeqOe1u0nB) | [Rocksteady/HeavyMetal](https://open.spotify.com/album/6So7hv1oH8OL0WsMw8j7yk) | 3:40 |
+| 8 | [Rocksteady/HeavyMetal](https://open.spotify.com/track/6GCS874bhrBlJ7fOyNQXNW) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm), [Eden Joel](https://open.spotify.com/artist/4eQuxyBHoTcEqHlzQURrXz) | [Rocksteady/HeavyMetal](https://open.spotify.com/album/6So7hv1oH8OL0WsMw8j7yk) | 3:40 |
 | 9 | [American Teenager](https://open.spotify.com/track/7uSSi92eoi46gq6omWv9Zn) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/2T1vJM7CyKRQ9MQ7gSPpeu) | 5:36 |
 | 10 | [Over country](https://open.spotify.com/track/506eYW3L8N4ViJ4gTwVHb6) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Over country](https://open.spotify.com/album/0BFwepGthMB319nJjcGhHe) | 5:02 |
 | 11 | [Secret Language](https://open.spotify.com/track/32qMqYbNkDGKhODW4rArEk) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Secret Language](https://open.spotify.com/album/1zLLrMgTFx4eWOxiKvgvBQ) | 4:12 |

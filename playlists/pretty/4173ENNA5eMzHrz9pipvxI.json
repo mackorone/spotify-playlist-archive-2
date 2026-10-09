@@ -1,13 +1,33 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: David Guetta and Jast ",
-  "num_followers": 117659,
+  "num_followers": 117658,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAiCJtYalM+V7xj8OxGIJ3Fy88Fw9Q3",
+  "snapshot_id": "AAAiCiKROwd9HjqJg1ozutFlJLBVU86J",
   "tracks": [
+    {
+      "added_at": "2026-10-08 22:00:05",
+      "album": {
+        "name": "Te conoc\u00ed (with Nicky Jam)",
+        "url": "https://open.spotify.com/album/6wb6sxTUqtTCl1GyIAZevv"
+      },
+      "artists": [
+        {
+          "name": "Zenar",
+          "url": "https://open.spotify.com/artist/1VwhS6UWlj4h2z1YLQqHyh"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Te conoc\u00ed - with Nicky Jam",
+      "url": "https://open.spotify.com/track/3EQjRvevOXHXG9LljcVyAP"
+    },
     {
       "added_at": "2026-10-01 22:00:05",
       "album": {
@@ -27,6 +47,26 @@
       "duration_ms": 120238,
       "name": "Mari\u00f4",
       "url": "https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M"
+    },
+    {
+      "added_at": "2026-10-08 22:00:02",
+      "album": {
+        "name": "Never Stop",
+        "url": "https://open.spotify.com/album/6cvhugvu7B0tBi8hZKmbcb"
+      },
+      "artists": [
+        {
+          "name": "Joey London Style",
+          "url": "https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i"
+        },
+        {
+          "name": "Pheelo",
+          "url": "https://open.spotify.com/artist/3R2HL3PzOU2tQNeFiNhcfA"
+        }
+      ],
+      "duration_ms": 152343,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/6UOHcOQSNBGCoHqfALH9lG"
     },
     {
       "added_at": "2026-10-01 22:00:04",
@@ -140,12 +180,12 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
-        },
-        {
           "name": "Cleopard2000",
           "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
+        },
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
         }
       ],
       "duration_ms": 176223,

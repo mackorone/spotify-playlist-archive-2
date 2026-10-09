@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar
 
-525 songs - 1 day 1 hr 14 min
+526 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Ciclone](https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:54 | 2023-08-25 | 2023-10-13 |
 | [Ciúme](https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ciúme](https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy) | 3:20 | 2025-11-26 | 2026-01-17 |
 | [Cobra Criada/Bicho Solto \- Refix](https://open.spotify.com/track/5Y60BnKGNfUSaP2VHWbKCo) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Cobra Criada/Bicho Solto \(Refix\)](https://open.spotify.com/album/6AmlsEaSfzTZ9CYTe0cURx) | 2:30 | 2026-06-19 | 2026-08-01 |
+| [Coisa De Pele \- Ao Vivo](https://open.spotify.com/track/3jiiKkspnb3OVLKPxocjwE) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos – A Experiência \(Ao Vivo\)](https://open.spotify.com/album/3vYeDMqdfmPRURnvr2dEM7) | 3:33 | 2026-10-09 |  |
 | [Combinadinho](https://open.spotify.com/track/3o1wkALMRxFgotr82yUnSY) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Combinadinho](https://open.spotify.com/album/2TqritjMLjbcYejnZvZElm) | 2:43 | 2023-06-02 | 2024-02-24 |
 | [Como Ouro](https://open.spotify.com/track/1QRZnXM3lEUifwEzl9xtV1) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Como Ouro](https://open.spotify.com/album/4hZTIQF4MrNJRwGbmIA7MT) | 2:34 | 2026-04-24 | 2026-09-19 |
 | [Como Posso Amar Assim?](https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Como Posso Amar Assim?](https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs) | 3:13 | 2024-12-20 | 2025-05-03 |
@@ -324,7 +325,7 @@
 | [Noites de Neon](https://open.spotify.com/track/427JHB9CmpmxSten7B2isW) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Ecos do Desejo](https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C) | 2:26 | 2025-08-01 | 2025-08-30 |
 | [Noites em Miami](https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vivi](https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI) | 3:03 | 2025-10-31 | 2026-01-31 |
 | [NOSSA MÚSICA](https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:22 | 2022-12-23 | 2024-03-02 |
-| [Nosso Lugar](https://open.spotify.com/track/23XYwdiUzqPzxQ45KGsSpe) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [ECO](https://open.spotify.com/album/36bHXwhAKn92EGcROKqKJ0) | 3:32 | 2026-08-14 |  |
+| [Nosso Lugar](https://open.spotify.com/track/23XYwdiUzqPzxQ45KGsSpe) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [ECO](https://open.spotify.com/album/36bHXwhAKn92EGcROKqKJ0) | 3:32 | 2026-08-14 | 2026-10-09 |
 | [NOVA: Energia](https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [FIVE](https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K) | [NOVA: Energia](https://open.spotify.com/album/5bwXJ7z9FAv0Tyw9v8Zcy8) | 2:48 | 2026-04-03 | 2026-05-30 |
 | [Nu](https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Nu](https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR) | 2:47 | 2023-04-21 | 2024-09-07 |
 | [Numa Ilha](https://open.spotify.com/track/2MitriRScA3ZKpVd1lXAbm) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Numa Ilha](https://open.spotify.com/album/3iWRG01i6PWGpA7cADfovj) | 4:09 | 2024-12-05 |  |

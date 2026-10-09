@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Paulo Londra",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Ian Lucas y Lauty Gram",
   "name": "POP!",
   "tracks": [
     {
@@ -228,7 +228,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196426,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -3018,7 +3018,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 201057,
       "name": "DOLCE",
       "url": "https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4"
@@ -3240,7 +3240,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188671,
       "name": "el cielo",
       "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
@@ -5115,6 +5115,24 @@
     },
     {
       "album": {
+        "name": "La Falda",
+        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "La Falda",
+      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
+    },
+    {
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -5644,7 +5662,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 140399,
       "name": "Lo que sientes x mi",
       "url": "https://open.spotify.com/track/6QH8or66g5QayPdHr3UdUi"
@@ -6279,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "Me Mata",
+        "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186611,
+      "name": "Me Mata",
+      "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
+    },
+    {
+      "album": {
         "name": "Directo al Cora",
         "url": "https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81"
       },
@@ -6454,7 +6490,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 154961,
       "name": "MENTE EN BLANCO",
       "url": "https://open.spotify.com/track/50OckWpSCDhxhaxMeGxjlN"
@@ -6498,7 +6534,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 164565,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu"
@@ -7016,7 +7052,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 197081,
       "name": "M\u00e1s Que T\u00fa",
       "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
@@ -7505,6 +7541,24 @@
     },
     {
       "album": {
+        "name": "no te vayas: (",
+        "url": "https://open.spotify.com/album/3TQg6Ti0jOAzbVmFvFb3HI"
+      },
+      "artists": [
+        {
+          "name": "Valuto",
+          "url": "https://open.spotify.com/artist/0AQym39jmsVTiggRZdyiSW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169927,
+      "name": "no te vayas: (",
+      "url": "https://open.spotify.com/track/29UvL4gUrPpbH3lhr9Nv0k"
+    },
+    {
+      "album": {
         "name": "NO voy a llorar :')",
         "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
       },
@@ -7850,6 +7904,28 @@
       "duration_ms": 159677,
       "name": "Olvidate",
       "url": "https://open.spotify.com/track/6YHiWnXQyF0yM4oxGk54X4"
+    },
+    {
+      "album": {
+        "name": "Ooh Laka Laka La",
+        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134797,
+      "name": "Ooh Laka Laka La",
+      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
     },
     {
       "album": {
@@ -8624,6 +8700,24 @@
       "duration_ms": 165350,
       "name": "POV: te re enamoraste mal",
       "url": "https://open.spotify.com/track/1J3S9Do9s5ZnwVfKr9FKp7"
+    },
+    {
+      "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
       "album": {
@@ -9558,7 +9652,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 164021,
       "name": "Si Un D\u00eda Est\u00e1s Sola | CROSSOVER #7",
       "url": "https://open.spotify.com/track/5AkLEnorFvb7WIJOGqKYVT"
@@ -10387,6 +10481,64 @@
     },
     {
       "album": {
+        "name": "TKM",
+        "url": "https://open.spotify.com/album/1tV3Gow94mNLEHrOux2qTQ"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129071,
+      "name": "TKM",
+      "url": "https://open.spotify.com/track/6jT6IeSZeSYAl5edo7SpM6"
+    },
+    {
+      "album": {
+        "name": "El Jard\u00edn de las horas",
+        "url": "https://open.spotify.com/album/6DRAtPhWP63ObNqIEcS3w2"
+      },
+      "artists": [
+        {
+          "name": "Uma German",
+          "url": "https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Todo mal",
+      "url": "https://open.spotify.com/track/3bQAkl7oIbEuwLgN9U3l0s"
+    },
+    {
+      "album": {
+        "name": "TODO MI AMOR",
+        "url": "https://open.spotify.com/album/5PLn6Vm8ngAEhy30cpGNNy"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202164,
+      "name": "TODO MI AMOR",
+      "url": "https://open.spotify.com/track/1ehQUTm8Jb2EEZ2aU32lND"
+    },
+    {
+      "album": {
         "name": "Touching The Sky",
         "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
       },
@@ -11159,6 +11311,28 @@
     },
     {
       "album": {
+        "name": "Viejo de Trapo",
+        "url": "https://open.spotify.com/album/58VonZED4mOF0mVvi3sA99"
+      },
+      "artists": [
+        {
+          "name": "MARTIN CIRIO",
+          "url": "https://open.spotify.com/artist/6JIFgubStZc9mdv37N91HU"
+        },
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221102,
+      "name": "Viejo de Trapo",
+      "url": "https://open.spotify.com/track/0bEE6XGeYajj2jlcI9DNLc"
+    },
+    {
+      "album": {
         "name": "VISTA AL MAR",
         "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
       },
@@ -11306,7 +11480,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 233406,
       "name": "WE PRAY - (TINI Version)",
       "url": "https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y"

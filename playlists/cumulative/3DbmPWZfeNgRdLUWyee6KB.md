@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,577 songs - 3 day 19 hr 49 min
+1,580 songs - 3 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Anime A Metà](https://open.spotify.com/track/3o7VA7PCkHz2VYwXxZz7BC) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Anime A Metà](https://open.spotify.com/album/7qhml3sGdAvkB8nb2UQSo2) | 3:28 | 2026-03-09 | 2026-04-12 |
 | [Annet blod og DNA/Sjelevenn](https://open.spotify.com/track/0qFNPhIhBOtjOF1y0pfAOZ) | [G.M.L.](https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC) | [Nostalgi](https://open.spotify.com/album/0238UGZP3T67WKpTJzO2Bg) | 3:51 | 2026-06-09 | 2026-07-19 |
 | [Another Cold Night in Chile](https://open.spotify.com/track/4U9wAy7SZrFtLoddShRllT) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Another Cold Night in Chile](https://open.spotify.com/album/7CKnc19vPdvtaZg1x1WZZr) | 3:32 | 2026-06-17 | 2026-07-19 |
+| [Another Liquid Morning](https://open.spotify.com/track/1GUYfGyDlbXPfby77Wokp0) | [Angelo Ceriani Lofi Project](https://open.spotify.com/artist/0LC1JuXqN4iw9mouw8uak0) | [The Nymph's Vessel](https://open.spotify.com/album/6ADS7HvbQTiH8Qf7wMT8ub) | 2:40 | 2026-10-08 |  |
 | [Antidote](https://open.spotify.com/track/6HidUQd2zsPED0wenu4HTK) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [A Too Lyrical](https://open.spotify.com/artist/1uvEtoW9SltUZ8bTZBIt64) | [Antidote](https://open.spotify.com/album/0Uz2hkErLP4W0eA8j2Q6y4) | 4:04 | 2026-03-16 | 2026-04-12 |
 | [Anxiety You](https://open.spotify.com/track/470eynl4mNNwdfnjmpXP1M) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Anxiety You](https://open.spotify.com/album/03qy6zCm1Y7oMSZIFDXSax) | 5:32 | 2026-05-26 | 2026-07-03 |
 | [Anything Goes](https://open.spotify.com/track/7MZE2xeA3tGnbtIEDSJmmS) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Anything Goes](https://open.spotify.com/album/160vx1LCMqRpgwWMlVaGCu) | 4:03 | 2025-09-11 | 2025-11-29 |
@@ -566,6 +567,7 @@
 | [Hoy \(A Tu Lado\) \[En Vivo\]](https://open.spotify.com/track/6zQelbgxGQjsPbn6eaPRNG) | [JUAN HUMO](https://open.spotify.com/artist/3WXP65ZKIX6dfhOhrFOHsS), [maui](https://open.spotify.com/artist/00dQ9WiJc29XUzvWXvCXlG) | [Hoy \(A Tu Lado\) \[En Vivo\]](https://open.spotify.com/album/18YVHuUzk7MftUfUX3LCcB) | 4:33 | 2025-12-15 | 2026-01-15 |
 | [Hurricane](https://open.spotify.com/track/1masz2eX4eOLypH3rlfurg) | [OLVRE](https://open.spotify.com/artist/60wwsbAaj20bZGrn4yLXy7) | [Hurricane](https://open.spotify.com/album/1Qq6cOb9vaA51t52qaeLoA) | 3:59 | 2026-07-11 | 2026-08-10 |
 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 | 2026-09-19 |  |
+| [Hypnotize](https://open.spotify.com/track/5ZwlLHblKBlEzqjwoEqHSl) | [Random Anthem](https://open.spotify.com/artist/4OpTBujVkFk2UHjNz63Ou1) | [Hypnotize](https://open.spotify.com/album/1skuWuLALMueDBWPViQTre) | 3:35 | 2026-10-08 |  |
 | [Hängematte](https://open.spotify.com/track/5w8apl86z4vmd1wkSRJr4G) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Hängematte](https://open.spotify.com/album/3RY4slE0DaXLZNsMBEg3GB) | 3:51 | 2026-01-16 | 2026-02-20 |
 | [I Believe In A Thing Called Love](https://open.spotify.com/track/4MIfPxadLGN52O6PZmGWsg) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [I Believe In A Thing Called Love](https://open.spotify.com/album/0J2tyt22Agtt6i4IgZnkTC) | 3:25 | 2026-05-11 | 2026-07-03 |
 | [I came like water, like wind I go](https://open.spotify.com/track/2QfSa214f8Mvij3TyEQn8p) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [I came like water, like wind I go](https://open.spotify.com/album/3jQo8nHd9lyBQ5J510ASy2) | 2:59 | 2025-07-11 | 2026-01-05 |
@@ -595,6 +597,7 @@
 | [I painted our kitchen](https://open.spotify.com/track/0M7wvy5zekMKNkGrT1WMsB) | [Heather Bond](https://open.spotify.com/artist/20sShzubGeYpYFNoDY11sK) | [somewhere out there](https://open.spotify.com/album/3b7kPzUL5gR4JKTAAGjDGQ) | 4:44 | 2026-02-04 | 2026-03-07 |
 | [I RAGAZZI DEL 2020](https://open.spotify.com/track/4KqNZui4229o3aQu6i175G) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [I RAGAZZI DEL 2020](https://open.spotify.com/album/1WIXpY3RQ4b8pHn40b1nP8) | 4:31 | 2025-12-22 | 2026-01-24 |
 | [I Remember](https://open.spotify.com/track/1g6A2VknXWthpFdIABD7TL) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [I Remember](https://open.spotify.com/album/329hvLLTQfamreFNuFYLy5) | 2:10 | 2025-10-02 | 2025-11-29 |
+| [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 | 2026-10-08 |  |
 | [I See You Once More](https://open.spotify.com/track/0KuDa1TMoMh9jEYV0gtEzR) | [Zaem Music](https://open.spotify.com/artist/6CAVaVhGT7vBdU8t03ISdJ) | [Burning in Silence](https://open.spotify.com/album/33xilSeFnzEolLFgF0RFTA) | 3:29 | 2026-03-14 | 2026-04-12 |
 | [I Trust U](https://open.spotify.com/track/1do4St6MSCxSaBMzSn3mGA) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm), [m3gatron](https://open.spotify.com/artist/6dKmSxQAjW9bjedEGhsIzj) | [I Trust U](https://open.spotify.com/album/0qDdkShB7WLExUZhL0rNK7) | 2:52 | 2025-09-11 | 2025-11-29 |
 | [I Want It, I Need It](https://open.spotify.com/track/4bxyJNeHP6Vs7lMpCH7S8L) | [ARIE](https://open.spotify.com/artist/6dA76J841h4udyGQEoxnng) | [I Want It, I Need It](https://open.spotify.com/album/0nNZkPn5WAnal2swOTDrSw) | 2:56 | 2026-04-20 | 2026-06-05 |

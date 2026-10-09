@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 787 songs - 2 day 3 hr 3 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 788 songs - 2 day 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -795,5 +795,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 785 | [Cloud Pleaser](https://open.spotify.com/track/4qelMjqFiWzFN1kmtQQkmT) | [Black Dice](https://open.spotify.com/artist/6xV3tISBQOJ46BJPlC02tX) | [Creature Comforts](https://open.spotify.com/album/6Eln8R83jrKsKFtegvuOHr) | 1:43 |
 | 786 | [Son Of A Gun](https://open.spotify.com/track/5YwC6cvM1rYyzzSxsR3zbf) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 1:56 |
 | 787 | [Crystals and Herbs](https://open.spotify.com/track/2o5IIprbpqJfv9Cz18Bi7M) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [I Heard It's A Mess There Too](https://open.spotify.com/album/0FUznat4Kw5r3i8trH7ds5) | 1:31 |
+| 788 | [Mesh](https://open.spotify.com/track/6q434zzWBD7culnGqk7rc3) | [Toys From Taiwan](https://open.spotify.com/artist/2FOHOwAyJLD2RImyfPimKa) | [Shorts! Vol\. 1](https://open.spotify.com/album/07mB7TcGEStlDvLkMP7ukh) | 1:35 |
 
-Snapshot ID: `AAAJyvdg1cW9aJYHmFDy2byR7e2POXav`
+Snapshot ID: `AAAJy/vv2Z5FiQ9u1hAqNVwrqDTl0xN5`

@@ -1639,6 +1639,28 @@
     },
     {
       "album": {
+        "name": "Ashiyan",
+        "url": "https://open.spotify.com/album/5NN1qjh2s9SNlpBvaUBLu3"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Ashiyan",
+      "url": "https://open.spotify.com/track/3ngKN1xEDe8fdMYtaQ16c9"
+    },
+    {
+      "album": {
         "name": "atari",
         "url": "https://open.spotify.com/album/5PtDkXw3gSBYk1g7oDJUda"
       },
@@ -2152,7 +2174,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 280434,
       "name": "Badal Aye",
       "url": "https://open.spotify.com/track/49UaCTFu31btOemZy8EfAI"
@@ -3333,7 +3355,7 @@
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 213085,
+      "duration_ms": 214015,
       "name": "Beraham",
       "url": "https://open.spotify.com/track/0niwRGVIhJyBdvgpMtoQgK"
     },
@@ -3626,16 +3648,16 @@
           "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
         },
         {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        },
-        {
           "name": "Kaka",
           "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
         },
         {
           "name": "Twinkle Aggrwal",
           "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "date_added": "2026-09-29",
@@ -9911,6 +9933,24 @@
     },
     {
       "album": {
+        "name": "Ishaare",
+        "url": "https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142173,
+      "name": "Ishaare",
+      "url": "https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq"
+    },
+    {
+      "album": {
         "name": "Ishq Bukhaar (From \"Tehran\")",
         "url": "https://open.spotify.com/album/3WTNT3qXCqh4ytg3aNhvom"
       },
@@ -12486,7 +12526,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 248500,
       "name": "Kaho Toh - From \"Prem Keetanu\"",
       "url": "https://open.spotify.com/track/3L9Ajvs1x5xQfuapoVAZOm"
@@ -14814,6 +14854,10 @@
         {
           "name": "Alok Ranjan Srivastava",
           "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        },
+        {
+          "name": "Sahil Vishwakarma",
+          "url": "https://open.spotify.com/artist/3cqINZyIxPLf7qW1cw0mQV"
         }
       ],
       "date_added": "2026-09-29",
@@ -17074,6 +17118,28 @@
       "duration_ms": 200250,
       "name": "Naine Ra Lobhi - From \"120 Bahadur\"",
       "url": "https://open.spotify.com/track/0g7XeVUi3TuJdSKaQj72Rg"
+    },
+    {
+      "album": {
+        "name": "Tum Mere Ho",
+        "url": "https://open.spotify.com/album/25xGRsas3VYhgVZLgklIVd"
+      },
+      "artists": [
+        {
+          "name": "Sanju Rathod",
+          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
+        },
+        {
+          "name": "G-SPXRK",
+          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161339,
+      "name": "Nakhre",
+      "url": "https://open.spotify.com/track/3oKMkK72dhxniqCKXrhDvq"
     },
     {
       "album": {
@@ -19592,7 +19658,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 192777,
       "name": "Raaton Mein Aana (From \"Vibe\")",
       "url": "https://open.spotify.com/track/1CELH8oOGTS3J4lTyQhD7l"
@@ -20897,6 +20963,32 @@
     },
     {
       "album": {
+        "name": "Sabar (From \"Bhoomi 2026\")",
+        "url": "https://open.spotify.com/album/6luvLJrgAbGrzMT6yQBhCr"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277941,
+      "name": "Sabar (From \"Bhoomi 2026\")",
+      "url": "https://open.spotify.com/track/1i68oUlj31syiQ3ZeA1yPc"
+    },
+    {
+      "album": {
         "name": "Sach Ka Daayra (From \"Daayra\")",
         "url": "https://open.spotify.com/album/1uJYvfX4iBkl8VgeStSaCQ"
       },
@@ -20916,7 +21008,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 390400,
       "name": "Sach Ka Daayra (From \"Daayra\")",
       "url": "https://open.spotify.com/track/45EeMPHYDuI9SRb4oIB76y"
@@ -25069,6 +25161,36 @@
     },
     {
       "album": {
+        "name": "Tujh Mein Basi Meri Jaan (From \"Prahaar: The Untold Story Of Ujjwal Nikam\")",
+        "url": "https://open.spotify.com/album/64AlQl7Bmpu0jseIVRX577"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234047,
+      "name": "Tujh Mein Basi Meri Jaan (From \"Prahaar: The Untold Story Of Ujjwal Nikam\")",
+      "url": "https://open.spotify.com/track/2t5tY8gvTlUlGlOuG8Czne"
+    },
+    {
+      "album": {
         "name": "Tujhko (From \u201cCocktail 2\u201d)",
         "url": "https://open.spotify.com/album/5UDscrlkAJfJPEGiKUdt3u"
       },
@@ -25964,7 +26086,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 271588,
       "name": "Vingansa (From \"Drishyam: The Conclusion\")",
       "url": "https://open.spotify.com/track/1GZU2LObsyEmUCEovzd7J7"

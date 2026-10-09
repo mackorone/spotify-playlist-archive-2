@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-289 songs - 22 hr 56 min
+290 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Never Go Back](https://open.spotify.com/track/3fT7kJQQHAeNBlVlSQgDNo) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Back To New Pt\. 2](https://open.spotify.com/album/3Vp8THgUHUsYgoXSfqS2Y2) | 6:08 | 2022-01-07 | 2022-07-23 |
 | [New Nkalo](https://open.spotify.com/track/5kNWbTd20m5zeLEoRafalx) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [New Nkalo](https://open.spotify.com/album/7lYvclewmJFSxM9wko04l5) | 4:28 | 2023-08-04 | 2024-01-05 |
 | [New Nkalo](https://open.spotify.com/track/7Cr69VwLjFKZqjFXRoxRUe) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [New Nkalo](https://open.spotify.com/album/0EwDujZufAB6ScPehLcCsM) | 4:28 | 2021-12-17 | 2022-07-26 |
+| [new romance](https://open.spotify.com/track/0tu3eVPEokOCXR70x0IYUI) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [new romance](https://open.spotify.com/album/6uC7ku55WzqGId2MbKZFWa) | 3:54 | 2026-10-09 |  |
 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 | 2021-12-17 |  |
 | [No Place](https://open.spotify.com/track/5M1AHTCbv994PaCdqtsnHw) | [Sumluv](https://open.spotify.com/artist/4CDA4KlCgj3KRnis6eX0Dq) | [Balance](https://open.spotify.com/album/5iaCxLWuC5xVuDPXHDzxi1) | 5:00 | 2021-12-17 | 2022-07-29 |
 | [Nogueira](https://open.spotify.com/track/2RJItWtvRHnixZvNEeX4yb) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Nogueira](https://open.spotify.com/album/0gNPNf2lNBAy9Q5b1ket5I) | 4:42 | 2022-03-25 | 2022-07-29 |
@@ -280,7 +281,7 @@
 | [U Will Change My Mind](https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [U Will Change My Mind](https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV) | 3:54 | 2025-07-25 |  |
 | [Ultra](https://open.spotify.com/track/2H3d9MtmDpR4EYh2DlPC3F) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa), [Frag Maddin](https://open.spotify.com/artist/2DdlbTRvIhQMBO6iHHBZHO) | [My Name Is the Two, Some People Call Me the Funk](https://open.spotify.com/album/1cyVOcnCIvdQjTc2oLPy6Z) | 4:09 | 2023-01-27 | 2023-02-04 |
 | [Undergrowth](https://open.spotify.com/track/6FNAdNwaknBVkg4u7CSMTp) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Undergrowth](https://open.spotify.com/album/2orPEElJwKWjmr4DPEhdjB) | 2:53 | 2021-12-17 | 2022-05-22 |
-| [Ursa Minor](https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI) | 4:41 | 2026-04-03 |  |
+| [Ursa Minor](https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI) | 4:41 | 2026-04-03 | 2026-10-09 |
 | [Useful](https://open.spotify.com/track/2UXPd6q6LN9oYSagng8tR5) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [Useful](https://open.spotify.com/album/7EfwWRHKY93vqZGp3UsZJ9) | 5:23 | 2022-03-25 | 2022-04-20 |
 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 | 2025-05-30 |  |
 | [Vibrant Air](https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 4:11 | 2022-10-21 | 2024-04-19 |

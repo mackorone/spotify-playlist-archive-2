@@ -2355,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "But Not For Me",
+        "url": "https://open.spotify.com/album/1IDdRfd99shwFnJzGJdvYm"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310973,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/0Ls0HlOqQtCpoPwUu5yLzc"
+    },
+    {
+      "album": {
         "name": "But Not for Me",
         "url": "https://open.spotify.com/album/2vkGc6locFx5ukMogc8u5r"
       },
@@ -6150,7 +6168,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 218602,
       "name": "How About You",
       "url": "https://open.spotify.com/track/5Q5MOdNowDzfIGnS6AKur1"
@@ -8024,6 +8042,24 @@
       "duration_ms": 274397,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK"
+    },
+    {
+      "album": {
+        "name": "For Dinah (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7628tzbJBorWd1ENeXMTTS"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172323,
+      "name": "Ill Wind (You're Blowin' Me No Good)",
+      "url": "https://open.spotify.com/track/08E6if2WzlpxVXtqIMOtId"
     },
     {
       "album": {
@@ -11638,7 +11674,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170767,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"

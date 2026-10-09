@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,917 songs - 11 day 2 hr 32 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,921 songs - 11 day 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4925,5 +4925,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4915 | [Walking In The Sand](https://open.spotify.com/track/0RREuZAcmnXVMuPQr8I30Z) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [The Seagull Tapes](https://open.spotify.com/album/2cgZrZSHxy7iDq02XQrUjQ) | 2:48 |
 | 4916 | [Aquarela](https://open.spotify.com/track/2sTYC3WPLl4QZv5yJQDa3B) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [A Short Message To You](https://open.spotify.com/album/1eLX1dezUn6SmU0MUUYG5j) | 2:14 |
 | 4917 | [Estranei](https://open.spotify.com/track/1FeKKIwmQ1sS4DPniLLEaT) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [Estranei](https://open.spotify.com/album/1skmozP6QLcI0OiMJSv4OZ) | 2:54 |
+| 4918 | [Shooting Star](https://open.spotify.com/track/649guyZMWfHWo1DstGQaWs) | [Albie Tarr](https://open.spotify.com/artist/0x9qBvSIB4OYISgA2Xyfdx) | [Shooting Star](https://open.spotify.com/album/1TwTx5GYymtmt7uLEM2YOd) | 3:37 |
+| 4919 | [Estrelas me Seguem](https://open.spotify.com/track/73bNgajn2fdmaOehmhl5OX) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [A Short Message To You](https://open.spotify.com/album/1eLX1dezUn6SmU0MUUYG5j) | 2:07 |
+| 4920 | [I BE ME](https://open.spotify.com/track/0TwWsBOMgc9G7tlsNnDdvU) | [boardwalkmuscle](https://open.spotify.com/artist/68IuRxKkIWIQ19PjJhKupR), [NBA YoungBoy](https://open.spotify.com/artist/1Dy7HmdCDvaHZOOCO5mJsu) | [I BE ME](https://open.spotify.com/album/3q1NRW0EqYlvOhwHIjalDG) | 4:28 |
+| 4921 | [Light Air](https://open.spotify.com/track/46xsmhel32WEYMPdHl63Lu) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [1994](https://open.spotify.com/album/2wfuupUkYaanOecKigtulu) | 3:56 |
 
-Snapshot ID: `AAAKcaB9iROkSwsQBYLe8LXsQETW/AmM`
+Snapshot ID: `AAAKdYJHx66a64MATC0tRHqBSFDkCqn/`

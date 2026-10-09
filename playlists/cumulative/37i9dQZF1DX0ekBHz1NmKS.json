@@ -23642,7 +23642,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 199507,
       "name": "Love = Art",
       "url": "https://open.spotify.com/track/1tWIQ6HgVTfQFD1f5WiiIc"
@@ -27482,7 +27482,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 193026,
       "name": "Nollpunkt",
       "url": "https://open.spotify.com/track/072OSFoPMNlQoKaGvv27ii"
@@ -32618,7 +32618,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 147944,
       "name": "Scissors",
       "url": "https://open.spotify.com/track/603Wr870XQdr4pXG0qyCe2"
@@ -33940,6 +33940,24 @@
       "duration_ms": 172866,
       "name": "Smutsiga gatan",
       "url": "https://open.spotify.com/track/1I3mihzVo5lliG4Vit9Yhk"
+    },
+    {
+      "album": {
+        "name": "Bl\u00e5 Minnen (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5bn6OX3uS4YJ6aLm2cHAXf"
+      },
+      "artists": [
+        {
+          "name": "Von Disco",
+          "url": "https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158383,
+      "name": "Smygr\u00f6kare",
+      "url": "https://open.spotify.com/track/1aprNFDObj8x3J0wRHDPoA"
     },
     {
       "album": {
@@ -38333,6 +38351,24 @@
     },
     {
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5wjfDqEmIWfst84JhCDqbk"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181415,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6F5ZmNzsrApPjgoGQnnQs4"
+    },
+    {
+      "album": {
         "name": "The Bog Body",
         "url": "https://open.spotify.com/album/4K5EXv3cUJjp8HjAXasPJP"
       },
@@ -41594,6 +41630,24 @@
       "duration_ms": 184773,
       "name": "Vet Hon Om?",
       "url": "https://open.spotify.com/track/0078peqORcMMXbcYEfeLkk"
+    },
+    {
+      "album": {
+        "name": "Veteraner",
+        "url": "https://open.spotify.com/album/30p7eIg2ZUEsa02NqX7yZm"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272470,
+      "name": "Veteraner",
+      "url": "https://open.spotify.com/track/4xfl1mBH3zF35Oe5Za10uc"
     },
     {
       "album": {

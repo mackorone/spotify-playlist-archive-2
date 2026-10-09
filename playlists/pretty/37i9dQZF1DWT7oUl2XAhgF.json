@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: The Womack Sisters",
-  "num_followers": 406360,
+  "num_followers": 406410,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJv0RidU3q7pDq3juSRoEh/9wh83",
+  "snapshot_id": "AAAAACExKALATnKdTz0vNq5Sw9J03thH",
   "tracks": [
     {
       "added_at": "2026-10-02 04:00:47",
@@ -27,6 +27,22 @@
       "duration_ms": 168482,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/6DZoMlHPA6CvrabWgCD3nm"
+    },
+    {
+      "added_at": "2026-10-09 04:01:03",
+      "album": {
+        "name": "Satisfy The Way I Do",
+        "url": "https://open.spotify.com/album/1PvLiOeno1xXFaYgF1apnz"
+      },
+      "artists": [
+        {
+          "name": "Eddie 9V",
+          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
+        }
+      ],
+      "duration_ms": 225048,
+      "name": "Satisfy The Way I Do",
+      "url": "https://open.spotify.com/track/4TegVvKvMmGIpFvDGgL1rt"
     },
     {
       "added_at": "2026-10-02 04:00:47",
@@ -63,6 +79,26 @@
       "duration_ms": 202110,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4akuf0PPq62BsriUW7m2rJ"
+    },
+    {
+      "added_at": "2026-10-09 04:01:03",
+      "album": {
+        "name": "December Sunshine",
+        "url": "https://open.spotify.com/album/7Fdm9UfKRv0ZYmyWC118P0"
+      },
+      "artists": [
+        {
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
+        },
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "December Sunshine",
+      "url": "https://open.spotify.com/track/52JNz2JSYdRVDQwGb2KKPd"
     },
     {
       "added_at": "2026-09-25 04:00:33",
@@ -131,22 +167,6 @@
       "duration_ms": 219653,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6tzbQbRtXWqwqkB0U8cm6v"
-    },
-    {
-      "added_at": "2026-09-11 04:00:58",
-      "album": {
-        "name": "Rock Your Baby",
-        "url": "https://open.spotify.com/album/28nLfpXbzJt4lWPH24ZVlc"
-      },
-      "artists": [
-        {
-          "name": "Eddie 9V",
-          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/0LrsR74qQuD4V7IojAvK0m"
     },
     {
       "added_at": "2026-09-04 04:00:33",
@@ -1639,22 +1659,6 @@
       "duration_ms": 175103,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/3wtwBpc3DAlbPtvSdKl73f"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Slang Spirituals",
-        "url": "https://open.spotify.com/album/1sPGKewgVhu3Iwfqq1XZwa"
-      },
-      "artists": [
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        }
-      ],
-      "duration_ms": 266426,
-      "name": "Like a Woman",
-      "url": "https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24"
     },
     {
       "added_at": "2024-09-20 04:00:00",

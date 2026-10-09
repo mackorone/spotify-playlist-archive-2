@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Saloni
 
-594 songs - 1 day 11 hr 18 min
+595 songs - 1 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Nene Ila](https://open.spotify.com/track/4Pu8BNqEffuLFDvnpyIdbD) | [Ayaan](https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Shravan Pakalapati](https://open.spotify.com/artist/0BWC5EnVELcjkDBbsI2mtZ) | [Nene Ila](https://open.spotify.com/album/4or2dpWYU3XqNEbssjOZQN) | 5:54 | 2025-11-21 | 2026-06-12 |
 | [Nene ila](https://open.spotify.com/track/5DpLSzttzURdtjRqiqhuLx) | [Shravan Pakalapati](https://open.spotify.com/artist/0BWC5EnVELcjkDBbsI2mtZ), [Ayaan](https://open.spotify.com/artist/1MMBkicGbEkW5M1UimzBuP), [Stanley Sajeev](https://open.spotify.com/artist/48ZCF46lcsGvMQ3keWLY44), [Srirag Vadlakonda](https://open.spotify.com/artist/35nglePPpoof0Yl8rIOpXX) | [Nene ila](https://open.spotify.com/album/5sy2tWFF8emaC4E7s3NiYS) | 3:34 | 2024-08-02 | 2024-11-26 |
 | [Nenevaro Theliyaka Mundhe](https://open.spotify.com/track/1rMOh1plvSA7HTgXc1c4zT) | [Praveen Kumar Banavathu](https://open.spotify.com/artist/3gVvcQXv1lmZr5iWhNXW7E), [Rajashekar Parsha](https://open.spotify.com/artist/7k0oRtPlbMSdf5ZyESXTqM) | [Nenevaro Theliyaka Mundhe](https://open.spotify.com/album/6tIj7YcWkgn4eA8vuq14JI) | 4:34 | 2023-07-10 | 2023-09-05 |
+| [Ni sarigame](https://open.spotify.com/track/6MR1Fyg8mxKeSTHwaYUiUr) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf) | [Ni sarigame](https://open.spotify.com/album/7xV0EvDpgt2glgL7JHekFA) | 3:03 | 2026-10-07 |  |
 | [Ni Valle](https://open.spotify.com/track/62tvZlylMVwe71V1mw47tU) | [D'strucT](https://open.spotify.com/artist/533mt65nKDRf5XfTNgawj8), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Ni Valle](https://open.spotify.com/album/4hlJkbygiMvHm1mIQBIWbc) | 2:28 | 2023-08-18 | 2023-09-09 |
 | [Nidarove Cheliya](https://open.spotify.com/track/6JhDvJfUCR9G5wnUQZcmjx) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aditya Yashasvi](https://open.spotify.com/artist/00F8wb2vP6TZl4cUDL3tBg), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS) | [Nidarove Cheliya](https://open.spotify.com/album/0DmOGXWANZIx7ly9oMogwt) | 3:10 | 2025-02-27 | 2025-08-22 |
 | [Ningiloni Chandamama](https://open.spotify.com/track/5duaeNlFheTw4bGkuywnRe) | [Yadagiri Ajay Yesudass](https://open.spotify.com/artist/0dA5o66qNf5LDGxkTcuWXL) | [Ningiloni Chandamama](https://open.spotify.com/album/7u2HRvuKdLZ5f6ek1xg0rv) | 4:33 | 2026-02-06 | 2026-08-14 |

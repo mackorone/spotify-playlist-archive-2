@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Natalia Marczuk",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: HELA",
   "name": "up next",
   "tracks": [
     {
@@ -2191,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "b\u0119dziesz tu tylko raz",
+        "url": "https://open.spotify.com/album/5stKoETF3L7AnCrJXP6gZL"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180230,
+      "name": "b\u0119dziesz tu tylko raz",
+      "url": "https://open.spotify.com/track/2iO0vk3hMDGC0UrT9Q2mIB"
+    },
+    {
+      "album": {
         "name": "WARM UP",
         "url": "https://open.spotify.com/album/4aAFN9ics0Z5JKVfBeahxV"
       },
@@ -3028,6 +3046,24 @@
       "duration_ms": 136124,
       "name": "comeback!",
       "url": "https://open.spotify.com/track/5fCioQ9fV5gDORRTRTC0j7"
+    },
+    {
+      "album": {
+        "name": "poKOIk",
+        "url": "https://open.spotify.com/album/2tgSwqaUiSoukJzTDZh6Fa"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222649,
+      "name": "cool kids",
+      "url": "https://open.spotify.com/track/6n3VDVUHwwiOf3fuykFtkf"
     },
     {
       "album": {
@@ -4414,6 +4450,24 @@
       "duration_ms": 138409,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32"
+    },
+    {
+      "album": {
+        "name": "D\u0142o\u0144 trzymam w laysach",
+        "url": "https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146280,
+      "name": "D\u0142o\u0144 trzymam w laysach",
+      "url": "https://open.spotify.com/track/13epEQaevgVluo5VW66M9t"
     },
     {
       "album": {
@@ -6705,6 +6759,24 @@
     },
     {
       "album": {
+        "name": "Je\u015bli co\u015b ma by\u0107",
+        "url": "https://open.spotify.com/album/0c39eUKo9o1CurcJM20rfz"
+      },
+      "artists": [
+        {
+          "name": "Zofia Alaya",
+          "url": "https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142538,
+      "name": "Je\u015bli co\u015b ma by\u0107",
+      "url": "https://open.spotify.com/track/4682JPUNG75eyc65Ophq5w"
+    },
+    {
+      "album": {
         "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
         "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
       },
@@ -7052,7 +7124,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 150000,
       "name": "Kim jestem?",
       "url": "https://open.spotify.com/track/22YghQ8Kr3nXtmuIgb47ge"
@@ -7164,7 +7236,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189084,
       "name": "Kolejka",
       "url": "https://open.spotify.com/track/7zpjK4KlQKi3rRRENKfUMH"
@@ -12384,7 +12456,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 211732,
       "name": "Po nocach",
       "url": "https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy"
@@ -12955,6 +13027,24 @@
     },
     {
       "album": {
+        "name": "PRZEZ PRZYPADEK",
+        "url": "https://open.spotify.com/album/0p6HbDKQrGV3MpypC2sm4a"
+      },
+      "artists": [
+        {
+          "name": "HELA",
+          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "PRZEZ PRZYPADEK",
+      "url": "https://open.spotify.com/track/23BvVrhz0PtNYyIx1dd5MD"
+    },
+    {
+      "album": {
         "name": "PRZY TOBIE",
         "url": "https://open.spotify.com/album/5gcQhuYnWRlB7ZcIyD7iOB"
       },
@@ -13480,7 +13570,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 190800,
       "name": "rozla\u0142am mleko",
       "url": "https://open.spotify.com/track/6OpN6R8X0L1MMihWmTIM6M"
@@ -16678,7 +16768,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 207511,
       "name": "Unikat",
       "url": "https://open.spotify.com/track/4traV6vOZ2ek6x85VDf2M8"
@@ -17018,7 +17108,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 171810,
       "name": "warte wi\u0119cej",
       "url": "https://open.spotify.com/track/41vHOeTEjzNJ29bcf0MHqp"
@@ -18976,6 +19066,24 @@
       "duration_ms": 135477,
       "name": "\u015amia\u0107 si\u0119 i p\u0142aka\u0107",
       "url": "https://open.spotify.com/track/2Q3Y2eR0Sx90JKWl7H265z"
+    },
+    {
+      "album": {
+        "name": "\u015bni\u0142o mi si\u0119, \u017ce si\u0119 nie zakocha\u0142am",
+        "url": "https://open.spotify.com/album/2cR7zPwNhEopnGOvmsxQDn"
+      },
+      "artists": [
+        {
+          "name": "zofia justy\u0144ska",
+          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173382,
+      "name": "\u015bni\u0142o mi si\u0119, \u017ce si\u0119 nie zakocha\u0142am",
+      "url": "https://open.spotify.com/track/1XUeJd5kGm6k7qRix6mWqg"
     },
     {
       "album": {

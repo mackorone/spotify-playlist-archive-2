@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137190,
+  "num_followers": 137189,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -903,42 +903,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        }
-      ],
-      "duration_ms": 166692,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Acalanto",
-        "url": "https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
-        }
-      ],
-      "duration_ms": 268685,
-      "name": "Acalanto",
-      "url": "https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Alma Bonita",
         "url": "https://open.spotify.com/album/5fLZ3JHapAITqNBIBed2L9"
       },
@@ -971,6 +935,42 @@
       "duration_ms": 181992,
       "name": "Bem ou Mal",
       "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 166692,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Acalanto",
+        "url": "https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+        }
+      ],
+      "duration_ms": 268685,
+      "name": "Acalanto",
+      "url": "https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n"
     },
     {
       "added_at": "2025-12-05 19:00:22",

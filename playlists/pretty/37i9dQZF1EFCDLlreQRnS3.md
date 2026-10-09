@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 136 | [Can't Get Enough](https://open.spotify.com/track/3f8d8noW0QkAD63iCeEsQX) | [Fynn](https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m), [Mari Cray](https://open.spotify.com/artist/5rKugNAtUbbN9vULgSBkp0) | [Can't Get Enough](https://open.spotify.com/album/0tlhRvdTPX6VEtERwuxuIE) | 3:02 |
 | 137 | [Rose Tinted Glass](https://open.spotify.com/track/0jn4mx9HMpXHVIFqrFLDA6) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Violets From Lily](https://open.spotify.com/album/0H3C62RxEl93hRjZVKyODU) | 2:19 |
 | 138 | [Skydive](https://open.spotify.com/track/0sarXEVIAjsJva5gnAYdjk) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Fairy Pop](https://open.spotify.com/album/3cPdL4VimfdCUNqkfvdArO) | 3:02 |
-| 139 | [Aftermath](https://open.spotify.com/track/1X2tQidf0mVVkxqDkPpizQ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Aftermath](https://open.spotify.com/album/6BsjujyATgAPNk6yX7bUmI) | 4:11 |
-| 140 | [Joyride](https://open.spotify.com/track/4xtmnHqNy5T3iDNIdP9ht3) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Joyride](https://open.spotify.com/album/3y9OuYfxqAuJUfwrXo2y9h) | 2:42 |
+| 139 | [Joyride](https://open.spotify.com/track/4xtmnHqNy5T3iDNIdP9ht3) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Joyride](https://open.spotify.com/album/3y9OuYfxqAuJUfwrXo2y9h) | 2:42 |
+| 140 | [Aftermath](https://open.spotify.com/track/1X2tQidf0mVVkxqDkPpizQ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Aftermath](https://open.spotify.com/album/6BsjujyATgAPNk6yX7bUmI) | 4:11 |
 | 141 | [No Tears Left To Cry](https://open.spotify.com/track/3vk2CnW3F4ZCDlQT0D2DrR) | [Lalu](https://open.spotify.com/artist/3EeikbdxXtVV1PsTiXQbLs) | [No Tears Left To Cry](https://open.spotify.com/album/0HfM6K5msQ7kW7TUFDJ1C2) | 3:24 |
 | 142 | [Details](https://open.spotify.com/track/614LE31TKBoN2y5sRspHyr) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [1200 Beats Per Minute](https://open.spotify.com/album/2MBuopPjLjPdM2eIsznKlm) | 3:21 |
 | 143 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 145 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 146 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AceWAAAAAACmc5FhxzpWJNW/m/RiclSe`
+Snapshot ID: `AceboAAAAAB3EMkI6LV9k5+tnTVM3Fjf`

@@ -5745,6 +5745,24 @@
     },
     {
       "album": {
+        "name": "I See Scared",
+        "url": "https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3"
+      },
+      "artists": [
+        {
+          "name": "Carl Schonbeck",
+          "url": "https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233290,
+      "name": "I See Scared",
+      "url": "https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ"
+    },
+    {
+      "album": {
         "name": "I Think They Call This Love",
         "url": "https://open.spotify.com/album/7CD8kGEMKuOvoSkZSVVyNj"
       },

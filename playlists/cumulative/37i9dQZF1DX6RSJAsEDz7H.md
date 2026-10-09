@@ -4,7 +4,7 @@
 
 > Listen to all the music from Grand Theft Auto VI, out Nov 19.
 
-244 songs - 16 hr 42 min
+246 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Disco Devil](https://open.spotify.com/track/6vX22fwRmM4bI0WpWtAvuJ) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [The Best of Lee Perry](https://open.spotify.com/album/0xQx4gGOK2jReMCdGqUmno) | 7:51 | 2021-11-17 | 2023-11-18 |
 | [Disco Devil \(Extended Version\)](https://open.spotify.com/track/6wQIJNrcLbbGzkOHv3ZUId) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Full Experience](https://open.spotify.com/artist/0uskrxhZacFBjwhUUEcJZv) | [The Best of Lee Perry](https://open.spotify.com/album/2KAaDokIGE8kXHEwisFk3X) | 7:51 | 2023-11-13 | 2024-04-19 |
 | [Dominicana](https://open.spotify.com/track/372SsSoyYYRptlgurA8PEL) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [De Chamaquito Siempre Cabezu](https://open.spotify.com/album/4XKCDArETTHoRY0lUGzSRV) | 2:25 | 2021-12-18 | 2026-09-18 |
+| [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz) | 2:44 | 2026-10-09 |  |
 | [Dos Locos](https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:06 | 2021-12-18 | 2026-09-18 |
 | [Duro 2005](https://open.spotify.com/track/0pgS3J6Vyt1VKrUI0MUeNG) | [La Goony](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:21 | 2021-12-18 | 2026-09-18 |
 | [Eazy\-er Said Than Dunn](https://open.spotify.com/track/5jG3djnKEjdcJwidjYWtxL) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Eazy\-Duz\-It](https://open.spotify.com/album/2glPhGd3WXbnNttSdOOr2e) | 3:39 | 2021-11-17 | 2026-09-18 |
@@ -204,6 +205,7 @@
 | [Stories](https://open.spotify.com/track/5re3c22M1lc9PhJyfpDMDX) | [The Chakachas](https://open.spotify.com/artist/0dEvx7Y18jVslvbP4IksQl) | [Funky Chicken: Belgian Grooves From The 70's](https://open.spotify.com/album/0COMKcYYP2AKhEVsf7DyKX) | 2:38 | 2021-11-17 | 2026-09-18 |
 | [Stories??](https://open.spotify.com/track/2sQpHRF6hpyCYenzOjinr4) | [The Chakachas](https://open.spotify.com/artist/0dEvx7Y18jVslvbP4IksQl) | [Chakachas](https://open.spotify.com/album/2kRkDO5j2nwgq9jqlNCUNU) | 2:47 | 2021-11-17 | 2024-04-19 |
 | [Stress](https://open.spotify.com/track/1YdbiBOWvFUi6Zko3HXyEG) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:58 | 2021-12-18 | 2026-09-18 |
+| [Suzuki \(from GTAVI: The Album\)](https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Suzuki \(from GTAVI: The Album\)](https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp) | 1:51 | 2026-10-09 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 3:12 | 2021-12-18 | 2026-09-18 |
 | [Talkin' to Myself Again](https://open.spotify.com/track/5whNhiIyzbPFz11Vq1kfFj) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Higher Ground](https://open.spotify.com/album/0dRIEwA0oz2M9MnlWrNkHa) | 3:25 | 2026-09-17 |  |
 | [Teardrops](https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Conscience](https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W) | 5:03 | 2021-11-17 | 2026-09-18 |

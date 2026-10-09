@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Feid is bringing the heat this week. Tap in every Thursday for a refresh  <a href=\"https://asheardonfuego.substack.com/p/issue-001-introducing-as-heard-on?r=8i1o2e&utm_campaign=post&utm_medium=web\">(and subscribe to our substack!)</a>  ",
+  "description": "El Malilla is bringing the heat this week. Tap in every Thursday for a refresh  <a href=\"https://asheardonfuego.substack.com/p/issue-001-introducing-as-heard-on?r=8i1o2e&utm_campaign=post&utm_medium=web\">(and subscribe to our substack!)</a>  ",
   "name": "Fuego",
   "tracks": [
     {
@@ -1661,6 +1661,32 @@
     },
     {
       "album": {
+        "name": "6 de la Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4R4mvpVdDEzOEnzFvY0F3B"
+      },
+      "artists": [
+        {
+          "name": "Kenny Die",
+          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        },
+        {
+          "name": "Sebas",
+          "url": "https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J"
+        },
+        {
+          "name": "Jey H",
+          "url": "https://open.spotify.com/artist/1MUrvcaLQS9bwe29QiBnXJ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155453,
+      "name": "6 de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0uBVHQlUFRSyepbljYUjXF"
+    },
+    {
+      "album": {
         "name": "Meneo",
         "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
       },
@@ -2412,7 +2438,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 240058,
       "name": "Acelero lento",
       "url": "https://open.spotify.com/track/3Xvr3tcQ0FHodTsQQ73lz8"
@@ -5124,7 +5150,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 193961,
       "name": "ASTROMELIA",
       "url": "https://open.spotify.com/track/7A20f6Mr0Gf8LocZusKIzC"
@@ -13254,7 +13280,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 235906,
       "name": "creiziiii",
       "url": "https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls"
@@ -17655,6 +17681,28 @@
     },
     {
       "album": {
+        "name": "D\u00f3nde est\u00e1s",
+        "url": "https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5"
+      },
+      "artists": [
+        {
+          "name": "Barbas",
+          "url": "https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "D\u00f3nde est\u00e1s",
+      "url": "https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh"
+    },
+    {
+      "album": {
         "name": "diamantes y espinas",
         "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
       },
@@ -19368,7 +19416,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 136293,
       "name": "EMOcional </3",
       "url": "https://open.spotify.com/track/62s4iszBpTBmeBwjzM0zun"
@@ -23886,6 +23934,32 @@
       "duration_ms": 188304,
       "name": "Gaga",
       "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
+    },
+    {
+      "album": {
+        "name": "GALACTICOS",
+        "url": "https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU"
+      },
+      "artists": [
+        {
+          "name": "Bigg Danny",
+          "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "GALACTICOS",
+      "url": "https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E"
     },
     {
       "album": {
@@ -28572,6 +28646,28 @@
       "duration_ms": 195483,
       "name": "jukiada",
       "url": "https://open.spotify.com/track/1o069EXYorALqprEPFrjqu"
+    },
+    {
+      "album": {
+        "name": "Jukiar",
+        "url": "https://open.spotify.com/album/6Y6UejW92VRsyOlszGLaZU"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Jukiar",
+      "url": "https://open.spotify.com/track/4vwFOaUnVhK9R6TMmnXKGl"
     },
     {
       "album": {
@@ -35494,7 +35590,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188995,
       "name": "ma\u00f1ana",
       "url": "https://open.spotify.com/track/0A1Wi8DaOeqb7tMhFgqQc8"
@@ -45308,7 +45404,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 142275,
       "name": "PERMANENTE",
       "url": "https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V"
@@ -45374,6 +45470,24 @@
       "duration_ms": 160638,
       "name": "Pero Ya No",
       "url": "https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy"
+    },
+    {
+      "album": {
+        "name": "PERRA",
+        "url": "https://open.spotify.com/album/1iisP5Qkr4PJ1h2bdGCCxr"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "PERRA",
+      "url": "https://open.spotify.com/track/2NMxj0w0hat4kkkadr0TGJ"
     },
     {
       "album": {
@@ -64184,6 +64298,36 @@
       "duration_ms": 147840,
       "name": "YO QUIERO",
       "url": "https://open.spotify.com/track/47sQ0h1xhlDWJ3nHbwYPrg"
+    },
+    {
+      "album": {
+        "name": "YO QUIERO (REMIX)",
+        "url": "https://open.spotify.com/album/1lm2EZq4pOP5EOQdv4msEQ"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362908,
+      "name": "YO QUIERO - REMIX",
+      "url": "https://open.spotify.com/track/3t6lnxmOfBc57QRoqvOLdo"
     },
     {
       "album": {

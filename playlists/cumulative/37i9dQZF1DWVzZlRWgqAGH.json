@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Sasha Keable and music for your soul.",
+  "description": "Merna and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -4873,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "Brown Suga",
+        "url": "https://open.spotify.com/album/7AlCAqqMmMbov0vgbSGfN1"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Brown Suga",
+      "url": "https://open.spotify.com/track/3n9UvBVVPoz6ZycXQ6Sm4V"
+    },
+    {
+      "album": {
         "name": "Browride",
         "url": "https://open.spotify.com/album/6dzdCtvjtigo3qfvsWtMAI"
       },
@@ -7400,7 +7418,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 228385,
       "name": "Da Du Dah",
       "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
@@ -7596,6 +7614,24 @@
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+    },
+    {
+      "album": {
+        "name": "MACHIKO",
+        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222970,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5"
     },
     {
       "album": {
@@ -9950,7 +9986,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 151470,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/5X04jyKedcufuGh7Q9ZkMq"
@@ -11963,6 +11999,24 @@
     },
     {
       "album": {
+        "name": "For Seasons: Love in a Time of War",
+        "url": "https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy"
+      },
+      "artists": [
+        {
+          "name": "Merna",
+          "url": "https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267250,
+      "name": "Four Seasons",
+      "url": "https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J"
+    },
+    {
+      "album": {
         "name": "Fractal Spirits (Moo Latte Remix)",
         "url": "https://open.spotify.com/album/6Mo6b2IWd7cXTDv56zE6Mo"
       },
@@ -12374,6 +12428,28 @@
       "duration_ms": 264910,
       "name": "Garage Rooftop",
       "url": "https://open.spotify.com/track/1dekstoglmqX3fq3K42sux"
+    },
+    {
+      "album": {
+        "name": "Sorry For All The Mouth Noises",
+        "url": "https://open.spotify.com/album/3qwXTRo0TfEiJM21zHjdgT"
+      },
+      "artists": [
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        },
+        {
+          "name": "Ross Garren",
+          "url": "https://open.spotify.com/artist/5O46dYO8n6HtLmzkS0QnXG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216839,
+      "name": "Garble",
+      "url": "https://open.spotify.com/track/3negAvpszuxiKrm4Kx24WY"
     },
     {
       "album": {
@@ -18540,7 +18616,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 201000,
       "name": "LET ME GO",
       "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
@@ -21334,7 +21410,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 219653,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6tzbQbRtXWqwqkB0U8cm6v"
@@ -24260,6 +24336,24 @@
       "duration_ms": 157466,
       "name": "Open Eyes",
       "url": "https://open.spotify.com/track/5kiwfZZtRA3YOWqE3UCvzX"
+    },
+    {
+      "album": {
+        "name": "Everything Has Changed",
+        "url": "https://open.spotify.com/album/4oYqwTbEodi9DVme0ngg18"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272998,
+      "name": "Open Windows",
+      "url": "https://open.spotify.com/track/5zbtltpZzAVm2RcdEio75t"
     },
     {
       "album": {
@@ -28618,7 +28712,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 190194,
       "name": "SHINE YOUR LIGHT FOR WE",
       "url": "https://open.spotify.com/track/6LKDFniziDLiGaWauLqzia"
@@ -28914,6 +29008,28 @@
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+    },
+    {
+      "album": {
+        "name": "LK99+ DELUXE",
+        "url": "https://open.spotify.com/album/5hUAbUCIJngR91GstQaBNZ"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225209,
+      "name": "Sleepwalking (+ Durand Bernarr)",
+      "url": "https://open.spotify.com/track/3lHS33KwhJWbDNyB3DNUwu"
     },
     {
       "album": {
@@ -35008,7 +35124,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 225703,
       "name": "Waiting on the Right Time",
       "url": "https://open.spotify.com/track/53bcpHzJ77gVed05RcQ3e2"

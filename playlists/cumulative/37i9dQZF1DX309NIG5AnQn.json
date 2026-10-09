@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo y sudamericano. \n\ud83d\udcf7 Ni\u00f1a Lobo",
+  "description": "rock alternativo y sudamericano. \n\ud83d\udcf7 Pizza",
   "name": "alt/rock",
   "tracks": [
     {
@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang (As\u00ed Es Como Se Hace)",
+        "url": "https://open.spotify.com/album/1rB3GKExOfBYY9cjOnrFIb"
+      },
+      "artists": [
+        {
+          "name": "Pizza",
+          "url": "https://open.spotify.com/artist/5mPqQbrTKLRgUPNNVo47Cv"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203332,
+      "name": "Bang Bang (As\u00ed Es Como Se Hace)",
+      "url": "https://open.spotify.com/track/1PZEh57RE0X0I9UCv7H4NY"
+    },
+    {
+      "album": {
         "name": "Basura",
         "url": "https://open.spotify.com/album/4eHFlThJFVlzTJlapUVChD"
       },
@@ -920,7 +938,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 203584,
       "name": "cada vez que veo tu cara me quiero morir",
       "url": "https://open.spotify.com/track/5d9cA9I3my1vRSPiTStgBl"
@@ -2511,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "El Peque\u00f1o Triunfo",
+        "url": "https://open.spotify.com/album/4EjBqvqK7fFLhFcqkbFhta"
+      },
+      "artists": [
+        {
+          "name": "Rosa Profunda",
+          "url": "https://open.spotify.com/artist/2KhlVX4UoRH2qsJRLIelDs"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271791,
+      "name": "El Peque\u00f1o Triunfo",
+      "url": "https://open.spotify.com/track/7stfqMjByVERhdOAFg2EfD"
+    },
+    {
+      "album": {
         "name": "El piso es lava",
         "url": "https://open.spotify.com/album/3V2UVfnQpccVj661MB97Bm"
       },
@@ -3224,7 +3260,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 202125,
       "name": "Frikidadidou",
       "url": "https://open.spotify.com/track/1sZs4kFiJhCxLXNGHSxYdx"
@@ -4456,7 +4492,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 193178,
       "name": "Mi generaci\u00f3n",
       "url": "https://open.spotify.com/track/1psShCNmdKilNPKdiUVTmw"
@@ -4540,6 +4576,28 @@
       "duration_ms": 140444,
       "name": "Miseria",
       "url": "https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX"
+    },
+    {
+      "album": {
+        "name": "ECOS DE UN \u00c9XTASIS",
+        "url": "https://open.spotify.com/album/2PUJdZX1KM14PXTyHUaXNV"
+      },
+      "artists": [
+        {
+          "name": "HEDON\u00c9",
+          "url": "https://open.spotify.com/artist/5hv0lGqR3uvmLzCSRin4bZ"
+        },
+        {
+          "name": "Chiro",
+          "url": "https://open.spotify.com/artist/5nJLhQnr9KJMJDYC9vdKTS"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168971,
+      "name": "Mn\u00e9mica",
+      "url": "https://open.spotify.com/track/3D9DcotBuSTIyiF4UwOhqK"
     },
     {
       "album": {
@@ -5488,7 +5546,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 148101,
       "name": "Pero ella no",
       "url": "https://open.spotify.com/track/5IhwgSrKFfQufwMSK0LCjF"
@@ -6426,7 +6484,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 219209,
       "name": "SIESTA DE DRAGONES",
       "url": "https://open.spotify.com/track/4i846XTZEZDNidRkBnZ1kG"

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Ashwin Mandoth, Vivek Kiran
 
-738 songs - 1 day 17 hr 43 min
+739 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,6 +662,7 @@
 | [Siddayya](https://open.spotify.com/track/6Q26rNvQqvfvou2Qc2qsga) | [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s) | [Siddayya](https://open.spotify.com/album/4iZpPLYia2PUIZkacxjvLa) | 3:21 | 2026-04-16 |  |
 | [Sindi Sarai](https://open.spotify.com/track/2YePAWfRwKlt5dSgEQs4gS) | [Amrapali Shindhe](https://open.spotify.com/artist/2qEUD5jyimcJVrCttLAjON) | [Sindi Sarai](https://open.spotify.com/album/2saJcd1WCzHnFDjjT8aL1E) | 3:15 | 2024-08-16 | 2025-02-12 |
 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 | 2023-11-14 | 2024-02-17 |
+| [Sobage](https://open.spotify.com/track/7r6zzLnxxlDzhpJkJODCor) | [Srikanth Iyer](https://open.spotify.com/artist/1PJzxgc0GaDN5vC46g1U4P) | [Sobage](https://open.spotify.com/album/2Tu770IsOBkrBnbQ4v7LOH) | 4:01 | 2026-10-07 |  |
 | [Solo King](https://open.spotify.com/track/2caf1VcfyH0Op9ozofaJrN) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Solo King](https://open.spotify.com/album/76ChkZ5OwDEguUC8VZVdJG) | 3:07 | 2023-03-28 | 2023-12-30 |
 | [Soneyeah](https://open.spotify.com/track/7HkGqzq6taygvr8nCO721g) | [Quake](https://open.spotify.com/artist/6PytpCLLu3iY5kXYQq6Dxd), [Martin Yo](https://open.spotify.com/artist/5aoFP8e4teKaBy6MVh8x8f), [Adi Dhar](https://open.spotify.com/artist/0nYRMoyeXOXmvMnkHl9Xfi) | [Soneyeah](https://open.spotify.com/album/2P1N9uIF3fGuQM3p2Uuz4E) | 3:14 | 2023-02-16 | 2023-09-30 |
 | [Sorry](https://open.spotify.com/track/1mcABhQTHBUL2TiL8uLLsj) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Harshitha Shetty](https://open.spotify.com/artist/1p3Rdno6pABWuD9F49UqYu) | [Sorry](https://open.spotify.com/album/4FCuyD2KDLFjNJJfrho2Lb) | 2:46 | 2023-09-29 | 2024-02-17 |

@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "A Window in Menton",
+        "url": "https://open.spotify.com/album/01s6LTgN40ykfbqlZRqp7H"
+      },
+      "artists": [
+        {
+          "name": "Sigrid Vega",
+          "url": "https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173355,
+      "name": "A Window in Menton",
+      "url": "https://open.spotify.com/track/7cL8NOXvk2u5tsX9N6S5NG"
+    },
+    {
+      "album": {
         "name": "Abandoned",
         "url": "https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os"
       },
@@ -3024,6 +3042,24 @@
       "duration_ms": 134625,
       "name": "Herz gebrochen",
       "url": "https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ"
+    },
+    {
+      "album": {
+        "name": "Hidden Away",
+        "url": "https://open.spotify.com/album/0UKyHQHGeVNuWrU60IaABR"
+      },
+      "artists": [
+        {
+          "name": "Sorellien",
+          "url": "https://open.spotify.com/artist/6tskJzai4ETnMp76lomMzr"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160261,
+      "name": "Hidden Away",
+      "url": "https://open.spotify.com/track/43lT9FTdjPmMNcnJ8pcQIU"
     },
     {
       "album": {

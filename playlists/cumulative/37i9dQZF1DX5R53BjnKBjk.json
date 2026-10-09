@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Mata-Le\u00e3o",
+        "url": "https://open.spotify.com/album/71dIXMjX1mEsLYIqyUtNrE"
+      },
+      "artists": [
+        {
+          "name": "Lorena Moura",
+          "url": "https://open.spotify.com/artist/1Voc4loA71s0PHb8K2cNUT"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Carinho",
+      "url": "https://open.spotify.com/track/2nNWtxK93xB0jCpdAzu6k3"
+    },
+    {
+      "album": {
         "name": "Carnaval",
         "url": "https://open.spotify.com/album/5dbVY5NJpmtcIV4CeBlqgN"
       },
@@ -3795,6 +3813,24 @@
     },
     {
       "album": {
+        "name": "ESTRANGEIRA",
+        "url": "https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr"
+      },
+      "artists": [
+        {
+          "name": "Bruna Foss",
+          "url": "https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Medo do Escuro",
+      "url": "https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x"
+    },
+    {
+      "album": {
         "name": "meia volta",
         "url": "https://open.spotify.com/album/5mJRNHDQf9db5gFTu9nD1W"
       },
@@ -6180,7 +6216,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 150978,
       "name": "sinto saudade",
       "url": "https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5"
@@ -6198,7 +6234,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 167341,
       "name": "Sobrenatural",
       "url": "https://open.spotify.com/track/09tfbr1Hp1NVfpq1NIl4w4"

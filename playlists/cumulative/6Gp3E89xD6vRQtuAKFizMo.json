@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Back Once Again",
+        "url": "https://open.spotify.com/album/2u0PXadmhy701I4eG4unyB"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149559,
+      "name": "Back Once Again",
+      "url": "https://open.spotify.com/track/4db1NxHlA788NkAG7t3Boi"
+    },
+    {
+      "album": {
         "name": "Back To Us",
         "url": "https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3"
       },
@@ -7208,6 +7226,24 @@
       "duration_ms": 206857,
       "name": "Mawlee (feat. Young Buck & DJ Afterthought) - RIOT TEN VIP Mix",
       "url": "https://open.spotify.com/track/43885roVl0jIEIpWT1yzyP"
+    },
+    {
+      "album": {
+        "name": "Mi Mente",
+        "url": "https://open.spotify.com/album/7B0WYE4UQ9FlGOJdhiXcXp"
+      },
+      "artists": [
+        {
+          "name": "Shelco",
+          "url": "https://open.spotify.com/artist/4PXoP4OdRB1Hzdr67DIHRD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129704,
+      "name": "Mi Mente",
+      "url": "https://open.spotify.com/track/6P4IyOuAWrbN93pcw2vxSv"
     },
     {
       "album": {

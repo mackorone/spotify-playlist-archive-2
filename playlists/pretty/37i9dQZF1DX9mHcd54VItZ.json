@@ -1,13 +1,29 @@
 {
-  "description": "The best new and classic South African Rock. Cover: Laudo",
-  "num_followers": 28726,
+  "description": "The best new and classic South African Rock. Cover: Coasters",
+  "num_followers": 28731,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJiiqj6FKBfBI70xMkwOZHA2Q82H",
+  "snapshot_id": "AAAAAJeT9cCIB1vs68IPRABKVOUnOnvW",
   "tracks": [
+    {
+      "added_at": "2026-10-08 22:02:27",
+      "album": {
+        "name": "not your wife",
+        "url": "https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA"
+      },
+      "artists": [
+        {
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+        }
+      ],
+      "duration_ms": 225116,
+      "name": "not your wife",
+      "url": "https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC"
+    },
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 193893,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Insecure Meisies",
-        "url": "https://open.spotify.com/album/18J2iHoPYYYPci1BiNeR34"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
-        }
-      ],
-      "duration_ms": 191562,
-      "name": "Insecure Meisies",
-      "url": "https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS"
     },
     {
       "added_at": "2026-09-24 22:01:39",
@@ -63,18 +63,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "NIE M\u00d4RE NIE NOU",
-        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
+        "name": "Insecure Meisies",
+        "url": "https://open.spotify.com/album/18J2iHoPYYYPci1BiNeR34"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
         }
       ],
-      "duration_ms": 158680,
-      "name": "NIE M\u00d4RE NIE NOU",
-      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+      "duration_ms": 191562,
+      "name": "Insecure Meisies",
+      "url": "https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS"
     },
     {
       "added_at": "2026-09-17 22:02:32",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
+        "name": "NIE M\u00d4RE NIE NOU",
+        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "NIE M\u00d4RE NIE NOU",
+      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
         "name": "Spoed",
         "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
       },
@@ -109,20 +125,20 @@
       "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
-      "added_at": "2026-09-24 22:01:39",
+      "added_at": "2026-10-08 22:02:27",
       "album": {
-        "name": "Sweef",
-        "url": "https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1"
+        "name": "Take Me Where The Stars Never Sleep",
+        "url": "https://open.spotify.com/album/73Ljszcx2Nj5gEzN14AkGo"
       },
       "artists": [
         {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+          "name": "Zach Leopard",
+          "url": "https://open.spotify.com/artist/32BTikkFQuadVcD1LHVgWd"
         }
       ],
-      "duration_ms": 205032,
-      "name": "Sweef",
-      "url": "https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24"
+      "duration_ms": 168846,
+      "name": "Take Me Where The Stars Never Sleep",
+      "url": "https://open.spotify.com/track/0kb0V0aWNaJWs221hZdlFW"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -139,6 +155,42 @@
       "duration_ms": 201000,
       "name": "I CHANGED (I'M UP)",
       "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Ryk Met Tyd",
+        "url": "https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 148999,
+      "name": "Ryk Met Tyd",
+      "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
+    },
+    {
+      "added_at": "2026-10-08 22:02:27",
+      "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/4opt1dMgJDgiXtM4CLOBkD"
+      },
+      "artists": [
+        {
+          "name": "Wingerdgriep",
+          "url": "https://open.spotify.com/artist/2n8lLdeP4GOpqrazIKaSMJ"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/0I8AbfFvC9tsx0SkO0cEkZ"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -165,62 +217,6 @@
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
     },
     {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Ryk Met Tyd",
-        "url": "https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 148999,
-      "name": "Ryk Met Tyd",
-      "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "DOOD",
-        "url": "https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        },
-        {
-          "name": "Tasch\u00e9",
-          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
-        }
-      ],
-      "duration_ms": 205191,
-      "name": "DOOD",
-      "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Pose",
-        "url": "https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY"
-      },
-      "artists": [
-        {
-          "name": "Blush",
-          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
-        }
-      ],
-      "duration_ms": 202887,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2"
-    },
-    {
       "added_at": "2026-09-17 22:02:32",
       "album": {
         "name": "Vir die Aardskinders",
@@ -243,18 +239,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Stardust Galaxies",
-        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
+        "name": "DOOD",
+        "url": "https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC"
       },
       "artists": [
         {
-          "name": "The Parlotones",
-          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        },
+        {
+          "name": "Tasch\u00e9",
+          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
         }
       ],
-      "duration_ms": 251600,
-      "name": "Push Me to the Floor",
-      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
+      "duration_ms": 205191,
+      "name": "DOOD",
+      "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
     },
     {
       "added_at": "2026-09-24 22:01:39",
@@ -271,6 +271,38 @@
       "duration_ms": 147006,
       "name": "Song Agt",
       "url": "https://open.spotify.com/track/4aBQmU3t3Da7iP7C3bR7I0"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Pose",
+        "url": "https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+        }
+      ],
+      "duration_ms": 202887,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Stardust Galaxies",
+        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
+      },
+      "artists": [
+        {
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Push Me to the Floor",
+      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
     },
     {
       "added_at": "2026-09-17 22:02:32",
@@ -307,18 +339,18 @@
     {
       "added_at": "2026-09-17 22:02:32",
       "album": {
-        "name": "Everything In Between",
-        "url": "https://open.spotify.com/album/5AymQfngxW5AAnuLWOIroe"
+        "name": "S\u00ea My Hoe",
+        "url": "https://open.spotify.com/album/0Smgjrlc6cHS4ILzvuo6z2"
       },
       "artists": [
         {
-          "name": "Shortstraw",
-          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
         }
       ],
-      "duration_ms": 169306,
-      "name": "What The Hell",
-      "url": "https://open.spotify.com/track/5mgc2DhJUDWUIPCryyb5f5"
+      "duration_ms": 172571,
+      "name": "S\u00ea My Hoe",
+      "url": "https://open.spotify.com/track/4F4bwh59Q5yR5uZ2gk90zt"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -341,22 +373,6 @@
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
     },
     {
-      "added_at": "2026-09-17 22:02:32",
-      "album": {
-        "name": "S\u00ea My Hoe",
-        "url": "https://open.spotify.com/album/0Smgjrlc6cHS4ILzvuo6z2"
-      },
-      "artists": [
-        {
-          "name": "Sonder Onderbroeke",
-          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
-        }
-      ],
-      "duration_ms": 172571,
-      "name": "S\u00ea My Hoe",
-      "url": "https://open.spotify.com/track/4F4bwh59Q5yR5uZ2gk90zt"
-    },
-    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Another Universe",
@@ -371,22 +387,6 @@
       "duration_ms": 214960,
       "name": "Another Universe",
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
-    },
-    {
-      "added_at": "2026-09-17 22:02:32",
-      "album": {
-        "name": "Not My Circus",
-        "url": "https://open.spotify.com/album/6F9WM2OjOvU8nwJ4N0fajZ"
-      },
-      "artists": [
-        {
-          "name": "Mila Smith",
-          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Work Like That",
-      "url": "https://open.spotify.com/track/09JHbZsHQQv9RzpicIuSYr"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -437,52 +437,28 @@
       "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
     },
     {
-      "added_at": "2026-09-17 22:02:32",
+      "added_at": "2026-10-08 22:02:27",
       "album": {
-        "name": "Opgef0k",
-        "url": "https://open.spotify.com/album/1Q7U1erJLEGx1qRFKFkqfZ"
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0EMeDmJQLsESMq6pHeLrQ2"
       },
       "artists": [
         {
-          "name": "TonnelVisie",
-          "url": "https://open.spotify.com/artist/4dQMIBwoSPDi238yr7jUwT"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Opgef0k",
-      "url": "https://open.spotify.com/track/37DcWLild6E1q6RMf7avij"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "KLEUR",
-        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
-      },
-      "artists": [
+          "name": "Die K\u00earels",
+          "url": "https://open.spotify.com/artist/2ZTTYLsTxiItT682ghpsIh"
+        },
         {
-          "name": "MOEGOE",
-          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
-        }
-      ],
-      "duration_ms": 201420,
-      "name": "KLEUR",
-      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
-    },
-    {
-      "added_at": "2026-09-17 22:02:32",
-      "album": {
-        "name": "Lazerbeams of Love",
-        "url": "https://open.spotify.com/album/30t5ggA4ETnIqn0mqkkkOT"
-      },
-      "artists": [
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/7GV4lMBoBmWpQ9fgCiBU0R"
+        },
         {
-          "name": "Mercury's in the Microwave",
-          "url": "https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h"
+          "name": "Arri Opperman",
+          "url": "https://open.spotify.com/artist/1sjAH0qjLwFm8gQxjU8tar"
         }
       ],
-      "duration_ms": 204507,
-      "name": "Self Respect",
-      "url": "https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ"
+      "duration_ms": 151641,
+      "name": "Chuck",
+      "url": "https://open.spotify.com/track/7cxgyzxC9ZfL5KepeaE3qO"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -503,18 +479,34 @@
     {
       "added_at": "2026-09-17 22:02:32",
       "album": {
-        "name": "ROER",
-        "url": "https://open.spotify.com/album/5xk1r1UIiF4WiDc6TuRzTr"
+        "name": "Lazerbeams of Love",
+        "url": "https://open.spotify.com/album/30t5ggA4ETnIqn0mqkkkOT"
       },
       "artists": [
         {
-          "name": "ALTRA-MAL",
-          "url": "https://open.spotify.com/artist/5ajE5Xs6rASLIMmCUAc2Qx"
+          "name": "Mercury's in the Microwave",
+          "url": "https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h"
         }
       ],
-      "duration_ms": 236901,
-      "name": "ROER",
-      "url": "https://open.spotify.com/track/0sesomL3TkuLdL1F30RHi8"
+      "duration_ms": 204507,
+      "name": "Self Respect",
+      "url": "https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "KLEUR",
+        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
+      },
+      "artists": [
+        {
+          "name": "MOEGOE",
+          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
+        }
+      ],
+      "duration_ms": 201420,
+      "name": "KLEUR",
+      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -541,6 +533,22 @@
       "url": "https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu"
     },
     {
+      "added_at": "2026-09-24 22:01:39",
+      "album": {
+        "name": "Sweef",
+        "url": "https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "duration_ms": 205032,
+      "name": "Sweef",
+      "url": "https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24"
+    },
+    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Surpass The Power",
@@ -555,22 +563,6 @@
       "duration_ms": 233200,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
-    },
-    {
-      "added_at": "2026-09-17 22:02:32",
-      "album": {
-        "name": "Ghost Girl",
-        "url": "https://open.spotify.com/album/5ZcSNo605tBB2f00QQsK43"
-      },
-      "artists": [
-        {
-          "name": "Crying in Colour",
-          "url": "https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn"
-        }
-      ],
-      "duration_ms": 178719,
-      "name": "Ghost Girl",
-      "url": "https://open.spotify.com/track/3aOUCkc6Eb0zCwoVpPkUoU"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -609,22 +601,6 @@
       "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
     },
     {
-      "added_at": "2026-09-24 22:01:39",
-      "album": {
-        "name": "Hou Aan Droom",
-        "url": "https://open.spotify.com/album/6poXtmmzC8wfOSNe2LmO2i"
-      },
-      "artists": [
-        {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Hou Aan Droom",
-      "url": "https://open.spotify.com/track/0mwBPej1O7NKAfkytU8eCX"
-    },
-    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Revolusie, Romantiek, Ruk en Rol",
@@ -643,18 +619,18 @@
     {
       "added_at": "2026-09-24 22:01:39",
       "album": {
-        "name": "Twisted By The Sound",
-        "url": "https://open.spotify.com/album/3RYoTkgyhZuKT8otm9DM6H"
+        "name": "Hou Aan Droom",
+        "url": "https://open.spotify.com/album/6poXtmmzC8wfOSNe2LmO2i"
       },
       "artists": [
         {
-          "name": "The Medicine Dolls",
-          "url": "https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese"
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
         }
       ],
-      "duration_ms": 169280,
-      "name": "Twisted By The Sound",
-      "url": "https://open.spotify.com/track/5SQu1E9ACvBeqLxb04224Z"
+      "duration_ms": 225000,
+      "name": "Hou Aan Droom",
+      "url": "https://open.spotify.com/track/0mwBPej1O7NKAfkytU8eCX"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -749,22 +725,6 @@
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
     },
     {
-      "added_at": "2026-09-17 22:02:32",
-      "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/6eUxIoyuCUUVAfJLzn1dbr"
-      },
-      "artists": [
-        {
-          "name": "Tait",
-          "url": "https://open.spotify.com/artist/4euaa2RiB5CKUvkeyTZd3v"
-        }
-      ],
-      "duration_ms": 224727,
-      "name": "Happy Endings",
-      "url": "https://open.spotify.com/track/6kRjBLJwNvmxjrsvRAczQD"
-    },
-    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Pikkewynstraat",
@@ -779,22 +739,6 @@
       "duration_ms": 180011,
       "name": "Pikkewynstraat",
       "url": "https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI"
-    },
-    {
-      "added_at": "2026-09-17 22:02:32",
-      "album": {
-        "name": "Ek Wil Jou Sien",
-        "url": "https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO"
-      },
-      "artists": [
-        {
-          "name": "SENTIMENT",
-          "url": "https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt"
-        }
-      ],
-      "duration_ms": 183238,
-      "name": "Ek Wil Jou Sien",
-      "url": "https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -845,6 +789,58 @@
       "url": "https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4"
     },
     {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Ek Wil Jou Sien",
+        "url": "https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO"
+      },
+      "artists": [
+        {
+          "name": "SENTIMENT",
+          "url": "https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt"
+        }
+      ],
+      "duration_ms": 183238,
+      "name": "Ek Wil Jou Sien",
+      "url": "https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
+      },
+      "artists": [
+        {
+          "name": "aKING",
+          "url": "https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
+    },
+    {
+      "added_at": "2026-10-08 22:02:27",
+      "album": {
+        "name": "Goeie Mense",
+        "url": "https://open.spotify.com/album/4ssxVkBMHO3qZuiJpM7WmX"
+      },
+      "artists": [
+        {
+          "name": "Huildronk",
+          "url": "https://open.spotify.com/artist/1X8x69QKEGBHq19H5r40vV"
+        },
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        }
+      ],
+      "duration_ms": 158861,
+      "name": "Goeie Mense",
+      "url": "https://open.spotify.com/track/3mnosU3nSxmnBXr0BS4Xtd"
+    },
+    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Nou Toer Ons!",
@@ -859,6 +855,22 @@
       "duration_ms": 178813,
       "name": "Doen Sy Bes",
       "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     }
   ],
   "unique_name": "SA Rock ",

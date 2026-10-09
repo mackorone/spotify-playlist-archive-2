@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkZ+OwmbmS3j325OePdhGAqbyaD3ne",
+  "snapshot_id": "AAAkaAvpbrr9j1wws03hvGATPxI2KPST",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -747,6 +747,26 @@
       "duration_ms": 229000,
       "name": "in my heart",
       "url": "https://open.spotify.com/track/5OyKWAJCPkT9LnfLibWCgP"
+    },
+    {
+      "added_at": "2026-10-08 07:59:06",
+      "album": {
+        "name": "Barebones",
+        "url": "https://open.spotify.com/album/1B86dpWBr8KajNzOHk27iB"
+      },
+      "artists": [
+        {
+          "name": "MKTM",
+          "url": "https://open.spotify.com/artist/0OLjwojWrPQT1pQY8lUGKf"
+        },
+        {
+          "name": "W \u039b R D",
+          "url": "https://open.spotify.com/artist/129wGdcEc9j1b9YEkvX50O"
+        }
+      ],
+      "duration_ms": 268656,
+      "name": "Barebones",
+      "url": "https://open.spotify.com/track/2aWzmqndr6lsVJqqQkuaWa"
     }
   ],
   "unique_name": "Alternative Pop Archive",

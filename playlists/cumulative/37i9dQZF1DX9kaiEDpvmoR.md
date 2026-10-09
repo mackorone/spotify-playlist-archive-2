@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-635 songs - 1 day 13 hr 37 min
+636 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Tack](https://open.spotify.com/track/794RWqJKiwKh6zYvm07G5a) | [Olle Ljungström](https://open.spotify.com/artist/6wjchRNcNNSn1wPIaIiRq8) | [Tack](https://open.spotify.com/album/3nBKLUecE6aJOxC08A2JhR) | 3:09 | 2026-04-09 | 2026-05-15 |
 | [Talk](https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Talk](https://open.spotify.com/album/2f4Gpex8g1KWjGCfZ6jwAZ) | 3:44 | 2024-09-19 | 2024-10-11 |
 | [Tar det upp i topp](https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Tar det upp i topp](https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4) | 2:49 | 2024-09-12 | 2024-10-28 |
+| [The Best](https://open.spotify.com/track/6F5ZmNzsrApPjgoGQnnQs4) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [The Best](https://open.spotify.com/album/5wjfDqEmIWfst84JhCDqbk) | 3:01 | 2026-10-08 |  |
 | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B) | 4:33 | 2025-05-01 | 2026-02-13 |
 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 | 2024-06-27 | 2024-08-16 |
 | [The Game](https://open.spotify.com/track/4pEcoiN93VmnYF45qYoPrW) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [The Game](https://open.spotify.com/album/0wDTzzSQn1xqZvbmpZml0t) | 3:28 | 2025-01-09 | 2025-05-16 |
@@ -597,7 +598,7 @@
 | [VM\-guld](https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [VM\-guld](https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf) | 3:11 | 2026-05-07 | 2026-10-08 |
 | [Voice Of The Silent](https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Voice Of The Silent](https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh) | 2:49 | 2025-01-31 | 2025-08-26 |
 | [Väntar på skymningen](https://open.spotify.com/track/5wd14V8xbTcdrs5abonI11) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Terra Firma](https://open.spotify.com/album/25wFRAWqO0FCUvZKwcINnx) | 4:19 | 2026-05-28 | 2026-06-29 |
-| [Världen kommer snurra ändå](https://open.spotify.com/track/03XQ0RP1cqrLxvWnyZlofm) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Världen kommer snurra ändå](https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG) | 2:49 | 2026-06-11 |  |
+| [Världen kommer snurra ändå](https://open.spotify.com/track/03XQ0RP1cqrLxvWnyZlofm) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Världen kommer snurra ändå](https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG) | 2:49 | 2026-06-11 | 2026-10-09 |
 | [Vår bästa tid](https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE) | [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Vår bästa tid](https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5) | 3:36 | 2025-06-12 | 2026-02-13 |
 | [Vår vänskap består](https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD) | [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx), [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [Vår vänskap består](https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x) | 2:50 | 2024-09-19 | 2025-01-10 |
 | [Vårens sista dag](https://open.spotify.com/track/4zdxv1jc9eFaH4aTouIG3p) | [Peter Åberg](https://open.spotify.com/artist/6w3u7zBIx64OqhpYoBfwfL), [Annika Wickihalder](https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of) | [Vårens sista dag](https://open.spotify.com/album/13ashXdwC7vLnIzHxoj3r9) | 2:39 | 2025-05-29 | 2025-07-07 |

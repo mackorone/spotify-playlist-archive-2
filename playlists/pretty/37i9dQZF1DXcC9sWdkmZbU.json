@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 152485,
+  "num_followers": 152527,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
+        "name": "Capitol Kids! Hits",
+        "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
+      },
+      "artists": [
+        {
+          "name": "Capitol Kids!",
+          "url": "https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
         "name": "Taste and See",
         "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 174613,
       "name": "My God Is Number One",
       "url": "https://open.spotify.com/track/7a6ZDg21s7zuuL14q1Q4ir"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
-        "name": "Capitol Kids! Hits",
-        "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
-      },
-      "artists": [
-        {
-          "name": "Capitol Kids!",
-          "url": "https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt"
-        }
-      ],
-      "duration_ms": 254986,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "What An Awesome God",
-        "url": "https://open.spotify.com/album/7wngIwAaw5Q67p8VWmTGOh"
-      },
-      "artists": [
-        {
-          "name": "Yancy",
-          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "What An Awesome God",
-      "url": "https://open.spotify.com/track/5qPhXCeIiIqSobPMaOrPdF"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
         "name": "Living Color",
         "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 267042,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
+        "name": "What An Awesome God",
+        "url": "https://open.spotify.com/album/7wngIwAaw5Q67p8VWmTGOh"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "What An Awesome God",
+      "url": "https://open.spotify.com/track/5qPhXCeIiIqSobPMaOrPdF"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "Kidmin Worship Vol. 6: Heartbeat Worship",
-        "url": "https://open.spotify.com/album/3oDixp1uhg5GZuC7IYqNKz"
-      },
-      "artists": [
-        {
-          "name": "Yancy",
-          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Super Wonderful",
-      "url": "https://open.spotify.com/track/2v2IinUxWv9YVXPOJjrQ0b"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
         "name": "Worship in The Word (Live)",
         "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 208126,
       "name": "You Know Everything (Psalm 139) - Live",
       "url": "https://open.spotify.com/track/6en45FpokCU2UHfZqtfKeY"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
+        "name": "Kidmin Worship Vol. 6: Heartbeat Worship",
+        "url": "https://open.spotify.com/album/3oDixp1uhg5GZuC7IYqNKz"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Super Wonderful",
+      "url": "https://open.spotify.com/track/2v2IinUxWv9YVXPOJjrQ0b"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "That's My King",
-        "url": "https://open.spotify.com/album/0hlXwtjHODFgSMJ4BTaIjU"
-      },
-      "artists": [
-        {
-          "name": "Yancy",
-          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
-        }
-      ],
-      "duration_ms": 228008,
-      "name": "That's My King",
-      "url": "https://open.spotify.com/track/1WyzN9L3060M4gNa4cD8Sw"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
         "name": "Worship in The Word (Live)",
         "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 273023,
       "name": "Oh We Love You (John 3:16) - Live",
       "url": "https://open.spotify.com/track/5Qu9EXAsihlQvm0biIZT3d"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
+        "name": "That's My King",
+        "url": "https://open.spotify.com/album/0hlXwtjHODFgSMJ4BTaIjU"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        }
+      ],
+      "duration_ms": 228008,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/1WyzN9L3060M4gNa4cD8Sw"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "Romans 3:23-24 (English Standard Version)",
-        "url": "https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F"
-      },
-      "artists": [
-        {
-          "name": "The Corner Room",
-          "url": "https://open.spotify.com/artist/2ajMEZ6eWYBO1ijf0X3Vgg"
-        }
-      ],
-      "duration_ms": 160618,
-      "name": "Romans 3:23-24 (English Standard Version)",
-      "url": "https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
         "name": "Worship in the Word, Vol. 3 (Live)",
         "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
+        "name": "Romans 3:23-24 (English Standard Version)",
+        "url": "https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F"
+      },
+      "artists": [
+        {
+          "name": "The Corner Room",
+          "url": "https://open.spotify.com/artist/2ajMEZ6eWYBO1ijf0X3Vgg"
+        }
+      ],
+      "duration_ms": 160618,
+      "name": "Romans 3:23-24 (English Standard Version)",
+      "url": "https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
         "name": "Choosing Happy",
         "url": "https://open.spotify.com/album/69VGKnNFJLXm7UGto540Zf"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "Noah's Ark",
-        "url": "https://open.spotify.com/album/2d2QmUb4A24jKT8XOuYWup"
+        "name": "Kids Worship",
+        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
       },
       "artists": [
         {
-          "name": "Good News Guys",
-          "url": "https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY"
+          "name": "Kids Worship Performers",
+          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
         }
       ],
-      "duration_ms": 247826,
-      "name": "Noah\u2019s Tool Song",
-      "url": "https://open.spotify.com/track/5O0xXWn6F22vREhajrP4Nc"
+      "duration_ms": 246320,
+      "name": "I Could Sing Of Your Love Forever",
+      "url": "https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "Kids Worship",
-        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
-      },
-      "artists": [
-        {
-          "name": "Kids Worship Performers",
-          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "I Could Sing Of Your Love Forever",
-      "url": "https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
         "name": "Your Ways (Isaiah 55) [Live]",
         "url": "https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 242235,
       "name": "Your Ways (Isaiah 55) - Live",
       "url": "https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
+        "name": "Noah's Ark",
+        "url": "https://open.spotify.com/album/2d2QmUb4A24jKT8XOuYWup"
+      },
+      "artists": [
+        {
+          "name": "Good News Guys",
+          "url": "https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Noah\u2019s Tool Song",
+      "url": "https://open.spotify.com/track/5O0xXWn6F22vREhajrP4Nc"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "Lubanga Ber (God Is Good) [Live]",
-        "url": "https://open.spotify.com/album/3wWpTXA1Mntk6JarSUfak6"
-      },
-      "artists": [
-        {
-          "name": "Watoto",
-          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
-        }
-      ],
-      "duration_ms": 270654,
-      "name": "Lubanga Ber (God Is Good) - Live",
-      "url": "https://open.spotify.com/track/713D2svcry7rTeQJnnpSMO"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
         "name": "Prayed for This Day",
         "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 157746,
       "name": "When I Talk to God",
       "url": "https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
+        "name": "Lubanga Ber (God Is Good) [Live]",
+        "url": "https://open.spotify.com/album/3wWpTXA1Mntk6JarSUfak6"
+      },
+      "artists": [
+        {
+          "name": "Watoto",
+          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
+        }
+      ],
+      "duration_ms": 270654,
+      "name": "Lubanga Ber (God Is Good) - Live",
+      "url": "https://open.spotify.com/track/713D2svcry7rTeQJnnpSMO"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "The Lord is My Shepherd (Reimagined)",
-        "url": "https://open.spotify.com/album/4ywg0mrBKXRDOpyEZ8j8oz"
-      },
-      "artists": [
-        {
-          "name": "Seeds Kids Worship",
-          "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
-        }
-      ],
-      "duration_ms": 141400,
-      "name": "The Lord is My Shepherd (Reimagined)",
-      "url": "https://open.spotify.com/track/2ogNAI9uT4IXNrvxtx7FRM"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
         "name": "The Chosen Adventures (Vol. 1)",
         "url": "https://open.spotify.com/album/2X2HR8yvDmDYqIxtCfRnq7"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 116000,
       "name": "Love Is Like A Boomerang",
       "url": "https://open.spotify.com/track/30W2CEzQzicMWAs8aTlfpm"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
+        "name": "The Lord is My Shepherd (Reimagined)",
+        "url": "https://open.spotify.com/album/4ywg0mrBKXRDOpyEZ8j8oz"
+      },
+      "artists": [
+        {
+          "name": "Seeds Kids Worship",
+          "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
+        }
+      ],
+      "duration_ms": 141400,
+      "name": "The Lord is My Shepherd (Reimagined)",
+      "url": "https://open.spotify.com/track/2ogNAI9uT4IXNrvxtx7FRM"
     },
     {
       "added_at": "2026-08-01 02:38:00",

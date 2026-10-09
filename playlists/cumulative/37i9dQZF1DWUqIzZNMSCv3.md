@@ -4,7 +4,7 @@
 
 > The world's most iconic and relaxing classical piano.
 
-166 songs - 10 hr 50 min
+167 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Gottes Zeit ist die allerbeste Zeit, Sonatina az "Actus tragicus"\-ból, BWV 106](https://open.spotify.com/track/4SvoO5lHeDUIVYDpPF5YAO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Márta Kurtág](https://open.spotify.com/artist/1S7UUjCyXGTB8L2TYVIhcX), [György Kurtág](https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E) | [Bach Eternal](https://open.spotify.com/album/3D7QDPIZdKkCbpS1msH6Mw) | 2:18 | 2022-07-08 | 2024-04-19 |
 | [Gymnopédie No\. 1\. Lent et douloureux](https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Magic of Satie](https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1) | 3:39 | 2021-12-06 |  |
 | [I Giorni](https://open.spotify.com/track/0VLascXUZ2Ze2u5kUD5J1f) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 6:51 | 2024-07-26 |  |
+| [Ich ruf zu dir, Herr Jesu Christ, BWV 639 \(Arr\. Busoni for Piano\)](https://open.spotify.com/track/3umQoYu0iSKXBMM9QgE8dn) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO) | [J.S\. Bach: Ich ruf zu dir, Herr Jesu Christ, BWV 639 \(Arr\. Busoni for Piano\)](https://open.spotify.com/album/0UUXO4QaX12OQQgXzJ9umq) | 3:26 | 2026-10-09 |  |
 | [Improvisation on "L'hymne à l'amour" by Monnot & Piaf](https://open.spotify.com/track/1b0qaIerZRuA8cmbZtqdyG) | [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Tharaud: Improvisation on "L'hymne à l’amour" by Monnot & Piaf](https://open.spotify.com/album/0J7OfxAldGeDooo97o9OUD) | 3:31 | 2025-08-15 |  |
 | [In einer Nacht, Op\. 15: No\. 2, Sehr langsam \- Musical Moments](https://open.spotify.com/track/0b0NXgRU5fX5U6dfjYsgKe) | [Paul Hindemith](https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Hindemith: In einer Nacht, Op\. 15: No\. 2, Sehr langsam \(Musical Moments\)](https://open.spotify.com/album/6MBeNgru816JprogFP7YjD) | 1:24 | 2022-11-25 |  |
 | [Janáček: On an Overgrown Path, Book I: No\. 7, Good Night!](https://open.spotify.com/track/2DvAljfHQpHfhcGxajeiHj) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Good Night! \- Janáček: On an Overgrown Path, Book 1: No\. 7, Good Night!](https://open.spotify.com/album/5eBLo7LpwoA2iLtKS1HPru) | 3:19 | 2021-12-06 |  |

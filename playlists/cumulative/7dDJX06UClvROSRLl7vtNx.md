@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,510 songs - 2 day 16 hr 58 min
+1,511 songs - 2 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1424,6 +1424,7 @@
 | [Weekend](https://open.spotify.com/track/6L6Me26P5PGKzqmA3vVrsb) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Weekend](https://open.spotify.com/album/6cW67CJz9ZfyUX3Z1oDUQI) | 2:23 | 2024-06-09 | 2024-08-12 |
 | [Weight Of You](https://open.spotify.com/track/0MmML81HK3YdRADqD7ijNf) | [Project Sunrise](https://open.spotify.com/artist/4ehh5E1X5nUrcjUs25lafp) | [Weight Of You](https://open.spotify.com/album/6rwIdixb6ZH950rpHrfJVJ) | 2:10 | 2026-06-17 |  |
 | [Weightless](https://open.spotify.com/track/0lfqSZKpQVgTZwHaRLg9Le) | [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Weightless](https://open.spotify.com/album/6wyRn2pih817aBcyQYJeM2) | 2:27 | 2026-07-12 | 2026-09-21 |
+| [Weightless](https://open.spotify.com/track/6Y3rGe8nzYS5nkUYHPBJwA) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Weightless](https://open.spotify.com/album/0nxAfFZxq08zn2XR3TKD4G) | 2:57 | 2026-10-08 |  |
 | [Weyu](https://open.spotify.com/track/66tTks0fdZ1t8Ux7SF0yrZ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR), [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Weyu](https://open.spotify.com/album/12xO5IhrP0lHtjue6If8S4) | 2:13 | 2024-09-25 |  |
 | [What About Us](https://open.spotify.com/track/7keNVfugUUjnvum44dqz6l) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [AgusAlvarez](https://open.spotify.com/artist/7rGnhW0N8GcFkxw3xgZucr), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A), [one more cig](https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5) | [What About Us](https://open.spotify.com/album/4CprnwZYlfSCYAQKa2JV6Y) | 2:13 | 2026-10-06 |  |
 | [What Could've Been Love](https://open.spotify.com/track/4by9fjd5boKIgneGcXsxvN) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [What Could've Been Love](https://open.spotify.com/album/4bJN7g2Ep65gMycqc1gdb1) | 2:34 | 2025-01-18 | 2025-02-24 |

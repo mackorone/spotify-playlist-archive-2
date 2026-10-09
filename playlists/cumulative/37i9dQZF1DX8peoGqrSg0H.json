@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ALALA",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LEGO",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 227983,
       "name": "CHECKLIST",
       "url": "https://open.spotify.com/track/5sxfpwXQU6636cZerTtiTG"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 180000,
       "name": "DUSTY",
       "url": "https://open.spotify.com/track/5mllbepsjuNZPax6LX1tuW"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 234210,
       "name": "Faded Ink",
       "url": "https://open.spotify.com/track/0ELp6s18IbtuLLHahuctFw"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 232534,
       "name": "If You Don\u2019t Mean It (\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14 \u0e2d\u0e22\u0e48\u0e32\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e34\u0e14)",
       "url": "https://open.spotify.com/track/2d3fZAlYyt6xqPkL9U9h1f"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 184800,
       "name": "KISS, COME KISS",
       "url": "https://open.spotify.com/track/0Y1zdj4gSsotiA8ZwzqCBo"
@@ -3573,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "NO ID",
+        "url": "https://open.spotify.com/album/0Ds8V3WjVLqBDqffL6QbT7"
+      },
+      "artists": [
+        {
+          "name": "CIR*CRL",
+          "url": "https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163920,
+      "name": "NO ID",
+      "url": "https://open.spotify.com/track/0kuGQbpuwVw5brae5t7x8V"
+    },
+    {
+      "album": {
         "name": "NO PACER",
         "url": "https://open.spotify.com/album/3ComYol2Ps23u1Sg5TjkiV"
       },
@@ -4173,6 +4191,28 @@
     },
     {
       "album": {
+        "name": "Reply(\u0e44\u0e14\u0e49\u0e22\u0e31\u0e07?)",
+        "url": "https://open.spotify.com/album/4y9MUk6HMlxMZzxxMqAFAv"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        },
+        {
+          "name": "jeffy",
+          "url": "https://open.spotify.com/artist/1hQpgqfnQgLZcyRaEOlEtT"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Reply(\u0e44\u0e14\u0e49\u0e22\u0e31\u0e07?)",
+      "url": "https://open.spotify.com/track/45almb5h5jODU5kqTT1rvg"
+    },
+    {
+      "album": {
         "name": "Rise up to the sky",
         "url": "https://open.spotify.com/album/5LcmngfsBhl1PI5Lucc61p"
       },
@@ -4390,7 +4430,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 216805,
       "name": "SHOOT YOUR SHOT",
       "url": "https://open.spotify.com/track/1jbQrJTtUnnSsswWiKDUsm"
@@ -5370,7 +5410,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 264252,
       "name": "UNTIL WE MEET AGAIN",
       "url": "https://open.spotify.com/track/5JM2CLij34yrTqk37lJhmE"
@@ -5392,6 +5432,24 @@
       "duration_ms": 156551,
       "name": "Vanilla Sky",
       "url": "https://open.spotify.com/track/0pxUadEywlbr8gqAfKMgH3"
+    },
+    {
+      "album": {
+        "name": "Viva (\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c)",
+        "url": "https://open.spotify.com/album/2FCxb9Ibmejtk2HapqugCw"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185686,
+      "name": "Viva (\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c)",
+      "url": "https://open.spotify.com/track/0TiRqRymaTwwqfvZPlL9TS"
     },
     {
       "album": {
@@ -7463,6 +7521,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e34\u0e15\u0e15\u0e35\u0e49\u0e1a\u0e2d\u0e22",
+        "url": "https://open.spotify.com/album/4zwMhVfRkUG1XfHFOznL59"
+      },
+      "artists": [
+        {
+          "name": "ily",
+          "url": "https://open.spotify.com/artist/5q4T1AsSVEUkeglFsIAvre"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160743,
+      "name": "\u0e04\u0e34\u0e15\u0e15\u0e35\u0e49\u0e1a\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/281Z16wicQilZjFPPGFvUq"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e35\u0e22\u0e4c\u0e43\u0e08 (Heart Key)",
         "url": "https://open.spotify.com/album/38mO1WT3GehvATY9KkRjTf"
       },
@@ -8144,7 +8220,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 191290,
       "name": "\u0e08\u0e38\u0e4a\u0e1a\u0e17\u0e35\u0e14\u0e34 (One Kiss) - From \"\u0e17\u0e35\u0e48\u0e2a\u0e32\u0e21\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d Your Third\"",
       "url": "https://open.spotify.com/track/0cgVl2vlOxfTkFyJEqYsCX"
@@ -10000,7 +10076,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188000,
       "name": "\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48 (Zzz.) - Bonus Track",
       "url": "https://open.spotify.com/track/1gyGLofOECzdg9t8X3s78C"
@@ -10188,6 +10264,24 @@
       "duration_ms": 225085,
       "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e22\u0e25\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Cuteless)",
       "url": "https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e33\u0e2b\u0e19\u0e14 (From \"\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e2a\u0e32\u0e23\u0e27\u0e31\u0e15\u0e23\u0e40\u0e18\u0e35\u0e22\u0e23\u0e4c\")",
+        "url": "https://open.spotify.com/album/2fYrr1uK5IhXGgoegLZMns"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172040,
+      "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e33\u0e2b\u0e19\u0e14 - From \"\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e2a\u0e32\u0e23\u0e27\u0e31\u0e15\u0e23\u0e40\u0e18\u0e35\u0e22\u0e23\u0e4c\"",
+      "url": "https://open.spotify.com/track/2kYKeiblbGnScQleDDFFmD"
     },
     {
       "album": {
@@ -11767,6 +11861,28 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e2d SIS (TER)",
+        "url": "https://open.spotify.com/album/3FPSENJW4gkgLHKSe2j28K"
+      },
+      "artists": [
+        {
+          "name": "DICEBLUE",
+          "url": "https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv"
+        },
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240461,
+      "name": "\u0e23\u0e2d SIS (TER)",
+      "url": "https://open.spotify.com/track/0jJ4i5wVYz6ENRrJqDWfz6"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e2d\u0e40\u0e01\u0e48\u0e07 (Introvert)",
         "url": "https://open.spotify.com/album/4RQh8Pjm8rOFJKLR6awxEp"
       },
@@ -11861,6 +11977,24 @@
     },
     {
       "album": {
+        "name": "DUST",
+        "url": "https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232175,
+      "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19 (Too Late)",
+      "url": "https://open.spotify.com/track/3J06uWLDn8bNnnQznle5V6"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e19\u0e32\u0e19\u0e19\u0e32\u0e19 (\u0e19\u0e30\u0e04\u0e48\u0e30)",
         "url": "https://open.spotify.com/album/3yMx0TYzVsCkNotWofoRAu"
       },
@@ -11894,6 +12028,28 @@
       "duration_ms": 181889,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e27\u0e31\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27 (ONE DAY)",
       "url": "https://open.spotify.com/track/2ZnsdI3nTSDbiDEaKHHZ70"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e22\u0e31\u0e07 (Approved?) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"You Maniac \u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e08\u0e30\u0e23\u0e31\u0e01\u0e0b\u0e30\u0e43\u0e2b\u0e49\u0e1a\u0e49\u0e32\"]",
+        "url": "https://open.spotify.com/album/28WS07n7l3rjwzTz3ZQ9Dj"
+      },
+      "artists": [
+        {
+          "name": "Barcode Tinnasit",
+          "url": "https://open.spotify.com/artist/55wWCOzRm4pL9Z01MQZVEq"
+        },
+        {
+          "name": "Kin Thanachai",
+          "url": "https://open.spotify.com/artist/09WUFFAkHSBQajVcH2E27X"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195050,
+      "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e22\u0e31\u0e07 (Approved?) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"You Maniac \u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e08\u0e30\u0e23\u0e31\u0e01\u0e0b\u0e30\u0e43\u0e2b\u0e49\u0e1a\u0e49\u0e32\"",
+      "url": "https://open.spotify.com/track/0nKrKxHvfTXiLRsoINIY0V"
     },
     {
       "album": {
@@ -13538,7 +13694,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 199194,
       "name": "\u0e2b\u0e19\u0e49\u0e32\u0e44\u0e2b\u0e27\u0e49\u0e2b\u0e25\u0e31\u0e07\u0e2b\u0e25\u0e2d\u0e01 (Oh My Gosh)",
       "url": "https://open.spotify.com/track/71kUf6kJpLMzVwtBFwzcvs"
@@ -14822,6 +14978,28 @@
       "duration_ms": 155156,
       "name": "\u0e40\u0e02\u0e35\u0e22\u0e19\u0e25\u0e07\u0e15\u0e23\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e31\u0e14\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e22\u0e31\u0e22\u0e0b\u0e38\u0e1b\u0e15\u0e32\u0e23\u0e4c \u0e0a\u0e48\u0e2d\u0e07 3",
       "url": "https://open.spotify.com/track/0eJtchpMPXDavVyfyepMog"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
+        "url": "https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        },
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
+      "url": "https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5"
     },
     {
       "album": {
@@ -18206,6 +18384,24 @@
       "duration_ms": 233317,
       "name": "\u0e44\u0e21\u0e48\u0e22\u0e34\u0e19\u0e14\u0e35",
       "url": "https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e23\u0e27\u0e22\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Rich)",
+        "url": "https://open.spotify.com/album/25COxcFDIkLHGpZiXohhb5"
+      },
+      "artists": [
+        {
+          "name": "LEGO",
+          "url": "https://open.spotify.com/artist/3GSFe2yYu6yHS0hI1k4ElL"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u0e44\u0e21\u0e48\u0e23\u0e27\u0e22\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Rich)",
+      "url": "https://open.spotify.com/track/6MMQz5ctjNNEE7CWKoEDrM"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 76922,
+  "num_followers": 76945,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,30 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/6p8Sc2FVKeIYUHUuEdp6cA"
+      },
+      "artists": [
+        {
+          "name": "Born On Road",
+          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        },
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Carasel",
+          "url": "https://open.spotify.com/artist/4tKJAusQAI9xHrHyDUTf0f"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "USB",
+      "url": "https://open.spotify.com/track/3GfLEp6Cj3al4Zjk1t2EXN"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
         "name": "On The Gas",
         "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
       },
@@ -679,30 +703,6 @@
       "duration_ms": 177931,
       "name": "Satellite - SOTA Remix",
       "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/6p8Sc2FVKeIYUHUuEdp6cA"
-      },
-      "artists": [
-        {
-          "name": "Born On Road",
-          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
-        },
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Carasel",
-          "url": "https://open.spotify.com/artist/4tKJAusQAI9xHrHyDUTf0f"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "USB",
-      "url": "https://open.spotify.com/track/3GfLEp6Cj3al4Zjk1t2EXN"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Skanka",
-        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Jaybee (UK)",
-          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
-        }
-      ],
-      "duration_ms": 190689,
-      "name": "Skanka",
-      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
         "name": "Reaper (feat. Comma Dee)",
         "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 213793,
       "name": "Reaper (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
+        "name": "Skanka",
+        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Jaybee (UK)",
+          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
+        }
+      ],
+      "duration_ms": 190689,
+      "name": "Skanka",
+      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
+        "name": "Outta Order",
+        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 235885,
+      "name": "Outta Order",
+      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
         "name": "Sticks & Stones",
         "url": "https://open.spotify.com/album/7LXcPDrT8Ldx3L1OqPjljq"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 267586,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
-        "name": "Outta Order",
-        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        }
-      ],
-      "duration_ms": 235885,
-      "name": "Outta Order",
-      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
     }
   ],
   "unique_name": "Jump Up!",

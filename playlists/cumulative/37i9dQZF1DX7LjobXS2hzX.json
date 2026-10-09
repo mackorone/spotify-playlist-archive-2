@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Voici les hits du moment avec Gabriel Fredette",
+  "description": "Voici les hits du moment avec Charlotte Cardin",
   "name": "La Hit Liste",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 178869,
       "name": "18",
       "url": "https://open.spotify.com/track/1ql8A7vfO3SEedqedSozyX"
+    },
+    {
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/73EzLBLbmwXeeo1O2wRSEh"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "19",
+      "url": "https://open.spotify.com/track/42zVqqJRbWUzNrcCCo9dm1"
     },
     {
       "album": {
@@ -4805,6 +4823,24 @@
     },
     {
       "album": {
+        "name": "Faut que tu dises wow!",
+        "url": "https://open.spotify.com/album/4S6rwbZD6QPfji30aIWx9F"
+      },
+      "artists": [
+        {
+          "name": "Bleu Jeans Bleu",
+          "url": "https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Faut que tu dises wow!",
+      "url": "https://open.spotify.com/track/4OxFDoEzCR4USMZFdYuiMv"
+    },
+    {
+      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -8705,6 +8741,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184685,
+      "name": "Memories (Souvenirs)",
+      "url": "https://open.spotify.com/track/3aeUQy1XOaR9noelLJhZwZ"
+    },
+    {
+      "album": {
         "name": "Meridian & Special",
         "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
       },
@@ -10957,6 +11011,24 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -11958,7 +12030,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 149538,
       "name": "Sicario",
       "url": "https://open.spotify.com/track/7CQW2QMr6WGaksSqn5Y4Lf"
@@ -12292,7 +12364,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 120000,
       "name": "SPIN",
       "url": "https://open.spotify.com/track/1dUvysCwz1rpDYC4dB4LQ2"
@@ -12488,6 +12560,28 @@
       "duration_ms": 186828,
       "name": "Still Got The Spirit",
       "url": "https://open.spotify.com/track/719Z3FXsetuWivg6bVaNVU"
+    },
+    {
+      "album": {
+        "name": "Love & Tears",
+        "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
     },
     {
       "album": {
@@ -12770,7 +12864,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188005,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH"
@@ -14700,7 +14794,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 205565,
       "name": "Yukon",
       "url": "https://open.spotify.com/track/0Z8rYaE3DeqqBFFwzlmyWU"

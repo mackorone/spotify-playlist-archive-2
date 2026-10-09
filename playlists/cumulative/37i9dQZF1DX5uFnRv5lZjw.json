@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171586,
+      "name": "Coffee Song",
+      "url": "https://open.spotify.com/track/49Uq9mhpvn5a6mG5CWTkqh"
+    },
+    {
+      "album": {
         "name": "Constant Flow",
         "url": "https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6"
       },

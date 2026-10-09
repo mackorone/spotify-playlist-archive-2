@@ -2,7 +2,7 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí, con nuestra nueva promoción\. Foto: El Bobo de las 3000.
+> El futuro ya está aquí, con nuestra nueva promoción\. Foto: Teo Planell.
 
 350 songs - 17 hr 10 min
 

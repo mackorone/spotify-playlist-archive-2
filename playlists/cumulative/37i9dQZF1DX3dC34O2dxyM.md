@@ -4,7 +4,7 @@
 
 > Canciones de cuna relajantes con arpa y guitarra.
 
-357 songs - 10 hr 50 min
+360 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,9 +79,10 @@
 | [Cherry Blossoms](https://open.spotify.com/track/3yKK3vU859WkfpIWeqdnxD) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Cherry Blossoms](https://open.spotify.com/album/6xSKofkUd9EVg2n9t0EF4i) | 1:36 | 2021-10-29 | 2024-05-17 |
 | [Child's Play \#1](https://open.spotify.com/track/65MGptLUTl2uEdmPfqRuHT) | [Landwerm](https://open.spotify.com/artist/2YDG8LcPW20IKhL1GgQmDJ) | [Child's Play \#1](https://open.spotify.com/album/0kNle1zTYlqxK4fhNyLkY7) | 1:46 | 2021-10-29 | 2024-05-17 |
 | [Colors](https://open.spotify.com/track/2pnqS4yNQbPm8BGkPOsGcV) | [Ryley Sommer](https://open.spotify.com/artist/5iAPatBtTdr2ehnAyHrBzD) | [Colors](https://open.spotify.com/album/2YIkg4OU91nZ6LbYcvG9rw) | 1:53 | 2021-10-29 | 2024-05-17 |
-| [Come Closer](https://open.spotify.com/track/3drg97tEblG5Eyh6TuNZJI) | [Simon Bogren](https://open.spotify.com/artist/3lK0whVtl6Q068FFOzf2AH) | [Come Closer](https://open.spotify.com/album/6HV3QOczmlOBqL44lI6SKv) | 3:20 | 2025-07-27 |  |
+| [Come Closer](https://open.spotify.com/track/3drg97tEblG5Eyh6TuNZJI) | [Simon Bogren](https://open.spotify.com/artist/3lK0whVtl6Q068FFOzf2AH) | [Come Closer](https://open.spotify.com/album/6HV3QOczmlOBqL44lI6SKv) | 3:20 | 2025-07-27 | 2026-10-09 |
 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/1y3DFR31VUJWC7D9k3QIxr) | [Victor Campbell](https://open.spotify.com/artist/47EkMlUolyXWUVsn7EsiQO) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0q6WdbZ4VFt9qqdhUAcVTD) | 1:26 | 2024-05-16 |  |
 | [Cradle Canon](https://open.spotify.com/track/4qXPGMSxCdvgawanBV6Jcg) | [Nat Mee Ho](https://open.spotify.com/artist/2oqTteFbcLuEnhiXnkvJPk) | [Cradle Canon](https://open.spotify.com/album/6TFPdf6Qa2Y1nLxzWf8PTB) | 1:41 | 2021-10-29 | 2024-05-17 |
+| [Cradle of Cotton](https://open.spotify.com/track/61TU9oQrNw7QBgDrUqFrNr) | [Lunna Skye](https://open.spotify.com/artist/7ykGhiLjWfFyTYx6q4N6lv) | [Cradle of Cotton](https://open.spotify.com/album/1Z7HqWfEeeWJbBsCtuwQzx) | 1:36 | 2026-10-09 |  |
 | [Cuando Duermes](https://open.spotify.com/track/22QBOozZLzuYSshTOefP4Q) | [Ivanna Alvear](https://open.spotify.com/artist/7pvajAY2nsMXGyrJ07Vzp3) | [Cuando Duermes](https://open.spotify.com/album/2HoB1MOxFmSMiQZ5N7OQyN) | 1:23 | 2021-10-29 | 2025-06-12 |
 | [Cute Sleep](https://open.spotify.com/track/5wR2MeBhcuXKNg13WdqrG5) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Cute Sleep](https://open.spotify.com/album/76VOEx1ROad6QtUu6CWsVY) | 1:15 | 2024-05-16 |  |
 | [Daisy Bell](https://open.spotify.com/track/72i5koWfpsQN8AzUEz7KBf) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Guitar Lullabies](https://open.spotify.com/album/7jCdBijkzNHKxB6wGHtUGk) | 2:21 | 2024-05-16 |  |
@@ -191,6 +192,7 @@
 | [Little Rest](https://open.spotify.com/track/5UyIyA8QWr3gma2yfGczwv) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Little Rest](https://open.spotify.com/album/3MjiSSxL3ET3k4PlyvJKgi) | 2:40 | 2026-03-20 | 2026-09-08 |
 | [Little Sweet Pea](https://open.spotify.com/track/7mHPGfKUJ4U3NOgjpjYUFf) | [Little Miles](https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT) | [Little Sweet Pea](https://open.spotify.com/album/3szc0c6V9Akfus5LsIWOiO) | 1:59 | 2024-05-16 | 2024-12-21 |
 | [Little Toddler](https://open.spotify.com/track/75j2cGiyque8AJFIpn0WsM) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [Slumberland](https://open.spotify.com/album/38vYZzD3VHBFynAscSFWr0) | 1:47 | 2024-05-16 |  |
+| [Little Wonder](https://open.spotify.com/track/3NXls3BoyLCEQY9EQfUyFW) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Little Wonder](https://open.spotify.com/album/2UPViQnTE5aaOmH8WRX77n) | 1:50 | 2026-10-09 |  |
 | [London Bridge](https://open.spotify.com/track/2Dk44WpbC5w791Tdw5Zcnm) | [Julio Menzel](https://open.spotify.com/artist/68VsLtvEAEljBp5OAXOpCL) | [Dormir](https://open.spotify.com/album/0Ud73bc5ouySkkxcE4iFE1) | 1:27 | 2021-10-29 | 2024-05-17 |
 | [London Bridge](https://open.spotify.com/track/0hD9RBuvleJ7MwX6WDRned) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [London Bridge](https://open.spotify.com/album/11Ox9WNYaeQDiGitxtVppw) | 1:52 | 2024-05-16 |  |
 | [Look at the Stars](https://open.spotify.com/track/4t0NsCp1CPKF6xErNAJbev) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Look at the Stars](https://open.spotify.com/album/7wqqqYfxGXgSr2RNN1g2Bj) | 1:03 | 2021-10-29 | 2024-05-17 |
@@ -249,7 +251,7 @@
 | [Puppy Love](https://open.spotify.com/track/6DaTj3tFSinoMzMtdv1yVM) | [September Blackwood](https://open.spotify.com/artist/2U5xaVrnCTnR6xSNc7Pwrp) | [Come Sail Away](https://open.spotify.com/album/2Kusp6AwauNVXkSixFiUXu) | 1:42 | 2021-10-29 | 2024-05-17 |
 | [Que Linda Manita](https://open.spotify.com/track/13ytdfEni9x39EA5wsNWoB) | [Regina Kent](https://open.spotify.com/artist/1wAxDngNNPJNc2gAV2Z7VM) | [Arpa](https://open.spotify.com/album/6OL2F8vnKstdtyYBRBv8xW) | 2:33 | 2021-10-29 | 2025-03-15 |
 | [Quiero Dormir](https://open.spotify.com/track/46MliXAikDrARBvHWhkK4z) | [Pipo and Roy](https://open.spotify.com/artist/2D6uOhkI97JwoLo1GGgmGS) | [Quiero Dormir](https://open.spotify.com/album/2jGkyodwQSIKlhhNKB6X99) | 1:24 | 2026-06-25 |  |
-| [Quiet Stars, Gentle Strums](https://open.spotify.com/track/5Z1pFUx2YyiQ02GPItTgQC) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Quiet Stars, Gentle Strums](https://open.spotify.com/album/6lDyqibXUO1LIbywkvJSZP) | 2:13 | 2024-10-18 |  |
+| [Quiet Stars, Gentle Strums](https://open.spotify.com/track/5Z1pFUx2YyiQ02GPItTgQC) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Quiet Stars, Gentle Strums](https://open.spotify.com/album/6lDyqibXUO1LIbywkvJSZP) | 2:13 | 2024-10-18 | 2026-10-09 |
 | [Rabbit In The Hat](https://open.spotify.com/track/00rRb4G7YP7nppzamVFKA2) | [Brian Garner](https://open.spotify.com/artist/14PkQdstnMicAGULrm5aV9) | [Treehouse](https://open.spotify.com/album/5o7s0tWeRWvMgCaoOyVBaB) | 2:02 | 2024-05-16 | 2026-03-21 |
 | [Rain Rain Go Away](https://open.spotify.com/track/6nzTVUelsg5FgwYC8e4dQq) | [Marcos Perez](https://open.spotify.com/artist/12U2bFEqsXJrcSsa44TX1T) | [Rain Rain Go Away](https://open.spotify.com/album/0W7kT0c4n1KHTMplaoRutF) | 1:36 | 2021-10-29 | 2024-05-17 |
 | [Rain, Rain, Go Away](https://open.spotify.com/track/3zmJ8KlMAGpS4hpqDJ5xmA) | [Micci Rogers](https://open.spotify.com/artist/5ne1I2oi3j1HJTWK2Luk9z) | [This Old Man](https://open.spotify.com/album/3lchEgofOY5DYfGnFj58DD) | 1:48 | 2021-10-29 | 2024-05-17 |
@@ -277,7 +279,7 @@
 | [Sleepy Eyes](https://open.spotify.com/track/4cBQ6hpKobdxxyeJ8gu3cR) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleepy Eyes](https://open.spotify.com/album/20f2sObexRNK0NtpZ4jx9W) | 2:07 | 2024-05-16 | 2025-06-12 |
 | [Slow Dreams](https://open.spotify.com/track/1mrILGidcTcj68OEmOQSy4) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Slow Dreams](https://open.spotify.com/album/5uFnxrYzEXUlVGBA54psoX) | 2:04 | 2024-05-16 |  |
 | [Slumberland](https://open.spotify.com/track/3nL3Fw2VyJJcX7IKXFtYJi) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [Slumberland](https://open.spotify.com/album/38vYZzD3VHBFynAscSFWr0) | 1:36 | 2024-05-16 |  |
-| [Someday](https://open.spotify.com/track/64Ka9BzzbhnouV8KbyV4rI) | [Mood Of Harps](https://open.spotify.com/artist/0GvtayC9qA80kdronm7y5Q) | [Someday](https://open.spotify.com/album/2Wy3saGcEXXxy72qd5ovUK) | 2:28 | 2024-05-16 |  |
+| [Someday](https://open.spotify.com/track/64Ka9BzzbhnouV8KbyV4rI) | [Mood Of Harps](https://open.spotify.com/artist/0GvtayC9qA80kdronm7y5Q) | [Someday](https://open.spotify.com/album/2Wy3saGcEXXxy72qd5ovUK) | 2:28 | 2024-05-16 | 2026-10-09 |
 | [Something There](https://open.spotify.com/track/6tIIdGntB4kn9eWgbk1gsg) | [Elin Svensson](https://open.spotify.com/artist/7B1EUSbXfPfvKyuYlO0SYp) | [Something There](https://open.spotify.com/album/7lk5RkoZ2k0JNLIIHj7zZh) | 2:03 | 2024-05-16 |  |
 | [Somewhere over the Rainbow](https://open.spotify.com/track/2snEtWNsyYbWVxhxh2CA2s) | [Sasha Zimmerman](https://open.spotify.com/artist/2vVsmDVIQNKLpwcYz0ZpwM) | [Somewhere over the Rainbow](https://open.spotify.com/album/5R5DbLz5aDyRLXpkAqvEp0) | 1:51 | 2024-05-16 |  |
 | [Sommerdrøm](https://open.spotify.com/track/2uPXBjaHGJn3e6fWRqB2JL) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sommerdrøm](https://open.spotify.com/album/6QBMIQgFVkgQZ0Qpu9evl0) | 1:16 | 2024-05-16 |  |
@@ -313,6 +315,7 @@
 | [The Ice Cream King](https://open.spotify.com/track/3bNEBw6cvY06icXZT9Jw3d) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [The Ice Cream King](https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p) | 1:05 | 2021-10-29 | 2024-05-17 |
 | [The Magic Pancake](https://open.spotify.com/track/7kfp6vxgUNSdNBLGRRTY60) | [Sophea Chen](https://open.spotify.com/artist/4jsOYWTRbpLg04JEGd0Bhj) | [The Magic Pancake](https://open.spotify.com/album/7jFUXstf6ltF9aIHfK9dhw) | 1:56 | 2021-10-29 | 2024-05-17 |
 | [The More We Get Together](https://open.spotify.com/track/7wGPXZCuXokL9AsePKRgSk) | [Selena Hyman](https://open.spotify.com/artist/3bO3gS583licdyam4CyuyU) | [Star Light, Star Bright](https://open.spotify.com/album/3Jzemp5ff1ZqK4oCNmb7ov) | 1:45 | 2021-10-29 | 2024-05-17 |
+| [The Open Sky](https://open.spotify.com/track/5MhvAEV6t574k4ElXbN14e) | [Julian Dalí](https://open.spotify.com/artist/4gZXOVkpjz6WLp276j3ge0) | [The Open Sky](https://open.spotify.com/album/0pPIFQgeZa2pmbhfirXuEu) | 2:10 | 2026-10-09 |  |
 | [The Rabbits Journey](https://open.spotify.com/track/5FgLiliSIeSTsa6h3wzufU) | [Rod Parsons](https://open.spotify.com/artist/0t294nMoDXNQcR1vvnMgdh) | [The Rabbits Journey](https://open.spotify.com/album/194NKw4yZehjxHqICUfnlu) | 1:41 | 2021-10-29 | 2024-05-17 |
 | [The Sleeptrain](https://open.spotify.com/track/5SaAdvuxmZWEHrXMoEgyBc) | [Fitz Wilmer](https://open.spotify.com/artist/0g8dTozmEA5bn0e6Xd2Gw8) | [The Sleeptrain](https://open.spotify.com/album/0C1ij0T1EJEUMcp7vaaHhh) | 1:51 | 2021-10-29 | 2024-05-17 |
 | [The Stars in Your Eyes](https://open.spotify.com/track/2mtHZX8jd1B1Nsf9U1CHdk) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [The Stars in Your Eyes](https://open.spotify.com/album/6q4OheMWHx4s2GOv9DLXNG) | 2:39 | 2024-05-16 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Teo Planell.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Marina Herlop.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 177274,
       "name": "Bye bye",
       "url": "https://open.spotify.com/track/3nd8xqUa3PHAUeZ9bKH9GL"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 172689,
       "name": "conf\u00eda / \u062a\u064a\u0642",
       "url": "https://open.spotify.com/track/0PO79qSW7afeqvDbVHH7VE"
@@ -3898,7 +3898,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 159250,
       "name": "De momento",
       "url": "https://open.spotify.com/track/15eUAG9kmWKK2XbE6MTlYb"
@@ -4554,7 +4554,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 158617,
       "name": "Dins aquests dies",
       "url": "https://open.spotify.com/track/12XdcOvQ15bEjK6VWE0wKb"
@@ -5669,6 +5669,28 @@
     },
     {
       "album": {
+        "name": "La Casa House",
+        "url": "https://open.spotify.com/album/1e9qOWj1WzFJzmEzNWgvzN"
+      },
+      "artists": [
+        {
+          "name": "Escandaloso Xp\u00f3sito",
+          "url": "https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf"
+        },
+        {
+          "name": "AMYNATA",
+          "url": "https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178214,
+      "name": "En ning\u00fan lugar",
+      "url": "https://open.spotify.com/track/4uC6KYP2VNQTMylNT0QFLF"
+    },
+    {
+      "album": {
         "name": "en vd nose si todo sto te importa",
         "url": "https://open.spotify.com/album/6eydbQsYTLrlUkwFOMQbPi"
       },
@@ -5862,7 +5884,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 151821,
       "name": "esa cara",
       "url": "https://open.spotify.com/track/4aN7X1buWStoLqvJrZgIWC"
@@ -7070,7 +7092,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196608,
       "name": "GOLDEN",
       "url": "https://open.spotify.com/track/0w3uSZYymJ3YtKCmZz2noF"
@@ -7352,6 +7374,24 @@
       "duration_ms": 157894,
       "name": "Hay Alg\u00fan Sitio",
       "url": "https://open.spotify.com/track/4MtM2WJhglzbF4cMEVEZXe"
+    },
+    {
+      "album": {
+        "name": "Dja Dja",
+        "url": "https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ"
+      },
+      "artists": [
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137719,
+      "name": "Hay \u00e1ngeles",
+      "url": "https://open.spotify.com/track/5QZ9izo8nUUvIxzB8rmfQ6"
     },
     {
       "album": {
@@ -8322,6 +8362,24 @@
       "duration_ms": 238945,
       "name": "La Br\u00fajula [2018]",
       "url": "https://open.spotify.com/track/1NRJBv0Kk2eMfPoU5OS5EA"
+    },
+    {
+      "album": {
+        "name": "La casa",
+        "url": "https://open.spotify.com/album/37ioSxY7uDqvovm6UBe1PL"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220153,
+      "name": "La casa",
+      "url": "https://open.spotify.com/track/69iszvTgf6LKGWdNrUs88D"
     },
     {
       "album": {
@@ -9737,6 +9795,28 @@
     },
     {
       "album": {
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/5nJu1mS4AXeKF6q5nv0paC"
+      },
+      "artists": [
+        {
+          "name": "Korashe",
+          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
+        },
+        {
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169175,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/0hnYRG585G2FQY6lZ85ONf"
+    },
+    {
+      "album": {
         "name": "Mabel",
         "url": "https://open.spotify.com/album/6EK9vgCCQNa7yhODD1K6Dn"
       },
@@ -10078,6 +10158,24 @@
       "duration_ms": 148353,
       "name": "MARTIRIO",
       "url": "https://open.spotify.com/track/60vB4eadjfwoC6SFIqnEJ7"
+    },
+    {
+      "album": {
+        "name": "NECESITO EST\u00cdMULOS",
+        "url": "https://open.spotify.com/album/0HUAjOk4afhl3bPsclaLO4"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "MASTICA",
+      "url": "https://open.spotify.com/track/75p58MvH1BNxRsfDYHyltn"
     },
     {
       "album": {
@@ -10566,7 +10664,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196032,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/20oru8lwh8OYlBHjPtTsSC"
@@ -12129,6 +12227,24 @@
     },
     {
       "album": {
+        "name": "NO VIVIMOS IGUAL",
+        "url": "https://open.spotify.com/album/3unhbVH0jU9gTlFTHA8cSa"
+      },
+      "artists": [
+        {
+          "name": "Bloodstein",
+          "url": "https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116648,
+      "name": "NO VIVIMOS IGUAL",
+      "url": "https://open.spotify.com/track/7HHzzMImQvxL3QcGyajGlj"
+    },
+    {
+      "album": {
         "name": "No Vuelvas",
         "url": "https://open.spotify.com/album/12QEUlpF1TMJ9VTEOKs3o6"
       },
@@ -13390,7 +13506,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 198000,
       "name": "Plantas y Barro",
       "url": "https://open.spotify.com/track/6ustzGBhuVPvdMj0TofSiM"
@@ -14364,7 +14480,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 137587,
       "name": "Rendido a tus Pies",
       "url": "https://open.spotify.com/track/3U7vNi2WxCSLKBsLerYp9I"
@@ -15969,6 +16085,46 @@
     },
     {
       "album": {
+        "name": "talento natural",
+        "url": "https://open.spotify.com/album/6xUBO12ujC7a5hPpyGqUKm"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        },
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144079,
+      "name": "talento natural",
+      "url": "https://open.spotify.com/track/7uDyZWLh4LU9ckWhYCcW4R"
+    },
+    {
+      "album": {
+        "name": "talvez",
+        "url": "https://open.spotify.com/album/2jAD6mAa04Y4cUt4GtAUYW"
+      },
+      "artists": [
+        {
+          "name": "AMYNATA",
+          "url": "https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128846,
+      "name": "talvez",
+      "url": "https://open.spotify.com/track/6Az9wDLwMpLGDxJ5dmln3D"
+    },
+    {
+      "album": {
         "name": "Tan Lejos",
         "url": "https://open.spotify.com/album/3HRob2GGrhgpBoSH6pMFvZ"
       },
@@ -16898,6 +17054,24 @@
       "duration_ms": 231877,
       "name": "Tres Oto\u00f1os (feat. alberto.vela)",
       "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
+    },
+    {
+      "album": {
+        "name": "TRIQUITR\u00c1",
+        "url": "https://open.spotify.com/album/4fyA6fEJoPKHHfb0CoRtaa"
+      },
+      "artists": [
+        {
+          "name": "Dianka",
+          "url": "https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126352,
+      "name": "TRIQUITR\u00c1",
+      "url": "https://open.spotify.com/track/7E7xOpun0BhYe0fl6v1nzL"
     },
     {
       "album": {

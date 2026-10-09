@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,729 songs - 6 day 15 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,731 songs - 6 day 15 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2737,5 +2737,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2727 | [Rain on Pavement](https://open.spotify.com/track/2g6VYUIBh0F7ZfJonyNFyc) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [RAIN SERIES, Vol\. 1](https://open.spotify.com/album/2ZZKPJ3tBCBZ0FeNhQChSn) | 3:00 |
 | 2728 | [Borrowed Time](https://open.spotify.com/track/6UhQ7qEpXlCGreefjM6Ely) | [Sentriz](https://open.spotify.com/artist/0IsnUloaBFGEuNXqPlNn5t) | [Borrowed Time](https://open.spotify.com/album/72QOa3mGgM6Ghh7MOt66Ti) | 3:42 |
 | 2729 | [Life Goes On](https://open.spotify.com/track/0szGGovWjmEG1k3ZwdqTWw) | [S1J](https://open.spotify.com/artist/6GcGggHeS1LlSundBrW3AG), [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [Your Favorite Sins](https://open.spotify.com/album/48fMy4uGhbknKMnVlBp7HU) | 1:52 |
+| 2730 | [A New City You've Seen Before](https://open.spotify.com/track/1kQvyebKyFcbRiTYyPzEns) | [Ordinary Things](https://open.spotify.com/artist/4p4gcNgYfwfUSUNnyNFYQA) | [A New City You've Seen Before](https://open.spotify.com/album/5BzPjMMR6ATLzwU3GZKM6l) | 1:26 |
+| 2731 | [KIMBIA FREE](https://open.spotify.com/track/4Oq3UwrfcyOYqCj8TFv1H6) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [KIMBIA FREE](https://open.spotify.com/album/79eGJ5OTfKDAFuRllmR3Bg) | 3:13 |
 
-Snapshot ID: `AAALslqoEccVezTL8wAmfDhZppPsmSeM`
+Snapshot ID: `AAALtLoOQuzGIsHoMLcqvbA9sDniNeGT`

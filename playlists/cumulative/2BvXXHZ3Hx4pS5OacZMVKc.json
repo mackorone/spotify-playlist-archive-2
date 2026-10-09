@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Catch Me",
+        "url": "https://open.spotify.com/album/6GDK6nFvpbdFLwrQUi0oFg"
+      },
+      "artists": [
+        {
+          "name": "Moyo",
+          "url": "https://open.spotify.com/artist/19P5sb0mIyCtmjx2ommkIv"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174149,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/7fP1Ysen92BDvgOc51FPHd"
+    },
+    {
+      "album": {
         "name": "CERBERUS",
         "url": "https://open.spotify.com/album/2AgN9TGZmxADMJxsfcPTGx"
       },

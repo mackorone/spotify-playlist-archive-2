@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: Mark Forster",
+  "description": "Deutschpop, der jetzt passiert. Cover: LEVKA",
   "name": "POPLAND",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 233640,
       "name": "10m\u00b2 - Mit verifiziert",
       "url": "https://open.spotify.com/track/5uJx4ntkPG08A8ezQTbXvD"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 165000,
       "name": "Abschied nehmen",
       "url": "https://open.spotify.com/track/5gXixHgeMePU7nICfVAwoD"
@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "BERGAB BERGAUF",
+        "url": "https://open.spotify.com/album/0RDAnwtQx5Mu4dgy4pd2ez"
+      },
+      "artists": [
+        {
+          "name": "Yasola",
+          "url": "https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198201,
+      "name": "BERGAB BERGAUF",
+      "url": "https://open.spotify.com/track/3DGr4lExhWMiK7jPSJPlMt"
+    },
+    {
+      "album": {
         "name": "Besser",
         "url": "https://open.spotify.com/album/60pFoCPesUaXGD7uGAzjl6"
       },
@@ -1902,6 +1920,24 @@
       "duration_ms": 179092,
       "name": "Champagnerempfang satt",
       "url": "https://open.spotify.com/track/7e1FdXssCYdF8wBFQlBP6G"
+    },
+    {
+      "album": {
+        "name": "champagnertr\u00e4nen",
+        "url": "https://open.spotify.com/album/5y7G7pEAGXuYbR51CJDepo"
+      },
+      "artists": [
+        {
+          "name": "Ella",
+          "url": "https://open.spotify.com/artist/7BYZSxoQ6bR249F9EQncPN"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141435,
+      "name": "champagnertr\u00e4nen",
+      "url": "https://open.spotify.com/track/0lUCAlfinxParAXzo0sUCF"
     },
     {
       "album": {
@@ -3337,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "Majest\u00e4tisch",
+        "url": "https://open.spotify.com/album/4s2NTP9o6kaLHjY1NoDkW0"
+      },
+      "artists": [
+        {
+          "name": "Bella Reed",
+          "url": "https://open.spotify.com/artist/1u8VighW9YHcYd4x3U8ity"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134200,
+      "name": "Edens Garten",
+      "url": "https://open.spotify.com/track/61YGTWLGY2Sr3BjtXaSWQN"
+    },
+    {
+      "album": {
         "name": "effy stonem",
         "url": "https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t"
       },
@@ -3576,7 +3630,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 194524,
       "name": "Einfach Nichts",
       "url": "https://open.spotify.com/track/1DaQUiNLccpiUHfVmgyeR5"
@@ -4649,6 +4703,24 @@
     },
     {
       "album": {
+        "name": "Euphorie & Alltag",
+        "url": "https://open.spotify.com/album/0ig7v65AQvqmIhQiRytrDU"
+      },
+      "artists": [
+        {
+          "name": "Mia.",
+          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135937,
+      "name": "Gegenteil von Einsam",
+      "url": "https://open.spotify.com/track/0swaW5UG4u6x7zFZ95HNcd"
+    },
+    {
+      "album": {
         "name": "Geheimnis",
         "url": "https://open.spotify.com/album/70khccdVKWgQyOeCZoBjeF"
       },
@@ -4754,6 +4826,24 @@
       "duration_ms": 172202,
       "name": "Gewitter",
       "url": "https://open.spotify.com/track/1LahlWrxORhm7A9CPHCReN"
+    },
+    {
+      "album": {
+        "name": "gg",
+        "url": "https://open.spotify.com/album/2qGTRSaR6QBFSEUoIiHIvb"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165785,
+      "name": "gg",
+      "url": "https://open.spotify.com/track/74mHDke3t5W8k4QsL2v49J"
     },
     {
       "album": {
@@ -5785,6 +5875,24 @@
     },
     {
       "album": {
+        "name": "das schlimmste und das beste",
+        "url": "https://open.spotify.com/album/7AWSF6Iz42ITboAbwqSxXV"
+      },
+      "artists": [
+        {
+          "name": "Ella Stern",
+          "url": "https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203447,
+      "name": "hoffnung",
+      "url": "https://open.spotify.com/track/2I9h4BHA5QTeE4ndha0NbN"
+    },
+    {
+      "album": {
         "name": "Hollywood",
         "url": "https://open.spotify.com/album/22AFIOJi7jhE9vqCvVtfgq"
       },
@@ -5926,7 +6034,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 177106,
       "name": "ich f\u00fchle was, was du nicht siehst",
       "url": "https://open.spotify.com/track/0ZScxPE2OcZtD60S5h3yBk"
@@ -6441,6 +6549,24 @@
     },
     {
       "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/6cQwLDS60DGIPoLrjzjruA"
+      },
+      "artists": [
+        {
+          "name": "LILITH",
+          "url": "https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Inferno",
+      "url": "https://open.spotify.com/track/6rUR75MBqbOJB1K5enz3ty"
+    },
+    {
+      "album": {
         "name": "Initialen",
         "url": "https://open.spotify.com/album/11tfUWcFaNVaKXZNybnKBH"
       },
@@ -6546,7 +6672,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 141503,
       "name": "Irgendwas",
       "url": "https://open.spotify.com/track/6NUtkKE0WZZdyM58wcH2hJ"
@@ -7789,6 +7915,24 @@
     },
     {
       "album": {
+        "name": "lauf auf lego",
+        "url": "https://open.spotify.com/album/5tGwWzm48SFQnYiZWOV6O5"
+      },
+      "artists": [
+        {
+          "name": "smello",
+          "url": "https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119207,
+      "name": "lauf auf lego",
+      "url": "https://open.spotify.com/track/5qmZXCnP1n3O1tGA7lKvs8"
+    },
+    {
+      "album": {
         "name": "Laut Gedacht (Bam Ba Bam)",
         "url": "https://open.spotify.com/album/2Qk2nRCTYT3lq6cLEpaMDB"
       },
@@ -8107,6 +8251,24 @@
     },
     {
       "album": {
+        "name": "liebe gegangen",
+        "url": "https://open.spotify.com/album/44JsXOczMR3oCoSV6gJV8k"
+      },
+      "artists": [
+        {
+          "name": "LEVKA",
+          "url": "https://open.spotify.com/artist/1npJSBTSN3anXxBFZlLi88"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153556,
+      "name": "liebe gegangen",
+      "url": "https://open.spotify.com/track/28AwEwIC5xlwQBIaWZO2Ty"
+    },
+    {
+      "album": {
         "name": "Stabile Poesie",
         "url": "https://open.spotify.com/album/2EqNBOXga1QE04Mno5CkvT"
       },
@@ -8216,6 +8378,24 @@
       "duration_ms": 146666,
       "name": "lieblingslied",
       "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
+    },
+    {
+      "album": {
+        "name": "lieblingsl\u00fcgen",
+        "url": "https://open.spotify.com/album/74mXx7Qr4nDAjZtGs9Xihl"
+      },
+      "artists": [
+        {
+          "name": "Laura Nahr",
+          "url": "https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160453,
+      "name": "lieblingsl\u00fcgen",
+      "url": "https://open.spotify.com/track/6ysQLsD5ebOxO1mmnnRXTg"
     },
     {
       "album": {
@@ -9108,7 +9288,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 178000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/4aoIIMEnYjE5ZDVNuP7FKg"
@@ -9350,7 +9530,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196280,
       "name": "nebelschwadengrau",
       "url": "https://open.spotify.com/track/3BmSV3De4VMcUpICTFjlFQ"
@@ -10204,7 +10384,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 155585,
       "name": "One Hit Wonder",
       "url": "https://open.spotify.com/track/4y0Z8aUrromFTwfLYeNoqe"
@@ -10822,6 +11002,28 @@
       "duration_ms": 177534,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/6hFOFBz6iqx5JTXli7h7di"
+    },
+    {
+      "album": {
+        "name": "PUZZLETEIL",
+        "url": "https://open.spotify.com/album/4vvWnO5vtdZsPOFK4RPC0D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167114,
+      "name": "PUZZLETEIL",
+      "url": "https://open.spotify.com/track/4aeP4ntvTT8rV37nqezEV2"
     },
     {
       "album": {
@@ -12426,7 +12628,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 169202,
       "name": "TUTTI VIBE",
       "url": "https://open.spotify.com/track/3cuQKi6tnyfECDBUY1F0lN"
@@ -13537,6 +13739,24 @@
     },
     {
       "album": {
+        "name": "Weltzeituhr",
+        "url": "https://open.spotify.com/album/1MQOnbmCb1l7iUyIoAAKX0"
+      },
+      "artists": [
+        {
+          "name": "Philipp Poisel",
+          "url": "https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174661,
+      "name": "Weltzeituhr",
+      "url": "https://open.spotify.com/track/3AsljBZhQf4mKFiGDQrYgJ"
+    },
+    {
+      "album": {
         "name": "Weniger mehr",
         "url": "https://open.spotify.com/album/7rzngWxZQcqdzqre6tg9fk"
       },
@@ -13776,6 +13996,24 @@
       "duration_ms": 199013,
       "name": "Wenn du vor mir gehst",
       "url": "https://open.spotify.com/track/4YSRd2DqqAWHJCalU2TgbO"
+    },
+    {
+      "album": {
+        "name": "Wenn F\u00fcr Immer Heute W\u00e4r",
+        "url": "https://open.spotify.com/album/36OJLa0UTDA01dLcg1GT1M"
+      },
+      "artists": [
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169900,
+      "name": "Wenn F\u00fcr Immer Heute W\u00e4r",
+      "url": "https://open.spotify.com/track/5KZyd7AxsKHwecmXAr7fbn"
     },
     {
       "album": {
@@ -14148,7 +14386,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 128661,
       "name": "Wir gehen dumm (meine Besties)",
       "url": "https://open.spotify.com/track/5sDTJILa4gdOzqHAh38Qvx"
@@ -14184,7 +14422,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189413,
       "name": "WIR ZIEHEN AUF DEN MOND",
       "url": "https://open.spotify.com/track/2OYmoRviNDCklNK72Xn7q6"
@@ -14238,7 +14476,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 140733,
       "name": "WOHER WILLST DU WISSEN",
       "url": "https://open.spotify.com/track/5ZEaZTMz4LKhwutqg3LUjV"

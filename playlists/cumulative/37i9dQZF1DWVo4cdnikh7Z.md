@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Jailer 2
 
-2,754 songs - 6 day 20 hr 39 min
+2,755 songs - 6 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Aasai Varame \- From "Anbil Avan"](https://open.spotify.com/track/7LjXOglx1K698kPUfQfgrQ) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madrashe](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Aasai Varame \(From "Anbil Avan"\)](https://open.spotify.com/album/6BS5SUmKQpkOzGgW3chxxx) | 4:46 | 2026-08-17 | 2026-09-04 |
 | [Aathi En Mela](https://open.spotify.com/track/3qiNWKKf6IN1osaTHcnEix) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm) | [Aathi En Mela \(From "Sembi"\)](https://open.spotify.com/album/7dzpd2QEQ8dK1UC8Th35g4) | 4:29 | 2022-10-28 | 2022-10-30 |
 | [Aathi En Mela \(From "Sembi"\)](https://open.spotify.com/track/1YgTyNNEC2Qbpy08vgQz8y) | [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Prabusolomon](https://open.spotify.com/artist/1RyRAKfaWQ3NaxBoBqrFix) | [Aathi En Mela \(From "Sembi"\) \- Single](https://open.spotify.com/album/6NuaKSWYv1suNbBkL8UGyw) | 4:29 | 2022-10-28 | 2022-11-15 |
+| [Aathi Iva Yarraa \(From "Scene"\)](https://open.spotify.com/track/4evA3itYJjye3xAru81Jdv) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Rajpriyan](https://open.spotify.com/artist/3aV1xXHRwgdlbPE8bAEmOJ) | [Aathi Iva Yarraa \(From "Scene"\)](https://open.spotify.com/album/1VxSYl9AQXNtw4DnjFG1QS) | 3:07 | 2026-10-08 |  |
 | [Aathi Raasathi](https://open.spotify.com/track/364qkIlktc71rYtjdtr1Rj) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Dhass Benjamin](https://open.spotify.com/artist/1wcDGG9hf7TpBb5p9feMzg), [Pa\. Vijay](https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv) | [Karuppu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo) | 3:57 | 2026-05-25 | 2026-07-11 |
 | [Aaya Vadai](https://open.spotify.com/track/1U6MIZo8qh9nQndsur9Vgh) | [Johan Shevanesh](https://open.spotify.com/artist/6o8E6PZY8PvJP3zu0XkAIF), [Miran](https://open.spotify.com/artist/1gke7mIenpjgit8Qa6TUXO), [Lil Shiva](https://open.spotify.com/artist/0euGRs7e4ZKsWFEsUfeu24) | [Robber](https://open.spotify.com/album/3BW412loH9RSSRxVrzBsuK) | 3:35 | 2025-03-07 | 2025-03-22 |
 | [Aayah Song](https://open.spotify.com/track/3zCLFkKh9EJyWE9fbGsxbJ) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Shilvi Sharon](https://open.spotify.com/artist/1KCJkKOl7ejNUXcWKDy9jr) | [Aayah Song](https://open.spotify.com/album/3Gqyb6zx8fHbn2qX82H57m) | 3:49 | 2023-07-24 | 2023-08-04 |

@@ -8378,7 +8378,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "IJAZAT",
       "url": "https://open.spotify.com/track/4h9UT0UOnoJP9JRBD5XxMQ"
@@ -12858,7 +12858,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 161880,
       "name": "Love Ya",
       "url": "https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w"
@@ -19592,7 +19592,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 238000,
       "name": "Shayar Akhiyan (From \"Mithde\")",
       "url": "https://open.spotify.com/track/0BTyEzF1GM0J8ipX3NUal8"
@@ -22000,6 +22000,24 @@
     {
       "album": {
         "name": "Tera Mera Viah",
+        "url": "https://open.spotify.com/album/6zbmRHcLLtp9xls8idLN9k"
+      },
+      "artists": [
+        {
+          "name": "Jass Manak",
+          "url": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Tera Mera Viah",
+      "url": "https://open.spotify.com/track/2zjZxHGG6sgtKWj6qmGK0E"
+    },
+    {
+      "album": {
+        "name": "Tera Mera Viah",
         "url": "https://open.spotify.com/album/5U4oL6plxYADp3AH321W4u"
       },
       "artists": [
@@ -23489,6 +23507,32 @@
     },
     {
       "album": {
+        "name": "Udeekan Vich",
+        "url": "https://open.spotify.com/album/3FJb5t0clvJ6zJ2jrzIGj6"
+      },
+      "artists": [
+        {
+          "name": "Armaan Bedil",
+          "url": "https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3"
+        },
+        {
+          "name": "Amber",
+          "url": "https://open.spotify.com/artist/6UIT9w4vJCXgsg77Ny9shS"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Udeekan Vich",
+      "url": "https://open.spotify.com/track/4KeexCKGpjkBJS633QgxS2"
+    },
+    {
+      "album": {
         "name": "Udh Di Phiran",
         "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
       },
@@ -24120,7 +24164,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196363,
       "name": "Wakh Ni Ho Sakde (From \u201cBol Bhavein Na Bol\u201d)",
       "url": "https://open.spotify.com/track/5DyhTEZVQ7njeSINhxpY3q"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Laudo",
+  "description": "The best new and classic South African Rock. Cover: Coasters",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 175746,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
@@ -2790,6 +2790,32 @@
       "duration_ms": 215367,
       "name": "Choke You Out",
       "url": "https://open.spotify.com/track/0yMeGSDBBIzOFujL7DeXJq"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0EMeDmJQLsESMq6pHeLrQ2"
+      },
+      "artists": [
+        {
+          "name": "Die K\u00earels",
+          "url": "https://open.spotify.com/artist/2ZTTYLsTxiItT682ghpsIh"
+        },
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/7GV4lMBoBmWpQ9fgCiBU0R"
+        },
+        {
+          "name": "Arri Opperman",
+          "url": "https://open.spotify.com/artist/1sjAH0qjLwFm8gQxjU8tar"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151641,
+      "name": "Chuck",
+      "url": "https://open.spotify.com/track/7cxgyzxC9ZfL5KepeaE3qO"
     },
     {
       "album": {
@@ -6144,7 +6170,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 178719,
       "name": "Ghost Girl",
       "url": "https://open.spotify.com/track/3aOUCkc6Eb0zCwoVpPkUoU"
@@ -6350,6 +6376,28 @@
       "duration_ms": 196753,
       "name": "Gods Gift",
       "url": "https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N"
+    },
+    {
+      "album": {
+        "name": "Goeie Mense",
+        "url": "https://open.spotify.com/album/4ssxVkBMHO3qZuiJpM7WmX"
+      },
+      "artists": [
+        {
+          "name": "Huildronk",
+          "url": "https://open.spotify.com/artist/1X8x69QKEGBHq19H5r40vV"
+        },
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158861,
+      "name": "Goeie Mense",
+      "url": "https://open.spotify.com/track/3mnosU3nSxmnBXr0BS4Xtd"
     },
     {
       "album": {
@@ -6786,7 +6834,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 224727,
       "name": "Happy Endings",
       "url": "https://open.spotify.com/track/6kRjBLJwNvmxjrsvRAczQD"
@@ -11237,6 +11285,24 @@
     },
     {
       "album": {
+        "name": "not your wife",
+        "url": "https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA"
+      },
+      "artists": [
+        {
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225116,
+      "name": "not your wife",
+      "url": "https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC"
+    },
+    {
+      "album": {
         "name": "Nothing Feels Good Without You",
         "url": "https://open.spotify.com/album/2oRvkrGd0ceGblE1Ui8hBe"
       },
@@ -11724,7 +11790,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 306000,
       "name": "Opgef0k",
       "url": "https://open.spotify.com/track/37DcWLild6E1q6RMf7avij"
@@ -13108,7 +13174,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 236901,
       "name": "ROER",
       "url": "https://open.spotify.com/track/0sesomL3TkuLdL1F30RHi8"
@@ -14975,6 +15041,24 @@
     },
     {
       "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/4opt1dMgJDgiXtM4CLOBkD"
+      },
+      "artists": [
+        {
+          "name": "Wingerdgriep",
+          "url": "https://open.spotify.com/artist/2n8lLdeP4GOpqrazIKaSMJ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/0I8AbfFvC9tsx0SkO0cEkZ"
+    },
+    {
+      "album": {
         "name": "Story of the year",
         "url": "https://open.spotify.com/album/4Fv1oewYh21SU5TVTFQWxY"
       },
@@ -15440,6 +15524,24 @@
       "duration_ms": 223103,
       "name": "Take Me Under",
       "url": "https://open.spotify.com/track/6mMLPWw1Dc8sNu8yJOhsOZ"
+    },
+    {
+      "album": {
+        "name": "Take Me Where The Stars Never Sleep",
+        "url": "https://open.spotify.com/album/73Ljszcx2Nj5gEzN14AkGo"
+      },
+      "artists": [
+        {
+          "name": "Zach Leopard",
+          "url": "https://open.spotify.com/artist/32BTikkFQuadVcD1LHVgWd"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168846,
+      "name": "Take Me Where The Stars Never Sleep",
+      "url": "https://open.spotify.com/track/0kb0V0aWNaJWs221hZdlFW"
     },
     {
       "album": {
@@ -16702,7 +16804,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 169280,
       "name": "Twisted By The Sound",
       "url": "https://open.spotify.com/track/5SQu1E9ACvBeqLxb04224Z"
@@ -17778,7 +17880,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 169306,
       "name": "What The Hell",
       "url": "https://open.spotify.com/track/5mgc2DhJUDWUIPCryyb5f5"
@@ -18186,7 +18288,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 171428,
       "name": "Work Like That",
       "url": "https://open.spotify.com/track/09JHbZsHQQv9RzpicIuSYr"

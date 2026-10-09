@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 50344,
+  "num_followers": 50343,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Kim Cheolsu Story",
-        "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
-      },
-      "artists": [
-        {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
-        }
-      ],
-      "duration_ms": 248433,
-      "name": "Kim Cheolsu Story",
-      "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
         "name": "Red Moon: To You My Light",
         "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 265586,
       "name": "To You My Light (feat. LEE RAON)",
       "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
+        "name": "Kim Cheolsu Story",
+        "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "duration_ms": 248433,
+      "name": "Kim Cheolsu Story",
+      "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Resident Playbook, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6"
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
       },
       "artists": [
         {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
         }
       ],
-      "duration_ms": 219991,
-      "name": "On Such a Day",
-      "url": "https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx"
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+        "name": "Resident Playbook, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6"
       },
       "artists": [
         {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
         }
       ],
-      "duration_ms": 198558,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+      "duration_ms": 219991,
+      "name": "On Such a Day",
+      "url": "https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx"
     },
     {
       "added_at": "2026-08-18 06:15:23",

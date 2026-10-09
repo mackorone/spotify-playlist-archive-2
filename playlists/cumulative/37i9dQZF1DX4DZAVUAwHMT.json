@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Cowboy Hunters",
+  "description": "The UK's biggest rock playlist. Cover: Basht.",
   "name": "The Rock List",
   "tracks": [
     {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 243302,
       "name": "7563",
       "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
@@ -6123,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199555,
+      "name": "Dead Company",
+      "url": "https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ"
+    },
+    {
+      "album": {
         "name": "DEAD GIRL WALKING",
         "url": "https://open.spotify.com/album/6R64PFVwmrQhursPSFi2u2"
       },
@@ -7136,7 +7154,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 234218,
       "name": "easy rider",
       "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
@@ -9592,7 +9610,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 222893,
       "name": "Give Me Dirt",
       "url": "https://open.spotify.com/track/03A8fV79d1nMZXMo3vdw3u"
@@ -10607,6 +10625,24 @@
     },
     {
       "album": {
+        "name": "we are unpeople",
+        "url": "https://open.spotify.com/album/3wiGXFOSEkkNOtxBJJG56Q"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255166,
+      "name": "haunted",
+      "url": "https://open.spotify.com/track/70gWe4I2nBmb5zo0Wa5Uv0"
+    },
+    {
+      "album": {
         "name": "haven't seen you in a while",
         "url": "https://open.spotify.com/album/3jliCbDDzo2YMZuamfbVgQ"
       },
@@ -11115,6 +11151,24 @@
     },
     {
       "album": {
+        "name": "Palace for the People",
+        "url": "https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279576,
+      "name": "Heya",
+      "url": "https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k"
+    },
+    {
+      "album": {
         "name": "moisturizer (deluxe)",
         "url": "https://open.spotify.com/album/2HnvB9ilRvh2hpoFesS5fl"
       },
@@ -11202,6 +11256,24 @@
       "duration_ms": 176933,
       "name": "High Tea",
       "url": "https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM"
+    },
+    {
+      "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/38hmrb2ZXyxN0BLXAuAiPm"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206608,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0OwO15Nbw1PmnK7ZSrWChb"
     },
     {
       "album": {
@@ -16976,7 +17048,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 304716,
       "name": "Neighbors Blues",
       "url": "https://open.spotify.com/track/3Gbadm56klrQ11LCPsyy7z"
@@ -18248,7 +18320,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 348634,
       "name": "One Hot July",
       "url": "https://open.spotify.com/track/2fsgLcJElACDHoBcdKV4WL"
@@ -19686,6 +19758,24 @@
       "duration_ms": 182723,
       "name": "Pollyanna",
       "url": "https://open.spotify.com/track/32N0lqg7pTYF7DtN8ozrsH"
+    },
+    {
+      "album": {
+        "name": "Poor Advice",
+        "url": "https://open.spotify.com/album/3ThL2DprG4nlpYk1V10xxB"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214855,
+      "name": "Poor Advice",
+      "url": "https://open.spotify.com/track/2TyulpJQppDMPYgUd9F8PO"
     },
     {
       "album": {
@@ -21414,7 +21504,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 289187,
       "name": "Saw You Stand",
       "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
@@ -21706,6 +21796,24 @@
       "duration_ms": 219266,
       "name": "seventeen",
       "url": "https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B"
+    },
+    {
+      "album": {
+        "name": "sex",
+        "url": "https://open.spotify.com/album/0kL12szrXp4blmzGMztPOp"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162390,
+      "name": "sex",
+      "url": "https://open.spotify.com/track/2KMVizTVC3iUOcG6il4lBr"
     },
     {
       "album": {
@@ -24106,7 +24214,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 199479,
       "name": "Swallow The Bomb",
       "url": "https://open.spotify.com/track/6fi18o5Jp6dAIcXPlgzhWF"
@@ -24365,6 +24473,24 @@
     },
     {
       "album": {
+        "name": "Take Me As I Am",
+        "url": "https://open.spotify.com/album/52tQxXTKV0TDNHlhZJAJk4"
+      },
+      "artists": [
+        {
+          "name": "Tooth",
+          "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214084,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/5HSsSijaPBz6TlElQeZGF1"
+    },
+    {
+      "album": {
         "name": "ONE MORE TIME... PART-2",
         "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
       },
@@ -24612,7 +24738,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 215342,
       "name": "TELL ME WHY - feat. Mark Hoppus, Danny Elfman, Eric Nally, and Sorry My Love",
       "url": "https://open.spotify.com/track/3CYQ2bxyRAqt3ELgvCxXnk"
@@ -27272,6 +27398,24 @@
       "duration_ms": 207797,
       "name": "W.T.F",
       "url": "https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp"
+    },
+    {
+      "album": {
+        "name": "Waist 36 Leg 32",
+        "url": "https://open.spotify.com/album/5YtUriXwFzwLrgB22mu82w"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230328,
+      "name": "Waist 36 Leg 32",
+      "url": "https://open.spotify.com/track/3Sm6Ytyh4Rd1bdHz03pxHB"
     },
     {
       "album": {

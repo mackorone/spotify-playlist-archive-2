@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 85174,
+  "num_followers": 85220,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Bil\u00fa Bil\u00fa",
-        "url": "https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Bil\u00fa Bil\u00fa",
-      "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "De Padre Desconocido",
         "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 282000,
       "name": "Dos Monedas",
       "url": "https://open.spotify.com/track/6N1ykx2KOySjEXcVgrZ42J"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Bil\u00fa Bil\u00fa",
+        "url": "https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Bil\u00fa Bil\u00fa",
+      "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -671,18 +671,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Siempre en Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
+        "name": "El Intruso",
+        "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
       },
       "artists": [
         {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
+        },
+        {
+          "name": "Los Machos de la Cumbia",
+          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
         }
       ],
-      "duration_ms": 311016,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
+      "duration_ms": 205746,
+      "name": "El Intruso",
+      "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -723,22 +727,18 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "El Intruso",
-        "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
+        "name": "Siempre en Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
       },
       "artists": [
         {
-          "name": "Los Pincheira del Sur",
-          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
-        },
-        {
-          "name": "Los Machos de la Cumbia",
-          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
         }
       ],
-      "duration_ms": 205746,
-      "name": "El Intruso",
-      "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
+      "duration_ms": 311016,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "12 A\u00f1os de Historia",
         "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 234466,
       "name": "Por Andar de Patas Negras",
       "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Me Opongo",
-        "url": "https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d"
-      },
-      "artists": [
-        {
-          "name": "J Matt",
-          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "Me Opongo",
-      "url": "https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Me Voy a Lanzar",
         "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Siempre Villanos",
-        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
+        "name": "Me Opongo",
+        "url": "https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d"
       },
       "artists": [
         {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+          "name": "J Matt",
+          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
         }
       ],
-      "duration_ms": 220203,
-      "name": "Maldita Sea la Primera Vez",
-      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
+      "duration_ms": 177711,
+      "name": "Me Opongo",
+      "url": "https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1419,6 +1403,22 @@
       "duration_ms": 224328,
       "name": "Tarjetita de Invitacion",
       "url": "https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Siempre Villanos",
+        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "duration_ms": 220203,
+      "name": "Maldita Sea la Primera Vez",
+      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
     },
     {
       "added_at": "2026-09-11 21:07:48",

@@ -2,9 +2,9 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Codiciado
+> Country music with a Latin flair\. Cover: Kacey Musgraves and Intocable
 
-209 songs - 11 hr 29 min
+210 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [True Love](https://open.spotify.com/track/2T4FEAOUdzffXKzeyjrhPJ) | [Vince Mira](https://open.spotify.com/artist/6TnRQbaMql4s7JjzN0gup9) | [El Radio](https://open.spotify.com/album/1Ou8ELAdRfOzuJeKuARs9v) | 3:04 | 2021-12-10 | 2023-04-22 |
 | [Two Boots](https://open.spotify.com/track/0ey9A7L0UFKXmUTAVdJKY4) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [Two Boots](https://open.spotify.com/album/6XGbwQMkgqJutbWl8iI3qn) | 3:23 | 2026-03-13 |  |
 | [Uh\-huh \(Ajá\)](https://open.spotify.com/track/1gjG3auVpW1dugekfaCHXo) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Uh\-huh \(Ajá\)](https://open.spotify.com/album/1dgloxARc4TDcrBgI6z6d6) | 3:02 | 2024-04-19 |  |
+| [Uncertain, TX \(feat\. Intocable\) \- Spanish Version](https://open.spotify.com/track/3CF6hmINIcPUh0wfxN0ft3) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Uncertain, TX \(feat\. Intocable\) \[Spanish Version\]](https://open.spotify.com/album/7rWbojvauIqKj6PHESW6YB) | 3:33 | 2026-10-09 |  |
 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 | 2024-04-10 |
 | [Vaquera and the Cowboy](https://open.spotify.com/track/1S05YF8kpBxDLq9TCc2kIG) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Vaquera and the Cowboy](https://open.spotify.com/album/1uSY1zzeup2XbOZUNctQ3I) | 2:50 | 2021-12-10 | 2024-04-10 |
 | [Vaquero Arrepentido](https://open.spotify.com/track/4WOwOPyNHnJKNPQNdGsRtZ) | [8 Segundos](https://open.spotify.com/artist/5f5Wlazt9jmI75fK5nPpd6) | [Vaquero Arrepentido](https://open.spotify.com/album/60l7sli9oBPRzNGCh1rXJI) | 3:31 | 2021-12-10 |  |

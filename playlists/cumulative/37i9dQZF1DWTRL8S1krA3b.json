@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "All Wrapped Up In You",
+        "url": "https://open.spotify.com/album/1iJ9t4DG0517RBE3LhSKN3"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209386,
+      "name": "All Wrapped Up In You",
+      "url": "https://open.spotify.com/track/1VPhdrOA2wNeDOseBYf9K2"
+    },
+    {
+      "album": {
         "name": "All Wrapped Up In You This Christmas",
         "url": "https://open.spotify.com/album/0wKF4OLDxdHM6I2OiV6iAz"
       },
@@ -208,6 +226,28 @@
       "duration_ms": 171506,
       "name": "All Wrapped Up In You This Christmas",
       "url": "https://open.spotify.com/track/3kZHAf5NMoICeHQfDEPKwW"
+    },
+    {
+      "album": {
+        "name": "April's Gone (with Chris Stapleton)",
+        "url": "https://open.spotify.com/album/1bqunVAYMifyWG4VXYRix5"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272179,
+      "name": "April's Gone (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/3dQGIaKFqXMaWunmfxPNjN"
     },
     {
       "album": {
@@ -2110,6 +2150,24 @@
       "duration_ms": 165000,
       "name": "It Ain't Christmas",
       "url": "https://open.spotify.com/track/0JEGg96XY7WLsBqNuYhZMx"
+    },
+    {
+      "album": {
+        "name": "A Drake Milligan Christmas",
+        "url": "https://open.spotify.com/album/5QaW8srykW5hiAiESZuWV4"
+      },
+      "artists": [
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166718,
+      "name": "It Ain't Really Christmas",
+      "url": "https://open.spotify.com/track/0dPIPHcVQOpIITGai0NIhr"
     },
     {
       "album": {

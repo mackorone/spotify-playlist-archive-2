@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,316 songs - 3 day 0 hr 53 min
+1,317 songs - 3 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1223,6 +1223,7 @@
 | [Unfinished](https://open.spotify.com/track/7w9SaK5KiptI4BNdAEzTJk) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Unfinished](https://open.spotify.com/album/0S86doOPLnGVIlXtM4QoIH) | 4:44 | 2022-01-28 | 2022-04-08 |
 | [Uplift](https://open.spotify.com/track/5v61xHVqHn4EyakLpGqWzb) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Uplift](https://open.spotify.com/album/6OwhZjeTdn2uQ3LZNsmHzP) | 3:48 | 2023-06-12 | 2023-09-26 |
 | [ur such a JERK!](https://open.spotify.com/track/1uKVaRz9nJVcNa9dCcW6js) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [the unicorn who believed in love](https://open.spotify.com/album/4Ji0jYiDG2pSI78Fuk8VWh) | 2:30 | 2026-02-09 | 2026-06-06 |
+| [Ur Type](https://open.spotify.com/track/5M5M46CVUNdgihQOxlIcI7) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46), [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [Ur Type](https://open.spotify.com/album/3g4RWamGskqSzdnZoQxA7f) | 3:07 | 2026-10-08 |  |
 | [Use My Love](https://open.spotify.com/track/212tIxatoiyc4wYshhQswW) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Molly Moore](https://open.spotify.com/artist/0mEUqATSCsYZUTyL09kB8g) | [Use My Love](https://open.spotify.com/album/6mUYOidMG0daxdNmMLVdVh) | 3:15 | 2024-10-24 | 2025-02-07 |
 | [Use That Love](https://open.spotify.com/track/7zsI93sw3ETJRVmcOsmssV) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Use That Love](https://open.spotify.com/album/25cNbRC8JeX7H6rkoBdHzQ) | 3:24 | 2026-01-09 | 2026-05-13 |
 | [Used](https://open.spotify.com/track/221btWts70oQ60quERFxXM) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Emma Mae](https://open.spotify.com/artist/43a6MOLTIzH1H3LjXIJOZv) | [Used](https://open.spotify.com/album/6rHqNX0gISvnog7Q0vm0e8) | 4:18 | 2021-11-19 | 2022-01-28 |

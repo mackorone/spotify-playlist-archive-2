@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍁
 
-661 songs - 1 day 15 hr 15 min
+663 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bigger Pieces](https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. V](https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT) | 5:05 | 2025-02-14 |  |
 | [Birds](https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Nameless](https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU) | 3:41 | 2021-10-09 |  |
 | [Bisous](https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Monstre](https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0) | 3:04 | 2024-04-26 | 2024-06-08 |
+| [Black Cloud](https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Black Cloud](https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS) | 4:29 | 2026-10-09 |  |
 | [Bleus & Blés](https://open.spotify.com/track/5Dj7YKqeInShqPLLitc9k2) | [Jade Lessard](https://open.spotify.com/artist/11DkMTZq0ntaKyLicVyjf6) | [Confort stable](https://open.spotify.com/album/7ykkRDvvawe6DzLEqQ8RSF) | 4:26 | 2026-05-22 | 2026-07-14 |
 | [Bloc appartement](https://open.spotify.com/track/7cHDCbp1I6oZVwox0fEFcG) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [En attendant les normales de saison \- EP](https://open.spotify.com/album/4kbWX80pZW3PzuGC7wk679) | 3:36 | 2021-01-17 | 2022-07-23 |
 | [Bonsoir Moreau](https://open.spotify.com/track/6UzfzYuWAZHDKIXfI73Hw3) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya), [Salebarbes](https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB) | [Bonsoir Moreau](https://open.spotify.com/album/7tKaSNqgxeyCwIjJPabD2u) | 2:24 | 2021-06-09 | 2021-10-02 |
@@ -66,7 +67,7 @@
 | [Californie](https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC) | 3:25 | 2022-07-08 | 2024-04-14 |
 | [Californie](https://open.spotify.com/track/7lfazyv2rEYZpwVC5gGxyO) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/6eUYntcnw694NcOd1tEpmT) | 3:25 | 2021-01-15 | 2022-07-29 |
 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 | 2023-03-02 | 2025-10-25 |
-| [carnavalito](https://open.spotify.com/track/1kdmeJYNYSPZPEFvzGAuAm) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [carnavalito](https://open.spotify.com/album/79xlBgBMznG5YWAOLFnAZI) | 3:59 | 2026-07-24 |  |
+| [carnavalito](https://open.spotify.com/track/1kdmeJYNYSPZPEFvzGAuAm) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [carnavalito](https://open.spotify.com/album/79xlBgBMznG5YWAOLFnAZI) | 3:59 | 2026-07-24 | 2026-10-09 |
 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-17 | 2025-07-29 |
 | [Carrousel](https://open.spotify.com/track/7tXDdUUQNJqHtGB8Gsfqv4) | [Baroque Baroque](https://open.spotify.com/artist/1QqhblRxfwVnkkCVgJkQ9I) | [Mixtape \(part\. 3\)](https://open.spotify.com/album/1JsS8yGtuPAL4Obkp9xIeS) | 2:42 | 2025-10-17 | 2025-11-02 |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Carry Me \(Acoustic\)](https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv) | 3:19 | 2022-09-09 | 2022-12-17 |
@@ -275,7 +276,7 @@
 | [L'oeil de la tempête](https://open.spotify.com/track/6hqZ7Gse9RLqbLl8SItu0s) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [L'oeil de la tempête](https://open.spotify.com/album/1G3KTeszRhkqwK5oK4QVZ8) | 3:34 | 2022-05-20 | 2022-07-19 |
 | [L'oiseau\-vitre](https://open.spotify.com/track/5hdcCZUXf2kunkOwbPBujv) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:55 | 2021-01-15 | 2021-10-02 |
 | [L'échafaud](https://open.spotify.com/track/4rfqSbkpuX1LFT0urfeGi8) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Dans la seconde](https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx) | 4:33 | 2023-09-08 | 2023-10-24 |
-| [L'été indien de ta vie](https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM) | 3:58 | 2021-01-03\* |  |
+| [L'été indien de ta vie](https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM) | 3:58 | 2021-01-03\* | 2026-10-09 |
 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/3MnFHWYVWEZjkfU58VgZrz) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [L'île à vingt\-cinq sous](https://open.spotify.com/album/4CMheRrzMJZI0bp7HBaBpB) | 3:33 | 2021-01-03\* | 2022-01-08 |
 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:35 | 2022-01-07 |  |
 | [La cabane \- Édit radio 2019](https://open.spotify.com/track/5kjI0AyV7R5B1zpEULRmGx) | [Soul & Sister](https://open.spotify.com/artist/6FKmH1yrlnresuuvHdY2lh) | [Soul & Sister \- EP](https://open.spotify.com/album/4gMf584x1lIKpnPrs7xHOK) | 3:12 | 2021-01-15 | 2022-07-28 |
@@ -439,6 +440,7 @@
 | [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 | 2022-08-22 | 2024-09-21 |
 | [On lui doit notre sang](https://open.spotify.com/track/0exEszTvulIT0w8W5sSdoC) | [Manahel](https://open.spotify.com/artist/202NYrsgt4o5JUJIVGpKCI) | [On lui doit notre sang](https://open.spotify.com/album/2tuQ4V6oMvfxuAanXSOliP) | 2:26 | 2021-01-03\* | 2021-01-15 |
 | [On s'est fait avaler](https://open.spotify.com/track/5wh1ftmCIJItnYNNgbjDtA) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [On s'est fait avaler](https://open.spotify.com/album/0Cd8eCnOyMIDzUidgqVb2x) | 3:55 | 2026-05-29 | 2026-06-26 |
+| [On se demande](https://open.spotify.com/track/7n7hlU7G7KEKEav0toLUqS) | [Mélanie Venditti](https://open.spotify.com/artist/3zOQ5L95SsfknVZHXtWbB1) | [Les steppes](https://open.spotify.com/album/4hfxQuhCKLBpHuMr9cxowb) | 2:59 | 2026-10-09 |  |
 | [On Time](https://open.spotify.com/track/5VIHl6ClOREraq2WXR4EEK) | [Alex Mick](https://open.spotify.com/artist/0WoFoQAvv1ul6lQKQaGu0b) | [Never Really Enough](https://open.spotify.com/album/0LXaVDXe6vWukFLbVPQyBL) | 3:23 | 2026-03-06 | 2026-04-08 |
 | [Ovni \(C\-132\)](https://open.spotify.com/track/6ATlxhYNWlz0nAUJoeoyry) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Ovni \(C\-132\)](https://open.spotify.com/album/40SV2LYDGopKziBbqHPljR) | 3:13 | 2022-01-28 | 2022-07-29 |
 | [Où va ce chagrin](https://open.spotify.com/track/3hylbaK7bxwEvlrH9eUIZG) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 3:34 | 2021-03-14 | 2021-11-13 |

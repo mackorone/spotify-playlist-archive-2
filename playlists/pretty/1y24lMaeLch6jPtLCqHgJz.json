@@ -1,12 +1,12 @@
 {
   "description": "best festival music - summer festival - best festivals - festival summer - mainstage music - tomorrowland festival - awakenings festival - zomer festivals - festival vibes",
-  "num_followers": 85543,
+  "num_followers": 85540,
   "original_name": "Summer Festival 2026 \ud83d\udca5 Festival Summer Music",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAAM9b5OIgaBl8EV6a/9weuKMja0/T7D",
+  "snapshot_id": "AAAM+cDXGZiJbUCUg2xTqC9kYilHRush",
   "tracks": [
     {
       "added_at": "2026-10-01 14:57:12",
@@ -27,6 +27,70 @@
       "duration_ms": 164517,
       "name": "Ai Caralho",
       "url": "https://open.spotify.com/track/2PboxVJSjQJRZgQcVKNDFk"
+    },
+    {
+      "added_at": "2026-10-08 17:11:25",
+      "album": {
+        "name": "Revealed Recordings presents ADE Sampler 2026",
+        "url": "https://open.spotify.com/album/60i9wfDvoaHHKJrdBWYn6d"
+      },
+      "artists": [
+        {
+          "name": "2ACES",
+          "url": "https://open.spotify.com/artist/5dHy2mDWei8fmwzE3fsrC3"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/2jAdYVV70CjTGlh4bfi0wa"
+    },
+    {
+      "added_at": "2026-10-08 17:12:39",
+      "album": {
+        "name": "Revealed Recordings presents ADE Sampler 2026",
+        "url": "https://open.spotify.com/album/60i9wfDvoaHHKJrdBWYn6d"
+      },
+      "artists": [
+        {
+          "name": "ZYN\u00d8X",
+          "url": "https://open.spotify.com/artist/3Nc1RtEZe9VXTAjR8yZVdY"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2Gb4eYsKImdX7ZefXwm0z8"
+    },
+    {
+      "added_at": "2026-10-08 17:16:27",
+      "album": {
+        "name": "Revealed Recordings presents ADE Sampler 2026",
+        "url": "https://open.spotify.com/album/60i9wfDvoaHHKJrdBWYn6d"
+      },
+      "artists": [
+        {
+          "name": "Steeper",
+          "url": "https://open.spotify.com/artist/2uTLykyg4Wk5zBw3Xttmsh"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/51m355hpB68KKBDKGHRZeX"
+    },
+    {
+      "added_at": "2026-10-08 17:17:27",
+      "album": {
+        "name": "Revealed Recordings presents ADE Sampler 2026",
+        "url": "https://open.spotify.com/album/60i9wfDvoaHHKJrdBWYn6d"
+      },
+      "artists": [
+        {
+          "name": "Detmex",
+          "url": "https://open.spotify.com/artist/4wBopwyJ1F228LOOFb6qT8"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/4N594SbJdkSr9kYu8v4KGA"
     },
     {
       "added_at": "2026-10-01 14:57:12",

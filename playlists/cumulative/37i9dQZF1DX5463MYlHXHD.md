@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-378 songs - 21 hr 2 min
+379 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Re Locos Otra Vez](https://open.spotify.com/track/2RLI4XpPQu1qeli6xfGrXa) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Re Locos Otra Vez](https://open.spotify.com/album/0Ia5qYXUpmPGGPRb6AKkVk) | 3:53 | 2024-12-20 | 2025-08-24 |
 | [RE MANIJA](https://open.spotify.com/track/1mP4PFtnRSxnC2wiiUkkb0) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [RE MANIJA](https://open.spotify.com/album/5IilPCTGtRn93PKjeHADUC) | 3:09 | 2025-05-09 | 2025-08-24 |
 | [Regresa Por Favor](https://open.spotify.com/track/4ZNTXxXvWoY9L0xMcrXiaa) | [1 de kal](https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Regresa Por Favor](https://open.spotify.com/album/3w8OvJaLNJdsOi8UVzNGpm) | 3:23 | 2024-08-16 | 2024-08-22 |
-| [Remake](https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Remake](https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U) | 5:32 | 2023-05-26 |  |
+| [Remake](https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Remake](https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U) | 5:32 | 2023-05-26 | 2026-10-09 |
 | [Resaka](https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 3:34 | 2023-05-26 | 2024-04-19 |
 | [Ricky Paum Paum](https://open.spotify.com/track/57TUcUGf1NVqM3NcjYFAwa) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:55 | 2024-09-27 |  |
 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 | 2023-05-26 | 2024-03-06 |
@@ -334,6 +334,7 @@
 | [Te Invito a Bailar](https://open.spotify.com/track/5DDiufzTHaZAFuL0PQni2d) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:20 | 2026-06-23 |  |
 | [Te Llevás Todo](https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS) | [Los Chicos de la Vía](https://open.spotify.com/artist/1nfSzeihND1mzlXT78LFGl) | [Por la Vía Rápida](https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3) | 3:47 | 2024-03-05 |  |
 | [Te Robas Mis Suspiros](https://open.spotify.com/track/5BQnViSKPHwCeHnMqVFDZH) | [Sonido Basico](https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA) | [Evolución](https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB) | 3:11 | 2026-02-13 |  |
+| [Te Volviste Uto](https://open.spotify.com/track/6R2qmrJmMRYSAekeD0nHdd) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1) | 4:04 | 2026-06-23 |  |
 | [Tengo en Venta el Corazon](https://open.spotify.com/track/6rZZPJBaR0FyK54DZRH316) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Tengo en venta el corazon](https://open.spotify.com/album/126FOQKMNASd7nY3vTVtXq) | 3:30 | 2023-10-13 | 2023-10-21 |
 | [Tengo La Primicia](https://open.spotify.com/track/58lg8t1vkiFF7TKa9bMt5e) | [El Plan](https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Tengo La Primicia](https://open.spotify.com/album/5IhVFvT73oIh05LkASAYhI) | 2:24 | 2024-06-07 | 2024-06-29 |
 | [TENGO SED](https://open.spotify.com/track/0cMfTZUz7ifs8J2iB5iAPs) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [TENGO SED](https://open.spotify.com/album/5aOflrqr7UamTVWOuTLykX) | 3:29 | 2024-02-09 | 2024-03-06 |

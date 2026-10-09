@@ -4,7 +4,7 @@
 
 > 
 
-152 songs - 14 hr 6 min
+153 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Teardrop \- dark version](https://open.spotify.com/track/4SZHXagJBFjtbiuKzqnMvX) | [The Subs](https://open.spotify.com/artist/06h5xeeCDip3usS3go9zjI), [gala dragot](https://open.spotify.com/artist/5bec6G42etdHwqurstmocM) | [Teardrop \- dark version](https://open.spotify.com/album/4BbQBXfpo00N83v9bhv1Fb) | 3:17 | 2023-08-12 |  |
 | [Technocracy \- Stan Christ Remix](https://open.spotify.com/track/1LtbOjSCfKhF6iX4eAzc6L) | [Scepticism](https://open.spotify.com/artist/2bSRbM38Zjq4kM6c2IlvFj), [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I) | [Technocracy](https://open.spotify.com/album/5xq0VYIHWrxjRPHX1cUDag) | 5:59 | 2021-10-01 |  |
 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 | 2025-08-06 |  |
+| [That Feeling](https://open.spotify.com/track/7hNcBQYwyWZTfEwSEkV0xw) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [That Feeling](https://open.spotify.com/album/0TGrTxdSuwakTJCpSyX9sB) | 2:51 | 2026-10-08 |  |
 | [The Phoenix](https://open.spotify.com/track/1jO9T05pWsWLcCOfLHIc8R) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [The Phoenix](https://open.spotify.com/album/1osrjRDfILTRwYVzwKrRfO) | 6:56 | 2021-07-01 |  |
 | [The Realm](https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [The Realm](https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO) | 5:58 | 2025-04-14 |  |
 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 | 2023-02-05 |  |

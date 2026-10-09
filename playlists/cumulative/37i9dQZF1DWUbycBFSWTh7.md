@@ -4,7 +4,7 @@
 
 > get into the groove with a selection of new underground deep house
 
-716 songs - 2 day 19 hr 19 min
+717 songs - 2 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Cash \- Sam Ruffillo & Kapote Remix](https://open.spotify.com/track/7IxAKJyQuKTzY64yhey9tH) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Cash \(Sam Ruffillo & Kapote Remix\)](https://open.spotify.com/album/4qyBZrQZVOkiJTLoj8OivO) | 5:20 | 2024-04-13 | 2025-01-26 |
 | [CDSS](https://open.spotify.com/track/4kk4okQXLPuWyKGvRnBLOY) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Fluid Files Volume 5](https://open.spotify.com/album/38DdjvNb80WIfjBk2JfEMK) | 6:34 | 2026-09-28 |  |
 | [Cellular](https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Cellular](https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP) | 7:05 | 2022-12-01 | 2023-11-03 |
+| [Cerrado](https://open.spotify.com/track/2piYP4uGKw6t1I1okWGWBO) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Cerrado / Undercurrent](https://open.spotify.com/album/0Smiau862XNHGHdiFLqohC) | 5:37 | 2026-10-08 |  |
 | [Chocolate Puddin' \- FNX Omar Remix](https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Chocolate Puddin'](https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7) | 6:28 | 2024-01-31 | 2024-12-06 |
 | [Choices](https://open.spotify.com/track/4wbiu6EMEmMev99er9vYU1) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag) | [Choices](https://open.spotify.com/album/2WhGvGpnfE4gAcKmf1rouL) | 2:39 | 2025-02-13 | 2025-12-09 |
 | [Chutoro](https://open.spotify.com/track/2THxskift0F2b5wCjjLpzw) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Chutoro EP](https://open.spotify.com/album/2KmUmTZICpnb2pvJI1DiOb) | 5:50 | 2022-09-15 | 2023-01-13 |
@@ -479,7 +480,7 @@
 | [Piano Tune](https://open.spotify.com/track/1YotvjTdQp54NeLWdQWduS) | [Adam Nyquist](https://open.spotify.com/artist/3Bor6oFnhNuCb3VixOgX7E) | [Piano Tune EP](https://open.spotify.com/album/0GGZiAdKEwzX58iv5x4B2k) | 5:42 | 2025-05-11 | 2026-04-01 |
 | [Pilsplaat](https://open.spotify.com/track/66ydKEoF7uofQdlA9yVsKK) | [Bonkers](https://open.spotify.com/artist/3aJmqZGZ6nTlu7Uoy3vWyz) | [Pilsplaat](https://open.spotify.com/album/6sPPr8BBqg8ZdI27N6ZaHr) | 3:05 | 2022-09-15 | 2023-07-08 |
 | [Pink Lemon \- Dam Swindle Remix](https://open.spotify.com/track/0zC9m8AHsI1cCAaoyrQ5Mj) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Pink Lemon \(Dam Swindle Remix\)](https://open.spotify.com/album/7dL698OAdonYzcoVyC783e) | 3:37 | 2026-09-07 |  |
-| [Pink Little Frog](https://open.spotify.com/track/2LTkGebiABcRGgDBWi6hSG) | [Lehar](https://open.spotify.com/artist/4uSLuEAH4lVnjAZwrlixk1) | [Pink Little Frog](https://open.spotify.com/album/1vHzRMEFdKuXpY1vZS5xMZ) | 6:00 | 2025-05-29 |  |
+| [Pink Little Frog](https://open.spotify.com/track/2LTkGebiABcRGgDBWi6hSG) | [Lehar](https://open.spotify.com/artist/4uSLuEAH4lVnjAZwrlixk1) | [Pink Little Frog](https://open.spotify.com/album/1vHzRMEFdKuXpY1vZS5xMZ) | 6:00 | 2025-05-29 | 2026-10-09 |
 | [Point G](https://open.spotify.com/track/7wRzdqOpTnpil5aEGF9rGQ) | [Joss Moog](https://open.spotify.com/artist/0H4BQjtU2ChZdr48fgZALZ), [Around7](https://open.spotify.com/artist/1uQFtCGMSWTjxchgjQAB8H), [Phil Weeks](https://open.spotify.com/artist/0ruxrxTRHzfO8KsLLNPNkK) | [SU\-700 Lost Sessions](https://open.spotify.com/album/4S6aXw46rekSWSdqdN4mK9) | 5:04 | 2025-04-16 | 2026-04-01 |
 | [Poppy](https://open.spotify.com/track/3uXlmol1b1oL04D5GFBjR7) | [Stef Rijs](https://open.spotify.com/artist/2ooCA6wOdps3usNlxjFF7E) | [Poppy EP](https://open.spotify.com/album/5ENmZ4Q5hYk7kCmDO42w67) | 7:14 | 2023-07-07 | 2024-04-12 |
 | [Pornography](https://open.spotify.com/track/77ltdRhy9R9AnDWFcKLLSA) | [William Djoko](https://open.spotify.com/artist/4EAeSI62JIrlq6cyxeV3hO), [Foremost Poets](https://open.spotify.com/artist/6bxNGNLzoododCo2iYnW5F) | [Pornography](https://open.spotify.com/album/4dy3cRd0wwv1e2PsXThwXY) | 6:46 | 2023-09-14 | 2024-03-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The new wave of alternative, genre-bending and creative afro fusion music: BLNDE",
+  "description": "The new wave of alternative, genre-bending and creative afro fusion music: Wave$tar",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -3473,6 +3473,28 @@
     },
     {
       "album": {
+        "name": "BUR$KI",
+        "url": "https://open.spotify.com/album/7hQUzHnLLcpqeFjULcp5PJ"
+      },
+      "artists": [
+        {
+          "name": "Zichy",
+          "url": "https://open.spotify.com/artist/7lerxyv3L51n6LVW9afakL"
+        },
+        {
+          "name": "Suono Sai",
+          "url": "https://open.spotify.com/artist/14sJMBcF035eGzDwdxEcSX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130393,
+      "name": "BUR$KI",
+      "url": "https://open.spotify.com/track/2Xp4kFOcPKfSbrguqGW2xN"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/4CCPtSjyZc13Wbh1CeDrVp"
       },
@@ -5396,6 +5418,28 @@
       "duration_ms": 132857,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/4bahlJIInsjIUKXrod6RqO"
+    },
+    {
+      "album": {
+        "name": "Daddy, I'm Going Out",
+        "url": "https://open.spotify.com/album/26l5EcfY8MUwU0W86Eo3Qy"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "Daddy, I'm Going Out",
+      "url": "https://open.spotify.com/track/3PkU0NhQmbeh1lIsDi8tyr"
     },
     {
       "album": {
@@ -14866,7 +14910,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 157555,
       "name": "No Crumbs",
       "url": "https://open.spotify.com/track/6hl0gUi8PKxQ7I8e6FiY9l"
@@ -16876,7 +16920,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188764,
       "name": "Popstar Party",
       "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
@@ -18014,6 +18058,24 @@
       "duration_ms": 157149,
       "name": "RHUDE GYAL! (with Darkoo)",
       "url": "https://open.spotify.com/track/7fTZGGFULOk6KDBAhupep5"
+    },
+    {
+      "album": {
+        "name": "Swagstar",
+        "url": "https://open.spotify.com/album/02m9kBTURJaGfvmr1Z0rEV"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151004,
+      "name": "RIC FLAIR DRIP",
+      "url": "https://open.spotify.com/track/0fCGLUYkP2mVb873CkCfCl"
     },
     {
       "album": {
@@ -24268,7 +24330,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 145426,
       "name": "Yapa Yapa",
       "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"

@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Akylas
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Hawk, Eleni Foureira
 
-327 songs - 16 hr 39 min
+329 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Apo To 1 Os To 100](https://open.spotify.com/track/0MqTIkt51D8HJhNRTYvANs) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A) | [Apo To 1 Os To 100](https://open.spotify.com/album/67RpKgF2mR9tKCtZqvJMBb) | 3:07 | 2024-06-27 | 2024-10-18 |
 | [APOTIPOMA](https://open.spotify.com/track/0SKdTC5SI6vLGcgi6DT25q) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [APOTIPOMA](https://open.spotify.com/album/7zDgNyZe9DPvhgyCOsqMfv) | 2:37 | 2025-05-22 | 2025-12-05 |
 | [Aristourgima](https://open.spotify.com/track/4lwRh4qMQvANHm1OcgB4Tg) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Aristourgima](https://open.spotify.com/album/0TO9uhMi63ToVh6tU330LF) | 2:12 | 2024-07-11 | 2025-05-16 |
-| [Asorti](https://open.spotify.com/track/0Ds24GnzJdaWccgCxnkCYL) | [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [SOS](https://open.spotify.com/album/3uAbQus7VRwa8kduF771DY) | 3:09 | 2026-02-19 |  |
+| [Asorti](https://open.spotify.com/track/0Ds24GnzJdaWccgCxnkCYL) | [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [SOS](https://open.spotify.com/album/3uAbQus7VRwa8kduF771DY) | 3:09 | 2026-02-19 | 2026-10-09 |
 | [Aspirini](https://open.spotify.com/track/5viznjGtO0Y61qSjAHHazi) | [Malu](https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah) | [Aspirini](https://open.spotify.com/album/7fBIvDsvYI10MJfBAeXBMU) | 3:47 | 2025-12-18 | 2026-04-03 |
 | [Astamatiti Kardia](https://open.spotify.com/track/7mBj9L5DvwU6o2UiGOANDM) | [Rena Morfi](https://open.spotify.com/artist/35QNo6nfps7vs25jpz5jl1) | [Astamatiti Kardia](https://open.spotify.com/album/5FAF5fmwsMTDdZnYW1uIkn) | 3:05 | 2024-11-21 | 2024-12-13 |
 | [Asteio](https://open.spotify.com/track/3grnI3Xh7sIjuSI6mH59Ta) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Asteio](https://open.spotify.com/album/5s8IZjqAX57I4iiMUI9kT9) | 3:19 | 2025-11-13 | 2026-06-12 |
@@ -261,7 +261,8 @@
 | [Provlimata](https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Oneiropolos](https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2) | 2:24 | 2025-05-08 | 2025-11-28 |
 | [PSEMATA](https://open.spotify.com/track/4afbrAtKTYLT2J0QBo70It) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [PSEMATA](https://open.spotify.com/album/3dji683GDv39BHlufBg38p) | 3:35 | 2024-09-26 | 2025-04-11 |
 | [Pulp Fiction](https://open.spotify.com/track/0ZKnuQTMBuxQRRf7IwLjpp) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [Pulp Fiction](https://open.spotify.com/album/7hexRRKeti0eNJ1WuW4XSq) | 2:27 | 2026-09-24 |  |
-| [Rebetiko](https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Rebetiko](https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd) | 2:23 | 2026-03-26 |  |
+| [Rebetiko](https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Rebetiko](https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd) | 2:23 | 2026-03-26 | 2026-10-09 |
+| [Revma](https://open.spotify.com/track/4J7yq3ghKZmSublCTwRfF4) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Revma](https://open.spotify.com/album/7zYvgR6qc7FlKUetES3Oft) | 3:24 | 2026-10-08 |  |
 | [ROMA](https://open.spotify.com/track/74Gt1U2UctOiLxrKE6SPhX) | [Greg](https://open.spotify.com/artist/3uBNVjDel3HFDLBmNt4ork), [Stathis Xenos](https://open.spotify.com/artist/5FeKhXptHU77W3PaUiehYf), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [ROMA](https://open.spotify.com/album/1JQORly2cO3lAsfr4oslYI) | 2:35 | 2025-05-15 | 2025-11-28 |
 | [Rota](https://open.spotify.com/track/431GUPxkKxF3BPbr6ujoYv) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Les Kai Me Xeris](https://open.spotify.com/album/4CkKRnleXl0IWkdH3Q4U2s) | 3:37 | 2024-06-27 | 2024-07-05 |
 | [S' Agapao Giati](https://open.spotify.com/track/7Geun1wRSkuwyYF4mknenV) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [S' Agapao Giati](https://open.spotify.com/album/6DdRDf4kUgTC1D9kKFVTRa) | 3:48 | 2024-06-27 | 2024-12-13 |
@@ -302,6 +303,7 @@
 | [To Eidolo Sou](https://open.spotify.com/track/3yVT1Z7AlCxCpxnM9Q70zG) | [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44) | [To Eidolo Sou](https://open.spotify.com/album/5AjyrEls9IpJHOEfrsfTCi) | 2:52 | 2026-09-03 |  |
 | [To Kalokairi Mas](https://open.spotify.com/track/3bN75wJ7qY6WtUquJU9jJM) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [To Kalokairi Mas](https://open.spotify.com/album/0PAkYzbapD1m3ZsXv29ENg) | 3:21 | 2024-07-25 | 2025-03-28 |
 | [To Lathos Mou](https://open.spotify.com/track/0TUTYUToTHhykqAJK2SktL) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Dimitris Shinas](https://open.spotify.com/artist/2HnNR3JccALPcFfJWBHPtv), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [To Lathos Mou](https://open.spotify.com/album/3Vo20XXjXC1NTMplTypVWT) | 3:00 | 2025-06-05 | 2026-02-13 |
+| [To Party](https://open.spotify.com/track/5fsGR9J0dzeBL8brNuc1m3) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [To Party](https://open.spotify.com/album/5M9eiF04ujyFlMe9woCAtK) | 3:13 | 2026-10-08 |  |
 | [To S' Agapo](https://open.spotify.com/track/1NOXCmSA0fIk9P3PvchJle) | [Kostas Martakis](https://open.spotify.com/artist/1WqBNjsIfFxCyYuAhLMfXd), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [To S' Agapo](https://open.spotify.com/album/5TL1F4mfJncz4EcA7hY4qt) | 3:23 | 2026-04-02 |  |
 | [To Sagapw](https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [To Sagapw](https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS) | 3:16 | 2025-12-04 | 2026-06-05 |
 | [To Tango Tis Nefelis \- ONEMANSHOW & Ralf Mag Remix](https://open.spotify.com/track/4dODtxnCE3YB7dP8lvK55d) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [Ralf Mag](https://open.spotify.com/artist/0z7vh522N8W5SBlvtRL2WR), [ONEMANSHOW](https://open.spotify.com/artist/65WejxJ3sDrhZqVZWeFAqR) | [To Tango Tis Nefelis](https://open.spotify.com/album/3l99PmvReKh8FgbxlcWGl9) | 6:10 | 2024-07-04 | 2025-03-21 |

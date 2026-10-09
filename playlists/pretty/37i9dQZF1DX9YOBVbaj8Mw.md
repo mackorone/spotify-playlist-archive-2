@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,406 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,404 likes - 79 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 29 | [Motyle](https://open.spotify.com/track/4Yaz1ROIB410KmtOrvXlWY) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [45](https://open.spotify.com/album/4lG4wogGTP6bNbi5MU2Xoq) | 3:22 |
 | 30 | [Dni, które przed nami](https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M) | [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu) | [Tak młodo się nie spotkamy](https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm) | 6:17 |
 | 31 | [SAM](https://open.spotify.com/track/59QcLK3VRrBSUcEhpICVHQ) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [404](https://open.spotify.com/album/1QGA9rHIYcH3Da9bIsSxSc) | 3:17 |
-| 32 | [Zimna woda](https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud) | [Basia Giewont](https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9) | [Szeptucha](https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ) | 2:40 |
-| 33 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
+| 32 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
+| 33 | [Zimna woda](https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud) | [Basia Giewont](https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9) | [Szeptucha](https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ) | 2:40 |
 | 34 | [Układ otwarty](https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:55 |
 | 35 | [BEZ ANDRZEJA](https://open.spotify.com/track/4pWjCBXSyx0iJMRA9FZ4Xh) | [Jerzy Rogiewicz](https://open.spotify.com/artist/7Mhb114pzmEQPxShNLLI3T), [Bartłomiej Topa](https://open.spotify.com/artist/6v7jbB0N68FFnHxAhU71vD) | [1670: Sezon 2 \(Muzyka z Serialu Netflix\)](https://open.spotify.com/album/3CMTk1ouyaaKtNjH9sLFH1) | 1:55 |
 | 36 | [Co za stan](https://open.spotify.com/track/0oiI4w78h7eJjCC4ownWzy) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui), [BRASSERS](https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 2:39 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 52 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
 | 53 | [Love in the Garden](https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [Homage](https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D) | 4:11 |
 | 54 | [Memento Amoris](https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08) | [Kury](https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9) | [Uno Lovis Party](https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4) | 3:22 |
-| 55 | [Amor sin esperanza](https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9) | [Marcin Masecki](https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg) | [Boleros y Masecki](https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx) | 4:51 |
-| 56 | [Chaga](https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzyby](https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO) | 2:54 |
+| 55 | [Chaga](https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzyby](https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO) | 2:54 |
+| 56 | [Amor sin esperanza](https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9) | [Marcin Masecki](https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg) | [Boleros y Masecki](https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx) | 4:51 |
 | 57 | [Wolny jak Liść](https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ) | [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG) | [Druga Furioza \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT) | 1:45 |
 | 58 | [W Życiu Bywa Jak W Piosence](https://open.spotify.com/track/1yJIGyzqw69MEMCsJdXAxO) | [Warszawska Orkiestra Sentymentalna](https://open.spotify.com/artist/287kPG6g5bOowVT6Ehz5c8), [Noam Zylberberg](https://open.spotify.com/artist/05HoQZvlX0l9QyrFHBmpl7) | [Oranżowy Świt](https://open.spotify.com/album/53YYHkNtfwxVM1N7E1LwXr) | 3:23 |
 | 59 | [Sycylia](https://open.spotify.com/track/6sg2gRg0NvxAVSYcttwnDY) | [Variete](https://open.spotify.com/artist/4Ql0QYFmhiCSiwy3Konrti) | [Sieć Indry](https://open.spotify.com/album/0SyKIJwrswed74mceZkmnG) | 4:11 |

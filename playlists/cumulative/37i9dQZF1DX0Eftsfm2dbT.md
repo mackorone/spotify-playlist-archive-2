@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新トレンドをここで体感しよう Cover: Kianna, Siero and Yog\* 水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,973 songs - 6 day 4 hr 48 min
+2,974 songs - 6 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2649,6 +2649,7 @@
 | [Yodaka β](https://open.spotify.com/track/6lazKZbrGUQQx2v9sSUJKD) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7) | [KUUGA β](https://open.spotify.com/album/6w6SZFPtvsePUMEwbnXz60) | 2:03 | 2026-09-29 |  |
 | [Yoi yoi](https://open.spotify.com/track/2EmvnrbpmIsHXfF0z190WG) | [COMA\-CHI](https://open.spotify.com/artist/1EGbVC1fE68gQaPrYEyr99) | [OTO](https://open.spotify.com/album/1figvJIj0rXRnmcbmrcIxq) | 3:22 | 2024-05-15 | 2024-05-22 |
 | [YOKIOTOKIKU](https://open.spotify.com/track/3BDE61vEAa4mCa68tYY0xW) | [G.CUE](https://open.spotify.com/artist/5dfLnDej7G8A7RN6W6RBPH), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Space Dust Club](https://open.spotify.com/artist/2gzAqApojzEcGpWzvrZjRy) | [YOKIOTOKIKU](https://open.spotify.com/album/49WdElGAlBszUqG3g9X3N7) | 2:29 | 2026-02-17 | 2026-02-25 |
+| [YOKO ONO](https://open.spotify.com/track/2K7XRbjCUEYf0m7lvMvXNR) | [Leviryi](https://open.spotify.com/artist/0dHYc5ljM3Nocqd42goUM5) | [YOKO ONO](https://open.spotify.com/album/32IouOFg14Fn97teye2owx) | 3:46 | 2026-10-06 |  |
 | [Yokubari](https://open.spotify.com/track/1nYHjhlc80ln2ajFZsiupl) | [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [Yokubari](https://open.spotify.com/album/6qi8oyQMoejMOwSck2nUJe) | 2:21 | 2025-10-27 | 2025-11-12 |
 | [Yonaka no Tsume \(feat\. Elle Teresa\)](https://open.spotify.com/track/4FSDhHOcgYriQNOczvSZSA) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Secure](https://open.spotify.com/album/0jxof92mKNDfGfVaJFR1uQ) | 2:50 | 2024-12-17 | 2025-02-26 |
 | [Yoppa Ratta](https://open.spotify.com/track/7JkoS8bqTrTgtJBnBSdMGq) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 3:55 | 2024-06-28 | 2024-08-14 |

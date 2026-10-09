@@ -1,13 +1,45 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: AD\u00c9LA\n",
-  "num_followers": 455123,
+  "description": "The hottest new pop with all the drops. Please uplift Tinashe.\n",
+  "num_followers": 455385,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJm7F+l6IYu15cfF06A6CUfYu0go",
+  "snapshot_id": "AAAAAHXUia0a1CnUpH5rYe6YCAAdNnxt",
   "tracks": [
+    {
+      "added_at": "2026-10-09 04:02:23",
+      "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 140520,
+      "name": "Nobody Wanna Dance Anymore",
+      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
+    },
+    {
+      "added_at": "2026-10-09 04:02:23",
+      "album": {
+        "name": "Got To Do",
+        "url": "https://open.spotify.com/album/20TS1WaOBsMkzH0zdOeevB"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 169323,
+      "name": "Got To Do",
+      "url": "https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"
+    },
     {
       "added_at": "2026-09-25 04:03:19",
       "album": {
@@ -29,20 +61,112 @@
       "url": "https://open.spotify.com/track/4Ev2R78P8cMZcdmv3RCUlI"
     },
     {
-      "added_at": "2026-10-02 04:02:17",
+      "added_at": "2026-10-09 04:02:23",
       "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0W9TH295cs07tuiUjxwG8U"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 286406,
-      "name": "This Dream Of You",
-      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
+      "duration_ms": 137700,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3mptnmnBcxx5M1psyLAZDY"
+    },
+    {
+      "added_at": "2026-10-09 04:02:23",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "I Do This For You",
+      "url": "https://open.spotify.com/track/4zbpLdLVStxror1xSjPLdG"
+    },
+    {
+      "added_at": "2026-10-02 04:02:17",
+      "album": {
+        "name": "Test My Luck",
+        "url": "https://open.spotify.com/album/3LmJsN8XC0S9CIfHixhXBI"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Test My Luck",
+      "url": "https://open.spotify.com/track/7JDWtj2fkSW4XftcaN6BwC"
+    },
+    {
+      "added_at": "2026-10-09 04:02:23",
+      "album": {
+        "name": "Don't Forget (About Me)",
+        "url": "https://open.spotify.com/album/30bKA6XdH6Fa5ghF1O29uc"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 171454,
+      "name": "Don't Forget (About Me)",
+      "url": "https://open.spotify.com/track/7mIwqQouqiZVRYa0b13RLK"
+    },
+    {
+      "added_at": "2026-10-09 04:02:23",
+      "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/4h8MJzl1FvwqLizmx8OuCA"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/1GwI8ik0vvF625erRXLYY8"
+    },
+    {
+      "added_at": "2026-10-09 04:02:23",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3yRIewoFGSrc2IWcaUHEoB"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/70efSjz6RtfxrahQ4WpECX"
     },
     {
       "added_at": "2026-10-02 04:02:17",
@@ -80,17 +204,93 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
-        },
-        {
           "name": "Cleopard2000",
           "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
+        },
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
         }
       ],
       "duration_ms": 176223,
       "name": "Hard To be Around",
       "url": "https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"
+    },
+    {
+      "added_at": "2026-10-09 04:02:23",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0jC9oNGXneaKNKG25RwJiz"
+      },
+      "artists": [
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        },
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        }
+      ],
+      "duration_ms": 105529,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/2rZTC37sROpuUvMM3oEZKr"
+    },
+    {
+      "added_at": "2026-10-09 04:02:23",
+      "album": {
+        "name": "zombie",
+        "url": "https://open.spotify.com/album/6lU6lWL0VEng3czSpQPstH"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        },
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 181872,
+      "name": "zombie",
+      "url": "https://open.spotify.com/track/32igac7UX96WwPlOOjAGlT"
+    },
+    {
+      "added_at": "2026-10-02 04:02:17",
+      "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 286406,
+      "name": "This Dream Of You",
+      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
+    },
+    {
+      "added_at": "2026-10-09 04:02:23",
+      "album": {
+        "name": "TRALALA",
+        "url": "https://open.spotify.com/album/4pfxDNLAqfyDk5xVjddGIr"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "duration_ms": 195869,
+      "name": "TRALALA",
+      "url": "https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"
     },
     {
       "added_at": "2026-09-25 04:03:19",
@@ -111,26 +311,6 @@
       "duration_ms": 156023,
       "name": "Need That Love",
       "url": "https://open.spotify.com/track/5naE2RTuFzv12BDWROZCSL"
-    },
-    {
-      "added_at": "2026-10-02 04:02:17",
-      "album": {
-        "name": "Test My Luck",
-        "url": "https://open.spotify.com/album/3LmJsN8XC0S9CIfHixhXBI"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Test My Luck",
-      "url": "https://open.spotify.com/track/7JDWtj2fkSW4XftcaN6BwC"
     },
     {
       "added_at": "2026-10-02 04:02:17",
@@ -817,22 +997,6 @@
       "url": "https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo"
     },
     {
-      "added_at": "2026-09-04 04:02:33",
-      "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/4XU6CXzUW673zn5ncvBcAM"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 210660,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7rTDt4MbccGE53h72e5zbW"
-    },
-    {
       "added_at": "2026-08-31 15:57:07",
       "album": {
         "name": "Breathless",
@@ -863,22 +1027,6 @@
       "duration_ms": 173680,
       "name": "Lucky - Spotify Singles",
       "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
-    },
-    {
-      "added_at": "2026-09-04 04:02:33",
-      "album": {
-        "name": "Primadonna",
-        "url": "https://open.spotify.com/album/0dXLXYeixQWkeS582CFRom"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Primadonna",
-      "url": "https://open.spotify.com/track/0RFCJKLEIk9FBtyP8XlBHe"
     },
     {
       "added_at": "2026-08-31 15:57:07",
@@ -947,22 +1095,6 @@
       "duration_ms": 179027,
       "name": "The House That We Don't Live In Anymore",
       "url": "https://open.spotify.com/track/43Qo1jVFRrq66trZfEU3Mp"
-    },
-    {
-      "added_at": "2026-09-04 04:02:33",
-      "album": {
-        "name": "Back When It Was Real",
-        "url": "https://open.spotify.com/album/31Ya3l6jouIQaOLHHXLihM"
-      },
-      "artists": [
-        {
-          "name": "Lena Leon",
-          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/1c0BLvrxHu9nB5pRChOzwY"
     },
     {
       "added_at": "2026-08-31 15:57:07",
@@ -1359,42 +1491,6 @@
     {
       "added_at": "2026-08-21 04:02:27",
       "album": {
-        "name": "Das Ist Daddy",
-        "url": "https://open.spotify.com/album/2YebmkQzLA10QYQc6GOMM6"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 169053,
-      "name": "My Darlin'",
-      "url": "https://open.spotify.com/track/3YCPMgglyGmlBAgIHE8KJw"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Your Eyes",
-        "url": "https://open.spotify.com/album/7EPiK4GsTGSxPnQnxptvln"
-      },
-      "artists": [
-        {
-          "name": "Pixie Lane",
-          "url": "https://open.spotify.com/artist/3Br6ncRU4z030LyHPpfflF"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Your Eyes",
-      "url": "https://open.spotify.com/track/3HVWaByq4vURdqW7whTbEf"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
         "name": "Push it (cardiac)",
         "url": "https://open.spotify.com/album/47JSXSvhUnVxjbkQxnpeba"
       },
@@ -1439,22 +1535,6 @@
       "duration_ms": 164317,
       "name": "My People",
       "url": "https://open.spotify.com/track/0IMnvDOnuuBvPWeZoiPVXC"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/2VXuMY40qncXU9Bhwsx5aY"
-      },
-      "artists": [
-        {
-          "name": "Aspyer",
-          "url": "https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/75Mvnxpsa42JsQp5xeo00C"
     },
     {
       "added_at": "2026-08-21 04:02:27",
@@ -1603,22 +1683,6 @@
       "duration_ms": 168552,
       "name": "River",
       "url": "https://open.spotify.com/track/7A9QFSxkFvs2rznGBwhM6M"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/7qcyVIFELYfWPB1vlDnnri"
-      },
-      "artists": [
-        {
-          "name": "CIEL.",
-          "url": "https://open.spotify.com/artist/7k3cId1oZqUxRM5QgjMKJU"
-        }
-      ],
-      "duration_ms": 153016,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/1XE7pQ0L1CdZk5q33YZjjS"
     },
     {
       "added_at": "2026-08-21 04:02:27",
@@ -1795,66 +1859,6 @@
       "duration_ms": 176050,
       "name": "ONE CALL AWAY.",
       "url": "https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "You Don't Want To Think About It",
-        "url": "https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Noa Milee",
-          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
-        }
-      ],
-      "duration_ms": 142973,
-      "name": "You Don't Want To Think About It",
-      "url": "https://open.spotify.com/track/3ULfGDITqxInNepI808JDe"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Last Day of Summer",
-        "url": "https://open.spotify.com/album/5230mkvEzWhiy0tlzWz5v9"
-      },
-      "artists": [
-        {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Last Day of Summer",
-      "url": "https://open.spotify.com/track/2L2j1Tl42CuuXHl5lU8mcX"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Dumb Decisions",
-        "url": "https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118119,
-      "name": "Dumb Decisions",
-      "url": "https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf"
     }
   ],
   "unique_name": "New Dance Pop",

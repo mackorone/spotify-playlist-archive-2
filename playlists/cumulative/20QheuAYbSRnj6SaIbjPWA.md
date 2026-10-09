@@ -4,7 +4,7 @@
 
 > 
 
-179 songs - 12 hr 17 min
+181 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Sh\-Boom](https://open.spotify.com/track/1jeQT4ymqWO7TJr4Ei8NLz) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 2:25 | 2023-03-30 | 2024-12-30 |
 | [Slide Away \- Live For Teenage Cancer Trust](https://open.spotify.com/track/2vNwVso4GsvITfeKHdhCcv) | [Noel Gallagher](https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l) | [The Dreams We Have As Children \(Live For Teenage Cancer Trust\)](https://open.spotify.com/album/15MpS74sqhUZtvtXmoST5y) | 6:15 | 2024-09-26 |  |
 | [Something in the Water](https://open.spotify.com/track/3fAPSHaCcVLsAUIvrawN4y) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:27 | 2024-02-27 |  |
+| [Soon](https://open.spotify.com/track/4bYtMO7J56StUfIEEAQSPH) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [NEST](https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If) | 3:16 | 2026-10-08 |  |
 | [Spanish Sahara](https://open.spotify.com/track/2fWSJxOHKSqXOkhxyo3Gly) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/7edt9zVFJtKYLMI213anC9) | 6:49 | 2025-11-25 |  |
 | [Sparks](https://open.spotify.com/track/3G7ZiXrSPvRRQMMIuLnFS9) | [The Family Crest](https://open.spotify.com/artist/44CB1c0W2h1XR2vB7AKpa7) | [Prelude to War](https://open.spotify.com/album/15l8KKdAMflVwdqZsNkZJR) | 3:58 | 2023-10-11 |  |
 | [Spectre](https://open.spotify.com/track/4Nwrh5BlZ8I31znYQULS7G) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Spectre](https://open.spotify.com/album/7kbhOOk0mAzdy3NukjeoXF) | 3:19 | 2025-02-01 |  |
@@ -158,6 +159,7 @@
 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 | 2023-08-17 |  |
 | [take it away](https://open.spotify.com/track/2A4HxXDATkfT6GJYF2nNaF) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [Below The Waste](https://open.spotify.com/album/1Jyr6ZID2DRvvj4FLQ7Sxa) | 2:30 | 2024-12-29 |  |
 | [Take My Hand](https://open.spotify.com/track/1PFnGxajsG0dsdgXNx22gy) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto) | [Take My Hand](https://open.spotify.com/album/5gM9JiqnQENfy2B47kySFS) | 2:51 | 2025-04-18 |  |
+| [Talk to Me](https://open.spotify.com/track/0dFOv89DXKP12vQzzlOq0U) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nicole Miglis](https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2) | [Distance in Static](https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M) | 3:42 | 2026-10-08 |  |
 | [The A Team](https://open.spotify.com/track/1XpYodsD36XN7ygcdF7mJJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:18 | 2023-05-13 |  |
 | [The Drugs Don't Work](https://open.spotify.com/track/1mGtS5RYUKmoOofscGAnlv) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:04 | 2026-09-01 |  |
 | [The Isle Of Arran](https://open.spotify.com/track/2YQ1cc9xWnp5qI08rKt6wv) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:34 | 2025-06-05 |  |

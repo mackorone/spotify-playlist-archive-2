@@ -2,9 +2,9 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Anurag Vashisht
+> Hindi hai, Indie hai! Cover\- Aanchal Tyagi
 
-375 songs - 20 hr 38 min
+376 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Ban gayi main teri piya](https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh) | [Shrinidhi Ghatate](https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Ban gayi main teri piya](https://open.spotify.com/album/6CJklnf3cR64FFTWfCrZA3) | 3:20 | 2025-11-26 | 2025-12-20 |
 | [Banda Kaam Ka](https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Banda Kaam Ka](https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t) | 4:08 | 2026-02-06 |  |
 | [BANNI](https://open.spotify.com/track/1DKcBVnaDg3tHBJEXovH4x) | [Aneesh](https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2), [Krtin Kay](https://open.spotify.com/artist/7rDecvyiaWrph8fExUQLG1), [Kunnu](https://open.spotify.com/artist/5arO2RojBN2crCUwvzMZvV), [Gargei Lavekar](https://open.spotify.com/artist/3O4N0ZOr7YqsNV0qrUTTQa) | [BANNI](https://open.spotify.com/album/7JJaYuxxTkm2lcwWrYyFNh) | 2:05 | 2026-09-04 |  |
-| [Barsa](https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Barsa](https://open.spotify.com/album/45JKe1xmPgQ91MZd2kf08f) | 3:26 | 2026-09-07 |  |
+| [Barsa](https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Barsa](https://open.spotify.com/album/45JKe1xmPgQ91MZd2kf08f) | 3:26 | 2026-09-07 | 2026-10-09 |
 | [Barsan](https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Barsan](https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu) | 2:59 | 2024-09-20 | 2025-09-17 |
 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2024-04-10 | 2026-07-03 |
 | [Bechaini](https://open.spotify.com/track/6f18ZZhJnm1rMxaATYWQ2g) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Adarsh Gourav](https://open.spotify.com/artist/6fckyXLMXdnYbkMutc4pJj) | [Bechaini](https://open.spotify.com/album/3NrPok10d8tNHitQnRM4yP) | 2:42 | 2024-04-02 | 2025-01-08 |
@@ -121,6 +121,7 @@
 | [Heera Ranjha](https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Heera Ranjha](https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp) | 2:16 | 2023-11-23 | 2024-08-21 |
 | [Heeriye](https://open.spotify.com/track/2n81wfUPrLqem735iUKmCD) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Heeriye](https://open.spotify.com/album/3pEMuO0AYxhN9Y7dfV6oZo) | 3:15 | 2023-05-02 | 2023-07-21 |
 | [Heeriye](https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK) | [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Heeriye](https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj) | 3:35 | 2024-08-30 | 2025-07-26 |
+| [HISAAB](https://open.spotify.com/track/0R9xT7EWcutJxpCu5PKRUq) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [HISAAB](https://open.spotify.com/album/6N8K0OL3KMROwl2EwewZ26) | 2:23 | 2026-10-08 |  |
 | [Ho Jaane Do](https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Ho Jaane Do](https://open.spotify.com/album/5BDwUl97v4DscgoMnuhL1C) | 2:58 | 2023-05-02 | 2024-02-01 |
 | [Ho Jayenge Ghum](https://open.spotify.com/track/0uiq5MHUD1rjpqYFsECubQ) | [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Ho Jayenge Ghum](https://open.spotify.com/album/5ahqap8ClBewlqiLkmiO80) | 3:48 | 2026-08-07 |  |
 | [Hum Na Rahay](https://open.spotify.com/track/0p97L7pOXARsFtinkZD0qP) | [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Zindagi Jahaan Le Jaaye](https://open.spotify.com/album/4CQ831WVa61uapP1b2kgK8) | 3:38 | 2024-02-19 | 2024-04-20 |

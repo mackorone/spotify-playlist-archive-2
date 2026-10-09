@@ -2,9 +2,9 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: Loonie, La Mave
+> The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: groundZERO Records
 
-485 songs - 1 day 2 hr 53 min
+486 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 | 2024-12-04 | 2025-01-30 |
 | [SAPATOS KO](https://open.spotify.com/track/77f8NUh2Xb12Htp9TtHnAk) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [SAPATOS KO](https://open.spotify.com/album/2U8jgVrIyFc77HdndADGhS) | 3:09 | 2024-12-18 | 2025-03-14 |
 | [SASAMA KA BA?](https://open.spotify.com/track/5OBmTGkTUBcBWRe1ep6kfs) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [kiddotin](https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL), [WY](https://open.spotify.com/artist/6lsvM1KsDaX0fq7GouKIXQ) | [SASAMA KA BA?](https://open.spotify.com/album/6wPjG0DPUxcqqlHFDBHPiu) | 2:41 | 2025-11-19 | 2026-02-20 |
-| [Sayang](https://open.spotify.com/track/2zL2rMvXqOoPpabiBcjKjX) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Kael Guerrero](https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ) | [Contrast](https://open.spotify.com/album/0iRmsK7HRnk2sS4UXOE6Oq) | 3:05 | 2026-07-24 |  |
+| [Sayang](https://open.spotify.com/track/2zL2rMvXqOoPpabiBcjKjX) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Kael Guerrero](https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ) | [Contrast](https://open.spotify.com/album/0iRmsK7HRnk2sS4UXOE6Oq) | 3:05 | 2026-07-24 | 2026-10-09 |
 | [Section Y](https://open.spotify.com/track/5W6KCJ0pUFQgFyMrBYqKbw) | [NPS](https://open.spotify.com/artist/4xvIpBKhlz4aKtZvSc2Rc2), [Nickname](https://open.spotify.com/artist/7oPgFmJIfapueMliwOjBiH) | [Section Y](https://open.spotify.com/album/46DrCEIio89BwPtTFyRMSb) | 6:57 | 2024-02-28 | 2024-06-13 |
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-09-20 | 2023-10-19 |
 | [SHAKE](https://open.spotify.com/track/4NnmCGyfZYE50geEwOUoo7) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [SHAKE](https://open.spotify.com/album/57kIwmgt1i3V2KpC1dKtTY) | 2:01 | 2025-01-01 | 2025-06-05 |
@@ -430,6 +430,7 @@
 | [TATAWAG ULIT](https://open.spotify.com/track/3gXwmX6ieWdqEpTNiXOXnH) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [TATAWAG ULIT](https://open.spotify.com/album/0kYMgBAgt4Qba0tEAdxA9w) | 2:48 | 2024-04-10 | 2024-06-06 |
 | [Tate](https://open.spotify.com/track/3wRv7hSIGHO335Li0ejFUu) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [Tate](https://open.spotify.com/album/18C0WhSI3k1THUNj0oahQq) | 2:37 | 2026-04-15 | 2026-07-11 |
 | [TATLONG WIFE](https://open.spotify.com/track/7MzcwGTPU2tRfv3UzTnwRJ) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [TATLONG WIFE](https://open.spotify.com/album/7pFGDyfyee6wvmw7auQQ0F) | 1:58 | 2026-07-31 |  |
+| [Tawagan](https://open.spotify.com/track/51yt4l7X1aeS8NV8fEfnPC) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Tawagan](https://open.spotify.com/album/2eaOTqpvDwLWAIxgGZ7QBr) | 3:29 | 2026-10-09 |  |
 | [Teka Muna](https://open.spotify.com/track/2oLqNIUWYNXzElwVMDK5Vd) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL) | [Teka Muna](https://open.spotify.com/album/6pnuarr1Ki17XziMATpkj9) | 4:03 | 2025-09-03 | 2026-03-19 |
 | [Tequila Rose](https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Tequila Rose](https://open.spotify.com/album/02tMWeYI98izui099O7QDb) | 3:30 | 2024-03-20 | 2025-08-07 |
 | [THA GANG COSTA](https://open.spotify.com/track/0LyLTBeT1SGeAQnwYUkkOF) | [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [THA GANG COSTA](https://open.spotify.com/album/4I7Sd0CUTic8R2htYeV7do) | 3:10 | 2023-09-20 | 2023-10-11 |

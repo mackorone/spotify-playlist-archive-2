@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 420895,
+  "num_followers": 420891,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
-      "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "O Embaixador (Ao Vivo)",
         "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 178208,
       "name": "Sujeito - Ao Vivo",
       "url": "https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
+      "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Continua, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        },
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Ponto Final - Ao Vivo",
-      "url": "https://open.spotify.com/track/78UZagNegqHZAKv3491xB2"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Siga a Seta (feat. Matheus & Kauan) [Ao Vivo]",
         "url": "https://open.spotify.com/album/7j3YXsHgy2GW48kSjzTlR7"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 171692,
       "name": "Siga a Seta (feat. Matheus & Kauan) - Ao Vivo",
       "url": "https://open.spotify.com/track/5AQNVgt7BKHKRhrNFFgSPF"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Continua, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Ponto Final - Ao Vivo",
+      "url": "https://open.spotify.com/track/78UZagNegqHZAKv3491xB2"
     },
     {
       "added_at": "2026-01-16 03:03:24",

@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring Knox",
-  "num_followers": 228431,
+  "num_followers": 228436,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEB05GnB53iMDIxYe/p8B7HjL1ti",
+  "snapshot_id": "AAAAAPsICsLzjfkAbq2Qqu4YyY0nnEqd",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:37",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/2VNWAAT6IXcZnKjNmOPnF9"
     },
     {
+      "added_at": "2026-10-09 05:02:17",
+      "album": {
+        "name": "HONEYMOON NIGHT",
+        "url": "https://open.spotify.com/album/3fUva1Oq4K38WJKDA6RbNl"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 198904,
+      "name": "HONEYMOON NIGHT",
+      "url": "https://open.spotify.com/track/5qlaVYDcab5jX9CXTZQW32"
+    },
+    {
       "added_at": "2026-09-25 04:00:31",
       "album": {
         "name": "Talk",
@@ -89,6 +105,22 @@
       "url": "https://open.spotify.com/track/3P8mp28VUVV0YQtyAYgwRM"
     },
     {
+      "added_at": "2026-10-09 05:02:17",
+      "album": {
+        "name": "I DON'T GET HIGH ANYMORE",
+        "url": "https://open.spotify.com/album/3OJNGZlNNHae40lMnZITCP"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "duration_ms": 172747,
+      "name": "I DON'T GET HIGH ANYMORE",
+      "url": "https://open.spotify.com/track/5OKiovXW0tIPVWi1LabZjm"
+    },
+    {
       "added_at": "2026-09-18 04:17:46",
       "album": {
         "name": "Everything's the same",
@@ -103,6 +135,38 @@
       "duration_ms": 172363,
       "name": "Everything's the same",
       "url": "https://open.spotify.com/track/0JR7Pjg8QzNbZ4b4FEYxtX"
+    },
+    {
+      "added_at": "2026-10-09 05:02:17",
+      "album": {
+        "name": "Fuck Without Feelings",
+        "url": "https://open.spotify.com/album/2krjzTsK934ywr7s3d693H"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "duration_ms": 208555,
+      "name": "Fuck Without Feelings",
+      "url": "https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks"
+    },
+    {
+      "added_at": "2026-10-09 04:01:11",
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/0CNblkgX2Yk2XMJbgsinzd"
+      },
+      "artists": [
+        {
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/7uVKsaboyMOXI8SUnVXE4D"
     },
     {
       "added_at": "2026-09-18 04:17:46",
@@ -851,22 +915,6 @@
       "duration_ms": 158693,
       "name": "Malcolm In The Middle",
       "url": "https://open.spotify.com/track/6fLWI86qpzbxvAQO90tiwR"
-    },
-    {
-      "added_at": "2026-06-19 04:01:06",
-      "album": {
-        "name": "Pool Water Confessions",
-        "url": "https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        }
-      ],
-      "duration_ms": 206158,
-      "name": "Pool Water Confessions",
-      "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
     },
     {
       "added_at": "2026-06-05 04:01:56",

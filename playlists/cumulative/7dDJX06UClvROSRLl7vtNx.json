@@ -31889,6 +31889,24 @@
     },
     {
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/0nxAfFZxq08zn2XR3TKD4G"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177623,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/6Y3rGe8nzYS5nkUYHPBJwA"
+    },
+    {
+      "album": {
         "name": "Weyu",
         "url": "https://open.spotify.com/album/12xO5IhrP0lHtjue6If8S4"
       },

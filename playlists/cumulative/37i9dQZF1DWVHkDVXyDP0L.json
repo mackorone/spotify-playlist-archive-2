@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Stimpies",
+  "description": "New and local indie noise. Cover: GRUB",
   "name": "Local Noise",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 157586,
       "name": "a place they can't find",
       "url": "https://open.spotify.com/track/5Cm8qpPJk2aaBzAB0ClX6y"
@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/7jrP7bxDCeu82FnTi18kgL"
+      },
+      "artists": [
+        {
+          "name": "Dan Sultan",
+          "url": "https://open.spotify.com/artist/35l8C1gkJPCOqrVPiCiICR"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188213,
+      "name": "ATLAS",
+      "url": "https://open.spotify.com/track/2qNYQOeGigA0Wwj2TZuxPj"
+    },
+    {
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/086U7cmrWRR6StP7Xt4GZw"
       },
@@ -1529,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Batteries",
+        "url": "https://open.spotify.com/album/5X2jlCCDBkW6N1qR6Bo7og"
+      },
+      "artists": [
+        {
+          "name": "The Gnomes",
+          "url": "https://open.spotify.com/artist/1Ax3BC6GoOGjSw2ipoi6P6"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242428,
+      "name": "Batteries",
+      "url": "https://open.spotify.com/track/7KtZDFSgmnkjIQ1rR89DZs"
+    },
+    {
+      "album": {
         "name": "Beast Of You",
         "url": "https://open.spotify.com/album/2HEdIKK7hSCwn3lFWxZzAe"
       },
@@ -1796,7 +1832,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 194160,
       "name": "BIG NOTER (feat. Joe Talbot)",
       "url": "https://open.spotify.com/track/25SRep6PSGi4jVVt5aJdB2"
@@ -2268,6 +2304,24 @@
       "duration_ms": 216203,
       "name": "BODIES TOUCHING",
       "url": "https://open.spotify.com/track/0tOmUSxatklMMrVDHw2hHQ"
+    },
+    {
+      "album": {
+        "name": "Bog Bringer",
+        "url": "https://open.spotify.com/album/5ySeoxT1Th1LAPkZ7AjZ5H"
+      },
+      "artists": [
+        {
+          "name": "Battlesnake",
+          "url": "https://open.spotify.com/artist/2jrvVsbr886ElfLO355U3y"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247613,
+      "name": "Bog Bringer",
+      "url": "https://open.spotify.com/track/5XBQeMs7J3a0tEqVYl1Up8"
     },
     {
       "album": {
@@ -3222,7 +3276,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170000,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/30JA74oPt0e8w2TU2NGh9N"
@@ -5344,7 +5398,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 243146,
       "name": "Echo",
       "url": "https://open.spotify.com/track/4hfDYojXgzAYIR8NePfhKR"
@@ -6399,6 +6453,28 @@
     },
     {
       "album": {
+        "name": "Flotando",
+        "url": "https://open.spotify.com/album/36kRGiJXMvdfUeHTqWgB5S"
+      },
+      "artists": [
+        {
+          "name": "Cherry Chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237623,
+      "name": "Flotando",
+      "url": "https://open.spotify.com/track/0sil8cOyRbfgEacLt771GW"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/1Oes0lFU9ZPC2mxmRtWna5"
       },
@@ -7192,6 +7268,24 @@
       "duration_ms": 175784,
       "name": "GO WASTE MY TIME",
       "url": "https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33"
+    },
+    {
+      "album": {
+        "name": "GRUB",
+        "url": "https://open.spotify.com/album/6dBXS0RrxDRshph90OMc21"
+      },
+      "artists": [
+        {
+          "name": "GRUB",
+          "url": "https://open.spotify.com/artist/66GRbUYE1YuX6pkchfN64v"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256679,
+      "name": "Goal Post",
+      "url": "https://open.spotify.com/track/2oJUwKNnM0eysM2IZAkJNS"
     },
     {
       "album": {
@@ -8839,6 +8933,28 @@
     },
     {
       "album": {
+        "name": "i wanna (feat. Cat & Calmell)",
+        "url": "https://open.spotify.com/album/3MDLZIUel6QRneXgHS6NBv"
+      },
+      "artists": [
+        {
+          "name": "REDD.",
+          "url": "https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9"
+        },
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172986,
+      "name": "i wanna (feat. Cat & Calmell)",
+      "url": "https://open.spotify.com/track/1h1uqphhKXQQfafA2hKyzy"
+    },
+    {
+      "album": {
         "name": "I Want More Life",
         "url": "https://open.spotify.com/album/7zumMYeCe6JsxOMxvtAUOf"
       },
@@ -9182,6 +9298,24 @@
       "duration_ms": 172889,
       "name": "internet luv",
       "url": "https://open.spotify.com/track/2zWbkYVKhhrv0qT74Ct4y6"
+    },
+    {
+      "album": {
+        "name": "Doing Good",
+        "url": "https://open.spotify.com/album/47bj5IysbX9SewgzeSZ3RC"
+      },
+      "artists": [
+        {
+          "name": "Stimpies",
+          "url": "https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276828,
+      "name": "Into Blue",
+      "url": "https://open.spotify.com/track/1sB8eliFxjagy1e9eV22gS"
     },
     {
       "album": {
@@ -10382,6 +10516,24 @@
       "duration_ms": 275984,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/7HH6i9ogvRx1dV8rdkQ40q"
+    },
+    {
+      "album": {
+        "name": "Little Green Book",
+        "url": "https://open.spotify.com/album/1SVhqqDZ1g06L5GMsXKAvP"
+      },
+      "artists": [
+        {
+          "name": "Awning",
+          "url": "https://open.spotify.com/artist/0ySs34NhoHIwOa0LZymJDK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "Little Green Book",
+      "url": "https://open.spotify.com/track/6Qv9ShMC8XZOSNbUqMwGeq"
     },
     {
       "album": {
@@ -11718,7 +11870,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 208613,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/4LkVAR9zY9SlFmrwZlIWgR"
@@ -13313,6 +13465,24 @@
     },
     {
       "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/5BjafYW0zu9ZX2mUpajL4b"
+      },
+      "artists": [
+        {
+          "name": "Slowly Slowly",
+          "url": "https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195484,
+      "name": "Parallel",
+      "url": "https://open.spotify.com/track/5OigmRXpyfSLb2B3kR2spD"
+    },
+    {
+      "album": {
         "name": "Parched",
         "url": "https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN"
       },
@@ -13684,7 +13854,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 233579,
       "name": "Playing Pool and Drinking all Night",
       "url": "https://open.spotify.com/track/4697nDBAy8hNHmyXezZTZj"
@@ -16790,7 +16960,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189374,
       "name": "Stairways",
       "url": "https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn"
@@ -20064,7 +20234,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 258278,
       "name": "Welcome to My Brain",
       "url": "https://open.spotify.com/track/3ED4oFhoGJunbyTkUaFQhc"
@@ -20334,7 +20504,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170473,
       "name": "Windows",
       "url": "https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd"

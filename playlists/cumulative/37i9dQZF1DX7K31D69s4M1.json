@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "All I have left",
+        "url": "https://open.spotify.com/album/5yrUMDAt5QZtmt6qeeSAsx"
+      },
+      "artists": [
+        {
+          "name": "Affinity88",
+          "url": "https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163833,
+      "name": "All I have left",
+      "url": "https://open.spotify.com/track/56pVTBj7SLpJ1nYnwxdmOL"
+    },
+    {
+      "album": {
         "name": "All I Hear Is Birds,",
         "url": "https://open.spotify.com/album/0Bon3Uwy0rkElLuBz1YV71"
       },

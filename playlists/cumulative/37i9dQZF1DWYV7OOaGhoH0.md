@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Bo Staloch
+> The best in folk & acoustic today featuring music from Jess Williamson
 
-896 songs - 2 day 7 hr 16 min
+897 songs - 2 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 | 2025-04-11 | 2026-01-17 |
 | [Goodbye Mr Blue](https://open.spotify.com/track/1aniGATumrmKFuYCKQ1pJ6) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr Blue](https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf) | 5:00 | 2022-03-18 | 2022-07-29 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-07-22 | 2023-04-22 |
+| [Goodbye to All That](https://open.spotify.com/track/6G9lES9qDOGVqOXb5x8Bw5) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Goodbye to All That](https://open.spotify.com/album/3iiPHk1odbqHBmBn9e4sRQ) | 3:19 | 2026-10-09 |  |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-07-29 | 2022-09-10 |
 | [Gratitude](https://open.spotify.com/track/2URlvXHgKzdk6xFPedeuKI) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Gratitude](https://open.spotify.com/album/4ZYK6hRqISjMnrZafKUuBO) | 4:35 | 2022-12-02 | 2023-06-10 |
 | [Green Light](https://open.spotify.com/track/1Dwe3stHagI1NLezeHLK9k) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Strangers No More, Vol\. 2](https://open.spotify.com/album/4Ua7vrpUY0iD6DaP2qyyQb) | 3:18 | 2024-09-13 | 2025-05-17 |

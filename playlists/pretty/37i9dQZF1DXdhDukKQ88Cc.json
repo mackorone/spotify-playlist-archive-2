@@ -1,15 +1,151 @@
 {
-  "description": "kun det nyeste danske rap \ud83d\udc40  wicky p\u00e5 cover!!",
-  "num_followers": 186482,
+  "description": "kun det nyeste danske rap \ud83d\udc40  ICEKIID p\u00e5 cover!!",
+  "num_followers": 186477,
   "original_name": "ny rap dk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnPR6brchvvupzNfP29lHtvfV6z",
+  "snapshot_id": "AAAAAPruB0tgx+Y7kX6JNerhhX+TS5Yv",
   "tracks": [
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "WAYTA?",
+        "url": "https://open.spotify.com/album/225eVssASgjupEqe3yNPYj"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 170052,
+      "name": "WAYTA?",
+      "url": "https://open.spotify.com/track/6kDf3Q7ILt0VQwR7uusf3g"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 153641,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "Alias",
+        "url": "https://open.spotify.com/album/689u8RbLH1Ih7MbIbCc7IA"
+      },
+      "artists": [
+        {
+          "name": "Forty",
+          "url": "https://open.spotify.com/artist/3KoqqxDnw3bcWJi0JAJZVl"
+        },
+        {
+          "name": "Jamaika",
+          "url": "https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS"
+        }
+      ],
+      "duration_ms": 142706,
+      "name": "Alias",
+      "url": "https://open.spotify.com/track/4Y6rOZhHbvgNcRpbcanmFG"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "Blackjack",
+        "url": "https://open.spotify.com/album/1uirwIlgXZAwVLKkT1sWQv"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        }
+      ],
+      "duration_ms": 115476,
+      "name": "Blackjack",
+      "url": "https://open.spotify.com/track/5jUGkXx4UEwl22L6Q8YxBc"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Freyy",
+          "url": "https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS"
+        }
+      ],
+      "duration_ms": 169077,
+      "name": "Ude Fra Indre",
+      "url": "https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "Engangskamera",
+        "url": "https://open.spotify.com/album/1JGF3FgfpfNntNwc6vlRUo"
+      },
+      "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "Engangskamera",
+      "url": "https://open.spotify.com/track/3hWZz7kjK0IfQ8jVlWZoGq"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "Gassed?",
+        "url": "https://open.spotify.com/album/0EsXzeeSNWZUXmaD44vGdH"
+      },
+      "artists": [
+        {
+          "name": "Luko",
+          "url": "https://open.spotify.com/artist/0uGKxIisbdsSto48OwAa7I"
+        }
+      ],
+      "duration_ms": 158823,
+      "name": "Gassed?",
+      "url": "https://open.spotify.com/track/2bWqBBlDD80BkVmaei16lR"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "Maskerede Tider",
+        "url": "https://open.spotify.com/album/2eteos5l7KdEPNlV602A88"
+      },
+      "artists": [
+        {
+          "name": "AMRO",
+          "url": "https://open.spotify.com/artist/3xEIG6DRJgC5iuCcAW0rTZ"
+        }
+      ],
+      "duration_ms": 140869,
+      "name": "FAME",
+      "url": "https://open.spotify.com/track/5kEAdlOALTxWTamWoeq6bv"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "SODA",
         "url": "https://open.spotify.com/album/1Oc0wPHNFMdpvAB6F0H0zc"
@@ -25,7 +161,43 @@
       "url": "https://open.spotify.com/track/2qQW6QYAqpRXWkIjiABgys"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 173208,
+      "name": "Culture Box (feat. Hans Philip)",
+      "url": "https://open.spotify.com/track/2Ho9KN8b1Y7olpRSFYOF4L"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/5jmcDbXtJoOnwfFe76i4pp"
+      },
+      "artists": [
+        {
+          "name": "Viktor Borges",
+          "url": "https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/0KMxeO43v7H3jlQgUDwnBh"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Vant Til (feat. KESI)",
         "url": "https://open.spotify.com/album/6QB8wUJIn4hjk6W0Q8ZxCw"
@@ -45,7 +217,7 @@
       "url": "https://open.spotify.com/track/0HuDb66kQr9d0Y0nHaG37U"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
@@ -65,7 +237,7 @@
       "url": "https://open.spotify.com/track/1HKeYplMmWJwrRYyX0bImw"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "\u00d8je p\u00e5 Mig",
         "url": "https://open.spotify.com/album/49zH2UgVfXz17ebztiIaSV"
@@ -81,7 +253,7 @@
       "url": "https://open.spotify.com/track/736VTDrXam3hwCs9GdRgLr"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Tilf\u00e6lles",
         "url": "https://open.spotify.com/album/4b3mLfJM6e0sfFAWdeE5d8"
@@ -97,7 +269,7 @@
       "url": "https://open.spotify.com/track/42uS7UHHRU52QvuDLh4UGZ"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "TASK",
         "url": "https://open.spotify.com/album/5WKXDOzrwoaj4iKkIAcSG4"
@@ -113,47 +285,7 @@
       "url": "https://open.spotify.com/track/3NE7NZrgtasZVKkzuoysba"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
-      "album": {
-        "name": "Small Dick Energy",
-        "url": "https://open.spotify.com/album/6FTEVN5gQDXtB5J6jj9bHN"
-      },
-      "artists": [
-        {
-          "name": "Skammerens D\u00f8tre",
-          "url": "https://open.spotify.com/artist/27czJDSwFg9zbimXXwdwmh"
-        }
-      ],
-      "duration_ms": 126633,
-      "name": "Small Dick Energy",
-      "url": "https://open.spotify.com/track/1Kkh8uthk8s79tGWy5fno6"
-    },
-    {
-      "added_at": "2026-10-01 22:00:36",
-      "album": {
-        "name": "statisk",
-        "url": "https://open.spotify.com/album/7ny4E1EdQDwxZFuArfqGBQ"
-      },
-      "artists": [
-        {
-          "name": "Trepac",
-          "url": "https://open.spotify.com/artist/5x8sDeGS7ry9PNQng6hlGQ"
-        },
-        {
-          "name": "Guldlokk",
-          "url": "https://open.spotify.com/artist/3s1ycrMCGyVItSNujZS2cg"
-        },
-        {
-          "name": "Tue Track",
-          "url": "https://open.spotify.com/artist/4gkU3V5EzFhsXS7vNPuNKZ"
-        }
-      ],
-      "duration_ms": 234781,
-      "name": "statisk",
-      "url": "https://open.spotify.com/track/41gtQjOJnck6EXDNyfm77q"
-    },
-    {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "HUH",
         "url": "https://open.spotify.com/album/2F7pFYZTSpw9tPBuJhpkCy"
@@ -169,7 +301,7 @@
       "url": "https://open.spotify.com/track/4ShfjValJWH9FRINAzyPwf"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Min Demon",
         "url": "https://open.spotify.com/album/1oCCMMqM8JVf8FejDKu257"
@@ -185,7 +317,7 @@
       "url": "https://open.spotify.com/track/4gubHYqq2WnDMahm19OLo0"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "BROHR",
         "url": "https://open.spotify.com/album/3TRVglgBKfbhaBX20V8fgZ"
@@ -205,7 +337,7 @@
       "url": "https://open.spotify.com/track/0kQgjv5tXOq8J6MIu7m2MH"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "LIGE PR\u00c6CIS",
         "url": "https://open.spotify.com/album/4ackKYMiNXRbz1HRLGzx1v"
@@ -221,7 +353,7 @@
       "url": "https://open.spotify.com/track/135zlZf3eNq0E86VTivZmk"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "LAD MIG LIGE LEVE",
         "url": "https://open.spotify.com/album/33XZOYDwuqMxapso4GA1qS"
@@ -237,7 +369,7 @@
       "url": "https://open.spotify.com/track/25Ft00plGW0uf220EJT4ak"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Kan Ik Tabe",
         "url": "https://open.spotify.com/album/68wqtGpKTnVfUM5v6M86J5"
@@ -253,7 +385,7 @@
       "url": "https://open.spotify.com/track/5p83MuTOgaIeSZ5YsTqw0w"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "9 Liv",
         "url": "https://open.spotify.com/album/6xije358BkU4pJ9HkSarwK"
@@ -269,7 +401,7 @@
       "url": "https://open.spotify.com/track/3GStI8qvcZAKgc2Rsu5qBv"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "DOBBELT 5",
         "url": "https://open.spotify.com/album/54asTXnc3N68aUvr6VX3rU"
@@ -285,7 +417,7 @@
       "url": "https://open.spotify.com/track/0lAz4R0iopDKbN5JFqnn7c"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Hver En Del",
         "url": "https://open.spotify.com/album/1TLo7iBzhPXur2KRpGkfba"
@@ -301,7 +433,7 @@
       "url": "https://open.spotify.com/track/6rF3HzxSojaFcw9O3QULNT"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
@@ -321,7 +453,7 @@
       "url": "https://open.spotify.com/track/1Yc2Z8NQZvpOd0mMzvrSiI"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Smerte Indeni",
         "url": "https://open.spotify.com/album/751D8oEjKzoK7WpwT73Nzq"
@@ -337,7 +469,7 @@
       "url": "https://open.spotify.com/track/25meNS9Bngckzmccy58Vu7"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Amira",
         "url": "https://open.spotify.com/album/00brwhGxxVji3sWi8ACisb"
@@ -353,7 +485,7 @@
       "url": "https://open.spotify.com/track/6GpCoUl3H52mKyepmWMQya"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
@@ -373,7 +505,7 @@
       "url": "https://open.spotify.com/track/0VlWAuVyELrgYOxUfVF4Ng"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "f##ked up",
         "url": "https://open.spotify.com/album/1HYRWH6ErnuEkCDe9arA01"
@@ -389,7 +521,7 @@
       "url": "https://open.spotify.com/track/506caoF4Hx1vETEvlJvJGJ"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Ud Af Boksen",
         "url": "https://open.spotify.com/album/31eba2dt9qS1Q3d82G2uCX"
@@ -405,7 +537,7 @@
       "url": "https://open.spotify.com/track/6k510Mf6Qz34GVfYLx81W9"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Hunger 4 Livet",
         "url": "https://open.spotify.com/album/3BNM9RBUkdo2dnnmMhEHwi"
@@ -421,7 +553,7 @@
       "url": "https://open.spotify.com/track/1ZlFVKqb3s2X5ypaaWxqXL"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "SAY NO MORE",
         "url": "https://open.spotify.com/album/41eWAwbm6TtOSrpvInIs2H"
@@ -437,7 +569,7 @@
       "url": "https://open.spotify.com/track/0IgcYmkuX43NutmVCP4rAZ"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "S\u00f8rgeligt",
         "url": "https://open.spotify.com/album/2ddrwtJSXymNrdrMb2Rg1I"
@@ -461,7 +593,7 @@
       "url": "https://open.spotify.com/track/2COUikllUFgSF0sh3uZWL5"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "RS",
         "url": "https://open.spotify.com/album/24ievzyEp79KI4ehUQvUX2"
@@ -481,7 +613,7 @@
       "url": "https://open.spotify.com/track/41SXvQoW23qO7P5MPakyG8"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "V\u00e6rd At V\u00e6lte For",
         "url": "https://open.spotify.com/album/7tXAixcmjoV3DO57oMN0io"
@@ -497,7 +629,7 @@
       "url": "https://open.spotify.com/track/02waimjPfbCnqnshpxB6kF"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Siden Sidst (feat. Thor Farlov)",
         "url": "https://open.spotify.com/album/1QJQSfdaX2xcv0eL6XgHDd"
@@ -517,7 +649,7 @@
       "url": "https://open.spotify.com/track/2N6w7gibQTRk1a8G9ENQ5e"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "KIKI (feat. PAY)",
         "url": "https://open.spotify.com/album/7xOuZkk7IGKsuUJIRKla8p"
@@ -537,7 +669,7 @@
       "url": "https://open.spotify.com/track/3exqXtZOZUm1G1YalFGlpY"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Mr. Entrepren\u00f8r",
         "url": "https://open.spotify.com/album/1e7Q69hjmf9gVzDHzGNU8O"
@@ -553,7 +685,7 @@
       "url": "https://open.spotify.com/track/3vVhoKIX9vEaUVCOactWym"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Napoli",
         "url": "https://open.spotify.com/album/1evSQF3LMP5BblYEfLPs72"
@@ -569,7 +701,7 @@
       "url": "https://open.spotify.com/track/4UyUTjExsdAUJ8ze9AtyYb"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/6U4TJ4X6crvgPKl9UtlaeR"
@@ -589,7 +721,7 @@
       "url": "https://open.spotify.com/track/2rOlsr4io2ovZ6KaP2OBLu"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Kort & Kontant",
         "url": "https://open.spotify.com/album/7GDLqPFMdNBc7DfhOd5nnV"
@@ -605,7 +737,7 @@
       "url": "https://open.spotify.com/track/1VqsSu8ypQfuFqWSEhYXVW"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Siden Start (feat. OLIVVER & Merro8)",
         "url": "https://open.spotify.com/album/0Z5OvShv9JmPhxPwPzCmE8"
@@ -633,7 +765,7 @@
       "url": "https://open.spotify.com/track/1pnUOhAme8mJoclC7tZXM2"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Take Off",
         "url": "https://open.spotify.com/album/5Rci27Sz6d3QsP6gD7SfCC"
@@ -649,7 +781,7 @@
       "url": "https://open.spotify.com/track/27Go4Yav2qrip0Xf7W80Ey"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Westerlin",
         "url": "https://open.spotify.com/album/4tTXelGtBBpqCXYdzsCTb6"
@@ -665,7 +797,7 @@
       "url": "https://open.spotify.com/track/1x83R7cDnQzpuNwwvRVFZa"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "WORKIN'",
         "url": "https://open.spotify.com/album/49SwRiM8737kaO3BBExd3s"
@@ -685,7 +817,7 @@
       "url": "https://open.spotify.com/track/62qFtLxFEWDxz9JilEyoYv"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "WAVY",
         "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
@@ -705,7 +837,7 @@
       "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Jordsk\u00e6lv",
         "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm"
@@ -721,7 +853,7 @@
       "url": "https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/7duxJrzYUSBx9VuZfYCTkw"
@@ -737,7 +869,7 @@
       "url": "https://open.spotify.com/track/4whm6QeeLouv2jc6iCV8Iq"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Stadig Herude",
         "url": "https://open.spotify.com/album/4zOZRN1FGgJgCyIFiTLwD0"
@@ -753,7 +885,7 @@
       "url": "https://open.spotify.com/track/5sYhKtqWT8waojFexjTBH7"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Turn Me Up",
         "url": "https://open.spotify.com/album/1rQf3BNiAejFPcKK1cvRLd"
@@ -769,7 +901,7 @@
       "url": "https://open.spotify.com/track/0CKeO5wgXwswNgpAVkec0e"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Etage",
         "url": "https://open.spotify.com/album/3YfzKwoo8Or9xua0FJDH3d"
@@ -793,7 +925,7 @@
       "url": "https://open.spotify.com/track/4Ky5e8gfgppoylrDOkMjR3"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Burde V\u00e6re Mig",
         "url": "https://open.spotify.com/album/4OR5OckLOn4jLzJN7xDZRs"
@@ -809,7 +941,7 @@
       "url": "https://open.spotify.com/track/75U4WBwyPotccZd5iBbbU0"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "WAVY",
         "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
@@ -825,7 +957,7 @@
       "url": "https://open.spotify.com/track/6cj6EZt4Gqja2XFXpqf9O4"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Start 11",
         "url": "https://open.spotify.com/album/3F5Cc03oc2AJUqfLFAfDo1"
@@ -841,7 +973,7 @@
       "url": "https://open.spotify.com/track/4ARdA06K4N7xiuZD5zN3VO"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "12 Dage",
         "url": "https://open.spotify.com/album/2SegepYWdJtTAgHPVU20H0"
@@ -857,7 +989,7 @@
       "url": "https://open.spotify.com/track/4SFx0z3e0MHU5RL6aA26SS"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Sputnik",
         "url": "https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y"
@@ -873,7 +1005,7 @@
       "url": "https://open.spotify.com/track/59RRQ93Rs9jVHsXpbPV48t"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Dr\u00f8mmer",
         "url": "https://open.spotify.com/album/4CYOdoS3dnZs3RJaMiDqgL"
@@ -889,7 +1021,23 @@
       "url": "https://open.spotify.com/track/3EP2PXtcM3NLO2R3QuRlRh"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
+      "album": {
+        "name": "SMADRE MUZIK",
+        "url": "https://open.spotify.com/album/5nSoZ6qwH2K2fQt54Y8Bt1"
+      },
+      "artists": [
+        {
+          "name": "yungholgi",
+          "url": "https://open.spotify.com/artist/5VCUpUqOArU81gOjm8SBHS"
+        }
+      ],
+      "duration_ms": 91200,
+      "name": "+63",
+      "url": "https://open.spotify.com/track/0ETlgD1JDpp0OHLCpewdX7"
+    },
+    {
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Big Ben",
         "url": "https://open.spotify.com/album/40Ttu4VLHdw6a6g4DlPW0L"
@@ -905,7 +1053,7 @@
       "url": "https://open.spotify.com/track/4yl1Ce1RQlBlmKMDaxOfjb"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/2mK0bEG2WgniiFWZwykyV8"
@@ -921,7 +1069,7 @@
       "url": "https://open.spotify.com/track/7lKdAx2mblLAAMtoKYdlJU"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Den lange vej",
         "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
@@ -941,7 +1089,7 @@
       "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Rammer Mig Ik'",
         "url": "https://open.spotify.com/album/0TMAEUPkKoCn3JqrrFTcvg"
@@ -961,7 +1109,7 @@
       "url": "https://open.spotify.com/track/63QZYodrrUlRIxQcuY7mhR"
     },
     {
-      "added_at": "2026-10-01 22:00:36",
+      "added_at": "2026-10-08 22:00:44",
       "album": {
         "name": "Stresser ik",
         "url": "https://open.spotify.com/album/1Q3gS6HIUL9THhgfeNXa8i"

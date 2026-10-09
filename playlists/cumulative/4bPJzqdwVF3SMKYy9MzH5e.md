@@ -4,7 +4,7 @@
 
 > 
 
-2,462 songs - 5 day 12 hr 17 min
+2,463 songs - 5 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Bum Bum Tam Tam](https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bum Bum Tam Tam](https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm) | 3:33 | 2021-08-05 |  |
 | [Bump 9](https://open.spotify.com/track/3R70HmrqOGs7CL0T5KFcWp) | [Mike Klubnika](https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI) | [Tango Circuit](https://open.spotify.com/album/6o0klrmJedxW8Ro3oviacJ) | 2:57 | 2025-07-26 |  |
 | [Bungelrave](https://open.spotify.com/track/658cX1xwwflgoUyLyKNmo0) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Vieze Asbak III](https://open.spotify.com/album/0Xda9HeXDZmLzQAsGr5aK9) | 1:55 | 2024-10-23 |  |
+| [Burgundy](https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 4:28 | 2026-10-09 |  |
 | [Burn This Moment Into the Retina of My Eye](https://open.spotify.com/track/1XaoctslrqtYjVKoGO3DGR) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [Semantics: The Benzo Chronicles](https://open.spotify.com/album/7IWQHF0tCrXGQlqrmjIyCF) | 6:24 | 2022-02-04 |  |
 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 | 2021-08-05 |  |
 | [bury a friend](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:13 | 2021-08-05 |  |

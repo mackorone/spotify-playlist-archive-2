@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,907 likes - 132 songs - 8 hr 30 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,907 likes - 133 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,5 +140,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 130 | [El lienzo](https://open.spotify.com/track/6rHQGvTpPRrQt1WNVwiVJb) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 6:27 |
 | 131 | [No Dreams In Your Eyes](https://open.spotify.com/track/6RKwl6hSnS6jawPDnDNwtZ) | [Merlin Swann](https://open.spotify.com/artist/6SnhBPrv5OriKL1Ywet26r) | [Just Two Kids](https://open.spotify.com/album/03uNZiuseMMIt1EsUel7Fx) | 3:34 |
 | 132 | [Shots Fired](https://open.spotify.com/track/1CUbH9qBSyMz7cdvUnapiF) | [AudioCide](https://open.spotify.com/artist/2a1Pi1SeB9Uvo5yKa2QPel) | [Shots Fired](https://open.spotify.com/album/6kuzz2EA3vlhegoE0WxyQa) | 4:40 |
+| 133 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
 
-Snapshot ID: `AAAMsW57+q76Tq5My9nwMup9NmNOlZuf`
+Snapshot ID: `AAAMsovAPF0kFzlC2FNdtr+wYfSHopJv`

@@ -5512,7 +5512,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 241560,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
@@ -6000,6 +6000,36 @@
       "duration_ms": 319300,
       "name": "LOVE\u306a\u30b7\u30fc\u30f3",
       "url": "https://open.spotify.com/track/4estL78KTBFufDAXcqwCO6"
+    },
+    {
+      "album": {
+        "name": "luck reign",
+        "url": "https://open.spotify.com/album/62BOmi9yZqh58nOr9JU4WW"
+      },
+      "artists": [
+        {
+          "name": "One Self",
+          "url": "https://open.spotify.com/artist/6r7dk6cptOXRAk3Bm7iouK"
+        },
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        },
+        {
+          "name": "Blu Rum 13",
+          "url": "https://open.spotify.com/artist/0zlqb27qOo6W4Vougab1Hs"
+        },
+        {
+          "name": "panther1na",
+          "url": "https://open.spotify.com/artist/4wC7vDGZkeSr6B93zpl77p"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "luck reign",
+      "url": "https://open.spotify.com/track/5H6xCVWohxgUN7kDkIPpwu"
     },
     {
       "album": {
@@ -8326,10 +8356,32 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 162051,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt"
+    },
+    {
+      "album": {
+        "name": "LK99+ DELUXE",
+        "url": "https://open.spotify.com/album/5hUAbUCIJngR91GstQaBNZ"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225209,
+      "name": "Sleepwalking (+ Durand Bernarr)",
+      "url": "https://open.spotify.com/track/3lHS33KwhJWbDNyB3DNUwu"
     },
     {
       "album": {

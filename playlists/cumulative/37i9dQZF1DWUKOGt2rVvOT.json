@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u65b0\u6b4c\u4e0d\u53ea\u7528\u807d\u7684\uff0c\u9084\u8981\u7528\u770b\u7684\uff01\u6700\u65b0\u83ef\u8a9e MV \u4e00\u6b21\u6536\u597d\uff0c\u73fe\u5728\u5c31\u770b\u8d77\u4f86\uff01Cover: \u5b87\u5b99\u4eba",
+  "description": "\u65b0\u6b4c\u4e0d\u53ea\u7528\u807d\u7684\uff0c\u9084\u8981\u7528\u770b\u7684\uff01\u6700\u65b0\u83ef\u8a9e MV \u4e00\u6b21\u6536\u597d\uff0c\u73fe\u5728\u5c31\u770b\u8d77\u4f86\uff01Cover: KAXA ",
   "name": "\u9ad8\u4eba\u6c23MV",
   "tracks": [
     {
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 262000,
       "name": "\u5256\u958b\u6211",
       "url": "https://open.spotify.com/track/2EY2OqeidUislb95s4qI63"
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 297371,
       "name": "\u592a\u967d\u4e4b\u5b50",
       "url": "https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp"
@@ -3748,7 +3748,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 207864,
       "name": "\u5e73\u884c\u5b87\u5b99",
       "url": "https://open.spotify.com/track/7EnFJKFmAIBMkqXgBGWxd3"
@@ -3892,7 +3892,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188292,
       "name": "\u600e\u9ebc\u53ef\u80fd\u611b\u90a3\u9ebc\u6df1(\u54f2\u8a00&\u5b50\u7fd4) - \u96fb\u5f71\u300a\u600e\u9ebc\u53ef\u80fd\u6211\u5bb6\u7684\u7956\u5148\u662f\u4f60\u5bb6\u7684\u9b3c\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3GpNZfCWkVoXPU49Y3ke7R"
@@ -4254,7 +4254,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 159347,
       "name": "\u611b\u611b\u611b\u5509 (feat. \u6591\u6069Ben)",
       "url": "https://open.spotify.com/track/3mgQKYW1fom3R7pXU4pUPD"
@@ -5157,6 +5157,28 @@
     },
     {
       "album": {
+        "name": "\u65e9\u5b89\uff0c\u5348\u5b89\uff0c\u665a\u5b89 (feat. \u9673\u83ef )",
+        "url": "https://open.spotify.com/album/5TyyA52nHbMw4q8uq9JFCe"
+      },
+      "artists": [
+        {
+          "name": "Tr33",
+          "url": "https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws"
+        },
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "\u65e9\u5b89\uff0c\u5348\u5b89\uff0c\u665a\u5b89 (feat. \u9673\u83ef )",
+      "url": "https://open.spotify.com/track/0khb2wGlrHas2y9BbEN325"
+    },
+    {
+      "album": {
         "name": "\u672b\u65e5\u9752\u6625:\u88dc\u5b8c\u8a08\u5283",
         "url": "https://open.spotify.com/album/2IqhP4mrHzHM8vqbMvXBvS"
       },
@@ -5316,6 +5338,24 @@
       "duration_ms": 244046,
       "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
       "url": "https://open.spotify.com/track/3r2BH563UfH3ZnLxywSe27"
+    },
+    {
+      "album": {
+        "name": "\u5076\u50cf\u5305\u88b1",
+        "url": "https://open.spotify.com/album/50zKMXgPXVzjcDPokBHy9d"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248734,
+      "name": "\u6700\u5f8c\u4e00\u500b\u8b0a",
+      "url": "https://open.spotify.com/track/1jvdnSKL2KzLG5vwxrl0C6"
     },
     {
       "album": {
@@ -6853,6 +6893,24 @@
     },
     {
       "album": {
+        "name": "\u8981\u53bb\u4ec0\u9ebc\u5730\u65b9",
+        "url": "https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227746,
+      "name": "\u8981\u53bb\u4ec0\u9ebc\u5730\u65b9",
+      "url": "https://open.spotify.com/track/4azVNx8uhpnKezwrNhcvYz"
+    },
+    {
+      "album": {
         "name": "\u4f60\u597d\u55ce?",
         "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
       },
@@ -7295,6 +7353,28 @@
     },
     {
       "album": {
+        "name": "\u8ffd\u661f\u661f\u7684\u4eba",
+        "url": "https://open.spotify.com/album/4NKmOr3VUAsh9QxDJLgGV2"
+      },
+      "artists": [
+        {
+          "name": "\u7f85\u6587\u88d5",
+          "url": "https://open.spotify.com/artist/7oMkAwPOEfk2ETm9HX9Ruo"
+        },
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "\u8ffd\u661f\u661f\u7684\u4eba",
+      "url": "https://open.spotify.com/track/2MukFBijDRxpuZStoMb6Ei"
+    },
+    {
+      "album": {
         "name": "\u5df4\u53e4\u6155",
         "url": "https://open.spotify.com/album/6ulfIS8o7jvkvzGcrKgJPb"
       },
@@ -7730,6 +7810,24 @@
       "duration_ms": 233283,
       "name": "\u966a\u5728\u4f60\u8eab\u908a",
       "url": "https://open.spotify.com/track/7wtTfEA4tZo6VaPUpGONlm"
+    },
+    {
+      "album": {
+        "name": "\u96b1\u766e (\u5f71\u96c6\u300a\u90f5\u7968\u8207\u8212\u8299\u857e\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/6VH4LNvAEFfswzrIuEAJJt"
+      },
+      "artists": [
+        {
+          "name": "KAXA",
+          "url": "https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209705,
+      "name": "\u96b1\u766e (\u5f71\u96c6\u300a\u90f5\u7968\u8207\u8212\u8299\u857e\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/2KSaDdRadbOLfvU3kWMPxy"
     },
     {
       "album": {

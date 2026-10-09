@@ -3093,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "Takin' It Back (Deluxe)",
+        "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143880,
+      "name": "Shook",
+      "url": "https://open.spotify.com/track/7udOZ4THnMO5lsNwU6JYQB"
+    },
+    {
+      "album": {
         "name": "Positions (Deluxe)",
         "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
       },
@@ -3324,6 +3342,28 @@
       "duration_ms": 213911,
       "name": "Sorry... I Meant Tonight - Bonus",
       "url": "https://open.spotify.com/track/0Sdy5NYNWx4ZZBU89MIu2m"
+    },
+    {
+      "album": {
+        "name": "Takin' It Back (Deluxe)",
+        "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184598,
+      "name": "Special Delivery (feat. MAX)",
+      "url": "https://open.spotify.com/track/1nYERUIQ42uJjsvCbDPKlU"
     },
     {
       "album": {

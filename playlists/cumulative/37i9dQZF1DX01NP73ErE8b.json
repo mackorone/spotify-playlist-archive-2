@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Marracash e Gu\u00e8 in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 ARIETE in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 197591,
       "name": "AL MIO PAESE",
       "url": "https://open.spotify.com/track/0C2IeaV0r1F8IYWe4JjM2u"
@@ -834,6 +834,28 @@
       "duration_ms": 192083,
       "name": "Amore \u00e8",
       "url": "https://open.spotify.com/track/0XW2hU83XoLGKppz03cLL5"
+    },
+    {
+      "album": {
+        "name": "AMORE/DILEMMA",
+        "url": "https://open.spotify.com/album/5D4tTGj7iwhVFVMTtSfT9G"
+      },
+      "artists": [
+        {
+          "name": "Baby K",
+          "url": "https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "AMORE/DILEMMA",
+      "url": "https://open.spotify.com/track/2u4slgqitceKgPbKbCKEii"
     },
     {
       "album": {
@@ -2261,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "A MILANO",
+        "url": "https://open.spotify.com/album/0IjYusIHjDPk8wvUDlPcvW"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "CARICA",
+      "url": "https://open.spotify.com/track/2JcH8LNSJKBpZc2YJCKZnP"
+    },
+    {
+      "album": {
         "name": "Casa In Fiamme",
         "url": "https://open.spotify.com/album/5jgyApMVKqjoCQaOuQDd34"
       },
@@ -2472,7 +2512,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 194307,
       "name": "Che fastidio!",
       "url": "https://open.spotify.com/track/1k3pzheXrbtHgvvOsQeMkU"
@@ -2620,7 +2660,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 132857,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/42CJJ9w3XPYmM45DfklssT"
@@ -4897,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "Giornate perse",
+        "url": "https://open.spotify.com/album/3IwLrqrvy5IB8wDMmcJAqH"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219078,
+      "name": "Giornate perse",
+      "url": "https://open.spotify.com/track/76qMY6xy2mqMAAk0ycce3N"
+    },
+    {
+      "album": {
         "name": "giorni tristi",
         "url": "https://open.spotify.com/album/4j4acQzrgq8RlH6zfyOZJD"
       },
@@ -6587,6 +6645,28 @@
     },
     {
       "album": {
+        "name": "AMATORE",
+        "url": "https://open.spotify.com/album/32zzJ66UiCoydumDUcwVxH"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        },
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Le foglie di te",
+      "url": "https://open.spotify.com/track/4EymAJdlgiSYKfrUpDcc21"
+    },
+    {
+      "album": {
         "name": "LE RAGAZZE",
         "url": "https://open.spotify.com/album/5dGbct1c1422HZRyViiNR0"
       },
@@ -7296,6 +7376,28 @@
       "duration_ms": 169738,
       "name": "ManDarE TuTto All'aRIA",
       "url": "https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq"
+    },
+    {
+      "album": {
+        "name": "Tutti Tornano A Casa",
+        "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175625,
+      "name": "Mano Nella Mano (con Fulminacci)",
+      "url": "https://open.spotify.com/track/0T6gmN1rupoIxcEI5mqyCg"
     },
     {
       "album": {
@@ -8955,6 +9057,42 @@
     },
     {
       "album": {
+        "name": "ok buonanotte",
+        "url": "https://open.spotify.com/album/5XcS6TmwOrLNWXGwIhJV51"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157405,
+      "name": "ok buonanotte",
+      "url": "https://open.spotify.com/track/3D3tkwn0dPmNUg0R0o8qG7"
+    },
+    {
+      "album": {
+        "name": "Oltre il bosco",
+        "url": "https://open.spotify.com/album/0PUNfRIUq6iCvdWdXebGXk"
+      },
+      "artists": [
+        {
+          "name": "Vinicio Capossela",
+          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233840,
+      "name": "Oltre il bosco",
+      "url": "https://open.spotify.com/track/5mQVuoeT3MBoV10mWWIsH6"
+    },
+    {
+      "album": {
         "name": "Ombre di citt\u00e0 (feat. Colapesce)",
         "url": "https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP"
       },
@@ -9818,7 +9956,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 184924,
       "name": "Pi\u00f9 in Alto",
       "url": "https://open.spotify.com/track/6CpzsTZfjcLBVLhCmEKI1v"
@@ -10792,7 +10930,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 195301,
       "name": "Rivoluzione",
       "url": "https://open.spotify.com/track/4ylLAKVwK0b9QJqJT8QU0n"
@@ -11188,7 +11326,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 182500,
       "name": "Scandalo al Sole",
       "url": "https://open.spotify.com/track/259uQ5rnb8dWGYBi5nYvxz"
@@ -12303,6 +12441,24 @@
     },
     {
       "album": {
+        "name": "STRADE",
+        "url": "https://open.spotify.com/album/6uNABMxgUVUdyvSuJ4qyq1"
+      },
+      "artists": [
+        {
+          "name": "SENZA CRI",
+          "url": "https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "STRADE",
+      "url": "https://open.spotify.com/track/7Ee36MMsCS026oFOiRAwZr"
+    },
+    {
+      "album": {
         "name": "Strega Comanda",
         "url": "https://open.spotify.com/album/20yiJvjwK9Qm02fmtyuxKx"
       },
@@ -13024,7 +13180,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 209664,
       "name": "TU MI PIACI TANTO",
       "url": "https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf"
@@ -13820,7 +13976,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 175714,
       "name": "VITA MORTE MIRACOLI",
       "url": "https://open.spotify.com/track/5kTTmHImyUi7JirBBC9iOq"

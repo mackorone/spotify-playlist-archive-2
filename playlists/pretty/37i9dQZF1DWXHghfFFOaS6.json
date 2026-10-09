@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 393336,
+  "num_followers": 393397,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -809,6 +809,26 @@
       "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
     },
     {
+      "added_at": "2026-10-02 04:00:35",
+      "album": {
+        "name": "Snap, Crackle & Bop!",
+        "url": "https://open.spotify.com/album/2gXL9kq6ifBTe28DoSM5f4"
+      },
+      "artists": [
+        {
+          "name": "Us3",
+          "url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
+        },
+        {
+          "name": "Akil Dasan",
+          "url": "https://open.spotify.com/artist/7gLvXbtTIJRXCpDQcmCRmf"
+        }
+      ],
+      "duration_ms": 278752,
+      "name": "We Like That",
+      "url": "https://open.spotify.com/track/1KxgcgvqnNoiSynkbPmJwS"
+    },
+    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Cosmic Vortex (Justice Divine)",
@@ -867,26 +887,6 @@
       "duration_ms": 177842,
       "name": "Beatmaker",
       "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
-    },
-    {
-      "added_at": "2026-10-02 04:00:35",
-      "album": {
-        "name": "Snap, Crackle & Bop!",
-        "url": "https://open.spotify.com/album/2gXL9kq6ifBTe28DoSM5f4"
-      },
-      "artists": [
-        {
-          "name": "Us3",
-          "url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
-        },
-        {
-          "name": "Akil Dasan",
-          "url": "https://open.spotify.com/artist/7gLvXbtTIJRXCpDQcmCRmf"
-        }
-      ],
-      "duration_ms": 278752,
-      "name": "We Like That",
-      "url": "https://open.spotify.com/track/1KxgcgvqnNoiSynkbPmJwS"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7o6XzFc6ZwdmqW8tDxlHyk"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 246840,
       "name": "Look Inside",
       "url": "https://open.spotify.com/track/4CGoEKup84yKbG9r6eYd4A"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     },
     {
       "added_at": "2022-07-14 19:24:43",

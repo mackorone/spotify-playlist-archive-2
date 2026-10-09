@@ -1973,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "SATISFY",
+        "url": "https://open.spotify.com/album/5h85Z1TUWEOqd2hsRDBMDY"
+      },
+      "artists": [
+        {
+          "name": "Re:name",
+          "url": "https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251657,
+      "name": "SATISFY",
+      "url": "https://open.spotify.com/track/1v7QtylS70C0DA2zyxLEvV"
+    },
+    {
+      "album": {
         "name": "SCOPE",
         "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
       },
@@ -2126,6 +2144,24 @@
       "duration_ms": 248778,
       "name": "Somebody help us",
       "url": "https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i"
+    },
+    {
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/1QwU4tpiSCVYS6wTR2uHv3"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269626,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/7pYknrWaihratiLnnlLhJx"
     },
     {
       "album": {
@@ -3296,7 +3332,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 191493,
       "name": "\u30b5\u30e0\u30e9\u30a4\u30cf\u30fc\u30c8(Some Like It Hot!!)",
       "url": "https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj"
@@ -3836,7 +3872,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 224213,
       "name": "\u30dd\u30e9\u30ea\u30b9",
       "url": "https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0L9EIg.md) - [plain]
 
 > This is Volker Bertelmann\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 831 likes - 49 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 832 likes - 49 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2C52upTW6glBKYESix1crD"
+      },
+      "artists": [
+        {
+          "name": "Hugo Mirewood",
+          "url": "https://open.spotify.com/artist/0HVcHke34BNdHsYBTx6MlN"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156414,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/3mCf3cd8VF2RoyXaZiw8Uy"
+    },
+    {
+      "album": {
         "name": "As It Was (arr. string quartet)",
         "url": "https://open.spotify.com/album/4ZDNoOtzzPTMOpJlw14Bb3"
       },
@@ -975,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/75wtHEv0hBo7dzEkDwegtH"
+      },
+      "artists": [
+        {
+          "name": "Amanda Live",
+          "url": "https://open.spotify.com/artist/7rD0OynywRBT9LteZWgd9p"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142979,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/3uCM88KBX3ZO37khZJn4uj"
+    },
+    {
+      "album": {
         "name": "Beaucoup de VSQ",
         "url": "https://open.spotify.com/album/5XoLTlMq0WJ1eykXG6kQTn"
       },
@@ -1080,6 +1116,24 @@
       "duration_ms": 198545,
       "name": "Colors Of The Wind",
       "url": "https://open.spotify.com/track/6bQ5Bvcmykkj5ONuk6FWyt"
+    },
+    {
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/3eJ2aydzkg7nWHUPzZTQmE"
+      },
+      "artists": [
+        {
+          "name": "Della Valle",
+          "url": "https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187975,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/47J0Q7M8YIi3rSZ01x4VbD"
     },
     {
       "album": {

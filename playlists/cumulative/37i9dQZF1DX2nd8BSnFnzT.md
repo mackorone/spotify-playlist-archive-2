@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Lançamentos 100% rock brasileiro\. Foto: Pitty
+> Lançamentos 100% rock brasileiro\. Foto: Glória
 
-698 songs - 1 day 14 hr 55 min
+702 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [DOMINÓ \(Citação: "Falando Nisso"\)](https://open.spotify.com/track/0GWEX9n7SctqXZ8qpUmZga) | [Tangolo Mangos](https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o) | [DOMINÓ \(Citação: "Falando Nisso"\)](https://open.spotify.com/album/2f4LrmNqeE8LKWxDmAhRuu) | 4:03 | 2026-05-01 |  |
 | [Dopamina](https://open.spotify.com/track/3r9VtIqzY73RwUw6dOHiIo) | [Capsula](https://open.spotify.com/artist/6Vk5nW1jLHk4k8pIsjJAkk) | [Dopamina](https://open.spotify.com/album/2GE5d3yHARKUY3zPI7JNwH) | 3:46 | 2026-05-29 | 2026-06-26 |
 | [Duas Vidas Em Jogo](https://open.spotify.com/track/6YB8N8pPrXW84xgJ03Gu9E) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Diorama](https://open.spotify.com/artist/6E6B0NdJdBCZ0hVcFB4yNV) | [Duas Vidas Em Jogo](https://open.spotify.com/album/7nUDW1cWvea6dJyrY6s7Ol) | 3:10 | 2022-12-16 | 2024-01-13 |
+| [Décimo Andar](https://open.spotify.com/track/7f4BWbKISxIPW3PHqGzgK7) | [Wry](https://open.spotify.com/artist/3hUJEMJojO6OmzGWumutys) | [Décimo Andar](https://open.spotify.com/album/7qRckgyROoRdBupHDTbNvL) | 3:30 | 2026-10-09 |  |
 | [Dúvida](https://open.spotify.com/track/0k3EZCbCi8iZwi9RKytLZT) | [Codinome Winchester](https://open.spotify.com/artist/0oxzuDPaVqVeGDKQfp36QZ) | [Dúvida](https://open.spotify.com/album/5ofKjhI9gC78JmdlQNRQ05) | 4:33 | 2022-01-14 | 2022-02-05 |
 | [E Foi Assim](https://open.spotify.com/track/7elsjWBo5jzqJQ3SLePYBj) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [E Foi Assim](https://open.spotify.com/album/35I7xwlS2UKao7pU9GSQt0) | 2:17 | 2024-01-19 | 2024-04-27 |
 | [eh complicado...](https://open.spotify.com/track/4PrdP954ZWaeC92fFyXSWG) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [eh complicado...](https://open.spotify.com/album/4nX5dWqBkY6APFQTNPZsWV) | 2:54 | 2025-07-25 | 2025-08-16 |
@@ -509,6 +510,7 @@
 | [Por Quem os Sinos Dobram](https://open.spotify.com/track/5IIFSYPhm5CwzFGOVlob6R) | [Lado Brasil](https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z) | [Origens](https://open.spotify.com/album/35puEaRN9d2hF8RpOSVWS8) | 3:34 | 2022-05-20 | 2022-06-11 |
 | [Por Tão Pouco](https://open.spotify.com/track/4odDiZByQ8fIqWcUWQJiD7) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Por Tão Pouco](https://open.spotify.com/album/2UYp3RCXoH7f4Hzalo2gkt) | 4:32 | 2025-11-14 | 2026-01-31 |
 | [Porta\-Malas](https://open.spotify.com/track/23dCpE0mEQQ4s6IzX3rkdh) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [Porta\-Malas](https://open.spotify.com/album/4ZncdiiEK9GwarUR9ZeiAD) | 4:13 | 2022-09-30 | 2026-07-11 |
+| [porto alegre ficou pequena demais pra nós dois](https://open.spotify.com/track/6ZUY4wzDQNustAGDDXtgiE) | [Rugby Brasileiro](https://open.spotify.com/artist/7qgRtBj5tjG4gnhGndBajt), [asterisma](https://open.spotify.com/artist/4j9ys3fBORVkLZkaYKmwbQ) | [Irmãos, Rivais](https://open.spotify.com/album/6T7f5flJmcoKFzzJU0u0qA) | 3:24 | 2026-10-09 |  |
 | [Potinho de Veneno](https://open.spotify.com/track/3smgMtxQbgUXzNCVxWaIeX) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Potinho de Veneno](https://open.spotify.com/album/0FEy7NRnyMSxHF0GSl1Ifw) | 3:23 | 2025-10-31 | 2026-08-22 |
 | [Poucas Leis \- Ao Vivo](https://open.spotify.com/track/6n39uwbsvetibg9xrU5Eeo) | [Cinza](https://open.spotify.com/artist/7I6a3bbzoA88B9WAqxQVga), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Cinza no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/5d1gjurI4P4a6YYyfcAafP) | 3:13 | 2023-02-24 | 2023-05-13 |
 | [Powerplant](https://open.spotify.com/track/6EyeCrtybIk8uKOmabIUWW) | [Garage Fuzz](https://open.spotify.com/artist/5CxFdJDDcUDl0oa0DjrqJs) | [Powerplant](https://open.spotify.com/album/0zSXfYBT7g7M0mLqEQOROv) | 3:11 | 2026-08-14 |  |
@@ -662,6 +664,7 @@
 | [Um Drink no Inferno](https://open.spotify.com/track/1ZIL3n6FyzFWOz0fHb0SUu) | [Pappa Jack](https://open.spotify.com/artist/5j8yCUAAtRgPbW98Eym3oo), [Igor Godoi](https://open.spotify.com/artist/6nx3QzI1c2xmdV8BrINtmG) | [Volume 1](https://open.spotify.com/album/1ueUmJn1wDaxpWZFzH1xJc) | 3:20 | 2023-11-10 | 2024-05-03 |
 | [Um Misto de Todas as Coisas \- Ao Vivo](https://open.spotify.com/track/14sAbxIENb9GRkguBkD40p) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Paulo Miklos \(Ao Vivo\)](https://open.spotify.com/album/0HC3ob9uPttytd4XObdUdv) | 3:15 | 2024-05-03 | 2024-08-31 |
 | [um novo jeito de se machucar](https://open.spotify.com/track/4m1BQmWdyQNN1OE1pvc94u) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Emmercia](https://open.spotify.com/artist/4FT9Hgt2E3s0KXJOSuAiVy) | [um novo jeito de se machucar](https://open.spotify.com/album/3mxHuaFOhavMHtgfUwZG8F) | 3:09 | 2023-08-04 | 2025-11-01 |
+| [Um por Um](https://open.spotify.com/track/6JSBBTVdt4QC335o8mZa8J) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN), [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Um por Um](https://open.spotify.com/album/0reQ7ebLWqv9AtoQtBFl1g) | 3:20 | 2026-10-09 |  |
 | [Um Segundo a +](https://open.spotify.com/track/73JqxNvW3ZHv2TcTI1kh6q) | [Estação 77](https://open.spotify.com/artist/3upWS8cr9YTI656ZTuwUem) | [Um Segundo a +](https://open.spotify.com/album/6eNgn576a5qQmsMMGXssL2) | 2:42 | 2022-01-14 | 2022-11-05 |
 | [Um Sonho](https://open.spotify.com/track/2khoFTxsVy8Y0crHrk6GRq) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Um Sonho](https://open.spotify.com/album/60kEJlOilsLPCTNA5CXM3T) | 2:31 | 2024-09-27 | 2025-06-21 |
 | [Um Tempo](https://open.spotify.com/track/4ILAax50Qp9kwcwBM0NBkO) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Um Tempo](https://open.spotify.com/album/05aOvLoWx7xOIrnomiqCeV) | 3:30 | 2022-01-14 | 2022-04-02 |
@@ -683,6 +686,7 @@
 | [Veneno](https://open.spotify.com/track/48gX3Cw6NvtD354SeCfIYl) | [Malvada](https://open.spotify.com/artist/59HYfYu4sULVe4DL14kdsJ) | [Veneno](https://open.spotify.com/album/57JDsqONjerDf3iRVBCgOq) | 3:29 | 2024-04-26 | 2024-06-22 |
 | [VERMELHO FAROL](https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VERMELHO FAROL](https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns) | 2:30 | 2023-04-14 | 2023-07-22 |
 | [VIA DUPLA](https://open.spotify.com/track/1dRZRio5j7ETsizX0CMDqM) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [SÍNDRØME](https://open.spotify.com/album/2qkhEKZ53vhwuA2bZSZU04) | 3:03 | 2024-09-06 | 2025-09-20 |
+| [Vigarice](https://open.spotify.com/track/05Rrz3QyKMKwn8RleR5cvw) | [Vitroles](https://open.spotify.com/artist/4xhEOz8sNMC2kkXsgyThuG) | [Vigarice](https://open.spotify.com/album/4a74ozBPRyp0JNNQn0KxSw) | 3:16 | 2026-10-09 |  |
 | [Virar O Jogo](https://open.spotify.com/track/40yDQNMltSs9LJjbmuzXR8) | [LA GANG](https://open.spotify.com/artist/5RreoTuWQBJSW7pHhl3yjR) | [Virar O Jogo](https://open.spotify.com/album/2dP4vn2pC3S90ogOcw4HMT) | 2:20 | 2024-05-10 | 2024-11-23 |
 | [Vital E Sua Moto 2024](https://open.spotify.com/track/24JnBtwF07WzODgJtTYyKN) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Vital E Sua Moto 2024](https://open.spotify.com/album/1ivFEPEPpN10pc2JQlMZay) | 3:25 | 2024-06-21 | 2026-01-31 |
 | [Vitória](https://open.spotify.com/track/2uRlVcj6AjZKAMP2Gc1xpj) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt.3](https://open.spotify.com/album/13x5PRkYrO2vLrTntH0Jkh) | 3:20 | 2022-08-12 | 2023-03-11 |

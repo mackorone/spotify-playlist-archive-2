@@ -2,9 +2,9 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Hermanos Gutiérrez
+> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Alex Ponce
 
-168 songs - 9 hr 29 min
+170 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [El Mar](https://open.spotify.com/track/4NnDYsEaL11NkZaWEyO2V1) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Ficción](https://open.spotify.com/album/02k8LdA9cGg7D8F70A7XHF) | 3:55 | 2026-03-18 | 2026-03-27 |
 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-09-22 | 2024-10-18 |
 | [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 | 2026-03-18 | 2026-03-27 |
-| [Elmo](https://open.spotify.com/track/0VJXLN3SJ58XyDcRtBvUMy) | [luci le](https://open.spotify.com/artist/3glLfCwES6QDLQ7y1ypVbs) | [Niña Flor](https://open.spotify.com/album/6T8rPObhh2ylU20UJRpRnH) | 3:39 | 2026-08-21 |  |
+| [Elmo](https://open.spotify.com/track/0VJXLN3SJ58XyDcRtBvUMy) | [luci le](https://open.spotify.com/artist/3glLfCwES6QDLQ7y1ypVbs) | [Niña Flor](https://open.spotify.com/album/6T8rPObhh2ylU20UJRpRnH) | 3:39 | 2026-08-21 | 2026-10-09 |
 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 | 2023-09-22 | 2024-05-18 |
 | [Esa Soy Yo](https://open.spotify.com/track/7LBBwA7jywLpSz42GDbwbN) | [Puerto Candelaria](https://open.spotify.com/artist/27neIga89YKdkCk6Yzv0ni) | [Esa Soy Yo](https://open.spotify.com/album/2j9tZnbkuwl1dIhAlsjtcl) | 3:42 | 2026-06-12 |  |
 | [escapar de mí](https://open.spotify.com/track/5FhhHvzn4z9RTDPx6lH8Hd) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:48 | 2026-03-18 | 2026-03-27 |
@@ -109,7 +109,7 @@
 | [Marchito](https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Marchito](https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H) | 3:56 | 2023-09-29 | 2026-06-13 |
 | [Mariposas Amarillas](https://open.spotify.com/track/1sstT1tv6lHi3dJgUp4PEf) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV), [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Mariposas Amarillas](https://open.spotify.com/album/08hW5Y4PNFEcqvlkxjofU4) | 3:37 | 2025-04-11 |  |
 | [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 | 2023-09-22 | 2026-05-02 |
-| [Medusa](https://open.spotify.com/track/5u4WtYlz4AVrsVwu58mKbv) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Medusa](https://open.spotify.com/album/2Hy8fPqK6DM1nVXECN5qKU) | 3:00 | 2024-02-23 |  |
+| [Medusa](https://open.spotify.com/track/5u4WtYlz4AVrsVwu58mKbv) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Medusa](https://open.spotify.com/album/2Hy8fPqK6DM1nVXECN5qKU) | 3:00 | 2024-02-23 | 2026-10-09 |
 | [Miedos](https://open.spotify.com/track/62S2xgDZowaK6Juvb5PJ0z) | [Noelia Maffiold](https://open.spotify.com/artist/3sOT9XBTqMcA6ZjOjSA8eM) | [Miedos](https://open.spotify.com/album/0l6eySHLQcqqqqcvCCPLSn) | 4:26 | 2026-03-18 | 2026-03-27 |
 | [mil procedimientos](https://open.spotify.com/track/3GbGWkO0fqOGKvDGQle35s) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [mil procedimientos](https://open.spotify.com/album/228lIoPGjFuFxEUAh4vjOO) | 3:36 | 2024-08-02 |  |
 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 | 2023-09-22 |  |
@@ -136,6 +136,7 @@
 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 | 2023-09-22 | 2024-08-03 |
 | [Ojalá](https://open.spotify.com/track/5YK02pYcZTr5NdarXoVYUA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Ojalá](https://open.spotify.com/album/1OFRa5PHI2xN7Sx7a6Jvvy) | 3:22 | 2026-03-18 | 2026-03-27 |
 | [Puquio](https://open.spotify.com/track/7AU74ElllykOv422FjsU1E) | [Triste Domingo](https://open.spotify.com/artist/5wWTQAmSqsyuPXtjNm0oos) | [Puquio](https://open.spotify.com/album/4gLcpquRoWzxLjF0451BD6) | 2:56 | 2023-09-22 | 2023-09-30 |
+| [que seas tú \-\-](https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [que seas tú \-\- & amor herido \. \. .](https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1) | 3:13 | 2026-10-09 |  |
 | [Quema o Ilumina](https://open.spotify.com/track/0rzDbuKT9rF1bgfHLL96lu) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5) | [Quema o Ilumina](https://open.spotify.com/album/7j8xxj87pZFSbvdNgxxTpb) | 3:09 | 2024-10-25 |  |
 | [Quiero Verte Así](https://open.spotify.com/track/1i9wjyXgsdGFbY8ZeRaThL) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Quiero Verte Así](https://open.spotify.com/album/1IOjKmdCCz7Ci6ZRnv2b3j) | 3:04 | 2023-09-22 | 2024-07-06 |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-09-22 |  |
@@ -175,6 +176,7 @@
 | [ya lo sabemos](https://open.spotify.com/track/3cLV9ACRWvOf3Z7SLqud5B) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Antes y Después](https://open.spotify.com/album/2eR2uZOC861wwAqg1vFmDq) | 3:18 | 2024-10-18 |  |
 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 | 2026-09-25 |  |
 | [Young](https://open.spotify.com/track/45FLsvojU63HpbTKXSwTao) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/4my95sS2JXep8uUPOfe8zI) | 3:14 | 2026-03-18 | 2026-03-27 |
+| [yourmovie](https://open.spotify.com/track/58i2W3ysfBLyeBqOWdlqI1) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq), [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [audio cámara flash](https://open.spotify.com/album/4aCgaAk5Etw04smccyarhM) | 2:25 | 2026-10-09 |  |
 | [¿El 14 qué harás?](https://open.spotify.com/track/2JV6LNI0rX9KcUEDCT9wQ8) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:39 | 2026-03-18 | 2026-03-27 |
 
 \*This playlist was first scraped on 2023-09-27. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "The newest r&b drops, every week. Cover: Stevie Wonder",
-  "num_followers": 1121374,
+  "num_followers": 1121486,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFP8Q1ovmtYiGwza/wPpM0m6SNqy",
+  "snapshot_id": "AAAAALJDuY8oG1UaweBBjxuGJp+m6N8X",
   "tracks": [
     {
       "added_at": "2026-10-02 04:14:32",
@@ -107,6 +107,26 @@
       "duration_ms": 155153,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/5UWypDFke2swJxdSJ6mdkq"
+    },
+    {
+      "added_at": "2026-10-08 05:59:10",
+      "album": {
+        "name": "Synonym",
+        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "duration_ms": 268375,
+      "name": "Guilty (with Ink)",
+      "url": "https://open.spotify.com/track/5LksZyYetsIYCrRH4IrYx6"
     },
     {
       "added_at": "2026-10-02 04:14:32",

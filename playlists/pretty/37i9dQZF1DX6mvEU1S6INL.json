@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142297,
+  "num_followers": 1142292,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Half Your Love",
-      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Siamese Dream (2011 - Remaster)",
         "url": "https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 202320,
       "name": "Luna - 2011 Remaster",
       "url": "https://open.spotify.com/track/20Y0ZANdyEI52MfQs6DddK"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Half Your Love",
+      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Seasons (Waiting On You)",
-      "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 265613,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Seasons (Waiting On You)",
+      "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Free Animal",
+        "url": "https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Free Animal",
+      "url": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Just Say When (Version 2.0)",
         "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 163236,
       "name": "Shake, Shake, Shake",
       "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Free Animal",
-        "url": "https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Free Animal",
-      "url": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. D4vd)",
+      "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
       },
@@ -1607,22 +1627,6 @@
       "duration_ms": 159711,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Youuu",
-        "url": "https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Youuu",
-      "url": "https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD"
     }
   ],
   "unique_name": "You & Me",

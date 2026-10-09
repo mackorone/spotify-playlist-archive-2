@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: KA LAI",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: before the night ends",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -2670,6 +2670,24 @@
       "duration_ms": 357750,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/3VtJPJlYZNpMVPjLjJBd2l"
+    },
+    {
+      "album": {
+        "name": "Caledonian Road",
+        "url": "https://open.spotify.com/album/3lrbuORDUpu1T4O825x7WD"
+      },
+      "artists": [
+        {
+          "name": "no way mary!",
+          "url": "https://open.spotify.com/artist/0lZ8NGaQ1HDMNgS0Uzoy5p"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192913,
+      "name": "Caledonian Road",
+      "url": "https://open.spotify.com/track/133o135DPYO5zgbevX9BEG"
     },
     {
       "album": {
@@ -5779,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Feels Like A Crime",
+        "url": "https://open.spotify.com/album/7zr0qXtTJQwwZDwCwmXfvT"
+      },
+      "artists": [
+        {
+          "name": "Zolie",
+          "url": "https://open.spotify.com/artist/4pcletN1p2Xcxi8g5YHHgT"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200645,
+      "name": "Feels Like A Crime",
+      "url": "https://open.spotify.com/track/0R01JwZEAB5HqNZQ3zX9Kn"
+    },
+    {
+      "album": {
         "name": "Bye.",
         "url": "https://open.spotify.com/album/3O8g3PI0mEjHD6ByNMVsx4"
       },
@@ -8304,6 +8340,24 @@
       "duration_ms": 235336,
       "name": "I AM ANGRY (\u6211\u662f\u61a4\u6012)",
       "url": "https://open.spotify.com/track/71SIVJcRf313jxCL23thvo"
+    },
+    {
+      "album": {
+        "name": "I CAN SEE EVERYTHING",
+        "url": "https://open.spotify.com/album/3RaPwSHzxkzqniaZJqqCdF"
+      },
+      "artists": [
+        {
+          "name": "TYNT",
+          "url": "https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208111,
+      "name": "I CAN SEE EVERYTHING",
+      "url": "https://open.spotify.com/track/7hg0DCXLW6A6jOZzxr8tvz"
     },
     {
       "album": {
@@ -15070,7 +15124,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 167800,
       "name": "Prelude (its so far)",
       "url": "https://open.spotify.com/track/5jQlvQZhDmvzprMOrAaePZ"
@@ -25262,7 +25316,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 237888,
       "name": "\u5929\u4e0b\u4e5f\u4e00\u6a23",
       "url": "https://open.spotify.com/track/7rQcwYCHD6Kcm8B9taUzA0"
@@ -30814,7 +30868,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 274058,
       "name": "\u7b49\u4e00\u7b49 - \u751f\u65e5\u5929\u5929\u904e\u7248\u672c",
       "url": "https://open.spotify.com/track/3fTX40iobyUMZsFuntoICn"

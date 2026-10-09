@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-263 songs - 12 hr 19 min
+265 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Fruits of the Harvest 432 Hz \- Piano](https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Fruits of the Harvest 432 Hz \(Piano\)](https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8) | 2:14 | 2023-11-06 |  |
 | [Gazing at Stars](https://open.spotify.com/track/2gO83bM3oq8TgBEn67ZkFW) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Gazing at Stars](https://open.spotify.com/album/3bNQEqCmzBMdkdt5QL5WLY) | 2:35 | 2026-08-28 |  |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2023-09-29 |  |
+| [Gijón](https://open.spotify.com/track/2TwyiDBtGKCEXBZweOAP5X) | [Miriam Juno](https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw) | [Gijón](https://open.spotify.com/album/0LNYZwXB7k9fGr96YqmDM6) | 2:26 | 2026-10-09 |  |
 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-09-29 | 2025-05-17 |
 | [Gleam](https://open.spotify.com/track/05AZg9MCQ9BFd1Lpj1nVbG) | [Aubrey Lo](https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5) | [Gleam](https://open.spotify.com/album/2I4EElYc4oMCZGcJQKs64o) | 1:55 | 2026-08-28 |  |
 | [Glow](https://open.spotify.com/track/2yp78bNsOr21Ayub9vawgP) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Glow](https://open.spotify.com/album/5sxjKWPxo4F5lVHKE5p1IS) | 2:43 | 2025-09-17 |  |
@@ -235,6 +236,7 @@
 | [The Quiet Room](https://open.spotify.com/track/0Iq6y319N2q1xTj3QtjvQF) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [The Quiet Room](https://open.spotify.com/album/1bUlMMwOomK8AOUqGJUYeu) | 2:28 | 2025-01-17 |  |
 | [The Return](https://open.spotify.com/track/5wlUjXNwN62wxhAZWddA6B) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [The Return](https://open.spotify.com/album/4nZ4sclyQYkBT2SlKBXvcJ) | 2:18 | 2021-11-09 | 2025-05-17 |
 | [The Secret](https://open.spotify.com/track/71qUV3Npt2rsKL1p8zsKPS) | [Passerina Caerulea](https://open.spotify.com/artist/4A6r5yNuH0Mo4L9pdTIlSC) | [The Secret](https://open.spotify.com/album/4qIyBsinsMr6F7b3sC81FG) | 2:17 | 2025-08-05 |  |
+| [The Shape of Time](https://open.spotify.com/track/129GHdkWfvcxSBmAKyq8aZ) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [The Shape of Time](https://open.spotify.com/album/5Fp1oRYMwu3Y2nToPUlSxW) | 2:36 | 2026-10-09 |  |
 | [The Story of Forever](https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Story of Forever](https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW) | 3:43 | 2024-08-12 |  |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-02-28 |  |
 | [This Night](https://open.spotify.com/track/0m8MYDal7eCEfjApR7hyUP) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/73VZPKqqn3KNK3gnmi1kTI) | 3:31 | 2021-11-09 | 2025-05-17 |

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-591 songs - 1 day 9 hr 32 min
+593 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Caliente](https://open.spotify.com/track/40c8OaAWOOZVYyDiWgcUzt) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Caliente](https://open.spotify.com/album/3MhnjiaLr9JtQPv8tQRb6n) | 2:15 | 2025-12-23 | 2026-01-15 |
 | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/track/4b2xYezRYlT9jf6nKxPOwT) | [J0VANNA](https://open.spotify.com/artist/1ILEWunbo2Yr5xi6LXJtGy) | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/album/3WPYj0X3qC3jPwzyr3jekD) | 4:15 | 2025-11-05 | 2025-12-01 |
 | [Camgirl](https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Camgirl](https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt) | 4:08 | 2026-01-29 | 2026-09-04 |
+| [Can I Have Ya Number?](https://open.spotify.com/track/3QVRa8jDHfAjH8TrIhfARQ) | [Prince LDJ](https://open.spotify.com/artist/4VaqTSzt4FF1Qz0e7fG5dT) | [Unfinished Business EP](https://open.spotify.com/album/4pCSzypjL7TBI6HgoMf2Wt) | 3:36 | 2026-10-08 |  |
 | [Can't Find My Phone](https://open.spotify.com/track/0BWh4xchOtRdQAlRfelPFS) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Can't Find My Phone](https://open.spotify.com/album/2HjLHGRtW7yhxBKY0V5Mge) | 2:31 | 2025-12-20 | 2026-01-15 |
 | [Can't Get Away](https://open.spotify.com/track/5aqARSatL1aREW9uOg7Tep) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away](https://open.spotify.com/album/2NYgUG3tE6DeADKHBH3qnz) | 3:04 | 2025-11-30 | 2026-01-05 |
 | [Can't Stop Loving You](https://open.spotify.com/track/3U8jamAGzYu9hQiiaPjzpz) | [Kevon Tyrre](https://open.spotify.com/artist/5vSBtDDQkWN6uh8QtNGbmp) | [Can't Stop Loving You](https://open.spotify.com/album/4qKDPPao7cfkopnwhU7MG5) | 4:07 | 2026-03-16 | 2026-05-26 |
@@ -478,6 +479,7 @@
 | [Superstar](https://open.spotify.com/track/7KeNKunMRtD0kLDr0NpjDg) | [Valarie Hill](https://open.spotify.com/artist/5rPY7Ifiv1oaetOtv3vjid) | [Superstar](https://open.spotify.com/album/2gDQ8TbmYKJSnERvC8BMx0) | 2:30 | 2025-11-01 | 2025-12-01 |
 | [Supporting Character](https://open.spotify.com/track/1vjwH3e6jYKecVfZhJ1c6V) | [TJ Juganas](https://open.spotify.com/artist/77DKnEff4JNbAbkDqb61re) | [Supporting Character](https://open.spotify.com/album/7mvQ18bOXnbwaeFz7bIzHg) | 3:49 | 2025-12-23 | 2026-01-15 |
 | [Surfing to Nowhere](https://open.spotify.com/track/6PN45BwdFZexnyNNPWkxyg) | [fabiano matiolla](https://open.spotify.com/artist/1gSEoElmqiR2xGnMtTTqes) | [Surfing to Nowhere](https://open.spotify.com/album/1nitwAEcNvb5ejMda2TESx) | 4:31 | 2026-06-16 | 2026-08-08 |
+| [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2026-10-08 |  |
 | [Take A Lil' Time](https://open.spotify.com/track/1oVCeQADHIZKSb492xwk1S) | [Tristan Hutton](https://open.spotify.com/artist/6bXZTbs3GVfsdT6HyQVw2w) | [Take A Lil' Time](https://open.spotify.com/album/4RAQc3RTorlP1eLpWwmVFV) | 4:00 | 2026-05-08 | 2026-06-14 |
 | [Take Another Drag](https://open.spotify.com/track/148ES5Swi6aBxRxy1LIAeq) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Take Another Drag](https://open.spotify.com/album/0QujmIPiE087gdOoMYtBiX) | 4:12 | 2026-06-21 | 2026-08-08 |
 | [Take It Back](https://open.spotify.com/track/7t1BcudJWBTmceFz5Ysyd2) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU), [Ellie Rizoa](https://open.spotify.com/artist/6sRlVpjjeI0SCwmEr1ln6Q) | [Take It Back](https://open.spotify.com/album/1Y0Q205TSU0imtpxIDinzB) | 1:45 | 2026-09-29 |  |

@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Knox
 
-1,678 songs - 3 day 11 hr 51 min
+1,682 songs - 3 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Friends](https://open.spotify.com/track/1Vt4oAoHBIopxekC8KhT6X) | [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Friends](https://open.spotify.com/album/6OmzUBIzFkenjd3dJQhROK) | 2:50 | 2022-04-29 | 2022-07-30 |
 | [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 | 2023-12-01 | 2024-04-27 |
 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 | 2022-05-20 | 2022-08-20 |
+| [Fuck Without Feelings](https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Fuck Without Feelings](https://open.spotify.com/album/2krjzTsK934ywr7s3d693H) | 3:28 | 2026-10-09 |  |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-13 | 2022-07-30 |
 | [Future Us](https://open.spotify.com/track/6TKxCDEHbUlUCs38tKwnfx) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Future Us](https://open.spotify.com/album/5LJggheEEuJGis1xWkEkR3) | 3:09 | 2024-11-08 | 2025-01-25 |
 | [FYTY](https://open.spotify.com/track/53XQLHcvLkKAxTvz0Py1wC) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [FYTY](https://open.spotify.com/album/3Yp9S2bM34ia7nXn3qUcBX) | 2:52 | 2023-09-15 | 2024-01-05 |
@@ -677,6 +678,7 @@
 | [HOMESICK](https://open.spotify.com/track/1fffWiFwKibt8lvSlGz9SG) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Internet hometown hero](https://open.spotify.com/album/3YiqDcJoSTFWuHB87yVD8V) | 2:50 | 2025-02-07 | 2025-05-17 |
 | [Honey](https://open.spotify.com/track/3f9gj7aK0IIrbnJ6YHDqFj) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Honey](https://open.spotify.com/album/1JSVRjxJYEPHAuxU8YbWBO) | 2:33 | 2022-07-01 | 2022-08-27 |
 | [Honey \(I believe in us\)](https://open.spotify.com/track/0mVN8iLSLo85x3dIeHWz7C) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Second Wind](https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb) | 2:55 | 2022-01-07 | 2022-02-26 |
+| [HONEYMOON NIGHT](https://open.spotify.com/track/5qlaVYDcab5jX9CXTZQW32) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [HONEYMOON NIGHT](https://open.spotify.com/album/3fUva1Oq4K38WJKDA6RbNl) | 3:18 | 2026-10-09 |  |
 | [Hoodie](https://open.spotify.com/track/7HPQS5RYWTIRwJkbZwqsOo) | [Lost Stars](https://open.spotify.com/artist/22LWBhZGE9ycuFtLV6jJYG) | [Hoodie](https://open.spotify.com/album/5frplhom3CxlseF6wnqVw5) | 3:22 | 2022-04-29 | 2022-07-30 |
 | [Hooked](https://open.spotify.com/track/1PUfHBF7ggLkIqKl3aSvqR) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Hooked](https://open.spotify.com/album/01tWq0p3C8mTKpNleojMK3) | 2:24 | 2025-03-28 | 2025-06-28 |
 | [Horizons](https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Horizons](https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D) | 3:03 | 2023-03-03 | 2023-05-06 |
@@ -715,6 +717,7 @@
 | [I Don't Care](https://open.spotify.com/track/59hOaDEcmGb1ILfHJG5zOw) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [I Don't Care](https://open.spotify.com/album/2XLiR0W0Nj4nnO3yuDYU4d) | 3:26 | 2024-07-19 | 2024-08-17 |
 | [I Don't Daydream Anymore](https://open.spotify.com/track/2urI2TKhLqK3o4hTR3i2R8) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [I Don't Daydream Anymore](https://open.spotify.com/album/4EJ9SaQoI47rBKnNhxRXMQ) | 3:44 | 2022-03-04 | 2022-04-29 |
 | [I Don't Feel Alive](https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [I Don't Feel Alive](https://open.spotify.com/album/1WG4x5TpVKcN4oDBDeZuxa) | 3:23 | 2023-07-14 | 2023-09-16 |
+| [I DON'T GET HIGH ANYMORE](https://open.spotify.com/track/5OKiovXW0tIPVWi1LabZjm) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [I DON'T GET HIGH ANYMORE](https://open.spotify.com/album/3OJNGZlNNHae40lMnZITCP) | 2:52 | 2026-10-09 |  |
 | [I Don't Like How Much I Like You](https://open.spotify.com/track/7nDYjp6n0BdOLBn3N3N4Jx) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [I Don't Like How Much I Like You](https://open.spotify.com/album/3ae8vmYLjucBzAXPn9VRsH) | 2:44 | 2021-11-19 | 2022-02-26 |
 | [i don't wanna know!](https://open.spotify.com/track/66kF5Ga2ACocpDye1VGUkT) | [CALI JEWLS](https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH) | [i don't wanna know!](https://open.spotify.com/album/7JVlPexG814RJNVwftsP7R) | 3:39 | 2022-09-16 | 2022-09-24 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-06-10 | 2022-08-20 |
@@ -1156,7 +1159,7 @@
 | [plz don't waste my youth](https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [plz don't waste my youth](https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp) | 3:03 | 2022-01-21 | 2022-03-18 |
 | [POINT](https://open.spotify.com/track/4PV5tDS3UzQMsCzkoL9r0G) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [POINT](https://open.spotify.com/album/5WE9RMc0mVpSoycGLg8cOW) | 3:26 | 2022-03-25 | 2022-05-28 |
 | [pollen](https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [kids](https://open.spotify.com/album/3WKJ25ELBFdV796o45ger6) | 3:18 | 2025-10-10 | 2026-02-14 |
-| [Pool Water Confessions](https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Pool Water Confessions](https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88) | 3:26 | 2026-06-19 |  |
+| [Pool Water Confessions](https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Pool Water Confessions](https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88) | 3:26 | 2026-06-19 | 2026-10-09 |
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2022-03-11 | 2022-06-18 |
 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 | 2026-04-17 | 2026-06-27 |
 | [Potion](https://open.spotify.com/track/5MRvyJZtnXXTuWfEUIkSAS) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Potion](https://open.spotify.com/album/124qyryekaVBZATC3KjQHv) | 2:31 | 2022-04-29 | 2022-06-25 |
@@ -1183,6 +1186,7 @@
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-14 | 2025-08-23 |
 | [Remedy](https://open.spotify.com/track/7uaNfiYtYgxOpGbS1GTKWb) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Remedy](https://open.spotify.com/album/0WlUsnkWxzhxePhELUzxXO) | 3:33 | 2024-11-15 | 2025-01-25 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-01-15 |
+| [Rendezvous](https://open.spotify.com/track/7uVKsaboyMOXI8SUnVXE4D) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Rendezvous](https://open.spotify.com/album/0CNblkgX2Yk2XMJbgsinzd) | 2:44 | 2026-10-09 |  |
 | [Repeat Caller](https://open.spotify.com/track/69zIlo9KqVoQjenSCh10Wb) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Repeat Caller](https://open.spotify.com/album/4gmKqHoxwAaQw7meJMJ1Mz) | 2:21 | 2021-11-05 | 2022-01-22 |
 | [Replace Me](https://open.spotify.com/track/2WbIdh9RxH4V0xv465tQzQ) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Replace Me](https://open.spotify.com/album/5Z5eUGnz4aZrWjHJF5PBr5) | 3:17 | 2022-03-04 | 2022-04-29 |
 | [Reverse Psychology](https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Reverse Psychology](https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE) | 2:58 | 2026-08-28 |  |

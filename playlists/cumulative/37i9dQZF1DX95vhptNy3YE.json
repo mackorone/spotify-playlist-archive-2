@@ -310,7 +310,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 179669,
       "name": "2X (Os Caras da Rua) - Ao Vivo",
       "url": "https://open.spotify.com/track/0vb4oGpelS1gR3A8MSIcPR"
@@ -4292,6 +4292,32 @@
       "duration_ms": 228949,
       "name": "De Onde Eu Venho - Ao Vivo",
       "url": "https://open.spotify.com/track/5sBrPQKMisZePolGEXuGno"
+    },
+    {
+      "album": {
+        "name": "Dedo no Gatilho",
+        "url": "https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Dedo no Gatilho",
+      "url": "https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa"
     },
     {
       "album": {

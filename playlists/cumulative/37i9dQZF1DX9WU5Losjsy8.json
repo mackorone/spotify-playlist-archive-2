@@ -223,6 +223,28 @@
     },
     {
       "album": {
+        "name": "ALLES EGAL",
+        "url": "https://open.spotify.com/album/7kUflwzeSIHNIjhGtZLZfD"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "YAMAS",
+          "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152419,
+      "name": "ALLES EGAL",
+      "url": "https://open.spotify.com/track/5AoWNGYuP3rFkXsE8huqyj"
+    },
+    {
+      "album": {
         "name": "ANALYSiEREN",
         "url": "https://open.spotify.com/album/6LrbfDtYXHaAT4oiwa9LY2"
       },
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 145537,
       "name": "Halt die Fresse",
       "url": "https://open.spotify.com/track/5Gjwlx5Wh58Y5esbKaD9Na"
@@ -3633,6 +3655,24 @@
     },
     {
       "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/6YosSI2kLDAzlRBuC5CJeZ"
+      },
+      "artists": [
+        {
+          "name": "Fire Squad",
+          "url": "https://open.spotify.com/artist/3nSy50lLskY1Wi18ByMG6j"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146891,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/2Sq3FXXgA3GV3RCPfsRqzH"
+    },
+    {
+      "album": {
         "name": "Mamamia",
         "url": "https://open.spotify.com/album/4KrwEuyFgyXY3pRRpUH8O6"
       },
@@ -3648,7 +3688,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160500,
       "name": "Mamamia",
       "url": "https://open.spotify.com/track/37VkL6hCZGmNilosBkSCRf"

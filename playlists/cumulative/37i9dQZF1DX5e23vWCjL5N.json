@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Mirko in cover.",
+  "description": "Punchline, storytelling, rap italiano. Fibra e Neffa in cover.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -1899,6 +1899,42 @@
     },
     {
       "album": {
+        "name": "A MILANO",
+        "url": "https://open.spotify.com/album/0IjYusIHjDPk8wvUDlPcvW"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116770,
+      "name": "CALVAIRATE CALIFORNIA",
+      "url": "https://open.spotify.com/track/0hiYUfLiO0aQYDDUtDj3TZ"
+    },
+    {
+      "album": {
+        "name": "A MILANO",
+        "url": "https://open.spotify.com/album/0IjYusIHjDPk8wvUDlPcvW"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "CARICA",
+      "url": "https://open.spotify.com/track/2JcH8LNSJKBpZc2YJCKZnP"
+    },
+    {
+      "album": {
         "name": "Carta e Penna",
         "url": "https://open.spotify.com/album/2CdN2u4DtIi0LV39Fijpb5"
       },
@@ -1910,7 +1946,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160000,
       "name": "Carta e Penna",
       "url": "https://open.spotify.com/track/1Grn4LH75A31A8l2X5Y5mY"
@@ -2580,7 +2616,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 297000,
       "name": "Cronokillaz",
       "url": "https://open.spotify.com/track/2DwqLyYHC2yijGGy2kdvNU"
@@ -2676,6 +2712,28 @@
       "duration_ms": 189545,
       "name": "DA DENUNCIA (feat. Marracash)",
       "url": "https://open.spotify.com/track/1Mv57QiDL2gohIlONsIXBk"
+    },
+    {
+      "album": {
+        "name": "A MILANO",
+        "url": "https://open.spotify.com/album/0IjYusIHjDPk8wvUDlPcvW"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168881,
+      "name": "DA PALAZZO A PALAZZO (con Promessa)",
+      "url": "https://open.spotify.com/track/7seY4zshB3BNx70uLHqT6a"
     },
     {
       "album": {
@@ -3721,6 +3779,36 @@
     },
     {
       "album": {
+        "name": "JUNKIE MUSIK",
+        "url": "https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165170,
+      "name": "GHETTO DREAMS (feat. Gemitaiz, Joshua, Promessa)",
+      "url": "https://open.spotify.com/track/5Ff9Q1hOnovqQBYP3TN0mR"
+    },
+    {
+      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -3740,6 +3828,24 @@
       "duration_ms": 186733,
       "name": "GHIGLIOTTINA - feat. Noyz Narcos",
       "url": "https://open.spotify.com/track/01BCvCKQNDmFQQQSjrzPnm"
+    },
+    {
+      "album": {
+        "name": "Giardinetti con le bo",
+        "url": "https://open.spotify.com/album/55peAw2LzIQsrlbFj6O4hT"
+      },
+      "artists": [
+        {
+          "name": "Quentin40",
+          "url": "https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122262,
+      "name": "Giardinetti con le bo",
+      "url": "https://open.spotify.com/track/0tD81gUwgSAL6drrP0ty3t"
     },
     {
       "album": {
@@ -3852,7 +3958,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 156512,
       "name": "GRAVIT\u00c0",
       "url": "https://open.spotify.com/track/1zWSxFV9JWzCXzQO7n2KAk"
@@ -4682,6 +4788,32 @@
       "duration_ms": 164820,
       "name": "King Kong vs Godzilla",
       "url": "https://open.spotify.com/track/306vmTRFzxA32vDeEHISuq"
+    },
+    {
+      "album": {
+        "name": "JUNKIE MUSIK",
+        "url": "https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213452,
+      "name": "KOPI LUWAK (feat. Kid Yugi, Marracash)",
+      "url": "https://open.spotify.com/track/6ieM664umhAKbH2Te9FabJ"
     },
     {
       "album": {
@@ -6756,7 +6888,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 201016,
       "name": "ON FIRE",
       "url": "https://open.spotify.com/track/7fH0LbrfyMtQOHBH3Ctf5V"
@@ -7526,6 +7658,32 @@
       "duration_ms": 183000,
       "name": "Prima che",
       "url": "https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64"
+    },
+    {
+      "album": {
+        "name": "Zarathustra Style",
+        "url": "https://open.spotify.com/album/3KN1gTsh77BFtZpihwmff8"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Zarathustra",
+          "url": "https://open.spotify.com/artist/2Lt78oywHcF8WcFySOm42M"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194023,
+      "name": "Promesse di Agosto",
+      "url": "https://open.spotify.com/track/429afA52J1d4ME3vIbpu9u"
     },
     {
       "album": {
@@ -9150,7 +9308,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 206493,
       "name": "TOPBOY (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/0FvfjiQZ5vEO4XLGX5Uubk"
@@ -9453,6 +9611,28 @@
     },
     {
       "album": {
+        "name": "JUNKIE MUSIK",
+        "url": "https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "FreshMula",
+          "url": "https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "UNA PROMESSA (feat. FreshMula)",
+      "url": "https://open.spotify.com/track/1BcCVujbFWDXqyo7apQj7P"
+    },
+    {
+      "album": {
         "name": "Musica Triste",
         "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
       },
@@ -9704,6 +9884,32 @@
       "duration_ms": 218118,
       "name": "Vertigine Soggettiva",
       "url": "https://open.spotify.com/track/0zDVgdDEscFZveCA05m3f1"
+    },
+    {
+      "album": {
+        "name": "Zarathustra Style",
+        "url": "https://open.spotify.com/album/3KN1gTsh77BFtZpihwmff8"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Zarathustra",
+          "url": "https://open.spotify.com/artist/2Lt78oywHcF8WcFySOm42M"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161148,
+      "name": "Vertigini",
+      "url": "https://open.spotify.com/track/0wCKTJ6VvKlYEGmtMgsGVN"
     },
     {
       "album": {

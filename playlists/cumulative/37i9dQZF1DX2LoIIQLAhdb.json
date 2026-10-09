@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : DAKEEZ",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
   "name": "R&Bae",
   "tracks": [
     {
@@ -198,6 +198,24 @@
       "duration_ms": 134936,
       "name": "50 Gars",
       "url": "https://open.spotify.com/track/1B0jx8RVaD2cEvVwVCrAOW"
+    },
+    {
+      "album": {
+        "name": "A part moi",
+        "url": "https://open.spotify.com/album/0bMhxzmk8XyVmvNXbaluVZ"
+      },
+      "artists": [
+        {
+          "name": "Nosky",
+          "url": "https://open.spotify.com/artist/7qSkBZvkKMY7KodsIz7HQN"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "A part moi",
+      "url": "https://open.spotify.com/track/2msb4c0zY5HgAwgJdszksh"
     },
     {
       "album": {
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189794,
       "name": "BESTFRIEND",
       "url": "https://open.spotify.com/track/1wEsaatfIyOqB7c4bjiXpb"
@@ -1764,7 +1782,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 147840,
       "name": "C'est comment",
       "url": "https://open.spotify.com/track/5wu4i9BrgztpCv6XzgLtIl"
@@ -2092,7 +2110,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 187598,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/3hmS8qCuENsDJMYFniLS5n"
@@ -6220,7 +6238,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 131439,
       "name": "J'PENSE \u00c0 TOI",
       "url": "https://open.spotify.com/track/6jDCqvmPaMw8006fpbfmZx"
@@ -12321,6 +12339,28 @@
     },
     {
       "album": {
+        "name": "SENTIMENTS",
+        "url": "https://open.spotify.com/album/0UFDin9BI5vzBOBUYoY4N1"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "SENTIMENTS",
+      "url": "https://open.spotify.com/track/69c047hFRsd6uFND548cfD"
+    },
+    {
+      "album": {
         "name": "SENTIMENTS MOKO",
         "url": "https://open.spotify.com/album/4bzhx7YV31ShOyHjY33HhH"
       },
@@ -12738,6 +12778,28 @@
       "duration_ms": 267042,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3om5DCk22cCGm5ckz3c3HU"
+    },
+    {
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/0PfWw5LC4EA0LtkRzSlzJH"
+      },
+      "artists": [
+        {
+          "name": "Vicky R",
+          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
+        },
+        {
+          "name": "Singuila",
+          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164217,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/7gecqbq9bEbmrGWSUg7G7f"
     },
     {
       "album": {
@@ -13620,6 +13682,24 @@
       "duration_ms": 167000,
       "name": "TARD LE SOIR",
       "url": "https://open.spotify.com/track/5ts9jIqnVj36CC5CNY14rY"
+    },
+    {
+      "album": {
+        "name": "TASTY MON\u20acY",
+        "url": "https://open.spotify.com/album/6Zy4KwuMk0eo6LkNn3yxoD"
+      },
+      "artists": [
+        {
+          "name": "El Mvnolo",
+          "url": "https://open.spotify.com/artist/2o4gVgLrZwTpXTZvi6KZcS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113750,
+      "name": "TASTY MON\u20acY",
+      "url": "https://open.spotify.com/track/3nmO717fhPd3RHi1um3ddt"
     },
     {
       "album": {

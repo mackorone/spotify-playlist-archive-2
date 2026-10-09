@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "V\u00ednculos",
+        "url": "https://open.spotify.com/album/5ZthIfoml89EXwgmbfSzDt"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188380,
+      "name": "Am\u00e1s no poder",
+      "url": "https://open.spotify.com/track/5VKGZj4Kh0QziVgrfDdSc1"
+    },
+    {
+      "album": {
         "name": "NAFTA II",
         "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
       },
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 132044,
       "name": "Argentino yo soy",
       "url": "https://open.spotify.com/track/7KtIu5XQnhlBYE3nQWDeXs"
@@ -3830,6 +3848,24 @@
       "duration_ms": 115560,
       "name": "BRINCANDO",
       "url": "https://open.spotify.com/track/2rDr08hLBZLu4aVFKuQRuY"
+    },
+    {
+      "album": {
+        "name": "Diez a\u00f1os de Soledad",
+        "url": "https://open.spotify.com/album/3PAYI7EzSG51CpX9S80qxV"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "Brindis",
+      "url": "https://open.spotify.com/track/0s7VQGJmw6OEEaKbcA5es6"
     },
     {
       "album": {
@@ -6272,7 +6308,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 194949,
       "name": "De la A a la Z",
       "url": "https://open.spotify.com/track/1csNK00TYZCFiSZuCZxOAK"
@@ -9414,7 +9450,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 140000,
       "name": "FINGIA",
       "url": "https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA"
@@ -11857,6 +11893,24 @@
     },
     {
       "album": {
+        "name": "La Falda",
+        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "La Falda",
+      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
+    },
+    {
+      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -12164,7 +12218,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 137479,
       "name": "La Mala",
       "url": "https://open.spotify.com/track/5YckAHqUVvw9Xcgn5N2AH4"
@@ -14834,6 +14888,24 @@
       "duration_ms": 173573,
       "name": "ME GUSTAS CC",
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
+    },
+    {
+      "album": {
+        "name": "Me Mata",
+        "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186611,
+      "name": "Me Mata",
+      "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
     },
     {
       "album": {
@@ -20190,7 +20262,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 172072,
       "name": "Q Hubo Amor (Medell\u00edn)",
       "url": "https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8"
@@ -20660,7 +20732,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 197333,
       "name": "Quiero ser feliz tambien",
       "url": "https://open.spotify.com/track/69JT3b2gIzPSf7POUiBpdI"
@@ -22038,8 +22110,8 @@
           "url": "https://open.spotify.com/artist/7LNIbiKKGIMlw7GjgJlR0w"
         },
         {
-          "name": "Jugo!",
-          "url": "https://open.spotify.com/artist/5ZYhIxjmzSDGqD2kAXf22j"
+          "name": "JuicyNise",
+          "url": "https://open.spotify.com/artist/0MSw8gYA4pujLZst10Zve8"
         },
         {
           "name": "TAICHU",
@@ -22658,7 +22730,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 259500,
       "name": "Si Te Vas 2.0",
       "url": "https://open.spotify.com/track/69NUba8fukuax13XWCaXva"
@@ -23925,6 +23997,24 @@
     },
     {
       "album": {
+        "name": "Te Gustan Villeros",
+        "url": "https://open.spotify.com/album/15BVL7DsxXdPqqsLX6Vjzc"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Te Gustan Villeros",
+      "url": "https://open.spotify.com/track/1iaG7y15lWAQJ7m5h0Bl7s"
+    },
+    {
+      "album": {
         "name": "C\u00e1psula",
         "url": "https://open.spotify.com/album/6cvF4lgfLW7pI0XmwvLrab"
       },
@@ -24672,6 +24762,28 @@
       "duration_ms": 166500,
       "name": "tinta 90",
       "url": "https://open.spotify.com/track/4eiXf3HZDlrMxDNB1ahhpa"
+    },
+    {
+      "album": {
+        "name": "TKM",
+        "url": "https://open.spotify.com/album/1tV3Gow94mNLEHrOux2qTQ"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129071,
+      "name": "TKM",
+      "url": "https://open.spotify.com/track/6jT6IeSZeSYAl5edo7SpM6"
     },
     {
       "album": {
@@ -27172,6 +27284,24 @@
       "duration_ms": 294266,
       "name": "Viento",
       "url": "https://open.spotify.com/track/7teQAzSEf3wAM4VMI4jBxW"
+    },
+    {
+      "album": {
+        "name": "Vinyl",
+        "url": "https://open.spotify.com/album/6C5mHAL44Yif10gEKBNCrw"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273826,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/7djH6OT4AEblHs3zIYAmCP"
     },
     {
       "album": {

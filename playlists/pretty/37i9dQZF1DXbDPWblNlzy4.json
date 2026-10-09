@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Fabian",
-  "num_followers": 600167,
+  "num_followers": 600140,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFK9S2VnpHWftVaGTGVbYUmbWVkt",
+  "snapshot_id": "AAAAAJo/lqfvYT2lHxTBSXtsg4bFRt3Q",
   "tracks": [
     {
       "added_at": "2026-09-25 04:59:18",
@@ -143,6 +143,22 @@
       "duration_ms": 188347,
       "name": "Algo Cambiar\u00e1",
       "url": "https://open.spotify.com/track/2f60WcMHtB91W44LXFGc2y"
+    },
+    {
+      "added_at": "2026-10-09 04:59:29",
+      "album": {
+        "name": "Mujer me estas matando",
+        "url": "https://open.spotify.com/album/3CyVwbAOlkLESikxgGQqVH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "duration_ms": 163217,
+      "name": "Mujer me estas matando",
+      "url": "https://open.spotify.com/track/3yRZpzvjJjj4b9lXqiSf7G"
     },
     {
       "added_at": "2026-08-28 12:57:54",
@@ -735,26 +751,6 @@
       "duration_ms": 115007,
       "name": "Querida Yo",
       "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "Diamante",
-        "url": "https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 156467,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq"
     },
     {
       "added_at": "2026-01-30 04:59:23",

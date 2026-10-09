@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-437 songs - 19 hr 33 min
+441 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Aarhus](https://open.spotify.com/track/3EtQMeQ0OizN22bky9Nvyn) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Aarhus](https://open.spotify.com/album/5NFP5utJIVAevIcCl2Qh5X) | 2:37 | 2024-08-20 | 2026-05-23 |
 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-05-13 | 2023-02-25 |
 | [Across A Meadow](https://open.spotify.com/track/3RpkQpRRqEXeMGjrEUcBtd) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Across A Meadow](https://open.spotify.com/album/6PI4DxEtl5CokXt2ytYrHv) | 2:32 | 2024-05-10 |  |
+| [After Dinner](https://open.spotify.com/track/6u777tnIIIstDB4RjIsZPZ) | [Maude Clonet](https://open.spotify.com/artist/65bMWcpcLJpFbCTLgusJId) | [After Dinner](https://open.spotify.com/album/5BLtxqNvrmVh13imFnGk86) | 2:46 | 2026-10-09 |  |
 | [Afternoon hovers](https://open.spotify.com/track/7JaU9CgUhv6I6DqryPyg1C) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Afternoon hovers](https://open.spotify.com/album/2VMThT0iQUWcvbKm6OUOW7) | 2:26 | 2023-04-28 |  |
 | [Agate](https://open.spotify.com/track/0jSw2WmuvpZaZzbJpEhdui) | [Esther Heath](https://open.spotify.com/artist/0heT0cVuEFMR2TwLjIkXBR) | [Agate](https://open.spotify.com/album/6m6MYjcJWvX2PaBmfO28S0) | 3:04 | 2022-05-13 | 2022-07-22 |
 | [Alahazy Basin](https://open.spotify.com/track/01Whyc3tjloWGRTPoK8MKR) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Alahazy Basin](https://open.spotify.com/album/27fuxVWhEIMGis2Eu0hgk9) | 2:29 | 2022-10-07 | 2023-04-28 |
@@ -29,6 +30,7 @@
 | [Am Falkenstein](https://open.spotify.com/track/0bMMVhsfY09wf54alspNTR) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Am Falkenstein](https://open.spotify.com/album/6hAKjATeeoNdkm5Q2WwR1z) | 3:44 | 2024-01-12 |  |
 | [Am Flussufer](https://open.spotify.com/track/4EDCWd1sxAhOgO17vKHA9k) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 3:58 | 2022-05-13 | 2022-07-22 |
 | [Amanda's Rose](https://open.spotify.com/track/7irnzCCAnHTmWyH8KfIp2j) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Amanda's Rose](https://open.spotify.com/album/7qFUeny2ZIqb4hMfs7JyzV) | 1:55 | 2023-04-28 | 2023-09-16 |
+| [Amanecer Sereno](https://open.spotify.com/track/4UwpjVQzccjTdpCUaZVImJ) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Amanecer Sereno](https://open.spotify.com/album/1qv1Rz8qnlHJ5xqGcRkSYL) | 2:17 | 2026-10-09 |  |
 | [Amélie](https://open.spotify.com/track/3UJXklI85LVB6bCpRZQZCY) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Amélie](https://open.spotify.com/album/7xaUjbI6MgKUehUXsDG30b) | 1:54 | 2023-06-09 | 2023-09-16 |
 | [Another Leaf](https://open.spotify.com/track/0CzM7froYjfbB56bFsBNY8) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Another Leaf](https://open.spotify.com/album/3fiTlU4wha48xQxwGdX4gD) | 2:18 | 2024-10-15 |  |
 | [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-04-28 |  |
@@ -69,6 +71,7 @@
 | [Brooke's Path](https://open.spotify.com/track/6IrsZTFv2PMsRbYLhtpBur) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Brooke's Path](https://open.spotify.com/album/05aFINCNicADeoVTXnMpRh) | 3:04 | 2023-11-24 | 2026-05-23 |
 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 | 2022-05-13 | 2024-04-06 |
 | [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 | 2024-01-12 |  |
+| [Burgundy](https://open.spotify.com/track/6XZ98HdHpwjo3iLZFDGv0P) | [Danny Chin](https://open.spotify.com/artist/5qw91fPAD0213gvhIBqNyg) | [Burgundy](https://open.spotify.com/album/7v79j8EHV9zqQY9CTeLVMC) | 2:52 | 2026-10-09 |  |
 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 | 2022-05-13 | 2022-05-27 |
 | [By Your Side](https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 3:11 | 2022-05-13 | 2023-09-16 |
 | [Caledonia](https://open.spotify.com/track/7p22ATtUa29n9ME9rvoaLZ) | [Selena Dominguez](https://open.spotify.com/artist/2NixYvC1pTi52NazQO8zq6) | [Caledonia](https://open.spotify.com/album/4g2vl00ThtZT3xQW8BJIdz) | 3:28 | 2022-05-13 | 2024-05-10 |
@@ -171,6 +174,7 @@
 | [Homestead](https://open.spotify.com/track/7qYUD2UF8MOfUcNVG11EEi) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Homestead](https://open.spotify.com/album/66UkkdvSmgLSC2wk5X3wdO) | 3:00 | 2025-11-24 |  |
 | [homestretch](https://open.spotify.com/track/6X7sxHLt8IMSUeqnw5T8dT) | [Brooke Osmanski](https://open.spotify.com/artist/1feAma94YsixyNehcnalFA) | [away from the city](https://open.spotify.com/album/6V0gpmoSXFlimu7tHH0fmM) | 2:39 | 2022-05-13 | 2022-10-07 |
 | [Homeward Bound](https://open.spotify.com/track/0lYg3OQQYSoN4Nb9eoiul9) | [Jonah Heather](https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD) | [Homeward Bound](https://open.spotify.com/album/45HAU1pimjqNplCRelIKHG) | 2:51 | 2026-03-30 |  |
+| [Horizon Line](https://open.spotify.com/track/0RADaFmxOgnXdRPHANVqVE) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Horizon Line](https://open.spotify.com/album/0IVzFddJiQi4eJMZ5kA6am) | 2:25 | 2026-10-09 |  |
 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 | 2024-04-05 |  |
 | [Humanity](https://open.spotify.com/track/63fUv69s1wq0R9YiK4Yu7w) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [Humanity](https://open.spotify.com/album/4rGxFiqITTWo4UgyReM3vA) | 2:14 | 2026-03-30 |  |
 | [Hummingbirds](https://open.spotify.com/track/2810NQ7JzSiWNnw4FR2wcG) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Hummingbirds](https://open.spotify.com/album/6Y8ZwQynXvimAfa6r1qZdp) | 2:16 | 2022-12-23 | 2024-04-06 |

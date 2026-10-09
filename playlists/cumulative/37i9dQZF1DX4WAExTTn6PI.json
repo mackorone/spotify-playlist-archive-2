@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover: Lawrence Rothman",
+  "description": "Rising voices, enduring roots. Cover: Margo Cilker",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 240425,
       "name": "Believing",
       "url": "https://open.spotify.com/track/7xaa764VHfmidbR2nKxQFE"
@@ -3267,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Hum of the City",
+        "url": "https://open.spotify.com/album/4IjtQ8YeWE25n0C7LzcGGG"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268085,
+      "name": "Hum of the City",
+      "url": "https://open.spotify.com/track/1ECU2GtMGdPotuTRm0zgmX"
+    },
+    {
+      "album": {
         "name": "Headwaters",
         "url": "https://open.spotify.com/album/6u5YquFfQ1mmq2e4G9utZo"
       },
@@ -4378,7 +4396,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 209983,
       "name": "Little White Cross",
       "url": "https://open.spotify.com/track/1uCws3lKIeD6lip2CbFY2h"
@@ -5416,7 +5434,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 212675,
       "name": "Old Side of Being Young",
       "url": "https://open.spotify.com/track/5XLONjHc6vympMVo1q5vHP"
@@ -6242,7 +6260,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 208586,
       "name": "Run to the Water",
       "url": "https://open.spotify.com/track/3E8e0j1OybxxXzpNO3tlYL"
@@ -6627,6 +6645,24 @@
     },
     {
       "album": {
+        "name": "Permanent Change (Part 1)",
+        "url": "https://open.spotify.com/album/2PJpD1JdjDHsFBRLE7Iv7c"
+      },
+      "artists": [
+        {
+          "name": "Matt Pond PA",
+          "url": "https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144021,
+      "name": "Soda Gun",
+      "url": "https://open.spotify.com/track/1z3v71kUlxYFn2Xzp3JKej"
+    },
+    {
+      "album": {
         "name": "Golden State",
         "url": "https://open.spotify.com/album/1wKjZTg1gPmXWmcO79GVwn"
       },
@@ -6790,6 +6826,24 @@
       "duration_ms": 220093,
       "name": "Stable",
       "url": "https://open.spotify.com/track/5sqlkchsxFLVxAirgd8dqY"
+    },
+    {
+      "album": {
+        "name": "Little White Cross",
+        "url": "https://open.spotify.com/album/1O7R2ckC71YXrW4zvqupcA"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194021,
+      "name": "State Line",
+      "url": "https://open.spotify.com/track/7iksHvaw7ymLVqsR51IFGG"
     },
     {
       "album": {
@@ -7064,6 +7118,24 @@
       "duration_ms": 194373,
       "name": "Surfboard",
       "url": "https://open.spotify.com/track/6vOCld6YP52WjVal0LoVii"
+    },
+    {
+      "album": {
+        "name": "Suzie's Beach",
+        "url": "https://open.spotify.com/album/0CDLPygNLJNof1lvkXHmwK"
+      },
+      "artists": [
+        {
+          "name": "Braden Lam",
+          "url": "https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220933,
+      "name": "Suzie's Beach",
+      "url": "https://open.spotify.com/track/1Z7rGkGfCIuPM2RWeF5pdo"
     },
     {
       "album": {
@@ -8564,7 +8636,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 231473,
       "name": "Worry",
       "url": "https://open.spotify.com/track/5bcTwzac2ceNRMXuy171n5"
@@ -8676,6 +8748,24 @@
       "duration_ms": 174918,
       "name": "Your Whisper",
       "url": "https://open.spotify.com/track/1OnnvgXF8Dm4IBVqitmi8L"
+    },
+    {
+      "album": {
+        "name": "Zeitgeist",
+        "url": "https://open.spotify.com/album/69uoex1maETxweGIyrjn0X"
+      },
+      "artists": [
+        {
+          "name": "Kindred Valley",
+          "url": "https://open.spotify.com/artist/7jc85d1zr5kt3aBXYJ0OZy"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142870,
+      "name": "Zeitgeist",
+      "url": "https://open.spotify.com/track/4mcMXsDtRB4ORmIXtuSu0b"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI"

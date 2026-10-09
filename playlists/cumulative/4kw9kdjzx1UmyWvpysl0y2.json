@@ -25435,6 +25435,28 @@
     },
     {
       "album": {
+        "name": "Ur Type",
+        "url": "https://open.spotify.com/album/3g4RWamGskqSzdnZoQxA7f"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        },
+        {
+          "name": "Abby Bella May",
+          "url": "https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187710,
+      "name": "Ur Type",
+      "url": "https://open.spotify.com/track/5M5M46CVUNdgihQOxlIcI7"
+    },
+    {
+      "album": {
         "name": "Use My Love",
         "url": "https://open.spotify.com/album/6mUYOidMG0daxdNmMLVdVh"
       },

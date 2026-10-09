@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: KAPO\. Artwork: Isu Kim
 
-544 songs - 1 day 4 hr 31 min
+545 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [A7LAM](https://open.spotify.com/track/3jbYNSnx1vFpcA7KkLe9O3) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh) | [A7LAM](https://open.spotify.com/album/0xT0gItY4yBFkBofDdYJGf) | 2:40 | 2024-08-13 | 2024-11-27 |
 | [Aadi](https://open.spotify.com/track/4TVVx3bzRfcFLB1U4Zfz2H) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Aadi](https://open.spotify.com/album/5XmwW8gJIcjsUM771uXqNP) | 3:45 | 2024-10-01 | 2025-02-18 |
 | [Aalam Al Ahlam](https://open.spotify.com/track/5qC4xHoM6d1cKUTG22ONOp) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc) | [Aalam Al Ahlam](https://open.spotify.com/album/0Bpu81JbeYcjSDdlk17Wwy) | 5:01 | 2024-04-30 | 2024-08-14 |
+| [ACHNO LI DRK](https://open.spotify.com/track/6C8ialYQnNsrGAR7n2MRIf) | [IICYEE](https://open.spotify.com/artist/1IqwhszLHhFGS0yhhOiMLt), [Tal6y](https://open.spotify.com/artist/6gEitKikyabt7MFT0rCpFe) | [ACHNO LI DRK](https://open.spotify.com/album/67PM7r9xeoVfJooT3434qW) | 2:17 | 2026-10-08 |  |
 | [AD KALAMI](https://open.spotify.com/track/1qWPluFaHkzQPGwP7LuehO) | [JUNIOR](https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv) | [AD KALAMI](https://open.spotify.com/album/4SguTAovECiutkq4lfOs3o) | 2:57 | 2026-07-01 | 2026-08-12 |
 | [Ad3i](https://open.spotify.com/track/7gUPXOyNzWB3AVIHkZ0hDt) | [Esra](https://open.spotify.com/artist/3n7kNeG8hcdoPSLDSPMne5) | [Ad3i](https://open.spotify.com/album/6mU2iJOgc4uFmZCeXg5ksP) | 3:16 | 2024-04-30 | 2024-08-14 |
 | [Afkar Galbi](https://open.spotify.com/track/17oyrFSekVUCCx4YoFhsGR) | [Ghada Sheri](https://open.spotify.com/artist/7c1eMleZFWsvk2Z0PCrai0) | [Afkar Galbi](https://open.spotify.com/album/75PZWlpBqgRcZa1LHCSmvk) | 4:32 | 2022-09-20 | 2022-11-09 |
@@ -44,7 +45,7 @@
 | [alwan](https://open.spotify.com/track/4CsrJAOj9SEEFbWWmwyC9U) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [daydreamer](https://open.spotify.com/album/7lu9PAgEM5XqPLrU0hi8wA) | 2:40 | 2023-01-24 | 2023-05-24 |
 | [Ambeh امبيه \(feat\. Alaa Al Hendi\)](https://open.spotify.com/track/412ibG77hNWzLkA8zEujw0) | [Etaf](https://open.spotify.com/artist/5clXopy7sGJ8Dniaj2Uu21), [Alaa Al Hendi](https://open.spotify.com/artist/6r7at5fcu4jX0fRlZEyOxn) | [Ambeh امبيه](https://open.spotify.com/album/1I9JjN2RM4nHGdESo5hMNq) | 3:13 | 2026-04-01 |  |
 | [Ana Liwahdi](https://open.spotify.com/track/0EK0ey4WkCvAKmGXLpNKhz) | [Norhan](https://open.spotify.com/artist/4GEoaIvEquHnb4yy28scNj) | [Ana Liwahdi](https://open.spotify.com/album/7BS2EcRkNWbRDQlOS2rWro) | 3:15 | 2024-09-11 | 2024-11-27 |
-| [ANA O YAK](https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy) | [NA NADIN](https://open.spotify.com/artist/3MavIKLm4WaqPiHyNRouxK) | [HOB CYCLE](https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo) | 3:03 | 2025-05-15 |  |
+| [ANA O YAK](https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy) | [NA NADIN](https://open.spotify.com/artist/3MavIKLm4WaqPiHyNRouxK) | [HOB CYCLE](https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo) | 3:03 | 2025-05-15 | 2026-10-09 |
 | [annoying](https://open.spotify.com/track/7E7OEz8Pe7h92jotkdKFgN) | [Raad Barhoush](https://open.spotify.com/artist/0sZ9TETarthZmQqqJY2KII) | [annoying](https://open.spotify.com/album/1MTScNFunNBwxgJkO9tZEv) | 2:24 | 2023-08-01 | 2024-05-01 |
 | [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [Papii](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 | 2022-11-01 | 2023-01-18 |
 | [Aroma عبير](https://open.spotify.com/track/0uaGiRPEILWQbamtwPmtVb) | [TheSaif](https://open.spotify.com/artist/6wE2ow6Lhp2eO5t71wygwA) | [Aroma عبير](https://open.spotify.com/album/1ZuKymhfVlambrhftRjWRJ) | 4:02 | 2023-01-17 | 2023-06-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Jasiek Piwowarczyk",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Natalia Nykiel",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -826,6 +826,28 @@
       "duration_ms": 138600,
       "name": "B012",
       "url": "https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt"
+    },
+    {
+      "album": {
+        "name": "Bal",
+        "url": "https://open.spotify.com/album/6Y5HzYbeRvT9Q4XMa7mtcg"
+      },
+      "artists": [
+        {
+          "name": "Enej",
+          "url": "https://open.spotify.com/artist/5Dhx2Dt5jkQDTORznqwjo0"
+        },
+        {
+          "name": "Bum Bum Orkestar",
+          "url": "https://open.spotify.com/artist/0mPU1XpweZUITAuZr48Shg"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201312,
+      "name": "Bal",
+      "url": "https://open.spotify.com/track/5WtlDQwnm4aAhMjT6LRhor"
     },
     {
       "album": {
@@ -1949,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "b\u0119dziesz tu tylko raz",
+        "url": "https://open.spotify.com/album/5stKoETF3L7AnCrJXP6gZL"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180230,
+      "name": "b\u0119dziesz tu tylko raz",
+      "url": "https://open.spotify.com/track/2iO0vk3hMDGC0UrT9Q2mIB"
+    },
+    {
+      "album": {
         "name": "B\u0142\u0119kit",
         "url": "https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM"
       },
@@ -2116,7 +2156,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160298,
       "name": "Ca\u0142y blok",
       "url": "https://open.spotify.com/track/2IWkZjuxbqsp6JsecyES42"
@@ -5506,7 +5546,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 155328,
       "name": "Gra - Radio Edit",
       "url": "https://open.spotify.com/track/4nsECoywt0kNWIKXruoWGT"
@@ -6885,6 +6925,24 @@
     },
     {
       "album": {
+        "name": "Obrazek z czarnym t\u0142em",
+        "url": "https://open.spotify.com/album/2bF1lEPIKPyvFM1dXMqzql"
+      },
+      "artists": [
+        {
+          "name": "Filip Lato",
+          "url": "https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Jutro",
+      "url": "https://open.spotify.com/track/0BC14uOhdM7UZn5LkwdiAQ"
+    },
+    {
+      "album": {
         "name": "Kalejdoskop",
         "url": "https://open.spotify.com/album/55ZJO1R3deCKe2aDItl9e3"
       },
@@ -7706,7 +7764,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 152213,
       "name": "Kr\u0119ci si\u0119 ziemia",
       "url": "https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g"
@@ -8800,7 +8858,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188678,
       "name": "Mallorca",
       "url": "https://open.spotify.com/track/2IlQ0htKldBlQ19xFmbYbJ"
@@ -9354,6 +9412,24 @@
       "duration_ms": 172361,
       "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
       "url": "https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp"
+    },
+    {
+      "album": {
+        "name": "Mimo najlepszych ch\u0119ci",
+        "url": "https://open.spotify.com/album/51a9Vx7LSsQ43Q4fyiSueg"
+      },
+      "artists": [
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237777,
+      "name": "Mimo najlepszych ch\u0119ci",
+      "url": "https://open.spotify.com/track/0qqOZcLqriEbeUPYWyIaRO"
     },
     {
       "album": {
@@ -17285,6 +17361,24 @@
     },
     {
       "album": {
+        "name": "Kr\u00f3tkie historie o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/50aXF0h2XmeO7w583rbmHt"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205641,
+      "name": "To jest to!",
+      "url": "https://open.spotify.com/track/5o6Pd2SiqYSdM1wSRwFeD4"
+    },
+    {
+      "album": {
         "name": "To ju\u017c nie m\u00f3j dom",
         "url": "https://open.spotify.com/album/4kpQ5BagVgL1jo2SKrkMfC"
       },
@@ -17430,6 +17524,28 @@
       "duration_ms": 145811,
       "name": "to nieprawda, \u017ce nie lubisz r\u00f3\u017c ;**",
       "url": "https://open.spotify.com/track/5xskLtosDcTGusD4WZ4TFc"
+    },
+    {
+      "album": {
+        "name": "To tylko ci\u0105g dalszy",
+        "url": "https://open.spotify.com/album/5HkUUSbCZBhQximv8HlwSL"
+      },
+      "artists": [
+        {
+          "name": "Natalia Nykiel",
+          "url": "https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "To tylko ci\u0105g dalszy",
+      "url": "https://open.spotify.com/track/2zHH64FbFrCpLq4DwiYllu"
     },
     {
       "album": {
@@ -20538,7 +20654,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 185413,
       "name": "Zosta\u0144",
       "url": "https://open.spotify.com/track/6ypf1R1ZifkAD48fKQ86VV"
@@ -20766,7 +20882,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 158666,
       "name": "Z\u0141Y",
       "url": "https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6"

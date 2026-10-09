@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "Barebones",
+        "url": "https://open.spotify.com/album/1B86dpWBr8KajNzOHk27iB"
+      },
+      "artists": [
+        {
+          "name": "MKTM",
+          "url": "https://open.spotify.com/artist/0OLjwojWrPQT1pQY8lUGKf"
+        },
+        {
+          "name": "W \u039b R D",
+          "url": "https://open.spotify.com/artist/129wGdcEc9j1b9YEkvX50O"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268656,
+      "name": "Barebones",
+      "url": "https://open.spotify.com/track/2aWzmqndr6lsVJqqQkuaWa"
+    },
+    {
+      "album": {
         "name": "Beautiful Life",
         "url": "https://open.spotify.com/album/4gm2ra9K1zYB21USPZxLKv"
       },

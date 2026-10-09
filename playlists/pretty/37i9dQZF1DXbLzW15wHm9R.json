@@ -1,13 +1,29 @@
 {
   "description": "Original and synced songs that stay with you long after the credits roll... Cover: Spider-Man: Brand New Day.",
-  "num_followers": 167823,
+  "num_followers": 167868,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABOnHQJ6HqUShSX2KKm35OEr+S0t",
+  "snapshot_id": "AAAAAILkKCBESIdKjXmK2PPd3mt3cHmY",
   "tracks": [
+    {
+      "added_at": "2026-10-09 04:01:45",
+      "album": {
+        "name": "hopeless romantic",
+        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
+    },
     {
       "added_at": "2026-10-02 04:00:11",
       "album": {
@@ -43,6 +59,22 @@
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+    },
+    {
+      "added_at": "2026-10-08 15:49:05",
+      "album": {
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
     },
     {
       "added_at": "2026-09-26 04:37:52",
@@ -81,6 +113,26 @@
       "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
     },
     {
+      "added_at": "2026-10-09 04:01:45",
+      "album": {
+        "name": "Into The Deep (Seas Cry) (feat. Hans Zimmer)",
+        "url": "https://open.spotify.com/album/2KKZXr6Twmqw9EKnwq2ee5"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 280493,
+      "name": "Into The Deep (Seas Cry) (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/77JHNAiiLsSDwgAJGiPqby"
+    },
+    {
       "added_at": "2026-09-18 04:02:52",
       "album": {
         "name": "Nilsson Schmilsson",
@@ -113,6 +165,22 @@
       "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
+      "added_at": "2026-10-09 04:01:45",
+      "album": {
+        "name": "Seriously (From the FX Series The Shards)",
+        "url": "https://open.spotify.com/album/1Vjv6elK1zzFtKibcD3JpR"
+      },
+      "artists": [
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "duration_ms": 153603,
+      "name": "Seriously (From the FX Series The Shards)",
+      "url": "https://open.spotify.com/track/27YYAcHQEW9alwLYAxjmBg"
+    },
+    {
       "added_at": "2026-09-18 04:02:52",
       "album": {
         "name": "SABLE, fABLE",
@@ -143,6 +211,26 @@
       "duration_ms": 180116,
       "name": "Caught Myself Believing",
       "url": "https://open.spotify.com/track/3PU9R1MbG4OMCuvDMbyvmA"
+    },
+    {
+      "added_at": "2026-10-09 04:01:45",
+      "album": {
+        "name": "Let Me Sell You A Dream",
+        "url": "https://open.spotify.com/album/1cLJiBmBQSYETuepZHyQFx"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "duration_ms": 185253,
+      "name": "Let Me Sell You A Dream",
+      "url": "https://open.spotify.com/track/5Sdbyz01H19kJpvB2Bv0JK"
     },
     {
       "added_at": "2026-09-18 04:02:52",
@@ -211,6 +299,26 @@
       "duration_ms": 187466,
       "name": "Krunk",
       "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
+    },
+    {
+      "added_at": "2026-10-09 04:01:45",
+      "album": {
+        "name": "Heartland (Song from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0ADLChjzKMNRmBO4ToHKqw"
+      },
+      "artists": [
+        {
+          "name": "Jessica Chastain",
+          "url": "https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF"
+        },
+        {
+          "name": "Jennifer Nettles",
+          "url": "https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Heartland - Song from the Netflix Film",
+      "url": "https://open.spotify.com/track/1VdCYm6JgJRGQwdtQA6Bqh"
     },
     {
       "added_at": "2026-05-01 16:40:44",
@@ -617,54 +725,6 @@
       "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
     },
     {
-      "added_at": "2026-05-15 18:58:46",
-      "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/4stLFHAPs5H3vnd9iU5l11"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 172903,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/4w2tZUs63YQeIFhKSCScJ7"
-    },
-    {
-      "added_at": "2026-05-08 04:00:26",
-      "album": {
-        "name": "Original Sound (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2bYYwd6JUXqv158IClqhQx"
-      },
-      "artists": [
-        {
-          "name": "Laura Marano",
-          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "Hard Part",
-      "url": "https://open.spotify.com/track/71BsK28ROXzJWOEkfkpQe4"
-    },
-    {
-      "added_at": "2026-04-06 02:33:10",
-      "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq"
-      },
-      "artists": [
-        {
-          "name": "Anne Hathaway",
-          "url": "https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x"
-        }
-      ],
-      "duration_ms": 189859,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6"
-    },
-    {
       "added_at": "2026-04-06 02:33:10",
       "album": {
         "name": "Criminal (From the Original Motion Picture Scream 7)",
@@ -737,38 +797,6 @@
       "url": "https://open.spotify.com/track/2UJ5jlXlRkBx4dyVGIEGc0"
     },
     {
-      "added_at": "2026-05-01 16:40:44",
-      "album": {
-        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
-      },
-      "artists": [
-        {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Evergreen Avenue",
-      "url": "https://open.spotify.com/track/3gqQj7QUW3azBS5Pl39t7t"
-    },
-    {
-      "added_at": "2026-04-06 02:33:10",
-      "album": {
-        "name": "Wuthering Heights",
-        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 213811,
-      "name": "Funny Mouth",
-      "url": "https://open.spotify.com/track/1lTp6SSihcLUxoiTPUJ6lA"
-    },
-    {
       "added_at": "2026-04-06 02:33:10",
       "album": {
         "name": "Dookie",
@@ -783,42 +811,6 @@
       "duration_ms": 181533,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
-    },
-    {
-      "added_at": "2026-04-06 02:33:10",
-      "album": {
-        "name": "Need Someone (From The MAX Original Series The Pitt)",
-        "url": "https://open.spotify.com/album/4K91dy4NsoFp2rk2QvDkMi"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Gavin Brivik",
-          "url": "https://open.spotify.com/artist/1Bmvy1kf1fNMyGNWchCQXn"
-        }
-      ],
-      "duration_ms": 117866,
-      "name": "Need Someone - From The MAX Original Series The Pitt",
-      "url": "https://open.spotify.com/track/4StTDHHZMHhRS3e1UcFZNS"
-    },
-    {
-      "added_at": "2026-04-06 02:33:10",
-      "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "When Doves Cry",
-      "url": "https://open.spotify.com/track/6sby78fghipoXHQLeeZFFH"
     },
     {
       "added_at": "2026-04-06 02:33:10",

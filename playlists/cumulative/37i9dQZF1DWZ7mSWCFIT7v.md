@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-641 songs - 2 day 3 hr 16 min
+642 songs - 2 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [ALDDE](https://open.spotify.com/track/2NojgMIs2Rsa3YVx8R71W8) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [ALDDE](https://open.spotify.com/album/04vUUu7TRAGPlLg5SNVYsL) | 10:00 | 2022-02-25 | 2025-07-17 |
 | [All In](https://open.spotify.com/track/3u5huRtnox7Os36mlprQDG) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Strictly J](https://open.spotify.com/album/1i7MZibzXPRT5qrxiZuhVy) | 7:04 | 2021-10-06 | 2022-07-06 |
 | [All That Falls Apart](https://open.spotify.com/track/5Nql4POlmj3M1qSattLpdn) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [James Massiah](https://open.spotify.com/artist/6xRjR59QNFtWqg9tUKvFc9) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 3:15 | 2025-10-10 | 2026-03-14 |
-| [Always Cosmic](https://open.spotify.com/track/4ulfkYC7bFai73iQZxvwlc) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Always Cosmic](https://open.spotify.com/album/6upoedkcamo2xXXcO1peQU) | 5:13 | 2026-07-10 |  |
+| [Always Cosmic](https://open.spotify.com/track/4ulfkYC7bFai73iQZxvwlc) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Always Cosmic](https://open.spotify.com/album/6upoedkcamo2xXXcO1peQU) | 5:13 | 2026-07-10 | 2026-10-09 |
 | [Amor](https://open.spotify.com/track/2WpH0prggUSJDJnpeItMep) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Amor/Seasonal FX](https://open.spotify.com/album/3MQmXy3mHKBBCwDHbBCSNY) | 5:08 | 2021-10-06 | 2025-07-17 |
 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 | 2022-03-09 | 2025-07-17 |
 | [An Afterlife](https://open.spotify.com/track/26q4fCHR0YmFzH1KkUUYaJ) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Gentle Hum](https://open.spotify.com/album/5sKfGxxb7WTZFAq0a4VE1p) | 2:50 | 2026-04-24 |  |
@@ -272,6 +272,7 @@
 | [Influence](https://open.spotify.com/track/1s3A3iAQhwPlF2DelUaUtW) | [Patche](https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1) | [Mode](https://open.spotify.com/album/7gHswqh67CTFgQos3JlbN6) | 2:42 | 2025-10-17 | 2026-08-15 |
 | [Inking](https://open.spotify.com/track/6t5VbkwZhW0O7lNoUVX4Gf) | [Sweepsculp](https://open.spotify.com/artist/163prHBUW8VxZro1kWaLDt) | [Sweepsculp](https://open.spotify.com/album/3CwyI5ld8x6WbgdfBtJABx) | 4:06 | 2021-10-06 | 2025-07-17 |
 | [Insight](https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Insight](https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5) | 4:53 | 2021-10-06 | 2025-07-17 |
+| [Intent](https://open.spotify.com/track/2QSnHZ7gs8V1b1d2PLzbQ6) | [JAKE BACK](https://open.spotify.com/artist/7I7qQivsylYuJBN0IESUmi) | [Intent](https://open.spotify.com/album/18TzmwEJuQP0QI5zOofsyW) | 3:47 | 2026-10-09 |  |
 | [It's Like Kissing Someone Else](https://open.spotify.com/track/4jyCmobzO6ASJMGSBm7dy0) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Loud Ambient 2](https://open.spotify.com/album/0TnumEXevbJYznotwV3F9f) | 5:08 | 2026-04-10 | 2026-08-28 |
 | [Itan](https://open.spotify.com/track/1joDf8n61wH3eLcAql8sPT) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Itan](https://open.spotify.com/album/6NdvZhanOq43OeGqQzJfEs) | 6:56 | 2021-10-06 | 2025-07-17 |
 | [Ja Gu De](https://open.spotify.com/track/0dEngkBy9DrhNJitGkfY13) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Nondualism](https://open.spotify.com/album/4Z3wdX8L4tOLbSS2wLAu42) | 4:14 | 2026-09-25 |  |

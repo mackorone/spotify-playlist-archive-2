@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define, but easy to love. Cover: Logic1000",
+  "description": "Music that's hard to define, but easy to love. Cover: Yes Boone",
   "name": "Front Left",
   "tracks": [
     {
@@ -240,6 +240,24 @@
       "duration_ms": 141991,
       "name": "2009 TOYOTA",
       "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
+    },
+    {
+      "album": {
+        "name": "2012",
+        "url": "https://open.spotify.com/album/3bZoExKBs8JLe7B7noMx79"
+      },
+      "artists": [
+        {
+          "name": "mieke?",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261083,
+      "name": "2012",
+      "url": "https://open.spotify.com/track/5RBbe6PpE5x3CwFIGxdaC4"
     },
     {
       "album": {
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 229760,
       "name": "All The Rage",
       "url": "https://open.spotify.com/track/3pwC4DncVP3y1SX06IFsxD"
@@ -6118,7 +6136,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 208875,
       "name": "Coats",
       "url": "https://open.spotify.com/track/2ck5LysJdg1BbMqaLzr0XT"
@@ -10027,6 +10045,24 @@
     },
     {
       "album": {
+        "name": "Extra Time",
+        "url": "https://open.spotify.com/album/0qwtFpkWPaiMG2wh9Zf5yw"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214967,
+      "name": "Extra Time",
+      "url": "https://open.spotify.com/track/0UHNfLj6mQL2kz2qZT5mfC"
+    },
+    {
+      "album": {
         "name": "Eyes Ahead",
         "url": "https://open.spotify.com/album/3AOFSx3AIef1h5ImGFUccY"
       },
@@ -10954,6 +10990,28 @@
       "duration_ms": 215463,
       "name": "Florida!!! (feat. Florence + The Machine)",
       "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
+    },
+    {
+      "album": {
+        "name": "Flotando",
+        "url": "https://open.spotify.com/album/36kRGiJXMvdfUeHTqWgB5S"
+      },
+      "artists": [
+        {
+          "name": "Cherry Chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237623,
+      "name": "Flotando",
+      "url": "https://open.spotify.com/track/0sil8cOyRbfgEacLt771GW"
     },
     {
       "album": {
@@ -16211,6 +16269,24 @@
     },
     {
       "album": {
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337715,
+      "name": "If You Turn Back Now - Live at Carnegie Hall",
+      "url": "https://open.spotify.com/track/0v0BMYE3RHQI8vANQRCGd6"
+    },
+    {
+      "album": {
         "name": "ifyoulikeitlikethat",
         "url": "https://open.spotify.com/album/5gIagpf6GQbM6IenHhXwt5"
       },
@@ -17166,7 +17242,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 246440,
       "name": "Joe Drives Again",
       "url": "https://open.spotify.com/track/6ePnlprG50uQkYp5GTzVdY"
@@ -19742,7 +19818,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 234292,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH"
@@ -24083,6 +24159,24 @@
     },
     {
       "album": {
+        "name": "Pain Game",
+        "url": "https://open.spotify.com/album/7qxanlBWu5rXzsPx64zALX"
+      },
+      "artists": [
+        {
+          "name": "Charlie Gradon",
+          "url": "https://open.spotify.com/artist/7vMRuONPsONKjwXBbbw2aU"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211668,
+      "name": "Overshare",
+      "url": "https://open.spotify.com/track/6FTKVNwnul5ErRl7rPe1uA"
+    },
+    {
+      "album": {
         "name": "Overstimulated",
         "url": "https://open.spotify.com/album/6Lcak4JnxsK4mB4gMhP8wT"
       },
@@ -28292,7 +28386,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"

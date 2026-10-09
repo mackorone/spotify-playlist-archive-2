@@ -6,10 +6,26 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOh/TsazWomkGf+sSpMp5JVEOqQq",
+  "snapshot_id": "AAAAAGoZoVI1oJQEryokHtcairXOf9wb",
   "tracks": [
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "IDOLI",
+        "url": "https://open.spotify.com/album/1OlnZBTya6p9JTTe8b2jqC"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "IDOLI",
+      "url": "https://open.spotify.com/track/2J17KAeazngLWW6s7S4eXk"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Mis On Kaikki B\u00e4mskit?",
         "url": "https://open.spotify.com/album/5KYYSn98NeoEY4Kzm9R4jr"
@@ -29,10 +45,10 @@
       "url": "https://open.spotify.com/track/0nFBsbdqTdox7RFiOnZgxG"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
-        "name": "Black Diamond (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
-        "url": "https://open.spotify.com/album/0LGnEYqUv3nJBIgHlvVgAr"
+        "name": "Satasen laina (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/2f7lO3zzZ312Sz70LItF22"
       },
       "artists": [
         {
@@ -40,12 +56,68 @@
           "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Black Diamond (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
-      "url": "https://open.spotify.com/track/6Ag1D53hrAJgmTV1Dk0q6o"
+      "duration_ms": 152783,
+      "name": "Satasen laina (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/0MrSEsbkiICInfWjDLk7UE"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "Kaiken Varalta",
+        "url": "https://open.spotify.com/album/0Z0tPqogcU0KRCFZJZH7XC"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Kaiken Varalta",
+      "url": "https://open.spotify.com/track/7dEpX4PWydhR3aCh0AqX1r"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "Ei riidell\u00e4 en\u00e4\u00e4*",
+        "url": "https://open.spotify.com/album/1mqegH5yXJDGH6P6rwznOz"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "duration_ms": 161470,
+      "name": "Ei riidell\u00e4 en\u00e4\u00e4*",
+      "url": "https://open.spotify.com/track/5lL9LlRCtdGi2o5bFD121w"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "kolme raitaa",
+        "url": "https://open.spotify.com/album/2UoxCHrTQ7ES9szHV9LKVP"
+      },
+      "artists": [
+        {
+          "name": "Lytt\u00e4",
+          "url": "https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn"
+        },
+        {
+          "name": "Tohtori Getto",
+          "url": "https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY"
+        },
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "kolme raitaa",
+      "url": "https://open.spotify.com/track/0khq70BkKgdRjxXA4hhVMS"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Matador (feat. Karim B)",
         "url": "https://open.spotify.com/album/6I0fSj1DWb01ZBOmT4l7vo"
@@ -65,23 +137,7 @@
       "url": "https://open.spotify.com/track/3dBV8gbCI9ReumUSX09IeB"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "Ei riidell\u00e4 en\u00e4\u00e4*",
-        "url": "https://open.spotify.com/album/1mqegH5yXJDGH6P6rwznOz"
-      },
-      "artists": [
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
-        }
-      ],
-      "duration_ms": 161470,
-      "name": "Ei riidell\u00e4 en\u00e4\u00e4*",
-      "url": "https://open.spotify.com/track/5lL9LlRCtdGi2o5bFD121w"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Gatsby",
         "url": "https://open.spotify.com/album/0ikJN4gkwAhKEhZ7cMe7nM"
@@ -97,27 +153,39 @@
       "url": "https://open.spotify.com/track/5f23q6QE7e3drFMWV3K9sf"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
-        "name": "Ik\u00e4v\u00e4 kotiin (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
-        "url": "https://open.spotify.com/album/15YgQEnvicpef5unQBbs9h"
+        "name": "Menett\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/3w4aeGyQafYo3Ymj2mnJLP"
+      },
+      "artists": [
+        {
+          "name": "Adi L Hasla",
+          "url": "https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Menett\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/0yiVrczxmpT6B12fG8Zhfw"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "Black Diamond (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/0LGnEYqUv3nJBIgHlvVgAr"
       },
       "artists": [
         {
           "name": "Ares",
           "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "Lukas Leon",
-          "url": "https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n"
         }
       ],
-      "duration_ms": 182027,
-      "name": "Ik\u00e4v\u00e4 kotiin (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
-      "url": "https://open.spotify.com/track/0jYXNvVKH28ihkkFk5Fly5"
+      "duration_ms": 154000,
+      "name": "Black Diamond (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/6Ag1D53hrAJgmTV1Dk0q6o"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Asento",
         "url": "https://open.spotify.com/album/71NH09eNnUzzFDFVDHiBwd"
@@ -133,7 +201,23 @@
       "url": "https://open.spotify.com/track/5ITKYk4TMZM6a93koasyw5"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "BOUJEE",
+        "url": "https://open.spotify.com/album/2a9G4o3WlvzPpley7XFkcp"
+      },
+      "artists": [
+        {
+          "name": "Leyla",
+          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "BOUJEE",
+      "url": "https://open.spotify.com/track/1h444FCFESqo0Uy9WI7iGg"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Kersast KERZAKS",
         "url": "https://open.spotify.com/album/2jIJIq1ETgGiOMBMavBTnb"
@@ -153,7 +237,7 @@
       "url": "https://open.spotify.com/track/1iV4UhwSQFV9Ib3SQT0jQp"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Sun j\u00e4lkee",
         "url": "https://open.spotify.com/album/1T6eTJvFXvGlV9nnARkgCh"
@@ -169,7 +253,7 @@
       "url": "https://open.spotify.com/track/2IXmPN80IL5nujIkUXcOVs"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Miks menit unohtaa",
         "url": "https://open.spotify.com/album/4cve0eOlBaBDJNAusEbjPT"
@@ -185,7 +269,51 @@
       "url": "https://open.spotify.com/track/7hA3nyf76gmBJOE4x6oWMK"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "Ik\u00e4v\u00e4 kotiin (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/15YgQEnvicpef5unQBbs9h"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Lukas Leon",
+          "url": "https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n"
+        }
+      ],
+      "duration_ms": 182027,
+      "name": "Ik\u00e4v\u00e4 kotiin (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/0jYXNvVKH28ihkkFk5Fly5"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "DANTE",
+        "url": "https://open.spotify.com/album/2l3EUC4Q5ddiwS6PEiBKKm"
+      },
+      "artists": [
+        {
+          "name": "ODE",
+          "url": "https://open.spotify.com/artist/5pvzRpKLDFIaU1S9Ka5bxz"
+        },
+        {
+          "name": "F\u00e4rmy",
+          "url": "https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi"
+        },
+        {
+          "name": "ODFM",
+          "url": "https://open.spotify.com/artist/2phHPkExbn5mQ5c9Z6obIv"
+        }
+      ],
+      "duration_ms": 200139,
+      "name": "DANTE",
+      "url": "https://open.spotify.com/track/2bUseeFwVu57CODQGPQML7"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "PALOKUNTA",
         "url": "https://open.spotify.com/album/4wOzqHtHcCoqSKMh3Bx4y8"
@@ -201,7 +329,7 @@
       "url": "https://open.spotify.com/track/0xdOpyvLhP9uTgHFosrSN7"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Kaikki Kunnos",
         "url": "https://open.spotify.com/album/5abijySksPUxJduZAfjEOn"
@@ -221,7 +349,7 @@
       "url": "https://open.spotify.com/track/3lFVihVnqjVOTABmwtnpLs"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "MAD MAX",
         "url": "https://open.spotify.com/album/0X4Owd48YNq7zMngnIkh6d"
@@ -237,7 +365,7 @@
       "url": "https://open.spotify.com/track/6bzL0YxrUB7jYCS7HzubdP"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "superstar",
         "url": "https://open.spotify.com/album/4EQxR8aJ9hV18Fmr9KTPby"
@@ -253,7 +381,7 @@
       "url": "https://open.spotify.com/track/3GnVqy7lIhgqLVsAJq1Hxt"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Vaativa",
         "url": "https://open.spotify.com/album/0Uo1rTljpiOOfIE4YMuLFw"
@@ -269,7 +397,7 @@
       "url": "https://open.spotify.com/track/3NzkmTeLVdUsN0vUoPXiJy"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "M\u00c4KI OON",
         "url": "https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18"
@@ -285,7 +413,7 @@
       "url": "https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "se mik\u00e4 ei tapa",
         "url": "https://open.spotify.com/album/0sGELA0Q7GxvdBECodf0Tp"
@@ -305,7 +433,7 @@
       "url": "https://open.spotify.com/track/6j7MrTTEOc9jrM1jktADqA"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Edelleen uskon",
         "url": "https://open.spotify.com/album/59Sg5G9c1MkpqE6zX0YUQy"
@@ -321,7 +449,7 @@
       "url": "https://open.spotify.com/track/2IwizrHQjtsqfxHiSeXOdQ"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Lapsuuden sankarille (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
         "url": "https://open.spotify.com/album/70tTtSfCgcARYVpsJbAFGm"
@@ -341,7 +469,27 @@
       "url": "https://open.spotify.com/track/5aJV7YztPPyKCbJHNyVflf"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "tii\u00e4n et kaduttaa",
+        "url": "https://open.spotify.com/album/0scqExpIlannTATxesbEoP"
+      },
+      "artists": [
+        {
+          "name": "ella viktoria",
+          "url": "https://open.spotify.com/artist/1uTxRJ1hLdo1ilXiUrGy9o"
+        },
+        {
+          "name": "jokeri",
+          "url": "https://open.spotify.com/artist/3NawbtNZl7gINBx85aBJ9y"
+        }
+      ],
+      "duration_ms": 198821,
+      "name": "tii\u00e4n et kaduttaa",
+      "url": "https://open.spotify.com/track/6fLSTmUcPqo08KYd9CWoWi"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "EI OO",
         "url": "https://open.spotify.com/album/3pXfNnu7YRp7XT0K608AM0"
@@ -357,7 +505,23 @@
       "url": "https://open.spotify.com/track/3Fr3fNCnv6FHHsdmb1jXx3"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "\u00c4l\u00e4 soita",
+        "url": "https://open.spotify.com/album/4FeMF7qRChXfpnVahcgVoN"
+      },
+      "artists": [
+        {
+          "name": "Jay L",
+          "url": "https://open.spotify.com/artist/1Lg1fhMVbhZL3rwrJDXQpb"
+        }
+      ],
+      "duration_ms": 145455,
+      "name": "\u00c4l\u00e4 soita",
+      "url": "https://open.spotify.com/track/1vCj7xy1ZxxooXN7jBO329"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "kuka s\u00e4 haluisit olla?",
         "url": "https://open.spotify.com/album/3BQpjuQ9WoVui3pG3YyoIX"
@@ -373,7 +537,7 @@
       "url": "https://open.spotify.com/track/5yyT4xxtb83CIMRGc6fhEA"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "ainut joka tuntee mut",
         "url": "https://open.spotify.com/album/3iQ8d7QtTivzakNwqLJZBF"
@@ -389,7 +553,7 @@
       "url": "https://open.spotify.com/track/3kQWpGKLsAsbUD0QIdsZcX"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Illat",
         "url": "https://open.spotify.com/album/6EfzkF81CcfN7LFsik0eol"
@@ -405,7 +569,39 @@
       "url": "https://open.spotify.com/track/3PttHwnm9kC8LIvTIuaebG"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "He rullaavat kadulla (feat. Eevil St\u00f6\u00f6)",
+        "url": "https://open.spotify.com/album/7GFiAx1DNB0LBzseoztBoA"
+      },
+      "artists": [
+        {
+          "name": "RIIMI\u00d6T",
+          "url": "https://open.spotify.com/artist/62nK3cgVtxsVydJugsYIwG"
+        },
+        {
+          "name": "JV",
+          "url": "https://open.spotify.com/artist/4X4k68di2P4I0tbSsLgnp3"
+        },
+        {
+          "name": "OLLLI",
+          "url": "https://open.spotify.com/artist/0Lv0g6na7BaP5LxImEFGoZ"
+        },
+        {
+          "name": "Samuli Tanner",
+          "url": "https://open.spotify.com/artist/2ubTCbdifUM0refHADScNY"
+        },
+        {
+          "name": "Eevil St\u00f6\u00f6",
+          "url": "https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf"
+        }
+      ],
+      "duration_ms": 230823,
+      "name": "He rullaavat kadulla (feat. Eevil St\u00f6\u00f6)",
+      "url": "https://open.spotify.com/track/3vfPmGystHRZtaiH72p0SI"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "T\u00e4\u00e4 p\u00e4\u00e4ttyy nyt",
         "url": "https://open.spotify.com/album/702LNyVUCDHMIuxyVePTMP"
@@ -421,7 +617,7 @@
       "url": "https://open.spotify.com/track/6kUvhr2i5dSHJC2cGw8obT"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "m\u00e4\u00e4dix",
         "url": "https://open.spotify.com/album/7BPMvsz2v2ARVQytiWAMKP"
@@ -441,7 +637,27 @@
       "url": "https://open.spotify.com/track/6uYWotiTcKbdSF4P0YQBsR"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
+      "album": {
+        "name": "OMATUNTO",
+        "url": "https://open.spotify.com/album/6JROTMROHYxtp6GWZ7Vt39"
+      },
+      "artists": [
+        {
+          "name": "Balenciagi",
+          "url": "https://open.spotify.com/artist/5uiV6yZIwPdeFll6d9BCfx"
+        },
+        {
+          "name": "Baby Blu",
+          "url": "https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A"
+        }
+      ],
+      "duration_ms": 148647,
+      "name": "Hyv\u00e4olo",
+      "url": "https://open.spotify.com/track/7HsMLJ8LAjk5fWODB4NA5z"
+    },
+    {
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Vai viestiin sulle",
         "url": "https://open.spotify.com/album/1kue0q3ZY8kS1nzqfKaW4F"
@@ -457,7 +673,7 @@
       "url": "https://open.spotify.com/track/3CTJAqwthsyOMF745cvRQZ"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Siell\u00e4 miss\u00e4 muut",
         "url": "https://open.spotify.com/album/55hRsyLN5IjtKuDzzBHvzB"
@@ -473,7 +689,7 @@
       "url": "https://open.spotify.com/track/4wYPqSGxjtaQcSH66iRASG"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Karuselli",
         "url": "https://open.spotify.com/album/1AwX4CSyldS5BVjJtAMxdH"
@@ -493,7 +709,7 @@
       "url": "https://open.spotify.com/track/3NSM16XRoSxnTXdgkq9sp3"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Juon sut pois (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
         "url": "https://open.spotify.com/album/6KaG8c8IZf9bT6InJWHQFH"
@@ -513,7 +729,7 @@
       "url": "https://open.spotify.com/track/7GlMRBmmfCcF7rbsnDi7pg"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Kiitos siit\u00e4",
         "url": "https://open.spotify.com/album/1lgIsNWezCxt81gbzVxoeA"
@@ -529,7 +745,7 @@
       "url": "https://open.spotify.com/track/48eeKUtgcRhu5SkVh7xvxH"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "COVER BOY",
         "url": "https://open.spotify.com/album/1cuEC6pk9MqfiTXlk9bRfV"
@@ -545,7 +761,7 @@
       "url": "https://open.spotify.com/track/0er1whWPl8xmvKEZKcYdG9"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "VELVETTII",
         "url": "https://open.spotify.com/album/0ai29iJISexOlxBYjzq6WN"
@@ -573,7 +789,7 @@
       "url": "https://open.spotify.com/track/59f7msOEJIca21ACYabPXg"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Karhu nukkuu",
         "url": "https://open.spotify.com/album/1Eveew4VqBWZZn8RWc08WS"
@@ -593,7 +809,7 @@
       "url": "https://open.spotify.com/track/38b2YYLlNW6D1tk6WvOzUp"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Perint\u00f6",
         "url": "https://open.spotify.com/album/46CFeJOFCsb71SyWX583xi"
@@ -613,7 +829,7 @@
       "url": "https://open.spotify.com/track/6Y2qSsLreJTZOordljIIOA"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "RLG",
         "url": "https://open.spotify.com/album/6O3Qk2gF5e1ONFnVk39H49"
@@ -629,7 +845,7 @@
       "url": "https://open.spotify.com/track/4f27Nr8WSTHJzsfDO5oxZ0"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Selviytyj\u00e4",
         "url": "https://open.spotify.com/album/5rdaahAFe5NTzLNvhB6Owv"
@@ -645,7 +861,7 @@
       "url": "https://open.spotify.com/track/3ntq4xgreuHhaqA9c5ZRQQ"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "karalahti",
         "url": "https://open.spotify.com/album/1KxtjlXP7RQKV0Ii43v4TC"
@@ -661,7 +877,7 @@
       "url": "https://open.spotify.com/track/7zppaWUtNJ9vIgK5P6p9nl"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Louis Femma",
         "url": "https://open.spotify.com/album/5YFth8gQ22iU9uKSlSIaBF"
@@ -677,7 +893,7 @@
       "url": "https://open.spotify.com/track/29sobliIEbGhXihWdbrb1q"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "LAITA SE PAUHAA",
         "url": "https://open.spotify.com/album/1N6R1WW9xldRkeovbbMTsz"
@@ -693,7 +909,7 @@
       "url": "https://open.spotify.com/track/5PmikX5Zz0lVf7INu3Iqmn"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "ENEMM\u00c4",
         "url": "https://open.spotify.com/album/0nCEctgDzvWHJIXCXijDOG"
@@ -713,7 +929,7 @@
       "url": "https://open.spotify.com/track/4Scfek8VyWiZaME1vaLcXl"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Aseita ja hevosia",
         "url": "https://open.spotify.com/album/4HxJC5GMrgAozbnPbF8ifH"
@@ -729,7 +945,7 @@
       "url": "https://open.spotify.com/track/3o6XvjSx6BKg2a4TlRFR7r"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Ehk\u00e4 Joskus",
         "url": "https://open.spotify.com/album/7wNtkBCmS1wTdXL9AHifdP"
@@ -749,7 +965,7 @@
       "url": "https://open.spotify.com/track/22w9MQkkSuE7iQphGYTfWx"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "HYRYSYSY",
         "url": "https://open.spotify.com/album/4RPV4LjigMLWvwu9RaTA0U"
@@ -773,7 +989,7 @@
       "url": "https://open.spotify.com/track/2ze6xnwHIhOs92TTXGhKfq"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "L\u00e4mp\u00f6aalto Vol.1",
         "url": "https://open.spotify.com/album/4y3gqYb2PxNUUBLE3QFgjk"
@@ -793,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3YTTJMgypwL3W4Lnk2qzCq"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Onks t\u00e4\u00e4 v\u00e4\u00e4rin",
         "url": "https://open.spotify.com/album/6UHXfX8mvSOapU1ibmShJk"
@@ -809,7 +1025,7 @@
       "url": "https://open.spotify.com/track/3HAeCGR0Dxix7adYfPHy8v"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Paha mieli -albumi",
         "url": "https://open.spotify.com/album/63b4vppEtxv88P0HjU08Mo"
@@ -825,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6bBy3A1enSlBiIKieEHNDk"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "T\u00e4n\u00e4\u00e4n M\u00e4 Teen Sen",
         "url": "https://open.spotify.com/album/2WslV5I2IQFFR2ReAmDDz2"
@@ -845,7 +1061,7 @@
       "url": "https://open.spotify.com/track/7eydi9nUQ1Ev0SwjhpszXJ"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "KAIKEN L\u00c4PI",
         "url": "https://open.spotify.com/album/3n6Ze1hICm0sqbzjLfTSnh"
@@ -865,7 +1081,7 @@
       "url": "https://open.spotify.com/track/6gxgoVdO28LN39Y2An9GFZ"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Sin\u00e4",
         "url": "https://open.spotify.com/album/1Qrvkjm2aEz7yzQqW4B25N"
@@ -881,7 +1097,7 @@
       "url": "https://open.spotify.com/track/44sRHAH5N5pCBCrjv7mT1w"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Aina",
         "url": "https://open.spotify.com/album/12DwbjyX9AACEfjGgtHqRm"
@@ -901,7 +1117,7 @@
       "url": "https://open.spotify.com/track/2SdvDaRbWJkUCoRLVInwrO"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Kummittelee",
         "url": "https://open.spotify.com/album/7FZ9Za5HZ0vRExaFbJfjhW"
@@ -917,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6HsZfT35UYsCXxeFJ28mYb"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Paholaisest seuraava",
         "url": "https://open.spotify.com/album/4qbh9Hq7QRADAF9MUwWRbr"
@@ -933,7 +1149,7 @@
       "url": "https://open.spotify.com/track/5NBBkK5sXbthE2sLLWVpB5"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "LIS\u00c4\u00c4 VOLAA",
         "url": "https://open.spotify.com/album/05ILrZ46Z8FStCeYcQIpqy"
@@ -949,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5sKwGpFihrAK4H5pA10H41"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "WAKA",
         "url": "https://open.spotify.com/album/0WbUwHIayaA3rEcVFDAirR"
@@ -965,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0bitgI1bCUhxwlQf9io6Wc"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "300",
         "url": "https://open.spotify.com/album/0GEEic4hiDk2XeC4cyXgFg"
@@ -981,7 +1197,7 @@
       "url": "https://open.spotify.com/track/7Is4MTcmnUZjH0NA0WNjOm"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "RADIKAALI",
         "url": "https://open.spotify.com/album/7z5kNbt3UtvxGX2TnQ88P7"
@@ -997,7 +1213,7 @@
       "url": "https://open.spotify.com/track/2R6TEk7WA1vUBxRUDMhfGU"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "SAMMUTA VALOT",
         "url": "https://open.spotify.com/album/3lafAd4aeHNXsrTm1jMpK9"
@@ -1013,7 +1229,7 @@
       "url": "https://open.spotify.com/track/0HfzarSNdXWDjk8nbk8lB4"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "PIIKA",
         "url": "https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH"
@@ -1033,7 +1249,7 @@
       "url": "https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "2 Veijaa",
         "url": "https://open.spotify.com/album/7trYTupg3zoR1UeSLj9eeH"
@@ -1049,7 +1265,7 @@
       "url": "https://open.spotify.com/track/1rzU1McJYL3oCxX40Dnlhd"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Eilinen",
         "url": "https://open.spotify.com/album/6WkkWAkmMiUVyTnP5HlZw5"
@@ -1069,7 +1285,7 @@
       "url": "https://open.spotify.com/track/0aHcABXSM7RSlBCqo1xZ5m"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Syd\u00e4men voit pit\u00e4\u00e4",
         "url": "https://open.spotify.com/album/4FHDYEjMbGZ5OVDSRYqaMV"
@@ -1089,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3VL950tLbbd0GxeoBbQNzu"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "mist\u00e4 alottasin",
         "url": "https://open.spotify.com/album/58NVaJOI254URQle798uAH"
@@ -1113,7 +1329,7 @@
       "url": "https://open.spotify.com/track/3u0l9pznpQbqwN11aVjbEx"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/5oKxqj2sCRBgyKOnkEyVRD"
@@ -1133,7 +1349,7 @@
       "url": "https://open.spotify.com/track/59GxeaVyjAyCsf5ek4UjYO"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Kyynel",
         "url": "https://open.spotify.com/album/2L6UeAg7yY35n2fHktQzEC"
@@ -1149,7 +1365,7 @@
       "url": "https://open.spotify.com/track/4rbAqwCRlRdYViDrtN9ciT"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "T\u00c4N\u00c4\u00c4",
         "url": "https://open.spotify.com/album/2Ft0kaIxeIfxUJp54f3NbS"
@@ -1169,7 +1385,7 @@
       "url": "https://open.spotify.com/track/4g9YOdkSfnxAevpVkworIy"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "KILLING SZN/BBL",
         "url": "https://open.spotify.com/album/7oN4yHDWIQreYzauSJ0IW8"
@@ -1189,7 +1405,7 @@
       "url": "https://open.spotify.com/track/6YzFhKEWWGF8PUc1PfBvBq"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "MOKIA",
         "url": "https://open.spotify.com/album/6MBT0GLEvtepmWD21ryMNj"
@@ -1209,7 +1425,7 @@
       "url": "https://open.spotify.com/track/5u3R3m6Jo0ZIIaHcD1gdkt"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "pojat on poikii ?",
         "url": "https://open.spotify.com/album/0pG1kQVkIqAmSbLcIAmIHz"
@@ -1237,7 +1453,7 @@
       "url": "https://open.spotify.com/track/19T2CiVuVGW6WE3NpfNfjg"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Tyhm\u00e4",
         "url": "https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX"
@@ -1253,7 +1469,7 @@
       "url": "https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "sanoja",
         "url": "https://open.spotify.com/album/1bWrqLBuOWycGHZ8S8A7bH"
@@ -1269,7 +1485,7 @@
       "url": "https://open.spotify.com/track/4hg2YrHVcKz7QON5szNdZc"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Karisma",
         "url": "https://open.spotify.com/album/68X6elCaVnVdy4tzyTZ9W3"
@@ -1285,7 +1501,7 @@
       "url": "https://open.spotify.com/track/6RurMIPS6xFFkWfcizN6a0"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Pahoi Barei (feat. Kube)",
         "url": "https://open.spotify.com/album/1zJD0HMdkZhx2x96yBhgkJ"
@@ -1305,7 +1521,7 @@
       "url": "https://open.spotify.com/track/31TF1NiYxQdRb4AatCv0Ao"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Stanley Cup",
         "url": "https://open.spotify.com/album/7tNOxHEspPK1w9No03RRut"
@@ -1321,7 +1537,7 @@
       "url": "https://open.spotify.com/track/5trRDAvsLKQkRnfe0aTfVX"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Valokuvii",
         "url": "https://open.spotify.com/album/6zU4Q4Guabuh8dezfEQwFU"
@@ -1337,7 +1553,7 @@
       "url": "https://open.spotify.com/track/0Xkj74WLJl5jfOKIvhmRe9"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "LIVE FOR THIS SHIT",
         "url": "https://open.spotify.com/album/7fcWxCsrgPHVu7e26eIWmc"
@@ -1353,7 +1569,7 @@
       "url": "https://open.spotify.com/track/68n7iNVrLSWV1NIo0tbWmK"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "perfume",
         "url": "https://open.spotify.com/album/4n256VCWb5U69l4hlJH4sY"
@@ -1369,27 +1585,7 @@
       "url": "https://open.spotify.com/track/3O02rSXEcK2GpxFIBt2POz"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "Varmaannuttaja",
-        "url": "https://open.spotify.com/album/3WLmWHZEXPqCc4OXRJiLUm"
-      },
-      "artists": [
-        {
-          "name": "Massali",
-          "url": "https://open.spotify.com/artist/18oBPoSwvQDy3M7mOGDAbi"
-        },
-        {
-          "name": "Dj Rullbiza",
-          "url": "https://open.spotify.com/artist/2A4uG1Rv5zM7KDpstszzL3"
-        }
-      ],
-      "duration_ms": 177849,
-      "name": "Varmaannuttaja",
-      "url": "https://open.spotify.com/track/4m7T4dNKJBS7zpzirBcWJt"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Nokia",
         "url": "https://open.spotify.com/album/6o0VBY2DSw8I79UAAWztX4"
@@ -1405,7 +1601,7 @@
       "url": "https://open.spotify.com/track/6OFIJHfqjr37ifNGByvBuY"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Koodit p\u00e4\u00e4l",
         "url": "https://open.spotify.com/album/4tUIe8EVvuXlNIkeDoc7w7"
@@ -1425,7 +1621,7 @@
       "url": "https://open.spotify.com/track/0Y7C7jz0H7kZnL1nx4x4rn"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "PASSAT",
         "url": "https://open.spotify.com/album/0KnsGzkUYHMcAig2xeQig3"
@@ -1449,23 +1645,7 @@
       "url": "https://open.spotify.com/track/0dZfBMOl7EESXidB3IaUVB"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "Melutaso sabotaasi",
-        "url": "https://open.spotify.com/album/3Hgw9iNrrtc7sQKYWCA9kl"
-      },
-      "artists": [
-        {
-          "name": "jokeri",
-          "url": "https://open.spotify.com/artist/3NawbtNZl7gINBx85aBJ9y"
-        }
-      ],
-      "duration_ms": 148661,
-      "name": "Melutaso sabotaasi",
-      "url": "https://open.spotify.com/track/0dE1j2HlLsVEcS798GA7Xy"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "MJ",
         "url": "https://open.spotify.com/album/1or2nUDUdv4esoKpePtOUz"
@@ -1481,7 +1661,7 @@
       "url": "https://open.spotify.com/track/6yvTJPOY2hm8tF0W19TirA"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Sekop\u00e4\u00e4",
         "url": "https://open.spotify.com/album/7gYA8N6yka4vhOAuX1F7NX"
@@ -1497,7 +1677,7 @@
       "url": "https://open.spotify.com/track/2kcQmJ6NAfgbWwaRpjS0zD"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Tunnistaa",
         "url": "https://open.spotify.com/album/5AeDWXtzzqrtNU6oikxTKE"
@@ -1517,27 +1697,7 @@
       "url": "https://open.spotify.com/track/0jT9FkCRLH0QLx7hvPpNBP"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "Dw x OFF THE BOOTH (1942)",
-        "url": "https://open.spotify.com/album/19vVhk8RrRU5mwEp7QNDag"
-      },
-      "artists": [
-        {
-          "name": "OFF THE BOOTH",
-          "url": "https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g"
-        },
-        {
-          "name": "Dw",
-          "url": "https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP"
-        }
-      ],
-      "duration_ms": 151674,
-      "name": "Dw x OFF THE BOOTH (1942)",
-      "url": "https://open.spotify.com/track/66CbNKIhfykC7MvqImyABu"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Sata syyt",
         "url": "https://open.spotify.com/album/183AuvnOZ1x5FdRUuSGzEQ"
@@ -1557,75 +1717,7 @@
       "url": "https://open.spotify.com/track/5utmpdm2S5HNpdvz1Fve8L"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "Pop that",
-        "url": "https://open.spotify.com/album/4zdyowi2uGEbE7AcTBVd5e"
-      },
-      "artists": [
-        {
-          "name": "Adi L Hasla",
-          "url": "https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk"
-        }
-      ],
-      "duration_ms": 159843,
-      "name": "Pop that",
-      "url": "https://open.spotify.com/track/1LKXGaDDu0rh5TgUisTUMe"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "Ehj\u00e4",
-        "url": "https://open.spotify.com/album/1pGbeuNwlalgx9ealMNCuZ"
-      },
-      "artists": [
-        {
-          "name": "Dilemma",
-          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
-        }
-      ],
-      "duration_ms": 135720,
-      "name": "Ehj\u00e4",
-      "url": "https://open.spotify.com/track/0xZ7Dt8YkTIeN6KPI3LS8K"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "DOLLATAPE",
-        "url": "https://open.spotify.com/album/5B1jDFYC9HjI0WNjIChGZ4"
-      },
-      "artists": [
-        {
-          "name": "BLANKS",
-          "url": "https://open.spotify.com/artist/2IpgPfo9HrBdYvaBQjG3aU"
-        },
-        {
-          "name": "Davy",
-          "url": "https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT"
-        }
-      ],
-      "duration_ms": 137415,
-      "name": "LIIKAA (feat. Davy)",
-      "url": "https://open.spotify.com/track/3ZcEGl46GpqVBCNHXcaoUl"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "Real 1's",
-        "url": "https://open.spotify.com/album/0e9k4O0RxVOrAPxXbrawFt"
-      },
-      "artists": [
-        {
-          "name": "Olli August",
-          "url": "https://open.spotify.com/artist/5rNbjiCW5GOrb9nuSX91Xw"
-        }
-      ],
-      "duration_ms": 170292,
-      "name": "Real 1's",
-      "url": "https://open.spotify.com/track/0pSfdOQ5uxHfTo2sAyOoEl"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Monsteri (feat. HUGO)",
         "url": "https://open.spotify.com/album/2gXZRANut3KyoQWgKLGZse"
@@ -1645,23 +1737,7 @@
       "url": "https://open.spotify.com/track/7iHyIbPNHTs8ZHAmVJspmq"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "Sex In A Rolls Royce",
-        "url": "https://open.spotify.com/album/4p43QXZvWmQdWXjxA2VasR"
-      },
-      "artists": [
-        {
-          "name": "VJ",
-          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
-        }
-      ],
-      "duration_ms": 143081,
-      "name": "Sex In A Rolls Royce",
-      "url": "https://open.spotify.com/track/3Mp5nHVo8yuEORLiX2Avtw"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "T\u00e4\u00e4 tunne",
         "url": "https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg"
@@ -1677,39 +1753,7 @@
       "url": "https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "MI BONITA",
-        "url": "https://open.spotify.com/album/3mHebESGf5FB5j3pxu064j"
-      },
-      "artists": [
-        {
-          "name": "M//O",
-          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
-        }
-      ],
-      "duration_ms": 144509,
-      "name": "MI BONITA",
-      "url": "https://open.spotify.com/track/4EtTwz6FYnbe1KySXGcV82"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/5az3IFIk6qFiguI1r9TdNl"
-      },
-      "artists": [
-        {
-          "name": "Diogi",
-          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1W8Ve8MBw5lYqXKHQin567"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Viel\u00e4ki t\u00e4\u00e4ll\u00e4 (feat. Senya)",
         "url": "https://open.spotify.com/album/509rrATqdrU3Jf2GJOFxId"
@@ -1729,7 +1773,7 @@
       "url": "https://open.spotify.com/track/5DeFROT7Sb4NhrolCXTk9C"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Onko jossain",
         "url": "https://open.spotify.com/album/5jpMIOgqYCFBCrD61e7UBc"
@@ -1745,7 +1789,7 @@
       "url": "https://open.spotify.com/track/0INrYZEDtgLuzUuRKBSWAY"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "15K",
         "url": "https://open.spotify.com/album/1hhUbx04DTretTrjeCyXh7"
@@ -1761,23 +1805,7 @@
       "url": "https://open.spotify.com/track/0FkG18tlfLd8lcVHoP1np1"
     },
     {
-      "added_at": "2026-10-01 21:00:12",
-      "album": {
-        "name": "Ent\u00e4 sit",
-        "url": "https://open.spotify.com/album/6NyW6WhQxqfahsxlvNM3Jx"
-      },
-      "artists": [
-        {
-          "name": "Lage",
-          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
-        }
-      ],
-      "duration_ms": 142711,
-      "name": "Ent\u00e4 sit",
-      "url": "https://open.spotify.com/track/466qhGCeGM3ksEajW9rJOy"
-    },
-    {
-      "added_at": "2026-10-01 21:00:12",
+      "added_at": "2026-10-08 21:00:28",
       "album": {
         "name": "Vegas",
         "url": "https://open.spotify.com/album/6pWr8NFneDblJvbXdkJttO"

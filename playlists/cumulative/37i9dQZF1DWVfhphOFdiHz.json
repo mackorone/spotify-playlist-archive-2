@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Loud, proud, and free to be. Bops on repeat from LGBTQIA+ artists only. Cover: Greyson Chance",
+  "description": "Bops on repeat from LGBTQIA+ artists only. Cover: Chlo\u00e9 Caillet",
   "name": "GLOW US & Canada",
   "tracks": [
     {
@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Bear in the Woods",
+        "url": "https://open.spotify.com/album/2Zi2c6byiVabxUvrchTuup"
+      },
+      "artists": [
+        {
+          "name": "ELLES",
+          "url": "https://open.spotify.com/artist/1Sg5fMw3Vz72wcwRDTC71o"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195319,
+      "name": "Bear in the Woods",
+      "url": "https://open.spotify.com/track/3HydxYmNCcAdkdkmURq7OP"
+    },
+    {
+      "album": {
         "name": "Now That I've Been Honest",
         "url": "https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz"
       },
@@ -904,6 +922,32 @@
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
+    },
+    {
+      "album": {
+        "name": "BIRDS & THE BEES",
+        "url": "https://open.spotify.com/album/1Y8XFnNJAA4mIGcBSFKSZO"
+      },
+      "artists": [
+        {
+          "name": "Adam Oh",
+          "url": "https://open.spotify.com/artist/2iwGr6BtRjn629qLx9w7FQ"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216939,
+      "name": "BIRDS & THE BEES",
+      "url": "https://open.spotify.com/track/6jRwsEpNh6WlEGnlShC82D"
     },
     {
       "album": {
@@ -1800,7 +1844,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188617,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY"
@@ -3358,6 +3402,24 @@
       "duration_ms": 216910,
       "name": "Feel Your Rain",
       "url": "https://open.spotify.com/track/07be0QUZ1uxxXDkarMiZe6"
+    },
+    {
+      "album": {
+        "name": "Female Manipulator",
+        "url": "https://open.spotify.com/album/0alukCT2P3kQswZ3krBrBN"
+      },
+      "artists": [
+        {
+          "name": "katie MAC",
+          "url": "https://open.spotify.com/artist/3I45RGfCr3OBo6zMFhU7y5"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135400,
+      "name": "Female Manipulator",
+      "url": "https://open.spotify.com/track/07BrETXm3rBcPUqSUVpCpJ"
     },
     {
       "album": {
@@ -7216,7 +7278,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 163000,
       "name": "Meryl",
       "url": "https://open.spotify.com/track/6gHhrK2BL0cqlGUxTtyjaT"
@@ -7802,10 +7864,32 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 206198,
       "name": "no one's son",
       "url": "https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr"
+    },
+    {
+      "album": {
+        "name": "Noise Keeper",
+        "url": "https://open.spotify.com/album/4KaPxnYMgh00lMOikzBcjW"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "D Stone",
+          "url": "https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222292,
+      "name": "Noise Keeper",
+      "url": "https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP"
     },
     {
       "album": {
@@ -7928,7 +8012,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 204663,
       "name": "Nothing To Do (nananananana)",
       "url": "https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5"
@@ -8354,6 +8438,28 @@
       "duration_ms": 184000,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/4Ckl9wqbIhMIbQCw0nTNyX"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/2hr9e1rQ4GxvF9Xb0LACTc"
+      },
+      "artists": [
+        {
+          "name": "Siibii",
+          "url": "https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi"
+        },
+        {
+          "name": "Rex Smallboy",
+          "url": "https://open.spotify.com/artist/6USV914NUMuMp2DwpBb6Nf"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229688,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/3Fb3XOySgKjZUcBcHiuqeT"
     },
     {
       "album": {
@@ -10050,7 +10156,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 178628,
       "name": "SORRY I'M OBSESSED WITH YOU",
       "url": "https://open.spotify.com/track/4Arirl7XmsQedbiU566bWb"
@@ -11954,7 +12060,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 167206,
       "name": "Wet Cement",
       "url": "https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD"
@@ -12212,6 +12318,24 @@
       "duration_ms": 176466,
       "name": "Work Like That",
       "url": "https://open.spotify.com/track/4RtFL3XU21zaFg4o1O3Wr8"
+    },
+    {
+      "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
     },
     {
       "album": {

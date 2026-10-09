@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-962 songs - 1 day 17 hr 25 min
+966 songs - 1 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Ce C'est Pas Assez Pour Moi](https://open.spotify.com/track/2bT6nZYVsS2kEiBtgqI5fg) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Ce C'est Pas Assez Pour Moi](https://open.spotify.com/album/1OpDZbJmR90Ackx5g5btGp) | 3:51 | 2022-04-05 | 2022-11-26 |
 | [Celta](https://open.spotify.com/track/6uJGXTjYGFsQLItDTJVdLb) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Celta](https://open.spotify.com/album/6UXPdmRQ3KQlnUTX8Dmis8) | 2:48 | 2022-05-27 | 2022-09-09 |
 | [Chapada Dos Veadeiros](https://open.spotify.com/track/7c8pKCt8CzPbCRli2og1bL) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Chapada Dos Veadeiros](https://open.spotify.com/album/58ZAeVMJOTjxvuVay3JmBK) | 2:34 | 2021-12-08 | 2022-02-16 |
+| [Chapter Nine](https://open.spotify.com/track/6LO13FAwgU3yVRBQo8H7fh) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [Chapter Nine](https://open.spotify.com/album/7A6BobKoEz0FFywhwqup7c) | 3:16 | 2026-10-09 |  |
 | [Cherished](https://open.spotify.com/track/1rLMnQfT6ueI1yCOvZS9hN) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Cherished](https://open.spotify.com/album/61BmBejQR7R1whomReaRJc) | 1:58 | 2022-10-07 | 2023-08-19 |
 | [Chiaro di Luna](https://open.spotify.com/track/5wMHOl6I3s50DgLuajsJZM) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Chiaro di Luna](https://open.spotify.com/album/3ZBm8Y0Xw3nqk3u8Q6cuvn) | 1:50 | 2022-12-09 | 2023-08-19 |
 | [Choose Something Like A Star](https://open.spotify.com/track/5B8vUe7I8Zv1OFnKJh1hLf) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Choose Something Like A Star](https://open.spotify.com/album/3eEqT2Dd9l3bkeVCluiDWY) | 2:19 | 2026-07-31 |  |
@@ -601,6 +602,7 @@
 | [Oestrus](https://open.spotify.com/track/3xLAwCiPGV4Tw89RPfpXqP) | [Kay Meine](https://open.spotify.com/artist/1YCpuDhM5Ounw7IiCBypuB) | [Oestrus](https://open.spotify.com/album/2hQrVwnwvlXdAeKmyGMheg) | 2:14 | 2022-12-16 | 2023-05-13 |
 | [Okinawa](https://open.spotify.com/track/2gtPInB7GRWpBMClNiU65Z) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Montevideo](https://open.spotify.com/album/0LmadbT5ZbedmXJJF7ynQb) | 2:48 | 2023-02-10 | 2024-06-01 |
 | [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 | 2022-07-08 | 2022-09-17 |
+| [Old Town](https://open.spotify.com/track/1iPEsvmH1xM3Y2zal4duu3) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Old Town](https://open.spotify.com/album/1PTM0UlyPjP8uzRjqIS0OH) | 2:22 | 2026-10-09 |  |
 | [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 | 2022-04-22 | 2023-09-29 |
 | [Olomana](https://open.spotify.com/track/4E0pCVwsSnYcxcKpp0wf8Q) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Kohala](https://open.spotify.com/album/7sOtaQGuDecDyWe4UTjAPC) | 2:39 | 2021-12-08 | 2024-04-05 |
 | [Omaggio](https://open.spotify.com/track/77uZ7sLDxL0COLYkmNL6f5) | [Mina Pellé](https://open.spotify.com/artist/5ULQkv4ZSPh4HDDvwuDzVp) | [Omaggio](https://open.spotify.com/album/03dAXeqgfRskUKqP4iBiid) | 2:06 | 2023-01-06 | 2025-01-21 |
@@ -779,6 +781,7 @@
 | [Sonnen Diamant](https://open.spotify.com/track/5QSUroBMs5XaGfNqzObDEs) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Sonnen Diamant](https://open.spotify.com/album/62sKHUtfxZbVkZPe1TKqbT) | 2:34 | 2021-12-08 | 2023-03-10 |
 | [Sonora Sunshine](https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Sonora Sunshine](https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT) | 1:51 | 2023-08-24 | 2024-02-23 |
 | [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 | 2024-07-18 |
+| [Soul in Between](https://open.spotify.com/track/1ID0fX5alR6EkNjzZjyYV5) | [Jeremiah River](https://open.spotify.com/artist/1yZEsDnvySiKAOlBRaf96D) | [Soul in Between](https://open.spotify.com/album/5vf4R93VPvnGcBsKstW4fn) | 3:18 | 2026-10-09 |  |
 | [Sound of Speech](https://open.spotify.com/track/7JW97t2t5VSwnInDKb9KaK) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Sound of Speech](https://open.spotify.com/album/52s99fPzTKKNcNbggc1bJG) | 2:27 | 2026-05-08 |  |
 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 | 2025-04-22 | 2025-11-25 |
 | [Southern Wind](https://open.spotify.com/track/6dFFteAqdSmnJu6Rzb7fWV) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Southern Wind](https://open.spotify.com/album/4KOcDV0VAlSROSWy2NZvza) | 3:20 | 2021-12-08 | 2022-11-18 |
@@ -941,6 +944,7 @@
 | [When we're together](https://open.spotify.com/track/46CteNPTOkjXz52CIldTjZ) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [When we're together](https://open.spotify.com/album/2o2rYNRj9oQHzORAdeQ6ya) | 2:28 | 2024-10-01 | 2025-11-11 |
 | [Where the Cowslips Grow](https://open.spotify.com/track/3uky1ugP4V2I9WsMDpXPLM) | [Gideon Strauss](https://open.spotify.com/artist/6yfie3GIPSrQb2ua7gbpap) | [Where the Cowslips Grow](https://open.spotify.com/album/2AS53MWTasvuAYKegeTlsE) | 3:04 | 2026-03-30 |  |
 | [Where The River Ends](https://open.spotify.com/track/3CqKDahwi9OVbSqErqolPY) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [Where The River Ends](https://open.spotify.com/album/6B4j3Ib3hKVSFnRvHhsmna) | 1:39 | 2022-07-01 | 2022-10-07 |
+| [Wherever You Go](https://open.spotify.com/track/36rZRxeN4A0o6tHFKKxEdV) | [In Stars Above](https://open.spotify.com/artist/1FxVcJX21nISmUFSvaE9fh) | [Wherever You Go](https://open.spotify.com/album/0flfQByvCFombTni9ZBExX) | 3:10 | 2026-10-09 |  |
 | [Whispers of Frost](https://open.spotify.com/track/3ge3prXMCXsHRa2SfvwA43) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers of Frost](https://open.spotify.com/album/4hhQxJlnuXEYistyyZpMR6) | 3:12 | 2025-02-19 | 2025-11-11 |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 | 2022-11-18 |
 | [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 | 2022-10-07 | 2024-04-05 |

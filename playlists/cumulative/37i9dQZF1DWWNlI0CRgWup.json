@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/4DbXX3AdezNUsnEcNFpa3P"
+      },
+      "artists": [
+        {
+          "name": "Folie's",
+          "url": "https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164520,
+      "name": "Bagues en Or",
+      "url": "https://open.spotify.com/track/1bnGWY5TmMBOpoYx7WPBWq"
+    },
+    {
+      "album": {
         "name": "ELOWI",
         "url": "https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2"
       },
@@ -416,6 +434,24 @@
       "duration_ms": 165906,
       "name": "Bahwai",
       "url": "https://open.spotify.com/track/0hfSOgINLNsRHkASA31vY7"
+    },
+    {
+      "album": {
+        "name": "la maison s'effondre",
+        "url": "https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP"
+      },
+      "artists": [
+        {
+          "name": "Alma Rechtman",
+          "url": "https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "baisers puissants",
+      "url": "https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O"
     },
     {
       "album": {
@@ -1296,7 +1332,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 220546,
       "name": "C\u0153ur",
       "url": "https://open.spotify.com/track/1RfaaZVPySn5XaNfW4zWhF"
@@ -2168,7 +2204,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 210000,
       "name": "Gourou",
       "url": "https://open.spotify.com/track/3lzKpkbcxDLkUobJuOrdlA"
@@ -2226,6 +2262,24 @@
       "duration_ms": 158208,
       "name": "Hakayet",
       "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
+    },
+    {
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/7L23eyGbBT0HbruEuaKkTy"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168853,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao"
     },
     {
       "album": {
@@ -2845,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "Effets Secondaires",
+        "url": "https://open.spotify.com/album/1CDHmmmDBx7IKFLq1mm6LT"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pariente",
+          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175866,
+      "name": "Kilo par kilo",
+      "url": "https://open.spotify.com/track/0fpyIJpLUk4bbNGi6nAa8r"
+    },
+    {
+      "album": {
         "name": "Kis\u00e9",
         "url": "https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1"
       },
@@ -3368,7 +3440,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 179693,
       "name": "Les cicatrices d'or",
       "url": "https://open.spotify.com/track/4kpFuJZkjJjUYhbeQKV0SN"
@@ -3671,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "process",
+        "url": "https://open.spotify.com/album/2rjqDCxSc9fgwllCVMGLXZ"
+      },
+      "artists": [
+        {
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205826,
+      "name": "Mal",
+      "url": "https://open.spotify.com/track/1LvAoQEorMNKwhSb3AC20o"
+    },
+    {
+      "album": {
         "name": "MALADE!",
         "url": "https://open.spotify.com/album/5gTFsUMApzVa40elOuNUwf"
       },
@@ -3776,6 +3866,28 @@
       "duration_ms": 149386,
       "name": "Mazel",
       "url": "https://open.spotify.com/track/1JQv5PYJLat5Ra2So7vTkI"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s L'\u00c9clipse",
+        "url": "https://open.spotify.com/album/1MNXPDvHtcoIaTZ1GFbG58"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        },
+        {
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/0aWrQZEWiePgmbR0fs6PTP"
     },
     {
       "album": {
@@ -4006,7 +4118,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 173453,
       "name": "Mute",
       "url": "https://open.spotify.com/track/34UQRhA2ojdzFFa8EMygwP"
@@ -4140,7 +4252,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 165900,
       "name": "NEW JACK",
       "url": "https://open.spotify.com/track/0DMX3t9vbuXIbR0Ty9x1RU"
@@ -4400,7 +4512,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 179700,
       "name": "papa la maison s'effondre",
       "url": "https://open.spotify.com/track/2KHikG96BvB667Z34nA2e9"
@@ -5662,7 +5774,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 142853,
       "name": "TELFAR\u2122",
       "url": "https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3"
@@ -6276,6 +6388,28 @@
       "duration_ms": 177313,
       "name": "\u00c0 l'arri\u00e8re de la Mercedes blanche",
       "url": "https://open.spotify.com/track/35BZeuRSDTSNuUCTIwbKhJ"
+    },
+    {
+      "album": {
+        "name": "\u00c0 l'envers",
+        "url": "https://open.spotify.com/album/22JsKnVGchPhzn8wfPGJxk"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        },
+        {
+          "name": "Yuston XIII",
+          "url": "https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "\u00c0 l'envers",
+      "url": "https://open.spotify.com/track/09CrknnhUZsaFzrOkw1uYD"
     },
     {
       "album": {

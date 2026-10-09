@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "The best new Irish music in one place \ud83d\udccd cover: SOAK",
+  "description": "The best new Irish music in one place \ud83d\udccd cover: Morgana",
   "name": "Today's Ireland",
   "tracks": [
     {
@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Stories They Don't Teach You At School",
+        "url": "https://open.spotify.com/album/39fk5BkpkgovhoE6CiMCRY"
+      },
+      "artists": [
+        {
+          "name": "Meryl Streek",
+          "url": "https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198827,
+      "name": "Be the Hammer",
+      "url": "https://open.spotify.com/track/3pnvSn25hB46D79QzjOcam"
+    },
+    {
+      "album": {
         "name": "Beauty In The Beast",
         "url": "https://open.spotify.com/album/6kGSQUbpfwjGkdPg3RQSbX"
       },
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 190862,
       "name": "bobinov",
       "url": "https://open.spotify.com/track/6ZaSKP0IY1A3YRkJu9Cl1M"
@@ -1619,6 +1637,32 @@
     },
     {
       "album": {
+        "name": "Cardboard Boxes",
+        "url": "https://open.spotify.com/album/2FHXziRE64INQXVUXptRNS"
+      },
+      "artists": [
+        {
+          "name": "Robert Grace",
+          "url": "https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1"
+        },
+        {
+          "name": "Lincoln grace",
+          "url": "https://open.spotify.com/artist/2jhq8Zpvfu46nrDAxygIvM"
+        },
+        {
+          "name": "Bonnie Grace",
+          "url": "https://open.spotify.com/artist/0ZV0kXw5TLrQBdUf9kH5n1"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "Cardboard Boxes",
+      "url": "https://open.spotify.com/track/7yqOfMw4J58PULUdCVgveV"
+    },
+    {
+      "album": {
         "name": "Carving The Stone",
         "url": "https://open.spotify.com/album/0hMz1kjXoYlIfoPAuf4XRF"
       },
@@ -1865,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Church Bells",
+        "url": "https://open.spotify.com/album/7Gw42YnewWCUpHfpTrwAOg"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229696,
+      "name": "Church Bells",
+      "url": "https://open.spotify.com/track/2c7JU7iNZ4DO1arCsKtsoC"
+    },
+    {
+      "album": {
         "name": "the story after they're gone",
         "url": "https://open.spotify.com/album/1pFN6A3Rx1tMgF3TQGaBuj"
       },
@@ -2078,7 +2140,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 162254,
       "name": "Control",
       "url": "https://open.spotify.com/track/2Ts6u2309VQVAgZtYkMfnW"
@@ -2157,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Dance World",
+        "url": "https://open.spotify.com/album/3EYLZ5zzn53sKeaJvdJKyG"
+      },
+      "artists": [
+        {
+          "name": "KiiKO",
+          "url": "https://open.spotify.com/artist/1d6oAwrCelcwZHgQk2ZHsY"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Dance World",
+      "url": "https://open.spotify.com/track/1HuSpwREs84OA3rIiUsH4E"
+    },
+    {
+      "album": {
         "name": "Dancing On My Grave",
         "url": "https://open.spotify.com/album/55hhPvNq0SAlwqGU86roex"
       },
@@ -2168,7 +2248,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196493,
       "name": "Dancing On My Grave",
       "url": "https://open.spotify.com/track/70EO6IeFVuddMLBS7Qmg46"
@@ -2840,7 +2920,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 176663,
       "name": "Easy Does It",
       "url": "https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg"
@@ -3620,7 +3700,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 180000,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/6D468N32hOm1CnQaYRCIyx"
@@ -3818,7 +3898,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 212538,
       "name": "Hanging Out To Dry",
       "url": "https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8"
@@ -4284,6 +4364,24 @@
       "duration_ms": 125175,
       "name": "huma sa",
       "url": "https://open.spotify.com/track/71500BODWFGDWURX4wwqVp"
+    },
+    {
+      "album": {
+        "name": "Hurricane Bruise",
+        "url": "https://open.spotify.com/album/7GOSj4eyk7sQzY427YWm1p"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "Hurricane Bruise",
+      "url": "https://open.spotify.com/track/0hHVcMrY6JipPTBXclfnDh"
     },
     {
       "album": {
@@ -4847,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "It Don't Work",
+        "url": "https://open.spotify.com/album/6yWAmbIJVSmfiRrwMA5es3"
+      },
+      "artists": [
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "It Don't Work",
+      "url": "https://open.spotify.com/track/75Lpthr6e5q1vGsnhn5ZjE"
+    },
+    {
+      "album": {
         "name": "Idle Death Gamble",
         "url": "https://open.spotify.com/album/0t0ModUTkitP9VNXMQWCkc"
       },
@@ -5204,7 +5320,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 111091,
       "name": "Landlord's Demise",
       "url": "https://open.spotify.com/track/1hKaKw4jY8HHNhNW47xhcR"
@@ -5229,6 +5345,24 @@
     },
     {
       "album": {
+        "name": "Last Kind Words Blues",
+        "url": "https://open.spotify.com/album/1Pnq9uR8uVcqGsn3BJrkK6"
+      },
+      "artists": [
+        {
+          "name": "Muireann Bradley",
+          "url": "https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Last Kind Words Blues",
+      "url": "https://open.spotify.com/track/1EpJfbTFRdKwmfmP5jxtNw"
+    },
+    {
+      "album": {
         "name": "Last Rites",
         "url": "https://open.spotify.com/album/0OfSt9oA1KHSCDQFn9GN9Y"
       },
@@ -5240,7 +5374,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 222397,
       "name": "Last Rites",
       "url": "https://open.spotify.com/track/0rSYptT2EttbthDyfKShr3"
@@ -5568,6 +5702,24 @@
       "duration_ms": 238613,
       "name": "Lonely Island",
       "url": "https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld"
+    },
+    {
+      "album": {
+        "name": "Long Way To Go",
+        "url": "https://open.spotify.com/album/4m6J5CVS4u2YoTGwkKGRbR"
+      },
+      "artists": [
+        {
+          "name": "Weston Loney",
+          "url": "https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210846,
+      "name": "Long Way To Go",
+      "url": "https://open.spotify.com/track/07O09ayHFocDVLoY0C1VqU"
     },
     {
       "album": {
@@ -6432,7 +6584,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 190140,
       "name": "Never Done",
       "url": "https://open.spotify.com/track/6KK9Bbxwf6jsjKtG33K5XG"
@@ -7298,10 +7450,28 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 262451,
       "name": "polaroids",
       "url": "https://open.spotify.com/track/2YuxwmOKSzhdmWb2KHXUUa"
+    },
+    {
+      "album": {
+        "name": "Poor Advice",
+        "url": "https://open.spotify.com/album/3ThL2DprG4nlpYk1V10xxB"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214855,
+      "name": "Poor Advice",
+      "url": "https://open.spotify.com/track/2TyulpJQppDMPYgUd9F8PO"
     },
     {
       "album": {
@@ -7396,6 +7566,24 @@
       "duration_ms": 182000,
       "name": "Pretty Happy Alone",
       "url": "https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM"
+    },
+    {
+      "album": {
+        "name": "The Whole Thing Was Very Very Emotional",
+        "url": "https://open.spotify.com/album/6vyg9gvVq284SNBTMZtYj4"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250237,
+      "name": "Prince Of The Park",
+      "url": "https://open.spotify.com/track/6Fh06IwS6hPWqoW35rd4JJ"
     },
     {
       "album": {
@@ -8524,7 +8712,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 192733,
       "name": "Soldier",
       "url": "https://open.spotify.com/track/3VriOUGTvNXr836JTfLlVK"
@@ -9261,6 +9449,24 @@
     },
     {
       "album": {
+        "name": "the dom perignons",
+        "url": "https://open.spotify.com/album/5bNB8R4vPrGPPTy0cRvj6c"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136255,
+      "name": "the dom perignons",
+      "url": "https://open.spotify.com/track/723kL08biqEd6nvGIV3CMH"
+    },
+    {
+      "album": {
         "name": "The Fall",
         "url": "https://open.spotify.com/album/0GF6ZG9kFWdgwuionwrPEM"
       },
@@ -9740,6 +9946,24 @@
       "duration_ms": 207682,
       "name": "Through The Rain",
       "url": "https://open.spotify.com/track/6MTvGQ6OtlBd8vsb5bzZkq"
+    },
+    {
+      "album": {
+        "name": "Tie Your Laces",
+        "url": "https://open.spotify.com/album/48ovJhAJlfjgOysgEhWU6T"
+      },
+      "artists": [
+        {
+          "name": "OLORUNNS",
+          "url": "https://open.spotify.com/artist/5rM4tRVmdeMeUip9BxT9P6"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Tie Your Laces",
+      "url": "https://open.spotify.com/track/6w5FfhPgSJotleH0rEWJxl"
     },
     {
       "album": {
@@ -10667,6 +10891,24 @@
     },
     {
       "album": {
+        "name": "Wish Upon You",
+        "url": "https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277248,
+      "name": "Wish Upon You",
+      "url": "https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z"
+    },
+    {
+      "album": {
         "name": "Wishes",
         "url": "https://open.spotify.com/album/0z4M9I9uvQgCX03hlCcpdC"
       },
@@ -10826,7 +11068,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 212055,
       "name": "You Are Never Gone From Me",
       "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"

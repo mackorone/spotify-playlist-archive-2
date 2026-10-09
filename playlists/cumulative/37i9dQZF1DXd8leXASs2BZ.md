@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Joe Cupertino
 
-1,920 songs - 3 day 15 hr 9 min
+1,922 songs - 3 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1751,9 +1751,11 @@
 | [Yellow Connection](https://open.spotify.com/track/3eOqiUCnpJTO3fbuzoJRwy) | [Godzilla East](https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF), [P\-free](https://open.spotify.com/artist/35RnWgsErQjC9JlajX82Pl) | [Yellow Connection](https://open.spotify.com/album/1uGqwHbPzqBGIBXAQP4JFw) | 2:33 | 2024-03-21 | 2024-04-17 |
 | [yo bitch its doubtclub \(feat\. nowyoumakemeup, surpass, Lie, Libra albert & Sloppybaybsally\) \[exclusive\]](https://open.spotify.com/track/5C4fYdRz2SOdoNKLHV8MoG) | [tna](https://open.spotify.com/artist/4hf0Y8m1sYNnb0xYpQHVFn), [nowyoumakemeup](https://open.spotify.com/artist/6jfLIDaCUgExUmt243cQ3F), [surpass](https://open.spotify.com/artist/4CmBcdM1oxZBCnqwDi7AcC), [Lie](https://open.spotify.com/artist/0SSXO3qm51lAFkRcaSMNIW), [Libra albert](https://open.spotify.com/artist/0RHsSBpJ1vc6NKm8gbzVOz), [Sloppybaybsally](https://open.spotify.com/artist/4YxvWW4XJuL0UswEKP4SrZ) | [yo bitch its DoubtClub 925 \(exclusive\)](https://open.spotify.com/album/13TZKPWupGfVmGxS2jW9ZX) | 4:00 | 2026-07-15 | 2026-08-26 |
 | [Yogibo feat\. LOM](https://open.spotify.com/track/3Hj7ZhmYuAD7n6OXTCHwDK) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3), [LOM](https://open.spotify.com/artist/1EUJrEkPvE0hC3qVhl8FuT) | [Yogibo feat\. LOM](https://open.spotify.com/album/1ZH3EXX9ows7rOW5QbqXnf) | 3:55 | 2024-07-30 | 2024-09-18 |
+| [YOKO ONO](https://open.spotify.com/track/2K7XRbjCUEYf0m7lvMvXNR) | [Leviryi](https://open.spotify.com/artist/0dHYc5ljM3Nocqd42goUM5) | [YOKO ONO](https://open.spotify.com/album/32IouOFg14Fn97teye2owx) | 3:46 | 2026-10-06 |  |
 | [you](https://open.spotify.com/track/25rQJJZc9Kg5sQZYs6GN0C) | [18easy](https://open.spotify.com/artist/3BnNXRYZY0QYwTmUALRz7P) | [you](https://open.spotify.com/album/3FFd3ZKD5YRLR22MVo9vWJ) | 2:21 | 2026-09-22 |  |
 | [You & Me](https://open.spotify.com/track/1rVpDUFQ6HeanUu6fdHTan) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe) | [You & Me](https://open.spotify.com/album/3fkn8Oxf4beRBxcIOSLF6X) | 2:35 | 2023-12-26 | 2024-01-24 |
 | [You & Me](https://open.spotify.com/track/2VE101brHK8ixFEfMq2SPD) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe) | [You & Me](https://open.spotify.com/album/6zGRZS9wFoHr0L0aQwFYQg) | 2:35 | 2023-12-26 | 2023-12-30 |
+| [You don't wanna put pickles](https://open.spotify.com/track/2V38UkKwr8pHIQ7dUy8DEH) | [Yusef Imamura](https://open.spotify.com/artist/2zYkpFBLyfskSrJl3zu7ov) | [You don't wanna put pickles](https://open.spotify.com/album/0C3TVryflMEmWbeeWFfUE5) | 2:38 | 2026-10-06 |  |
 | [You hate me so I hate you](https://open.spotify.com/track/3C6W5lS23vLKx8eKgvKYIv) | [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU) | [You hate me so I hate you](https://open.spotify.com/album/6RqhRdFfFimMg3MTTaG05j) | 2:19 | 2025-03-04 | 2025-06-25 |
 | [You Know](https://open.spotify.com/track/1PUzmNU0a5Mz3VgLV7WBOP) | [TwoBS](https://open.spotify.com/artist/0cOZbWveJ5u3JAnRX67CVN) | [You Know](https://open.spotify.com/album/3kVUEwxKc2bdRSU9lPwlTr) | 2:07 | 2026-05-26 | 2026-07-15 |
 | [YOUNG & ADULT](https://open.spotify.com/track/2oxXv40QM9nwX5nRXqWbEy) | [e5](https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4) | [YOUNG & ADULT](https://open.spotify.com/album/1sygFSi0CXOaoIcBR3ZaG5) | 3:31 | 2025-03-18 | 2025-07-23 |

@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PP KRIT, Girly Berry
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PUN, THE TOYS
 
-268 songs - 17 hr 16 min
+270 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/track/4YkPsxVBXkM4jBgMTAxtFz) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/album/1n6smSBWNrb9p3L0vFAilq) | 4:01 | 2025-10-07 |  |
 | [ดาวหางฮัลเลย์](https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ดาวหางฮัลเลย์](https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl) | 3:44 | 2024-01-26 | 2024-12-07 |
 | [ดิ่งดาวน์](https://open.spotify.com/track/1E9X3arqhhm3woKCQtEv01) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [ดิ่งดาวน์](https://open.spotify.com/album/5EeE1FrNjw9sJdSVRbPH3A) | 3:39 | 2024-09-26 | 2024-11-09 |
-| [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE) | 4:53 | 2026-05-21 |  |
+| [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE) | 4:53 | 2026-05-21 | 2026-10-09 |
 | [ดีใจรึเปล่า](https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ดีใจรึเปล่า](https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE) | 4:08 | 2024-02-15 | 2025-03-24 |
 | [ดูมีไร \(DO ME RIGHT\)](https://open.spotify.com/track/0WCpX9pvNy081MsecZY0Nk) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q), [เบบี้โจลี่สตาร์](https://open.spotify.com/artist/7lMpWIQxYjz9P1BXYQ3XAt) | [ดูมีไร \(DO ME RIGHT\)](https://open.spotify.com/album/4A5ylS0UkAv23sj1Xa4IHI) | 3:16 | 2025-01-16 | 2025-02-07 |
 | [ตบปาก \(On That Day\)](https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/7HpfZWOU33tf9ht1UZ3nyp) | 3:32 | 2024-01-26 | 2024-01-31 |
@@ -177,8 +177,9 @@
 | [รสชาติชีวิต](https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [รสชาติชีวิต](https://open.spotify.com/album/716iJevJDc8Pl0nob6n891) | 4:42 | 2026-02-02 | 2026-06-19 |
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2024-01-26 | 2024-03-28 |
 | [รออยู่อย่างนั้น](https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [SIMON](https://open.spotify.com/artist/6gL6AwaRQKqK9VGBqi5zDo) | [รออยู่อย่างนั้น](https://open.spotify.com/album/1pZSegpCKVMmIrPUtYcWQq) | 3:52 | 2025-04-16 | 2026-07-17 |
+| [รักกันตอนเลิกกัน \(Too Late\)](https://open.spotify.com/track/3J06uWLDn8bNnnQznle5V6) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DUST](https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV) | 3:52 | 2026-10-08 |  |
 | [รักกันได้รึเปล่า?](https://open.spotify.com/track/1mpANQ0OuSDz3yPvPQtvJK) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [รักกันได้รึเปล่า?](https://open.spotify.com/album/56BsyBSsRlxzfzc1vO5rYQ) | 3:19 | 2026-07-16 | 2026-08-14 |
-| [รักมักยาก \(Lover Loser\)](https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [รักมักยาก \(Lover Loser\)](https://open.spotify.com/album/6ajyFXLc6OINgs3Z4ZFKSP) | 4:13 | 2026-07-13 |  |
+| [รักมักยาก \(Lover Loser\)](https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [รักมักยาก \(Lover Loser\)](https://open.spotify.com/album/6ajyFXLc6OINgs3Z4ZFKSP) | 4:13 | 2026-07-13 | 2026-10-09 |
 | [รักแรก \(First Love\) \[เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious\]](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รักแรก \(First Love\) \- Single](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 | 2024-01-26 | 2024-08-09 |
 | [รักแรกพบ \(Knock Knock\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 2:37 | 2025-03-27 | 2025-05-23 |
 | [รักใครไม่ไหว](https://open.spotify.com/track/6UONhODhp5Yz51rL0gcxMU) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [รักใครไม่ไหว](https://open.spotify.com/album/0m2tnO0TVcf6tfiYVofY59) | 4:10 | 2025-04-24 |  |
@@ -222,6 +223,7 @@
 | [อารมณ์สีเทา](https://open.spotify.com/track/3gxK6ehmktiz8QRElreh5S) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [อารมณ์สีเทา](https://open.spotify.com/album/7jQYQQHdNM8t72aFTVrcgs) | 3:27 | 2026-09-02 |  |
 | [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2024-01-26 | 2024-08-23 |
 | [อู้บ่จ้าง](https://open.spotify.com/track/5RhEVajyRoOtks0txRnCke) | [Sukrit Wisetkaew](https://open.spotify.com/artist/05ycwBAg6CYEweEbZgAYeT) | [อู้บ่จ้าง](https://open.spotify.com/album/67pHjCmyZ9jaPhNSjujGyp) | 3:59 | 2026-04-16 | 2026-06-12 |
+| [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv) | 3:23 | 2026-10-08 |  |
 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 | 2025-05-22 |  |
 | [เจ้าของที่](https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 4:00 | 2024-01-26 | 2025-01-17 |
 | [เดินทางโดยสวัสดิภาพ](https://open.spotify.com/track/5xEtdOxQ3z18NWmDhG98N5) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWAN](https://open.spotify.com/artist/2bZps5eDWmWtRwjs54Qtwj) | [ชานชา\(ลา\)](https://open.spotify.com/album/1hjPLRs9m5kEJiTyYQSfiq) | 3:52 | 2025-02-06 | 2025-03-21 |

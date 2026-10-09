@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Netsky, Hannah Boleyn",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -3181,6 +3181,28 @@
     },
     {
       "album": {
+        "name": "Body Tune",
+        "url": "https://open.spotify.com/album/4w3At0QhqBVxoKnJxhQclx"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Specialist Moss",
+          "url": "https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140632,
+      "name": "Body Tune",
+      "url": "https://open.spotify.com/track/7sRGdufCsOBFzeWLOPLdN8"
+    },
+    {
+      "album": {
         "name": "Bombalaya (Blooom Remix)",
         "url": "https://open.spotify.com/album/0Pn7tCMEM2cJINrr1gSTbE"
       },
@@ -3266,7 +3288,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 176062,
       "name": "Boom Stylah",
       "url": "https://open.spotify.com/track/5kCd8WE0CQTQ9GziozhifQ"
@@ -3768,7 +3790,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160465,
       "name": "Bristol Style",
       "url": "https://open.spotify.com/track/7aJJbHsEtQ9A2Nhd89bn4t"
@@ -4336,6 +4358,28 @@
       "duration_ms": 148200,
       "name": "Care About Us (feat. Ebenezer)",
       "url": "https://open.spotify.com/track/7rztNRexBl8QEdtKB6Cr91"
+    },
+    {
+      "album": {
+        "name": "Generic Everything",
+        "url": "https://open.spotify.com/album/2cu3mSocMVwnSnV9Ge69Do"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188624,
+      "name": "Carnage (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/2DNHy7NQNQO40EkGlrgtkY"
     },
     {
       "album": {
@@ -5398,7 +5442,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 204137,
       "name": "Cool For Me",
       "url": "https://open.spotify.com/track/1Sr93ailm3oNbn0FO3hM0l"
@@ -7616,7 +7660,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 179310,
       "name": "Energy",
       "url": "https://open.spotify.com/track/4CS3nb5E2WEDWZJrQItzub"
@@ -8392,6 +8436,28 @@
       "duration_ms": 248375,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX"
+    },
+    {
+      "album": {
+        "name": "Feel For You",
+        "url": "https://open.spotify.com/album/3w7cuKGnd7OjEy5ZrdunA2"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Feel For You",
+      "url": "https://open.spotify.com/track/7grtb1P76k8mw33zQIZjcx"
     },
     {
       "album": {
@@ -10768,7 +10834,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 245500,
       "name": "GTP!",
       "url": "https://open.spotify.com/track/68MUS59if9KQAzGdQKGe5j"
@@ -18224,7 +18290,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 134484,
       "name": "OMI",
       "url": "https://open.spotify.com/track/5Qm84NCxvTjtSqsTPnfpbH"
@@ -21599,6 +21665,24 @@
     },
     {
       "album": {
+        "name": "RUIN: It's Not Just Music",
+        "url": "https://open.spotify.com/album/1sYKpHvzVmZxcc2RxiVOk0"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340250,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/6FS3zsx6838qWG4OScBprn"
+    },
+    {
+      "album": {
         "name": "Run (Part 2)",
         "url": "https://open.spotify.com/album/5OtPOcB7CqVhiXujPZuNuK"
       },
@@ -22723,6 +22807,28 @@
     },
     {
       "album": {
+        "name": "The Holy Grail",
+        "url": "https://open.spotify.com/album/5hmHlwHuijw6zSeJCw4pTD"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222171,
+      "name": "Should've Known Better",
+      "url": "https://open.spotify.com/track/1x4o2B74wHid523W5UZVf5"
+    },
+    {
+      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -23588,6 +23694,24 @@
       "duration_ms": 272195,
       "name": "Soundboy Don't Push Your Luck",
       "url": "https://open.spotify.com/track/2j8X4bEyuDEkCRanvHF4Uv"
+    },
+    {
+      "album": {
+        "name": "Sovereign Ring",
+        "url": "https://open.spotify.com/album/4m88fODlvXdODuixCJiIwG"
+      },
+      "artists": [
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171636,
+      "name": "Sovereign Ring",
+      "url": "https://open.spotify.com/track/3ury7Ly3SvHyYEyld5VTVi"
     },
     {
       "album": {

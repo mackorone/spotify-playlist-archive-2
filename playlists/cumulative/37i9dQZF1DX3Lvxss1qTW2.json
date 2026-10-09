@@ -220,7 +220,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 184000,
       "name": "22",
       "url": "https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188041,
       "name": "365 Days",
       "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 153183,
       "name": "AGAIN",
       "url": "https://open.spotify.com/track/1SaSlPxQa34QGBeNlpyF5v"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 154941,
       "name": "Bokor Bokor",
       "url": "https://open.spotify.com/track/72OTEO5DShf3WH8hvdPVXb"
@@ -3735,6 +3735,28 @@
     },
     {
       "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/6VE4Gpm0ZQbsF9OILfScC2"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/5L4G8DPHn5kMpCg7zrZ82f"
+    },
+    {
+      "album": {
         "name": "Coco Samba",
         "url": "https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5"
       },
@@ -4207,6 +4229,28 @@
     },
     {
       "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
+    },
+    {
+      "album": {
         "name": "Cut The BS",
         "url": "https://open.spotify.com/album/10lTVbiGsxMf5slnf6H21Z"
       },
@@ -4262,6 +4306,28 @@
       "duration_ms": 158939,
       "name": "CWT (feat. BNXN)",
       "url": "https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb"
+    },
+    {
+      "album": {
+        "name": "Daddy, I'm Going Out",
+        "url": "https://open.spotify.com/album/26l5EcfY8MUwU0W86Eo3Qy"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "Daddy, I'm Going Out",
+      "url": "https://open.spotify.com/track/3PkU0NhQmbeh1lIsDi8tyr"
     },
     {
       "album": {
@@ -5567,6 +5633,24 @@
     },
     {
       "album": {
+        "name": "FAYA / SARE",
+        "url": "https://open.spotify.com/album/3yFX5YOarrNa1aCdzuVToy"
+      },
+      "artists": [
+        {
+          "name": "Boomboxx",
+          "url": "https://open.spotify.com/artist/7CtDK3lVncrxuWpNVZa8tA"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161590,
+      "name": "FAYA",
+      "url": "https://open.spotify.com/track/5m21JIGKY7mv78PXcWprty"
+    },
+    {
+      "album": {
         "name": "ATOM II",
         "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
       },
@@ -6166,7 +6250,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 140916,
       "name": "For Me",
       "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
@@ -9666,7 +9750,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 167000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs"
@@ -10887,6 +10971,24 @@
     },
     {
       "album": {
+        "name": "THE FIRST EP",
+        "url": "https://open.spotify.com/album/0Gdpxm5WSAqrizXZZqfOXa"
+      },
+      "artists": [
+        {
+          "name": "Bunie The First",
+          "url": "https://open.spotify.com/artist/2Z6wMKaxyAH0MmXhM35BDg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "MIKE TYSON",
+      "url": "https://open.spotify.com/track/0cDSkCjlBgmPsQggS1JC0B"
+    },
+    {
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/3KSH7CEYGeos6b0iYPQmb7"
       },
@@ -11314,7 +11416,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 176711,
       "name": "Mo\u00ebt",
       "url": "https://open.spotify.com/track/0Y4r9ZSrcImr6HcLAGY51R"
@@ -11638,6 +11740,24 @@
       "duration_ms": 153500,
       "name": "My Shayla",
       "url": "https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/1Tf1Mr6JEp2xUdVB61cpBI"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170144,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4faET9puA0PpJEj3MLXFky"
     },
     {
       "album": {
@@ -13055,6 +13175,24 @@
     },
     {
       "album": {
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/7riwMAaF89sTDXQU9p2GCt"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144157,
+      "name": "Paloma",
+      "url": "https://open.spotify.com/track/7jr8OZ81UN4PUz92h5mIM4"
+    },
+    {
+      "album": {
         "name": "Baby Thug",
         "url": "https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1"
       },
@@ -14045,6 +14183,24 @@
     },
     {
       "album": {
+        "name": "Swagstar",
+        "url": "https://open.spotify.com/album/02m9kBTURJaGfvmr1Z0rEV"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151004,
+      "name": "RIC FLAIR DRIP",
+      "url": "https://open.spotify.com/track/0fCGLUYkP2mVb873CkCfCl"
+    },
+    {
+      "album": {
         "name": "Richard Mille",
         "url": "https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0"
       },
@@ -14640,6 +14796,24 @@
       "duration_ms": 157676,
       "name": "Set (Baby)",
       "url": "https://open.spotify.com/track/1gnpSyBGhjhG6Q79IicC2c"
+    },
+    {
+      "album": {
+        "name": "Settings",
+        "url": "https://open.spotify.com/album/7iQ6vYFfenGmDqBc0VSFnj"
+      },
+      "artists": [
+        {
+          "name": "Zoro Swagbag",
+          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189882,
+      "name": "Settings",
+      "url": "https://open.spotify.com/track/3ixN2tpb37RJ4ADQN3M48Z"
     },
     {
       "album": {
@@ -16252,7 +16426,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160000,
       "name": "Time Of Our Lives",
       "url": "https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7"
@@ -18294,7 +18468,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 125217,
       "name": "Yeye Talk",
       "url": "https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE"

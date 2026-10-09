@@ -7157,6 +7157,24 @@
     },
     {
       "album": {
+        "name": "Ni sarigame",
+        "url": "https://open.spotify.com/album/7xV0EvDpgt2glgL7JHekFA"
+      },
+      "artists": [
+        {
+          "name": "Arviz",
+          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183703,
+      "name": "Ni sarigame",
+      "url": "https://open.spotify.com/track/6MR1Fyg8mxKeSTHwaYUiUr"
+    },
+    {
+      "album": {
         "name": "Ni Valle",
         "url": "https://open.spotify.com/album/4hlJkbygiMvHm1mIQBIWbc"
       },

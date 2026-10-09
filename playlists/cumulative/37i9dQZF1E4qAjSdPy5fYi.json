@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With UrvTek, sixwing, STYXVII and more",
+  "description": "With UrvTek, Learke, sixwing and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 178262,
       "name": "14",
       "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 159201,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7A9BxplkAzP1dChZJsHfoB"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 144000,
       "name": "ASS UP!",
       "url": "https://open.spotify.com/track/2rFOofFAEIdsmrpksO4U1d"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 102969,
       "name": "Bulletproof - Remix",
       "url": "https://open.spotify.com/track/74stzgE3eN8PLxBtn3S0Un"
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 204403,
       "name": "DON'T CALL ME @ THE CLUB",
       "url": "https://open.spotify.com/track/2PXv2TL20SdUSZRiv2GhEU"
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 101210,
       "name": "DRAIN PUPPY MAIL ME IMMEDIATELY",
       "url": "https://open.spotify.com/track/7eD7HWP4KdhTczwpw29YWJ"
@@ -2322,10 +2322,28 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 225069,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/1uXd50WJFeS1zg3GlQTXsv"
+    },
+    {
+      "album": {
+        "name": "FIXER UPPER",
+        "url": "https://open.spotify.com/album/2iK8eFbAqrq0eGbBioOy7n"
+      },
+      "artists": [
+        {
+          "name": "Rueckus",
+          "url": "https://open.spotify.com/artist/5w9vKV2lL3zHp1i6QsUDWY"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176795,
+      "name": "FIXER UPPER",
+      "url": "https://open.spotify.com/track/4ejToesWQ8eD5XYvDQ4F77"
     },
     {
       "album": {
@@ -2681,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "HA! DESERVED (2026 Remaster)",
+        "url": "https://open.spotify.com/album/46L1CbgGWN3aCacBbspJ0c"
+      },
+      "artists": [
+        {
+          "name": "divineruins",
+          "url": "https://open.spotify.com/artist/6NwGHa4VV7soODjMduGOmH"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123668,
+      "name": "HA! DESERVED",
+      "url": "https://open.spotify.com/track/3IP1TdI8S7JMvX8xQnDD2L"
+    },
+    {
+      "album": {
         "name": "Hansel & Gretel",
         "url": "https://open.spotify.com/album/4ukjDBOKB4hTh2NZIDaQbU"
       },
@@ -2844,7 +2880,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 163392,
       "name": "Hollywood Yeen",
       "url": "https://open.spotify.com/track/0V6tfonIgu4cExDWY78A6o"
@@ -2978,7 +3014,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 201951,
       "name": "I Need Coffee - Remix",
       "url": "https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL"
@@ -3224,7 +3260,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 139591,
       "name": "I'm Your Baby",
       "url": "https://open.spotify.com/track/2Xku3AcjgS3XdegLcFg6Z4"
@@ -3457,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/6hlkB3T47It8H0e2VuDcBB"
+      },
+      "artists": [
+        {
+          "name": "Kim Zee",
+          "url": "https://open.spotify.com/artist/62vX7ra6asBBFl47Ad8bqY"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166896,
+      "name": "Ion",
+      "url": "https://open.spotify.com/track/0bMMh7Fd206CNk1N60LURF"
+    },
+    {
+      "album": {
         "name": "it will be okay!!",
         "url": "https://open.spotify.com/album/5L5c4lAg9iFRR1o3MkdUNw"
       },
@@ -3576,7 +3630,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "JuiceBox",
       "url": "https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z"
@@ -4352,7 +4406,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 144003,
       "name": "My Puppy Song",
       "url": "https://open.spotify.com/track/58vztARV09BWQbsOX2PTsg"
@@ -4522,7 +4576,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 170806,
       "name": "Naked (Take It Off)",
       "url": "https://open.spotify.com/track/7JK1S7nir9iTilzLYnJMun"
@@ -4544,7 +4598,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170403,
       "name": "narcissist",
       "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
@@ -4652,7 +4706,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 111494,
       "name": "no inbetween",
       "url": "https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi"
@@ -5188,7 +5242,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 103269,
       "name": "Playground",
       "url": "https://open.spotify.com/track/4CM1J83MAkCeJsW4U6RUep"
@@ -5336,7 +5390,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 147257,
       "name": "PROTECC ATTACC SEXYBACC",
       "url": "https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw"
@@ -5372,7 +5426,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 175301,
       "name": "Puppy-Eyed",
       "url": "https://open.spotify.com/track/1dpbhCJA92PlPEM1mgWKBh"
@@ -5434,7 +5488,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 228000,
       "name": "Quit While You're Ahead",
       "url": "https://open.spotify.com/track/4mFw7zUabimfD1c58wleuZ"
@@ -5788,7 +5842,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 144699,
       "name": "Shit Yourself Violently",
       "url": "https://open.spotify.com/track/3KRIxu4nidUqvh5uCnOPLg"
@@ -6526,7 +6580,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"

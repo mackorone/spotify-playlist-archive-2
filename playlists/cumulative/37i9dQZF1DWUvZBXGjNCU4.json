@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "After Dinner",
+        "url": "https://open.spotify.com/album/5BLtxqNvrmVh13imFnGk86"
+      },
+      "artists": [
+        {
+          "name": "Maude Clonet",
+          "url": "https://open.spotify.com/artist/65bMWcpcLJpFbCTLgusJId"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "After Dinner",
+      "url": "https://open.spotify.com/track/6u777tnIIIstDB4RjIsZPZ"
+    },
+    {
+      "album": {
         "name": "Afternoon hovers",
         "url": "https://open.spotify.com/album/2VMThT0iQUWcvbKm6OUOW7"
       },
@@ -380,6 +398,24 @@
       "duration_ms": 115065,
       "name": "Amanda's Rose",
       "url": "https://open.spotify.com/track/7irnzCCAnHTmWyH8KfIp2j"
+    },
+    {
+      "album": {
+        "name": "Amanecer Sereno",
+        "url": "https://open.spotify.com/album/1qv1Rz8qnlHJ5xqGcRkSYL"
+      },
+      "artists": [
+        {
+          "name": "Isaac Valero",
+          "url": "https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "Amanecer Sereno",
+      "url": "https://open.spotify.com/track/4UwpjVQzccjTdpCUaZVImJ"
     },
     {
       "album": {
@@ -1104,6 +1140,24 @@
       "duration_ms": 234708,
       "name": "Burgenland",
       "url": "https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn"
+    },
+    {
+      "album": {
+        "name": "Burgundy",
+        "url": "https://open.spotify.com/album/7v79j8EHV9zqQY9CTeLVMC"
+      },
+      "artists": [
+        {
+          "name": "Danny Chin",
+          "url": "https://open.spotify.com/artist/5qw91fPAD0213gvhIBqNyg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172750,
+      "name": "Burgundy",
+      "url": "https://open.spotify.com/track/6XZ98HdHpwjo3iLZFDGv0P"
     },
     {
       "album": {
@@ -2944,6 +2998,24 @@
       "duration_ms": 171000,
       "name": "Homeward Bound",
       "url": "https://open.spotify.com/track/0lYg3OQQYSoN4Nb9eoiul9"
+    },
+    {
+      "album": {
+        "name": "Horizon Line",
+        "url": "https://open.spotify.com/album/0IVzFddJiQi4eJMZ5kA6am"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145185,
+      "name": "Horizon Line",
+      "url": "https://open.spotify.com/track/0RADaFmxOgnXdRPHANVqVE"
     },
     {
       "album": {

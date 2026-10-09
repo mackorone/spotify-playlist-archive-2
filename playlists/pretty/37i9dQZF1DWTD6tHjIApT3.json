@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u68ee\u4e03\u83dc",
-  "num_followers": 139031,
+  "num_followers": 139075,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
-        "name": "Dogs",
-        "url": "https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 296912,
-      "name": "Dogs",
-      "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
-    },
-    {
-      "added_at": "2026-10-06 15:00:39",
-      "album": {
         "name": "\u30bd\u30d5\u30a3\u30ea\u30a2",
         "url": "https://open.spotify.com/album/5W2VLS6CY3w8DWYQ7scpe3"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 284040,
       "name": "\u30bd\u30d5\u30a3\u30ea\u30a2",
       "url": "https://open.spotify.com/track/5m9zC72yYWnW3Yhy7cBTtJ"
+    },
+    {
+      "added_at": "2026-10-06 15:00:39",
+      "album": {
+        "name": "Dogs",
+        "url": "https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 296912,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
     },
     {
       "added_at": "2026-10-06 15:00:39",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
-        "name": "\u590f\u8749",
-        "url": "https://open.spotify.com/album/7ilZipPln1gAgFYk7d2fbu"
+        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (Spotify BLUE? It's Okay Ver.)",
+        "url": "https://open.spotify.com/album/1mWiuwhV5RBXLPCAHyq3LA"
       },
       "artists": [
         {
-          "name": "JUJU",
-          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
         }
       ],
-      "duration_ms": 291808,
-      "name": "\u590f\u8749",
-      "url": "https://open.spotify.com/track/5SotpyBWM0DaYmGRLpwDiw"
+      "duration_ms": 328000,
+      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b - Spotify BLUE? It's Okay Ver.",
+      "url": "https://open.spotify.com/track/21F8twSEPo58JWpRqUZH9v"
     },
     {
       "added_at": "2026-10-06 15:00:39",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
-        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (Spotify BLUE? It's Okay Ver.)",
-        "url": "https://open.spotify.com/album/1mWiuwhV5RBXLPCAHyq3LA"
+        "name": "\u590f\u8749",
+        "url": "https://open.spotify.com/album/7ilZipPln1gAgFYk7d2fbu"
       },
       "artists": [
         {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+          "name": "JUJU",
+          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
         }
       ],
-      "duration_ms": 328000,
-      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b - Spotify BLUE? It's Okay Ver.",
-      "url": "https://open.spotify.com/track/21F8twSEPo58JWpRqUZH9v"
+      "duration_ms": 291808,
+      "name": "\u590f\u8749",
+      "url": "https://open.spotify.com/track/5SotpyBWM0DaYmGRLpwDiw"
     },
     {
       "added_at": "2026-10-06 15:00:39",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
+        "name": "\u82b1\u852d",
+        "url": "https://open.spotify.com/album/1Vp0UrwO7vpuLDpk1uJg75"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "\u82b1\u852d",
+      "url": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF"
+    },
+    {
+      "added_at": "2026-10-06 15:00:39",
+      "album": {
         "name": "The Story of Us",
         "url": "https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB"
       },
@@ -1043,6 +1059,22 @@
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
+        "name": "\u6700\u5f8c\u306b\u71b1\u3044\u65e5\u3005\u3092\u72c2\u308f\u3057\u304d\u60f3\u3044\u3067",
+        "url": "https://open.spotify.com/album/435VD0Boy9b1FQ7HOsS4m6"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "\u3042\u306a\u305f\u306e\u82b1\u306e\u8272",
+      "url": "https://open.spotify.com/track/4or5caHru8j2EHRLmjSZay"
+    },
+    {
+      "added_at": "2026-10-06 15:00:39",
+      "album": {
         "name": "Power of Love",
         "url": "https://open.spotify.com/album/46Miq2i2gRZrOT48q9rLBQ"
       },
@@ -1059,22 +1091,6 @@
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
-        "name": "Diamonds in the Sky",
-        "url": "https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 185031,
-      "name": "Diamonds in the Sky",
-      "url": "https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC"
-    },
-    {
-      "added_at": "2026-10-06 15:00:39",
-      "album": {
         "name": "\u9752\u6625\u306f\u898b\u3048\u306a\u3044",
         "url": "https://open.spotify.com/album/4HcBaG5HPRHMHvb6dzhEay"
       },
@@ -1087,6 +1103,22 @@
       "duration_ms": 192551,
       "name": "\u9752\u6625\u306f\u898b\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/26kYZv1lSfkX12e6zEnKzF"
+    },
+    {
+      "added_at": "2026-10-06 15:00:39",
+      "album": {
+        "name": "Diamonds in the Sky",
+        "url": "https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 185031,
+      "name": "Diamonds in the Sky",
+      "url": "https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC"
     },
     {
       "added_at": "2026-10-06 15:00:39",
@@ -1123,38 +1155,6 @@
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
-        "name": "\u82b1\u852d",
-        "url": "https://open.spotify.com/album/1Vp0UrwO7vpuLDpk1uJg75"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "\u82b1\u852d",
-      "url": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF"
-    },
-    {
-      "added_at": "2026-10-06 15:00:39",
-      "album": {
-        "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
-        "url": "https://open.spotify.com/album/262lizNS5FxoWK1QFsGQGz"
-      },
-      "artists": [
-        {
-          "name": "\u3075\u307f\u306e",
-          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
-      "url": "https://open.spotify.com/track/3eh3LNQK84ZkwINGLotAON"
-    },
-    {
-      "added_at": "2026-10-06 15:00:39",
-      "album": {
         "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
         "url": "https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 217392,
       "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
       "url": "https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk"
-    },
-    {
-      "added_at": "2026-10-06 15:00:39",
-      "album": {
-        "name": "Made of Glass",
-        "url": "https://open.spotify.com/album/0uVgcnVehPQxQAEoxo5jXV"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C"
     },
     {
       "added_at": "2026-10-06 15:00:39",
@@ -1203,34 +1187,34 @@
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
-        "name": "\u6700\u5f8c\u306b\u71b1\u3044\u65e5\u3005\u3092\u72c2\u308f\u3057\u304d\u60f3\u3044\u3067",
-        "url": "https://open.spotify.com/album/435VD0Boy9b1FQ7HOsS4m6"
+        "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
+        "url": "https://open.spotify.com/album/262lizNS5FxoWK1QFsGQGz"
       },
       "artists": [
         {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
         }
       ],
-      "duration_ms": 240866,
-      "name": "\u3042\u306a\u305f\u306e\u82b1\u306e\u8272",
-      "url": "https://open.spotify.com/track/4or5caHru8j2EHRLmjSZay"
+      "duration_ms": 271733,
+      "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
+      "url": "https://open.spotify.com/track/3eh3LNQK84ZkwINGLotAON"
     },
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
-        "name": "From Tokyo with Love",
-        "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
+        "name": "Made of Glass",
+        "url": "https://open.spotify.com/album/0uVgcnVehPQxQAEoxo5jXV"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         }
       ],
-      "duration_ms": 217751,
-      "name": "TTTTOKYO",
-      "url": "https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez"
+      "duration_ms": 252680,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C"
     },
     {
       "added_at": "2026-10-06 15:00:39",
@@ -1247,6 +1231,22 @@
       "duration_ms": 229600,
       "name": "\u30e1\u30c7\u30a3\u30a2\u30ce\u30fc\u30c1\u30a7",
       "url": "https://open.spotify.com/track/0da1IJi7awMHj2O4ZzGFWj"
+    },
+    {
+      "added_at": "2026-10-06 15:00:39",
+      "album": {
+        "name": "From Tokyo with Love",
+        "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 217751,
+      "name": "TTTTOKYO",
+      "url": "https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez"
     },
     {
       "added_at": "2026-10-06 15:00:39",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
-        "name": "\u30db\u30c3\u30c8\u30e9\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/3rH2btuMjf3485k9s3ljwc"
-      },
-      "artists": [
-        {
-          "name": "\u3075\u307f\u306e",
-          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "\u30db\u30c3\u30c8\u30e9\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/6aqgve4vmCsIClXXBtExYi"
-    },
-    {
-      "added_at": "2026-10-06 15:00:39",
-      "album": {
         "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
         "url": "https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 259771,
       "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
       "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"
+    },
+    {
+      "added_at": "2026-10-06 15:00:39",
+      "album": {
+        "name": "\u30db\u30c3\u30c8\u30e9\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/3rH2btuMjf3485k9s3ljwc"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "\u30db\u30c3\u30c8\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/6aqgve4vmCsIClXXBtExYi"
     },
     {
       "added_at": "2026-10-06 15:00:39",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-10-06 15:00:39",
       "album": {
-        "name": "\u508d\u3089\u306b\u3066\u6708\u591c",
-        "url": "https://open.spotify.com/album/6Wxykt1HUiXg9UT438LVqJ"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 264284,
-      "name": "\u508d\u3089\u306b\u3066\u6708\u591c",
-      "url": "https://open.spotify.com/track/0o73gjLRlk3XPivSBvZGAV"
-    },
-    {
-      "added_at": "2026-10-06 15:00:39",
-      "album": {
         "name": "\u767e\u65e5\u8349",
         "url": "https://open.spotify.com/album/0U3TaCiy5hLI2urzi74CDG"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 223641,
       "name": "\u304a\u59eb\u69d8\u306b\u306f\u306a\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/4zRDU4Hp53z8d1ZiRFxbZt"
+    },
+    {
+      "added_at": "2026-10-06 15:00:39",
+      "album": {
+        "name": "\u508d\u3089\u306b\u3066\u6708\u591c",
+        "url": "https://open.spotify.com/album/6Wxykt1HUiXg9UT438LVqJ"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 264284,
+      "name": "\u508d\u3089\u306b\u3066\u6708\u591c",
+      "url": "https://open.spotify.com/track/0o73gjLRlk3XPivSBvZGAV"
     },
     {
       "added_at": "2026-10-06 15:00:39",

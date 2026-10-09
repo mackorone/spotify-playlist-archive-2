@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,965 likes - 75 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,988 likes - 75 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 67 | [Theanmearkku Paruva](https://open.spotify.com/track/3IUcrq0BDBWRP3siSHuX3P) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Karuthamma](https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW) | 5:02 |
 | 68 | [Columbus Columbus](https://open.spotify.com/track/5LUWhfLyBZ4BoSXjFrymts) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 4:52 |
 | 69 | [Sowkkiyama](https://open.spotify.com/track/1Bzj1DJpWaIEPfXrXbhvU0) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7), [Nithyasree](https://open.spotify.com/artist/6yLXX4buMky6p4XAwLmrNS) | [Sangamam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6vdKBhSKTE87sq6zq4BoAM) | 5:54 |
-| 70 | [Azhagana Rakshasiyea](https://open.spotify.com/track/22ES2cn1sUsVMn53YIjw57) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Mudhalvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HNLeUTKiANw8DtcLLpHPA) | 6:07 |
+| 70 | [Anjali Anjali](https://open.spotify.com/track/2E3pO72BvxtdE7FbvvJG8r) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 8:06 |
 | 71 | [Kuchi Kuchi Rakkamma](https://open.spotify.com/track/7zgUcaUKZJifUZdiGizuth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sharadha](https://open.spotify.com/artist/6vCB1lbO6PH4tz0EJUO2LR) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 5:03 |
 | 72 | [Chithirai Nilavu](https://open.spotify.com/track/0nQkNBxQrbZZgt7BKtW7GF) | [Jayachandran,Minmini](https://open.spotify.com/artist/03vYbI4ZFmXpaxpMaJbvI2) | [Vandicholai Chinnarasu \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/07Zi0VvutqeHXZuRJQT3cY) | 4:47 |
 | 73 | [Konjam Nilavu](https://open.spotify.com/track/7MBpd31LfRWqSq4S6iXm0t) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chandralekha Annupamaa](https://open.spotify.com/artist/2qpBRQ66e1zdpzBVNklhSv), [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 5:48 |
 | 74 | [Kaadhal Yogi](https://open.spotify.com/track/4gmqahu6i5AXRMgn4Lmg1f) | [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Thaalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1dqjhGrFSVGCsqf0BhDx4s) | 6:30 |
-| 75 | [Anjali Anjali](https://open.spotify.com/track/2E3pO72BvxtdE7FbvvJG8r) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 8:06 |
+| 75 | [Azhagana Rakshasiyea](https://open.spotify.com/track/22ES2cn1sUsVMn53YIjw57) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Mudhalvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HNLeUTKiANw8DtcLLpHPA) | 6:07 |
 
 Snapshot ID: `AAAAAD/Us2DwBFRjrbALem/w4jK63Ycs`

@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-569 songs - 1 day 16 hr 17 min
+570 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Ocean Breeze](https://open.spotify.com/track/4Le65jSJtaXIPNDG9RE5wK) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Ocean Breeze](https://open.spotify.com/album/2nE1n1tx0levn1VJmS7VMe) | 4:12 | 2024-02-23 | 2026-05-02 |
 | [Ocean Eyes](https://open.spotify.com/track/7uqirrAiIIibEKrFO20YYi) | [Streetwize](https://open.spotify.com/artist/2gYeRpwQQlTWbqBiAxvkej) | [Ocean Eyes](https://open.spotify.com/album/55obs98uEB9ub1E8wE7kGX) | 4:42 | 2021-01-22 | 2022-03-18 |
 | [Ocean Of Love](https://open.spotify.com/track/53i32tmdLAdHRFreWJUfsJ) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Ocean Of Love](https://open.spotify.com/album/3PAQowcQirHSZhyyrLtyoY) | 4:08 | 2021-05-07 | 2022-03-09 |
+| [October Nights](https://open.spotify.com/track/33iFfeY7WZ37MVgvaOwp97) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [October Nights](https://open.spotify.com/album/3Kpop9c8APS7fy7skeV7Ty) | 3:36 | 2026-10-09 |  |
 | [Off the Cuff](https://open.spotify.com/track/5Rfe42z4hAZae1jrQaogem) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Off the Cuff](https://open.spotify.com/album/52X8pH95UmbAMg9OnVjUMF) | 4:07 | 2021-05-28 | 2022-03-18 |
 | [Off The Top \- radio single](https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Off The Top](https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a) | 4:19 | 2022-09-23 | 2023-07-22 |
 | [On Cue](https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [On Cue](https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI) | 3:49 | 2023-05-05 | 2025-06-14 |
@@ -391,7 +392,7 @@
 | [Please Mr\. Groove](https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Comfort Zone](https://open.spotify.com/album/3Mj5ZSwArYBRCCRt6ZnN3L) | 3:53 | 2023-08-25 | 2026-07-18 |
 | [Pocket Change](https://open.spotify.com/track/20snJJndKSSbLElgCXgdIe) | [D.S\. Wilson](https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO) | [Pocket Change](https://open.spotify.com/album/5TSjBEXc9N8wFHUigfIjxx) | 4:03 | 2024-01-05 |  |
 | [Poolside](https://open.spotify.com/track/6VaD7LbQO6OekSsynIgmrd) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [SHINE!](https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL) | 5:14 | 2022-02-07 | 2023-04-09 |
-| [Power Of Love](https://open.spotify.com/track/6zJ1o08f3iSzApXkrvvtoN) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [Power Of Love](https://open.spotify.com/album/1mf44H1WGANYnw8ou3bOal) | 4:24 | 2026-09-04 |  |
+| [Power Of Love](https://open.spotify.com/track/6zJ1o08f3iSzApXkrvvtoN) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [Power Of Love](https://open.spotify.com/album/1mf44H1WGANYnw8ou3bOal) | 4:24 | 2026-09-04 | 2026-10-09 |
 | [Prime Time](https://open.spotify.com/track/3B9f8Piyib9RZsl4ikNhjK) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Prime Time](https://open.spotify.com/album/4xJ1NsoqjtwRuubt32onWm) | 4:00 | 2021-10-01 | 2022-07-29 |
 | [Promise Keeper](https://open.spotify.com/track/7hrP8okdHRFBn5WaHnIRKr) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Carl Cox](https://open.spotify.com/artist/6LnftpH4LWfg6QChPT8ekH) | [The Legacy Project](https://open.spotify.com/album/03GUcklCeLVe3Us2QIyGQ5) | 4:13 | 2025-09-19 | 2026-09-05 |
 | [Protest Injustice](https://open.spotify.com/track/1aREJJkEL35o73R4uw5w0z) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Protest Injustice](https://open.spotify.com/album/4DK0GKLXoPHbUTuq3AsWvX) | 3:39 | 2022-05-13 | 2023-04-15 |

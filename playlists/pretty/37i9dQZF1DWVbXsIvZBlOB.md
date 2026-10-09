@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ענבל ביבי
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,663 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,664 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 41 | [עוד מעט](https://open.spotify.com/track/3a3HKebXEUT9NT57czxigb) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [עוד מעט](https://open.spotify.com/album/6d163mfTjUcbaIN8F75IrN) | 4:04 |
 | 42 | [בסוף נלמד לחיות עם זה](https://open.spotify.com/track/15YcbMnBQygX7q3J8cXM5Y) | [Coral Bismuth](https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE) | [בסוף נלמד לחיות עם זה](https://open.spotify.com/album/4RT0ZdieupSMgRolBuk3A5) | 2:59 |
 | 43 | [מפונקת](https://open.spotify.com/track/4mwThvrKJPSohg6IoaMwkr) | [מיתר רובין](https://open.spotify.com/artist/0iuUXE5FLUIJWdHpSPdSM5) | [מפונקת](https://open.spotify.com/album/4o7P5GkQL1Gpm6yqCFrkf2) | 2:15 |
-| 44 | [הנה באתי הביתה \- אקוסטי](https://open.spotify.com/track/5JT446gZaUTbGDyj9xHegM) | [Itay Pearl](https://open.spotify.com/artist/6CrowZiPXE0WfF5xEzimLq), [Dana Berger](https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH) | [הנה באתי הביתה \(אקוסטי\)](https://open.spotify.com/album/0oE5fUjOSwNWNioQWiKvrL) | 3:49 |
+| 44 | [הנה באתי הביתה \- אקוסטי](https://open.spotify.com/track/3saxcOGpq29l85TFD7YxGa) | [Dana Berger](https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH), [Itay Pearl](https://open.spotify.com/artist/6CrowZiPXE0WfF5xEzimLq) | [הנה באתי הביתה \(אקוסטי\)](https://open.spotify.com/album/1LqT4JTW8b0QKuRb4r4I6d) | 3:49 |
 | 45 | [עם ישראל חי \(יש לנו אור\)](https://open.spotify.com/track/4G6xdbY7LJdV5i3y1i4ljQ) | [Maya Buskila](https://open.spotify.com/artist/4UnEeDqvDJudbJcn6GYSlS), [Mor Avrahami](https://open.spotify.com/artist/3N1sHAuik77fDlXppfZ0oC) | [עם ישראל חי \(יש לנו אור\)](https://open.spotify.com/album/0jVpIArhvznnHLaqeCItSq) | 2:57 |
 | 46 | [הילדים שלך שם \- עמיתי שלי](https://open.spotify.com/track/1GnwjUoHZHTztkFZmWp5G9) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [הילדים שלך שם \(עמיתי שלי\)](https://open.spotify.com/album/38NdmVClB030G0eGitb6cC) | 3:10 |
 | 47 | [הרס עצמי](https://open.spotify.com/track/0abjwd3FTSvovcpxUtL50z) | [הגר יפת](https://open.spotify.com/artist/0yuzd9F7msg9MS8MTzQOmy) | [הרס עצמי](https://open.spotify.com/album/5OCITwApAceUbvQaYWHzUc) | 3:00 |

@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-270 songs - 14 hr 32 min
+273 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,9 @@
 | [ALL I WANT FOR CHRISTMAS IS YOU](https://open.spotify.com/track/7rPinTAHul6UER4cNmyHY9) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Anna Moon](https://open.spotify.com/artist/0DGI7yVTDYCnkY06mBLBje) | [ALL I WANT FOR CHRISTMAS IS YOU \(feat\. Anna Moon\)](https://open.spotify.com/album/6ArfVumRHgUfcs9QafIkv9) | 4:06 | 2023-11-24 | 2024-10-19 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/5doDIuDiarczhIkbudNuUC) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [All I Want for Christmas Is You](https://open.spotify.com/album/7itCtZEW4ZIPgFGIGQ0Doo) | 3:35 | 2023-11-24 | 2024-10-19 |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/1gQy79tfOYkS0Qi3RTbwU2) | [Will Moseley](https://open.spotify.com/artist/27xQuXlRNt5dlQ4ripYabX) | [All I Want For Christmas Is You](https://open.spotify.com/album/62mMyseL69yhCM5Ot6yFyE) | 4:10 | 2024-11-01 | 2025-11-08 |
+| [All Wrapped Up In You](https://open.spotify.com/track/1VPhdrOA2wNeDOseBYf9K2) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [All Wrapped Up In You](https://open.spotify.com/album/1iJ9t4DG0517RBE3LhSKN3) | 3:29 | 2026-10-09 |  |
 | [All Wrapped Up In You This Christmas](https://open.spotify.com/track/3kZHAf5NMoICeHQfDEPKwW) | [Alex Miller](https://open.spotify.com/artist/2O6mQU9DIRojQ3mtDuqb4S) | [All Wrapped Up In You This Christmas](https://open.spotify.com/album/0wKF4OLDxdHM6I2OiV6iAz) | 2:51 | 2025-11-07 |  |
+| [April's Gone \(with Chris Stapleton\)](https://open.spotify.com/track/3dQGIaKFqXMaWunmfxPNjN) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [April's Gone \(with Chris Stapleton\)](https://open.spotify.com/album/1bqunVAYMifyWG4VXYRix5) | 4:32 | 2026-10-09 |  |
 | [Away In A Manger](https://open.spotify.com/track/6D94pUi1giJC1sVBditRtn) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Away In A Manger](https://open.spotify.com/album/3ORuymZJETPUMSb4UHm55c) | 2:19 | 2024-11-08 | 2025-11-08 |
 | [Baby, Let Me Be Your Santa Claus Tonight](https://open.spotify.com/track/03VmD9Lfq39jHz6IJg1xuZ) | [BOOMTOWN SAINTS](https://open.spotify.com/artist/53s00dAQvGIkjY33v4d4xZ) | [Baby, Let Me Be Your Santa Claus Tonight](https://open.spotify.com/album/0poAtGuujcoFi7k7lOqQxa) | 3:45 | 2023-12-22 | 2024-10-19 |
 | [Beautiful Star of Bethlehem](https://open.spotify.com/track/7FFXfYeF3H1IsSUbwyk3kC) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Beautiful Star of Bethlehem](https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx) | 3:26 | 2023-11-24 | 2024-10-19 |
@@ -122,6 +124,7 @@
 | [I'll Be Home For Christmas](https://open.spotify.com/track/0uRNguwONoOyXNVxiClRb8) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [I'll Be Home for Christmas](https://open.spotify.com/album/6hhqqTgsqc7gBcRDnGWK9a) | 2:47 | 2023-11-24 | 2024-10-19 |
 | [If We Make It Through December](https://open.spotify.com/track/5OMXC7Jl9HiQkQf2A3ZTTw) | [Belle Frantz](https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL) | [If We Make It Through December](https://open.spotify.com/album/1p8ECOiRrH5JRW0I1AYlru) | 3:09 | 2024-11-22 | 2025-11-08 |
 | [It Ain't Christmas](https://open.spotify.com/track/0JEGg96XY7WLsBqNuYhZMx) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [It Ain't Christmas](https://open.spotify.com/album/1r3dY7ccpCBc7GGobwmxv8) | 2:45 | 2023-11-24 | 2024-10-19 |
+| [It Ain't Really Christmas](https://open.spotify.com/track/0dPIPHcVQOpIITGai0NIhr) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [A Drake Milligan Christmas](https://open.spotify.com/album/5QaW8srykW5hiAiESZuWV4) | 2:46 | 2026-10-09 |  |
 | [It Must Be Christmas \- Piano](https://open.spotify.com/track/16Zv3O8qhxSuGX2jmA3JlS) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [It Must Be Christmas](https://open.spotify.com/album/4utqENqyuQxNqFZ96guhTu) | 3:05 | 2024-11-22 | 2025-11-08 |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/7DhjoC3MMOP7T0zTPUcCic) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/44zPwP1kchuLwKQRSGBWRT) | 3:20 | 2024-11-08 | 2025-11-08 |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/0FYfEH8h4uqj8HCsYA7iMz) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN), [The Campbell Family](https://open.spotify.com/artist/6AwSX4gGVkMuFQxtmnKE6Z) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/7N35BaXEu935ZiysEwAQp7) | 2:35 | 2024-11-29 | 2025-11-08 |

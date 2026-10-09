@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Mr Eazi",
+  "description": "Tracks popping off in the Afro scene. Cover: FOLA x Davido",
   "name": "Afro Station",
   "tracks": [
     {
@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "2am in toronto",
+      "url": "https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE"
+    },
+    {
+      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -198,7 +220,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 140160,
       "name": "4",
       "url": "https://open.spotify.com/track/0TwQx4EjJbI0WCmnP8n4HO"
@@ -2184,7 +2206,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 166150,
       "name": "B4 B4 (with Mayorkun & FOLA)",
       "url": "https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt"
@@ -2854,6 +2876,24 @@
       "duration_ms": 135937,
       "name": "Ballon d'or",
       "url": "https://open.spotify.com/track/7hVTHdRfY2A5jGedvkqpu0"
+    },
+    {
+      "album": {
+        "name": "BALOLA",
+        "url": "https://open.spotify.com/album/2BvehfrdgrLR1sESJIb3kx"
+      },
+      "artists": [
+        {
+          "name": "DEMENTOS",
+          "url": "https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170485,
+      "name": "BALOLA",
+      "url": "https://open.spotify.com/track/6LpcHie81yEytiFps4o1Qc"
     },
     {
       "album": {
@@ -3570,6 +3610,28 @@
       "duration_ms": 165456,
       "name": "Beslama Alik",
       "url": "https://open.spotify.com/track/7jINoZBnFqHGPpM2jHuPF4"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq"
     },
     {
       "album": {
@@ -4864,7 +4926,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 135652,
       "name": "Ca Ne Marche Pas",
       "url": "https://open.spotify.com/track/7eraMEp9CzCOEs4DnRsFVE"
@@ -5969,6 +6031,28 @@
     },
     {
       "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/6VE4Gpm0ZQbsF9OILfScC2"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/5L4G8DPHn5kMpCg7zrZ82f"
+    },
+    {
+      "album": {
         "name": "COCA BODY",
         "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
       },
@@ -6222,7 +6306,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 131000,
       "name": "Comme avant",
       "url": "https://open.spotify.com/track/6HSZigmDMJqQ7IvxqqriYZ"
@@ -7136,7 +7220,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 171111,
       "name": "Dantata",
       "url": "https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d"
@@ -12347,6 +12431,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Okay",
+        "url": "https://open.spotify.com/album/4FRm1vre15Rj6NwZnf9qmj"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199591,
+      "name": "I'll Be Okay",
+      "url": "https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW"
+    },
+    {
+      "album": {
         "name": "I'm Available",
         "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
       },
@@ -12948,7 +13050,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 190972,
       "name": "it's over",
       "url": "https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF"
@@ -13462,7 +13564,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 181000,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/5CYfZNnRoSRzMwaLyl4ey1"
@@ -13952,7 +14054,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188574,
       "name": "JURU",
       "url": "https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK"
@@ -18804,7 +18906,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 162519,
       "name": "Ngami Amich\u00e9",
       "url": "https://open.spotify.com/track/7ouRHt3TSDAqSiRJOGNlw4"
@@ -21903,6 +22005,24 @@
     },
     {
       "album": {
+        "name": "Pourquoi ??",
+        "url": "https://open.spotify.com/album/6Qn1X8h93QFtKfdu0mwQ5W"
+      },
+      "artists": [
+        {
+          "name": "Dayarga",
+          "url": "https://open.spotify.com/artist/5PcBbqK2yMNnbp7c3hRDuX"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137385,
+      "name": "Pourquoi ??",
+      "url": "https://open.spotify.com/track/1BLdz8Hfb3my3XKJapaMYG"
+    },
+    {
+      "album": {
         "name": "Pourquoi tu me fais \u00e7a",
         "url": "https://open.spotify.com/album/0KLKUEtiB639nVAoVdSLqx"
       },
@@ -23559,6 +23679,28 @@
     },
     {
       "album": {
+        "name": "SENTIMENTS",
+        "url": "https://open.spotify.com/album/0UFDin9BI5vzBOBUYoY4N1"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "SENTIMENTS",
+      "url": "https://open.spotify.com/track/69c047hFRsd6uFND548cfD"
+    },
+    {
+      "album": {
         "name": "Sesi",
         "url": "https://open.spotify.com/album/3yBUvZ7lmnGicfM5Of3xTt"
       },
@@ -24069,6 +24211,28 @@
     },
     {
       "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/0PfWw5LC4EA0LtkRzSlzJH"
+      },
+      "artists": [
+        {
+          "name": "Vicky R",
+          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
+        },
+        {
+          "name": "Singuila",
+          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164217,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/7gecqbq9bEbmrGWSUg7G7f"
+    },
+    {
+      "album": {
         "name": "Smooth Boy",
         "url": "https://open.spotify.com/album/7eUGHFdB2vChzStX6avBQ0"
       },
@@ -24270,6 +24434,24 @@
       "duration_ms": 141891,
       "name": "Solar",
       "url": "https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM"
+    },
+    {
+      "album": {
+        "name": "Somay\u00e9",
+        "url": "https://open.spotify.com/album/3Snvr2LuIWIFTSCvLZI73h"
+      },
+      "artists": [
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129230,
+      "name": "Somay\u00e9",
+      "url": "https://open.spotify.com/track/1bBoK40Rb0LvRDXyJSxCYj"
     },
     {
       "album": {
@@ -25338,7 +25520,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 123240,
       "name": "TchopMoney",
       "url": "https://open.spotify.com/track/1vldjCDqW7ca3EZvTMYftU"
@@ -27182,7 +27364,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 136859,
       "name": "Vody",
       "url": "https://open.spotify.com/track/79yLh07evC9J8rP28x7Xqv"
@@ -27596,6 +27778,32 @@
       "duration_ms": 156470,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/7bGsxNSpJKsANYwHTrYIHp"
+    },
+    {
+      "album": {
+        "name": "What A Feeling",
+        "url": "https://open.spotify.com/album/233CXYAN2uRStnzufNSzHm"
+      },
+      "artists": [
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155840,
+      "name": "What A Feeling",
+      "url": "https://open.spotify.com/track/0zUzki4TULK7JUbWf2ILwV"
     },
     {
       "album": {
@@ -28268,7 +28476,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 200666,
       "name": "YoYo",
       "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"

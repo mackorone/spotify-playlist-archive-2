@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: \u00c9l\u00e9gie",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: The Barr Brothers",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 136532,
       "name": "1 000 000 de probl\u00e8mes",
       "url": "https://open.spotify.com/track/2QLNaHqtcN5EXgGeAG0Mov"
+    },
+    {
+      "album": {
+        "name": "1 MILLION DE GENS",
+        "url": "https://open.spotify.com/album/6weMvgoIpZXKUdBpok02yf"
+      },
+      "artists": [
+        {
+          "name": "Rose Duke",
+          "url": "https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "1 MILLION DE GENS",
+      "url": "https://open.spotify.com/track/7uFuWGa55gb5o45QxFRLFM"
     },
     {
       "album": {
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 309410,
       "name": "Barking at the Sun",
       "url": "https://open.spotify.com/track/2LZZFoUonV4oO9vKCxVBAP"
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 226066,
       "name": "Bruit",
       "url": "https://open.spotify.com/track/356F6ZVKGCMssYw2P57SVR"
@@ -3801,6 +3819,24 @@
     },
     {
       "album": {
+        "name": "English Harbour (Slow Fawn Version)",
+        "url": "https://open.spotify.com/album/58WMvj6FDmzGaAlH4S46AT"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281272,
+      "name": "English Harbour - Slow Fawn Version",
+      "url": "https://open.spotify.com/track/2OAn1kEuqqZyqTfMhv4jJ1"
+    },
+    {
+      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -5818,6 +5854,24 @@
       "duration_ms": 127832,
       "name": "Kal\u00e9idoscope",
       "url": "https://open.spotify.com/track/0Ftgq4He4Gf6llPi0sJfaY"
+    },
+    {
+      "album": {
+        "name": "Kathleen",
+        "url": "https://open.spotify.com/album/0320GwlmSLBxrV80JSA2CL"
+      },
+      "artists": [
+        {
+          "name": "SOMET",
+          "url": "https://open.spotify.com/artist/37pNkcmGemurl5LhkDwjak"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270461,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/4X1GOBjOLKUc90poQMT0eX"
     },
     {
       "album": {
@@ -9134,7 +9188,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 216146,
       "name": "Polymorphe",
       "url": "https://open.spotify.com/track/1UfDzEfCPcfuZ5lLYKXwIm"
@@ -9192,6 +9246,24 @@
       "duration_ms": 143571,
       "name": "Poser poetry",
       "url": "https://open.spotify.com/track/1A9LPY36lrkLXfVef9yIBq"
+    },
+    {
+      "album": {
+        "name": "Strobus / Banksiana",
+        "url": "https://open.spotify.com/album/5PAT7mWa6xPCiKHGdtuxDx"
+      },
+      "artists": [
+        {
+          "name": "Duu",
+          "url": "https://open.spotify.com/artist/1SsXg212vipwIjhJp0Ut9q"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236174,
+      "name": "Poulpe",
+      "url": "https://open.spotify.com/track/19X3vwy5UerNhVQI2vp9DH"
     },
     {
       "album": {
@@ -11572,7 +11644,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 153346,
       "name": "TRACAS",
       "url": "https://open.spotify.com/track/7AMELJ6olqoYjERd6pGpIU"

@@ -1,6 +1,6 @@
 {
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Joe Cupertino",
-  "num_followers": 6819,
+  "num_followers": 6820,
   "original_name": "+81 Connect FRESH",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
       "duration_ms": 95308,
       "name": "Grind Season",
       "url": "https://open.spotify.com/track/1KuEzLqiYh9I4wDMuu2e6k"
+    },
+    {
+      "added_at": "2026-10-06 15:01:40",
+      "album": {
+        "name": "You don't wanna put pickles",
+        "url": "https://open.spotify.com/album/0C3TVryflMEmWbeeWFfUE5"
+      },
+      "artists": [
+        {
+          "name": "Yusef Imamura",
+          "url": "https://open.spotify.com/artist/2zYkpFBLyfskSrJl3zu7ov"
+        }
+      ],
+      "duration_ms": 158823,
+      "name": "You don't wanna put pickles",
+      "url": "https://open.spotify.com/track/2V38UkKwr8pHIQ7dUy8DEH"
     },
     {
       "added_at": "2026-10-06 15:01:40",
@@ -875,6 +891,22 @@
       "duration_ms": 98666,
       "name": "\u884c\u9032",
       "url": "https://open.spotify.com/track/5OD5DVyeEcKghoXi1AKv5C"
+    },
+    {
+      "added_at": "2026-10-06 15:01:40",
+      "album": {
+        "name": "YOKO ONO",
+        "url": "https://open.spotify.com/album/32IouOFg14Fn97teye2owx"
+      },
+      "artists": [
+        {
+          "name": "Leviryi",
+          "url": "https://open.spotify.com/artist/0dHYc5ljM3Nocqd42goUM5"
+        }
+      ],
+      "duration_ms": 226216,
+      "name": "YOKO ONO",
+      "url": "https://open.spotify.com/track/2K7XRbjCUEYf0m7lvMvXNR"
     },
     {
       "added_at": "2026-10-06 15:01:40",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Imminence are on top of today's best Metal playlist.",
+  "description": "Calva Louise are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -648,6 +648,28 @@
       "duration_ms": 201320,
       "name": "Abilene Grime",
       "url": "https://open.spotify.com/track/6SKTgAhiEMtU1GWx6Vguz3"
+    },
+    {
+      "album": {
+        "name": "Absolute Onslaught",
+        "url": "https://open.spotify.com/album/0K76v6EHAyK1fGjCIgQ7ld"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        },
+        {
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258853,
+      "name": "Absolute Onslaught",
+      "url": "https://open.spotify.com/track/7JVhRqijN2r77tsNaHDMhL"
     },
     {
       "album": {
@@ -1666,7 +1688,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 247572,
       "name": "Ashes of a New Dawn",
       "url": "https://open.spotify.com/track/0306HvCbbpEpIdUxSdLAFu"
@@ -2430,7 +2452,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 117666,
       "name": "BIRDS: DYING FETUS VERSION",
       "url": "https://open.spotify.com/track/0f61lBvW0T2MbrZGZPcBwZ"
@@ -6575,6 +6597,24 @@
     },
     {
       "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/3Bm3vw6rxLUGI2RiD4HdUY"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/0pyFy1WKgJ64vTI73iLRvc"
+    },
+    {
+      "album": {
         "name": "Disappoint Me",
         "url": "https://open.spotify.com/album/2mSPOTwIwW8TkscyYGsETO"
       },
@@ -8687,6 +8727,24 @@
     },
     {
       "album": {
+        "name": "Fear Based Life",
+        "url": "https://open.spotify.com/album/086eMd4hJaJxTRj33KmRFN"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154653,
+      "name": "Fear Based Life",
+      "url": "https://open.spotify.com/track/2vlyJGYuyjE839pSMiGnvb"
+    },
+    {
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC"
       },
@@ -8984,7 +9042,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160930,
       "name": "Flesh and Nails (feat. Kyle Medina)",
       "url": "https://open.spotify.com/track/2LQvA2o8zyqLzz92VIU4rP"
@@ -11289,6 +11347,24 @@
     },
     {
       "album": {
+        "name": "At Work In The Fields Of The Bomb",
+        "url": "https://open.spotify.com/album/7tIVbLtTqWrlTnoPiLLA1R"
+      },
+      "artists": [
+        {
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436850,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0"
+    },
+    {
+      "album": {
         "name": "Hunting Season",
         "url": "https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6"
       },
@@ -13377,6 +13453,24 @@
     },
     {
       "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/35e8rg7jfHUZafZpTAuhp5"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191543,
+      "name": "La Promesa",
+      "url": "https://open.spotify.com/track/5anCJxgVfQLzlHJ53tXOXm"
+    },
+    {
+      "album": {
         "name": "Labyrinth of Stone",
         "url": "https://open.spotify.com/album/17qNRU2LfnOuZUFmD4LRPY"
       },
@@ -13530,6 +13624,24 @@
     {
       "album": {
         "name": "Landfall",
+        "url": "https://open.spotify.com/album/0Ay1TtiMnvGMq1SnRXOnHp"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222418,
+      "name": "Landfall",
+      "url": "https://open.spotify.com/track/0PQB8DYOOavNJpZ1eMwFc2"
+    },
+    {
+      "album": {
+        "name": "Landfall",
         "url": "https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE"
       },
       "artists": [
@@ -13540,7 +13652,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 222418,
       "name": "Landfall",
       "url": "https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd"
@@ -16584,7 +16696,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 308375,
       "name": "Nuclear God",
       "url": "https://open.spotify.com/track/478SPzkDZBYwvrq9N3N9Xj"
@@ -18161,6 +18273,24 @@
     },
     {
       "album": {
+        "name": "Precinct 3 / Scavenger",
+        "url": "https://open.spotify.com/album/3zPrUvKsKqARv9v1UOzS1d"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196906,
+      "name": "Precinct 3",
+      "url": "https://open.spotify.com/track/7CVKE0c9CI9mGi6wlY2jka"
+    },
+    {
+      "album": {
         "name": "Prison of Flesh",
         "url": "https://open.spotify.com/album/2nyNqY9t8kn8m1nwLSxEtC"
       },
@@ -18536,7 +18666,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 379333,
       "name": "Raise The Raven Banner",
       "url": "https://open.spotify.com/track/2gJ9EkvcR1I4cAJiVeiJnC"
@@ -19014,6 +19144,24 @@
       "duration_ms": 215455,
       "name": "Reward the Scars",
       "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
+    },
+    {
+      "album": {
+        "name": "Ride Of The Valkyries",
+        "url": "https://open.spotify.com/album/5ttcVRKsLDjqVSJdVKKlcG"
+      },
+      "artists": [
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405146,
+      "name": "Ride Of The Valkyries",
+      "url": "https://open.spotify.com/track/4dMoCzikbBqwZs0WceyuIL"
     },
     {
       "album": {
@@ -23464,7 +23612,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 225600,
       "name": "The Kids Will Kill Us",
       "url": "https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI"
@@ -23500,7 +23648,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 146765,
       "name": "The Leaving Process",
       "url": "https://open.spotify.com/track/0dHW1nwMkqLQIIg4m6GlDb"
@@ -23678,6 +23826,28 @@
       "duration_ms": 291639,
       "name": "The Path",
       "url": "https://open.spotify.com/track/1O3LoiZkCtRgW3AWJ5z7fp"
+    },
+    {
+      "album": {
+        "name": "The Path I Walk (feat. Tina Guo)",
+        "url": "https://open.spotify.com/album/2qoBgM4Osa6aCs6NbEhCM4"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        },
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294500,
+      "name": "The Path I Walk (feat. Tina Guo)",
+      "url": "https://open.spotify.com/track/6S1rTql08WO4I3wkdADWfa"
     },
     {
       "album": {
@@ -25318,7 +25488,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 161306,
       "name": "Ultraviolet Parasite",
       "url": "https://open.spotify.com/track/19xaqmguTFdtJepNgV0EsR"

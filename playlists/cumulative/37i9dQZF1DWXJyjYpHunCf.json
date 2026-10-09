@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Joy Oladokun",
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Jonah Kagen",
   "name": "Folk Pop",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 179928,
       "name": "Another Summer Night",
       "url": "https://open.spotify.com/track/3qNCkA9U5RgDiUonpjZgeN"
@@ -1699,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Can't Get Her Out",
+        "url": "https://open.spotify.com/album/0icqJUhRxpiKVUDbAfeTwZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Nicholson",
+          "url": "https://open.spotify.com/artist/6eQTaqo4g4YbBNGGLCjgWD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175442,
+      "name": "Can't Get Her Out",
+      "url": "https://open.spotify.com/track/0kTzjJlO8Uyn0KWqbThJ5E"
+    },
+    {
+      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/5SKhuMgqfentWeU7xaMZBO"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 230787,
       "name": "Dashboard",
       "url": "https://open.spotify.com/track/1yO0BdWqCN0ND5JzQPhMpT"
@@ -2428,6 +2446,24 @@
       "duration_ms": 228000,
       "name": "Dinner",
       "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
+    },
+    {
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
     },
     {
       "album": {
@@ -2692,6 +2728,28 @@
       "duration_ms": 176600,
       "name": "down the line",
       "url": "https://open.spotify.com/track/0zoYQ34bq09BhbkidNy2hA"
+    },
+    {
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "album": {
@@ -4586,6 +4644,24 @@
       "duration_ms": 262383,
       "name": "Help Me to Feel Again",
       "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
+    },
+    {
+      "album": {
+        "name": "Here Goes Nothing",
+        "url": "https://open.spotify.com/album/59k3cmuaTlZ1Ei1T93zmeA"
+      },
+      "artists": [
+        {
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236474,
+      "name": "Here Goes Nothing",
+      "url": "https://open.spotify.com/track/7vU4qjZlGitheGQBuGYOZY"
     },
     {
       "album": {
@@ -6519,6 +6595,24 @@
     },
     {
       "album": {
+        "name": "YOUNG REGAN (DELUXE)",
+        "url": "https://open.spotify.com/album/1NqIQZTcmxP8madYp5ClfZ"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191625,
+      "name": "love me like you do",
+      "url": "https://open.spotify.com/track/6Ztq2Xzn9zK7cLQIBgeZQU"
+    },
+    {
+      "album": {
         "name": "Outside the Chateau Apartments",
         "url": "https://open.spotify.com/album/6IeuhpS6DhsKHD8vdVGyqo"
       },
@@ -6632,7 +6726,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 287063,
       "name": "Matches & Gasoline",
       "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
@@ -8470,7 +8564,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 185076,
       "name": "Saving Grace",
       "url": "https://open.spotify.com/track/2QwVLmoHNRrPjStGPPts5G"
@@ -8918,7 +9012,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 167808,
       "name": "Somebody Nobody Gets Over",
       "url": "https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo"

@@ -16070,6 +16070,24 @@
     {
       "album": {
         "name": "Pressure",
+        "url": "https://open.spotify.com/album/4s49UYh2vp47bPR3LWwm8Z"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151254,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3hIu75W02DynPMCEFyzZcI"
+    },
+    {
+      "album": {
+        "name": "Pressure",
         "url": "https://open.spotify.com/album/2W2vZJBEdyswIanzJUKuct"
       },
       "artists": [
@@ -18136,7 +18154,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 151547,
       "name": "Shine",
       "url": "https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU"

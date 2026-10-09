@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,673 likes - 90 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,802 likes - 90 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 46 | [Raise Your Energy \(852Hz\)](https://open.spotify.com/track/16z4snU0gQykT7Fa1XFpGR) | [Calm Fjord](https://open.spotify.com/artist/1EW1nRB3KsmTEty2h0kkXb), [Zen Design](https://open.spotify.com/artist/26Upt6kejOlrywBnPzKKDH), [Serenidad Celestial](https://open.spotify.com/artist/4LRluVEgG15itO81Df2CfO) | [Raise Your Energy \(852Hz\)](https://open.spotify.com/album/5KgOEPEoph8fHdcIBabexB) | 1:30 |
 | 47 | [852 Hz Deep Sleep](https://open.spotify.com/track/44H0SNsJfcSkxbwJbbkIJk) | [Adante Loribam](https://open.spotify.com/artist/6yUnw2ABAiV3SF8GXwD7ed) | [852 Hz Deep Sleep](https://open.spotify.com/album/1Z6s1HvUR5XztSbohgI3vH) | 2:30 |
 | 48 | [Airflow 852 Hz](https://open.spotify.com/track/2BQbu0YeQKRvnHOpNDNq2N) | [Hugo Falkman](https://open.spotify.com/artist/6nLo9HoDwesK6BJRG4vSV6) | [Airflow 852 Hz](https://open.spotify.com/album/4irysDaRcBHxrNZbrPPDa5) | 2:44 |
-| 49 | [North of Silence \(852Hz\)](https://open.spotify.com/track/18XM4MULvzAP0iNpcJwHLh) | [Sofia Garcia](https://open.spotify.com/artist/059kZ6L81L9esBUHT9fTDR) | [North of Silence \(852Hz\)](https://open.spotify.com/album/2chQ7osjcAI4pH842mHSPp) | 2:40 |
+| 49 | [North of Silence \(852Hz\)](https://open.spotify.com/track/18XM4MULvzAP0iNpcJwHLh) | [Sofia Garcia](https://open.spotify.com/artist/513qG0sPNTxFlWOkWyFpGi) | [North of Silence \(852Hz\)](https://open.spotify.com/album/2chQ7osjcAI4pH842mHSPp) | 2:40 |
 | 50 | [852 Hz Internal Clock](https://open.spotify.com/track/0d4OwEIoc7kj5Qs68Zhg9r) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [852 Hz Internal Clock](https://open.spotify.com/album/6stLsh1bdCVlnG4konuyjR) | 3:06 |
 | 51 | [Spiritual Order 852 Hz](https://open.spotify.com/track/0eiEtlBjBDm3xGWRLS1wG6) | [muir](https://open.spotify.com/artist/3ehZHQxahjBQ3Xz2fGvs28) | [Spiritual Order 852 Hz](https://open.spotify.com/album/24kEUlp9kHsL69laxkCd5b) | 2:20 |
 | 52 | [Theta Waves, Raise Your Energy \(852Hz\)](https://open.spotify.com/track/0iIhVBuyoG4xPQAOwTW1aj) | [Josette DePenros](https://open.spotify.com/artist/1ZTAyTrb41xy9Z0Le4TeWf) | [Theta Waves, Raise Your Energy \(852Hz\)](https://open.spotify.com/album/4r2gclEgK3PsILliRZNuzF) | 1:30 |

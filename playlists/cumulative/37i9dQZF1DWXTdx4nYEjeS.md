@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,059 songs - 2 day 16 hr 19 min
+1,060 songs - 2 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [Ella Usó Mi cabeza Como Un Revólver \- Spotify Singles](https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Spotify Singles](https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT) | 4:19 | 2024-11-07 | 2025-02-10 |
 | [En Cualquiera](https://open.spotify.com/track/48dng5PsTgN8qB1WQI7P21) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 4:41 | 2022-04-01 | 2022-04-16 |
 | [En el Aire](https://open.spotify.com/track/7hvMIzFFtuHNJc1HiN4UmC) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/7HdBqIvlR6yFwN1a5q1QVI) | 4:18 | 2022-04-01 | 2022-04-20 |
-| [En EL Limbo](https://open.spotify.com/track/0NoFZ4BKeZw0qLDEC90hMc) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:42 | 2022-03-28 |  |
+| [En EL Limbo](https://open.spotify.com/track/0NoFZ4BKeZw0qLDEC90hMc) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:42 | 2022-03-28 | 2026-10-09 |
 | [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 | 2022-03-28 |  |
 | [En la Moto](https://open.spotify.com/track/3oOnGcGqJEH17jLSxsMFFA) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [En la Moto](https://open.spotify.com/album/2IKdzeh2FO1aelXzus5Yyj) | 2:53 | 2025-07-18 | 2025-09-06 |
 | [En la Tierra](https://open.spotify.com/track/4Woj2q0JOLFGssd9c4Ntia) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [En la Tierra](https://open.spotify.com/album/1JIu9l71PJvTnAhqCyFBHn) | 3:13 | 2024-06-28 | 2024-08-23 |
@@ -795,6 +795,7 @@
 | [Pura Mentira](https://open.spotify.com/track/56U5ZlKZbnJNwLC541b99S) | [Guillermo Beresñak](https://open.spotify.com/artist/6nVfCc2kQYEbOAf5xEfN24), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Las últimas canciones creadas por humanos](https://open.spotify.com/album/5cWft5c7dCumzQHLkY6jcp) | 2:54 | 2022-04-08 | 2022-04-21 |
 | [Puro Carisma](https://open.spotify.com/track/6wHR1BYuu0QN3HHhKDBFQR) | [EL EXTRA & LOS IMPOSIBLES](https://open.spotify.com/artist/6MIuW4xEA4nLMGYaaUOUME) | [Del Otro Lado](https://open.spotify.com/album/6wHfS0CVXw7rUsVtnX8hrG) | 4:46 | 2022-04-01 | 2022-04-12 |
 | [Puro Sentimiento \(feat\. Santana\)](https://open.spotify.com/track/2r8qG4YFzE1pr1SqEFETe5) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Puro Sentimiento \(feat\. Santana\)](https://open.spotify.com/album/7fEZRC1E1AJEX2Ee1Ha5Bh) | 3:56 | 2022-03-24 | 2022-04-09 |
+| [Putita](https://open.spotify.com/track/0vv37Rsh43hXpgpu4ZJ0S3) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Himnos Nacionales, Vol\. 1](https://open.spotify.com/album/7yzkbBGeviqxNpA0AWcc1A) | 3:06 | 2026-10-09 |  |
 | [Putita \- En Vivo](https://open.spotify.com/track/43r48Z870l22Azz0WbdvNo) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Putita \(En Vivo\)](https://open.spotify.com/album/3C0JntgCNROuxKbNiUPMJ6) | 3:41 | 2022-04-01 | 2022-04-16 |
 | [Póstumo](https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Póstumo](https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ) | 3:34 | 2024-05-24 | 2024-08-23 |
 | [q haces?](https://open.spotify.com/track/75UAP2WWZFJQSOk06m1HPT) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [q haces?](https://open.spotify.com/album/1wBLasyWpyYSmMbkEAjhfy) | 1:11 | 2023-05-05 | 2023-07-29 |

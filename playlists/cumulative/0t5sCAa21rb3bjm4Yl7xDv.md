@@ -2,7 +2,7 @@
 
 ### [Pop Hits 2026](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Taylor Swift
+> pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: ADÉLA
 
 695 songs - 1 day 12 hr 50 min
 

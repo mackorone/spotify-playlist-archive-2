@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,982 songs - 4 day 15 hr 23 min
+1,983 songs - 4 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Brickell \- Intro Extended](https://open.spotify.com/track/1twg8SuwiVBgvLedoXpv4R) | [Luna Cristofanelli](https://open.spotify.com/artist/3HQ5dYTQ6URNajUz07H0pr) | [Brickell \- Intro Extended](https://open.spotify.com/album/6qLVubWoPeCUoc9KocPQAg) | 2:58 | 2024-06-18 | 2024-06-26 |
 | [Broly](https://open.spotify.com/track/59JV4rlxRU7jbuhnDIXOg9) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 2:51 | 2025-04-05 | 2025-04-08 |
 | [BRRR](https://open.spotify.com/track/029cuB69yYCgVHND32hjcT) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:36 | 2022-12-10 | 2022-12-12 |
-| [BRRR CON BRRR](https://open.spotify.com/track/5EphQu1h9GzKMXAGXsN48m) | [El Yeyo PP](https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2), [Bonuchi](https://open.spotify.com/artist/6VSteFvUqNFlqTmN66YxdI) | [BRRR CON BRRR](https://open.spotify.com/album/4xTljUaAdQRlNYkkDwaT3O) | 3:04 | 2026-08-09 |  |
+| [BRRR CON BRRR](https://open.spotify.com/track/5EphQu1h9GzKMXAGXsN48m) | [El Yeyo PP](https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2), [Bonuchi](https://open.spotify.com/artist/6VSteFvUqNFlqTmN66YxdI) | [BRRR CON BRRR](https://open.spotify.com/album/4xTljUaAdQRlNYkkDwaT3O) | 3:04 | 2026-08-09 | 2026-10-09 |
 | [BUBALU](https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:48 | 2023-11-10 | 2024-01-21 |
 | [BUBALU](https://open.spotify.com/track/0SzrJpUj7Tij35k90crvMW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 3:48 | 2023-09-30 | 2023-10-05 |
 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 | 2023-09-23 | 2023-09-25 |
@@ -1968,6 +1968,7 @@
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-07-07 |
 | [Yo No Se](https://open.spotify.com/track/1MxMBirljZVgAB9jdjB61x) | [Chucho Flash](https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Yo No Se](https://open.spotify.com/album/67ItedIgITHZoRz4VVqukx) | 2:58 | 2021-12-25 | 2022-01-15 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-11-26 |
+| [YO QUIERO \- REMIX](https://open.spotify.com/track/3t6lnxmOfBc57QRoqvOLdo) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [YO QUIERO \(REMIX\)](https://open.spotify.com/album/1lm2EZq4pOP5EOQdv4msEQ) | 6:02 | 2026-10-08 |  |
 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 | 2024-12-07 | 2025-12-20 |
 | [Yo Te Llamo](https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6) | [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [De 0 a 100](https://open.spotify.com/album/56xJFIXqrvIjX2GldeMfwl) | 2:33 | 2024-01-06 | 2024-11-22 |
 | [Yo Te Quiero \(feat\. Chris Jonex\)](https://open.spotify.com/track/5rRYtMoEDY3HrvV13jcsom) | [Bimbo el Oso Mañoso](https://open.spotify.com/artist/2P5WbTImnPSJQV4ZbQuQZ3), [Big Metra](https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU), [KIO "El Historiador"](https://open.spotify.com/artist/3bkz7ccHi6jiOIag1UyKkE), [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [Yo Te Quiero \(feat\. Chris Jonex\)](https://open.spotify.com/album/30l1FG5sTXJH2ZLBeAkXWn) | 3:15 | 2024-10-29 | 2024-11-05 |

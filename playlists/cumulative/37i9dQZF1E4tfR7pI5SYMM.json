@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Old, The Dogs, Crimson Disc and more",
+  "description": "With Jon Drake, Autoimmune, The Old and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 158311,
       "name": "#StopPayola",
       "url": "https://open.spotify.com/track/5FFYcyT1354rYzaQ064bW3"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 200950,
       "name": "Actors",
       "url": "https://open.spotify.com/track/2pynZ1PXTL00ClGi6Vhbps"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 228150,
       "name": "Arvidsjaur",
       "url": "https://open.spotify.com/track/0Bziz2o8iBriC8mTfloP2C"
@@ -1002,6 +1002,24 @@
       "duration_ms": 225280,
       "name": "Atas",
       "url": "https://open.spotify.com/track/21cId72nZyamxBfnTGwn8b"
+    },
+    {
+      "album": {
+        "name": "Attrition",
+        "url": "https://open.spotify.com/album/2GnixSbgqFWAJEjOCptCTS"
+      },
+      "artists": [
+        {
+          "name": "Facula",
+          "url": "https://open.spotify.com/artist/0giFkTzG5RrbItS5BzNYQf"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191225,
+      "name": "Attrition",
+      "url": "https://open.spotify.com/track/4RMccHZii59g4LsuXKdiCd"
     },
     {
       "album": {
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 171441,
       "name": "Busan Serenade",
       "url": "https://open.spotify.com/track/2BeEL612JUHRUoJKhBZuuf"
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 216756,
       "name": "Carry The Light",
       "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
@@ -2260,6 +2278,24 @@
       "duration_ms": 226500,
       "name": "Casa Roso",
       "url": "https://open.spotify.com/track/7CZfz8qrIn4saLU03GHhmq"
+    },
+    {
+      "album": {
+        "name": "Casca Vazia",
+        "url": "https://open.spotify.com/album/0GK7D3cILFXqPxoShaRnUa"
+      },
+      "artists": [
+        {
+          "name": "Clandestinos",
+          "url": "https://open.spotify.com/artist/5WHuIGWeszbpy5C3OXIsHK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227696,
+      "name": "Casca Vazia",
+      "url": "https://open.spotify.com/track/7yjoF01OVUYeOSJqmaGxqz"
     },
     {
       "album": {
@@ -2724,7 +2760,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -2800,6 +2836,24 @@
       "duration_ms": 268510,
       "name": "Control",
       "url": "https://open.spotify.com/track/7DGsGpngDhy1kNi5ZHBNMl"
+    },
+    {
+      "album": {
+        "name": "Cool Ade",
+        "url": "https://open.spotify.com/album/79IEBUCgmXDlbPi73tDDPj"
+      },
+      "artists": [
+        {
+          "name": "Jon Drake",
+          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230912,
+      "name": "Cool Ade",
+      "url": "https://open.spotify.com/track/1r5Euk8Scmv9OhA6xMLr2m"
     },
     {
       "album": {
@@ -3132,6 +3186,24 @@
       "duration_ms": 239880,
       "name": "Dark Rain",
       "url": "https://open.spotify.com/track/5rvu38f50rNJBy2KziIspi"
+    },
+    {
+      "album": {
+        "name": "Darse Cuenta",
+        "url": "https://open.spotify.com/album/3igYv6grfh6myFZuQaNhU9"
+      },
+      "artists": [
+        {
+          "name": "Orlando Vitale",
+          "url": "https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211357,
+      "name": "Darse Cuenta",
+      "url": "https://open.spotify.com/track/2I5NXGp5RJovNOdIp2lFH4"
     },
     {
       "album": {
@@ -3517,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "Psithyros",
+        "url": "https://open.spotify.com/album/5AoDtdpTvD8cKTTRuiWLqd"
+      },
+      "artists": [
+        {
+          "name": "Velfragor",
+          "url": "https://open.spotify.com/artist/2KLxc9nLY9uny6pPYSJh9X"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210961,
+      "name": "Devil's Night",
+      "url": "https://open.spotify.com/track/1rDU40IvTcXGerxa1QQAau"
+    },
+    {
+      "album": {
         "name": "Diamonds Like We Are",
         "url": "https://open.spotify.com/album/5LPOQBRd3yWVrKNQ9jqYA8"
       },
@@ -3705,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/4j0Va9SAW9be75dXX3GgHG"
+      },
+      "artists": [
+        {
+          "name": "Denver Meatpacking Company",
+          "url": "https://open.spotify.com/artist/404tp3wj9OWyVevGQYg5HO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198765,
+      "name": "Do As I Do",
+      "url": "https://open.spotify.com/track/2ZQKK2ivat6J4nK0xe6aMI"
+    },
+    {
+      "album": {
         "name": "'Magik'",
         "url": "https://open.spotify.com/album/1XGr2v3DTpbipCEPcEFSsy"
       },
@@ -3864,7 +3972,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -5190,7 +5298,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -5208,7 +5316,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 301250,
       "name": "Fall from Grace",
       "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
@@ -7268,7 +7376,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 297735,
       "name": "I Consider My Own",
       "url": "https://open.spotify.com/track/0NvwPZNNlbcuiiyyhexD7u"
@@ -7470,7 +7578,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 189899,
       "name": "I wanna feel like an Animal",
       "url": "https://open.spotify.com/track/2pj1FkIeSO102FUof0vd7E"
@@ -7960,7 +8068,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -9535,6 +9643,24 @@
     },
     {
       "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/0ZFAsOnjjoFElwo8yiPzwB"
+      },
+      "artists": [
+        {
+          "name": "Alex Lopez",
+          "url": "https://open.spotify.com/artist/55LFEf3DOnZXlfdLwQyXIz"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265146,
+      "name": "Love Let's Go",
+      "url": "https://open.spotify.com/track/6sSIgZKqzl8AZybS9bifRF"
+    },
+    {
+      "album": {
         "name": "LOVE ON DEMAND",
         "url": "https://open.spotify.com/album/0SaDW7vmXqzw4GEwvkFsmd"
       },
@@ -10286,7 +10412,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 272031,
       "name": "Mladost",
       "url": "https://open.spotify.com/track/7rrtF48LypQtgESYndeBcq"
@@ -10448,7 +10574,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 187118,
       "name": "Moscow Idaho - GSCX Version",
       "url": "https://open.spotify.com/track/6f8lwYFmqxYHYhklisBMPl"
@@ -12090,7 +12216,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -12630,7 +12756,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 119052,
       "name": "Por Por - From \"Narakarappor Alias The GrandMaster\"",
       "url": "https://open.spotify.com/track/6GRXpbjruwNCNpAgFsjbIF"
@@ -12688,7 +12814,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 147278,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/7hund5bivOghcZsQu1PdNp"
@@ -12778,7 +12904,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 223051,
       "name": "Progress",
       "url": "https://open.spotify.com/track/6UaMb5HuoDC9Kf5N6d72jK"
@@ -12858,7 +12984,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 295200,
       "name": "Psycho Drill",
       "url": "https://open.spotify.com/track/6UXUcPabJyN1obijdKq7gr"
@@ -13046,7 +13172,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 230357,
       "name": "Red",
       "url": "https://open.spotify.com/track/3wIZA8RgVwy8MCZ8FbbmjL"
@@ -13262,7 +13388,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 290186,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/2dzQApMQvr9l3aUBMj0b2U"
@@ -13940,7 +14066,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 177562,
       "name": "She's Outside",
       "url": "https://open.spotify.com/track/5h0OQLMrwlAHKC1xlO5DG3"
@@ -14264,7 +14390,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -15334,7 +15460,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -15504,7 +15630,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 197000,
       "name": "Testify",
       "url": "https://open.spotify.com/track/0nGgprHN8K6Gyl1fBXwHKv"
@@ -15522,7 +15648,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 156095,
       "name": "The Ambulance Song",
       "url": "https://open.spotify.com/track/7paZM4Elsbx6BgTGBnUwvQ"
@@ -16782,7 +16908,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188307,
       "name": "There Are Spiders In My Dreams",
       "url": "https://open.spotify.com/track/27tp0auWn773A5kRH7bGGo"
@@ -18980,7 +19106,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 269507,
       "name": "Wings Of An Angel",
       "url": "https://open.spotify.com/track/6EbDacy2uom5FL8Y7ocdI3"

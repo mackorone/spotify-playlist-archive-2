@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-02",
-  "description": "T\u1eadp h\u1ee3p c\u00e1c MV \u0111\u1ec9nh n\u00f3c k\u1ecbch tr\u1ea7n. \u0110\u0103ng k\u00fd Premium \u0111\u1ec3 xem. \u1ea2nh b\u00eca: Hngle",
+  "description": "T\u1eadp h\u1ee3p c\u00e1c MV \u0111\u1ec9nh n\u00f3c k\u1ecbch tr\u1ea7n. \u0110\u0103ng k\u00fd Premium \u0111\u1ec3 xem. \u1ea2nh b\u00eca: GREY D",
   "name": "\u0110\u00e0i Ph\u00e1t H\u00ecnh V-Pop",
   "tracks": [
     {
@@ -445,6 +445,48 @@
     },
     {
       "album": {
+        "name": "C\u00d4NG DI\u1ec4N 5 (Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai 2026)",
+        "url": "https://open.spotify.com/album/2EFRe5EWsKaDivV50cfCzW"
+      },
+      "artists": [
+        {
+          "name": "Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai",
+          "url": "https://open.spotify.com/artist/1NVwSzuIbuPJEGWhUQRlnv"
+        },
+        {
+          "name": "Ho\u00e0ng D\u0169ng",
+          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+        },
+        {
+          "name": "Osad",
+          "url": "https://open.spotify.com/artist/6sJBvMCAi9NuNCxI9RDYDW"
+        },
+        {
+          "name": "H\u00e0 An Huy",
+          "url": "https://open.spotify.com/artist/6cz81gA7fLpRK4qKeLsGIn"
+        },
+        {
+          "name": "\u0110\u00f4ng H\u00f9ng",
+          "url": "https://open.spotify.com/artist/3rE7dnzIO7uTWTfDUbQU5o"
+        },
+        {
+          "name": "Ho\u00e0ng Rob",
+          "url": "https://open.spotify.com/artist/43qZrcVKZleWlmoBVRBPO8"
+        },
+        {
+          "name": "Thu\u1eadn Nguy\u1ec5n",
+          "url": "https://open.spotify.com/artist/50yflUxOsoV6d6zjLdHWUq"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278612,
+      "name": "C\u1ea2M \u01a0N T\u00ccNH Y\u00caU T\u00d4I",
+      "url": "https://open.spotify.com/track/2BlW3bhkl76ec35pbUx9ew"
+    },
+    {
+      "album": {
         "name": "C\u1ee9 Chill Th\u00f4i",
         "url": "https://open.spotify.com/album/7FEh6eJumH2tqhXKfQ5Tul"
       },
@@ -618,7 +660,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 277158,
       "name": "GI\u1eccT BU\u1ed2N \u0110\u1ec2 L\u1ea0I",
       "url": "https://open.spotify.com/track/5mnpSgGCf1NnizY8Gv6A5w"
@@ -912,7 +954,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 223848,
       "name": "L\u1eddi C\u1ea3nh B\u00e1o",
       "url": "https://open.spotify.com/track/4IvB2Yu0A2HMngej8aSuW5"
@@ -1058,7 +1100,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 196744,
       "name": "m\u1edbi h\u00f4m qua",
       "url": "https://open.spotify.com/track/1ZjICQJECU0rO8Vf6AOVbv"
@@ -1102,6 +1144,32 @@
       "duration_ms": 229385,
       "name": "Ng\u00e0y R\u1eddi Chuy\u1ebfn Bay",
       "url": "https://open.spotify.com/track/73RcFjiDtStfP3GCW44vJu"
+    },
+    {
+      "album": {
+        "name": "NG\u01af\u1edcI X\u1ea4U",
+        "url": "https://open.spotify.com/album/6MzUSa70iXqSsG3JDayjms"
+      },
+      "artists": [
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        },
+        {
+          "name": "VSTRA",
+          "url": "https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59"
+        },
+        {
+          "name": "52Hz",
+          "url": "https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258924,
+      "name": "NG\u01af\u1edcI X\u1ea4U",
+      "url": "https://open.spotify.com/track/64Z9ec2cBxRPlJIk5uO09c"
     },
     {
       "album": {
@@ -1358,7 +1426,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 169523,
       "name": "Steppa",
       "url": "https://open.spotify.com/track/4CXAWKWJYgq1KsN6Vrpdpl"
@@ -1486,6 +1554,24 @@
       "duration_ms": 177600,
       "name": "T\u00ecnh Y\u00eau Ng\u1ee7 Qu\u00ean",
       "url": "https://open.spotify.com/track/2MjpqyEA73TzenhDmj0RFN"
+    },
+    {
+      "album": {
+        "name": "t\u1ea1nh m\u01b0a",
+        "url": "https://open.spotify.com/album/0byviMEuCRzgcGYu9hz6w0"
+      },
+      "artists": [
+        {
+          "name": "Thi\u1ec1u B\u1ea3o Tr\u00e2m",
+          "url": "https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "t\u1ea1nh m\u01b0a",
+      "url": "https://open.spotify.com/track/2J5mA1Om6e8fRQ6XUG2z9K"
     },
     {
       "album": {

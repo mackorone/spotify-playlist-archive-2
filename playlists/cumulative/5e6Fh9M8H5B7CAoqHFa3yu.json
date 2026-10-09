@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "A New City You've Seen Before",
+        "url": "https://open.spotify.com/album/5BzPjMMR6ATLzwU3GZKM6l"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Things",
+          "url": "https://open.spotify.com/artist/4p4gcNgYfwfUSUNnyNFYQA"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86198,
+      "name": "A New City You've Seen Before",
+      "url": "https://open.spotify.com/track/1kQvyebKyFcbRiTYyPzEns"
+    },
+    {
+      "album": {
         "name": "A New Dawn Is Rising",
         "url": "https://open.spotify.com/album/0AeBVX509zDizQJftgdW8v"
       },
@@ -22940,6 +22958,28 @@
       "duration_ms": 122640,
       "name": "Kiitos Ja N\u00e4kemiin",
       "url": "https://open.spotify.com/track/53fQ93YMUdK4uc5TP6CdiX"
+    },
+    {
+      "album": {
+        "name": "KIMBIA FREE",
+        "url": "https://open.spotify.com/album/79eGJ5OTfKDAFuRllmR3Bg"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        },
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193095,
+      "name": "KIMBIA FREE",
+      "url": "https://open.spotify.com/track/4Oq3UwrfcyOYqCj8TFv1H6"
     },
     {
       "album": {

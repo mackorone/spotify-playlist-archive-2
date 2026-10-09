@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם בתן
 
-746 songs - 1 day 15 hr 10 min
+747 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [יש לה לו"ז](https://open.spotify.com/track/6QiW2gsvPgm6gfVUxd10M5) | [Kevin Rubin](https://open.spotify.com/artist/3zDvkHMMORJmMzACf62FVx), [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC) | [יש לה לו"ז](https://open.spotify.com/album/05EtG14SoiSImaZ3BjnF2o) | 2:17 | 2025-08-14 | 2025-10-24 |
 | [יש מה לאבד](https://open.spotify.com/track/1idVPDUFfKlfHyo8yLTQXf) | [Chen Cohen](https://open.spotify.com/artist/4upZpNTghEsx3At2lAWp96) | [יש מה לאבד](https://open.spotify.com/album/66EYLIFGiikwd5TIy35MiS) | 2:56 | 2025-04-03 | 2025-06-06 |
 | [יש מישהו ששר לך](https://open.spotify.com/track/6Ix2MJMdzccf5gVosUYG0r) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K) | [יש מישהו ששר לך](https://open.spotify.com/album/2DWJhuqWVgYf8kclsUINyA) | 3:33 | 2025-12-11 | 2026-04-03 |
-| [ישנם ימים](https://open.spotify.com/track/4XVhvCZ61rqSeg6cgArJNz) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [ישנם ימים](https://open.spotify.com/album/7yTXwvTfMewAt0yQa4KXki) | 3:22 | 2026-07-02 |  |
+| [ישנם ימים](https://open.spotify.com/track/4XVhvCZ61rqSeg6cgArJNz) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [ישנם ימים](https://open.spotify.com/album/7yTXwvTfMewAt0yQa4KXki) | 3:22 | 2026-07-02 | 2026-10-09 |
 | [ישראלי קומפלט](https://open.spotify.com/track/4fuSUBuTZ4JOZCrmqcQ9YQ) | [Hatikva 6](https://open.spotify.com/artist/3umXlcgiDTcCRkvPVobeJc) | [ויהי אור](https://open.spotify.com/album/4GTyWzfaeAf3cVAiWP0GXo) | 3:38 | 2025-11-20 | 2026-02-13 |
 | [ישתבח](https://open.spotify.com/track/4jgOx2gmCmaDndHkeBv1Ja) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd) | [ישתבח](https://open.spotify.com/album/7BmNayS6whQ64NpKgy2OO0) | 2:51 | 2025-03-27 | 2025-07-11 |
 | [כאפות](https://open.spotify.com/track/3FucKWzjyTIGLBkSnJAMYm) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [כולנו חיים את אותם חיים](https://open.spotify.com/album/0Wutr4T7MPONsaRT4XdWCZ) | 2:29 | 2026-04-02 | 2026-06-05 |
@@ -570,6 +570,7 @@
 | [משחקי מלחמה](https://open.spotify.com/track/4JCz3us4cIPUYRMuFWipJr) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw), [Yaldey Bet Haetz](https://open.spotify.com/artist/5ZyWsEh4kr2P44KWhjpAOU) | [משחקי מלחמה](https://open.spotify.com/album/0Hxbc12aGxF8YKjTJE9DA4) | 2:52 | 2024-11-28 | 2024-12-13 |
 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 | 2024-06-27 | 2024-09-13 |
 | [מת העולם](https://open.spotify.com/track/0e4RKSgXlsUrHQ9pg807iH) | [אליאב זוהר](https://open.spotify.com/artist/5hwdfRqm0A7u9z3LoTazVa) | [מת העולם](https://open.spotify.com/album/7Ck0RQTh07u1M30gCCwhp4) | 2:17 | 2026-01-22 | 2026-02-20 |
+| [מתגעגע \- The Raichel Session](https://open.spotify.com/track/59lZCZi9R0PVFWnWAsJW3d) | [Mooki](https://open.spotify.com/artist/2RMH8nqc3YmaUEikglXlXm) | [מתגעגע \(The Raichel Session\)](https://open.spotify.com/album/01kDM8jLQcaIftzniD6EzL) | 4:19 | 2026-10-08 |  |
 | [מתחת למים](https://open.spotify.com/track/0lY62MsgnDdmtiMbIGrrw1) | [Udi Schneider](https://open.spotify.com/artist/5DEX9UqXj4FoYCv8mZQDjy) | [מתחת למים](https://open.spotify.com/album/0WTNXIZAHcn7kr9wYkGD2h) | 2:59 | 2026-01-29 | 2026-04-17 |
 | [מתנה ללב](https://open.spotify.com/track/3zDXMW8kdru4FRM71yB42V) | [Kobi Aflalo](https://open.spotify.com/artist/0xYY2tRJGTvQC6rPjk758w) | [מתנה ללב](https://open.spotify.com/album/6W61lDnpwpr9M6xCJZ3TWB) | 3:01 | 2025-01-16 | 2025-02-21 |
 | [נאדי באדי](https://open.spotify.com/track/6g84RaMubeO44LyTDghqUB) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [נאדי באדי](https://open.spotify.com/album/79JwxRq2qhfLrvxl7s03pR) | 2:30 | 2024-06-27 | 2024-07-27 |

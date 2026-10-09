@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Estoy Bien en portada.",
+  "description": "Ni\u00f1os Del Cerro en portada.",
   "name": "alt/chile",
   "tracks": [
     {
@@ -586,6 +586,28 @@
       "duration_ms": 279835,
       "name": "Amatista",
       "url": "https://open.spotify.com/track/5KWGNOFCtfTARv9wuA9d60"
+    },
+    {
+      "album": {
+        "name": "Amiga nueva",
+        "url": "https://open.spotify.com/album/5DHWCH8ABQgiZaBho47MGm"
+      },
+      "artists": [
+        {
+          "name": "As\u00ed me dicen",
+          "url": "https://open.spotify.com/artist/6bURd0UiRabz8ox39FmLG8"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264078,
+      "name": "Amiga nueva",
+      "url": "https://open.spotify.com/track/2K1DxInVvVnn5GZ8eoaE9x"
     },
     {
       "album": {
@@ -6399,6 +6421,28 @@
     },
     {
       "album": {
+        "name": "Mi Peque\u00f1o Dolor",
+        "url": "https://open.spotify.com/album/2YiAUdgxh0dCQLbTWnASG0"
+      },
+      "artists": [
+        {
+          "name": "Laura sad",
+          "url": "https://open.spotify.com/artist/4IRXvbsbSP4oHm4adUdQlt"
+        },
+        {
+          "name": "Ninja Nigro",
+          "url": "https://open.spotify.com/artist/6pHg6fuPN3sHxijUHeXiSu"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148583,
+      "name": "Mi Peque\u00f1o Dolor",
+      "url": "https://open.spotify.com/track/4bScAQs2iqvXNGIHSYeTKk"
+    },
+    {
+      "album": {
         "name": "Mi querida tempestad (en un vaso de agua)",
         "url": "https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D"
       },
@@ -7314,6 +7358,24 @@
       "duration_ms": 195391,
       "name": "Odisea",
       "url": "https://open.spotify.com/track/4j4pXSdqqsxEfsb9dwikga"
+    },
+    {
+      "album": {
+        "name": "Ola Ola",
+        "url": "https://open.spotify.com/album/63iOu2cRrcjxpKetHYI0bn"
+      },
+      "artists": [
+        {
+          "name": "Conf\u00edo en tus amigos",
+          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227106,
+      "name": "Ola Ola",
+      "url": "https://open.spotify.com/track/39RveTbLheBRfq8120YFuw"
     },
     {
       "album": {
@@ -11286,6 +11348,24 @@
       "duration_ms": 240531,
       "name": "Venus",
       "url": "https://open.spotify.com/track/76SsQhqJ5VaHoQLvWgaB3x"
+    },
+    {
+      "album": {
+        "name": "Verlos morir",
+        "url": "https://open.spotify.com/album/3jsCUehb5VsGE2w1ggm8BX"
+      },
+      "artists": [
+        {
+          "name": "Anttonias",
+          "url": "https://open.spotify.com/artist/3zso8kvuPiTFBXe5g6ERJW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197020,
+      "name": "Verlos morir",
+      "url": "https://open.spotify.com/track/2HrlH70Pyf4Pr6j1i2xBMA"
     },
     {
       "album": {

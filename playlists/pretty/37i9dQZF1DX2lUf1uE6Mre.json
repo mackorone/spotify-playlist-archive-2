@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Shirin David, Summer Cem",
-  "num_followers": 907173,
+  "num_followers": 907140,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/5Ek28c0ldJQUm5F1ueO2UQ"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        }
-      ],
-      "duration_ms": 157079,
-      "name": "Blackberry",
-      "url": "https://open.spotify.com/track/5wGuX8TzM2KK6Ut6M5vKnv"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "FUXWAVE",
         "url": "https://open.spotify.com/album/1tGwD7tn5s8bcNbArXQumh"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 141866,
       "name": "FUXWAVE",
       "url": "https://open.spotify.com/track/07sc3ly0DOs1ssCajr9kbp"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/5Ek28c0ldJQUm5F1ueO2UQ"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "duration_ms": 157079,
+      "name": "Blackberry",
+      "url": "https://open.spotify.com/track/5wGuX8TzM2KK6Ut6M5vKnv"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Red Bull Weiss",
-        "url": "https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme"
-      },
-      "artists": [
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 110363,
-      "name": "Red Bull Weiss",
-      "url": "https://open.spotify.com/track/7bxNBMYMOy0m2GRs4vfZIa"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "FEELINGS",
         "url": "https://open.spotify.com/album/6hAzYzd0fzIkRX3uHW2q89"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 116444,
       "name": "FEELINGS",
       "url": "https://open.spotify.com/track/06gDGefw318uLsbZwD2lzC"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "Red Bull Weiss",
+        "url": "https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 110363,
+      "name": "Red Bull Weiss",
+      "url": "https://open.spotify.com/track/7bxNBMYMOy0m2GRs4vfZIa"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Mungu",
-        "url": "https://open.spotify.com/album/02PvRwFugzKFW86LVW5zgJ"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        }
-      ],
-      "duration_ms": 144080,
-      "name": "Mungu",
-      "url": "https://open.spotify.com/track/3tEQit2qjqSVcjeiXEm75A"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "GET LOW",
         "url": "https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP"
       },
@@ -1167,18 +1147,22 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "V.T.Z.R.",
-        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
+        "name": "Mungu",
+        "url": "https://open.spotify.com/album/02PvRwFugzKFW86LVW5zgJ"
       },
       "artists": [
         {
-          "name": "Azu",
-          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
         }
       ],
-      "duration_ms": 126000,
-      "name": "FACECARD",
-      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
+      "duration_ms": 144080,
+      "name": "Mungu",
+      "url": "https://open.spotify.com/track/3tEQit2qjqSVcjeiXEm75A"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1195,26 +1179,6 @@
       "duration_ms": 148952,
       "name": "OMG",
       "url": "https://open.spotify.com/track/6Mmk1gQiShUr1FH2RzSHrH"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
-        "name": "ZEITPUNKT",
-        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 181624,
-      "name": "ZEITPUNKT",
-      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1239,6 +1203,42 @@
       "duration_ms": 123675,
       "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
       "url": "https://open.spotify.com/track/1MTM3zSGU0ZLVOoVFHbO3q"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "ZEITPUNKT",
+        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 181624,
+      "name": "ZEITPUNKT",
+      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "V.T.Z.R.",
+        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
+      },
+      "artists": [
+        {
+          "name": "Azu",
+          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Luftkuss",
-        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
-      },
-      "artists": [
-        {
-          "name": "Ceren",
-          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
-        }
-      ],
-      "duration_ms": 113761,
-      "name": "Luftkuss",
-      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "Bend Over 2",
         "url": "https://open.spotify.com/album/74xSrHtoKbfwUx6flF0GjA"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 131428,
       "name": "Bend Over 2",
       "url": "https://open.spotify.com/track/0xdCOXFgnKNBFmhVGyDJjl"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "Luftkuss",
+        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "duration_ms": 113761,
+      "name": "Luftkuss",
+      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1403,18 +1403,22 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Kein Limit",
-        "url": "https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O"
+        "name": "AKRAPOVIC",
+        "url": "https://open.spotify.com/album/1XWTn78hAVxuVT3W41LoAI"
       },
       "artists": [
         {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
         }
       ],
-      "duration_ms": 121295,
-      "name": "Kein Limit",
-      "url": "https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ"
+      "duration_ms": 139780,
+      "name": "AKRAPOVIC",
+      "url": "https://open.spotify.com/track/3GUEKLXKqmyOFDdyv57B5o"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1439,22 +1443,18 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "AKRAPOVIC",
-        "url": "https://open.spotify.com/album/1XWTn78hAVxuVT3W41LoAI"
+        "name": "Kein Limit",
+        "url": "https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O"
       },
       "artists": [
         {
-          "name": "Kurdo",
-          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
-        },
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
         }
       ],
-      "duration_ms": 139780,
-      "name": "AKRAPOVIC",
-      "url": "https://open.spotify.com/track/3GUEKLXKqmyOFDdyv57B5o"
+      "duration_ms": 121295,
+      "name": "Kein Limit",
+      "url": "https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
+        "name": "STILL DON'T PANIC",
+        "url": "https://open.spotify.com/album/3bohKQuv5jLycIyK2HaqpE"
+      },
+      "artists": [
+        {
+          "name": "Musso",
+          "url": "https://open.spotify.com/artist/2FyxcdLSH7XqsfJE6Iu0tJ"
+        }
+      ],
+      "duration_ms": 160221,
+      "name": "ALLE LIEBEN MUSSO",
+      "url": "https://open.spotify.com/track/76wDd2m8dQi8YpMcgFKRJn"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/66YJqRtjJR3FHqWmaAFaDP"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 140168,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2CxeTsHOktarDMoEBQmbaj"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
-        "name": "STILL DON'T PANIC",
-        "url": "https://open.spotify.com/album/3bohKQuv5jLycIyK2HaqpE"
-      },
-      "artists": [
-        {
-          "name": "Musso",
-          "url": "https://open.spotify.com/artist/2FyxcdLSH7XqsfJE6Iu0tJ"
-        }
-      ],
-      "duration_ms": 160221,
-      "name": "ALLE LIEBEN MUSSO",
-      "url": "https://open.spotify.com/track/76wDd2m8dQi8YpMcgFKRJn"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
+        "name": "Alles",
+        "url": "https://open.spotify.com/album/01BTZn6JgVZ6c4DmFwJ4SQ"
+      },
+      "artists": [
+        {
+          "name": "Schubi AKpella",
+          "url": "https://open.spotify.com/artist/2SveKtmknwwMpYJtuFkYZj"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Alles",
+      "url": "https://open.spotify.com/track/7DbBL1xhWnlSwQTNup2kwg"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
         "name": "Madd Ting",
         "url": "https://open.spotify.com/album/5aFNds41L7xe2SJO9XkM5I"
       },
@@ -1851,26 +1871,6 @@
       "duration_ms": 144905,
       "name": "Madd Ting",
       "url": "https://open.spotify.com/track/5Iku7QUJV5KXyT5fVHAxcd"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
-        "name": "Alles",
-        "url": "https://open.spotify.com/album/01BTZn6JgVZ6c4DmFwJ4SQ"
-      },
-      "artists": [
-        {
-          "name": "Schubi AKpella",
-          "url": "https://open.spotify.com/artist/2SveKtmknwwMpYJtuFkYZj"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Alles",
-      "url": "https://open.spotify.com/track/7DbBL1xhWnlSwQTNup2kwg"
     }
   ],
   "unique_name": "Shisha Club",

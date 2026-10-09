@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > The songs soundtracking the best years
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,002 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,054 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 23 | [Manya](https://open.spotify.com/track/0uaKM65fL3aEgZdmwabvDb) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Manya](https://open.spotify.com/album/5TaQ82vUKpFXRCY6p55Fq7) | 3:51 |
 | 24 | [Fada Fada](https://open.spotify.com/track/7vuPAT6r64yBfCWFySA086) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The PlayMaker](https://open.spotify.com/album/4mT2dPZH31DKN3ka7NGmZW) | 4:48 |
 | 25 | [Wetin We Gain](https://open.spotify.com/track/5faqpitzDhJKv3huL8nJhp) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Wetin We Gain](https://open.spotify.com/album/6vHdAinF14WKw2vIpXDAiC) | 3:34 |
-| 26 | [Motigbana](https://open.spotify.com/track/6AYPyB4mgQIGeU0Xab4ONQ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Motigbana](https://open.spotify.com/album/7yXxe2Zkyf2E3sMDEVaDK6) | 3:57 |
-| 27 | [Joromi](https://open.spotify.com/track/6NvUNJefj3U5ANRwFBCQXE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/4FFft6oVCqgbcIaD9CxZiR) | 3:55 |
+| 26 | [Joromi](https://open.spotify.com/track/6NvUNJefj3U5ANRwFBCQXE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/4FFft6oVCqgbcIaD9CxZiR) | 3:55 |
+| 27 | [Motigbana](https://open.spotify.com/track/6AYPyB4mgQIGeU0Xab4ONQ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Motigbana](https://open.spotify.com/album/7yXxe2Zkyf2E3sMDEVaDK6) | 3:57 |
 | 28 | [Problem](https://open.spotify.com/track/1x9iAQOjMEHWZX7UeqiyWV) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [SPOTLIGHT](https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9) | 3:05 |
 | 29 | [Fela In Versace](https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:28 |
 | 30 | [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [TEN](https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT) | 3:26 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 40 | [Good Morning Riddim](https://open.spotify.com/track/3H2yJkmKQXfjOtIKlPm300) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:35 |
 | 41 | [Otedola](https://open.spotify.com/track/1hQyklmtL6RqaxAN19UkFL) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Money Symphony](https://open.spotify.com/album/6Y09q1ChXcorX4V97153QS) | 3:05 |
 | 42 | [IYABO](https://open.spotify.com/track/4fNHV8GNXvxVL0GJrZDqZa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [IYABO](https://open.spotify.com/album/5ARHGcV1uY1RokdvrAj5UA) | 2:04 |
-| 43 | [Available](https://open.spotify.com/track/5m6aJAmW3ZJ50eK0Gg0HgL) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Available](https://open.spotify.com/album/52Av15Tg6Sx7Ye0Rn20ONE) | 3:34 |
-| 44 | [Bend Down Pause](https://open.spotify.com/track/4GlmmPb6uYFxw92xDRzdvL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 3:17 |
+| 43 | [Bend Down Pause](https://open.spotify.com/track/4GlmmPb6uYFxw92xDRzdvL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 3:17 |
+| 44 | [Available](https://open.spotify.com/track/5m6aJAmW3ZJ50eK0Gg0HgL) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Available](https://open.spotify.com/album/52Av15Tg6Sx7Ye0Rn20ONE) | 3:34 |
 | 45 | [Jamb Question](https://open.spotify.com/track/3UEr2skHqjc4WSmQiI6Vmn) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Jamb Question](https://open.spotify.com/album/3RGCZabTafNhGBKbZ75UY8) | 3:24 |
 | 46 | [Askamaya](https://open.spotify.com/track/2w3DLrgR7d1BO1REYUuMEM) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Askamaya](https://open.spotify.com/album/3vrggFAtpEoG1WxYRBmf7t) | 2:55 |
 | 47 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
 | 48 | [Madu](https://open.spotify.com/track/69vmMU3DyducrazXbFmOqH) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 2:41 |
-| 49 | [Soft Work](https://open.spotify.com/track/4V4iOjpWebbWHS5eycyeTn) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Stories That Touch](https://open.spotify.com/album/5V4Mel3NQSGXJkBtAUzZUe) | 3:25 |
-| 50 | [Shele Gan Gan](https://open.spotify.com/track/4umLGm81374u2zCfa4ugjQ) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Shele Gan Gan](https://open.spotify.com/album/59vlF8oPYgqngDXwuHKfTp) | 3:40 |
+| 49 | [Shele Gan Gan](https://open.spotify.com/track/4umLGm81374u2zCfa4ugjQ) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Shele Gan Gan](https://open.spotify.com/album/59vlF8oPYgqngDXwuHKfTp) | 3:40 |
+| 50 | [Soft Work](https://open.spotify.com/track/4V4iOjpWebbWHS5eycyeTn) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Stories That Touch](https://open.spotify.com/album/5V4Mel3NQSGXJkBtAUzZUe) | 3:25 |
 
 Snapshot ID: `AAAAANEJYyYpSkjbgnRD6sM3l7+toCLX`

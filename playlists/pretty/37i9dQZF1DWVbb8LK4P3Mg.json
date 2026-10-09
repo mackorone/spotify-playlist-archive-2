@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 151446,
+  "num_followers": 151436,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "My Winter Trip",
+        "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 251617,
+      "name": "My Winter Trip",
+      "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "My Winter Trip",
-        "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 251617,
-      "name": "My Winter Trip",
-      "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "PINK CHRISTMAS",
-        "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "PINK CHRISTMAS",
-      "url": "https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "STARSHIP PLANET 2016",
         "url": "https://open.spotify.com/album/5MBIaQm8sMwMdZRw61fJJl"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 222160,
       "name": "Love Wishes",
       "url": "https://open.spotify.com/track/7rHnD8s71BcgDebwESWAKG"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "PINK CHRISTMAS",
+        "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "PINK CHRISTMAS",
+      "url": "https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "MUST HAVE",
+        "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
+      },
+      "artists": [
+        {
+          "name": "ATBO",
+          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Mr. Santa",
         "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "MUST HAVE",
-        "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
+        "name": "Jingle Bell Love",
+        "url": "https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H"
       },
       "artists": [
         {
-          "name": "ATBO",
-          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
+          "name": "Yunsae",
+          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
         }
       ],
-      "duration_ms": 196920,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
+      "duration_ms": 154989,
+      "name": "Jingle Bell Love",
+      "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Jingle Bell Love",
-        "url": "https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H"
-      },
-      "artists": [
-        {
-          "name": "Yunsae",
-          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
-        }
-      ],
-      "duration_ms": 154989,
-      "name": "Jingle Bell Love",
-      "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "SECRET SANTA",
         "url": "https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH"
       },
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Letters to Santa",
         "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 159616,
       "name": "I Still Believe in Santa",
       "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1731,58 +1731,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
-        "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
-      },
-      "artists": [
-        {
-          "name": "Han Yo Han",
-          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
-        },
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve (prod. Minit)",
-      "url": "https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "D-day",
-      "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "\u30e1\u30ea\u30af\u30ea",
-        "url": "https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 310833,
-      "name": "THE CHRISTMAS SONG",
-      "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR"
       },
@@ -1807,18 +1755,74 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "The Christmas Number 12",
-        "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
       },
       "artists": [
         {
-          "name": "aiiyh",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
         }
       ],
-      "duration_ms": 159835,
-      "name": "The Christmas Number 12",
-      "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
+      "duration_ms": 237080,
+      "name": "D-day",
+      "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
+        "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
+      },
+      "artists": [
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve (prod. Minit)",
+      "url": "https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "\u30e1\u30ea\u30af\u30ea",
+        "url": "https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 310833,
+      "name": "THE CHRISTMAS SONG",
+      "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
     },
     {
       "added_at": "2026-01-20 05:01:24",

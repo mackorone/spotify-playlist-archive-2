@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,660 likes - 23 songs - 1 hr 29 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,662 likes - 26 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
-| 2 | [Warning Sign](https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:31 |
-| 3 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 |
-| 4 | [Supersonic Faster](https://open.spotify.com/track/7FrolHHjlzcKBiMEVZiI1H) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Supersonic Faster](https://open.spotify.com/album/6H4XOjzMs0efuJaUoqTCnS) | 1:55 |
-| 5 | [June 2 \- Early Version](https://open.spotify.com/track/6DuR0uC5L9oqUxlHvHuu8t) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds \(Deluxe\)](https://open.spotify.com/album/5oeC2FTWK7z9LF3po9CkVC) | 3:32 |
-| 6 | [Elderberry Wine \- DJ Sabrina the Teenage DJ Remix](https://open.spotify.com/track/3WAvLBXDFcnABM6SOWPWiD) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe), [DJ Sabrina The Teenage DJ](https://open.spotify.com/artist/7mhv3pjuY4JRkMKuUK9mPh) | [Bleeds \(Deluxe\)](https://open.spotify.com/album/5oeC2FTWK7z9LF3po9CkVC) | 6:56 |
-| 7 | [Night Vision](https://open.spotify.com/track/1DZHq1mu4Q8uWT33ORE7Sf) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 2:48 |
-| 8 | [Luka](https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 3:51 |
+| 2 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 |
+| 3 | [Supersonic Faster](https://open.spotify.com/track/7FrolHHjlzcKBiMEVZiI1H) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Supersonic Faster](https://open.spotify.com/album/6H4XOjzMs0efuJaUoqTCnS) | 1:55 |
+| 4 | [June 2 \- Early Version](https://open.spotify.com/track/6DuR0uC5L9oqUxlHvHuu8t) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds \(Deluxe\)](https://open.spotify.com/album/5oeC2FTWK7z9LF3po9CkVC) | 3:32 |
+| 5 | [Elderberry Wine \- DJ Sabrina the Teenage DJ Remix](https://open.spotify.com/track/3WAvLBXDFcnABM6SOWPWiD) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe), [DJ Sabrina The Teenage DJ](https://open.spotify.com/artist/7mhv3pjuY4JRkMKuUK9mPh) | [Bleeds \(Deluxe\)](https://open.spotify.com/album/5oeC2FTWK7z9LF3po9CkVC) | 6:56 |
+| 6 | [Night Vision](https://open.spotify.com/track/1DZHq1mu4Q8uWT33ORE7Sf) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 2:48 |
+| 7 | [Luka](https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 3:51 |
+| 8 | [Sometimes I rush](https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Sometimes I rush](https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B) | 1:30 |
 | 9 | [Going about my day](https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14) | [Lola Hammerich](https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40) | [Going about my day](https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV) | 5:57 |
 | 10 | [Solex Feels Lucky](https://open.spotify.com/track/1HnZulotX8JDw44ETxlkRD) | [Solex](https://open.spotify.com/artist/7uV7uQgiUQ3Ipxs5cHZsGL) | [Solex Vs\. the Hitmeister](https://open.spotify.com/album/39hU88YsHa9sErNRjxKGs3) | 3:46 |
 | 11 | [Solex In A Slipshod Style](https://open.spotify.com/track/6MhNnX9E3HTfTEbcUbRQk6) | [Solex](https://open.spotify.com/artist/7uV7uQgiUQ3Ipxs5cHZsGL) | [Solex Vs\. the Hitmeister](https://open.spotify.com/album/39hU88YsHa9sErNRjxKGs3) | 3:44 |
@@ -26,10 +26,13 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 16 | [Concrete Seconds](https://open.spotify.com/track/0l7xRobUsoQjN9chrOVLxW) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Blue Screen Life](https://open.spotify.com/album/6AGfeMHoNKOFey4KEqwhmJ) | 4:08 |
 | 17 | [Penelope](https://open.spotify.com/track/2lbCzIQYDRF2Bs4ON6kOV6) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Blue Screen Life](https://open.spotify.com/album/6AGfeMHoNKOFey4KEqwhmJ) | 4:46 |
 | 18 | [X.I.Y.](https://open.spotify.com/track/3ikC5SLbXmuS4QW2t170jl) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Blue Screen Life](https://open.spotify.com/album/6AGfeMHoNKOFey4KEqwhmJ) | 3:32 |
-| 19 | [There’s Always A Dream Come True](https://open.spotify.com/track/77Wuz7RW7ObLiHDbul3aKw) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [There’s Always A Dream Come True](https://open.spotify.com/album/7LxA3OMSFh8gk4p9xj0314) | 3:22 |
-| 20 | [Something So Right](https://open.spotify.com/track/7qyUlaAYXEEpTsVPUrdQut) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 3:55 |
-| 21 | [Lady Of The Lake](https://open.spotify.com/track/4gGXcKT54XBpJWsqjEQWmQ) | [Jade Warrior](https://open.spotify.com/artist/6EM2kLJfgXV0KGffb0hW4a) | [Last Autumn's Dream](https://open.spotify.com/album/4hJzwUGsfcjb6tNa3bKSdB) | 3:19 |
-| 22 | [So If Someone Sends You Flowers Babe](https://open.spotify.com/track/61ZLeEXlm0fZ4CIDEYAvia) | [The Kynds](https://open.spotify.com/artist/0qWn7Qrs3qP4CuMFaGFfd2) | [So If Someone Sends You Flowers Babe b/w Find Me Gone](https://open.spotify.com/album/4WWCR15sbZjUkKwXItkbmm) | 2:30 |
-| 23 | [Sweetly Said](https://open.spotify.com/track/62HyIpBWRpbBluxo8hXmYh) | [Elysium](https://open.spotify.com/artist/4y8Caq0S6ShCGJ7VFejLzk) | [Glisten](https://open.spotify.com/album/2W767NIRwGTWJ0fLmeEIfr) | 4:02 |
+| 19 | [Something So Right](https://open.spotify.com/track/7qyUlaAYXEEpTsVPUrdQut) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 3:55 |
+| 20 | [Lady Of The Lake](https://open.spotify.com/track/4gGXcKT54XBpJWsqjEQWmQ) | [Jade Warrior](https://open.spotify.com/artist/6EM2kLJfgXV0KGffb0hW4a) | [Last Autumn's Dream](https://open.spotify.com/album/4hJzwUGsfcjb6tNa3bKSdB) | 3:19 |
+| 21 | [So If Someone Sends You Flowers Babe](https://open.spotify.com/track/61ZLeEXlm0fZ4CIDEYAvia) | [The Kynds](https://open.spotify.com/artist/0qWn7Qrs3qP4CuMFaGFfd2) | [So If Someone Sends You Flowers Babe b/w Find Me Gone](https://open.spotify.com/album/4WWCR15sbZjUkKwXItkbmm) | 2:30 |
+| 22 | [Sweetly Said](https://open.spotify.com/track/62HyIpBWRpbBluxo8hXmYh) | [Elysium](https://open.spotify.com/artist/4y8Caq0S6ShCGJ7VFejLzk) | [Glisten](https://open.spotify.com/album/2W767NIRwGTWJ0fLmeEIfr) | 4:02 |
+| 23 | [Itchy And Fidgety](https://open.spotify.com/track/4u7MxhwIoSCG6Y1TZMEWY0) | [Clare](https://open.spotify.com/artist/0Vyte5bDO7qTcoLmeQRf2r) | [Easy](https://open.spotify.com/album/7FUiTpAK8pk1X4uI5pEHFF) | 4:42 |
+| 24 | [She's Withering](https://open.spotify.com/track/0JobWkE9vHmEfY1LdFh3B0) | [Con Dolore](https://open.spotify.com/artist/1RRyxzaiaX7Zr4bi955ZPP) | [This Sad Movie](https://open.spotify.com/album/6rxVnICK1xsHlgu21HjAcH) | 4:28 |
+| 25 | [Silver Memories](https://open.spotify.com/track/1ah0xxsAYjrZetGZQI7Z0N) | [Stars Of Stage And Screen](https://open.spotify.com/artist/5SwLxpdpUw7kFNpYAc4aJA) | [Dying To Meet You](https://open.spotify.com/album/4SMV7E4jAxYM9X5vuLknjz) | 4:07 |
+| 26 | [O How I Miss You](https://open.spotify.com/track/3IGByygKHzqdaP2m8277IC) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 1:17 |
 
-Snapshot ID: `AAAOwtYxCaCOCz753+j2HjGLi50GdDva`
+Snapshot ID: `AAAOzJAONNflgW+fz1hP9+OcfG7JXt65`

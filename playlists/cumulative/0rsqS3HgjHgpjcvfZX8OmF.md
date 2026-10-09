@@ -2,9 +2,9 @@
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
-> The best and latest rock and alternative\. Cover:  Bleeker
+> The best and latest rock and alternative\. Cover:  Greta Van Fleet
 
-327 songs - 19 hr 35 min
+328 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-04-25 |  |
 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-03-07 |  |
 | [Saturday](https://open.spotify.com/track/0PVraNcaWR9Efy43ayGqpG) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Saturday](https://open.spotify.com/album/6zocDspAImGf6QR05LY8hm) | 3:02 | 2023-11-03 | 2023-12-09 |
+| [Saw You Stand](https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Saw You Stand](https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT) | 4:49 | 2026-10-09 |  |
 | [Say When](https://open.spotify.com/track/0tTS5rCFU6lPI7fy5s6w9W) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Say When](https://open.spotify.com/album/5FGhZBSeqHbeewgpvjczMx) | 3:10 | 2023-11-03 | 2024-03-09 |
 | [Seems Like You Don’t Know Me](https://open.spotify.com/track/6z4XC6ijxA4sGZznuwyVMh) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Seems Like You Don’t Know Me](https://open.spotify.com/album/28DmvxyHPvYy8VSwO8pTXw) | 3:37 | 2025-03-23 | 2025-05-24 |
 | [Self\-Made](https://open.spotify.com/track/4BTsvHUXQUc8N877rIIMqs) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Self\-Made](https://open.spotify.com/album/4fiY1fnaP5RUxFrm06adpo) | 3:05 | 2025-05-23 |  |

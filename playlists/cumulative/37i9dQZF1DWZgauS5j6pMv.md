@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Devon Gilfillian
 
-518 songs - 1 day 6 hr 12 min
+520 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Lesson](https://open.spotify.com/track/3cR97t8jvOLzIUU4s4mWS4) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Lesson](https://open.spotify.com/album/7aKXdUrAXVwHSrO0Alw479) | 4:10 | 2021-10-15 | 2022-10-29 |
 | [Liar](https://open.spotify.com/track/2vYgFRmLq7aLthkajUfpUh) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Liar](https://open.spotify.com/album/7LPe3LbfSNFJV2moPmTQ5a) | 2:50 | 2025-05-09 |  |
 | [Life's Been Good To Me](https://open.spotify.com/track/70maYMm40ytuPewZ63bzd6) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Life's Been Good To Me](https://open.spotify.com/album/06uPzH5sNiyThjWFLLc48O) | 5:20 | 2021-10-22 | 2022-07-02 |
-| [Lights Out](https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [Lights Out](https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf) | 4:01 | 2024-02-09 |  |
+| [Lights Out](https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [Lights Out](https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf) | 4:01 | 2024-02-09 | 2026-10-09 |
 | [Like, Maybe](https://open.spotify.com/track/18UpaCZZX1daAljhgpUd0R) | [Kalu & The Electric Joint](https://open.spotify.com/artist/1OQOcvFKUjJLSHC5gdAkbt) | [Like, Maybe](https://open.spotify.com/album/0WqzN6rft3aP7MA3SNSodv) | 3:35 | 2023-02-24 | 2024-11-16 |
 | [Live It Up](https://open.spotify.com/track/2vQba2IJ5M9PDtY8qJ4KSb) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Live It Up](https://open.spotify.com/album/13b4XCQdlFs1V38vEVsxlI) | 2:40 | 2024-04-12 |  |
 | [Living Backwards](https://open.spotify.com/track/2FRX6fs6wXkf8jJigGdpGm) | [Pace](https://open.spotify.com/artist/7qem60JOzr0TKI9WOmkNaG) | [Living Backwards](https://open.spotify.com/album/2BZziXEUmY61NXLni2LOSJ) | 3:16 | 2021-03-19 | 2022-06-04 |
@@ -295,6 +295,7 @@
 | [Lover \(Love Her\)](https://open.spotify.com/track/25peL25ddKWMVkiS50jlAy) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Lover \(Love Her\)](https://open.spotify.com/album/4E0hwdPcKQzlOT35qDtcQ6) | 3:18 | 2023-08-18 | 2025-11-29 |
 | [Lover Boy](https://open.spotify.com/track/3Dc6tLYl8GHl2lFfsiag2a) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [Lover Boy](https://open.spotify.com/album/4tlZkAJU6UmBKMRi22ojve) | 3:49 | 2024-11-15 |  |
 | [LOVEなシーン](https://open.spotify.com/track/4estL78KTBFufDAXcqwCO6) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ), [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [LOVEなシーン](https://open.spotify.com/album/0ZDyXn23bL5gr9DnGev03Z) | 5:19 | 2024-03-01 |  |
+| [luck reign](https://open.spotify.com/track/5H6xCVWohxgUN7kDkIPpwu) | [One Self](https://open.spotify.com/artist/6r7dk6cptOXRAk3Bm7iouK), [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ), [Blu Rum 13](https://open.spotify.com/artist/0zlqb27qOo6W4Vougab1Hs), [panther1na](https://open.spotify.com/artist/4wC7vDGZkeSr6B93zpl77p) | [luck reign](https://open.spotify.com/album/62BOmi9yZqh58nOr9JU4WW) | 4:48 | 2026-10-09 |  |
 | [Lucky \(Song 7\)](https://open.spotify.com/track/2mLnBJjlMOcDWQcuMYqkOR) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Lucky \(Song 7\)](https://open.spotify.com/album/6vtYTmK07RguZCw1MEXCQa) | 3:51 | 2024-11-15 |  |
 | [made of](https://open.spotify.com/track/1TCb7N0GiCWBlYaV0veZ1X) | [Skyler Acord](https://open.spotify.com/artist/1phSD0yoDFOv2kUbXzM1d4) | [made of](https://open.spotify.com/album/6wHWVoohwI1MJZl3tiY28f) | 3:02 | 2022-11-25 | 2023-03-04 |
 | [MAINTAIN](https://open.spotify.com/track/1R6qQmh0HKYIXhHwvrRgyl) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [BELLEVILLE TIN TIN](https://open.spotify.com/album/5AZnEj2gSMTsyQyuAIg2g9) | 2:50 | 2026-09-11 |  |
@@ -403,7 +404,8 @@
 | [Skint \- Radio Edit](https://open.spotify.com/track/4EmA3T6B8L4Jehr1iK2JkR) | [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Skint / Life Is A Dance \(Radio Edit\)](https://open.spotify.com/album/22sR5tdHqzjiJiIekkVZT6) | 3:40 | 2026-09-11 |  |
 | [Slay](https://open.spotify.com/track/3c0N0LOdtvf2OTj6QHn2J0) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Slay](https://open.spotify.com/album/6tPbp0tT4v9nJ1uBvPWKeW) | 4:01 | 2023-09-08 | 2023-12-09 |
 | [Sleeping On My Dreams](https://open.spotify.com/track/1hVogn7kHppd5WkaWvFHIK) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 3](https://open.spotify.com/album/6CmeXEt3IOROBw4E1U7APN) | 4:16 | 2020-11-20 | 2022-04-09 |
-| [Sleepwalking](https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Sleepwalking](https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO) | 2:42 | 2025-05-30 |  |
+| [Sleepwalking](https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Sleepwalking](https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO) | 2:42 | 2025-05-30 | 2026-10-09 |
+| [Sleepwalking \(+ Durand Bernarr\)](https://open.spotify.com/track/3lHS33KwhJWbDNyB3DNUwu) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [LK99+ DELUXE](https://open.spotify.com/album/5hUAbUCIJngR91GstQaBNZ) | 3:45 | 2026-10-09 |  |
 | [Slings and Arrows](https://open.spotify.com/track/4SelDlGzpaSB9i31ZqzQgS) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Trance Thompson](https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ) | [Slings and Arrows](https://open.spotify.com/album/1qeNTwz5GBpN7itlDaV31o) | 5:23 | 2022-11-25 | 2023-04-01 |
 | [Smoke](https://open.spotify.com/track/3ksB5r2RBez5pI8ze6weIz) | [AJ McLean](https://open.spotify.com/artist/5RFf1gyPc9lMOtCq2k6tLl) | [Smoke](https://open.spotify.com/album/14X6uVSMTSRi5k0SPTTkhw) | 1:58 | 2022-07-15 | 2024-02-17 |
 | [Smoke and Mirrors](https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Smoke and Mirrors](https://open.spotify.com/album/3PJV7f6A5BtV8eiYCSZdJH) | 3:19 | 2024-05-03 |  |

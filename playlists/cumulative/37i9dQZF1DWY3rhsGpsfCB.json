@@ -1249,6 +1249,28 @@
     },
     {
       "album": {
+        "name": "T's & C's Apply",
+        "url": "https://open.spotify.com/album/381comodDFpQlXwdxvAix1"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146913,
+      "name": "As Planned",
+      "url": "https://open.spotify.com/track/7mJ8e4pYEs9Sx1MhnAVfv4"
+    },
+    {
+      "album": {
         "name": "ASE - A COLORS SHOW",
         "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
       },
@@ -2722,7 +2744,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 206529,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3mcfpjbuhVHCAdNvbEXAQS"
@@ -3114,7 +3136,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 144000,
       "name": "CHE",
       "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
@@ -4544,7 +4566,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 148575,
       "name": "DOUBLE BLIND",
       "url": "https://open.spotify.com/track/4VLekTV2mblX91gl1BHIJE"
@@ -4668,7 +4690,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 177011,
       "name": "DYNAMITE",
       "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
@@ -5120,6 +5142,24 @@
       "duration_ms": 205354,
       "name": "exodus the north star",
       "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
+    },
+    {
+      "album": {
+        "name": "Extra Time",
+        "url": "https://open.spotify.com/album/0qwtFpkWPaiMG2wh9Zf5yw"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214967,
+      "name": "Extra Time",
+      "url": "https://open.spotify.com/track/0UHNfLj6mQL2kz2qZT5mfC"
     },
     {
       "album": {
@@ -6087,6 +6127,24 @@
     },
     {
       "album": {
+        "name": "THE FIRST EP",
+        "url": "https://open.spotify.com/album/0Gdpxm5WSAqrizXZZqfOXa"
+      },
+      "artists": [
+        {
+          "name": "Bunie The First",
+          "url": "https://open.spotify.com/artist/2Z6wMKaxyAH0MmXhM35BDg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96470,
+      "name": "FREE",
+      "url": "https://open.spotify.com/track/6N4KfbW9BqFKI8FFLIzxYJ"
+    },
+    {
+      "album": {
         "name": "DAROLD",
         "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
       },
@@ -7022,7 +7080,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 187226,
       "name": "Here They Come II",
       "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
@@ -7830,6 +7888,24 @@
       "duration_ms": 189999,
       "name": "I Wish I Had More Time",
       "url": "https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT"
+    },
+    {
+      "album": {
+        "name": "I'll Be Okay",
+        "url": "https://open.spotify.com/album/4FRm1vre15Rj6NwZnf9qmj"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199591,
+      "name": "I'll Be Okay",
+      "url": "https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW"
     },
     {
       "album": {
@@ -16904,7 +16980,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"

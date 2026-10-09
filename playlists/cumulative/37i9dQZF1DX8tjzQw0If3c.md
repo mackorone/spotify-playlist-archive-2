@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Meet the future\. Cover: WHYLUCAS
+> Meet the future\. Cover: quiet morning
 
-335 songs - 18 hr 13 min
+337 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Come My Way](https://open.spotify.com/track/5tMRRy9BsAIFN75a3t5mky) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:58 | 2024-06-27 | 2024-12-05 |
 | [Cosmic](https://open.spotify.com/track/7dTVx630q32E7NBBylFnfG) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Cosmic](https://open.spotify.com/album/272qI1H4Qxy3z1qPGa4tpR) | 2:31 | 2026-04-06 |  |
 | [Could've Been](https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Could've Been](https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT) | 2:45 | 2026-05-21 |  |
+| [crash dummy](https://open.spotify.com/track/0SHw6ME2LmLEJP6P9pxNm9) | [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [crash dummy](https://open.spotify.com/album/6sGQGPko9ZayghBVlh07iC) | 3:04 | 2026-10-08 |  |
 | [crawling back to you.flp](https://open.spotify.com/track/03oARKM2eOeljp6NH63Tpt) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe), [Patriots](https://open.spotify.com/artist/4kbQeef0lyT1hmytT6xyUJ) | [WARD 13A's DEATH RESUME](https://open.spotify.com/album/3kvxbcYgBtM3MZdEPOODYL) | 3:06 | 2026-04-06 |  |
 | [crush on me?](https://open.spotify.com/track/4WKud3RIFXg2bD2D4KXPUU) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 2:55 | 2025-04-15 | 2026-04-07 |
 | [Cuma Kamu](https://open.spotify.com/track/093ekP1E7iaXhRVPnP45lK) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Cuma Kamu \("Gadis EXXtra" OST\)](https://open.spotify.com/album/3ndBfjzSP39lUw35bAYbwW) | 4:04 | 2024-06-27 | 2025-04-16 |
@@ -224,6 +225,7 @@
 | [Not Afraid](https://open.spotify.com/track/5v6ScxMNSZ1KcnMiWjCmPb) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [Not Afraid](https://open.spotify.com/album/5gWXGGJNkUgshcOfbJ0CzZ) | 3:06 | 2025-06-04 | 2026-04-07 |
 | [NOVEMBER](https://open.spotify.com/track/5QAgbUZoUvLethzw2bTRGt) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [NOVEMBER](https://open.spotify.com/album/1CZh3LscwOdGeBTB1FqyWg) | 3:28 | 2025-04-15 | 2026-04-07 |
 | [oasis](https://open.spotify.com/track/7dxsN7YD2zfUMPqDCFvUvD) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Road to the Hills](https://open.spotify.com/album/6Up4Igg6cDQkb1MyUzFsy1) | 2:30 | 2025-05-29 | 2026-04-07 |
+| [on &on](https://open.spotify.com/track/5UzlWqxlvPpzzuNSILt5Du) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [on &on](https://open.spotify.com/album/05aF3NLC9CqgZe8pYrP70l) | 2:34 | 2026-10-08 |  |
 | [ONE DAY AT A TIME](https://open.spotify.com/track/3uGdsz2OOs5pGodQvEiPnh) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ), [Kevin Brendan](https://open.spotify.com/artist/6ugRGLIWSHusjCas08bxXr) | [ONE DAY AT A TIME](https://open.spotify.com/album/43r58mDnZjEN1v3DQEMGP5) | 3:57 | 2025-11-27 | 2026-04-07 |
 | [OTHERNIGHT](https://open.spotify.com/track/0xHXphVyY7SwNp4aeQdO7p) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [OTHERNIGHT](https://open.spotify.com/album/2R0stQU71C8iijxgMo6Fec) | 3:04 | 2025-08-21 | 2026-04-07 |
 | [over](https://open.spotify.com/track/7y9aCH44424t5XmTHIdli8) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [over](https://open.spotify.com/album/6RrUiVZgYqU7bdt7MWMMzZ) | 2:47 | 2026-09-03 | 2026-09-18 |

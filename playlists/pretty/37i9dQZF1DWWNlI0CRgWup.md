@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : TeddyBear
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,802 likes - 74 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,810 likes - 74 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 2 | [Comme des rats](https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Vitrine](https://open.spotify.com/album/7oBVdq9PC6arh2qpLuYleb) | 2:21 |
 | 3 | [Ses yeux](https://open.spotify.com/track/1FkXhWnAODxXoaCnmMGo4j) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [cuicui](https://open.spotify.com/album/4OsIHJzoFdSEdFaYg6uSAE) | 2:54 |
 | 4 | [Bella Vita](https://open.spotify.com/track/6bDXDC1meVMo6NyzH7VoxB) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Bella Vita](https://open.spotify.com/album/7E5q2YUeY5NXoo14PuI4Pn) | 2:59 |
-| 5 | [Cœur](https://open.spotify.com/track/1RfaaZVPySn5XaNfW4zWhF) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Cœur](https://open.spotify.com/album/55bAkqv3DoCtJjQLAsaoeJ) | 3:40 |
+| 5 | [Mal](https://open.spotify.com/track/1LvAoQEorMNKwhSb3AC20o) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [process](https://open.spotify.com/album/2rjqDCxSc9fgwllCVMGLXZ) | 3:25 |
 | 6 | [Hauteur](https://open.spotify.com/track/4SzrnrK1JA1LLyOPp0NrOx) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Vie d'Adulte](https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP) | 3:24 |
-| 7 | [papa la maison s'effondre](https://open.spotify.com/track/2KHikG96BvB667Z34nA2e9) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [papa la maison s'effondre](https://open.spotify.com/album/5JLFLOIeGwpqQp4YYI3sH5) | 2:59 |
+| 7 | [baisers puissants](https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [la maison s'effondre](https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP) | 3:09 |
 | 8 | [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 |
 | 9 | [Le mur du salon](https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Le mur du salon](https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo) | 3:09 |
 | 10 | [Sorry I'm French](https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Sorry I'm French](https://open.spotify.com/album/3BEJ03fS6nzN8Pl5GPPKRS) | 2:38 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 19 | [problème problème](https://open.spotify.com/track/06GlYvE9CUWUV83OUrDBUI) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [problème problème](https://open.spotify.com/album/3dqSveAkJ0DezC4IkzS3qE) | 2:38 |
 | 20 | [À l'arrière de la Mercedes blanche](https://open.spotify.com/track/35BZeuRSDTSNuUCTIwbKhJ) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [À l'arrière de la Mercedes blanche](https://open.spotify.com/album/69vyE9uBL9L7RJ4Cj9BPbt) | 2:57 |
 | 21 | [2 aliens](https://open.spotify.com/track/1yBUBwu0LBybD7IcqknClS) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [2 aliens](https://open.spotify.com/album/3JI8NmZtUifc8YPnaXCSMm) | 2:26 |
-| 22 | [TELFAR™](https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [TELFAR™](https://open.spotify.com/album/6rDIyxY7aMr9kvy3eWmu9o) | 2:22 |
+| 22 | [Bagues en Or](https://open.spotify.com/track/1bnGWY5TmMBOpoYx7WPBWq) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Divine](https://open.spotify.com/album/4DbXX3AdezNUsnEcNFpa3P) | 2:44 |
 | 23 | [FR DZ](https://open.spotify.com/track/26VNKq2Zql986XlaHw6yTh) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [FR DZ](https://open.spotify.com/album/6lZ9Z2pivuWcWD8kDJuA8o) | 3:04 |
-| 24 | [Gourou](https://open.spotify.com/track/3lzKpkbcxDLkUobJuOrdlA) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Gourou](https://open.spotify.com/album/786aOyfpeWI7LIjevSNJEK) | 3:30 |
+| 24 | [Kilo par kilo](https://open.spotify.com/track/0fpyIJpLUk4bbNGi6nAa8r) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Effets Secondaires](https://open.spotify.com/album/1CDHmmmDBx7IKFLq1mm6LT) | 2:55 |
 | 25 | [U&I](https://open.spotify.com/track/0ngXPktDn76JGvEi1yi4Yr) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Goodbye](https://open.spotify.com/album/0reCuoSpZMDrx2LX87wsXS) | 2:32 |
 | 26 | [BROSKI](https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [BROSKI](https://open.spotify.com/album/21NuNN3KNRoe87rAZzy9du) | 2:17 |
 | 27 | [Princesse chaos \- Marine's Version](https://open.spotify.com/track/7y4qFoUVbDhJRJI0L9wVZZ) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [La Favorite, suite et fin](https://open.spotify.com/album/21cNAngHUeUUJWI4Lrh3PX) | 2:55 |
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 41 | [Flap Flap](https://open.spotify.com/track/2VbSOGBmQeIj4iHEFXdVwd) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK) | [Flap Flap](https://open.spotify.com/album/1yIKFkmI04eG5DEi6M985B) | 1:52 |
 | 42 | [MALADE!](https://open.spotify.com/track/3YS37AuvybZaRj5w3Z9Vs9) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [MALADE!](https://open.spotify.com/album/5gTFsUMApzVa40elOuNUwf) | 1:34 |
 | 43 | [Boy](https://open.spotify.com/track/6aiO1XYF4px8guDCAYgaZt) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Boy](https://open.spotify.com/album/22vAa6RGm52KqtfRjLeEyd) | 2:18 |
-| 44 | [Les cicatrices d'or](https://open.spotify.com/track/4kpFuJZkjJjUYhbeQKV0SN) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Les cicatrices d'or](https://open.spotify.com/album/7GVuwGYWlGgu9dRnbE3WoQ) | 2:59 |
+| 44 | [À l'envers](https://open.spotify.com/track/09CrknnhUZsaFzrOkw1uYD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Yuston XIII](https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh) | [À l'envers](https://open.spotify.com/album/22JsKnVGchPhzn8wfPGJxk) | 3:54 |
 | 45 | [rentier](https://open.spotify.com/track/6rqSnCp6aG6YKekjp3vIlS) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [shelf](https://open.spotify.com/album/1KicOJNEbUvra2jXrkDMW8) | 3:51 |
-| 46 | [Mute](https://open.spotify.com/track/34UQRhA2ojdzFFa8EMygwP) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Mute](https://open.spotify.com/album/4PSAXUqddfh2lOwj9Hf0NA) | 2:53 |
+| 46 | [Hallucination](https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Hallucination](https://open.spotify.com/album/7L23eyGbBT0HbruEuaKkTy) | 2:48 |
 | 47 | [leader price](https://open.spotify.com/track/4DzSa5hqOPvoqE6cwt4Iav) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [grandes surfaces](https://open.spotify.com/album/4AOcbCgPxu07O1lEK2mnJQ) | 2:53 |
 | 48 | [La symphonie des éclairs](https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:18 |
 | 49 | [LOVE](https://open.spotify.com/track/0sKpD4IYSjigg2bwX9BkGm) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [LOVE](https://open.spotify.com/album/0JkfhvuPHVyIUAzUa6cxvh) | 2:52 |
 | 50 | [LILA](https://open.spotify.com/track/5icFlrdlmnMbnvQu5HotQ3) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Lila](https://open.spotify.com/album/7AN65th2nIoDy1z5N1EDe7) | 3:08 |
 | 51 | [Jamais](https://open.spotify.com/track/0eldDLympvtBACN1lWAA2s) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Jamais](https://open.spotify.com/album/0IDj2r98eWhp9xWirfb0tL) | 3:06 |
 | 52 | [Manteau chagrin](https://open.spotify.com/track/68mZo8JZRnbvSLopeLHElu) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [MAISON](https://open.spotify.com/album/5j63ceC6p3VDR86pjCLdbL) | 4:13 |
-| 53 | [NEW JACK](https://open.spotify.com/track/0DMX3t9vbuXIbR0Ty9x1RU) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO), [Guizmo](https://open.spotify.com/artist/6sYR8JTRUUUzSD9IydLhfG) | [NEW JACK](https://open.spotify.com/album/46HVCUHDELAytwlDiSqx7S) | 2:45 |
+| 53 | [Mentalité](https://open.spotify.com/track/0aWrQZEWiePgmbR0fs6PTP) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO), [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [Après L'Éclipse](https://open.spotify.com/album/1MNXPDvHtcoIaTZ1GFbG58) | 2:59 |
 | 54 | [ANTI](https://open.spotify.com/track/7lrtKjLq5Pc3D8NiuIUcxq) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [L'Enfant Sacré De Belle Vue, Pt 2](https://open.spotify.com/album/13q22EbATaZB1KFVCPYEh7) | 3:58 |
 | 55 | [C'est la vie](https://open.spotify.com/track/6d8fbLWXDp0ET2KyJGVjUz) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [C'est la vie](https://open.spotify.com/album/5MQWBz12ZbRpDyqSYncy93) | 2:36 |
 | 56 | [Le départ](https://open.spotify.com/track/1aPmnLaOqUckJH55npV3ZC) | [Blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Te souviens\-tu ?](https://open.spotify.com/album/4LfcPStkgGYBfHrHWugvpd) | 3:07 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 73 | [Animal](https://open.spotify.com/track/37bZGx53B90Kv0ftpFDbDZ) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Animal](https://open.spotify.com/album/6w4q80Ee7fek6jc4FmOh7t) | 4:12 |
 | 74 | [Original](https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Original](https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1) | 2:24 |
 
-Snapshot ID: `AAAAAG/jgOZn2FoY48+Sc6TpUub2eqlq`
+Snapshot ID: `AAAAABr7Z3vnnWt8UnM0efW/wqXaZIrI`

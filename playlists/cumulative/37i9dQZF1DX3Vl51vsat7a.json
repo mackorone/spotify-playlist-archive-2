@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 161329,
       "name": "Dienstag",
       "url": "https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ"
@@ -3569,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Gro\u00dfe Fragen",
+        "url": "https://open.spotify.com/album/5KmpkBEqeXCtnKVKFyAvKB"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173206,
+      "name": "Gro\u00dfe Fragen",
+      "url": "https://open.spotify.com/track/4eXkBcQR26SLaoWYsPyZwJ"
+    },
+    {
+      "album": {
         "name": "Haare trocknen",
         "url": "https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF"
       },
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 149333,
       "name": "He Said She Said",
       "url": "https://open.spotify.com/track/4nHiea0Guj78Bjeu1NojAT"
@@ -6870,6 +6888,24 @@
       "duration_ms": 218193,
       "name": "Playing House",
       "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
+    },
+    {
+      "album": {
+        "name": "Ponder Neek",
+        "url": "https://open.spotify.com/album/0qoSNEhxEAQCgMg9p65AEq"
+      },
+      "artists": [
+        {
+          "name": "Louis Ottley",
+          "url": "https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155237,
+      "name": "Ponder Neek",
+      "url": "https://open.spotify.com/track/3FQwEFzzf40iVo0xA6SjBb"
     },
     {
       "album": {

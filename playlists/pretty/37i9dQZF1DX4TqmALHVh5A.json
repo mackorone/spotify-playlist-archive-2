@@ -1,13 +1,29 @@
 {
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: TH\u00c9A.",
-  "num_followers": 119899,
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: Stanislas.",
+  "num_followers": 119906,
   "original_name": "Courant Alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMkepMVGnBhMYC1hHwXsxE9b90Fi",
+  "snapshot_id": "AAAAAKDXO2kMptAtj6KHtT+vla+1E/Dw",
   "tracks": [
+    {
+      "added_at": "2026-10-01 22:01:50",
+      "album": {
+        "name": "Biopic",
+        "url": "https://open.spotify.com/album/015fcq6qJjulKwDyzSdFFz"
+      },
+      "artists": [
+        {
+          "name": "Stanislas",
+          "url": "https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Biopic",
+      "url": "https://open.spotify.com/track/5OOO12AefQmA6PNvOaC5Xf"
+    },
     {
       "added_at": "2026-10-01 22:01:50",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 138626,
       "name": "BRAINDEAD (Okay!)",
       "url": "https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a"
+    },
+    {
+      "added_at": "2026-10-08 22:02:10",
+      "album": {
+        "name": "Id\u00e9es Noires",
+        "url": "https://open.spotify.com/album/70g0q7audImjffcyWflACd"
+      },
+      "artists": [
+        {
+          "name": "Ulysse",
+          "url": "https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ"
+        }
+      ],
+      "duration_ms": 180363,
+      "name": "Misanthrope",
+      "url": "https://open.spotify.com/track/3QX4YrBc2ehvvGb3JR0UFc"
     },
     {
       "added_at": "2026-09-24 22:01:44",
@@ -45,40 +77,20 @@
       "url": "https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx"
     },
     {
-      "added_at": "2026-10-01 22:01:50",
+      "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "Biopic",
-        "url": "https://open.spotify.com/album/015fcq6qJjulKwDyzSdFFz"
+        "name": "je fais pleurer les hommes",
+        "url": "https://open.spotify.com/album/6eRKoDe7eO4dLFt0ZENsDU"
       },
       "artists": [
         {
-          "name": "Stanislas",
-          "url": "https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1"
+          "name": "ar\u00f8ne",
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Biopic",
-      "url": "https://open.spotify.com/track/5OOO12AefQmA6PNvOaC5Xf"
-    },
-    {
-      "added_at": "2026-09-24 22:01:44",
-      "album": {
-        "name": "Noum\u00e9a",
-        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
-      },
-      "artists": [
-        {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        },
-        {
-          "name": "Linema",
-          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
-        }
-      ],
-      "duration_ms": 228931,
-      "name": "Noum\u00e9a",
-      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
+      "duration_ms": 127242,
+      "name": "je fais pleurer les hommes",
+      "url": "https://open.spotify.com/track/5MPoJl0VcsotowwzLQCTyQ"
     },
     {
       "added_at": "2026-09-17 22:02:15",
@@ -97,6 +109,22 @@
       "url": "https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA"
     },
     {
+      "added_at": "2026-10-08 22:02:10",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/7L23eyGbBT0HbruEuaKkTy"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao"
+    },
+    {
       "added_at": "2026-10-01 22:01:50",
       "album": {
         "name": "Mec Normal",
@@ -113,56 +141,20 @@
       "url": "https://open.spotify.com/track/4nwrzpcTlORPRJ0ZllSQRn"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
+      "added_at": "2026-10-08 22:02:10",
       "album": {
-        "name": "je fais pleurer les hommes",
-        "url": "https://open.spotify.com/album/6eRKoDe7eO4dLFt0ZENsDU"
+        "name": "Little Boy",
+        "url": "https://open.spotify.com/album/49t8VGuHruOxn1r2dfPGIW"
       },
       "artists": [
         {
-          "name": "ar\u00f8ne",
-          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
         }
       ],
-      "duration_ms": 127242,
-      "name": "je fais pleurer les hommes",
-      "url": "https://open.spotify.com/track/5MPoJl0VcsotowwzLQCTyQ"
-    },
-    {
-      "added_at": "2026-10-01 22:01:50",
-      "album": {
-        "name": "Ph\u00e9nom\u00e8ne",
-        "url": "https://open.spotify.com/album/33dwEnfktJrytwlanY8e7X"
-      },
-      "artists": [
-        {
-          "name": "KALIKA",
-          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Ph\u00e9nom\u00e8ne",
-      "url": "https://open.spotify.com/track/4BZIRIwAL2maJYwxKZrZgY"
-    },
-    {
-      "added_at": "2026-09-24 22:01:44",
-      "album": {
-        "name": "\u00c0 l'arri\u00e8re de la Mercedes blanche",
-        "url": "https://open.spotify.com/album/69vyE9uBL9L7RJ4Cj9BPbt"
-      },
-      "artists": [
-        {
-          "name": "And\u00e9ol",
-          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
-        }
-      ],
-      "duration_ms": 177313,
-      "name": "\u00c0 l'arri\u00e8re de la Mercedes blanche",
-      "url": "https://open.spotify.com/track/35BZeuRSDTSNuUCTIwbKhJ"
+      "duration_ms": 226400,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/6AfonCJhLSPD4j3ZwDFBej"
     },
     {
       "added_at": "2026-09-24 22:01:44",
@@ -181,36 +173,24 @@
       "url": "https://open.spotify.com/track/4ceSHKoIuiuh7T7dgv1IYP"
     },
     {
-      "added_at": "2026-10-01 22:01:50",
+      "added_at": "2026-10-08 22:02:10",
       "album": {
-        "name": "Mode avion",
-        "url": "https://open.spotify.com/album/2SfT9JoG6pXqK5qYKxfWEX"
+        "name": "Polaro\u00efds",
+        "url": "https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl"
       },
       "artists": [
         {
-          "name": "Philippe Katerine",
-          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
-        }
-      ],
-      "duration_ms": 143960,
-      "name": "Mode avion",
-      "url": "https://open.spotify.com/track/5m7dCoZBRogxdYhjenjs1j"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "SOLEIL",
-        "url": "https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D"
-      },
-      "artists": [
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        },
         {
-          "name": "a6el",
-          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
         }
       ],
-      "duration_ms": 168114,
-      "name": "SOLEIL",
-      "url": "https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG"
+      "duration_ms": 193213,
+      "name": "Polaro\u00efds",
+      "url": "https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ"
     },
     {
       "added_at": "2026-09-17 22:02:15",
@@ -233,6 +213,142 @@
       "url": "https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T"
     },
     {
+      "added_at": "2026-10-08 22:02:10",
+      "album": {
+        "name": "D\u00c9SIR",
+        "url": "https://open.spotify.com/album/6OBlt0Ggf4Z7TOnIv3NRyG"
+      },
+      "artists": [
+        {
+          "name": "Loa Mercury",
+          "url": "https://open.spotify.com/artist/6Zb2vTrIhur77yejWgHN60"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "D\u00c9SIR",
+      "url": "https://open.spotify.com/track/4MoJaVhA04WspUheA55r3e"
+    },
+    {
+      "added_at": "2026-10-01 22:01:50",
+      "album": {
+        "name": "Ph\u00e9nom\u00e8ne",
+        "url": "https://open.spotify.com/album/33dwEnfktJrytwlanY8e7X"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Ph\u00e9nom\u00e8ne",
+      "url": "https://open.spotify.com/track/4BZIRIwAL2maJYwxKZrZgY"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "SOLEIL",
+        "url": "https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D"
+      },
+      "artists": [
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "duration_ms": 168114,
+      "name": "SOLEIL",
+      "url": "https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG"
+    },
+    {
+      "added_at": "2026-09-24 22:01:44",
+      "album": {
+        "name": "\u00c0 l'arri\u00e8re de la Mercedes blanche",
+        "url": "https://open.spotify.com/album/69vyE9uBL9L7RJ4Cj9BPbt"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "\u00c0 l'arri\u00e8re de la Mercedes blanche",
+      "url": "https://open.spotify.com/track/35BZeuRSDTSNuUCTIwbKhJ"
+    },
+    {
+      "added_at": "2026-10-08 22:02:10",
+      "album": {
+        "name": "Un jour apr\u00e8s l'autre",
+        "url": "https://open.spotify.com/album/1AOLRtJx5p2aq9qkka4dVk"
+      },
+      "artists": [
+        {
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
+        }
+      ],
+      "duration_ms": 154301,
+      "name": "Manana",
+      "url": "https://open.spotify.com/track/539QlCcRbIsbC7hFW6tfJ9"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "ANTIPOP",
+        "url": "https://open.spotify.com/album/5tSubN95RxcLUgWihyu7Xb"
+      },
+      "artists": [
+        {
+          "name": "Rok.wav",
+          "url": "https://open.spotify.com/artist/34AMiSMNdLIBS0NapVfzLz"
+        },
+        {
+          "name": "Dudu.wav",
+          "url": "https://open.spotify.com/artist/2fyTjHpxa1sFTxYYIgV7YO"
+        }
+      ],
+      "duration_ms": 135903,
+      "name": "ANTIPOP",
+      "url": "https://open.spotify.com/track/3tQK1usqWAoMkiXp54i4Ok"
+    },
+    {
+      "added_at": "2026-10-01 22:01:50",
+      "album": {
+        "name": "Rouge ciel",
+        "url": "https://open.spotify.com/album/7aRONpyCc3bHrki3n1Wqnh"
+      },
+      "artists": [
+        {
+          "name": "JeanneTo",
+          "url": "https://open.spotify.com/artist/4QZHVgbqlCMCvLBtTcV39a"
+        }
+      ],
+      "duration_ms": 212807,
+      "name": "De r\u00eaves et de sang",
+      "url": "https://open.spotify.com/track/2Wkk99mGku9rqpqQcN9jJp"
+    },
+    {
+      "added_at": "2026-10-08 22:02:10",
+      "album": {
+        "name": "Amour R\u00e9trograde",
+        "url": "https://open.spotify.com/album/7iHXdm9PvKbFJpyEs2I1pV"
+      },
+      "artists": [
+        {
+          "name": "Arzel",
+          "url": "https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX"
+        }
+      ],
+      "duration_ms": 156216,
+      "name": "Amour R\u00e9trograde",
+      "url": "https://open.spotify.com/track/3UQuHNMrIM3eQbBb5LUowD"
+    },
+    {
       "added_at": "2026-09-10 22:00:51",
       "album": {
         "name": "Kill It With The Beat",
@@ -247,6 +363,22 @@
       "duration_ms": 173066,
       "name": "Kill It With The Beat",
       "url": "https://open.spotify.com/track/2oN4lORHOZdxyPeTLEvn9S"
+    },
+    {
+      "added_at": "2026-10-08 22:02:10",
+      "album": {
+        "name": "PLUS JAMAIS BROKE",
+        "url": "https://open.spotify.com/album/5Kdpe9PbENbV4G7DcafEq2"
+      },
+      "artists": [
+        {
+          "name": "Peso Shabba",
+          "url": "https://open.spotify.com/artist/7uzgY9BIz1MUFIkX8nDgFK"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "PLUS JAMAIS BROKE",
+      "url": "https://open.spotify.com/track/0ezT65sFoRI244C95NXBhN"
     },
     {
       "added_at": "2026-10-01 22:01:50",
@@ -301,6 +433,22 @@
       "url": "https://open.spotify.com/track/2mOGkkEHVnivEvMVjhKQSq"
     },
     {
+      "added_at": "2026-10-01 22:01:50",
+      "album": {
+        "name": "Mode avion",
+        "url": "https://open.spotify.com/album/2SfT9JoG6pXqK5qYKxfWEX"
+      },
+      "artists": [
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "duration_ms": 143960,
+      "name": "Mode avion",
+      "url": "https://open.spotify.com/track/5m7dCoZBRogxdYhjenjs1j"
+    },
+    {
       "added_at": "2026-09-10 22:00:51",
       "album": {
         "name": "c'est ok",
@@ -317,42 +465,6 @@
       "url": "https://open.spotify.com/track/5Canxhfh2Ydgq5JR7e26Hm"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "ANTIPOP",
-        "url": "https://open.spotify.com/album/5tSubN95RxcLUgWihyu7Xb"
-      },
-      "artists": [
-        {
-          "name": "Rok.wav",
-          "url": "https://open.spotify.com/artist/34AMiSMNdLIBS0NapVfzLz"
-        },
-        {
-          "name": "Dudu.wav",
-          "url": "https://open.spotify.com/artist/2fyTjHpxa1sFTxYYIgV7YO"
-        }
-      ],
-      "duration_ms": 135903,
-      "name": "ANTIPOP",
-      "url": "https://open.spotify.com/track/3tQK1usqWAoMkiXp54i4Ok"
-    },
-    {
-      "added_at": "2026-10-01 22:01:50",
-      "album": {
-        "name": "Rouge ciel",
-        "url": "https://open.spotify.com/album/7aRONpyCc3bHrki3n1Wqnh"
-      },
-      "artists": [
-        {
-          "name": "JeanneTo",
-          "url": "https://open.spotify.com/artist/4QZHVgbqlCMCvLBtTcV39a"
-        }
-      ],
-      "duration_ms": 212807,
-      "name": "De r\u00eaves et de sang",
-      "url": "https://open.spotify.com/track/2Wkk99mGku9rqpqQcN9jJp"
-    },
-    {
       "added_at": "2026-09-24 22:01:44",
       "album": {
         "name": "BABYBOY",
@@ -367,6 +479,22 @@
       "duration_ms": 126683,
       "name": "BABYBOY",
       "url": "https://open.spotify.com/track/5FgtKtNcsGQvg6tUmNArzt"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "tous les soirs",
+        "url": "https://open.spotify.com/album/3wGuIln1FN1BDpGGKnkfr8"
+      },
+      "artists": [
+        {
+          "name": "Polyphone",
+          "url": "https://open.spotify.com/artist/3TOVF7GDgGPOktCYY7Neut"
+        }
+      ],
+      "duration_ms": 167683,
+      "name": "tous les soirs",
+      "url": "https://open.spotify.com/track/23Qo9cV7sOft2YqOuRqI2C"
     },
     {
       "added_at": "2026-10-01 22:01:50",
@@ -605,38 +733,6 @@
       "url": "https://open.spotify.com/track/58viLn4Q1Zvg86M7SxgMCa"
     },
     {
-      "added_at": "2026-09-17 22:02:15",
-      "album": {
-        "name": "OLALA",
-        "url": "https://open.spotify.com/album/7buhbL3okIzVzizN4kaJHx"
-      },
-      "artists": [
-        {
-          "name": "Simia",
-          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
-        }
-      ],
-      "duration_ms": 153948,
-      "name": "OLALA",
-      "url": "https://open.spotify.com/track/1W4hvl0PetDuUgXeJ3z0vb"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "tous les soirs",
-        "url": "https://open.spotify.com/album/3wGuIln1FN1BDpGGKnkfr8"
-      },
-      "artists": [
-        {
-          "name": "Polyphone",
-          "url": "https://open.spotify.com/artist/3TOVF7GDgGPOktCYY7Neut"
-        }
-      ],
-      "duration_ms": 167683,
-      "name": "tous les soirs",
-      "url": "https://open.spotify.com/track/23Qo9cV7sOft2YqOuRqI2C"
-    },
-    {
       "added_at": "2026-09-10 22:00:51",
       "album": {
         "name": "One way (le mode automatique)",
@@ -687,22 +783,6 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "PLEINE LUNE",
-        "url": "https://open.spotify.com/album/7aUwZPIjbAuB82uxwgApvf"
-      },
-      "artists": [
-        {
-          "name": "Kayson",
-          "url": "https://open.spotify.com/artist/592Fx192BSIFGTS9ldHXoI"
-        }
-      ],
-      "duration_ms": 182140,
-      "name": "PLEINE LUNE",
-      "url": "https://open.spotify.com/track/2uOQmdjZyVVt0fUXfmE5yJ"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
         "name": "1000_vies_(avec_toi).MPEG-4",
         "url": "https://open.spotify.com/album/07dKqRChiRAPbGKK2KTGAd"
       },
@@ -715,22 +795,6 @@
       "duration_ms": 168458,
       "name": "1000_vies_(avec_toi).MPEG-4",
       "url": "https://open.spotify.com/track/4k3zBTIr9ixWJw9Jc6y5c6"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "pleurer, baiser, rire",
-        "url": "https://open.spotify.com/album/1MARX9XFzXGfu2uAbs9Z2P"
-      },
-      "artists": [
-        {
-          "name": "ange",
-          "url": "https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG"
-        }
-      ],
-      "duration_ms": 103986,
-      "name": "pleurer, baiser, rire",
-      "url": "https://open.spotify.com/track/2K2NUCIZ4gQ1M5tAunR6Yv"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -767,38 +831,6 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "L'autre sens",
-        "url": "https://open.spotify.com/album/6lkalDS6VwGJr2FCB5oui7"
-      },
-      "artists": [
-        {
-          "name": "Bleu Electrique",
-          "url": "https://open.spotify.com/artist/4SamYGyl0GdnfPpXUxI2KM"
-        }
-      ],
-      "duration_ms": 121600,
-      "name": "L'autre sens",
-      "url": "https://open.spotify.com/track/6GbIDmSrH6mS1Fm30cstIK"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Ni l'une, ni l'autre",
-        "url": "https://open.spotify.com/album/2qc0zx9p7Xq4MhiIX49bD4"
-      },
-      "artists": [
-        {
-          "name": "Marguerite Thiam",
-          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
-        }
-      ],
-      "duration_ms": 159626,
-      "name": "Ni l'une, ni l'autre",
-      "url": "https://open.spotify.com/track/4rIimcM8yuCTPBblcAknhu"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
         "name": "La flemme",
         "url": "https://open.spotify.com/album/7hPscfFDNYH4ITpKBYPgNX"
       },
@@ -831,42 +863,6 @@
       "duration_ms": 142702,
       "name": "Coup de t\u00eate",
       "url": "https://open.spotify.com/track/5LzPzjb3O0dxim7GebwZyx"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "PAS +",
-        "url": "https://open.spotify.com/album/1gf5xUV0msVwmsHD4Ets8E"
-      },
-      "artists": [
-        {
-          "name": "unisature",
-          "url": "https://open.spotify.com/artist/5Q1QmxKNSY4UHazJ0wFQXn"
-        },
-        {
-          "name": "William",
-          "url": "https://open.spotify.com/artist/0TTEZQOq4cNQsdL7MA1gcH"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "PAS +",
-      "url": "https://open.spotify.com/track/5QkBwwh6SKPIVBE5Xzhp4y"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Cookie",
-        "url": "https://open.spotify.com/album/0UqC6W0iqv0F0mKYGSm6Gh"
-      },
-      "artists": [
-        {
-          "name": "Elle en \u00e9t\u00e9",
-          "url": "https://open.spotify.com/artist/3clftljp65DnlVlGRRneEW"
-        }
-      ],
-      "duration_ms": 120960,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/7EA9t5HOT9JlftSqvF3TRv"
     }
   ],
   "unique_name": "Courant Alternatif",

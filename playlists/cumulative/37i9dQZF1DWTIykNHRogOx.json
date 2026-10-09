@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Pomme.",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec TeddyBear.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -524,6 +524,24 @@
       "duration_ms": 190769,
       "name": "baby",
       "url": "https://open.spotify.com/track/5wTrByjrkQWtaiL5SfUUfr"
+    },
+    {
+      "album": {
+        "name": "la maison s'effondre",
+        "url": "https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP"
+      },
+      "artists": [
+        {
+          "name": "Alma Rechtman",
+          "url": "https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "baisers puissants",
+      "url": "https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O"
     },
     {
       "album": {
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 285334,
       "name": "DANS LE LOINTAIN DE TA VOIX",
       "url": "https://open.spotify.com/track/1OpHQ93V8O2l4v3tmqKGdx"
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 135579,
       "name": "Des histoires",
       "url": "https://open.spotify.com/track/2KmY7aoHZnlFWYTQX4mEbf"
@@ -3162,7 +3180,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 183453,
       "name": "le dernier verre",
       "url": "https://open.spotify.com/track/1SlMnFKyIbUPvhKHiz2Cab"
@@ -4585,6 +4603,24 @@
     },
     {
       "album": {
+        "name": "mon c\u0153ur",
+        "url": "https://open.spotify.com/album/5Xth6RihPf7hiP0a8pCXY6"
+      },
+      "artists": [
+        {
+          "name": "Coralie Fischer",
+          "url": "https://open.spotify.com/artist/25ci5VcVyFwZBinEPmxQFE"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157290,
+      "name": "mon c\u0153ur",
+      "url": "https://open.spotify.com/track/6dvR4ZMJsNRMtOeWAFqhtB"
+    },
+    {
+      "album": {
         "name": "\u00c0 l'\u00e9vidence",
         "url": "https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb"
       },
@@ -4690,6 +4726,24 @@
       "duration_ms": 240133,
       "name": "Nel bene nel male",
       "url": "https://open.spotify.com/track/7FeYaHR2sWZaOToapEHolI"
+    },
+    {
+      "album": {
+        "name": "Noir Jaune Rouge",
+        "url": "https://open.spotify.com/album/4ouEqlPzTzVVT91yOoXs4Y"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258040,
+      "name": "Noir Jaune Rouge",
+      "url": "https://open.spotify.com/track/1pl9B1jnco2ewLmDB9a2L2"
     },
     {
       "album": {
@@ -6133,6 +6187,28 @@
     },
     {
       "album": {
+        "name": "the Sound of Art",
+        "url": "https://open.spotify.com/album/7Mit6sJO0PT3XtICMqtTko"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345685,
+      "name": "Surya",
+      "url": "https://open.spotify.com/track/2IQZJUcLTe6CcTZ4Ek6YI5"
+    },
+    {
+      "album": {
         "name": "Syracuse",
         "url": "https://open.spotify.com/album/4c0WzbUK3R4b1CeAsErd2M"
       },
@@ -6820,7 +6896,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 268066,
       "name": "Y'a un monde",
       "url": "https://open.spotify.com/track/4Z5VLeJ3GGcpNKt7jBxE7y"

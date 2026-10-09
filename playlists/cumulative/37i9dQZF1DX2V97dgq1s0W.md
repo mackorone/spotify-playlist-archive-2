@@ -4,7 +4,7 @@
 
 > The voices shaping R&B\. Cover: Sasha Keable
 
-680 songs - 1 day 12 hr 9 min
+682 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Avant l'hiver](https://open.spotify.com/track/3hR5jexZmKeAFwtNfzlTzt) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/0Tbzb4NTozmXoJ0nJLFpxj) | 4:29 | 2024-05-31 | 2024-10-04 |
 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 | 2023-10-27 | 2024-01-26 |
 | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 | 2026-04-09 | 2026-08-04 |
-| [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 | 2026-04-24 |  |
+| [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 | 2026-04-24 | 2026-10-09 |
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-06-19 | 2026-03-20 |
 | [back then](https://open.spotify.com/track/6aVK1NArUNstG713aBQYql) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [back then](https://open.spotify.com/album/0Kd9rvhwMT6DKGeeN44jYo) | 3:53 | 2026-07-02 |  |
 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 | 2023-07-21 | 2023-10-28 |
@@ -126,7 +126,7 @@
 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 | 2026-07-30 |  |
 | [Conversation](https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Conversation](https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof) | 3:43 | 2026-04-24 | 2026-07-24 |
 | [couture](https://open.spotify.com/track/391NOaXhF0TrlCgwDu3T5V) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [couture](https://open.spotify.com/album/4b1pJ5a1P2JnpstHQLDQ3c) | 2:33 | 2026-01-16 | 2026-04-17 |
-| [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 | 2026-04-30 |  |
+| [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 | 2026-04-30 | 2026-10-09 |
 | [CRASH OUT \(feat\. FLO\)](https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:50 | 2025-10-09 | 2026-04-25 |
 | [Crashing Out!](https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Crashing Out!](https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla) | 2:33 | 2026-06-04 |  |
 | [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 | 2026-03-27 |  |
@@ -141,6 +141,7 @@
 | [Dance Again](https://open.spotify.com/track/1Da22brPeT2yJYp8nWCduw) | [Hunnah](https://open.spotify.com/artist/5ALJQTH4K9eghzib4UhiqV) | [Dance Again](https://open.spotify.com/album/5KGdvqy1ARUVQ1lFW3Dw9N) | 1:24 | 2023-02-23 | 2023-08-19 |
 | [Dancing](https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:41 | 2026-08-20 |  |
 | [Dangerous](https://open.spotify.com/track/1YC84NEeg2zJgt3HqPdadI) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [Aura](https://open.spotify.com/album/30zwrucTjzd3gRt5AoFLqM) | 2:55 | 2025-06-19 | 2025-10-10 |
+| [Dangerous](https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [MACHIKO](https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc) | 3:42 | 2026-10-08 |  |
 | [dangerous game](https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [dangerous game](https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj) | 3:50 | 2024-05-31 | 2025-03-21 |
 | [DARLING](https://open.spotify.com/track/2zq3pwi2tlf96KbnZqDYvq) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [DARLING](https://open.spotify.com/album/0HJRLdzJ0Y6phDRCBg6i7u) | 3:15 | 2026-03-27 | 2026-06-26 |
 | [defiance](https://open.spotify.com/track/7HSuDocrUEMvTa20ocNEWO) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [defiance](https://open.spotify.com/album/5qt9UjTYqbue5NfngVWD8O) | 4:06 | 2024-10-10 | 2025-04-04 |
@@ -406,6 +407,7 @@
 | [More Of You](https://open.spotify.com/track/59FNEgSTq2o442TKFHtLMx) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [More Of You](https://open.spotify.com/album/4m9FIQVMM9Ut01gmjBfDrw) | 3:19 | 2026-07-30 |  |
 | [Motion Sickness](https://open.spotify.com/track/6efGBx7ImAe7IabZmALSOG) | [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Motion Sickness](https://open.spotify.com/album/7kWSwxp6LBxZESeiOBVuqn) | 3:01 | 2024-05-20 | 2025-01-17 |
 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 | 2025-07-24 | 2026-01-16 |
+| [Mr Right](https://open.spotify.com/track/3rZj4LoO1tK4NsmlVAVe8e) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Mr Right](https://open.spotify.com/album/6v2bBaHrTPmPy4rWQzMcZT) | 3:16 | 2026-10-08 |  |
 | [Mr\. Postman](https://open.spotify.com/track/1mntRFhXAefGklhOwPtYMT) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Mr\. Postman](https://open.spotify.com/album/2j2XYXQKyY53hMwiUb4t5d) | 3:41 | 2026-01-16 | 2026-06-05 |
 | [Murder](https://open.spotify.com/track/19OgWOJ9fckycODdY7L23X) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [Murder](https://open.spotify.com/album/6e6vJim2z4DY53x24S4j5w) | 2:55 | 2025-09-11 | 2026-01-16 |
 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 | 2024-10-03 | 2025-09-26 |

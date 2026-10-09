@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of electronic trap \ud83d\udc99 with TroyBoi",
+  "description": "The best of electronic trap \ud83e\ude77 with ISOxo",
   "name": "Trap Mojito",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 145655,
       "name": "AHORA",
       "url": "https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL"
@@ -2896,7 +2896,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 198857,
       "name": "change my mind",
       "url": "https://open.spotify.com/track/2htiiQZqJKqY6mFUF9wh0d"
@@ -5518,7 +5518,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 178500,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/4baB7bmvoAs6FV81d2TAua"
@@ -6460,7 +6460,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 176514,
       "name": "Get Started",
       "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
@@ -7588,7 +7588,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 141655,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/5P3yiKQoVt7X6uPBRdlZ6I"
@@ -7894,7 +7894,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 168017,
       "name": "Hitz",
       "url": "https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K"
@@ -8240,7 +8240,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 193307,
       "name": "HUSH",
       "url": "https://open.spotify.com/track/0BBzJt4nTWXbZKvO2k3L8X"
@@ -9028,10 +9028,32 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 197142,
       "name": "INSANE",
       "url": "https://open.spotify.com/track/45JQqMg08DsvcDvpiJP7rE"
+    },
+    {
+      "album": {
+        "name": "Insanity",
+        "url": "https://open.spotify.com/album/3K4Tpg7rhiJoLjjiHCjkii"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222827,
+      "name": "Insanity",
+      "url": "https://open.spotify.com/track/3du1ULb91ZeCuAnEet30Z0"
     },
     {
       "album": {
@@ -9920,7 +9942,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 192727,
       "name": "Lazarus Rise",
       "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
@@ -11671,6 +11693,28 @@
     },
     {
       "album": {
+        "name": "HARDCORE DIVA",
+        "url": "https://open.spotify.com/album/2Fin9olY1bjzCciF2KccCr"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "MOLLY TALK",
+      "url": "https://open.spotify.com/track/64zclJhMujuU4lzEUTelQo"
+    },
+    {
+      "album": {
         "name": "MONEY COUNT",
         "url": "https://open.spotify.com/album/0VF6mFQLk9YHlm4LYCM4tA"
       },
@@ -11896,6 +11940,24 @@
       "duration_ms": 208400,
       "name": "Morph",
       "url": "https://open.spotify.com/track/6jwmIxjsBgCMIPCSQzv2R5"
+    },
+    {
+      "album": {
+        "name": "MOTIONS",
+        "url": "https://open.spotify.com/album/5kmNmvz2qM6vVYa4dFThVs"
+      },
+      "artists": [
+        {
+          "name": "Odd Language",
+          "url": "https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "MOTIONS",
+      "url": "https://open.spotify.com/track/0oYPOsiLQlas1H40b0zrgR"
     },
     {
       "album": {
@@ -14300,7 +14362,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "redSKY",
       "url": "https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV"
@@ -15142,7 +15204,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 177428,
       "name": "Scut 2",
       "url": "https://open.spotify.com/track/2v873M58ZtPMgxply7f11E"
@@ -15471,6 +15533,28 @@
     },
     {
       "album": {
+        "name": "Shoulder Lean",
+        "url": "https://open.spotify.com/album/495KYK5O0NV4vJ2Z6lJNUY"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "Shoulder Lean",
+      "url": "https://open.spotify.com/track/1lWMZNbY0ArYABv7ZkdqCK"
+    },
+    {
+      "album": {
         "name": "SHOWOFF",
         "url": "https://open.spotify.com/album/73CeKyAHVdhp5QNJOgwccA"
       },
@@ -15596,7 +15680,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 203571,
       "name": "SIGNAL",
       "url": "https://open.spotify.com/track/2lI0NirbWze2kWcIsB7Nqo"
@@ -17260,7 +17344,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 219428,
       "name": "TELL ME",
       "url": "https://open.spotify.com/track/1XQ0lGZup608U92d7hKGT9"
@@ -19996,7 +20080,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Work",
       "url": "https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7"

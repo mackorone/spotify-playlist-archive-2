@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: KA LAI
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: before the night ends
 
-1,757 songs - 4 day 3 hr 15 min
+1,760 songs - 4 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [By the Time](https://open.spotify.com/track/4V8pj7EUdmgTZwia2jyODJ) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [By the Time](https://open.spotify.com/album/34yWZHYLkQw6KWa1gHyqGe) | 3:12 | 2022-05-26 | 2022-06-10 |
 | [By You](https://open.spotify.com/track/1yqwcmbBMrUZW063PE7ppA) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt) | [By You](https://open.spotify.com/album/0hMld3ceybBzc3dtIoSiOw) | 3:08 | 2023-08-31 | 2023-12-01 |
 | [Bésame Mucho](https://open.spotify.com/track/3VtJPJlYZNpMVPjLjJBd2l) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [Bésame Mucho](https://open.spotify.com/album/1m1BxXizxW9vewtvs5vxu4) | 5:57 | 2024-02-01 | 2024-05-10 |
+| [Caledonian Road](https://open.spotify.com/track/133o135DPYO5zgbevX9BEG) | [no way mary!](https://open.spotify.com/artist/0lZ8NGaQ1HDMNgS0Uzoy5p) | [Caledonian Road](https://open.spotify.com/album/3lrbuORDUpu1T4O825x7WD) | 3:12 | 2026-10-08 |  |
 | [California \(好鬼死浪漫\)](https://open.spotify.com/track/2Fsqwg6OCrNEcjpUTorvWF) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [California \(好鬼死浪漫\)](https://open.spotify.com/album/7m89UNillV51zntHOksawo) | 4:23 | 2024-05-16 | 2024-11-15 |
 | [California Trash](https://open.spotify.com/track/61LhSOCYMNEGedpacz61X2) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [California Trash](https://open.spotify.com/album/5J0aVIgfEX4tScTFLU46kV) | 3:25 | 2024-11-28 | 2025-04-25 |
 | [call me](https://open.spotify.com/track/49WCwFt5TTXeEVfK3aB5Ln) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX), [Gracio Zaqueu](https://open.spotify.com/artist/2S0NEVzLlZGbfq4Mqkfd1i) | [call me](https://open.spotify.com/album/53RZRwrE2R70bsJ3DPn7My) | 7:18 | 2023-06-08 | 2023-11-03 |
@@ -313,6 +314,7 @@
 | [FeelGoodLookGood](https://open.spotify.com/track/2mcuoM3QMNr1DYQJxdzIS2) | [DAWN](https://open.spotify.com/artist/0N5VSbyA9QKuM3WlA7dMP6) | [FeelGoodLookGood](https://open.spotify.com/album/4Nkyo7KX4fjxoP1JmMrJQI) | 3:28 | 2025-11-27 | 2026-05-08 |
 | [Feelin'](https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Feelin'](https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks) | 3:01 | 2022-10-27 | 2023-02-03 |
 | [feelit?](https://open.spotify.com/track/1NFls9VltXXSfZh2GxzNAX) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [feelit?](https://open.spotify.com/album/3IEOmMfmbLheFV7utGKmuO) | 2:50 | 2023-11-23 | 2024-01-05 |
+| [Feels Like A Crime](https://open.spotify.com/track/0R01JwZEAB5HqNZQ3zX9Kn) | [Zolie](https://open.spotify.com/artist/4pcletN1p2Xcxi8g5YHHgT) | [Feels Like A Crime](https://open.spotify.com/album/7zr0qXtTJQwwZDwCwmXfvT) | 3:20 | 2026-10-08 |  |
 | [Feels like back in 2018](https://open.spotify.com/track/393U6czC5kq6BC5e6z2Eua) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [Bye.](https://open.spotify.com/album/3O8g3PI0mEjHD6ByNMVsx4) | 2:16 | 2024-11-28 | 2025-03-14 |
 | [Figure Eight](https://open.spotify.com/track/0QvLNAmChmIxtuiHQRcK8x) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Figure Eight / Then You're Here Again](https://open.spotify.com/album/0uuVQfkEALS6HEAjnA7F5M) | 2:57 | 2026-02-12 | 2026-09-18 |
 | [Fill My Empty Soul](https://open.spotify.com/track/3YN2Vz3jYYIIvkC2eX2mGr) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Fill My Empty Soul](https://open.spotify.com/album/46kdOcGtnWMPDLcmRmdEjg) | 3:26 | 2024-12-12 | 2025-05-30 |
@@ -441,6 +443,7 @@
 | [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 | 2022-05-26 | 2022-09-09 |
 | [hypocritical](https://open.spotify.com/track/1pB2TGji7Df7lD4P1hlx2I) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [hypocritical](https://open.spotify.com/album/0myS8GbqDFVywteUX1Q2Ee) | 3:17 | 2022-06-02 | 2022-07-29 |
 | [I AM ANGRY \(我是憤怒\)](https://open.spotify.com/track/71SIVJcRf313jxCL23thvo) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [I AM ANGRY \(我是憤怒\)](https://open.spotify.com/album/7Bd6u4qK1F1XqTUi22Q9HM) | 3:55 | 2024-06-27 | 2024-11-15 |
+| [I CAN SEE EVERYTHING](https://open.spotify.com/track/7hg0DCXLW6A6jOZzxr8tvz) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [I CAN SEE EVERYTHING](https://open.spotify.com/album/3RaPwSHzxkzqniaZJqqCdF) | 3:28 | 2026-10-08 |  |
 | [I CAN'T](https://open.spotify.com/track/4gWWZGAvRd78Ztz4kfwTSu) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [I CAN'T](https://open.spotify.com/album/4LPLzvpPWmbuOOpK1vaiQl) | 2:07 | 2023-12-14 | 2024-05-10 |
 | [i cant stop looking at her eyes](https://open.spotify.com/track/4uZAqxSDdXhbKlQKVsUVRy) | [fee.](https://open.spotify.com/artist/0doNlR4itw8RyaQ9cw3yZo) | [i cant stop looking at her eyes](https://open.spotify.com/album/1QgyXFjXyscaGdPRKygRlV) | 2:40 | 2026-07-30 |  |
 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 | 2024-01-18 | 2024-05-10 |
@@ -797,7 +800,7 @@
 | [POP THAT SHIT](https://open.spotify.com/track/1UFVCU3yUSbTFpDGITkBs6) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1), [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK) | [POP THAT SHIT](https://open.spotify.com/album/0nTzfNhyvIKE7AybqRgfGt) | 2:23 | 2023-09-14 | 2023-12-01 |
 | [Popstar in the 6](https://open.spotify.com/track/0IgIzG3NHLdrlE1QKRQtkW) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Popstar in the 6](https://open.spotify.com/album/5Yg3yKEv3DFJWsGgxvNkzc) | 3:18 | 2024-07-11 | 2024-11-15 |
 | [Powerful \(Slowed Down in the Next Room\)](https://open.spotify.com/track/1MPojg75zTJXbADIqM08KX) | [Lucid](https://open.spotify.com/artist/5CSUqW56M3YgpoawrT6Pjr), [Hong Kong Express](https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf) | [Powerful \(Slowed Down in the Next Room\)](https://open.spotify.com/album/6jMuzs27TFDDehKOhvTVtc) | 1:34 | 2024-05-09 | 2024-11-15 |
-| [Prelude \(its so far\)](https://open.spotify.com/track/5jQlvQZhDmvzprMOrAaePZ) | [Kung Chi Shing](https://open.spotify.com/artist/0iDLyRwkaS3TcFUMea3zb9), [Olivier Cong](https://open.spotify.com/artist/2nhcHKPRMgQm4Z9wkz6GVn) | [No More Dark](https://open.spotify.com/album/2k8dj5ba1hxX5RKOVODAno) | 2:47 | 2026-08-20 |  |
+| [Prelude \(its so far\)](https://open.spotify.com/track/5jQlvQZhDmvzprMOrAaePZ) | [Kung Chi Shing](https://open.spotify.com/artist/0iDLyRwkaS3TcFUMea3zb9), [Olivier Cong](https://open.spotify.com/artist/2nhcHKPRMgQm4Z9wkz6GVn) | [No More Dark](https://open.spotify.com/album/2k8dj5ba1hxX5RKOVODAno) | 2:47 | 2026-08-20 | 2026-10-09 |
 | [Pretend](https://open.spotify.com/track/5FrRc247Vd0xAZpIw0wNyH) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Pretend](https://open.spotify.com/album/06QUCNgUMQuniwmCmlQtya) | 3:08 | 2024-03-28 | 2024-11-15 |
 | [Pretending](https://open.spotify.com/track/5Dqg1AVbpxtKLhaAOzs6XR) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Pretending](https://open.spotify.com/album/2pBDFxIlrAhxhPqTpwinOj) | 3:45 | 2025-05-29 | 2025-11-21 |
 | [Pretending To Be Somebody Else](https://open.spotify.com/track/1xmCOkRdfGkGuOa0TLRD7d) | [TheTitle](https://open.spotify.com/artist/0lko9k40FRPGgYHS3srLXq) | [Pretending To Be Somebody Else](https://open.spotify.com/album/68UShtWizNHmHZE4r7MkgO) | 3:57 | 2023-05-25 | 2023-09-01 |
@@ -1331,7 +1334,7 @@
 | [大揪鬼](https://open.spotify.com/track/09HmiCOzZJtqY6FDtWLgd7) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [大揪鬼](https://open.spotify.com/album/18Pkx9GrX1ujtIsJWxqgcQ) | 3:56 | 2024-10-31 | 2025-02-14 |
 | [大有](https://open.spotify.com/track/3WT0JXvJp6D0xGdGUuisHX) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [大有](https://open.spotify.com/album/1bEOMxmg5JyqWgjMIsbj8T) | 3:48 | 2024-06-13 | 2024-11-15 |
 | [大膽車](https://open.spotify.com/track/2a83S6ERQuoYG5ZF39gR9M) | [JA](https://open.spotify.com/artist/2iDmpW2aUMre2v18ul2HCi), [DRG](https://open.spotify.com/artist/5l4gTRr24i5PzATUlUixvt) | [HoodStar Mixtape](https://open.spotify.com/album/6poTCQ1IEy7L61dgWEjQkN) | 2:27 | 2025-04-04 | 2025-07-11 |
-| [天下也一樣](https://open.spotify.com/track/7rQcwYCHD6Kcm8B9taUzA0) | [FYP](https://open.spotify.com/artist/4p0rkZqkBevR2hDsNmOLRM) | [天下也一樣](https://open.spotify.com/album/7AxGhLKa3TmOG3edAZobl1) | 3:57 | 2026-08-06 |  |
+| [天下也一樣](https://open.spotify.com/track/7rQcwYCHD6Kcm8B9taUzA0) | [FYP](https://open.spotify.com/artist/4p0rkZqkBevR2hDsNmOLRM) | [天下也一樣](https://open.spotify.com/album/7AxGhLKa3TmOG3edAZobl1) | 3:57 | 2026-08-06 | 2026-10-09 |
 | [天使999%](https://open.spotify.com/track/5gheISXZ452VrOcVnpy69G) | [Helen So 蘇凱倫](https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11) | [天使999%](https://open.spotify.com/album/5sG2VZ8ou6pGukVpWvNnn1) | 2:50 | 2023-10-26 | 2024-01-05 |
 | [天國](https://open.spotify.com/track/1fjPFLeRJn2Rp65HUPD8Ig) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [天國](https://open.spotify.com/album/3qybNFAhia0aTut9SUEHiz) | 1:24 | 2025-07-17 | 2025-11-21 |
 | [天氣之女](https://open.spotify.com/track/6FsfLl1iG0zrbXfiJHl00y) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [天氣之女](https://open.spotify.com/album/1qyTHpCoEhSgSF4bQK1y1F) | 3:24 | 2023-08-03 | 2023-11-03 |
@@ -1623,7 +1626,7 @@
 | [笑死](https://open.spotify.com/track/0ByUo4Ddhi8hZalg0wDAx4) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [笑死](https://open.spotify.com/album/1d0pWF0p4h1raeWv8s9vP4) | 2:31 | 2022-05-26 | 2022-07-29 |
 | [第一支煙 \(The First Cigarette\)](https://open.spotify.com/track/0xA6Kv2WeXBksQv9Q4U4Pl) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [第一支煙 \(The First Cigarette\)](https://open.spotify.com/album/1KNp7MpOsgAm9iTrAkFr9A) | 2:12 | 2026-04-23 |  |
 | [等一等](https://open.spotify.com/track/539h61H0uqsk2NS9HAkcp0) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [等一等](https://open.spotify.com/album/3rpsBh1Po5wEt8wEkdTfmw) | 4:34 | 2026-07-23 |  |
-| [等一等 \- 生日天天過版本](https://open.spotify.com/track/3fTX40iobyUMZsFuntoICn) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [等一等 \(生日天天過版本\)](https://open.spotify.com/album/64sO68DtvEuoRh1IKrkH1x) | 4:34 | 2026-08-13 |  |
+| [等一等 \- 生日天天過版本](https://open.spotify.com/track/3fTX40iobyUMZsFuntoICn) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [等一等 \(生日天天過版本\)](https://open.spotify.com/album/64sO68DtvEuoRh1IKrkH1x) | 4:34 | 2026-08-13 | 2026-10-09 |
 | [等等等](https://open.spotify.com/track/4SZ4SULm4syQAAtkaHb9FR) | [李白 \(Brad Li\)](https://open.spotify.com/artist/1uZxut4yL1iRvguCGCpEbx) | [等等等](https://open.spotify.com/album/26q8T7anFS1ifYyuXo7BKA) | 3:51 | 2024-09-26 | 2025-02-14 |
 | [答案](https://open.spotify.com/track/4AeGPDzAwPSMRyGaNuyGLQ) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [答案](https://open.spotify.com/album/2Gf2ijKAn3L7mpjahbepYV) | 5:00 | 2023-09-21 | 2023-12-01 |
 | [節日可以不用管我 Holidays Without Me](https://open.spotify.com/track/0EZ2u7CviDEa4XI7dl3BA3) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [節日可以不用管我 Holidays Without Me](https://open.spotify.com/album/4yqM9oGXIHGrzrunIQTDoO) | 2:46 | 2024-12-19 | 2025-04-25 |

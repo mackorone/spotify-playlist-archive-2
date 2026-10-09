@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT this week is all about 80s duets  Cover: Barry Gibb & Barbra Streisand
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,261,057 likes - 30 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,261,071 likes - 30 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

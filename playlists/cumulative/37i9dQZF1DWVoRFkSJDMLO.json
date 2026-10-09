@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "The latest in world music. From the continent, to the islands with BNXN.",
+  "description": "The latest in African & Caribbean music. From the continent, to the islands with FOLA & Davido.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -304,6 +304,28 @@
       "duration_ms": 138305,
       "name": "2:30",
       "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
+    },
+    {
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "2am in toronto",
+      "url": "https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE"
     },
     {
       "album": {
@@ -6823,6 +6845,24 @@
     },
     {
       "album": {
+        "name": "City",
+        "url": "https://open.spotify.com/album/0Kuun2ZAkgyHmb8sjrwxiK"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "City",
+      "url": "https://open.spotify.com/track/5qhskGL06gUWmpvvoggkkj"
+    },
+    {
+      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -12513,6 +12553,24 @@
     },
     {
       "album": {
+        "name": "Girls All Around The World",
+        "url": "https://open.spotify.com/album/3imf3lejMkprL3mI8ysNBq"
+      },
+      "artists": [
+        {
+          "name": "Digga",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Girls All Around The World",
+      "url": "https://open.spotify.com/track/6RQzgitZRBTSBMFRAjZDGH"
+    },
+    {
+      "album": {
         "name": "Give Me Love",
         "url": "https://open.spotify.com/album/4hWM3aX6wr4WOwOzt6atGR"
       },
@@ -15952,7 +16010,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 190972,
       "name": "it's over",
       "url": "https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF"
@@ -19020,7 +19078,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 167306,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT"
@@ -28357,6 +28415,24 @@
     },
     {
       "album": {
+        "name": "SECOND CHOICE",
+        "url": "https://open.spotify.com/album/0Mc94Okie9yCWJ3hSwdIM2"
+      },
+      "artists": [
+        {
+          "name": "Armanii",
+          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192817,
+      "name": "SECOND CHOICE",
+      "url": "https://open.spotify.com/track/0XlVPorVm4pLt7lJNr3I4f"
+    },
+    {
+      "album": {
         "name": "Section",
         "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
       },
@@ -31806,7 +31882,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 128708,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/1iGYeQajwu7Ka8UXIywOZW"
@@ -35194,7 +35270,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 149162,
       "name": "WE JUS CHILLIN",
       "url": "https://open.spotify.com/track/3jaRYEhFhFZncOx5gjPOEa"

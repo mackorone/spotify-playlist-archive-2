@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,107 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,153 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 24 | [Flowers Of the Same Tree](https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d) | [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jaskirat Singh](https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6) | [Flowers Of the Same Tree](https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6) | 4:44 |
 | 25 | [Uchiyaan Lambiyaan](https://open.spotify.com/track/0IafwsYaah6ee0mY9FLOiO) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Uchiyaan Lambiyaan](https://open.spotify.com/album/43MG1gcCk4wp2ULa0Fl5xd) | 8:45 |
 | 26 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 |
-| 27 | [Deewani](https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Aniket Sharma](https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx) | [Deewani](https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy) | 3:04 |
-| 28 | [Ranjhe](https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d) | [Hassrat](https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ), [HARJINDER JOHAL](https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY) | [Ranjhe](https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt) | 3:26 |
-| 29 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
+| 27 | [Ranjhe](https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d) | [Hassrat](https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ), [HARJINDER JOHAL](https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY) | [Ranjhe](https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt) | 3:26 |
+| 28 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
+| 29 | [Deewani](https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Aniket Sharma](https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx) | [Deewani](https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy) | 3:04 |
 | 30 | [Uthan Wale Lai Jaange](https://open.spotify.com/track/6zqxy4YhDcsbiN89cqcE8u) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Ishqe De](https://open.spotify.com/album/3xeIWOhVor6b8GbMlmgr5C) | 6:58 |
 | 31 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 |
 | 32 | [Ranjha](https://open.spotify.com/track/5acSF43QLkBhy2O3Y5QLLn) | [Kanwar Grewal](https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu) | [Andaaz \- E \- Sufi](https://open.spotify.com/album/7c81HIvRMeSp9DdNKBG5GX) | 5:18 |

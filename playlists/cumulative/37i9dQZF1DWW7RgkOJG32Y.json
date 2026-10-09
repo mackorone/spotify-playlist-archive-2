@@ -5080,7 +5080,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 190157,
       "name": "Hits Me",
       "url": "https://open.spotify.com/track/7hbsfi6jiydEHGmXSQWA2m"
@@ -7429,6 +7429,24 @@
     },
     {
       "album": {
+        "name": "Man In The Box",
+        "url": "https://open.spotify.com/album/2CQFvTG8XLK4G4tdJn3uLx"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472644,
+      "name": "Man In The Box",
+      "url": "https://open.spotify.com/track/3PQkKNk8QSMfi4C6i14Xeh"
+    },
+    {
+      "album": {
         "name": "Man on the Moon",
         "url": "https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI"
       },
@@ -8438,7 +8456,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 215173,
       "name": "No Need For Leavin'",
       "url": "https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd"
@@ -10781,6 +10799,24 @@
     },
     {
       "album": {
+        "name": "Take You Down With Me",
+        "url": "https://open.spotify.com/album/5i58ud7BnWtfzw3MbR3Bv5"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203933,
+      "name": "Take You Down With Me",
+      "url": "https://open.spotify.com/track/6UFZedxBM4L7kP6wUdCAyd"
+    },
+    {
+      "album": {
         "name": "Talk About",
         "url": "https://open.spotify.com/album/6Lw5Eps3vN86YqNdQtfu9o"
       },
@@ -11124,7 +11160,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 161843,
       "name": "The Day I Hang It Up",
       "url": "https://open.spotify.com/track/05LCkBsBCDEcQv9nqZab41"
@@ -11926,6 +11962,28 @@
       "duration_ms": 183736,
       "name": "Us",
       "url": "https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t"
+    },
+    {
+      "album": {
+        "name": "The Day I Hang It Up",
+        "url": "https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234010,
+      "name": "Us Again",
+      "url": "https://open.spotify.com/track/2AcF4plsR1Fz1JUMygpVPM"
     },
     {
       "album": {

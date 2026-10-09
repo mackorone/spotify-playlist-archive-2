@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Luister La Voz & Manuel Turizo",
-  "num_followers": 143153,
+  "num_followers": 143157,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "SOLEAO",
-        "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 218305,
-      "name": "SOLEAO",
-      "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "M\u00e1s Que T\u00fa",
         "url": "https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 197081,
       "name": "M\u00e1s Que T\u00fa",
       "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "SOLEAO",
+        "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 218305,
+      "name": "SOLEAO",
+      "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -567,26 +567,22 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Hermoso",
-        "url": "https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED"
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
       "artists": [
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 174813,
-      "name": "Ay Bendito (with Mora & Ovy On The Drums)",
-      "url": "https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2"
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -611,22 +607,26 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "BUBALU",
-        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+        "name": "Hermoso",
+        "url": "https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 228253,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+      "duration_ms": 174813,
+      "name": "Ay Bendito (with Mora & Ovy On The Drums)",
+      "url": "https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 125560,
-      "name": "Mal o Bien",
-      "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "Estuve Ah\u00ed",
         "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 135998,
       "name": "Estuve Ah\u00ed",
       "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 125560,
+      "name": "Mal o Bien",
+      "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1507,46 +1507,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Afro Vibes (2024-07-19)",
-        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
-        "name": "PAKETE VAS",
-        "url": "https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU"
-      },
-      "artists": [
-        {
-          "name": "OMAY",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        }
-      ],
-      "duration_ms": 127060,
-      "name": "PAKETE VAS",
-      "url": "https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "WAYO :(",
         "url": "https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI"
       },
@@ -1583,6 +1543,46 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
+        "name": "PAKETE VAS",
+        "url": "https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU"
+      },
+      "artists": [
+        {
+          "name": "OMAY",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        }
+      ],
+      "duration_ms": 127060,
+      "name": "PAKETE VAS",
+      "url": "https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "Afro Vibes (2024-07-19)",
+        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 257187,
       "name": "Loba",
       "url": "https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "NoNoNo",
+        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1615,22 +1631,6 @@
       "duration_ms": 128362,
       "name": "Moviendo El Piso",
       "url": "https://open.spotify.com/track/6Hl8NeXRjthQl4BTEkf2a5"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
-        "name": "NoNoNo",
-        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "NoNoNo",
-      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "ohsaye",
-        "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
-      },
-      "artists": [
-        {
-          "name": "Anacri",
-          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "ohsaye",
-      "url": "https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "Usame",
         "url": "https://open.spotify.com/album/2FuMEHblngX534yhdoSkag"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 165882,
       "name": "Usame",
       "url": "https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "ohsaye",
+        "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
+      },
+      "artists": [
+        {
+          "name": "Anacri",
+          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "ohsaye",
+      "url": "https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Ese Habladito",
-        "url": "https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru"
-      },
-      "artists": [
-        {
-          "name": "Nono",
-          "url": "https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p"
-        }
-      ],
-      "duration_ms": 192230,
-      "name": "Ese Habladito",
-      "url": "https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "Puntos Suspensivos",
         "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 138673,
       "name": "Puntos Suspensivos",
       "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "Ese Habladito",
+        "url": "https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru"
+      },
+      "artists": [
+        {
+          "name": "Nono",
+          "url": "https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p"
+        }
+      ],
+      "duration_ms": 192230,
+      "name": "Ese Habladito",
+      "url": "https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf"
     },
     {
       "added_at": "2026-09-04 04:01:49",

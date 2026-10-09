@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-334 songs - 14 hr 17 min
+335 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Northern](https://open.spotify.com/track/5orWjiWXDD8C4a0hBmhNDC) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:51 | 2021-12-09 | 2022-09-17 |
 | [Nylon Lullaby](https://open.spotify.com/track/6l6E9EUXTzNXj71BgxD8WV) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Nylon Lullaby](https://open.spotify.com/album/1M4By8kZZNGw3KTsN0FHJq) | 2:16 | 2021-12-09 | 2025-11-13 |
 | [Ode Au Chagrin](https://open.spotify.com/track/6AQ6EficiiIlDgIutcH60i) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Ode Au Chagrin](https://open.spotify.com/album/7d8e1ke0qGHlRqTLa7PAYN) | 2:11 | 2021-12-09 | 2026-05-23 |
+| [Old Town](https://open.spotify.com/track/1iPEsvmH1xM3Y2zal4duu3) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Old Town](https://open.spotify.com/album/1PTM0UlyPjP8uzRjqIS0OH) | 2:22 | 2026-10-09 |  |
 | [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 | 2022-04-22 | 2024-04-05 |
 | [Omaggio](https://open.spotify.com/track/77uZ7sLDxL0COLYkmNL6f5) | [Mina Pellé](https://open.spotify.com/artist/5ULQkv4ZSPh4HDDvwuDzVp) | [Omaggio](https://open.spotify.com/album/03dAXeqgfRskUKqP4iBiid) | 2:06 | 2023-01-06 | 2025-11-13 |
 | [Once Upon a Time](https://open.spotify.com/track/7J1jJSay3pm0pxQzhS6Ska) | [Claudie Mackula](https://open.spotify.com/artist/0LgBUNYaoW69hco9l7m9mX) | [Once Upon a Time](https://open.spotify.com/album/30SBQYbqd5XPdEjA90yrhA) | 6:14 | 2022-09-23 | 2023-02-25 |

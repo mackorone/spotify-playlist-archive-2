@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2026 (previous playlists archived on my profile)",
-  "num_followers": 24660,
+  "num_followers": 24662,
   "original_name": "sometimes i",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOwtYxCaCOCz753+j2HjGLi50GdDva",
+  "snapshot_id": "AAAOzJAONNflgW+fz1hP9+OcfG7JXt65",
   "tracks": [
     {
       "added_at": "2026-10-04 20:21:14",
@@ -23,22 +23,6 @@
       "duration_ms": 381040,
       "name": "Carry Me Ohio",
       "url": "https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd"
-    },
-    {
-      "added_at": "2026-10-04 20:21:14",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 331133,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3"
     },
     {
       "added_at": "2026-10-04 20:21:14",
@@ -139,6 +123,22 @@
       "duration_ms": 231933,
       "name": "Luka",
       "url": "https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0"
+    },
+    {
+      "added_at": "2026-10-08 16:01:48",
+      "album": {
+        "name": "Sometimes I rush",
+        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 90867,
+      "name": "Sometimes I rush",
+      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
     },
     {
       "added_at": "2026-10-04 20:21:14",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/3ikC5SLbXmuS4QW2t170jl"
     },
     {
-      "added_at": "2026-10-04 21:25:02",
-      "album": {
-        "name": "There\u2019s Always A Dream Come True",
-        "url": "https://open.spotify.com/album/7LxA3OMSFh8gk4p9xj0314"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Artadi",
-          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "There\u2019s Always A Dream Come True",
-      "url": "https://open.spotify.com/track/77Wuz7RW7ObLiHDbul3aKw"
-    },
-    {
       "added_at": "2026-10-05 18:30:30",
       "album": {
         "name": "Medusa",
@@ -379,6 +363,70 @@
       "duration_ms": 242760,
       "name": "Sweetly Said",
       "url": "https://open.spotify.com/track/62HyIpBWRpbBluxo8hXmYh"
+    },
+    {
+      "added_at": "2026-10-08 20:50:11",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/7FUiTpAK8pk1X4uI5pEHFF"
+      },
+      "artists": [
+        {
+          "name": "Clare",
+          "url": "https://open.spotify.com/artist/0Vyte5bDO7qTcoLmeQRf2r"
+        }
+      ],
+      "duration_ms": 282768,
+      "name": "Itchy And Fidgety",
+      "url": "https://open.spotify.com/track/4u7MxhwIoSCG6Y1TZMEWY0"
+    },
+    {
+      "added_at": "2026-10-08 15:45:16",
+      "album": {
+        "name": "This Sad Movie",
+        "url": "https://open.spotify.com/album/6rxVnICK1xsHlgu21HjAcH"
+      },
+      "artists": [
+        {
+          "name": "Con Dolore",
+          "url": "https://open.spotify.com/artist/1RRyxzaiaX7Zr4bi955ZPP"
+        }
+      ],
+      "duration_ms": 268893,
+      "name": "She's Withering",
+      "url": "https://open.spotify.com/track/0JobWkE9vHmEfY1LdFh3B0"
+    },
+    {
+      "added_at": "2026-10-08 20:57:35",
+      "album": {
+        "name": "Dying To Meet You",
+        "url": "https://open.spotify.com/album/4SMV7E4jAxYM9X5vuLknjz"
+      },
+      "artists": [
+        {
+          "name": "Stars Of Stage And Screen",
+          "url": "https://open.spotify.com/artist/5SwLxpdpUw7kFNpYAc4aJA"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Silver Memories",
+      "url": "https://open.spotify.com/track/1ah0xxsAYjrZetGZQI7Z0N"
+    },
+    {
+      "added_at": "2026-10-08 20:57:46",
+      "album": {
+        "name": "Haha Sound",
+        "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 77333,
+      "name": "O How I Miss You",
+      "url": "https://open.spotify.com/track/3IGByygKHzqdaP2m8277IC"
     }
   ],
   "unique_name": "sometimes i",

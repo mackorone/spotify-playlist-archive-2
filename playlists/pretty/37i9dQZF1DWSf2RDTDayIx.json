@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2643297,
+  "num_followers": 2643310,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -1247,6 +1247,30 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
+        "name": "Twice As Nice",
+        "url": "https://open.spotify.com/album/4y0R1nqcF9uKO9zjKCFUAU"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "duration_ms": 172684,
+      "name": "Twice As Nice",
+      "url": "https://open.spotify.com/track/6tXigQ1u91pcakrezKtC8R"
+    },
+    {
+      "added_at": "2026-10-02 04:22:37",
+      "album": {
         "name": "Listen To Me",
         "url": "https://open.spotify.com/album/0lJlw16y8q0tfo9P6uZu5w"
       },
@@ -1295,26 +1319,26 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
-        "name": "Twice As Nice",
-        "url": "https://open.spotify.com/album/4y0R1nqcF9uKO9zjKCFUAU"
+        "name": "ADDICTED: REFRESHED",
+        "url": "https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Sam Harper",
-          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
         }
       ],
-      "duration_ms": 172684,
-      "name": "Twice As Nice",
-      "url": "https://open.spotify.com/track/6tXigQ1u91pcakrezKtC8R"
+      "duration_ms": 189135,
+      "name": "Addicted - Zerb Acid VIP",
+      "url": "https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X"
     },
     {
       "added_at": "2026-10-02 04:22:37",
@@ -1339,26 +1363,22 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
-        "name": "ADDICTED: REFRESHED",
-        "url": "https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio"
+        "name": "Stay the Night",
+        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
         }
       ],
-      "duration_ms": 189135,
-      "name": "Addicted - Zerb Acid VIP",
-      "url": "https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X"
+      "duration_ms": 171954,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
     },
     {
       "added_at": "2026-10-02 04:22:37",
@@ -1387,26 +1407,6 @@
       "duration_ms": 193691,
       "name": "Do For Love",
       "url": "https://open.spotify.com/track/4IvvBFEmQxWgDcvi5Jn6r0"
-    },
-    {
-      "added_at": "2026-10-02 04:22:37",
-      "album": {
-        "name": "Stay the Night",
-        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 171954,
-      "name": "Stay the Night",
-      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
     },
     {
       "added_at": "2026-10-02 04:22:37",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/6WuivseYo5zD3KcEiaQ39T"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 155210,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/1KFhH40ZSpyrUijzmCOXpr"
-    },
-    {
-      "added_at": "2026-10-02 04:22:37",
-      "album": {
         "name": "Forever (with Kid Cudi)",
         "url": "https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 251693,
       "name": "Forever (with Kid Cudi)",
       "url": "https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C"
+    },
+    {
+      "added_at": "2026-10-02 04:22:37",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/6WuivseYo5zD3KcEiaQ39T"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 155210,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/1KFhH40ZSpyrUijzmCOXpr"
     },
     {
       "added_at": "2026-10-02 04:22:37",
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
+        "name": "There is Life",
+        "url": "https://open.spotify.com/album/4eq9fJQqV5FBEFvVcOKMqz"
+      },
+      "artists": [
+        {
+          "name": "Disco Dom",
+          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 182234,
+      "name": "There is Life",
+      "url": "https://open.spotify.com/track/4DYAK0Yn5UohEEBXgknGxG"
+    },
+    {
+      "added_at": "2026-10-02 04:22:37",
+      "album": {
         "name": "Good Feeling (feat. Rhys Lewis)",
         "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 195026,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
-    },
-    {
-      "added_at": "2026-10-02 04:22:37",
-      "album": {
-        "name": "There is Life",
-        "url": "https://open.spotify.com/album/4eq9fJQqV5FBEFvVcOKMqz"
-      },
-      "artists": [
-        {
-          "name": "Disco Dom",
-          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 182234,
-      "name": "There is Life",
-      "url": "https://open.spotify.com/track/4DYAK0Yn5UohEEBXgknGxG"
     },
     {
       "added_at": "2026-10-02 04:22:37",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5"
+    },
+    {
+      "added_at": "2026-10-02 04:22:37",
+      "album": {
         "name": "I LUV U (Sunny)",
         "url": "https://open.spotify.com/album/3TT7K751J6hjcElJckpc9J"
       },
@@ -2195,22 +2211,6 @@
       "duration_ms": 164280,
       "name": "I LUV U (Sunny)",
       "url": "https://open.spotify.com/track/5Zr3A0yB8p60zWiK7kwFxl"
-    },
-    {
-      "added_at": "2026-10-02 04:22:37",
-      "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5"
     },
     {
       "added_at": "2026-10-02 04:22:37",
@@ -2539,26 +2539,6 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Mark Borino",
-          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
-        }
-      ],
-      "duration_ms": 207804,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
-    },
-    {
-      "added_at": "2026-10-02 04:22:37",
-      "album": {
         "name": "Magic With You",
         "url": "https://open.spotify.com/album/0Icms8qDgPxre5SIr3GUDW"
       },
@@ -2579,6 +2559,26 @@
       "duration_ms": 156923,
       "name": "Magic With You",
       "url": "https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv"
+    },
+    {
+      "added_at": "2026-10-02 04:22:37",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Mark Borino",
+          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
     },
     {
       "added_at": "2026-10-02 04:22:37",
@@ -2719,26 +2719,6 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
-        "name": "Good Feeling",
-        "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
-      },
-      "artists": [
-        {
-          "name": "Duvall",
-          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
-        },
-        {
-          "name": "Sam Gray",
-          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM"
-    },
-    {
-      "added_at": "2026-10-02 04:22:37",
-      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU"
       },
@@ -2759,6 +2739,26 @@
       "duration_ms": 137250,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
+    },
+    {
+      "added_at": "2026-10-02 04:22:37",
+      "album": {
+        "name": "Good Feeling",
+        "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
+      },
+      "artists": [
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM"
     },
     {
       "added_at": "2026-10-02 04:22:37",
@@ -2835,6 +2835,26 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
+        "name": "CHOOSE LOVE",
+        "url": "https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "duration_ms": 166932,
+      "name": "CHOOSE LOVE",
+      "url": "https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri"
+    },
+    {
+      "added_at": "2026-10-02 04:22:37",
+      "album": {
         "name": "Please Be Mine",
         "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
       },
@@ -2859,22 +2879,18 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
-        "name": "CHOOSE LOVE",
-        "url": "https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT"
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2yZDkDb0FqsCqnPJeKNDzO"
       },
       "artists": [
         {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+          "name": "XANDRA",
+          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
         }
       ],
-      "duration_ms": 166932,
-      "name": "CHOOSE LOVE",
-      "url": "https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri"
+      "duration_ms": 154804,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/4p7iocuzpoJgTLC1TLd2PZ"
     },
     {
       "added_at": "2026-10-02 04:22:37",
@@ -2891,22 +2907,6 @@
       "duration_ms": 220622,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
-    },
-    {
-      "added_at": "2026-10-02 04:22:37",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/2yZDkDb0FqsCqnPJeKNDzO"
-      },
-      "artists": [
-        {
-          "name": "XANDRA",
-          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
-        }
-      ],
-      "duration_ms": 154804,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/4p7iocuzpoJgTLC1TLd2PZ"
     },
     {
       "added_at": "2026-10-02 04:22:37",
@@ -2931,26 +2931,6 @@
     {
       "added_at": "2026-10-02 04:22:37",
       "album": {
-        "name": "Zou bisou bisou",
-        "url": "https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        },
-        {
-          "name": "Gillian Hills",
-          "url": "https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL"
-        }
-      ],
-      "duration_ms": 147857,
-      "name": "Zou bisou bisou",
-      "url": "https://open.spotify.com/track/4GZZ1mX5ijjdO3MwedvgDM"
-    },
-    {
-      "added_at": "2026-10-02 04:22:37",
-      "album": {
         "name": "THIS IS FOR YOU (feat. Niki & the Dove)",
         "url": "https://open.spotify.com/album/5jzNspcRduwzqTJnWaFb0p"
       },
@@ -2967,6 +2947,26 @@
       "duration_ms": 221683,
       "name": "THIS IS FOR YOU (feat. Niki & the Dove)",
       "url": "https://open.spotify.com/track/2EY0iypCKjix9tBeaGvm03"
+    },
+    {
+      "added_at": "2026-10-02 04:22:37",
+      "album": {
+        "name": "Zou bisou bisou",
+        "url": "https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        },
+        {
+          "name": "Gillian Hills",
+          "url": "https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL"
+        }
+      ],
+      "duration_ms": 147857,
+      "name": "Zou bisou bisou",
+      "url": "https://open.spotify.com/track/4GZZ1mX5ijjdO3MwedvgDM"
     },
     {
       "added_at": "2026-10-02 04:22:37",

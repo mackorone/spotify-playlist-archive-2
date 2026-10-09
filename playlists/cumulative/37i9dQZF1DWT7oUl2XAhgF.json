@@ -1909,6 +1909,28 @@
     },
     {
       "album": {
+        "name": "December Sunshine",
+        "url": "https://open.spotify.com/album/7Fdm9UfKRv0ZYmyWC118P0"
+      },
+      "artists": [
+        {
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
+        },
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157664,
+      "name": "December Sunshine",
+      "url": "https://open.spotify.com/track/52JNz2JSYdRVDQwGb2KKPd"
+    },
+    {
+      "album": {
         "name": "Defence EP",
         "url": "https://open.spotify.com/album/3tTvRrOthZJ5w7gEwXRuo0"
       },
@@ -5580,7 +5602,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 266426,
       "name": "Like a Woman",
       "url": "https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24"
@@ -8164,7 +8186,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 202693,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/0LrsR74qQuD4V7IojAvK0m"
@@ -8400,6 +8422,24 @@
       "duration_ms": 232493,
       "name": "Sage Motel",
       "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
+    },
+    {
+      "album": {
+        "name": "Satisfy The Way I Do",
+        "url": "https://open.spotify.com/album/1PvLiOeno1xXFaYgF1apnz"
+      },
+      "artists": [
+        {
+          "name": "Eddie 9V",
+          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225048,
+      "name": "Satisfy The Way I Do",
+      "url": "https://open.spotify.com/track/4TegVvKvMmGIpFvDGgL1rt"
     },
     {
       "album": {

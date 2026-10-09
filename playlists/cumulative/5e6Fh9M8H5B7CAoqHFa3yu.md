@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,667 songs - 6 day 11 hr 23 min
+2,669 songs - 6 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [A Mais de Cem](https://open.spotify.com/track/2XwFNh4EqmDaYH5OlLdFb9) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 3:15 | 2026-05-27 |  |
 | [A mi lado](https://open.spotify.com/track/0P09k4LJGGtQKuv5LcyQAG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Líricamente Amor](https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z) | 2:29 | 2026-03-15 |  |
 | [A Máquina Está Grávida](https://open.spotify.com/track/3wEKAHSPL51QexoorXsyI5) | [Os Bardos da Pangeia](https://open.spotify.com/artist/3KMlVXkS8GLgNqU0ao8Hst) | [A Máquina Está Grávida](https://open.spotify.com/album/5x8zmFpdwqXxM3kvEEEj2x) | 4:13 | 2025-06-17 |  |
+| [A New City You've Seen Before](https://open.spotify.com/track/1kQvyebKyFcbRiTYyPzEns) | [Ordinary Things](https://open.spotify.com/artist/4p4gcNgYfwfUSUNnyNFYQA) | [A New City You've Seen Before](https://open.spotify.com/album/5BzPjMMR6ATLzwU3GZKM6l) | 1:26 | 2026-10-08 |  |
 | [A New Dawn Is Rising](https://open.spotify.com/track/0WCQyNS7wdBFuiusXW6Ktl) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [A New Dawn Is Rising](https://open.spotify.com/album/0AeBVX509zDizQJftgdW8v) | 3:20 | 2026-02-05 |  |
 | [A Palo Seco](https://open.spotify.com/track/5HEFhWVhZDbxrJ6G03CkLk) | [Marie Saintonge](https://open.spotify.com/artist/4zoazU56tM6R4SgnnlLEcb), [Belchior](https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52), [Rommel](https://open.spotify.com/artist/7umdEQLmAvnJsKZLZmzM10) | [Céu de Caju](https://open.spotify.com/album/0HSYrkXLqisr3lj1Uig00W) | 2:21 | 2026-02-16 |  |
 | [A Rare Moment](https://open.spotify.com/track/2nT3LIsjXcbRAJGqbFX8sT) | [GaetDown](https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm) | [A Rare Moment](https://open.spotify.com/album/1Ru1Z2OIqNnS7Jj0E6y9cG) | 3:24 | 2025-05-13 |  |
@@ -1215,6 +1216,7 @@
 | [Kids On Fast\-Forward](https://open.spotify.com/track/0jMY3G8clCjyx96tkQX1yC) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:41 | 2026-05-22 |  |
 | [Kieli](https://open.spotify.com/track/0sLdmlbCPOBul8dLIdw93P) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:39 | 2026-09-28 |  |
 | [Kiitos Ja Näkemiin](https://open.spotify.com/track/53fQ93YMUdK4uc5TP6CdiX) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Lappeenrannassa](https://open.spotify.com/album/2FLEpk7AtlJcAcPBBrM6Ow) | 2:02 | 2026-09-20 |  |
+| [KIMBIA FREE](https://open.spotify.com/track/4Oq3UwrfcyOYqCj8TFv1H6) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [KIMBIA FREE](https://open.spotify.com/album/79eGJ5OTfKDAFuRllmR3Bg) | 3:13 | 2026-10-08 |  |
 | [Kindest Thing](https://open.spotify.com/track/6zlmNOc2Dw5hqvfoNC2JrS) | [Blue Scarr](https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi), [Ava Breeze](https://open.spotify.com/artist/0SqTm0vETKvufHb2sUmGcQ) | [Kindest Thing](https://open.spotify.com/album/4qAHhJN0GEVaNUeRZPVYq3) | 2:45 | 2025-06-29 |  |
 | [King](https://open.spotify.com/track/3uRwRYQivxq32dAccCisVE) | [The Dubbstyle](https://open.spotify.com/artist/2EhzGQxSHKOjcrOSieAF0g) | [Slow](https://open.spotify.com/album/7kQA4WVRe18dEdsLSD14la) | 4:45 | 2024-03-10 |  |
 | [King Love Dub](https://open.spotify.com/track/3XrUEju5EfvfDgr8aXZqkO) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [King Love Dub Sessions](https://open.spotify.com/album/6eOZY5jTwk9FQxUdWTBRRZ) | 6:23 | 2024-05-04 |  |

@@ -880,7 +880,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 172152,
       "name": "Cove Girl",
       "url": "https://open.spotify.com/track/0B0ztqfk2ZN9DQI7LzRCS0"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 186000,
       "name": "Majestic (Ocean)",
       "url": "https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt"
@@ -2803,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Oceans 16",
+        "url": "https://open.spotify.com/album/5JRGnnaXHthGY4IcYv2yY4"
+      },
+      "artists": [
+        {
+          "name": "Iver Loom",
+          "url": "https://open.spotify.com/artist/6mtqTtni0SJojlnZVl1LJB"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214621,
+      "name": "Oceans 16",
+      "url": "https://open.spotify.com/track/0CODdnGuzzZrgn9yYBuaPL"
+    },
+    {
+      "album": {
         "name": "Oceanwide",
         "url": "https://open.spotify.com/album/7p32rjfMm4aEuIqCsha8nr"
       },
@@ -2962,6 +2980,24 @@
       "duration_ms": 152960,
       "name": "Passage",
       "url": "https://open.spotify.com/track/4uLjLZULqyGddexHpZYiqR"
+    },
+    {
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/11LiscRx3U15NtTLyzF0Cy"
+      },
+      "artists": [
+        {
+          "name": "Applied Rest",
+          "url": "https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158135,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/0Ylits3OBwnQ2zfoi5dFos"
     },
     {
       "album": {
@@ -3192,7 +3228,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 176666,
       "name": "Ruhi",
       "url": "https://open.spotify.com/track/5BoMNoJ0pySqBqvxrbSRst"
@@ -4186,7 +4222,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 168336,
       "name": "Waves of Daelbata",
       "url": "https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH"

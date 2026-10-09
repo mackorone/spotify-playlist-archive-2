@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover:Iken",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Muthoka",
   "name": "NairoBae",
   "tracks": [
     {
@@ -4704,7 +4704,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 158479,
       "name": "Nitangoja",
       "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
@@ -5855,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "Imagine Sisyphus Obedient",
+        "url": "https://open.spotify.com/album/4TSU1uPanNTx6zzc0MQNw8"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "Sisyphus",
+      "url": "https://open.spotify.com/track/5sa2fKOw0V3k6KZVDMJiyz"
+    },
+    {
+      "album": {
         "name": "You Never Learn",
         "url": "https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd"
       },
@@ -6651,6 +6669,32 @@
     },
     {
       "album": {
+        "name": "TODAY",
+        "url": "https://open.spotify.com/album/7bfcwLVnr6DnnUjMQQUhTp"
+      },
+      "artists": [
+        {
+          "name": "Muthoka",
+          "url": "https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp"
+        },
+        {
+          "name": "X.O",
+          "url": "https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ"
+        },
+        {
+          "name": "AUGUST IV",
+          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179823,
+      "name": "TODAY",
+      "url": "https://open.spotify.com/track/7zh9AoJxqvhNBSexAg0GDx"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6orgHTkhJhUseTwtujjvmz"
       },
@@ -7340,7 +7384,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 324534,
       "name": "Wild Fire",
       "url": "https://open.spotify.com/track/2IlLqx0326Pp2R97v4KbeK"

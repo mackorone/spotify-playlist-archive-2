@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 TOBIKA",
+  "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Morat",
   "name": "Radio Pop",
   "tracks": [
     {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 151115,
       "name": "ACELERAO",
       "url": "https://open.spotify.com/track/03YXVIBt8bLGHp8kBHEEgb"
@@ -2985,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "El Encanto",
+        "url": "https://open.spotify.com/album/41w0fFwLnowqPwyFyAYRMO"
+      },
+      "artists": [
+        {
+          "name": "El Fran",
+          "url": "https://open.spotify.com/artist/0zBjxvNij6PhXYUGyEp8lb"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214329,
+      "name": "El Encanto",
+      "url": "https://open.spotify.com/track/5JqY4ugch3e9E4HNFmzlm3"
+    },
+    {
+      "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/0JDn3rNA6Q9E7p1JzoJMYb"
       },
@@ -3572,6 +3590,24 @@
       "duration_ms": 282565,
       "name": "Fuego de Noche, Nieve de D\u00eda",
       "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
+    },
+    {
+      "album": {
+        "name": "Fuerza lejana",
+        "url": "https://open.spotify.com/album/2yh2sEJQxnwcJdSG2yBlep"
+      },
+      "artists": [
+        {
+          "name": "Pasado Verde",
+          "url": "https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Fuerza lejana",
+      "url": "https://open.spotify.com/track/5T16oS4Mikss10Jyp2C6Rk"
     },
     {
       "album": {
@@ -4231,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "LA CANCI\u00d3N QUE ME FALTABA",
+        "url": "https://open.spotify.com/album/3bby3dnRJ9RjAPhrwL8Wsq"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158253,
+      "name": "LA CANCI\u00d3N QUE ME FALTABA",
+      "url": "https://open.spotify.com/track/3GImJThRiXxcMh6fsCAprN"
+    },
+    {
+      "album": {
         "name": "Maquillada en la Cama",
         "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
       },
@@ -4774,7 +4828,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 194160,
       "name": "Llega la Noche",
       "url": "https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3"
@@ -5478,6 +5532,46 @@
       "duration_ms": 173685,
       "name": "Me Lo Buscaba",
       "url": "https://open.spotify.com/track/62SEqaEUnga98QGneOkrTW"
+    },
+    {
+      "album": {
+        "name": "Me Mata",
+        "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186611,
+      "name": "Me Mata",
+      "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
+    },
+    {
+      "album": {
+        "name": "Me Mataste",
+        "url": "https://open.spotify.com/album/5NYoWEXRwuk17Mp7ogpm0l"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Me Mataste",
+      "url": "https://open.spotify.com/track/0SlAyCEb0vzy0GmXvUfBgP"
     },
     {
       "album": {
@@ -6428,7 +6522,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 186045,
       "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
@@ -7364,7 +7458,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 220964,
       "name": "PUERTA DEL SOL",
       "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
@@ -8574,7 +8668,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 183000,
       "name": "Tan f\u00e1cil",
       "url": "https://open.spotify.com/track/2TCBSgAiuGGH3mENcP6VR7"

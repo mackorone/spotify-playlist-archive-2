@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 154941,
       "name": "Bokor Bokor",
       "url": "https://open.spotify.com/track/72OTEO5DShf3WH8hvdPVXb"
@@ -3808,7 +3808,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 124144,
       "name": "Closure",
       "url": "https://open.spotify.com/track/3ur4xNci4Jk5d2nNcMW8nr"
@@ -4094,7 +4094,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 161920,
       "name": "Cry (with Black Sherif)",
       "url": "https://open.spotify.com/track/6Xec7VYM3Y98esBVd6VCPh"
@@ -4435,6 +4435,24 @@
     },
     {
       "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154210,
+      "name": "Deliberate Work",
+      "url": "https://open.spotify.com/track/0eZCDeswlheOHsgJtZE5BX"
+    },
+    {
+      "album": {
         "name": "Dem Deh Try",
         "url": "https://open.spotify.com/album/16hOVq7kncTdjePoCYbB70"
       },
@@ -4614,6 +4632,24 @@
       "duration_ms": 176901,
       "name": "Dey Okay",
       "url": "https://open.spotify.com/track/64NfSTExr2pElUsz2RKg9d"
+    },
+    {
+      "album": {
+        "name": "Diamond or Gold",
+        "url": "https://open.spotify.com/album/4YG7GjtoByeWaxX4RUyuvS"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Diamond or Gold",
+      "url": "https://open.spotify.com/track/2ikFfNsEA1dXdhPEr6ai1W"
     },
     {
       "album": {
@@ -6110,7 +6146,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 176013,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/2z4BvfN4Ce4kwnAFLvq9EV"
@@ -6710,6 +6746,24 @@
       "duration_ms": 148692,
       "name": "Gone Far",
       "url": "https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6"
+    },
+    {
+      "album": {
+        "name": "GOOD MORNING",
+        "url": "https://open.spotify.com/album/7L1dSbkcpOVvpwfZ5wAgjm"
+      },
+      "artists": [
+        {
+          "name": "Bunie The First",
+          "url": "https://open.spotify.com/artist/2Z6wMKaxyAH0MmXhM35BDg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93714,
+      "name": "GOOD MORNING",
+      "url": "https://open.spotify.com/track/2t4G9iY6C2iKxkBWTaQ7J5"
     },
     {
       "album": {
@@ -7573,6 +7627,24 @@
     },
     {
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165587,
+      "name": "how many?",
+      "url": "https://open.spotify.com/track/4JC6rbQK8OSxKnuh1r9ScU"
+    },
+    {
+      "album": {
         "name": "Humble Cry",
         "url": "https://open.spotify.com/album/0HAgykkVb3jNd5UFdzIsKI"
       },
@@ -7764,6 +7836,28 @@
       "duration_ms": 163184,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/7JPweWVt1wDEu7EFwvupCo"
+    },
+    {
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/4SG2JBpyNDmOrmSZe64r81"
+      },
+      "artists": [
+        {
+          "name": "Halver",
+          "url": "https://open.spotify.com/artist/6zA5TJNyKa74t84qlbi7Sf"
+        },
+        {
+          "name": "Duncan Mighty",
+          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/6rHdtmeLEjbNL03Zbs0TYE"
     },
     {
       "album": {
@@ -9148,6 +9242,24 @@
       "duration_ms": 118973,
       "name": "Ko Possible",
       "url": "https://open.spotify.com/track/6LZrYVJpaTUGmnxUiWSqcd"
+    },
+    {
+      "album": {
+        "name": "Koripe",
+        "url": "https://open.spotify.com/album/1uWy1oG2aitLUqgbJNYBym"
+      },
+      "artists": [
+        {
+          "name": "Tiepo",
+          "url": "https://open.spotify.com/artist/39GW3AzyVHp8QcrzoelaY8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125052,
+      "name": "Koripe",
+      "url": "https://open.spotify.com/track/2nYRGJIXZaroxLrni1b3fG"
     },
     {
       "album": {
@@ -11526,6 +11638,24 @@
     {
       "album": {
         "name": "My Way",
+        "url": "https://open.spotify.com/album/1Tf1Mr6JEp2xUdVB61cpBI"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170144,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4faET9puA0PpJEj3MLXFky"
+    },
+    {
+      "album": {
+        "name": "My Way",
         "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
       },
       "artists": [
@@ -12908,7 +13038,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 158750,
       "name": "One Life",
       "url": "https://open.spotify.com/track/09RRj9cKEMp3Os2ED0t3pZ"
@@ -13648,7 +13778,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 163539,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/1O6EKRR8xADKodGM0J6q5C"
@@ -15922,7 +16052,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 140563,
       "name": "Sober",
       "url": "https://open.spotify.com/track/1YCRkA1zhpICMTD8eqE6tH"
@@ -16348,7 +16478,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 120000,
       "name": "Stay Strong",
       "url": "https://open.spotify.com/track/4sszj0p6SMFRdHAzR0aSfk"

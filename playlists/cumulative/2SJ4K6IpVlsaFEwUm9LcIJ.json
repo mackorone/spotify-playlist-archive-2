@@ -8695,6 +8695,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/7FUiTpAK8pk1X4uI5pEHFF"
+      },
+      "artists": [
+        {
+          "name": "Clare",
+          "url": "https://open.spotify.com/artist/0Vyte5bDO7qTcoLmeQRf2r"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282768,
+      "name": "Itchy And Fidgety",
+      "url": "https://open.spotify.com/track/4u7MxhwIoSCG6Y1TZMEWY0"
+    },
+    {
+      "album": {
         "name": "Lily of the Valley",
         "url": "https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq"
       },
@@ -12047,6 +12065,24 @@
     },
     {
       "album": {
+        "name": "Haha Sound",
+        "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77333,
+      "name": "O How I Miss You",
+      "url": "https://open.spotify.com/track/3IGByygKHzqdaP2m8277IC"
+    },
+    {
+      "album": {
         "name": "Songbook",
         "url": "https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7"
       },
@@ -14783,6 +14819,24 @@
     },
     {
       "album": {
+        "name": "This Sad Movie",
+        "url": "https://open.spotify.com/album/6rxVnICK1xsHlgu21HjAcH"
+      },
+      "artists": [
+        {
+          "name": "Con Dolore",
+          "url": "https://open.spotify.com/artist/1RRyxzaiaX7Zr4bi955ZPP"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268893,
+      "name": "She's Withering",
+      "url": "https://open.spotify.com/track/0JobWkE9vHmEfY1LdFh3B0"
+    },
+    {
+      "album": {
         "name": "Shikako Maru Ten",
         "url": "https://open.spotify.com/album/5Y0rxm6JM2RAqm1k5aam2Y"
       },
@@ -15014,6 +15068,24 @@
       "duration_ms": 110009,
       "name": "Silver & Ice",
       "url": "https://open.spotify.com/track/4vD1bLq7iLPbTVPXNvpahV"
+    },
+    {
+      "album": {
+        "name": "Dying To Meet You",
+        "url": "https://open.spotify.com/album/4SMV7E4jAxYM9X5vuLknjz"
+      },
+      "artists": [
+        {
+          "name": "Stars Of Stage And Screen",
+          "url": "https://open.spotify.com/artist/5SwLxpdpUw7kFNpYAc4aJA"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Silver Memories",
+      "url": "https://open.spotify.com/track/1ah0xxsAYjrZetGZQI7Z0N"
     },
     {
       "album": {
@@ -15480,6 +15552,24 @@
       "duration_ms": 235960,
       "name": "Something So Right",
       "url": "https://open.spotify.com/track/7qyUlaAYXEEpTsVPUrdQut"
+    },
+    {
+      "album": {
+        "name": "Sometimes I rush",
+        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90867,
+      "name": "Sometimes I rush",
+      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
     },
     {
       "album": {
@@ -17556,7 +17646,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 202500,
       "name": "There\u2019s Always A Dream Come True",
       "url": "https://open.spotify.com/track/77Wuz7RW7ObLiHDbul3aKw"
@@ -18776,7 +18866,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 331133,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3"

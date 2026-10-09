@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Da wo du bist",
+        "url": "https://open.spotify.com/album/5BXLMtP5k0YBggmXdAaZry"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187710,
+      "name": "Da wo du bist",
+      "url": "https://open.spotify.com/track/3SfNIecskTH5GPWDjJjg9R"
+    },
+    {
+      "album": {
         "name": "DAME DE PIQUE",
         "url": "https://open.spotify.com/album/5EmLiEhLwKmA8HZaYGEoXE"
       },
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 194741,
       "name": "Devil On My Back",
       "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
@@ -3839,6 +3857,24 @@
     },
     {
       "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/7L23eyGbBT0HbruEuaKkTy"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168853,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao"
+    },
+    {
+      "album": {
         "name": "Loup Garou",
         "url": "https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM"
       },
@@ -4258,7 +4294,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 141190,
       "name": "HOMECOMING",
       "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
@@ -5675,6 +5711,28 @@
     },
     {
       "album": {
+        "name": "little birds",
+        "url": "https://open.spotify.com/album/0JnjycdHRdRMif2s6S8Tt5"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        },
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "little birds",
+      "url": "https://open.spotify.com/track/0cDj3T0iQskHL7NEHM4JAK"
+    },
+    {
+      "album": {
         "name": "Lonely Heart",
         "url": "https://open.spotify.com/album/6WkXHcyrGil31J06vRMDF7"
       },
@@ -5740,7 +5798,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 212980,
       "name": "Los Ojos Del C\u00f3ndor",
       "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"

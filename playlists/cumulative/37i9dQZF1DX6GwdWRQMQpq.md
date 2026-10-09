@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Yung Miami
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Cardi B
 
-879 songs - 1 day 14 hr 55 min
+880 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Don't Talk](https://open.spotify.com/track/02vPJzKJS04HU2cIvvRlN1) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Don't Talk](https://open.spotify.com/album/15HVlassGiyNROvxTxYoXx) | 2:15 | 2022-01-14 | 2022-05-07 |
 | [Donk](https://open.spotify.com/track/58lmOL5ql1YIXrpRpoYi3i) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Donk](https://open.spotify.com/album/1WjoJolg357CZHWLse4IG7) | 1:48 | 2023-01-27 | 2023-02-18 |
 | [Donk 2.0](https://open.spotify.com/track/7zOMTU04JcYAV2OYtZi1f2) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Q Smith On The Beat](https://open.spotify.com/artist/6IJnj8jiCS1R9gvgDpUWBz) | [Donk 2.0](https://open.spotify.com/album/6B188jcQi20tOPoi7cncz8) | 2:59 | 2024-10-18 | 2024-10-26 |
+| [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz) | 2:44 | 2026-10-09 |  |
 | [DUH!](https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bad Boys: Ride Or Die Soundtrack](https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l) | 2:11 | 2024-06-07 | 2025-02-15 |
 | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL) | 2:26 | 2023-02-17 | 2023-09-02 |
 | [Dumb Crasy Shemix](https://open.spotify.com/track/2b6f8czdHr1IpIgSTVPnVh) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Dumb Crasy Shemix](https://open.spotify.com/album/5Vgn0A93xVk2gFgy9RPgth) | 2:13 | 2023-02-17 | 2023-03-04 |
@@ -878,7 +879,7 @@
 | [Yea Yea](https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Yea Yea](https://open.spotify.com/album/32kB87vZ7B8xYXjM3i4B3h) | 2:01 | 2024-10-04 | 2024-10-12 |
 | [Yeah B\*tch \(feat\. DaBaby\)](https://open.spotify.com/track/3zT7dmfVjHOMXnUgPl0AQe) | [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Yeah B\*tch \(feat\. DaBaby\)](https://open.spotify.com/album/1eWVV8w19pY6yzdxu01DAS) | 2:12 | 2021-10-29 | 2022-02-05 |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-09 | 2025-06-28 |
-| [YEEN](https://open.spotify.com/track/4NpSOG88pKA6RJoQj4Xa9d) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [YEEN](https://open.spotify.com/album/34VCfRr0tzSO0SfhYAjshM) | 1:49 | 2026-08-28 |  |
+| [YEEN](https://open.spotify.com/track/4NpSOG88pKA6RJoQj4Xa9d) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [YEEN](https://open.spotify.com/album/34VCfRr0tzSO0SfhYAjshM) | 1:49 | 2026-08-28 | 2026-10-09 |
 | [YITTY ON YO TITTYS \(FREESTYLE\)](https://open.spotify.com/track/6mzJqQzYatigPwoJrvKlJM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:28 | 2025-06-27 |  |
 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 | 2023-09-22 | 2024-06-08 |
 | [You The One](https://open.spotify.com/track/0s5XQmXojAvhbX7IxpqDlq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [You The One](https://open.spotify.com/album/2t4e1LAgV9nYBCEO8lKpp6) | 2:45 | 2025-02-21 | 2025-03-08 |

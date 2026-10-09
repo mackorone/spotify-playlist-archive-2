@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: LUMI\u00c8RE",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Thierry Larose",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -768,6 +768,24 @@
       "duration_ms": 290440,
       "name": "Besoin de personne",
       "url": "https://open.spotify.com/track/4dJUQN4NEO3k5LiUtdQb1b"
+    },
+    {
+      "album": {
+        "name": "Black Cloud",
+        "url": "https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269653,
+      "name": "Black Cloud",
+      "url": "https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v"
     },
     {
       "album": {
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 178168,
       "name": "Dis-moi, dis-moi",
       "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
@@ -3326,6 +3344,24 @@
       "duration_ms": 211026,
       "name": "F\u00e9vrier et le mauve",
       "url": "https://open.spotify.com/track/1TVVBch4JforWHFUTYmX6N"
+    },
+    {
+      "album": {
+        "name": "Vingt mille pieds au-dessus de l'abysse",
+        "url": "https://open.spotify.com/album/4yT1CzmphsX6RbF2xoPepJ"
+      },
+      "artists": [
+        {
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222093,
+      "name": "F\u00eate des p\u00e8res",
+      "url": "https://open.spotify.com/track/4l8Oaly5Q1UXdhmvIeWjJz"
     },
     {
       "album": {
@@ -4347,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "Je reste qui je suis",
+        "url": "https://open.spotify.com/album/3uPWGAfKGgJXsIIovcCw7g"
+      },
+      "artists": [
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202708,
+      "name": "Je reste qui je suis",
+      "url": "https://open.spotify.com/track/5PPtbY04ljvgvo9Y6Crvf8"
+    },
+    {
+      "album": {
         "name": "Bellechasse",
         "url": "https://open.spotify.com/album/4xYK2B7inOpLvKePrNpfCN"
       },
@@ -4654,6 +4708,24 @@
       "duration_ms": 192904,
       "name": "KISSBURN",
       "url": "https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU"
+    },
+    {
+      "album": {
+        "name": "Le X du Y",
+        "url": "https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245746,
+      "name": "L'affaire c'est que",
+      "url": "https://open.spotify.com/track/37jXgD4LEQjIHEd6Qyd71M"
     },
     {
       "album": {
@@ -6228,7 +6300,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 203506,
       "name": "Les yeux couleur bois",
       "url": "https://open.spotify.com/track/5NufL7vF2yWOgBZJPngR7l"
@@ -9132,7 +9204,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 128333,
       "name": "R\u00e9ponse",
       "url": "https://open.spotify.com/track/0ST5Q5Iriex4aM9Xhi3HQm"
@@ -11208,7 +11280,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 192655,
       "name": "Volcan",
       "url": "https://open.spotify.com/track/3vjYyj1gX366reLyUQmktz"

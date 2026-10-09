@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Tauren Wells",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Mitch Wong",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 209376,
       "name": "APPETITE",
       "url": "https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO"
@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 201665,
       "name": "Can't Apologize (feat. Jonah Kagen)",
       "url": "https://open.spotify.com/track/5ApOcF9uVHxy7M7LmBz5pv"
@@ -7821,6 +7821,24 @@
     },
     {
       "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/0rZFR2vUXNCv26JKe2FhkG"
+      },
+      "artists": [
+        {
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274851,
+      "name": "God Is Everywhere",
+      "url": "https://open.spotify.com/track/6Oli36yzAWTMdKGRaTjvHe"
+    },
+    {
+      "album": {
         "name": "God Is For Me",
         "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
       },
@@ -10868,7 +10886,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 271086,
       "name": "Holy Spirit (feat. Phylisha Mitchell)",
       "url": "https://open.spotify.com/track/24SrfIM7qWv1nuHemYgZSM"
@@ -11218,7 +11236,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 231400,
       "name": "Hope's Gonna Find You (with Franni Cash)",
       "url": "https://open.spotify.com/track/1a6szj3r3ng4BwzOqgMCVi"
@@ -15571,6 +15589,24 @@
     },
     {
       "album": {
+        "name": "Megan Woods",
+        "url": "https://open.spotify.com/album/2MOwa0x1Psg4xMQPntR4Hw"
+      },
+      "artists": [
+        {
+          "name": "Megan Woods",
+          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192722,
+      "name": "Living Miracle",
+      "url": "https://open.spotify.com/track/0Hys9jXYn0TuGgw9kQpagc"
+    },
+    {
+      "album": {
         "name": "Living Room Floor",
         "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
       },
@@ -16282,6 +16318,28 @@
       "duration_ms": 179407,
       "name": "make heaven crowded",
       "url": "https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF"
+    },
+    {
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/5j6AoIkhOX3kRHx4PkCvmD"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 690365,
+      "name": "Make It Good",
+      "url": "https://open.spotify.com/track/553IXhpPYgf5yVWNQeM7iB"
     },
     {
       "album": {
@@ -19349,6 +19407,28 @@
     },
     {
       "album": {
+        "name": "Past The Gates",
+        "url": "https://open.spotify.com/album/2jtSN4pGVHcG3k8iqFxxkx"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203309,
+      "name": "Past The Gates (feat. Anne Wilson)",
+      "url": "https://open.spotify.com/track/52jfG6nxZgl14jVc3EUegK"
+    },
+    {
+      "album": {
         "name": "Paul & Silas (At Midnight) [Live]",
         "url": "https://open.spotify.com/album/4gnmUbth0pCoIhhWlQuanM"
       },
@@ -21544,7 +21624,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 519543,
       "name": "Saturday - from Nashville",
       "url": "https://open.spotify.com/track/3nq9ysHiZDklADvjjD9Vm9"
@@ -22528,6 +22608,32 @@
       "duration_ms": 455362,
       "name": "Son of Suffering - Live",
       "url": "https://open.spotify.com/track/3mNVXuLY3MHMRc8CMKLGuu"
+    },
+    {
+      "album": {
+        "name": "Happy To Be Here (Deluxe)",
+        "url": "https://open.spotify.com/album/6DNSFcZjyTG1dRvE4vxxe4"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293800,
+      "name": "Song of Thanksgiving",
+      "url": "https://open.spotify.com/track/1dqyWKC9XTP03pqhFd3zXU"
     },
     {
       "album": {
@@ -25386,7 +25492,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 162245,
       "name": "The Love I Have For You",
       "url": "https://open.spotify.com/track/75aoONJnZBvJ7va31RjtSv"
@@ -25568,6 +25674,24 @@
       "duration_ms": 297866,
       "name": "THE NAME ABOVE ALL NAMES",
       "url": "https://open.spotify.com/track/5sv4NwHh8XIwJVCQpCjxKr"
+    },
+    {
+      "album": {
+        "name": "re:said",
+        "url": "https://open.spotify.com/album/5pYtb9UdXTPTj1CQAOIiGG"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458682,
+      "name": "THE NAME ABOVE ALL NAMES / Holy Forever (re:said)",
+      "url": "https://open.spotify.com/track/5Q3I1ThPd0dAcedLNCKHc7"
     },
     {
       "album": {

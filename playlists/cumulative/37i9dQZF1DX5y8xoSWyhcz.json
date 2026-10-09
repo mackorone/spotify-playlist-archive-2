@@ -3304,6 +3304,24 @@
     {
       "album": {
         "name": "blue",
+        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250049,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
+    },
+    {
+      "album": {
+        "name": "blue",
         "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
       },
       "artists": [
@@ -6556,7 +6574,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 249017,
       "name": "Dancing With Her (feat. ELIO)",
       "url": "https://open.spotify.com/track/2yiDuwZ3oXNJUEjWfzv7xb"
@@ -6916,7 +6934,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188459,
       "name": "Delete You.",
       "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
@@ -8192,7 +8210,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 168760,
       "name": "easy tiger",
       "url": "https://open.spotify.com/track/3ulNNb7ox9CcwPPi3AqmAc"
@@ -8676,7 +8694,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 210240,
       "name": "Every Day Counts",
       "url": "https://open.spotify.com/track/2MJ4j2RL8jXZpX2rinMBut"
@@ -11531,6 +11549,24 @@
     },
     {
       "album": {
+        "name": "gutpunch",
+        "url": "https://open.spotify.com/album/5jgKT3ShM8RJrrDQblrFvV"
+      },
+      "artists": [
+        {
+          "name": "Maya Malkin",
+          "url": "https://open.spotify.com/artist/4E7h9iuJDTrjAtpd0cnIRJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215396,
+      "name": "gutpunch",
+      "url": "https://open.spotify.com/track/123etFrFqr7XOtFyPXWbTg"
+    },
+    {
+      "album": {
         "name": "Gutterball",
         "url": "https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93"
       },
@@ -12376,7 +12412,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 246498,
       "name": "Higher",
       "url": "https://open.spotify.com/track/736dtUONBLraRNmUFBixTX"
@@ -13894,7 +13930,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 149364,
       "name": "I Just Got Mad",
       "url": "https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7"
@@ -14960,7 +14996,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 140862,
       "name": "in my head",
       "url": "https://open.spotify.com/track/7jQxz7aKFoyofm0aWI9Kv1"
@@ -15976,7 +16012,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 190163,
       "name": "just us",
       "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
@@ -18156,7 +18192,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 172356,
       "name": "Man of McGill",
       "url": "https://open.spotify.com/track/2VIb64fIV3ln6ldUWoqAtw"
@@ -19352,7 +19388,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 184768,
       "name": "M\u00e2ci N\u00eemihtow",
       "url": "https://open.spotify.com/track/2iSTBOBNxK8O361WPsxRDq"
@@ -23679,6 +23715,24 @@
     },
     {
       "album": {
+        "name": "Safe Bet",
+        "url": "https://open.spotify.com/album/1Cd2uRXtyORXJDai5of0iN"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188086,
+      "name": "Safe Bet",
+      "url": "https://open.spotify.com/track/1M5nsffIhlZC4OtQrNMiwZ"
+    },
+    {
+      "album": {
         "name": "Safe Space",
         "url": "https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY"
       },
@@ -26022,6 +26076,24 @@
       "duration_ms": 206506,
       "name": "Speed Limit",
       "url": "https://open.spotify.com/track/5H9eBKo5OzRd5ZM2gUZi7G"
+    },
+    {
+      "album": {
+        "name": "SCRAPBOOK",
+        "url": "https://open.spotify.com/album/2tDm3XNlPNQqr8i0WKbiPN"
+      },
+      "artists": [
+        {
+          "name": "Kaiya Gamble",
+          "url": "https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Spell It Out",
+      "url": "https://open.spotify.com/track/4ez75nPvT6h62Zohmvkm9M"
     },
     {
       "album": {
@@ -32692,6 +32764,24 @@
       "duration_ms": 189422,
       "name": "your time",
       "url": "https://open.spotify.com/track/75yQOshwRa0DiiCOylVwnV"
+    },
+    {
+      "album": {
+        "name": "\u00c0 demi-crois\u00e9",
+        "url": "https://open.spotify.com/album/72mT2RY5uUEegxhgkbowX5"
+      },
+      "artists": [
+        {
+          "name": "Visrei",
+          "url": "https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "\u00c0 demi-crois\u00e9",
+      "url": "https://open.spotify.com/track/6bTGBEE4tmh2YJtURQul7N"
     },
     {
       "album": {

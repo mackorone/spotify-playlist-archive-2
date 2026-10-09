@@ -3027,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "BENEATH THE NOISE",
+        "url": "https://open.spotify.com/album/7IPpBmoVUuFtfQuKAqbPmQ"
+      },
+      "artists": [
+        {
+          "name": "Deadcrow",
+          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "BENEATH THE NOISE",
+      "url": "https://open.spotify.com/track/59IleznDfLCZszQbRX4rS4"
+    },
+    {
+      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY"
       },
@@ -4498,6 +4516,24 @@
       "duration_ms": 251600,
       "name": "Buckshots",
       "url": "https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8"
+    },
+    {
+      "album": {
+        "name": "Build Me Up",
+        "url": "https://open.spotify.com/album/6ydh1dWnNuXWFOclogs2wt"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Build Me Up",
+      "url": "https://open.spotify.com/track/56YhQOAF0X8Ch4qT3blnZP"
     },
     {
       "album": {
@@ -5996,7 +6032,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 245982,
       "name": "CHOPPER DUB",
       "url": "https://open.spotify.com/track/0RFJRwnUGAKZNgE9L02QAC"
@@ -6742,6 +6778,28 @@
       "duration_ms": 214372,
       "name": "CRASH OUT",
       "url": "https://open.spotify.com/track/37SWlw7MnjwthyjTJZKGoy"
+    },
+    {
+      "album": {
+        "name": "Heartbeats",
+        "url": "https://open.spotify.com/album/14NtoX2L7v9aGf8sghFA8d"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        },
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199448,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3t4No2YWNcNIxJO4mRPOti"
     },
     {
       "album": {
@@ -7798,7 +7856,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 178285,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/4f2a45202MGqyp7ZkC1Qu8"
@@ -9598,6 +9656,24 @@
       "duration_ms": 220036,
       "name": "Ear Candy",
       "url": "https://open.spotify.com/track/7mnbw6GQSg7I8IZgqKeBnu"
+    },
+    {
+      "album": {
+        "name": "EARTHQUAKE",
+        "url": "https://open.spotify.com/album/6Ymu6SAHH5g8SuEW3zhzxt"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164528,
+      "name": "EARTHQUAKE",
+      "url": "https://open.spotify.com/track/0bGprkG9dD29L6fexeP0wH"
     },
     {
       "album": {
@@ -13745,6 +13821,28 @@
     },
     {
       "album": {
+        "name": "Heart & Soul",
+        "url": "https://open.spotify.com/album/1nxwMs1fUObRVCj0Nv65k8"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Heart & Soul",
+      "url": "https://open.spotify.com/track/6B92qqLTgnAZBo46AuDkM8"
+    },
+    {
+      "album": {
         "name": "Heart On Fire",
         "url": "https://open.spotify.com/album/3jLewI3rO5Vu4je8lZzh2P"
       },
@@ -17092,7 +17190,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 197142,
       "name": "LAY ME DOWN",
       "url": "https://open.spotify.com/track/7BXZ2E80UPxW1ihOuvtj6u"
@@ -20348,7 +20446,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 192000,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/0r9xDgTMkBlK5D2Ce190J0"
@@ -21268,7 +21366,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 181718,
       "name": "Onslaught",
       "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
@@ -25348,7 +25446,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196790,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4MgH7JjZQAPgIBf0lrdbie"
@@ -26166,6 +26264,28 @@
       "duration_ms": 174400,
       "name": "Shatter",
       "url": "https://open.spotify.com/track/45V3yB2jw22n8UxHuY2Rjj"
+    },
+    {
+      "album": {
+        "name": "SHE LISTENS TO RIDDIM",
+        "url": "https://open.spotify.com/album/17fcTjXaBQVtMqy3NJwvxl"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        },
+        {
+          "name": "IANROCKS",
+          "url": "https://open.spotify.com/artist/7n0ETsJuv7yEsfPIriKIFy"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168939,
+      "name": "SHE LISTENS TO RIDDIM",
+      "url": "https://open.spotify.com/track/1XvfDsyFAQ6JSs8TXqUgDT"
     },
     {
       "album": {
@@ -27643,6 +27763,28 @@
     },
     {
       "album": {
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/5zHbMNt4aagOwsJv7snDU5"
+      },
+      "artists": [
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        },
+        {
+          "name": "Jessy Covets",
+          "url": "https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4ErKiLpGrMNHSB8xQ6UIXT"
+    },
+    {
+      "album": {
         "name": "Spirit Showdown",
         "url": "https://open.spotify.com/album/0TyETORpxRBLifisOAJkvs"
       },
@@ -28488,7 +28630,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 166285,
       "name": "Supercharge",
       "url": "https://open.spotify.com/track/4oQJgzG5JvOiLAn6CTrNfL"

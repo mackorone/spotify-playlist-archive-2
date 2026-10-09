@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Young Leosia",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Otsochodzi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -680,6 +680,32 @@
       "duration_ms": 255000,
       "name": "36,6",
       "url": "https://open.spotify.com/track/4IHuxjePoPdljkp9kAzCUS"
+    },
+    {
+      "album": {
+        "name": "3K (KRESKA KROPKA KRESKA)",
+        "url": "https://open.spotify.com/album/7FgN5MyOxa4M2VPALL8qZz"
+      },
+      "artists": [
+        {
+          "name": "OG ENZO",
+          "url": "https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "3K (KRESKA KROPKA KRESKA)",
+      "url": "https://open.spotify.com/track/4nJ4Hf9q8YPlGjpAP4CfwH"
     },
     {
       "album": {
@@ -3179,6 +3205,32 @@
     },
     {
       "album": {
+        "name": "BOOSTER",
+        "url": "https://open.spotify.com/album/7iDcwHCA64gPWjepvMBdZM"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165217,
+      "name": "BOOSTER",
+      "url": "https://open.spotify.com/track/4rL2I2sKeTezweOPSf1yc3"
+    },
+    {
+      "album": {
         "name": "Border collie",
         "url": "https://open.spotify.com/album/220ck3rTfplGLlRmyVIGYU"
       },
@@ -5206,6 +5258,28 @@
       "duration_ms": 178646,
       "name": "Cuba Libre",
       "url": "https://open.spotify.com/track/2mbSvFNFSN8wJEzd1Gpix4"
+    },
+    {
+      "album": {
+        "name": "CYRK",
+        "url": "https://open.spotify.com/album/4TJI9SIZlf2LvsxhZfkcqh"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162233,
+      "name": "CYRK",
+      "url": "https://open.spotify.com/track/3vunhj6tMfUHfyydWqUOTm"
     },
     {
       "album": {
@@ -10175,6 +10249,28 @@
     },
     {
       "album": {
+        "name": "Impulsy",
+        "url": "https://open.spotify.com/album/1GE86t77f1WKPqfj5FMCjs"
+      },
+      "artists": [
+        {
+          "name": "Fisz Emade Tworzywo",
+          "url": "https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA"
+        },
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468199,
+      "name": "Impulsy",
+      "url": "https://open.spotify.com/track/3kiiCofZYh6qzZYd1GgxQO"
+    },
+    {
+      "album": {
         "name": "INDACLUB",
         "url": "https://open.spotify.com/album/2jPu0NxHGWRfQDbN9hVKYR"
       },
@@ -10194,7 +10290,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 135572,
       "name": "INDACLUB",
       "url": "https://open.spotify.com/track/6N4grNRcyxmHmJ28STeLEQ"
@@ -17546,7 +17642,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 164000,
       "name": "OBJE\u017bD\u017bAMY BLOK",
       "url": "https://open.spotify.com/track/3l9fvHzyXrjaTSvpO1vILu"
@@ -18936,7 +19032,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170000,
       "name": "PAULO DYBALA",
       "url": "https://open.spotify.com/track/1k1D74FCJ4GFR90Kgv2VSI"
@@ -21186,7 +21282,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 211851,
       "name": "RED BULL 64 BARS",
       "url": "https://open.spotify.com/track/62uPooqlz5eELqyv675VlW"
@@ -23685,6 +23781,32 @@
     },
     {
       "album": {
+        "name": "RIOTT",
+        "url": "https://open.spotify.com/album/7KN9JNFNdqFcKUbFxBzxKM"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "S\u0141OWA BOL\u0104",
+      "url": "https://open.spotify.com/track/7vgdIhRP5Fg8vIt86ymkpW"
+    },
+    {
+      "album": {
         "name": "S\u0141OWIANIN",
         "url": "https://open.spotify.com/album/6g6KvtyWx4eMsYUFC2uJms"
       },
@@ -24354,7 +24476,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 151323,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/5Fv5oPulUz1e0lbs4OtFpm"
@@ -24932,7 +25054,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170160,
       "name": "UFO",
       "url": "https://open.spotify.com/track/1vAd9AaJ5C8ZnpHYMZGKu7"
@@ -26872,6 +26994,32 @@
       "duration_ms": 230666,
       "name": "WZROK NA BUCIKI",
       "url": "https://open.spotify.com/track/5Hi0wWHKJ1vB9Io3Lj8bHX"
+    },
+    {
+      "album": {
+        "name": "W\u0141ODI POZDRAWIA MAM\u0118",
+        "url": "https://open.spotify.com/album/5NdLkL0RDnlFwHQjhURpHB"
+      },
+      "artists": [
+        {
+          "name": "Polskii",
+          "url": "https://open.spotify.com/artist/3K9F67zinkRZv0KQ24v35c"
+        },
+        {
+          "name": "W\u0142odi",
+          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "W\u0141ODI POZDRAWIA MAM\u0118",
+      "url": "https://open.spotify.com/track/0vIKRDws9d9bzRAZ8xtpU9"
     },
     {
       "album": {

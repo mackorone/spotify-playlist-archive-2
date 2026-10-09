@@ -3229,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Seville",
+        "url": "https://open.spotify.com/album/06zRVt9kgXnYQsqMo6Foiv"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Seville",
+      "url": "https://open.spotify.com/track/1pkqemCYXtYloDgcWgInN3"
+    },
+    {
+      "album": {
         "name": "Shades of Gold",
         "url": "https://open.spotify.com/album/4Llm8jrhjIrVzVtkH4R8Q9"
       },
@@ -3982,6 +4000,24 @@
       "duration_ms": 177488,
       "name": "Who",
       "url": "https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK"
+    },
+    {
+      "album": {
+        "name": "Windwhispers",
+        "url": "https://open.spotify.com/album/2QMZTILUZ2LgzIAejVjzx2"
+      },
+      "artists": [
+        {
+          "name": "David Sereno",
+          "url": "https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Windwhispers",
+      "url": "https://open.spotify.com/track/2n9g8qHLjanQ5eSpDu20cp"
     },
     {
       "album": {

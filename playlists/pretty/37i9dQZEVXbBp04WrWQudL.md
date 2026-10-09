@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbBp04WrWQudL.md) - [plain]
 
 > Your daily update of the most played music videos right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,687 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,742 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbBp04WrWQudL.md) - [plain]
 | 49 | [Training Season](https://open.spotify.com/track/708fgISg1S1a6GT2Q3gxIH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/1MSyEdSdvuzYb9k78wtjdi) | 3:48 |
 | 50 | [Janice STFU](https://open.spotify.com/track/0OSxldm1PQetNTPpYDRLIe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Janice STFU](https://open.spotify.com/album/43GTxshtQJGAOlimdumtJv) | 3:56 |
 
-Snapshot ID: `MlnPaAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mlsg6AAAAAAAAAAAAAAAAAAAAAAAAGVu`

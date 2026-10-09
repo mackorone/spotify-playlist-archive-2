@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 780958,
+  "num_followers": 781044,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 214080,
       "name": "I Would Do Anything for You",
       "url": "https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 258713,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 190845,
-      "name": "My Kind of Woman",
-      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 168040,
       "name": "To Be Alone With You",
       "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "SO MUCH HAS CHANGED",
-        "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
+        "name": "God Bless Sweden",
+        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
       },
       "artists": [
         {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
         }
       ],
-      "duration_ms": 183431,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3"
+      "duration_ms": 247773,
+      "name": "Yup",
+      "url": "https://open.spotify.com/track/5IK86W7G71t6VMuY65smBG"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -927,34 +927,18 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "God Bless Sweden",
-        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
+        "name": "SO MUCH HAS CHANGED",
+        "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
       },
       "artists": [
         {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 247773,
-      "name": "Yup",
-      "url": "https://open.spotify.com/track/5IK86W7G71t6VMuY65smBG"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
-        "name": "Colour It In",
-        "url": "https://open.spotify.com/album/2DOUNqHqIBKPmDIioJx53s"
-      },
-      "artists": [
-        {
-          "name": "The Maccabees",
-          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
-        }
-      ],
-      "duration_ms": 159320,
-      "name": "Toothpaste Kisses",
-      "url": "https://open.spotify.com/track/4BAWCedKFfdwxPFmFv4DMG"
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -971,6 +955,22 @@
       "duration_ms": 244600,
       "name": "To the End - 2012 Remaster",
       "url": "https://open.spotify.com/track/7u8yddev0YnNFGkZoP8X2t"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Colour It In",
+        "url": "https://open.spotify.com/album/2DOUNqHqIBKPmDIioJx53s"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "duration_ms": 159320,
+      "name": "Toothpaste Kisses",
+      "url": "https://open.spotify.com/track/4BAWCedKFfdwxPFmFv4DMG"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/4xwoKbj6nNiytuTZqyBGJm"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "From Eden",
+      "url": "https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
         "name": "puffette",
         "url": "https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 259800,
       "name": "A Shot in the Arm",
       "url": "https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/4xwoKbj6nNiytuTZqyBGJm"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "From Eden",
-      "url": "https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7"
     },
     {
       "added_at": "2026-02-19 14:58:26",

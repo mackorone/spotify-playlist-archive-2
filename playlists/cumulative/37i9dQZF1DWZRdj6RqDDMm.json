@@ -830,7 +830,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 176299,
       "name": "Away",
       "url": "https://open.spotify.com/track/69H77ocZO6UYHvNxUWP83K"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 190945,
       "name": "Calling Me",
       "url": "https://open.spotify.com/track/5Y9cG6hrxIMkTGni30CIhg"
@@ -3646,6 +3646,28 @@
       "duration_ms": 453748,
       "name": "Exalted",
       "url": "https://open.spotify.com/track/1XKy8PGWNVjiZsmAPnHROj"
+    },
+    {
+      "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/6HhFuMZHSp5zNf9vvIDHPa"
+      },
+      "artists": [
+        {
+          "name": "RUVA",
+          "url": "https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3"
+        },
+        {
+          "name": "D3NZL",
+          "url": "https://open.spotify.com/artist/2bipRR8Pu3mAzrZ1n3o4HW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/4vFQcA68Uni3vDxaA1iPaa"
     },
     {
       "album": {
@@ -9288,7 +9310,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 208163,
       "name": "NOT ALONE",
       "url": "https://open.spotify.com/track/4Vv5jaARDLXOwW4i5PwGwY"
@@ -11985,6 +12007,28 @@
     },
     {
       "album": {
+        "name": "Soji",
+        "url": "https://open.spotify.com/album/109omRdXaeluK9amGMKsES"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Denzel Rocks",
+          "url": "https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Soji",
+      "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
+    },
+    {
+      "album": {
         "name": "Solace in You",
         "url": "https://open.spotify.com/album/06pr5GD2OmF8mxG3YVBfkW"
       },
@@ -13104,6 +13148,28 @@
       "duration_ms": 300000,
       "name": "There For Me",
       "url": "https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw"
+    },
+    {
+      "album": {
+        "name": "Thinking Aloud",
+        "url": "https://open.spotify.com/album/6sVrKfL2A2mf1Xkuan4BKN"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Ruthie Namaganda",
+          "url": "https://open.spotify.com/artist/2SPhsCFGKEMyOHfk5FWBc4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178021,
+      "name": "Thinking Aloud",
+      "url": "https://open.spotify.com/track/2Bp2RovsHyyznomCtVRGKr"
     },
     {
       "album": {

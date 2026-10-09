@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,483 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,529 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 40 | [Aapena Aagena](https://open.spotify.com/track/11BM8S7cB3oa1X9rWt9qgs) | [Prashanth R Vihari](https://open.spotify.com/artist/1advv7h9JDw0JqezZiVAN1), [Madhura Dhara Talluri](https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq) | [SKYLAB](https://open.spotify.com/album/5N21SLtHRT17d0F7PhWEPO) | 4:27 |
 | 41 | [Orori Sanchari](https://open.spotify.com/track/6WiG6Ufy3q0Cj8101MMSLf) | [Sachin Balu](https://open.spotify.com/artist/079wIH2YkZpPmlvg4C9Pjr) | [Ante Sundaraniki](https://open.spotify.com/album/0uoXlF20x75anQ9kMbo7tu) | 5:24 |
 | 42 | [Seetaaloo Nuvveleka](https://open.spotify.com/track/2gHh47zmMSM6FfapMfi2ZD) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP) | [Donga Donga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5KMG2UKnAQbbkVXtu7KYRM) | 4:27 |
-| 43 | [Anuvanuvuu](https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb) | [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Om Bheem Bush](https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr) | 3:31 |
-| 44 | [Evare](https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam](https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe) | 5:09 |
-| 45 | [Laali Laali](https://open.spotify.com/track/2tPzWMEmCJSgf38S896ASk) | [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Sri Harsha Emani](https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit) | [Don’T Trouble The Trouble \(Telugu\)](https://open.spotify.com/album/7jaN6dXYgPcTMtv0cpUKej) | 3:57 |
+| 43 | [Laali Laali](https://open.spotify.com/track/2tPzWMEmCJSgf38S896ASk) | [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Sri Harsha Emani](https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit) | [Don’T Trouble The Trouble \(Telugu\)](https://open.spotify.com/album/7jaN6dXYgPcTMtv0cpUKej) | 3:57 |
+| 44 | [Anuvanuvuu](https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb) | [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Om Bheem Bush](https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr) | 3:31 |
+| 45 | [Evare](https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam](https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe) | 5:09 |
 | 46 | [Sada Nannu](https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 3:17 |
 | 47 | [Nee Neeli Kannullona](https://open.spotify.com/track/2yu7RgQlNTwvyUPk7lsD9j) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Rehman](https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7) | [Dear Comrade](https://open.spotify.com/album/5WkhNq7kpZIdZC5BZysNFy) | 2:26 |
 | 48 | [Emaindhi Eevela](https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aadavari Matalaku Ardhalu Veruley](https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u) | 5:19 |

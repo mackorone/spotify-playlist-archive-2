@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Primo Amore in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "JANAKI in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 179571,
       "name": "10,100,1000 voci",
       "url": "https://open.spotify.com/track/49EFYtyo5TDvmaVfL8QyPO"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 195250,
       "name": "Alright (luna calante)",
       "url": "https://open.spotify.com/track/5UbRXSPcQw102AfpTulZI3"
@@ -8317,6 +8317,28 @@
     },
     {
       "album": {
+        "name": "HANDS",
+        "url": "https://open.spotify.com/album/2xmeMrbHW7XA3UqGLTzr9I"
+      },
+      "artists": [
+        {
+          "name": "Nico Kyni",
+          "url": "https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9"
+        },
+        {
+          "name": "Nablito",
+          "url": "https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "HANDS",
+      "url": "https://open.spotify.com/track/6BH0oaNT0zK6xkyd13SUtd"
+    },
+    {
+      "album": {
         "name": "Hangover",
         "url": "https://open.spotify.com/album/1SMfOswIVtLfDi3fEB3A9Q"
       },
@@ -8988,7 +9010,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196224,
       "name": "INGANNO (io non esisterei)",
       "url": "https://open.spotify.com/track/03DApyRyCA2X4L5AeJQvVS"
@@ -10508,7 +10530,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 157199,
       "name": "lindo",
       "url": "https://open.spotify.com/track/5ayDn31hFUGxEJ9F0dSHqA"
@@ -11682,6 +11704,24 @@
       "duration_ms": 203434,
       "name": "Meglio Che Mai (feat. Mim\u00ec)",
       "url": "https://open.spotify.com/track/0Fxzlk1KU7a2XEGiGzyYJo"
+    },
+    {
+      "album": {
+        "name": "Mela",
+        "url": "https://open.spotify.com/album/3ExSOClbwvrodWGoFXQXUH"
+      },
+      "artists": [
+        {
+          "name": "Livrea",
+          "url": "https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Mela",
+      "url": "https://open.spotify.com/track/0yhZZsO3lbGniqWt8z0TbX"
     },
     {
       "album": {
@@ -18659,6 +18699,24 @@
     },
     {
       "album": {
+        "name": "SOULDATO",
+        "url": "https://open.spotify.com/album/0XUVtp5hu6ABlNQttLQeaw"
+      },
+      "artists": [
+        {
+          "name": "Ombra",
+          "url": "https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161521,
+      "name": "SOULDATO",
+      "url": "https://open.spotify.com/track/5ELyQ5yZr4s5XYk31B2L28"
+    },
+    {
+      "album": {
         "name": "Sparami (feat. Inoki)",
         "url": "https://open.spotify.com/album/0BAQ3TAYXH3ehu2wSDv4OJ"
       },
@@ -18801,6 +18859,24 @@
     },
     {
       "album": {
+        "name": "Splendide Cornici",
+        "url": "https://open.spotify.com/album/6QJsbHod7ime9IivSb3xLi"
+      },
+      "artists": [
+        {
+          "name": "Youngover",
+          "url": "https://open.spotify.com/artist/7bz65Zfr9bx5d1LoHKdnkd"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172144,
+      "name": "Splendide Cornici",
+      "url": "https://open.spotify.com/track/4sZdbpZNb2EroNXyRMIcIi"
+    },
+    {
+      "album": {
         "name": "SPUNTA BLU",
         "url": "https://open.spotify.com/album/6xq8k8yP1tzAAzD13dIXEu"
       },
@@ -18886,6 +18962,24 @@
       "duration_ms": 185633,
       "name": "Stand by",
       "url": "https://open.spotify.com/track/4RiCyzImlul2OVb7nWWNQ3"
+    },
+    {
+      "album": {
+        "name": "stare fermi mette ansia",
+        "url": "https://open.spotify.com/album/6baT0j0fhdYjCDftM6YqOe"
+      },
+      "artists": [
+        {
+          "name": "solamente",
+          "url": "https://open.spotify.com/artist/6ONrPaRh4v2QlSdZBfU0d1"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "stare fermi mette ansia",
+      "url": "https://open.spotify.com/track/2F4RMFMEVkEkoBkjY2o4bD"
     },
     {
       "album": {
@@ -19236,7 +19330,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 150652,
       "name": "sulament\u2019 cu tte",
       "url": "https://open.spotify.com/track/6spuyWkYknIpNSIG6n8fdm"
@@ -19480,7 +19574,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 205714,
       "name": "Talismani",
       "url": "https://open.spotify.com/track/4qSJBKo01fjQ3BntH819d0"
@@ -19778,6 +19872,24 @@
       "duration_ms": 127002,
       "name": "Ti va di ballare?",
       "url": "https://open.spotify.com/track/1QAq6K5aXk832X6LVwZeqq"
+    },
+    {
+      "album": {
+        "name": "Tierra Viva",
+        "url": "https://open.spotify.com/album/4LLmwpBHDK6CR6tI8cZtv1"
+      },
+      "artists": [
+        {
+          "name": "JANAKI",
+          "url": "https://open.spotify.com/artist/5x9yExrQoWWxIruKCWIMip"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175116,
+      "name": "Tierra Viva",
+      "url": "https://open.spotify.com/track/5QsmwdOgZEjjRlHi6bzsIK"
     },
     {
       "album": {
@@ -20414,6 +20526,24 @@
     {
       "album": {
         "name": "Tutto Ok",
+        "url": "https://open.spotify.com/album/0hvN7ln2G2fzxRBZTnxpVt"
+      },
+      "artists": [
+        {
+          "name": "Ludovica Caniglia",
+          "url": "https://open.spotify.com/artist/6TT6vgXfMLov8l1gUqgRhe"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "Tutto Ok",
+      "url": "https://open.spotify.com/track/1ir3mequi8vzDUQaJgK3T2"
+    },
+    {
+      "album": {
+        "name": "Tutto Ok",
         "url": "https://open.spotify.com/album/6oKvDx8fawkHIZSfA7aJXB"
       },
       "artists": [
@@ -20714,7 +20844,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 174000,
       "name": "Una come me",
       "url": "https://open.spotify.com/track/4GmlCBdKFryWqo4YvlvxzP"

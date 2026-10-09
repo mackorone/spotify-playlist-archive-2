@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431 likes - 168 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 432 likes - 168 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 79 | [All In A Day's Work](https://open.spotify.com/track/53RG6rDqEvGDsZ0Ijr3ur1) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Compton](https://open.spotify.com/album/6ZnMFVV5HDv2xmHG7bn7et) | 5:13 |
 | 80 | [Haunt](https://open.spotify.com/track/7ePAQxW4DlDWQGg4ulJvE3) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [The Altar](https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR) | 3:42 |
 | 81 | [Loners Blvd](https://open.spotify.com/track/0wBXjRwdaDMHCkAT28rxYn) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 5:24 |
-| 82 | [Smile](https://open.spotify.com/track/5SNPmbE3OcIVUlzQj9M32N) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Prima Donna](https://open.spotify.com/album/2haR5qnQopCdVASZ92YTGn) | 4:20 |
-| 83 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 |
+| 82 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 |
+| 83 | [Smile](https://open.spotify.com/track/5SNPmbE3OcIVUlzQj9M32N) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Prima Donna](https://open.spotify.com/album/2haR5qnQopCdVASZ92YTGn) | 4:20 |
 | 84 | [Pilot](https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:13 |
 | 85 | [The Middle Finger](https://open.spotify.com/track/4JKUjx4Ehx2b9NRylEUD0w) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:00 |
 | 86 | [The Helium Balloon](https://open.spotify.com/track/1qKduDCOSKvJPQ1PENrtF1) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Magazeen](https://open.spotify.com/artist/21D8ywf89eWxGJGx7IfMBW) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:47 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 105 | [Adam](https://open.spotify.com/track/7MfoQjQGyjrv0xKwUBQFWU) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Passenger Princess / Adam](https://open.spotify.com/album/6eszObM49D1h61rbPxS7po) | 3:03 |
 | 106 | [Avenue](https://open.spotify.com/track/5PxvhqimHphmfFc0W3Lxp3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 3:03 |
 | 107 | [SORRY RACH!](https://open.spotify.com/track/581wx4eVMwnfHWqoGd90jn) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [SORRY RACH!](https://open.spotify.com/album/24HXbfPIjw7Yi8bpif4H79) | 3:54 |
-| 108 | [Third Eye](https://open.spotify.com/track/3AquOGHV1aT3yIcKfHzrZS) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Cadillactica \(Deluxe\)](https://open.spotify.com/album/6S1ItzAtGWyBLGiFkeMRc2) | 3:59 |
-| 109 | [Sexual Love \(feat\. James Fauntleroy\)](https://open.spotify.com/track/1EtUvPu9sKXHrp2baF8L44) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:25 |
+| 108 | [Sexual Love \(feat\. James Fauntleroy\)](https://open.spotify.com/track/1EtUvPu9sKXHrp2baF8L44) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:25 |
+| 109 | [Third Eye](https://open.spotify.com/track/3AquOGHV1aT3yIcKfHzrZS) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Cadillactica \(Deluxe\)](https://open.spotify.com/album/6S1ItzAtGWyBLGiFkeMRc2) | 3:59 |
 | 110 | [1 of 1](https://open.spotify.com/track/4G67MRybTVTYariSY5WBXB) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:45 |
 | 111 | [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 |
 | 112 | [Peace](https://open.spotify.com/track/1DOagLRXZ5KtZ1GLuTceSq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:27 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 121 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
 | 122 | [War Against Love](https://open.spotify.com/track/2hF4sKG55HlGpUIsoNFfLG) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Lost Tapes 2](https://open.spotify.com/album/4tRNl7PwUzXrxTP3YZjWgS) | 3:47 |
 | 123 | [Wanted?](https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 3:51 |
-| 124 | [CHURCH ON THE MOVE](https://open.spotify.com/track/1D5fBK4jRwqjKfOsgSJZM3) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:46 |
-| 125 | [Bobby](https://open.spotify.com/track/1XtcVaelEjLMK7bELfa7kQ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
+| 124 | [Bobby](https://open.spotify.com/track/1XtcVaelEjLMK7bELfa7kQ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
+| 125 | [CHURCH ON THE MOVE](https://open.spotify.com/track/1D5fBK4jRwqjKfOsgSJZM3) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:46 |
 | 126 | [Come to You](https://open.spotify.com/track/6JPeF7rovGOTHeNOAPAMcX) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Come to You](https://open.spotify.com/album/5u1hiwQB6Bh6lpSXN9OdDE) | 3:50 |
 | 127 | [Alhambra](https://open.spotify.com/track/0jaRJutUvukEF2zJnxrL3y) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [By Dom Kennedy](https://open.spotify.com/album/0tuOColD9mAZ4SGt4qtvEx) | 3:52 |
 | 128 | [Who Do You Love?](https://open.spotify.com/track/7AqW47iTYCrc3BsdhLzXJ4) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus \(Special Edition\)](https://open.spotify.com/album/6v159f6X9SorsMss4NfcWX) | 3:26 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 167 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 168 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AceV9gAAAAB3h9AipZJunL+FGdBRkUsQ`
+Snapshot ID: `AcebbgAAAAA+9bYffMyPd2idIDJZIybR`

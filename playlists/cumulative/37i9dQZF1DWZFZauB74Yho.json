@@ -6391,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "Marlboros in Muskogee",
+        "url": "https://open.spotify.com/album/7vwtAQjpYTcXjVOnIzgsEr"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252946,
+      "name": "Marlboros in Muskogee",
+      "url": "https://open.spotify.com/track/0eTksXOB5mkwnrJhXh74HV"
+    },
+    {
+      "album": {
         "name": "Marry Jane",
         "url": "https://open.spotify.com/album/7G0BjpkTSipUxuYUL3vwSJ"
       },
@@ -7566,7 +7584,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170093,
       "name": "Possum Up a 'Simmon Tree",
       "url": "https://open.spotify.com/track/6XUi6K31Od7prx0w5WZXYU"
@@ -8698,7 +8716,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 230346,
       "name": "Shoestring",
       "url": "https://open.spotify.com/track/46gDCtMImNt173gbqB4rOo"
@@ -8956,6 +8974,24 @@
       "duration_ms": 157500,
       "name": "Song For A Lonely Road",
       "url": "https://open.spotify.com/track/17z9dL5Wu45f9lgMDbgF7l"
+    },
+    {
+      "album": {
+        "name": "South of the Sun",
+        "url": "https://open.spotify.com/album/4n1gYsqY5cwpg3hUoWIXuV"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "South of the Sun",
+      "url": "https://open.spotify.com/track/3wGxcyZSGP7UJmZk0v3Jpz"
     },
     {
       "album": {
@@ -9600,6 +9636,24 @@
       "duration_ms": 302000,
       "name": "The Devil Went Down to Deep Gap",
       "url": "https://open.spotify.com/track/0pUBXgIdM27fY0qFx7eq5o"
+    },
+    {
+      "album": {
+        "name": "The Devil's Not That Far",
+        "url": "https://open.spotify.com/album/23m8cMFM8NUY50YykedTCG"
+      },
+      "artists": [
+        {
+          "name": "The Creekers",
+          "url": "https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265826,
+      "name": "The Devil's Not That Far",
+      "url": "https://open.spotify.com/track/4LEd39S5oUSGcJXSfujo4p"
     },
     {
       "album": {
@@ -10616,7 +10670,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 158600,
       "name": "Walkin' Back to Georgia",
       "url": "https://open.spotify.com/track/1kvlYf3p0Ri0j5Klq9bq9H"

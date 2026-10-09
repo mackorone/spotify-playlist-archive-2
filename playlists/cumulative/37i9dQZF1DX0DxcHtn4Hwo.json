@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Almost Bedtime",
+        "url": "https://open.spotify.com/album/4cTJnYQk3wDxnszwCtbMXp"
+      },
+      "artists": [
+        {
+          "name": "Dani Mezzo",
+          "url": "https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114374,
+      "name": "Almost Bedtime",
+      "url": "https://open.spotify.com/track/35CeCvL2y6IAH4bjZlSGhs"
+    },
+    {
+      "album": {
         "name": "Alone Under The Stars",
         "url": "https://open.spotify.com/album/6JDZREAq7cPKOr3AWfc2cW"
       },
@@ -1208,6 +1226,24 @@
       "duration_ms": 84051,
       "name": "Are You Sleeping",
       "url": "https://open.spotify.com/track/2HNkXighYriN6oyzn0jpPM"
+    },
+    {
+      "album": {
+        "name": "As Silence Falls",
+        "url": "https://open.spotify.com/album/6dwFIDeXbG2rGFGzwi3Pfi"
+      },
+      "artists": [
+        {
+          "name": "Lullabelle Starlight",
+          "url": "https://open.spotify.com/artist/4pd1OyZIgSsrlAHRD096fx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127533,
+      "name": "As Silence Falls",
+      "url": "https://open.spotify.com/track/3ZRrMpBZ6M96w9IEGuhevc"
     },
     {
       "album": {
@@ -11832,7 +11868,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 107142,
       "name": "Milo And The Moon",
       "url": "https://open.spotify.com/track/1oKxLFm0RXBz7E6lrlFUWx"
@@ -13387,6 +13423,24 @@
     },
     {
       "album": {
+        "name": "Night Night, Flopsy",
+        "url": "https://open.spotify.com/album/470rBQxkyhPCoKEJ3HB4SS"
+      },
+      "artists": [
+        {
+          "name": "Arthur B. Moon",
+          "url": "https://open.spotify.com/artist/75Sx0tI6W5Pn3BNQ9ApqFE"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91824,
+      "name": "Night Night, Flopsy",
+      "url": "https://open.spotify.com/track/4HgGNHN1w5j7UY9dDWlDyY"
+    },
+    {
+      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/7e7q7EN2MBZ3efkL9rcbYA"
       },
@@ -14716,7 +14770,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 180727,
       "name": "Petals Waltz",
       "url": "https://open.spotify.com/track/0KF0itg9iL2UV41TpYaq28"
@@ -17013,6 +17067,24 @@
     },
     {
       "album": {
+        "name": "Sleepwell, Little One",
+        "url": "https://open.spotify.com/album/6ZKN0OmjjiJ6qnKznbd2G2"
+      },
+      "artists": [
+        {
+          "name": "Sarah F\u00e9vrier",
+          "url": "https://open.spotify.com/artist/4PSCbqUfRT6yIWGfp7vXdI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103064,
+      "name": "Sleepwell, Little One",
+      "url": "https://open.spotify.com/track/6GaoorJUuj39JrdhoeplIF"
+    },
+    {
+      "album": {
         "name": "Sleepy Babies",
         "url": "https://open.spotify.com/album/60nx2d2RPQwGxoXHOlyjQA"
       },
@@ -17694,6 +17766,24 @@
       "duration_ms": 144150,
       "name": "Slumra Min V\u00e4n",
       "url": "https://open.spotify.com/track/58VOhFHz9UMqDPryNsX6SS"
+    },
+    {
+      "album": {
+        "name": "Small Feet on Grass",
+        "url": "https://open.spotify.com/album/4x7XBm7pq689Vx5iwcENpy"
+      },
+      "artists": [
+        {
+          "name": "Eternelles",
+          "url": "https://open.spotify.com/artist/0VsrG15EAEp0YkTHs6vL1a"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99874,
+      "name": "Small Feet on Grass",
+      "url": "https://open.spotify.com/track/2Vvp04tKjrLPFYZeCOmHsy"
     },
     {
       "album": {
@@ -18680,7 +18770,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 113763,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/4NyzalkdVRsQeXGQbxuH3A"
@@ -19868,7 +19958,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 80540,
       "name": "The Dance Of The Fairies",
       "url": "https://open.spotify.com/track/4RgRVicrnDR8CGyOzu00HJ"
@@ -19944,6 +20034,24 @@
       "duration_ms": 79670,
       "name": "The Ever So Elegant Elephant",
       "url": "https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm"
+    },
+    {
+      "album": {
+        "name": "The Faraway Place",
+        "url": "https://open.spotify.com/album/6K37YKRogtHOChiTuLwwk6"
+      },
+      "artists": [
+        {
+          "name": "Axel Moons",
+          "url": "https://open.spotify.com/artist/05nkPMgDVGi24IeMJUeW7t"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116875,
+      "name": "The Faraway Place",
+      "url": "https://open.spotify.com/track/3kFHezJeOdDh0B2hdRstqU"
     },
     {
       "album": {
@@ -20793,6 +20901,24 @@
     },
     {
       "album": {
+        "name": "The Sleepy Window",
+        "url": "https://open.spotify.com/album/2TH1Veaj79Qipjc1NObWqZ"
+      },
+      "artists": [
+        {
+          "name": "Chuan Mistwood",
+          "url": "https://open.spotify.com/artist/5k7BIUTw9E9E7Jwtt7sqTu"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88762,
+      "name": "The Sleepy Window",
+      "url": "https://open.spotify.com/track/0vzkgcgQC81X7eE5IFNWUJ"
+    },
+    {
+      "album": {
         "name": "The Soft Echo of Baby Stars",
         "url": "https://open.spotify.com/album/5oXHmWZr8ZT49ap2H98W5O"
       },
@@ -21600,6 +21726,24 @@
       "duration_ms": 100572,
       "name": "Tiny Cat",
       "url": "https://open.spotify.com/track/23tFOMengpSD6UgUKmiHjQ"
+    },
+    {
+      "album": {
+        "name": "Tiny Dreamer",
+        "url": "https://open.spotify.com/album/0dXXkP4Gk0oNkFLN40lzMf"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9lina Faye",
+          "url": "https://open.spotify.com/artist/3FAKOAD1YLKdp0gjwHppyR"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Tiny Dreamer",
+      "url": "https://open.spotify.com/track/6yFAzLnmNe9pm0U0p1x4Yj"
     },
     {
       "album": {
@@ -23274,6 +23418,24 @@
       "duration_ms": 111724,
       "name": "Where Stars Sleep",
       "url": "https://open.spotify.com/track/045MeYclNA7x00L2h5QkIf"
+    },
+    {
+      "album": {
+        "name": "Where The Night Begins",
+        "url": "https://open.spotify.com/album/2ZfQIrUht419iH9O1UVAZq"
+      },
+      "artists": [
+        {
+          "name": "Isaac Tira",
+          "url": "https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95743,
+      "name": "Where The Night Begins",
+      "url": "https://open.spotify.com/track/6idMv9I4D4dXK1c4nrK2SI"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Emma Nolde dopo la doppietta di concerti sold out a Milano, qui in cover di Indie Italia 🙂‍↕️
+> come volevi essere di Lamante sta succedendo di nuovo e siamo molto felici
 
-625 songs - 1 day 9 hr 25 min
+628 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Morta d'amore](https://open.spotify.com/track/6XEK2VLdMdiZ6d71chw1ui) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Morta d'amore](https://open.spotify.com/album/7sNKBSusBvdPTMHgzozPaw) | 2:46 | 2025-03-06 | 2025-03-28 |
 | [MORTO A GALLA](https://open.spotify.com/track/41sWG4POwal9yrbBeQpsJV) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [MORTO A GALLA](https://open.spotify.com/album/66gkYAaRzj6sdZcw9mazmf) | 3:03 | 2025-03-27 | 2025-07-11 |
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-08-15 | 2024-08-23 |
+| [Musica In Un'Altra Lingua](https://open.spotify.com/track/4YFMk20f5HTJ4XwaGQBRJL) | [Perturbazione](https://open.spotify.com/artist/6oHCbM8jtvJRe0BjKQ90mD), [Lloyd Cole](https://open.spotify.com/artist/5CXWXFfhDhFN5uzbfUwAKt) | [Risuona](https://open.spotify.com/album/1x7Ky3tcZfL6FRXgJRbhTV) | 4:55 | 2026-10-08 |  |
 | [my baby!](https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [my baby!](https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD) | 2:57 | 2024-11-14 | 2025-02-28 |
 | [MYROMANTICA](https://open.spotify.com/track/2mUaQR6ggH0W4C8OVHNkmy) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [MYROMANTICA](https://open.spotify.com/album/4ZmIavc2q57jOHPjlsjy3f) | 3:17 | 2025-01-16 | 2025-03-21 |
 | [nella parte del mondo in cui sono nato](https://open.spotify.com/track/5PSiID6AtUuUhV1seTjOJA) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:53 | 2025-04-10 | 2025-04-23 |
@@ -405,6 +406,7 @@
 | [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2025-05-19 | 2025-06-27 |
 | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/track/1NZsIGqB8N4BgRtBcRP1WT) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/album/52Nws4hSiY3CoOvkKdBARm) | 2:55 | 2024-06-27 | 2024-07-12 |
 | [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 | 2025-06-26 | 2025-07-18 |
+| [Oltre il bosco](https://open.spotify.com/track/5mQVuoeT3MBoV10mWWIsH6) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Oltre il bosco](https://open.spotify.com/album/0PUNfRIUq6iCvdWdXebGXk) | 3:53 | 2026-10-08 |  |
 | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 | 2025-07-16 | 2025-09-26 |
 | [Oopah](https://open.spotify.com/track/0yd2o1Fd32LonuRUrChnKr) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Kalimera](https://open.spotify.com/album/1AtSqGiMAB2C2MaZHtfSuF) | 2:14 | 2025-12-11 | 2026-01-16 |
 | [Opopomoz](https://open.spotify.com/track/2NF8JfHTxLNZYZphZWNUGZ) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Opopomoz](https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd) | 2:35 | 2025-11-20 | 2025-12-19 |
@@ -460,6 +462,7 @@
 | [PRIMAVERA](https://open.spotify.com/track/7Ahvbxc9jxwec9ZwUa3XUW) | [Fares](https://open.spotify.com/artist/0bmKJDoc5Nu9by7Us2WRGo) | [PRIMAVERA](https://open.spotify.com/album/5fVD8qrIAGZY39dfVjfoBK) | 3:05 | 2026-04-23 | 2026-05-22 |
 | [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Opopomoz](https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd) | 3:05 | 2025-11-13 | 2025-11-21 |
 | [Problemi di cuore, problemi di culo](https://open.spotify.com/track/5JwSMoUHbLk5jMojwXJRD1) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Affogare in acque amiche](https://open.spotify.com/album/5F2kSi2GtRppSODIp96ODX) | 3:12 | 2026-05-14 | 2026-09-04 |
+| [PROIETTILE](https://open.spotify.com/track/04ZJkAMQuZQ8MQZ94RFrqq) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [PROIETTILE](https://open.spotify.com/album/6NsSqAOO7t0aC0tGed53uM) | 2:27 | 2026-10-08 |  |
 | [Pugili impazziti](https://open.spotify.com/track/3t97iVAQuGsP0TrtxJOn5C) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [Pugili impazziti](https://open.spotify.com/album/0QPqwp1DpjD5a14pa5Anpd) | 3:37 | 2025-10-23 | 2025-12-12 |
 | [punto](https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [punto](https://open.spotify.com/album/2G73CooRfo1Ly5YFpCuhrI) | 2:16 | 2025-11-24 |  |
 | [Punto di domanda \(feat\. Nayt, Mecna\)](https://open.spotify.com/track/3lb2UVZySXqt9YyS5PpSUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:27 | 2024-12-19 |  |

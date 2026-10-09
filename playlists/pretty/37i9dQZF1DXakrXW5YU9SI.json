@@ -1,6 +1,6 @@
 {
   "description": "Gotowi na pumpkin spice latte? \ud83c\udf42\ud83c\udf83\u2615",
-  "num_followers": 343522,
+  "num_followers": 343543,
   "original_name": "Jesienny chill",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAOCUayt7VCDJd+JAebChxvdivf+w",
   "tracks": [
-    {
-      "added_at": "2026-10-02 15:14:32",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
     {
       "added_at": "2026-10-02 15:14:32",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "added_at": "2026-10-02 15:14:32",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2026-10-02 15:14:32",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-10-02 15:14:32",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 192668,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8"
-    },
-    {
-      "added_at": "2026-10-02 15:14:32",
-      "album": {
         "name": "Cicho sza",
         "url": "https://open.spotify.com/album/2uWRrAawCBsIpBfy1FIQnl"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 235000,
       "name": "Cicho sza",
       "url": "https://open.spotify.com/track/0LXhzHwoRGwhMde38QGncI"
+    },
+    {
+      "added_at": "2026-10-02 15:14:32",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 192668,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8"
     },
     {
       "added_at": "2026-10-02 15:14:32",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-10-02 15:14:32",
       "album": {
+        "name": "You Said Jump... And I Flew",
+        "url": "https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 156209,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
+    },
+    {
+      "added_at": "2026-10-02 15:14:32",
+      "album": {
         "name": "Tyle \u015alad\u00f3w",
         "url": "https://open.spotify.com/album/182mPuz9e1vF8yPhzYbWBD"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 369812,
       "name": "Tyle \u015alad\u00f3w",
       "url": "https://open.spotify.com/track/1Tkg3k3NiG7N8fFS7HnsvS"
-    },
-    {
-      "added_at": "2026-10-02 15:14:32",
-      "album": {
-        "name": "You Said Jump... And I Flew",
-        "url": "https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 156209,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
     },
     {
       "added_at": "2026-10-02 15:14:32",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-10-02 15:14:32",
       "album": {
+        "name": "propane",
+        "url": "https://open.spotify.com/album/28rwpXxvo7YIbkLVdXsno9"
+      },
+      "artists": [
+        {
+          "name": "kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 224225,
+      "name": "propane",
+      "url": "https://open.spotify.com/track/2gZJ6cT0bf8yydGP7blho2"
+    },
+    {
+      "added_at": "2026-10-02 15:14:32",
+      "album": {
         "name": "Ja-Amosia",
         "url": "https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2026-10-02 15:14:32",
       "album": {
-        "name": "propane",
-        "url": "https://open.spotify.com/album/28rwpXxvo7YIbkLVdXsno9"
+        "name": "Kamienie",
+        "url": "https://open.spotify.com/album/7nNcz54gtf3haO9340N90P"
       },
       "artists": [
         {
-          "name": "kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
         }
       ],
-      "duration_ms": 224225,
-      "name": "propane",
-      "url": "https://open.spotify.com/track/2gZJ6cT0bf8yydGP7blho2"
+      "duration_ms": 163076,
+      "name": "Kamienie",
+      "url": "https://open.spotify.com/track/0ZISqipHsYJOH6JCNkHFxE"
     },
     {
       "added_at": "2026-10-02 15:14:32",
@@ -995,22 +1011,6 @@
       "duration_ms": 194630,
       "name": "Moment",
       "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
-    },
-    {
-      "added_at": "2026-10-02 15:14:32",
-      "album": {
-        "name": "Kamienie",
-        "url": "https://open.spotify.com/album/7nNcz54gtf3haO9340N90P"
-      },
-      "artists": [
-        {
-          "name": "Vixen",
-          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
-        }
-      ],
-      "duration_ms": 163076,
-      "name": "Kamienie",
-      "url": "https://open.spotify.com/track/0ZISqipHsYJOH6JCNkHFxE"
     },
     {
       "added_at": "2026-10-02 15:14:32",

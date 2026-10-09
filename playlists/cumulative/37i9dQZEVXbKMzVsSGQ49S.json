@@ -12436,7 +12436,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -16689,6 +16689,24 @@
     },
     {
       "album": {
+        "name": "TV\u00cdBRRRI",
+        "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
+      },
+      "artists": [
+        {
+          "name": "Saint Pete",
+          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125738,
+      "name": "Ekkert Breyst",
+      "url": "https://open.spotify.com/track/1Dqzrw0iDsdoKInsUc3KWr"
+    },
+    {
+      "album": {
         "name": "Ekkert Breyst",
         "url": "https://open.spotify.com/album/3Cpyn9KzmidNBmjwNJLiKu"
       },
@@ -16700,7 +16718,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 129250,
       "name": "Ekkert Breyst",
       "url": "https://open.spotify.com/track/1mQW5cs5e794MYX52o4icD"
@@ -17756,6 +17774,10 @@
         {
           "name": "Saint Pete",
           "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        },
+        {
+          "name": "Steindi Jr.",
+          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
         }
       ],
       "date_added": "2026-10-07",
@@ -22122,7 +22144,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "F\u00e6ddur til \u00feess a\u00f0 vera \u00feinn",
       "url": "https://open.spotify.com/track/4uUuzqYK8VMSHm8Ugf0BQx"
@@ -35706,7 +35728,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 209558,
       "name": "Lj\u00f3sin Kvikna",
       "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
@@ -39314,6 +39336,10 @@
         {
           "name": "Saint Pete",
           "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        },
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
         }
       ],
       "date_added": "2026-10-07",
@@ -41076,6 +41102,10 @@
         {
           "name": "Saint Pete",
           "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        },
+        {
+          "name": "Daron Karl",
+          "url": "https://open.spotify.com/artist/7EUPGJc5LBY2gnusglGZNr"
         }
       ],
       "date_added": "2026-10-07",
@@ -50056,7 +50086,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -63466,6 +63496,10 @@
         {
           "name": "Saint Pete",
           "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        },
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
         }
       ],
       "date_added": "2026-10-07",

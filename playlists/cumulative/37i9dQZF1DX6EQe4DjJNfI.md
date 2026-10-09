@@ -2,9 +2,9 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: LUDMILLA
 
-370 songs - 19 hr 3 min
+371 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Ciúme](https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ciúme](https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy) | 3:20 | 2025-09-19 |  |
 | [Codinome](https://open.spotify.com/track/1g4M2OibGjdEsOcu37k14q) | [Juccas](https://open.spotify.com/artist/5LmURMRHOHzltNHdQgOLVH) | [Codinome](https://open.spotify.com/album/5kDTbDeCHdcB44tHAEmaIR) | 3:01 | 2022-12-01 | 2022-12-24 |
 | [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-05 | 2025-10-10 |
+| [Coisa De Pele \- Ao Vivo](https://open.spotify.com/track/3jiiKkspnb3OVLKPxocjwE) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos – A Experiência \(Ao Vivo\)](https://open.spotify.com/album/3vYeDMqdfmPRURnvr2dEM7) | 3:33 | 2026-10-09 |  |
 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 | 2023-07-28 |  |
 | [Colchão no Chão](https://open.spotify.com/track/4CggXaIT68pFfn84NYNs3Z) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Colchão no Chão](https://open.spotify.com/album/4IeW0GhVCXNDU6tP0NUs6h) | 2:04 | 2024-07-19 | 2024-08-17 |
 | [COMO ELA FAZ](https://open.spotify.com/track/3iB07baQMJKsQDyZTck8g9) | [Aura Soul](https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT), [Dee Double Dee](https://open.spotify.com/artist/3qeTcXLyWKs2wFY1zNGFhC), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [SKY](https://open.spotify.com/album/2gD3cGl1czBkNgJsxZTBRl) | 4:05 | 2026-06-22 |  |
@@ -282,7 +283,7 @@
 | [Resposta \- Spotify Singles](https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Resposta \- Spotify Singles](https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ) | 3:11 | 2026-09-10 |  |
 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 | 2022-11-18 | 2026-01-31 |
 | [Retrovisor](https://open.spotify.com/track/4HYZYfXAeETot63750cbxe) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 3:10 | 2025-05-30 | 2025-08-23 |
-| [risco](https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Bebé](https://open.spotify.com/artist/49PaseNfT1nE3x2Ms7jZww) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 3:33 | 2024-09-27 |  |
+| [risco](https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Bebé](https://open.spotify.com/artist/49PaseNfT1nE3x2Ms7jZww) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 3:33 | 2024-09-27 | 2026-10-09 |
 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 | 2026-04-24 |  |
 | [Roupa de Ontem](https://open.spotify.com/track/1JLgTEDJJTUawSFGwAKLyI) | [Krupinsk](https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S) | [Roupa de Ontem](https://open.spotify.com/album/6MnjJgPNn494q1ODleBV0s) | 4:38 | 2024-02-02 | 2024-04-19 |
 | [Roupa de Ontem](https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl) | [Krupinsk](https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S) | [Roupa de Ontem](https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa) | 4:38 | 2022-11-18 | 2025-09-20 |

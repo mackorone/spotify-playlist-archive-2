@@ -1,12 +1,12 @@
 {
   "description": "Bright, sunny, catchy tunes put a smile on your face. Cover - Tu Jhoothi Main Makkaar",
-  "num_followers": 558547,
+  "num_followers": 558712,
   "original_name": "Happy Vibes ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHXUoKAABeHUoUc6/MS/A7Cm+Tnu",
+  "snapshot_id": "AAAAAPNUxtiB06hHBbDCu5RiB3TUKYyG",
   "tracks": [
     {
       "added_at": "2026-09-30 06:48:01",
@@ -252,16 +252,16 @@
           "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
         },
         {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        },
-        {
           "name": "Kaka",
           "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
         },
         {
           "name": "Twinkle Aggrwal",
           "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "duration_ms": 213904,

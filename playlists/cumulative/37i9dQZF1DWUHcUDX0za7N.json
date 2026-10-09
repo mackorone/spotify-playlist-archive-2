@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Txmmyily",
+  "description": "Hip hop and rap music from Nigeria. Cover: Wave$tar",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -3939,6 +3939,28 @@
     },
     {
       "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
+    },
+    {
+      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V"
       },
@@ -4212,6 +4234,28 @@
       "duration_ms": 163968,
       "name": "Dem No Really Send Us",
       "url": "https://open.spotify.com/track/3Kk709eDcov8y78T2niFDP"
+    },
+    {
+      "album": {
+        "name": "DEM NVR SEE ++",
+        "url": "https://open.spotify.com/album/6yyjsSoDwe8f3lYkHPQ47A"
+      },
+      "artists": [
+        {
+          "name": "pa1n",
+          "url": "https://open.spotify.com/artist/6ywMMlco7Ew9bieZHPBGke"
+        },
+        {
+          "name": "Monochrome",
+          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "DEM NVR SEE ++",
+      "url": "https://open.spotify.com/track/0eSuuR8RTkFtNOz1w5lNrV"
     },
     {
       "album": {
@@ -5396,7 +5440,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 187118,
       "name": "Excellent",
       "url": "https://open.spotify.com/track/7iB4d1Hv4etq3g12IK8RHQ"
@@ -6046,7 +6090,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 156473,
       "name": "Free Service",
       "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
@@ -10236,7 +10280,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 121061,
       "name": "Mortal Kombat",
       "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
@@ -13684,6 +13728,24 @@
       "duration_ms": 159000,
       "name": "Requirements",
       "url": "https://open.spotify.com/track/0Fxxn7X2NRSqfRJbJi8AM2"
+    },
+    {
+      "album": {
+        "name": "Swagstar",
+        "url": "https://open.spotify.com/album/02m9kBTURJaGfvmr1Z0rEV"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151004,
+      "name": "RIC FLAIR DRIP",
+      "url": "https://open.spotify.com/track/0fCGLUYkP2mVb873CkCfCl"
     },
     {
       "album": {

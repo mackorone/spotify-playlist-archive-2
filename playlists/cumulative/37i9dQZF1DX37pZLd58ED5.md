@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Marracash
 
-389 songs - 19 hr 50 min
+390 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [VISCERALE \- closer](https://open.spotify.com/track/7bgJm5Z7EpvXRMdysiUjCj) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:04 | 2023-05-18 | 2023-07-14 |
 | [Vita Divertida \(feat\. Sayf\)](https://open.spotify.com/track/5dzh4l8tuALclkDatoZS98) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Una Vita Non Basta](https://open.spotify.com/album/1WQ5jKFJ2vnvURzDKTA7yI) | 2:35 | 2025-07-03 | 2025-09-05 |
 | [Vita nuova \(feat\. Gheba\)](https://open.spotify.com/track/3N2s9VIfSU6ApdIeTZVZD5) | [Fandino](https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju), [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Vita nuova \(feat\. Gheba\)](https://open.spotify.com/album/00GskigtC8i6zKlgjBuW4Q) | 2:36 | 2026-03-19 | 2026-05-09 |
+| [VIVERE PER FARE SOLDI/FARE SOLDI PER VIVERE](https://open.spotify.com/track/58r00qvNp5vyAvhVQTkkr1) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [VIVERE PER FARE SOLDI/FARE SOLDI PER VIVERE](https://open.spotify.com/album/65CAoKJUmf91AQnJdrk6V8) | 1:52 | 2026-10-08 |  |
 | [Voglio Di Più](https://open.spotify.com/track/45wYm3Gs6W57fg2gCHCtxB) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Voglio Di Più](https://open.spotify.com/album/5Vcj8dtHyVQDJgJYIkrUDV) | 2:46 | 2026-05-21 | 2026-07-31 |
 | [Volare](https://open.spotify.com/track/2QKgQOxXoIGq711vdah54G) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:31 | 2026-05-21 |  |
 | [VOLEVO CAPIRE CON MARRACASH](https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 2:37 | 2026-04-16 |  |

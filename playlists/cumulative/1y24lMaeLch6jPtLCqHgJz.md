@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-499 songs - 1 day 0 hr 59 min
+503 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,10 @@
 | [Time Runs Out](https://open.spotify.com/track/39Qo5MIBJ9gQxZKonuWZb4) | [Awakcn](https://open.spotify.com/artist/7xGILp5dgNuBMl5qhBRD9o), [Andreayer](https://open.spotify.com/artist/5DORsnLpToIHGRzav8bRu4), [Max Landry](https://open.spotify.com/artist/0wJDbxpqtwjA2FxfU6KI0E) | [Time Runs Out](https://open.spotify.com/album/49AKVNvN03mm47OkOt9cO9) | 2:59 | 2023-11-16 | 2025-08-30 |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 4:05 | 2023-06-16 | 2026-08-07 |
 | [Tomorrow](https://open.spotify.com/track/4S8rnl2Uinvl59QpcRY9oj) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [MrWhite](https://open.spotify.com/artist/4HD8ewNDLIhBO5f0N15J2h), [Gangi](https://open.spotify.com/artist/5Z0vJqhdSkVLPD5BbmMf08), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Tomorrow](https://open.spotify.com/album/1tWxL1uLXtjjdlZSdcIii7) | 3:00 | 2022-07-29 | 2023-07-15 |
+| [Track 1](https://open.spotify.com/track/2jAdYVV70CjTGlh4bfi0wa) | [2ACES](https://open.spotify.com/artist/5dHy2mDWei8fmwzE3fsrC3) | [Revealed Recordings presents ADE Sampler 2026](https://open.spotify.com/album/60i9wfDvoaHHKJrdBWYn6d) | 0:00 | 2026-10-08 |  |
+| [Track 2](https://open.spotify.com/track/2Gb4eYsKImdX7ZefXwm0z8) | [ZYNØX](https://open.spotify.com/artist/3Nc1RtEZe9VXTAjR8yZVdY) | [Revealed Recordings presents ADE Sampler 2026](https://open.spotify.com/album/60i9wfDvoaHHKJrdBWYn6d) | 0:00 | 2026-10-08 |  |
+| [Track 3](https://open.spotify.com/track/51m355hpB68KKBDKGHRZeX) | [Steeper](https://open.spotify.com/artist/2uTLykyg4Wk5zBw3Xttmsh) | [Revealed Recordings presents ADE Sampler 2026](https://open.spotify.com/album/60i9wfDvoaHHKJrdBWYn6d) | 0:00 | 2026-10-08 |  |
+| [Track 4](https://open.spotify.com/track/4N594SbJdkSr9kYu8v4KGA) | [Detmex](https://open.spotify.com/artist/4wBopwyJ1F228LOOFb6qT8) | [Revealed Recordings presents ADE Sampler 2026](https://open.spotify.com/album/60i9wfDvoaHHKJrdBWYn6d) | 0:00 | 2026-10-08 |  |
 | [Turn It Around Baby](https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Turn It Around Baby](https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3) | 3:38 | 2023-08-21 | 2023-11-11 |
 | [Turn Up The Bass](https://open.spotify.com/track/2QL5BIL8ngij9hgLjppSYW) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Turn Up The Bass](https://open.spotify.com/album/7CJm3F9qU26oPl30iRx81L) | 2:27 | 2026-08-06 |  |
 | [Ultra Love](https://open.spotify.com/track/6TgbVQLnt84Cj47xaIfNTi) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Ultra Love](https://open.spotify.com/album/3YbYur6Wonv1WNpZwWfSol) | 3:23 | 2026-03-18 |  |

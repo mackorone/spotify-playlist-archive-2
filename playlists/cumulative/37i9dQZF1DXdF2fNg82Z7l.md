@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...
 
-337 songs - 18 hr 1 min
+338 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Blue Eyes](https://open.spotify.com/track/0p2GhuTjC2j75hvOvqEaai) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Blue Eyes](https://open.spotify.com/album/1PxIYmT2QbHzkLe9FJMo1Y) | 2:55 | 2024-03-14 | 2024-07-30 |
 | [Bodys Chorus](https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Bodys Chorus](https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4) | 3:58 | 2024-11-29 | 2024-12-20 |
 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 | 2025-04-29 |  |
-| [Brasil](https://open.spotify.com/track/2rOyYldVLfwKghlS3SgNEW) | [MOKOMOKAI](https://open.spotify.com/artist/6IyLCow3HLUYJJJ12P9WQd), [Troy Kingi](https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom) | [The Marine Blue Social Club](https://open.spotify.com/album/4EYKcEYXVR3TRJeYS0fn8u) | 4:35 | 2026-08-27 |  |
+| [Brasil](https://open.spotify.com/track/2rOyYldVLfwKghlS3SgNEW) | [MOKOMOKAI](https://open.spotify.com/artist/6IyLCow3HLUYJJJ12P9WQd), [Troy Kingi](https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom) | [The Marine Blue Social Club](https://open.spotify.com/album/4EYKcEYXVR3TRJeYS0fn8u) | 4:35 | 2026-08-27 | 2026-10-09 |
 | [Break Your Heart](https://open.spotify.com/track/5PLBQQ06LMzIJeDuJBjB7m) | [Jaxn Faw](https://open.spotify.com/artist/54QsNeUrZElybJ6hqMzm3s), [Baby Got Beatz](https://open.spotify.com/artist/26ER6mV6xcTACiCGYA3Qyd) | [Break Your Heart](https://open.spotify.com/album/1ABNFFcQYSJrVDkR1cq1UR) | 2:46 | 2024-03-14 | 2024-10-05 |
 | [Brighter Dayze](https://open.spotify.com/track/0OMZHLMCfilND87yMf1b3x) | [J.B.T](https://open.spotify.com/artist/5gKnvVFJ2mabvIcKNFiT8e) | [LOUDPACK VOL\. II](https://open.spotify.com/album/1MNYTDqNJ8qoUYZ9aDKIQZ) | 2:21 | 2024-03-14 | 2024-10-05 |
 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 | 2025-07-24 |  |
@@ -319,6 +319,7 @@
 | [UNDERSTAND](https://open.spotify.com/track/7zV4vL7JOq13a2W3XXgYQ1) | [Micah Acosta](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [UNDERSTAND](https://open.spotify.com/album/07KkjXFVX51xTYznizXxaj) | 2:40 | 2024-03-14 | 2024-10-05 |
 | [Unplanned](https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Unplanned](https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc) | 2:50 | 2024-11-29 | 2025-02-14 |
 | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 | 2024-10-04 | 2026-08-21 |
+| [waiting for me](https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire \(Deluxe\)](https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO) | 3:14 | 2026-10-08 |  |
 | [Want U](https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Want U / Safe To Say](https://open.spotify.com/album/7oPUGuvIS4164TJFayPYuJ) | 2:16 | 2024-12-19 | 2025-01-27 |
 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 | 2024-10-04 | 2026-04-24 |
 | [Way Back in HS in NY in June](https://open.spotify.com/track/4raEEc2KgXla14KdUlYhUY) | [Prod DR3o](https://open.spotify.com/artist/3yEVDDU45XzlumJuupm1Ul), [nikomanjiro](https://open.spotify.com/artist/40IrCW03DHKkwbAX7tTrfV) | [Way Back in HS in NY in June](https://open.spotify.com/album/00yYlDLwC4OKWuwotpoCw4) | 3:02 | 2024-03-14 | 2024-10-05 |

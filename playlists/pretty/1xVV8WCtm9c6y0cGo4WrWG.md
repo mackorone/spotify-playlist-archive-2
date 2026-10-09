@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop updated weekly! Cover: Quavo
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,808 likes - 77 songs - 3 hr 47 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,808 likes - 78 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BA \(feat\. Future\)](https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [QRÖMELIFE](https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT) | 2:29 |
-| 2 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
+| 2 | [Quebec](https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 2:10 |
 | 3 | [Die 2 Young \(ft\. 100Bandplan\)](https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Draft Day](https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP) | 2:50 |
 | 4 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
 | 5 | [MISS MY DAWG \(feat\. Drake\)](https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [COCOON](https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL) | 3:08 |
-| 6 | [Quebec](https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 2:10 |
-| 7 | [2008](https://open.spotify.com/track/211K8IAEPeVhuPxA1CWHCF) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [2008](https://open.spotify.com/album/053G7DllNKe9rlc01DaKiQ) | 2:31 |
-| 8 | [Something I Need](https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Something I Need](https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ) | 2:25 |
+| 6 | [2008](https://open.spotify.com/track/211K8IAEPeVhuPxA1CWHCF) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [2008](https://open.spotify.com/album/053G7DllNKe9rlc01DaKiQ) | 2:31 |
+| 7 | [Something I Need](https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Something I Need](https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ) | 2:25 |
+| 8 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
 | 9 | [Backwards \(feat\. T.I.\)](https://open.spotify.com/track/0p7ubMwKZaSE6RhIo8QN9J) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Backwards \(feat\. T.I.\)](https://open.spotify.com/album/6g9K8LPPVZQKroz3sUTwtg) | 3:11 |
 | 10 | [ON NOTHING](https://open.spotify.com/track/0EfkB8iQhNxfXCjrKVdms5) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [ON NOTHING](https://open.spotify.com/album/2ZtR9H0A07rWrkXTV0rNg2) | 2:03 |
 | 11 | [WOAH](https://open.spotify.com/track/5CDG6PmpbnHK77nx4m6YA2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WOAH](https://open.spotify.com/album/37mVwL11hMZ1mn7mzOm6fM) | 2:25 |
@@ -85,5 +85,6 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 75 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
 | 76 | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/124asPU2FC370O180KQPQi) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/0myqS8XRIGw3RYHfmuwF7Y) | 3:23 |
 | 77 | [vamp city \(with OsamaSon\)](https://open.spotify.com/track/4UyE3xTsvuyovBIODvhDV0) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 1:50 |
+| 78 | [Cold Shoulder \(feat\. Don Toliver & Yebba\)](https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 3:54 |
 
-Snapshot ID: `AAAlSxhwdqTGjqSnZ6rF5pL+iN8eiwh3`
+Snapshot ID: `AAAlTr/YYoMFxh5f//sQ1sOe2Kn0aabI`

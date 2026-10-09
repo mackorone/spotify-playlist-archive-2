@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143379,
+  "num_followers": 143389,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Aloha from Hawaii Via Satellite (Live)",
-        "url": "https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB"
+        "name": "Bet On That - At the Troubadour - September 2026",
+        "url": "https://open.spotify.com/album/6mvK3cRuW4EvAVcGpxn3cn"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
         }
       ],
-      "duration_ms": 241881,
-      "name": "My Way - Live at the Honolulu International Center",
-      "url": "https://open.spotify.com/track/2VGkf2IJXOSWouDhatlH3i"
+      "duration_ms": 221624,
+      "name": "Bet On That - At the Troubadour - September 2026",
+      "url": "https://open.spotify.com/track/5bSQ3YYIM2IjFXPCnXTu2l"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Bet On That - At the Troubadour - September 2026",
-        "url": "https://open.spotify.com/album/6mvK3cRuW4EvAVcGpxn3cn"
+        "name": "Aloha from Hawaii Via Satellite (Live)",
+        "url": "https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB"
       },
       "artists": [
         {
-          "name": "Blake Whiten",
-          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 221624,
-      "name": "Bet On That - At the Troubadour - September 2026",
-      "url": "https://open.spotify.com/track/5bSQ3YYIM2IjFXPCnXTu2l"
+      "duration_ms": 241881,
+      "name": "My Way - Live at the Honolulu International Center",
+      "url": "https://open.spotify.com/track/2VGkf2IJXOSWouDhatlH3i"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -515,18 +515,26 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "An Evening With John Denver",
-        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
+        "name": "Love On The Inside (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
+        {
+          "name": "Sugarland",
+          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
+        },
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 220626,
-      "name": "Thank God I'm a Country Boy - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
-      "url": "https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI"
+      "duration_ms": 254346,
+      "name": "Life In A Northern Town - Live",
+      "url": "https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -615,26 +623,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Love On The Inside (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl"
+        "name": "An Evening With John Denver",
+        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        },
-        {
-          "name": "Sugarland",
-          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
-        },
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 254346,
-      "name": "Life In A Northern Town - Live",
-      "url": "https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk"
+      "duration_ms": 220626,
+      "name": "Thank God I'm a Country Boy - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
+      "url": "https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -847,22 +847,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Thomas Rhett Live From Fenway Park",
-        "url": "https://open.spotify.com/album/350LbZri3dtBkAMAFqvXlS"
+        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 317168,
-      "name": "Somethin' 'Bout A Woman - Live From Fenway Park",
-      "url": "https://open.spotify.com/track/6pCBIdt549KZRupgHVLG02"
+      "duration_ms": 237488,
+      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -919,18 +915,22 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
-        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
+        "name": "Thomas Rhett Live From Fenway Park",
+        "url": "https://open.spotify.com/album/350LbZri3dtBkAMAFqvXlS"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 237488,
-      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
-      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
+      "duration_ms": 317168,
+      "name": "Somethin' 'Bout A Woman - Live From Fenway Park",
+      "url": "https://open.spotify.com/track/6pCBIdt549KZRupgHVLG02"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
+        "name": "Live EP 001",
+        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Dancing in the Sky - Live",
+      "url": "https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
         "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
         "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 210880,
       "name": "Nobody But You (Duet with Gwen Stefani) - Live",
       "url": "https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
-        "name": "Live EP 001",
-        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Dancing in the Sky - Live",
-      "url": "https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
+        "name": "Let Her Cry (Live at the Horseshoe, University of South Carolina, Columbia, SC, 4/19/1996)",
+        "url": "https://open.spotify.com/album/2U08jVY5Rbd50VO1jvtyF4"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 323421,
+      "name": "Let Her Cry - Live at the Horseshoe, University of South Carolina, Columbia, SC, 4/19/1996",
+      "url": "https://open.spotify.com/track/50hNcAvdqytGjew7mjM6A1"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
         "name": "Live At The Ryman",
         "url": "https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Let Her Cry (Live at the Horseshoe, University of South Carolina, Columbia, SC, 4/19/1996)",
-        "url": "https://open.spotify.com/album/2U08jVY5Rbd50VO1jvtyF4"
+        "name": "Hate How You Look (Live From London)",
+        "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
       },
       "artists": [
         {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 323421,
-      "name": "Let Her Cry - Live at the Horseshoe, University of South Carolina, Columbia, SC, 4/19/1996",
-      "url": "https://open.spotify.com/track/50hNcAvdqytGjew7mjM6A1"
+      "duration_ms": 203375,
+      "name": "Hate How You Look - Live From London",
+      "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1419,22 +1435,6 @@
       "duration_ms": 166466,
       "name": "She's Got You - Live",
       "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
-        "name": "Hate How You Look (Live From London)",
-        "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 203375,
-      "name": "Hate How You Look - Live From London",
-      "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
     },
     {
       "added_at": "2026-10-02 04:02:48",

@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs sons du mois de Septembre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Ben PLG",
-  "num_followers": 401586,
+  "num_followers": 401583,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Septembre 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALjrzlsr8WtxvyQPqyuV5JGBLD8U",
+  "snapshot_id": "AAAAAKLMs6ehaFwf7WuUYLQ9Pyorlp/9",
   "tracks": [
     {
       "added_at": "2026-09-30 22:00:22",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Make believe",
-        "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Make believe",
-      "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "PA' TOUCH - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 172775,
       "name": "PA' TOUCH - A COLORS SHOW",
       "url": "https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "Make believe",
+        "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Make believe",
+      "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "shelf",
-        "url": "https://open.spotify.com/album/1KicOJNEbUvra2jXrkDMW8"
-      },
-      "artists": [
-        {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "rentier",
-      "url": "https://open.spotify.com/track/6rqSnCp6aG6YKekjp3vIlS"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "Ta peau",
         "url": "https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 187254,
       "name": "Ta peau",
       "url": "https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "shelf",
+        "url": "https://open.spotify.com/album/1KicOJNEbUvra2jXrkDMW8"
+      },
+      "artists": [
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "rentier",
+      "url": "https://open.spotify.com/track/6rqSnCp6aG6YKekjp3vIlS"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "GODIN",
-        "url": "https://open.spotify.com/album/655bGp9sr5NZqTpJVnmma5"
-      },
-      "artists": [
-        {
-          "name": "H.LLS",
-          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
-        },
-        {
-          "name": "Claudia Valentina",
-          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
-        }
-      ],
-      "duration_ms": 164714,
-      "name": "GODIN",
-      "url": "https://open.spotify.com/track/6CxmDudrDAn0yi3t27DQmF"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "NODA: le monde et les humains",
         "url": "https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 200571,
       "name": "SttttRANGERENDER",
       "url": "https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "GODIN",
+        "url": "https://open.spotify.com/album/655bGp9sr5NZqTpJVnmma5"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        },
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
+        }
+      ],
+      "duration_ms": 164714,
+      "name": "GODIN",
+      "url": "https://open.spotify.com/track/6CxmDudrDAn0yi3t27DQmF"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Le Plus Beau",
-        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 168935,
-      "name": "Le Plus Beau",
-      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "jamais danser!",
         "url": "https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 195453,
       "name": "jamais danser!",
       "url": "https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "duration_ms": 168935,
+      "name": "Le Plus Beau",
+      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
     },
     {
       "added_at": "2026-09-30 22:00:22",

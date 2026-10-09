@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Madeline Merlo",
+  "description": "The home of Canadian country music. Cover: The Prairie States",
   "name": "North Country",
   "tracks": [
     {
@@ -2107,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "Cheap Beer",
+        "url": "https://open.spotify.com/album/1ukJFcwrKiQlK9qswCCXmc"
+      },
+      "artists": [
+        {
+          "name": "Janna Leduc",
+          "url": "https://open.spotify.com/artist/2K4XiuMfmMNGrzpzy7Y6Xf"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200851,
+      "name": "Cheap Beer",
+      "url": "https://open.spotify.com/track/2iqCMUkWA4qn91fofWPufe"
+    },
+    {
+      "album": {
         "name": "Chem History",
         "url": "https://open.spotify.com/album/0v90juXnWglwaqBr9XSuBN"
       },
@@ -3932,7 +3950,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 151962,
       "name": "Faded Blue Jeans (feat. Josh Homme)",
       "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
@@ -8104,7 +8122,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 255883,
       "name": "Little Miss Twain (feat. Tanya Tucker)",
       "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
@@ -9150,6 +9168,24 @@
       "duration_ms": 221462,
       "name": "My Expense",
       "url": "https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i"
+    },
+    {
+      "album": {
+        "name": "My First Rodeo",
+        "url": "https://open.spotify.com/album/5Es88oc5apsaMJzoPedOdu"
+      },
+      "artists": [
+        {
+          "name": "The Prairie States",
+          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196928,
+      "name": "My First Rodeo",
+      "url": "https://open.spotify.com/track/557iWce8PD0cY22ldVhCGV"
     },
     {
       "album": {
@@ -12786,7 +12822,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 198331,
       "name": "Stranger Things",
       "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
@@ -15214,6 +15250,28 @@
       "duration_ms": 206321,
       "name": "White Claw",
       "url": "https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg"
+    },
+    {
+      "album": {
+        "name": "Little Miss Twain - The Places I'll Go",
+        "url": "https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179756,
+      "name": "Who Do You Love (feat. The Milk Carton Kids)",
+      "url": "https://open.spotify.com/track/0CkRBKSBFHVsktNbT1qz2M"
     },
     {
       "album": {

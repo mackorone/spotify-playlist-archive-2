@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 131205,
+  "num_followers": 131208,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Tal y cual",
-        "url": "https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP"
-      },
-      "artists": [
-        {
-          "name": "Pito Perez",
-          "url": "https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "Locamente enamorado",
-      "url": "https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Atemahawke",
         "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 231640,
       "name": "Vaquero Gal\u00e1ctico",
       "url": "https://open.spotify.com/track/3Y0I0uc7DA9wu3CQc5LZTG"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Tal y cual",
+        "url": "https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP"
+      },
+      "artists": [
+        {
+          "name": "Pito Perez",
+          "url": "https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "Locamente enamorado",
+      "url": "https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Mermaid Sashimi",
-        "url": "https://open.spotify.com/album/41ZVIDqa0tsadGmLIaDY8X"
-      },
-      "artists": [
-        {
-          "name": "Juan Son",
-          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
-        }
-      ],
-      "duration_ms": 292733,
-      "name": "Mermaid Sashimi",
-      "url": "https://open.spotify.com/track/0OC769QD66RyvtDqhe7FTw"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Mamita Santa",
         "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Mermaid Sashimi",
+        "url": "https://open.spotify.com/album/41ZVIDqa0tsadGmLIaDY8X"
+      },
+      "artists": [
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        }
+      ],
+      "duration_ms": 292733,
+      "name": "Mermaid Sashimi",
+      "url": "https://open.spotify.com/track/0OC769QD66RyvtDqhe7FTw"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "M\u00fasica de America",
-        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Tecalitl\u00e1n",
-      "url": "https://open.spotify.com/track/1HNSDDyd03NzyopKAMjkU0"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "mani\u00e1tico",
         "url": "https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 174358,
       "name": "mani\u00e1tico",
       "url": "https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Tecalitl\u00e1n",
+      "url": "https://open.spotify.com/track/1HNSDDyd03NzyopKAMjkU0"
     },
     {
       "added_at": "2026-06-08 22:39:48",

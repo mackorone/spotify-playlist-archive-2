@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Dasha",
-  "num_followers": 256736,
+  "num_followers": 256760,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-08-14 04:01:38",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 208521,
-      "name": "II MOST WANTED",
-      "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
-    },
-    {
-      "added_at": "2026-08-14 04:01:38",
-      "album": {
         "name": "Bed on Fire (with Ingrid Andress)",
         "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 228507,
       "name": "Bed on Fire (with Ingrid Andress)",
       "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
+    },
+    {
+      "added_at": "2026-08-14 04:01:38",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 208521,
+      "name": "II MOST WANTED",
+      "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
     },
     {
       "added_at": "2026-08-14 04:01:38",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-08-14 04:01:38",
       "album": {
+        "name": "In My Truck",
+        "url": "https://open.spotify.com/album/1XTrJqvAeD6fe9siHtKAdm"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "duration_ms": 162171,
+      "name": "In My Truck",
+      "url": "https://open.spotify.com/track/3Zq4KwFGEhkL8Y49kxdyG0"
+    },
+    {
+      "added_at": "2026-08-14 04:01:38",
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 182026,
       "name": "Where We Started",
       "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
-    },
-    {
-      "added_at": "2026-08-14 04:01:38",
-      "album": {
-        "name": "In My Truck",
-        "url": "https://open.spotify.com/album/1XTrJqvAeD6fe9siHtKAdm"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 162171,
-      "name": "In My Truck",
-      "url": "https://open.spotify.com/track/3Zq4KwFGEhkL8Y49kxdyG0"
     },
     {
       "added_at": "2026-08-14 04:01:38",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-08-14 04:01:38",
       "album": {
+        "name": "Bigger Houses",
+        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Save Me The Trouble",
+      "url": "https://open.spotify.com/track/1mbGClliIFnN06tuMdnkZn"
+    },
+    {
+      "added_at": "2026-08-14 04:01:38",
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 147866,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
-    },
-    {
-      "added_at": "2026-08-14 04:01:38",
-      "album": {
-        "name": "Bigger Houses",
-        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Save Me The Trouble",
-      "url": "https://open.spotify.com/track/1mbGClliIFnN06tuMdnkZn"
     },
     {
       "added_at": "2026-08-14 04:01:38",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-08-14 04:01:38",
       "album": {
-        "name": "Dance Right Now",
-        "url": "https://open.spotify.com/album/7jJNc66Bkl80Cl1JEH6Pco"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 188832,
-      "name": "Dance Right Now",
-      "url": "https://open.spotify.com/track/0ja6kwEPfMl1GJoVhKB4Bl"
-    },
-    {
-      "added_at": "2026-08-14 04:01:38",
-      "album": {
         "name": "I Don't Go Back",
         "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 200573,
       "name": "I Don't Go Back",
       "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
+    },
+    {
+      "added_at": "2026-08-14 04:01:38",
+      "album": {
+        "name": "Dance Right Now",
+        "url": "https://open.spotify.com/album/7jJNc66Bkl80Cl1JEH6Pco"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 188832,
+      "name": "Dance Right Now",
+      "url": "https://open.spotify.com/track/0ja6kwEPfMl1GJoVhKB4Bl"
     }
   ],
   "unique_name": "Pop Country",

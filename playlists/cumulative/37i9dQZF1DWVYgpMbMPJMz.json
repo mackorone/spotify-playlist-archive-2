@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Karen Espinosa & Tiffany Hudson",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Roosevelt Stewart",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -764,6 +764,28 @@
       "duration_ms": 360299,
       "name": "All Sufficient Merit",
       "url": "https://open.spotify.com/track/7ymNiYT5jVlWLVZdiAwfm5"
+    },
+    {
+      "album": {
+        "name": "All The Glory (Live)",
+        "url": "https://open.spotify.com/album/4fJIDZZF1WAYSmnY6MbgCs"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451653,
+      "name": "All The Glory - Live",
+      "url": "https://open.spotify.com/track/6aje17mw9Yv6IArbvpKhit"
     },
     {
       "album": {
@@ -6083,6 +6105,24 @@
     },
     {
       "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/0rZFR2vUXNCv26JKe2FhkG"
+      },
+      "artists": [
+        {
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274851,
+      "name": "God Is Everywhere",
+      "url": "https://open.spotify.com/track/6Oli36yzAWTMdKGRaTjvHe"
+    },
+    {
+      "album": {
         "name": "God Is Faithful (Psalm 114) [Live]",
         "url": "https://open.spotify.com/album/7w4SToqiFc4KPaiauoCf7x"
       },
@@ -11016,7 +11056,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 224032,
       "name": "Just That Good",
       "url": "https://open.spotify.com/track/53fIGsvNyKO15Huu3nFnsK"
@@ -11038,10 +11078,36 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 258509,
       "name": "Just That Good",
       "url": "https://open.spotify.com/track/4Io4Eg5hbiwUbjOs4PFIGY"
+    },
+    {
+      "album": {
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/3dtsOUgziz8BxrbkeAQPNp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229739,
+      "name": "Just That Good",
+      "url": "https://open.spotify.com/track/49PJFH38rwFsVh2MvzMDnH"
     },
     {
       "album": {
@@ -11997,24 +12063,6 @@
     },
     {
       "album": {
-        "name": "LIFE IN COLOR",
-        "url": "https://open.spotify.com/album/6JlHqtfFk6YBoop6uPIsfF"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "date_added": "2026-06-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 304174,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/1K9C56Gp01WnHo1Pvt1Ipa"
-    },
-    {
-      "album": {
         "name": "Testify (Live)",
         "url": "https://open.spotify.com/album/5Gh92ayf6MMWd7Ffsc5SfJ"
       },
@@ -12030,6 +12078,24 @@
       "duration_ms": 233805,
       "name": "Living Proof - Live",
       "url": "https://open.spotify.com/track/1CmWihe8s7fwmNZcB4Zd1j"
+    },
+    {
+      "album": {
+        "name": "LIFE IN COLOR (Live)",
+        "url": "https://open.spotify.com/album/6JlHqtfFk6YBoop6uPIsfF"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304174,
+      "name": "Living Proof - Live",
+      "url": "https://open.spotify.com/track/1K9C56Gp01WnHo1Pvt1Ipa"
     },
     {
       "album": {
@@ -12300,7 +12366,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 247094,
       "name": "Lover Of My Life (I Need You)",
       "url": "https://open.spotify.com/track/6G3Gcl6sBKZC2qapjF8Ia6"
@@ -12410,6 +12476,28 @@
       "duration_ms": 214857,
       "name": "Magnify",
       "url": "https://open.spotify.com/track/6vjCLA1wRmf8P4QJ3lrIAD"
+    },
+    {
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/5j6AoIkhOX3kRHx4PkCvmD"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 690365,
+      "name": "Make It Good",
+      "url": "https://open.spotify.com/track/553IXhpPYgf5yVWNQeM7iB"
     },
     {
       "album": {
@@ -12638,7 +12726,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 585000,
       "name": "Memory",
       "url": "https://open.spotify.com/track/1EDdsfw8FVk6Zdn35yOWmg"
@@ -13760,7 +13848,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 271412,
       "name": "No Matter Where The Altar Is - Radio Version",
       "url": "https://open.spotify.com/track/7uiItjgpjRwRkWQ9uwayaP"
@@ -15635,6 +15723,28 @@
     },
     {
       "album": {
+        "name": "Praise You All The Same",
+        "url": "https://open.spotify.com/album/65yCammrWtXoXuuodc7XJN"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236256,
+      "name": "Praise You All The Same",
+      "url": "https://open.spotify.com/track/0g9OD1jRtonXNJaw0xSZgW"
+    },
+    {
+      "album": {
         "name": "COAT OF MANY COLORS",
         "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
       },
@@ -16086,6 +16196,28 @@
       "duration_ms": 286750,
       "name": "REASONS",
       "url": "https://open.spotify.com/track/3brBg53ewJMBWamUJRm0TC"
+    },
+    {
+      "album": {
+        "name": "Recompense",
+        "url": "https://open.spotify.com/album/4sx62WFyiEabRWG7vhND5B"
+      },
+      "artists": [
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        },
+        {
+          "name": "Bella Fabrizio",
+          "url": "https://open.spotify.com/artist/1sSkRcwjX2H0l5QjIuyfH7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415833,
+      "name": "Recompense",
+      "url": "https://open.spotify.com/track/3KVZ7yG3p6NdXzDBE19mHm"
     },
     {
       "album": {
@@ -16836,7 +16968,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 519543,
       "name": "Saturday - from Nashville",
       "url": "https://open.spotify.com/track/3nq9ysHiZDklADvjjD9Vm9"
@@ -17432,6 +17564,32 @@
       "duration_ms": 289111,
       "name": "So Well",
       "url": "https://open.spotify.com/track/7H2oCmru9QL84hO04PIffN"
+    },
+    {
+      "album": {
+        "name": "Happy To Be Here (Deluxe)",
+        "url": "https://open.spotify.com/album/6DNSFcZjyTG1dRvE4vxxe4"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293800,
+      "name": "Song of Thanksgiving",
+      "url": "https://open.spotify.com/track/1dqyWKC9XTP03pqhFd3zXU"
     },
     {
       "album": {
@@ -22396,7 +22554,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 330000,
       "name": "Wild Rushing Wind",
       "url": "https://open.spotify.com/track/4suW7psO9IAhWX0ivPsBZ6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Rolitas y pumpkin spice en compañía del compa Rabbanito
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,772 likes - 72 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,861 likes - 72 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 25 | [Quijote](https://open.spotify.com/track/0qqRX2rp7vuwrNXnBx3X53) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Eternos](https://open.spotify.com/album/556oquvE8lpKicIKB8s7yw) | 4:03 |
 | 26 | [superpoder](https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [superpoder](https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT) | 3:10 |
 | 27 | [Cuando La Besas](https://open.spotify.com/track/3qQmHrQQlAXd9UqqOfH09R) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Cuando La Besas](https://open.spotify.com/album/4aRG8e7FvSWelTvmE7I3Gq) | 3:46 |
-| 28 | [Sentimiento De Un Gangster](https://open.spotify.com/track/2DaQtwU1gZAic4QspM0Teq) | [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh), [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Blagh](https://open.spotify.com/artist/7LNIbiKKGIMlw7GjgJlR0w), [Jugo!](https://open.spotify.com/artist/5ZYhIxjmzSDGqD2kAXf22j), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Sentimiento De Un Gangster](https://open.spotify.com/album/1NBJ647hO6LAxkp74KiM64) | 4:13 |
+| 28 | [Sentimiento De Un Gangster](https://open.spotify.com/track/2DaQtwU1gZAic4QspM0Teq) | [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh), [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Blagh](https://open.spotify.com/artist/7LNIbiKKGIMlw7GjgJlR0w), [JuicyNise](https://open.spotify.com/artist/0MSw8gYA4pujLZst10Zve8), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Sentimiento De Un Gangster](https://open.spotify.com/album/1NBJ647hO6LAxkp74KiM64) | 4:13 |
 | 29 | [Con Esos Celos](https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Con Esos Celos](https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H) | 2:13 |
 | 30 | [Kliché](https://open.spotify.com/track/0eblv6bud0Ae6SiCtWsSgW) | [AQROSS](https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [SCL](https://open.spotify.com/album/21TbbvXdmrymM9eopZihj2) | 2:38 |
 | 31 | [Playa](https://open.spotify.com/track/6SmfDs3qjuAdKurpM1Nkdl) | [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Romances de una Nota III](https://open.spotify.com/album/7G4CsythEr76ea95ddbDW5) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Suzan & Freek",
+  "description": "Frisse Nederlandse pop. Cover: Samuel Welten",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -5312,7 +5312,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 185429,
       "name": "Dat Ze Van Hem Houdt",
       "url": "https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83"
@@ -5370,6 +5370,24 @@
       "duration_ms": 168700,
       "name": "De Bloemen Die Je Stuurde",
       "url": "https://open.spotify.com/track/1Wmj2gkXgEm0xLpvO5hT4s"
+    },
+    {
+      "album": {
+        "name": "De Echte",
+        "url": "https://open.spotify.com/album/6MmU4KEF0bxmn4unaxnS7Z"
+      },
+      "artists": [
+        {
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "De Echte",
+      "url": "https://open.spotify.com/track/3ubs1pAO1vR2Irsqcg27V4"
     },
     {
       "album": {
@@ -5752,7 +5770,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 199928,
       "name": "De Verdrietige Meneer",
       "url": "https://open.spotify.com/track/5WuICyjAjSNZQi3pGbAu3z"
@@ -7028,7 +7046,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 165608,
       "name": "Een Andere Jij",
       "url": "https://open.spotify.com/track/230uERql9WpgAUhzs4jMD2"
@@ -7588,7 +7606,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 162285,
       "name": "Feestje Op Mijn Graf",
       "url": "https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii"
@@ -9062,7 +9080,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 169962,
       "name": "Hartenbreker",
       "url": "https://open.spotify.com/track/5MJEH4CwlbbsSjNR5k1k4s"
@@ -9575,6 +9593,28 @@
     },
     {
       "album": {
+        "name": "Aflevering 6 - Jeangu Macrooy",
+        "url": "https://open.spotify.com/album/5LRrDd1d285J0rSXCXqYX9"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183509,
+      "name": "Het Komt Door Jou",
+      "url": "https://open.spotify.com/track/7wvfe7WWSz3HHaa9epKMSx"
+    },
+    {
+      "album": {
         "name": "Het Komt Wel Goed",
         "url": "https://open.spotify.com/album/5UDg7wDgkbBQjMI5G3dd9H"
       },
@@ -9648,7 +9688,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 180925,
       "name": "Het Perfecte Recept",
       "url": "https://open.spotify.com/track/4WGEFKjIQtPiHu1voy0PB1"
@@ -11421,6 +11461,24 @@
     },
     {
       "album": {
+        "name": "Tussen Jou En Mij",
+        "url": "https://open.spotify.com/album/29n6SKoXAWgOxzrTKnkYOk"
+      },
+      "artists": [
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "Ik Denk Niet Aan Jou",
+      "url": "https://open.spotify.com/track/40oj8WJDMZC08k2akG8iEb"
+    },
+    {
+      "album": {
         "name": "Ik Droom Alvast Van Jou",
         "url": "https://open.spotify.com/album/2kHjvxjrHroXi2jlBm4iFh"
       },
@@ -12831,6 +12889,24 @@
     },
     {
       "album": {
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/5ynDKaVWKBVoQvTZHMtEYg"
+      },
+      "artists": [
+        {
+          "name": "De Nachtwacht",
+          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164393,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/04IsamABeACt3rS9OZDSzb"
+    },
+    {
+      "album": {
         "name": "Jouw Adres",
         "url": "https://open.spotify.com/album/4cwPu3BX8jWSpo8nOigTN8"
       },
@@ -13344,6 +13420,24 @@
       "duration_ms": 147920,
       "name": "Kleine Jongens",
       "url": "https://open.spotify.com/track/0WYPSajarDSHx28mbjYMYf"
+    },
+    {
+      "album": {
+        "name": "Kleine Kans",
+        "url": "https://open.spotify.com/album/765keiBkbBudlWl6VESQGp"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "Kleine Kans",
+      "url": "https://open.spotify.com/track/0kpnTV16wY5YPnUNjVARaE"
     },
     {
       "album": {
@@ -15878,7 +15972,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 199442,
       "name": "Meisjes Spelen Niet Buiten - Soundtrack Sugar",
       "url": "https://open.spotify.com/track/1w7uvbsXomUWWYVXI7Ie0H"
@@ -19106,6 +19200,24 @@
       "duration_ms": 150340,
       "name": "Overdosis",
       "url": "https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr"
+    },
+    {
+      "album": {
+        "name": "Overdosis",
+        "url": "https://open.spotify.com/album/3ob1mhoyjL0E4hcKPsILA0"
+      },
+      "artists": [
+        {
+          "name": "Line De Dauw",
+          "url": "https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167653,
+      "name": "Overdosis",
+      "url": "https://open.spotify.com/track/1sRugaIR5UKUh4aORiz6Dv"
     },
     {
       "album": {
@@ -22482,10 +22594,28 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 155374,
       "name": "Terug Bij Af",
       "url": "https://open.spotify.com/track/34LSD9i0uMB3ecBIdhNC89"
+    },
+    {
+      "album": {
+        "name": "Terug Bij Mij",
+        "url": "https://open.spotify.com/album/632FPOQ9TbwaTB0zviAflo"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214061,
+      "name": "Terug Bij Mij",
+      "url": "https://open.spotify.com/track/11Cdudg1aqYCyuiwX605RI"
     },
     {
       "album": {
@@ -22540,6 +22670,24 @@
       "duration_ms": 154998,
       "name": "Terug Naar Huis",
       "url": "https://open.spotify.com/track/43NlqymyGXzfh1RJA5zxHJ"
+    },
+    {
+      "album": {
+        "name": "Terug Naar Toen",
+        "url": "https://open.spotify.com/album/1KEsesYvD9y0anfFbbNMgK"
+      },
+      "artists": [
+        {
+          "name": "Liv Webbers",
+          "url": "https://open.spotify.com/artist/74he4SuOzyeqs99TYxvXcT"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145316,
+      "name": "Terug Naar Toen",
+      "url": "https://open.spotify.com/track/5F96zcYJqIuBbKikZxeueb"
     },
     {
       "album": {
@@ -23968,7 +24116,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 213674,
       "name": "Verlangen",
       "url": "https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV"
@@ -24820,6 +24968,28 @@
       "duration_ms": 178577,
       "name": "Voorbestemd",
       "url": "https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY"
+    },
+    {
+      "album": {
+        "name": "Voorbij",
+        "url": "https://open.spotify.com/album/4Y7q8OQaYg91BxZWerlBMV"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134526,
+      "name": "Voorbij",
+      "url": "https://open.spotify.com/track/1HTIlXjgPKk7BQx7lUS8ML"
     },
     {
       "album": {
@@ -25858,7 +26028,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 159000,
       "name": "We Doen Toch Allemaal Maar Wat",
       "url": "https://open.spotify.com/track/5ktNHD5xIuRnjoV8nZrRhu"
@@ -27346,6 +27516,24 @@
       "duration_ms": 175588,
       "name": "Zolang We Samen Zijn",
       "url": "https://open.spotify.com/track/4yt0cEaT2lpNigs3k5jCKI"
+    },
+    {
+      "album": {
+        "name": "De Een",
+        "url": "https://open.spotify.com/album/6x5DfYzmHw7QPYwGnUsGiD"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279163,
+      "name": "Zomaar Zomer Zondag",
+      "url": "https://open.spotify.com/track/2a3t3e0byyQBziC5UsABzi"
     },
     {
       "album": {

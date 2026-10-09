@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4E70bCjqU7KHTsYIvpSy8F.md) - [plain]
 
 > 
 
-[Biggie Cheese](https://open.spotify.com/user/tch._.worthless._.brat) - 0 likes - 75 songs - 4 hr 11 min
+[Biggie Cheese](https://open.spotify.com/user/tch._.worthless._.brat) - 0 likes - 77 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,7 @@ pretty - [cumulative](/playlists/cumulative/4E70bCjqU7KHTsYIvpSy8F.md) - [plain]
 | 73 | [Pokedance](https://open.spotify.com/track/4OCrTRAYKTOUIeuCy4fuXJ) | [Anya Forger](https://open.spotify.com/artist/5FYzLgVpScfNAOgOcmRWL2) | [Pokedance](https://open.spotify.com/album/6juwrPAxZ0xFi1qVoueJBd) | 1:15 |
 | 74 | [Pokedance](https://open.spotify.com/track/4OCrTRAYKTOUIeuCy4fuXJ) | [Anya Forger](https://open.spotify.com/artist/5FYzLgVpScfNAOgOcmRWL2) | [Pokedance](https://open.spotify.com/album/6juwrPAxZ0xFi1qVoueJBd) | 1:15 |
 | 75 | [九光千载（九光寒林） \- 逆水寒之九光寒林\(游戏《逆水寒》原声专辑\)](https://open.spotify.com/track/3JL2xya1p5vxf3cUFswqdT) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx) | [逆水寒之九光寒林 \(游戏《逆水寒》九州飞光版本原声专辑\)](https://open.spotify.com/album/482g4PgZ7eAB6KKAWPD84B) | 3:34 |
+| 76 | [Tchaikovsky: The Nutcracker, Op\. 71, Act 2: No\. 14a, Pas de deux\. Andante maestoso](https://open.spotify.com/track/2oUX4i8ByoaDrHHz9z5Bga) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) | [Tchaikovsky: The Nutcracker](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) | 5:06 |
+| 77 | [Kyrie](https://open.spotify.com/track/4SpUOWlfIzUmYYpnGN1aPp) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [DEATH NOTE Original Soundtrack](https://open.spotify.com/album/1lf2Ys7Ml8zfJ9vY3OdKAH) | 1:23 |
 
-Snapshot ID: `AAAAPY4Q3K2kFXJDeJepnYAP0ZmVu+Y7`
+Snapshot ID: `AAAAPyhWa8h6BqudkrS2lmWa0J3pQ0cd`

@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 240000,
       "name": "Cecilia Jeffrey",
       "url": "https://open.spotify.com/track/7iFANAnKbAUMuB72IekOOl"
@@ -8027,6 +8027,24 @@
     },
     {
       "album": {
+        "name": "Love Me Today",
+        "url": "https://open.spotify.com/album/37W8FHa6KXf4gE9jKZtfaD"
+      },
+      "artists": [
+        {
+          "name": "Tomi Swick",
+          "url": "https://open.spotify.com/artist/4yeAYGV34SMvfjePHYeqbP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225618,
+      "name": "Love Me Today",
+      "url": "https://open.spotify.com/track/2fF7C4q789Q1LcoPBhe1ip"
+    },
+    {
+      "album": {
         "name": "Love Thy Neighbor",
         "url": "https://open.spotify.com/album/7aGhjHYKpPW7lciXUx5Hlz"
       },
@@ -10262,7 +10280,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 233940,
       "name": "Ready Now",
       "url": "https://open.spotify.com/track/6xZUShgPgFExUWlVZOHNQJ"

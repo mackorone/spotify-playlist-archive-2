@@ -7222,7 +7222,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 236521,
       "name": "Eclipsed By You",
       "url": "https://open.spotify.com/track/2Kv90dB4Bc0nXScJcQVc2C"
@@ -11100,12 +11100,12 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
-        },
-        {
           "name": "Cleopard2000",
           "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
+        },
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
         }
       ],
       "date_added": "2026-10-01",
@@ -18540,7 +18540,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 210236,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt"
@@ -29772,6 +29772,24 @@
       "duration_ms": 274345,
       "name": "Your Loving Arms - ALPHA 9 Remix",
       "url": "https://open.spotify.com/track/6qKvPOJjG5ilpqbB6UH9hx"
+    },
+    {
+      "album": {
+        "name": "Yoyoyo",
+        "url": "https://open.spotify.com/album/5EZ9za0ULGWOTaLEfPj6aw"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275244,
+      "name": "Yoyoyo",
+      "url": "https://open.spotify.com/track/3mjpUhSiUbEvaPdxikuEZI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX91oIci4su1D"

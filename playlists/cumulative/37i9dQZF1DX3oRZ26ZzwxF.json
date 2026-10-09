@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Suspect 95",
+  "description": "Le meilleur du rap africain francophone. Photo : DRE-A",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 184864,
       "name": "ADIGBATE",
       "url": "https://open.spotify.com/track/2DtjVFrqRb3FIi5aJGFb9A"
@@ -852,6 +852,28 @@
       "duration_ms": 141509,
       "name": "BADDIES",
       "url": "https://open.spotify.com/track/5ydl6rWWOw1vG1YKB1Aw1c"
+    },
+    {
+      "album": {
+        "name": "BAHI (feat. OG Mahilet)",
+        "url": "https://open.spotify.com/album/0XA9mBDULejjfUvQIcpOtf"
+      },
+      "artists": [
+        {
+          "name": "Wantch\u00e9",
+          "url": "https://open.spotify.com/artist/12IHM2ppR26NmIUesKOGZQ"
+        },
+        {
+          "name": "OG Mahilet",
+          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164702,
+      "name": "BAHI (feat. OG Mahilet)",
+      "url": "https://open.spotify.com/track/6AbNKW8w5Vu5QAxvWevJqz"
     },
     {
       "album": {
@@ -1785,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "CEO",
+        "url": "https://open.spotify.com/album/7jbYmV8bKXBDDGT0N0MiXZ"
+      },
+      "artists": [
+        {
+          "name": "ODK.",
+          "url": "https://open.spotify.com/artist/6M7fV1KXrCJmZI36Ooiu2D"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158280,
+      "name": "CEO",
+      "url": "https://open.spotify.com/track/1tVQLXGoJUQL3j2X2oWaS4"
+    },
+    {
+      "album": {
         "name": "Chang\u00e9",
         "url": "https://open.spotify.com/album/6nVQZxPT1UgvT6DrpkfkPa"
       },
@@ -2367,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "DAISHI RAGE : Act 1",
+        "url": "https://open.spotify.com/album/7a3tuu9f1NAaeK6AnVwrsu"
+      },
+      "artists": [
+        {
+          "name": "Zayi",
+          "url": "https://open.spotify.com/artist/5lOHZ0aMfvWdJrFJNhgYzo"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "DAISHI RAGE : Act 1",
+      "url": "https://open.spotify.com/track/5TrCYKoY7DO1UYDqJBhlrM"
+    },
+    {
+      "album": {
         "name": "DANGER",
         "url": "https://open.spotify.com/album/64vn4xIutP3muzUVemiVa1"
       },
@@ -2692,7 +2750,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 185196,
       "name": "Djandjouavie",
       "url": "https://open.spotify.com/track/0pbSgUS02IncycqPFZQJY9"
@@ -3280,7 +3338,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 250174,
       "name": "F I R S T S T E P",
       "url": "https://open.spotify.com/track/0Jw8XVoDNyQmtrxpMFNHvb"
@@ -3404,6 +3462,24 @@
       "duration_ms": 155250,
       "name": "FAUT LAISSER \u00c7A",
       "url": "https://open.spotify.com/track/2MaX9mFvrZnSVE2VuSMAGG"
+    },
+    {
+      "album": {
+        "name": "FAUT PAS TOUCHER",
+        "url": "https://open.spotify.com/album/41SvrLuz8a0V02EQccmCpl"
+      },
+      "artists": [
+        {
+          "name": "DRE-A",
+          "url": "https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "FAUT PAS TOUCHER",
+      "url": "https://open.spotify.com/track/0I9MLtFI9xuo7w1qXWpOD1"
     },
     {
       "album": {
@@ -4556,6 +4632,28 @@
       "duration_ms": 263160,
       "name": "Kira 5",
       "url": "https://open.spotify.com/track/5kjNtDSk3kBFIQU4ZasFm1"
+    },
+    {
+      "album": {
+        "name": "KISHTA",
+        "url": "https://open.spotify.com/album/2PhpiU88B0zlKm0yu3vnoI"
+      },
+      "artists": [
+        {
+          "name": "MARVIN'S",
+          "url": "https://open.spotify.com/artist/0CKwShB6jHlyyjkLE9lGFd"
+        },
+        {
+          "name": "NOHA BEATS",
+          "url": "https://open.spotify.com/artist/2tr5pvikdMtgRPuaW5nofm"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177235,
+      "name": "KISHTA",
+      "url": "https://open.spotify.com/track/6E6ULS4tWnXq85yp2FPZ8t"
     },
     {
       "album": {
@@ -5908,7 +6006,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 142040,
       "name": "M\u00e9daillon",
       "url": "https://open.spotify.com/track/7DTJxVjbo5Huz9nsStOiNt"
@@ -7470,7 +7568,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 174222,
       "name": "Securiser",
       "url": "https://open.spotify.com/track/5UtM5QxsLvNHnTVsD0JD6N"
@@ -7522,6 +7620,28 @@
       "duration_ms": 130639,
       "name": "Shogun & Djinze",
       "url": "https://open.spotify.com/track/6r51OeQqNi9boKeEw0RuYh"
+    },
+    {
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/1dw7myk7yxsxIzu6GgexRS"
+      },
+      "artists": [
+        {
+          "name": "Boykito",
+          "url": "https://open.spotify.com/artist/6UsBAhzHN7UEOEChp1L0mA"
+        },
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/6YcPRiDag7CaH0A4x7r0dx"
     },
     {
       "album": {
@@ -8614,7 +8734,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 130909,
       "name": "URBAN D\u00c9CAL\u00c9 #2",
       "url": "https://open.spotify.com/track/1BFlwRDhiqQLwV39665vcf"

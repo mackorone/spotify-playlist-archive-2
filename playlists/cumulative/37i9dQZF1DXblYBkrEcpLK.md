@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Daoko
 
-913 songs - 2 day 11 hr 49 min
+915 songs - 2 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Pastoral](https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Pastoral](https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8) | 4:05 | 2025-11-19 | 2026-01-20 |
 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 | 2023-10-03 | 2023-11-02 |
 | [Perfect\-area complete!](https://open.spotify.com/track/0mbUCoZHwCFPAyUsEEWXK7) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Movement of magic](https://open.spotify.com/album/0V6EFjSPBXudBEZ13Bt7iZ) | 4:01 | 2022-06-14 | 2022-07-23 |
+| [Period](https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Period](https://open.spotify.com/album/6MOiPzaRFngumUQFF4qG1A) | 3:26 | 2026-10-08 |  |
 | [Petals](https://open.spotify.com/track/1OslJG115ssBaUScyGVopF) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [Petals \(feat\. 夏背\)](https://open.spotify.com/album/4MPJBkBa0Ewh17yWjOLC9D) | 2:52 | 2026-06-23 | 2026-07-07 |
 | [Piercing the dawn of time](https://open.spotify.com/track/0xcgxihAa7z24vM0W8YZab) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Piercing the dawn of time](https://open.spotify.com/album/2MOH4POoX7n28RsM4EPhcG) | 3:09 | 2023-09-26 | 2023-10-04 |
 | [Plastic Smile](https://open.spotify.com/track/1jr9nUrgCcCD2tFxiJChys) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Plastic Smile](https://open.spotify.com/album/32CKhuDhSINttWOAdUNfeT) | 4:21 | 2022-06-14 | 2022-07-28 |
@@ -502,6 +503,7 @@
 | [おもいでしりとり](https://open.spotify.com/track/21I2N3whjE3lanhe0CuJNH) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [おもいでしりとり](https://open.spotify.com/album/3NBlrlTK609r4bxaM7ouIZ) | 4:23 | 2022-06-09 | 2022-07-26 |
 | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/track/5eMZFpCA34CjojOSMwtLTQ) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/album/7DdO9kXkzARuAeVDc15Ibs) | 4:03 | 2024-02-08 | 2024-02-14 |
 | [かげくらべの唄](https://open.spotify.com/track/5ZVwgbV1wAnyWXTzTxRfKv) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [かげくらべの唄](https://open.spotify.com/album/1wscrF8e8yuOYsFV9hoIJm) | 4:33 | 2024-07-03 | 2024-07-10 |
+| [かわいくない](https://open.spotify.com/track/6zYZuhJGcWzeQYWuWneYFd) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [かわいくない](https://open.spotify.com/album/2ZE9YvGYP2IelN3TKEb5e9) | 3:37 | 2026-10-08 |  |
 | [くつひも](https://open.spotify.com/track/7cKd4H3MNrtBrwP6SKzp8Z) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [パッチワーク](https://open.spotify.com/album/44Jbo1p4sZrPXoNE1ByTyl) | 4:13 | 2022-06-14 | 2022-07-06 |
 | [ぐだふわエブリデー](https://open.spotify.com/track/6dm1oiProLnoNAbvJQej7Z) | [悠木碧](https://open.spotify.com/artist/3NHsVALs96Q7psOrZ4UtZS) | [ぐだふわエブリデー](https://open.spotify.com/album/1SWWzVxV7S1QRei81zHO0b) | 4:03 | 2022-07-19 | 2022-07-29 |
 | [こいのうた](https://open.spotify.com/track/0vZcAOkeoTQqBdL928g3KE) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [こいのうた（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/6hKvK1eBPSlpY4MOGPPrKd) | 3:57 | 2024-09-12 | 2024-10-09 |
@@ -541,7 +543,7 @@
 | [ひとりじゃないから](https://open.spotify.com/track/1gqPfUzCXKQ4SaMYcRPK8G) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [ひとりじゃないから](https://open.spotify.com/album/1Rf7oYP5gF5iXSTFk5WsaE) | 4:55 | 2022-07-07 | 2022-07-29 |
 | [ひとりじゃないよ](https://open.spotify.com/track/2P95rrQ5wUiU7uvv1vPZU6) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [ひとりじゃないよ](https://open.spotify.com/album/7hXNUkElCgqvqCaSayR459) | 4:10 | 2023-10-17 | 2023-11-18 |
 | [ひろがるスカイ!プリキュア \~Hero Girls\~](https://open.spotify.com/track/1ngUOF9wYAuGRA9oQyw9Rx) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV) | [ひろがるスカイ!プリキュア 主題歌シングル【通常盤】](https://open.spotify.com/album/6zZczS4QOYcaxESpHfewWr) | 4:28 | 2023-05-14 | 2023-06-09 |
-| [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 | 2025-01-30 |  |
+| [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 | 2025-01-30 | 2026-10-09 |
 | [ほっぺちゃん音頭](https://open.spotify.com/track/2bY3x5lBt3cqxpJu6LWOPY) | [天童よしみ with ガーディアンズほっぺちゃん](https://open.spotify.com/artist/12uCuxw2uM3jXup3uwa7hs) | [ほっぺちゃん音頭](https://open.spotify.com/album/5MM7qYWMHF8sNPtkHLTj3c) | 2:27 | 2026-02-24 | 2026-03-04 |
 | [まひるいろシエスタ](https://open.spotify.com/track/0ljrJ1wIXoeV16yP98YI2t) | [Yui Sakakibara](https://open.spotify.com/artist/6T21A06nQ9nZ9TzfWhct9L) | [TVアニメ『アズールレーン びそくぜんしんっ!』主題歌シングル「Longing for! / まひるいろシエスタ」](https://open.spotify.com/album/7baklDpXCciw4nJcejsLhH) | 3:41 | 2022-06-09 | 2022-07-21 |
 | [まるで元気](https://open.spotify.com/track/20AGXdjLMIrN25CsuCdEww) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [MUSIC](https://open.spotify.com/album/7vTxY03vAbkmoQTFq9mOxC) | 4:04 | 2023-11-07 | 2023-11-18 |
@@ -561,7 +563,7 @@
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-11 |  |
 | [アイビーダンス](https://open.spotify.com/track/0p4Pbn4ktbFCAbIWyJL3XO) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [アイビーダンス](https://open.spotify.com/album/5j3Ow8uwPk8wHVpdmndKXi) | 3:25 | 2022-06-09 | 2022-07-24 |
 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-04-11 | 2025-01-31 |
-| [アオとキラメキ](https://open.spotify.com/track/4eZ6wXfhx6N9KgNUJEH2t2) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [アオとキラメキ](https://open.spotify.com/album/1CgpeKofwhA6D2ar9XWs7V) | 3:37 | 2025-07-22 |  |
+| [アオとキラメキ](https://open.spotify.com/track/4eZ6wXfhx6N9KgNUJEH2t2) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [アオとキラメキ](https://open.spotify.com/album/1CgpeKofwhA6D2ar9XWs7V) | 3:37 | 2025-07-22 | 2026-10-09 |
 | [アセビ](https://open.spotify.com/track/4bdt1luQyF745Tp7AJX3TL) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [ODDTAXI CHARACTER SONG EP](https://open.spotify.com/album/71X44bA7wxYBDr0NwtlIE9) | 3:22 | 2022-07-19 | 2022-07-25 |
 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 | 2026-02-05 |  |
 | [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 | 2024-04-16 | 2024-06-23 |

@@ -161,6 +161,28 @@
     },
     {
       "album": {
+        "name": "1 \u00c5r",
+        "url": "https://open.spotify.com/album/0C0k64JFYCKK8dD8xGEoYf"
+      },
+      "artists": [
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        },
+        {
+          "name": "SHYDE",
+          "url": "https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "1 \u00c5r",
+      "url": "https://open.spotify.com/track/0azLujBhO6TVq4LrblaqU8"
+    },
+    {
+      "album": {
         "name": "1,2 & Mer",
         "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
       },
@@ -2164,7 +2186,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 154800,
       "name": "Albi",
       "url": "https://open.spotify.com/track/7xFwP2udBHtpbE0pltJ6WE"
@@ -8431,6 +8453,24 @@
     },
     {
       "album": {
+        "name": "K\u00e4rlek & Brott",
+        "url": "https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121874,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6AHIJQKWEZnKmNCcUeOv7n"
+    },
+    {
+      "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/3KcFigCkWoZJ7UOkOyYIdo"
       },
@@ -10556,7 +10596,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 123611,
       "name": "DayDate",
       "url": "https://open.spotify.com/track/2QXr042bvU29FWV62fLbDK"
@@ -11174,7 +11214,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 126206,
       "name": "Dig",
       "url": "https://open.spotify.com/track/6GtHiksYtjSmNfad56R7W3"
@@ -25634,7 +25674,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 139487,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/2RsNBXT7mQVLurN1j36NPQ"
@@ -40735,6 +40775,28 @@
     },
     {
       "album": {
+        "name": "ST\u00d6RD",
+        "url": "https://open.spotify.com/album/4ajmLdPaFRoi2XArBa1WPr"
+      },
+      "artists": [
+        {
+          "name": "Sticky",
+          "url": "https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164411,
+      "name": "ST\u00d6RD",
+      "url": "https://open.spotify.com/track/5vYeSHa82PMlSSfl3Q8vho"
+    },
+    {
+      "album": {
         "name": "ST\u00d6RDA",
         "url": "https://open.spotify.com/album/0Ttzx21RWBkvzS8MFbxhZP"
       },
@@ -44614,6 +44676,28 @@
       "duration_ms": 180615,
       "name": "Tv\u00e4rtom",
       "url": "https://open.spotify.com/track/1Q6ty9DMFaALbaQaKuvnLN"
+    },
+    {
+      "album": {
+        "name": "K\u00e4rlek & Brott",
+        "url": "https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        },
+        {
+          "name": "Lekaye",
+          "url": "https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118250,
+      "name": "Tv\u00e5 Somrar Bort",
+      "url": "https://open.spotify.com/track/1hvtRnTfZgu9i5JMKCnQRM"
     },
     {
       "album": {

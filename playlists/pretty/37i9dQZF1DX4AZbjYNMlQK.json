@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 267734,
+  "num_followers": 267731,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Jingle Bell Rock (with Maria Becerra)",
-        "url": "https://open.spotify.com/album/6hlGX00f21IuTjKIQN79tK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Jingle Bell Rock (with Maria Becerra)",
-      "url": "https://open.spotify.com/track/5ieSoxnino7NkPZJegAiGz"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "You Make It Feel Like Christmas (Deluxe Edition - 2020)",
         "url": "https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 162680,
       "name": "Feliz Navidad (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/4NyRyGgAdWJdovsFZUY9Fd"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Jingle Bell Rock (with Maria Becerra)",
+        "url": "https://open.spotify.com/album/6hlGX00f21IuTjKIQN79tK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Jingle Bell Rock (with Maria Becerra)",
+      "url": "https://open.spotify.com/track/5ieSoxnino7NkPZJegAiGz"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Al Ni\u00f1o Dios",
-        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "Al Ni\u00f1o Dios",
-      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "SANTA",
         "url": "https://open.spotify.com/album/77cjih204WgiFVdQFRIdsA"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 210533,
       "name": "SANTA - Tengo Un Crush Contigo",
       "url": "https://open.spotify.com/track/1grwk2p5zMi6WLzJdO0Som"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Al Ni\u00f1o Dios",
+        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "Al Ni\u00f1o Dios",
+      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/1JdKVf1S2PIYe1kESEwumd"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x"
-        }
-      ],
-      "duration_ms": 166752,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/6YfabG0hh5cLJswtblTc3F"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Navidad Melanc\u00f3lica",
         "url": "https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/1JdKVf1S2PIYe1kESEwumd"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x"
+        }
+      ],
+      "duration_ms": 166752,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/6YfabG0hh5cLJswtblTc3F"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
         "name": "Santa Claus Lleg\u00f3 A La Ciudad",
         "url": "https://open.spotify.com/album/07xPl363lb9z67lLCtjuNS"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 158629,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Somos Navidad",
-        "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
-      },
-      "artists": [
-        {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -743,6 +727,22 @@
       "duration_ms": 188520,
       "name": "Navidad Contigo",
       "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Somos Navidad",
+        "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "El Mix-Tape De Santa",
-        "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 202632,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Volvernos a Encontrar",
         "url": "https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
+        "name": "El Mix-Tape De Santa",
+        "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 202632,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
         "name": "Alegr\u00eda",
         "url": "https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k"
       },
@@ -823,6 +823,30 @@
       "duration_ms": 202846,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Una Noche Especial",
+        "url": "https://open.spotify.com/album/7B9p0KkvYqajCmj2jZFkUd"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        },
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        },
+        {
+          "name": "Jan Toussaint",
+          "url": "https://open.spotify.com/artist/06P2GxwZopjaQnNABcoPSE"
+        }
+      ],
+      "duration_ms": 189204,
+      "name": "Una Noche Especial",
+      "url": "https://open.spotify.com/track/0qcZMcD883yjJEhtLGFGld"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -855,30 +879,6 @@
       "duration_ms": 237869,
       "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Una Noche Especial",
-        "url": "https://open.spotify.com/album/7B9p0KkvYqajCmj2jZFkUd"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        },
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        },
-        {
-          "name": "Jan Toussaint",
-          "url": "https://open.spotify.com/artist/06P2GxwZopjaQnNABcoPSE"
-        }
-      ],
-      "duration_ms": 189204,
-      "name": "Una Noche Especial",
-      "url": "https://open.spotify.com/track/0qcZMcD883yjJEhtLGFGld"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Con Mi Coqueta",
-        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Con Mi Coqueta",
-      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Emmanuel Jingle Bell Rocks",
         "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 325397,
       "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
       "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Con Mi Coqueta",
+        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Con Mi Coqueta",
+      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 217024,
+      "name": "Viva La Navidad",
+      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
         "name": "Duende",
         "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/25k4Ptse4uzo6Oiy9Vnmgu"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
         }
       ],
-      "duration_ms": 217024,
-      "name": "Viva La Navidad",
-      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
+      "duration_ms": 181794,
+      "name": "Navidad",
+      "url": "https://open.spotify.com/track/2Qb16NRF8oWi7TMlt8vlQS"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1119,34 +1135,18 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/25k4Ptse4uzo6Oiy9Vnmgu"
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
         }
       ],
-      "duration_ms": 181794,
-      "name": "Navidad",
-      "url": "https://open.spotify.com/track/2Qb16NRF8oWi7TMlt8vlQS"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Mu\u00f1eco de Nieve",
-        "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
-      },
-      "artists": [
-        {
-          "name": "Blas Cant\u00f3",
-          "url": "https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46"
-        }
-      ],
-      "duration_ms": 170856,
-      "name": "Mu\u00f1eco de Nieve",
-      "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
+      "duration_ms": 195842,
+      "name": "Last Christmas - Spanish Version",
+      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1199,34 +1199,18 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+        "name": "Mu\u00f1eco de Nieve",
+        "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
       },
       "artists": [
         {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Blas Cant\u00f3",
+          "url": "https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46"
         }
       ],
-      "duration_ms": 195842,
-      "name": "Last Christmas - Spanish Version",
-      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "triste navidad",
-        "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "triste navidad",
-      "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
+      "duration_ms": 170856,
+      "name": "Mu\u00f1eco de Nieve",
+      "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1259,6 +1243,22 @@
       "duration_ms": 138426,
       "name": "A La Nanita Nana",
       "url": "https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "triste navidad",
+        "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "triste navidad",
+      "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
-        "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 213547,
-      "name": "A\u00f1o Nuevo, Misma Soledad - Live",
-      "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Navidad Contigo",
         "url": "https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 123333,
       "name": "Navidad Contigo",
       "url": "https://open.spotify.com/track/3lmv1OZdUikricAhXJa2Pv"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
+        "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 213547,
+      "name": "A\u00f1o Nuevo, Misma Soledad - Live",
+      "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
     }
   ],
   "unique_name": "Feliz Navidad",

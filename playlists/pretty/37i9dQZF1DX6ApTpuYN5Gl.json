@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 242373,
+  "num_followers": 242376,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 206884,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 190850,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Other Side",
-        "url": "https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 206884,
-      "name": "Other Side",
-      "url": "https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 192896,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 177120,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 192896,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
     },
     {
       "added_at": "2024-08-01 10:59:15",

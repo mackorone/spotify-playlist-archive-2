@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Stony",
+  "description": "Les hits zouk & kompa du moment. Photo : Fanny J",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0smJ1wGocZWRvZX5ZpzmSF"
+      },
+      "artists": [
+        {
+          "name": "Saina Manotte",
+          "url": "https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj"
+        },
+        {
+          "name": "Blicassty",
+          "url": "https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198837,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/2dkfeyEWCbCCYgfXqlN2u0"
+    },
+    {
+      "album": {
         "name": "Bandit chef",
         "url": "https://open.spotify.com/album/42L6uuqhDyV6LVNsm42rWi"
       },
@@ -943,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/3YVWQUpEJkBwZ4nQV6P05T"
+      },
+      "artists": [
+        {
+          "name": "Forever Music",
+          "url": "https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje"
+        },
+        {
+          "name": "Teddy Hashtag",
+          "url": "https://open.spotify.com/artist/08IitAuzTfomRsaSf8YLnh"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280500,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/1wqPny15dwjxU5f0C4KXpZ"
+    },
+    {
+      "album": {
         "name": "C' Mort",
         "url": "https://open.spotify.com/album/0dpRGKxSn2ECXSIqs43eWu"
       },
@@ -962,7 +1006,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 193103,
       "name": "C' Mort",
       "url": "https://open.spotify.com/track/2YP3BlXblVJv54FVvIFkc4"
@@ -1122,6 +1166,24 @@
       "duration_ms": 179117,
       "name": "CARPE DIEM",
       "url": "https://open.spotify.com/track/4S946jhpUy8MLekuSvcYFG"
+    },
+    {
+      "album": {
+        "name": "CATALINA",
+        "url": "https://open.spotify.com/album/3lHnR7Wz4ur8BuUq5hEAEz"
+      },
+      "artists": [
+        {
+          "name": "Curtis Kane",
+          "url": "https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188965,
+      "name": "CATALINA",
+      "url": "https://open.spotify.com/track/5TfB7G5JrQqwcTwy7CAdb3"
     },
     {
       "album": {
@@ -2548,7 +2610,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 173463,
       "name": "Effray\u00e9e",
       "url": "https://open.spotify.com/track/4zJr6yrHTYGkZr85ndjZtc"
@@ -3500,7 +3562,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189208,
       "name": "J'ai mal",
       "url": "https://open.spotify.com/track/2oW0vvqgNUSZyET55JAGNc"
@@ -3956,7 +4018,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 262840,
       "name": "Juste une night",
       "url": "https://open.spotify.com/track/5KpNtMpYoA8TvCvfXqNFkr"
@@ -4069,6 +4131,28 @@
     },
     {
       "album": {
+        "name": "KOMA",
+        "url": "https://open.spotify.com/album/4qn6BK3QRi1kAzSS728KqG"
+      },
+      "artists": [
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        },
+        {
+          "name": "Rashel",
+          "url": "https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "KOMA",
+      "url": "https://open.spotify.com/track/56IfxRhu7CoNayLuSGaSsJ"
+    },
+    {
+      "album": {
         "name": "Konpa Paradise 4 (Wasnt me remix)",
         "url": "https://open.spotify.com/album/7dOC0qSj6TQmOlcNyCxDco"
       },
@@ -4084,7 +4168,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 179811,
       "name": "Konpa Paradise 4 - Wasnt me remix",
       "url": "https://open.spotify.com/track/7aVCFK6lDTQlaLa5voH5pf"
@@ -4842,6 +4926,28 @@
       "duration_ms": 178462,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7irKeE5J5mE58a0V6aqmNg"
+    },
+    {
+      "album": {
+        "name": "Magic Gouyad #14",
+        "url": "https://open.spotify.com/album/1hg34jThqPqzZNyg1bbV2e"
+      },
+      "artists": [
+        {
+          "name": "R Dydy",
+          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
+        },
+        {
+          "name": "Tamaryo",
+          "url": "https://open.spotify.com/artist/7ioMggRkKixyLcyg4WmOeX"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Magic Gouyad #14",
+      "url": "https://open.spotify.com/track/2JIOyhvQvc7SMx1x6Rw5cD"
     },
     {
       "album": {
@@ -7124,7 +7230,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 150000,
       "name": "Priorit\u00e9",
       "url": "https://open.spotify.com/track/5jFeFW5Ce7myS1SxLyyKQX"
@@ -7182,6 +7288,24 @@
       "duration_ms": 134962,
       "name": "P\u00e9ch\u00e9 mignon",
       "url": "https://open.spotify.com/track/12wOWWHCtlD1EFf6BrQp8w"
+    },
+    {
+      "album": {
+        "name": "Que toi",
+        "url": "https://open.spotify.com/album/2Xu6ajvv1ORJw5C2RA4bHc"
+      },
+      "artists": [
+        {
+          "name": "Fanny J",
+          "url": "https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Que toi",
+      "url": "https://open.spotify.com/track/5ruldDB4wjclrPM4f6Dacs"
     },
     {
       "album": {

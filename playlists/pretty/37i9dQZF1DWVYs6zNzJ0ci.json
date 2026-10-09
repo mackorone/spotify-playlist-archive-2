@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Caloncho y Jaze.",
-  "num_followers": 1359620,
+  "num_followers": 1359614,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "Uma Brasileira",
-        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 198238,
-      "name": "Uma Brasileira",
-      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "El Sonido Real",
         "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 385560,
       "name": "Mi Sol",
       "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "Uma Brasileira",
+        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 198238,
+      "name": "Uma Brasileira",
+      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1659,22 +1659,22 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "Pupilas Lejanas",
-        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
+        "name": "La Tierra del Desencanto",
+        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+          "name": "BlackDali",
+          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
         },
         {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+      "duration_ms": 249542,
+      "name": "La Tierra del Desencanto",
+      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "Como Un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 227265,
-      "name": "Como Un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "Zendaya",
         "url": "https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x"
       },
@@ -1731,22 +1715,38 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "La Tierra del Desencanto",
-        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
+        "name": "Como Un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL"
       },
       "artists": [
         {
-          "name": "BlackDali",
-          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
-        },
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 249542,
-      "name": "La Tierra del Desencanto",
-      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
+      "duration_ms": 227265,
+      "name": "Como Un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "Pupilas Lejanas",
+        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
       "added_at": "2026-09-11 04:59:18",

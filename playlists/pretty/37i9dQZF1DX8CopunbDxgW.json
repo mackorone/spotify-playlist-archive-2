@@ -1,13 +1,33 @@
 {
-  "description": "go tell your friends you love them \u2764\ufe0f \ud83e\udd32 metropolis is your home for the best indie dance",
-  "num_followers": 867642,
+  "description": "Swimming Paul new album keeps it cool \ud83c\udfca metropolis is your home for the best indie dance",
+  "num_followers": 867637,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAwYulRs1ERfjUMB9yegk3M7+a+/",
+  "snapshot_id": "AAAAAEYtR3h1N0m3jzK3iys21jOeAre7",
   "tracks": [
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Smiling Through The Pain 3",
+        "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 159325,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
+    },
     {
       "added_at": "2026-10-02 04:02:21",
       "album": {
@@ -41,6 +61,58 @@
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Can I Smoke In Here?",
+        "url": "https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Can I Smoke In Here?",
+      "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
+    },
+    {
+      "added_at": "2026-09-25 04:02:12",
+      "album": {
+        "name": "Loser (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 267616,
+      "name": "Loser (Fcukers Remix)",
+      "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/2oRRPG60CPbHy5FR7rdBxV"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        }
+      ],
+      "duration_ms": 216071,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/5n2RJzT9qD1PKGZap0uYdR"
+    },
+    {
       "added_at": "2026-08-21 04:02:03",
       "album": {
         "name": "Call Me",
@@ -55,6 +127,22 @@
       "duration_ms": 202500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "come to mommy",
+        "url": "https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I"
+      },
+      "artists": [
+        {
+          "name": "TEILZ",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "duration_ms": 163658,
+      "name": "potion",
+      "url": "https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w"
     },
     {
       "added_at": "2026-10-02 04:02:21",
@@ -105,24 +193,36 @@
       "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
     },
     {
-      "added_at": "2026-09-25 04:02:12",
+      "added_at": "2026-10-09 04:02:18",
       "album": {
-        "name": "Loser (Fcukers Remix)",
-        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/1AWewpb8hFbHPJmOrS9Owx"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 267616,
-      "name": "Loser (Fcukers Remix)",
-      "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
+      "duration_ms": 195692,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4LNNDH29X4ks2mxrFGfDFz"
+    },
+    {
+      "added_at": "2026-09-18 04:02:55",
+      "album": {
+        "name": "JOY (Shit You Make Me Feel)",
+        "url": "https://open.spotify.com/album/5ifEOf2h67SLAzkQyVQvhp"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 190284,
+      "name": "JOY (Shit You Make Me Feel)",
+      "url": "https://open.spotify.com/track/5IHS5zIm7YG641JTXbwyJY"
     },
     {
       "added_at": "2026-10-02 04:02:21",
@@ -177,6 +277,22 @@
       "url": "https://open.spotify.com/track/2Dypv6hOMF9aooaL4Vg47V"
     },
     {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "SUNDERLUXE",
+        "url": "https://open.spotify.com/album/4FskXcTLyLzYQK3EetODG2"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "duration_ms": 262956,
+      "name": "SOJU AGAIN",
+      "url": "https://open.spotify.com/track/4hWE6urWGn5hwlu6oF8Kib"
+    },
+    {
       "added_at": "2026-10-02 04:02:21",
       "album": {
         "name": "Make My Body Move Again",
@@ -195,22 +311,6 @@
       "duration_ms": 251272,
       "name": "Make My Body Move Again - Axel Boman Edit",
       "url": "https://open.spotify.com/track/1X5bAMGmKoHu2fYckEejRO"
-    },
-    {
-      "added_at": "2026-09-18 04:02:55",
-      "album": {
-        "name": "JOY (Shit You Make Me Feel)",
-        "url": "https://open.spotify.com/album/5ifEOf2h67SLAzkQyVQvhp"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 190284,
-      "name": "JOY (Shit You Make Me Feel)",
-      "url": "https://open.spotify.com/track/5IHS5zIm7YG641JTXbwyJY"
     },
     {
       "added_at": "2026-10-02 04:02:21",
@@ -723,62 +823,6 @@
       "duration_ms": 232727,
       "name": "moln - Finally Version",
       "url": "https://open.spotify.com/track/0wnQPvxjJPkluqxweVO5F3"
-    },
-    {
-      "added_at": "2026-08-21 04:02:03",
-      "album": {
-        "name": "Time With You",
-        "url": "https://open.spotify.com/album/5uUvqumWJGq0Uccnf7GEeW"
-      },
-      "artists": [
-        {
-          "name": "Nash Hawkins",
-          "url": "https://open.spotify.com/artist/6wzkhVbNxQuU9dWGmKLpP2"
-        }
-      ],
-      "duration_ms": 209897,
-      "name": "Time With You",
-      "url": "https://open.spotify.com/track/28HGd5meaDkTdJfwiu90PQ"
-    },
-    {
-      "added_at": "2026-09-04 04:26:07",
-      "album": {
-        "name": "The Only One (feat. Christine and the Queens)",
-        "url": "https://open.spotify.com/album/7ipyPxOUmpmSucbeEjxaPO"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 251515,
-      "name": "The Only One (feat. Christine and the Queens)",
-      "url": "https://open.spotify.com/track/4cU5HrOrG8nz95VcnVQ2YD"
-    },
-    {
-      "added_at": "2026-08-07 04:01:55",
-      "album": {
-        "name": "all my feelings",
-        "url": "https://open.spotify.com/album/7qr9cCcf29z4KvKCYC2GV2"
-      },
-      "artists": [
-        {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
-        },
-        {
-          "name": "Pollena",
-          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
-        }
-      ],
-      "duration_ms": 198246,
-      "name": "all my feelings",
-      "url": "https://open.spotify.com/track/2wimlNBThw9e01FfZcImsL"
     },
     {
       "added_at": "2026-08-14 04:02:00",
@@ -1481,42 +1525,6 @@
       "url": "https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw"
     },
     {
-      "added_at": "2026-05-01 04:01:44",
-      "album": {
-        "name": "Everything Will Be Alright",
-        "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
-    },
-    {
-      "added_at": "2026-05-15 04:01:39",
-      "album": {
-        "name": "Like It",
-        "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 266923,
-      "name": "Like It",
-      "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
-    },
-    {
       "added_at": "2026-06-19 04:16:01",
       "album": {
         "name": "Walk",
@@ -1531,22 +1539,6 @@
       "duration_ms": 241612,
       "name": "Walk",
       "url": "https://open.spotify.com/track/4YAhKZrz4S6dH4Ro4WMPdB"
-    },
-    {
-      "added_at": "2026-05-29 04:02:14",
-      "album": {
-        "name": "A Love Letter",
-        "url": "https://open.spotify.com/album/7dpG8ePi2xEQrGAIYtv0Mr"
-      },
-      "artists": [
-        {
-          "name": "MAX RAD",
-          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
-        }
-      ],
-      "duration_ms": 200841,
-      "name": "Empty Spaces",
-      "url": "https://open.spotify.com/track/7lIayjdTqnvqu7sXJvKR1Z"
     },
     {
       "added_at": "2026-05-29 04:02:14",

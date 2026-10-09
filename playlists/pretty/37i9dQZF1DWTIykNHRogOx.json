@@ -1,29 +1,13 @@
 {
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Pomme.",
-  "num_followers": 445313,
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec TeddyBear.",
+  "num_followers": 445309,
   "original_name": "Exception Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvVoc4qKAmNJwI1kv/oJEBk9WZZ",
+  "snapshot_id": "AAAAAPuBnUJ77oseTwewPOwQ9f5i9NGI",
   "tracks": [
-    {
-      "added_at": "2026-09-24 22:01:42",
-      "album": {
-        "name": "seule dans la foule",
-        "url": "https://open.spotify.com/album/5X9dDbpm5lex928d1Ih3Ia"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "seule dans la foule",
-      "url": "https://open.spotify.com/track/3UQhUj6fiwQLRIP0vxOtkZ"
-    },
     {
       "added_at": "2026-09-17 22:01:59",
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 170000,
       "name": "Te rencontrer encore",
       "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
+    },
+    {
+      "added_at": "2026-09-24 22:01:42",
+      "album": {
+        "name": "seule dans la foule",
+        "url": "https://open.spotify.com/album/5X9dDbpm5lex928d1Ih3Ia"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "seule dans la foule",
+      "url": "https://open.spotify.com/track/3UQhUj6fiwQLRIP0vxOtkZ"
     },
     {
       "added_at": "2026-09-17 22:01:59",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/5iCP3wPvrUwIZM0V2kzppV"
     },
     {
+      "added_at": "2026-10-08 22:02:12",
+      "album": {
+        "name": "Noir Jaune Rouge",
+        "url": "https://open.spotify.com/album/4ouEqlPzTzVVT91yOoXs4Y"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "Noir Jaune Rouge",
+      "url": "https://open.spotify.com/track/1pl9B1jnco2ewLmDB9a2L2"
+    },
+    {
       "added_at": "2026-09-10 22:00:49",
       "album": {
         "name": "sous influence",
@@ -103,6 +119,26 @@
       "duration_ms": 186908,
       "name": "sous influence",
       "url": "https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO"
+    },
+    {
+      "added_at": "2026-10-08 22:02:12",
+      "album": {
+        "name": "the Sound of Art",
+        "url": "https://open.spotify.com/album/7Mit6sJO0PT3XtICMqtTko"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "duration_ms": 345685,
+      "name": "Surya",
+      "url": "https://open.spotify.com/track/2IQZJUcLTe6CcTZ4Ek6YI5"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -121,6 +157,22 @@
       "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
     },
     {
+      "added_at": "2026-10-08 22:02:12",
+      "album": {
+        "name": "la maison s'effondre",
+        "url": "https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP"
+      },
+      "artists": [
+        {
+          "name": "Alma Rechtman",
+          "url": "https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "baisers puissants",
+      "url": "https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O"
+    },
+    {
       "added_at": "2026-09-10 22:00:49",
       "album": {
         "name": "Ce qu'on devient",
@@ -135,6 +187,58 @@
       "duration_ms": 229306,
       "name": "Ce qu\u2019on devient - La cl\u00e9",
       "url": "https://open.spotify.com/track/6AKgRLO2zVrFdEddw0EIWj"
+    },
+    {
+      "added_at": "2026-10-08 22:02:12",
+      "album": {
+        "name": "mon c\u0153ur",
+        "url": "https://open.spotify.com/album/5Xth6RihPf7hiP0a8pCXY6"
+      },
+      "artists": [
+        {
+          "name": "Coralie Fischer",
+          "url": "https://open.spotify.com/artist/25ci5VcVyFwZBinEPmxQFE"
+        }
+      ],
+      "duration_ms": 157290,
+      "name": "mon c\u0153ur",
+      "url": "https://open.spotify.com/track/6dvR4ZMJsNRMtOeWAFqhtB"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Qu'est-ce qu'on se ressemble",
+        "url": "https://open.spotify.com/album/3zVcFG7y0ukgdHFn8S54Na"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pariente",
+          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Qu'est-ce qu'on se ressemble",
+      "url": "https://open.spotify.com/track/1tcH4X0nYk8K9HKxG2d9A8"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Le prochain r\u00eave (feat. Styleto)",
+        "url": "https://open.spotify.com/album/1wsEpdvPcsITTV5wd0LAuv"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "duration_ms": 196660,
+      "name": "Le prochain r\u00eave (feat. Styleto)",
+      "url": "https://open.spotify.com/track/477sMUpyAj8Am3a5VLfy8p"
     },
     {
       "added_at": "2026-09-17 22:01:59",
@@ -189,22 +293,6 @@
       "url": "https://open.spotify.com/track/0paG03UHBFUMUqAcZrlZTa"
     },
     {
-      "added_at": "2026-10-01 22:02:00",
-      "album": {
-        "name": "Ressens",
-        "url": "https://open.spotify.com/album/4T4HAQoTZWeZyDwgKxpQ3b"
-      },
-      "artists": [
-        {
-          "name": "Hollysiz",
-          "url": "https://open.spotify.com/artist/6SLddo53tvP0cJdocEutfV"
-        }
-      ],
-      "duration_ms": 183010,
-      "name": "Ressens",
-      "url": "https://open.spotify.com/track/4ezg0M1I331BZVSY98TCFT"
-    },
-    {
       "added_at": "2026-09-24 22:01:42",
       "album": {
         "name": "Murailles de Chine",
@@ -239,34 +327,50 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "Qu'est-ce qu'on se ressemble",
-        "url": "https://open.spotify.com/album/3zVcFG7y0ukgdHFn8S54Na"
+        "name": "Enfin Bon",
+        "url": "https://open.spotify.com/album/4YfDoDMtsY9oeVyvcgdkJQ"
       },
       "artists": [
         {
-          "name": "Lisa Pariente",
-          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
         }
       ],
-      "duration_ms": 199400,
-      "name": "Qu'est-ce qu'on se ressemble",
-      "url": "https://open.spotify.com/track/1tcH4X0nYk8K9HKxG2d9A8"
+      "duration_ms": 175970,
+      "name": "Enfin Bon",
+      "url": "https://open.spotify.com/track/01OPB7Vn1pat5iHmof1d1W"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Juste une femme (Rendez-vous Sylvestre - Saison 2)",
+        "url": "https://open.spotify.com/album/3qXijU5DRIwNx3cCXl1dfx"
+      },
+      "artists": [
+        {
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "Juste une femme - Rendez-vous Sylvestre - Saison 2",
+      "url": "https://open.spotify.com/track/4DIXbnG6kIGmkwwPRzBOHH"
     },
     {
       "added_at": "2026-10-01 22:02:00",
       "album": {
-        "name": "Qui",
-        "url": "https://open.spotify.com/album/7lVv14cj4hKWN3KKerlL2L"
+        "name": "Ressens",
+        "url": "https://open.spotify.com/album/4T4HAQoTZWeZyDwgKxpQ3b"
       },
       "artists": [
         {
-          "name": "Nka",
-          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+          "name": "Hollysiz",
+          "url": "https://open.spotify.com/artist/6SLddo53tvP0cJdocEutfV"
         }
       ],
-      "duration_ms": 247991,
-      "name": "Qui",
-      "url": "https://open.spotify.com/track/4sqwuUeNZGR8NTIUf1I8AB"
+      "duration_ms": 183010,
+      "name": "Ressens",
+      "url": "https://open.spotify.com/track/4ezg0M1I331BZVSY98TCFT"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -283,26 +387,6 @@
       "duration_ms": 186613,
       "name": "Il faut que tu m'attendes",
       "url": "https://open.spotify.com/track/1m2gwUIMW2EtbqgmUhn9jo"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Le prochain r\u00eave (feat. Styleto)",
-        "url": "https://open.spotify.com/album/1wsEpdvPcsITTV5wd0LAuv"
-      },
-      "artists": [
-        {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
-        }
-      ],
-      "duration_ms": 196660,
-      "name": "Le prochain r\u00eave (feat. Styleto)",
-      "url": "https://open.spotify.com/track/477sMUpyAj8Am3a5VLfy8p"
     },
     {
       "added_at": "2026-09-24 22:01:42",
@@ -323,22 +407,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "Y'a un monde",
-        "url": "https://open.spotify.com/album/5LZOhA2ItAo67jrYJ5dPmV"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9 Preszow",
-          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Y'a un monde",
-      "url": "https://open.spotify.com/track/4Z5VLeJ3GGcpNKt7jBxE7y"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "Pour ce qui nous attend de mieux",
         "url": "https://open.spotify.com/album/74VybRhzx6qlglHu0lWZb6"
       },
@@ -351,6 +419,22 @@
       "duration_ms": 249480,
       "name": "Pour ce qui nous attend de mieux",
       "url": "https://open.spotify.com/track/5kcR5em23qzAuYno6IiOuX"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/59KVd55KRAsVfJZnll4Mvk"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "duration_ms": 177863,
+      "name": "dans dix ans",
+      "url": "https://open.spotify.com/track/3UtLuUgIu1112NWvRb4g4G"
     },
     {
       "added_at": "2026-09-24 22:01:42",
@@ -369,20 +453,20 @@
       "url": "https://open.spotify.com/track/2KHikG96BvB667Z34nA2e9"
     },
     {
-      "added_at": "2026-09-10 22:00:49",
+      "added_at": "2026-10-01 22:02:00",
       "album": {
-        "name": "Juste une femme (Rendez-vous Sylvestre - Saison 2)",
-        "url": "https://open.spotify.com/album/3qXijU5DRIwNx3cCXl1dfx"
+        "name": "Qui",
+        "url": "https://open.spotify.com/album/7lVv14cj4hKWN3KKerlL2L"
       },
       "artists": [
         {
-          "name": "Albin de la Simone",
-          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
         }
       ],
-      "duration_ms": 246853,
-      "name": "Juste une femme - Rendez-vous Sylvestre - Saison 2",
-      "url": "https://open.spotify.com/track/4DIXbnG6kIGmkwwPRzBOHH"
+      "duration_ms": 247991,
+      "name": "Qui",
+      "url": "https://open.spotify.com/track/4sqwuUeNZGR8NTIUf1I8AB"
     },
     {
       "added_at": "2026-09-24 22:01:42",
@@ -399,38 +483,6 @@
       "duration_ms": 226498,
       "name": "jardins",
       "url": "https://open.spotify.com/track/14BS36ETah5xAuIHVG1qBN"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Enfin Bon",
-        "url": "https://open.spotify.com/album/4YfDoDMtsY9oeVyvcgdkJQ"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Enfin Bon",
-      "url": "https://open.spotify.com/track/01OPB7Vn1pat5iHmof1d1W"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "failles",
-        "url": "https://open.spotify.com/album/59KVd55KRAsVfJZnll4Mvk"
-      },
-      "artists": [
-        {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
-        }
-      ],
-      "duration_ms": 177863,
-      "name": "dans dix ans",
-      "url": "https://open.spotify.com/track/3UtLuUgIu1112NWvRb4g4G"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -467,22 +519,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "le dernier verre",
-        "url": "https://open.spotify.com/album/77hFDBhBnkgsuH2h8OA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Lili Em",
-          "url": "https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "le dernier verre",
-      "url": "https://open.spotify.com/track/1SlMnFKyIbUPvhKHiz2Cab"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "fleur",
         "url": "https://open.spotify.com/album/35AIAUNRtCpafWqdss1Nfo"
       },
@@ -495,6 +531,26 @@
       "duration_ms": 155633,
       "name": "fleur",
       "url": "https://open.spotify.com/track/1Z4x3SgHhoizXZUBe80BzY"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Abysses",
+        "url": "https://open.spotify.com/album/2pnw6V2KJUTVp0AOZqBDSn"
+      },
+      "artists": [
+        {
+          "name": "Zin\u00e9e",
+          "url": "https://open.spotify.com/artist/6LAeGs6PiBDev5KdMdbRY3"
+        },
+        {
+          "name": "Augustin Charnet",
+          "url": "https://open.spotify.com/artist/0hzgZDnDLsLV9mlj4gJ5dF"
+        }
+      ],
+      "duration_ms": 243283,
+      "name": "Abysses",
+      "url": "https://open.spotify.com/track/2UGhYsW7MPJ52OK819ddOk"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -531,6 +587,22 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
+        "name": "On Se Quitte",
+        "url": "https://open.spotify.com/album/5YkAWX47J3uQht0bkg1YeH"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "On Se Quitte",
+      "url": "https://open.spotify.com/track/7sEsRkAw0AFVr6xXoWCNH5"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
         "name": "SOL",
         "url": "https://open.spotify.com/album/1t87d8lnJ9DT3YavkKyK1v"
       },
@@ -543,26 +615,6 @@
       "duration_ms": 181423,
       "name": "Assez",
       "url": "https://open.spotify.com/track/6hA6YMthojEQ8HDhAa97cv"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Abysses",
-        "url": "https://open.spotify.com/album/2pnw6V2KJUTVp0AOZqBDSn"
-      },
-      "artists": [
-        {
-          "name": "Zin\u00e9e",
-          "url": "https://open.spotify.com/artist/6LAeGs6PiBDev5KdMdbRY3"
-        },
-        {
-          "name": "Augustin Charnet",
-          "url": "https://open.spotify.com/artist/0hzgZDnDLsLV9mlj4gJ5dF"
-        }
-      ],
-      "duration_ms": 243283,
-      "name": "Abysses",
-      "url": "https://open.spotify.com/track/2UGhYsW7MPJ52OK819ddOk"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -615,22 +667,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "On Se Quitte",
-        "url": "https://open.spotify.com/album/5YkAWX47J3uQht0bkg1YeH"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "On Se Quitte",
-      "url": "https://open.spotify.com/track/7sEsRkAw0AFVr6xXoWCNH5"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "Toi",
         "url": "https://open.spotify.com/album/1huu5TEpezbYR6LB77ZFAL"
       },
@@ -659,22 +695,6 @@
       "duration_ms": 217813,
       "name": "le village",
       "url": "https://open.spotify.com/track/4BUkHw3lvnY8fuOgu9kRAN"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Des histoires",
-        "url": "https://open.spotify.com/album/47nTRr3m78pXAC6n7HXXSM"
-      },
-      "artists": [
-        {
-          "name": "Hollysiz",
-          "url": "https://open.spotify.com/artist/6SLddo53tvP0cJdocEutfV"
-        }
-      ],
-      "duration_ms": 135579,
-      "name": "Des histoires",
-      "url": "https://open.spotify.com/track/2KmY7aoHZnlFWYTQX4mEbf"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -815,22 +835,6 @@
       "duration_ms": 160500,
       "name": "Le oui de trop",
       "url": "https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "DANS LE LOINTAIN DE TA VOIX,",
-        "url": "https://open.spotify.com/album/4RZKuT6mq1LPZCMZ5yvtVF"
-      },
-      "artists": [
-        {
-          "name": "Lonepsi",
-          "url": "https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef"
-        }
-      ],
-      "duration_ms": 285334,
-      "name": "DANS LE LOINTAIN DE TA VOIX",
-      "url": "https://open.spotify.com/track/1OpHQ93V8O2l4v3tmqKGdx"
     }
   ],
   "unique_name": "Exception Fran\u00e7aise",

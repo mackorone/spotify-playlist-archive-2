@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Wamen",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ruthee",
   "name": "le miel",
   "tracks": [
     {
@@ -334,6 +334,24 @@
       "duration_ms": 170526,
       "name": "ALL NIGHT",
       "url": "https://open.spotify.com/track/6XuGjia8QCdV8G4PCxZNMV"
+    },
+    {
+      "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/4AW8Qd9LFw7IiFRNlSiExa"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/1qaauB7C5XIYaM79IW51k1"
     },
     {
       "album": {
@@ -3415,6 +3433,24 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4e8Ak2P2tewgLDGZcCbM19"
+      },
+      "artists": [
+        {
+          "name": "Cyb\u00e8le",
+          "url": "https://open.spotify.com/artist/0Up6w5DHU8neZ3fhIbCRBD"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173421,
+      "name": "Ensorcel\u00e9e",
+      "url": "https://open.spotify.com/track/3wRCFGQKVA8tQOPDylyIk1"
+    },
+    {
+      "album": {
         "name": "Star Magazine",
         "url": "https://open.spotify.com/album/4WR46VLHEnxNCVdUKyEKQe"
       },
@@ -5976,7 +6012,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189967,
       "name": "LAURYN HILL",
       "url": "https://open.spotify.com/track/10rQ8yfPzhD2EXc7xoIFK1"
@@ -6583,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Love 2 toi",
+        "url": "https://open.spotify.com/album/5CbfBC2XshnRXPCykVTtWd"
+      },
+      "artists": [
+        {
+          "name": "Awa Lemen",
+          "url": "https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Love 2 toi",
+      "url": "https://open.spotify.com/track/4YwJYE9xn8DSfQDnuG7aB8"
+    },
+    {
+      "album": {
         "name": "Love me",
         "url": "https://open.spotify.com/album/0IuUWUq15bzf23y3gQKMDh"
       },
@@ -6616,6 +6670,24 @@
       "duration_ms": 179175,
       "name": "LOVESHIFT",
       "url": "https://open.spotify.com/track/7bA3UbSXn7rLfe2r3PZm7r"
+    },
+    {
+      "album": {
+        "name": "Loyal",
+        "url": "https://open.spotify.com/album/1x5OUt8fwS8xbahLv99Gzm"
+      },
+      "artists": [
+        {
+          "name": "N\u00ebo",
+          "url": "https://open.spotify.com/artist/05Q3ylpPvxuuk2ivriWAlr"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118441,
+      "name": "Loyal",
+      "url": "https://open.spotify.com/track/56WbpVJodF2IsHy78rCyC2"
     },
     {
       "album": {
@@ -6778,6 +6850,24 @@
       "duration_ms": 183353,
       "name": "l\u00e2che le contr\u00f4le",
       "url": "https://open.spotify.com/track/26TKvMvqJihea2JL9BtRz4"
+    },
+    {
+      "album": {
+        "name": "l\u2019\u00e9picier",
+        "url": "https://open.spotify.com/album/0lsPXkUcscY5Lc6I50X061"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bringtown",
+          "url": "https://open.spotify.com/artist/7kMNbUyE46piIp8bZUSDVo"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180864,
+      "name": "l\u2019\u00e9picier",
+      "url": "https://open.spotify.com/track/1b8HMVhixwFZQJ08QKY7A6"
     },
     {
       "album": {
@@ -7408,7 +7498,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 220645,
       "name": "Mon Temps",
       "url": "https://open.spotify.com/track/5cJZ8QQH22y97JT02nHZ1v"
@@ -7682,7 +7772,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 141176,
       "name": "M\u00e9dusa",
       "url": "https://open.spotify.com/track/3soB4XKjo5VW2wGsq6whEo"
@@ -8852,7 +8942,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 174626,
       "name": "Plus besoin de faire semblant.",
       "url": "https://open.spotify.com/track/26yZ6r1bN4IKtqiqBPaYBX"
@@ -9312,7 +9402,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 152183,
       "name": "Que de bonnes saveurs",
       "url": "https://open.spotify.com/track/74omEMX04PwNJJggax8MwS"

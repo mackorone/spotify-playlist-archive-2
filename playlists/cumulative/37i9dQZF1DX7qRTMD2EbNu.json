@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: M.anifest & O'Kenneth",
+  "description": "Hottest bars coming live from the 233.  Cover: Itz Tiffany",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -2624,6 +2624,24 @@
       "duration_ms": 166026,
       "name": "Balling",
       "url": "https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj"
+    },
+    {
+      "album": {
+        "name": "4 DA POPPIN'",
+        "url": "https://open.spotify.com/album/7hKjdSxPxbEumo52i77huI"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176118,
+      "name": "BALOTELLI (SUPA)",
+      "url": "https://open.spotify.com/track/1XOUhnk0aG87PZ4c7MhHfU"
     },
     {
       "album": {
@@ -9481,6 +9499,28 @@
     },
     {
       "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/5TEQP37CNrQ9ZNCN7eQ7nx"
+      },
+      "artists": [
+        {
+          "name": "Itz Tiffany",
+          "url": "https://open.spotify.com/artist/1Owom9d3JLOlczXBorsQeW"
+        },
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128612,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/6KS6IlzaDum5ehR91iTNW7"
+    },
+    {
+      "album": {
         "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
         "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
       },
@@ -10030,7 +10070,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 135437,
       "name": "Johnny Sins",
       "url": "https://open.spotify.com/track/28EH27O8dYIDLUeIkir7bE"
@@ -17502,7 +17542,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 169900,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/7tqFybj2adfTc5Kcnrt2NF"

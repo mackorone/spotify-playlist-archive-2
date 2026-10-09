@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Still Burning",
+        "url": "https://open.spotify.com/album/12bUKaeIxrFPljHJGapbT7"
+      },
+      "artists": [
+        {
+          "name": "Son & Water",
+          "url": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215291,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7v1OoI0qNMLTOAytWwiVKP"
+    },
+    {
+      "album": {
         "name": "Slow Crush",
         "url": "https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU"
       },
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 142000,
       "name": "distance",
       "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 212861,
       "name": "Even In The Quiet",
       "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 186964,
       "name": "GO!",
       "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
@@ -3340,6 +3358,24 @@
       "duration_ms": 190235,
       "name": "Largo",
       "url": "https://open.spotify.com/track/7EG26r1w1cnsJdmPt27o2l"
+    },
+    {
+      "album": {
+        "name": "SECOND PLACE SUPERSTAR",
+        "url": "https://open.spotify.com/album/4QdFVBWMA7ycMozU2aFusF"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284500,
+      "name": "LAST TIME",
+      "url": "https://open.spotify.com/track/7ITBO3g6NqsnQ2FnCqosD0"
     },
     {
       "album": {
@@ -4752,6 +4788,28 @@
       "duration_ms": 270359,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o"
+    },
+    {
+      "album": {
+        "name": "P.F.S.",
+        "url": "https://open.spotify.com/album/3jjAsBP8jJNU1xhVYPhQr8"
+      },
+      "artists": [
+        {
+          "name": "Kiridox",
+          "url": "https://open.spotify.com/artist/5saO9EqfTzOo033Mzdyzmo"
+        },
+        {
+          "name": "JJ4K",
+          "url": "https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153684,
+      "name": "P.F.S.",
+      "url": "https://open.spotify.com/track/2mJo3MePpbyTMyjKVdF72Z"
     },
     {
       "album": {

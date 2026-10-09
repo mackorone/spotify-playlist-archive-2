@@ -4,7 +4,7 @@
 
 > Cover: Draganov
 
-561 songs - 1 day 5 hr 0 min
+562 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Ferga3 l'flow](https://open.spotify.com/track/5x4XZE1oBOJRBUWz4Y0iml) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 2:39 | 2024-07-13 | 2024-09-20 |
 | [FEUTAH](https://open.spotify.com/track/3J7Kmg4rbb4G3q5z5X64Rz) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [FEUTAH](https://open.spotify.com/album/7qSKmrrrE0o8mZd98Z6PSr) | 3:12 | 2024-05-10 | 2024-05-25 |
 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 | 2024-09-24 | 2025-08-29 |
-| [FICTION](https://open.spotify.com/track/73wbcZPiPGWedxVdRVm5dR) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SOSUPER](https://open.spotify.com/album/5tSUsZjO0icTcjxWs8sQ95) | 2:44 | 2026-09-15 |  |
+| [FICTION](https://open.spotify.com/track/73wbcZPiPGWedxVdRVm5dR) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SOSUPER](https://open.spotify.com/album/5tSUsZjO0icTcjxWs8sQ95) | 2:44 | 2026-09-15 | 2026-10-09 |
 | [Fidèle](https://open.spotify.com/track/0GXHaqVZPoV97zXhJ0rE7S) | [7mad](https://open.spotify.com/artist/1EuzzhJcSL4NK5vcpuUuMF) | [Fidèle](https://open.spotify.com/album/40mtyrxvEJb2Tb6zZkAbIB) | 3:01 | 2025-10-30 | 2025-11-08 |
 | [FIGHT CLUB](https://open.spotify.com/track/57hUYwfxMmWgtJ6oOyogQA) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Acceptleo](https://open.spotify.com/artist/5SeNqmLhe3EIGBpOsxqOWT) | [FIGHT CLUB](https://open.spotify.com/album/0WZJKi8phNjpDOtDEkh8nd) | 2:26 | 2026-05-14 | 2026-05-22 |
 | [Flouka](https://open.spotify.com/track/6er3lHDqA1L9IXtf8Nej9g) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Flouka](https://open.spotify.com/album/1z7XskxLNTlVN3fHS1HzuA) | 3:28 | 2022-11-14 | 2022-12-25 |
@@ -288,6 +288,7 @@
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2022-11-14 | 2022-12-13 |
 | [Lbaroud](https://open.spotify.com/track/1ummIm7Y59PnBJ39Q7oMox) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/3WgER7dzaBeJSUkmLuLuhX) | 2:56 | 2023-04-07 | 2023-12-08 |
 | [Lewandoski](https://open.spotify.com/track/5MVAnYGimyRpWDkTD6qvRB) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:29 | 2024-06-03 | 2025-02-13 |
+| [Lhouma](https://open.spotify.com/track/3cUcxgPW9sVomnspNZbaHA) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lhouma](https://open.spotify.com/album/4dlbre35ZWgCEqdgdAt70S) | 3:32 | 2026-10-08 |  |
 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 | 2023-05-20 | 2024-07-14 |
 | [Liyem](https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Liyem](https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS) | 3:00 | 2022-11-14 | 2023-01-06 |
 | [Lmanetta Khassra](https://open.spotify.com/track/0yfGPJsmXJRojgzN4Nu0PZ) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lmanetta Khassra](https://open.spotify.com/album/0q8bOqBqaQxf8Q6sAHY53N) | 3:34 | 2024-11-29 | 2025-05-02 |

@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 263439,
+  "num_followers": 263475,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-10-02 10:06:45",
       "album": {
+        "name": "Beside You",
+        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
+    },
+    {
+      "added_at": "2026-10-02 10:06:45",
+      "album": {
         "name": "come home",
         "url": "https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 203437,
       "name": "come home",
       "url": "https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv"
-    },
-    {
-      "added_at": "2026-10-02 10:06:45",
-      "album": {
-        "name": "Beside You",
-        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
     },
     {
       "added_at": "2026-10-02 10:06:45",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-10-02 10:06:45",
       "album": {
-        "name": "Spacer",
-        "url": "https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Michael Anthony",
-          "url": "https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "Spacer",
-      "url": "https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV"
-    },
-    {
-      "added_at": "2026-10-02 10:06:45",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 173554,
       "name": "Ride At Dawn",
       "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
+    },
+    {
+      "added_at": "2026-10-02 10:06:45",
+      "album": {
+        "name": "Spacer",
+        "url": "https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Michael Anthony",
+          "url": "https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "Spacer",
+      "url": "https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV"
     },
     {
       "added_at": "2026-10-02 10:06:45",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-10-02 10:06:45",
       "album": {
-        "name": "I Keep Going",
-        "url": "https://open.spotify.com/album/0fVL8fcjubrLUKItPMmCzk"
-      },
-      "artists": [
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        },
-        {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
-        }
-      ],
-      "duration_ms": 254262,
-      "name": "I Keep Going",
-      "url": "https://open.spotify.com/track/2VOUhhbIQ6P9DgUYZ93VmL"
-    },
-    {
-      "added_at": "2026-10-02 10:06:45",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0bsw6pMyquYTDMVO4BjV4e"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 201376,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu"
+    },
+    {
+      "added_at": "2026-10-02 10:06:45",
+      "album": {
+        "name": "I Keep Going",
+        "url": "https://open.spotify.com/album/0fVL8fcjubrLUKItPMmCzk"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+        }
+      ],
+      "duration_ms": 254262,
+      "name": "I Keep Going",
+      "url": "https://open.spotify.com/track/2VOUhhbIQ6P9DgUYZ93VmL"
     },
     {
       "added_at": "2026-10-02 10:06:45",

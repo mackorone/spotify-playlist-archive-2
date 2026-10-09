@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Finest collection of Malayalam Music from the past 10 years Cover : Pallichattambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,068 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,121 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 9 | [Neela Nilave \(From "RDX"\)](https://open.spotify.com/track/1HNig28114roVWfkCHk5oJ) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Neela Nilave \(From "RDX"\)](https://open.spotify.com/album/0StmeakxNJCLQw2YLRBt9g) | 4:13 |
 | 10 | [Angu Vaana Konilu \- From "ARM"](https://open.spotify.com/track/0xpeiTGSEchBhqrjDuIcSS) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb), [Manu Manjith](https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy) | [Angu Vaana Konilu \(From "ARM"\)](https://open.spotify.com/album/5lM0AnBxOAUfK5TrBstfzp) | 4:09 |
 | 11 | [Mandharapoove](https://open.spotify.com/track/3PYUbRTcQ2aXvPJaZ6A6H9) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG) | [Mandharapoove \(From "Kumari"\)](https://open.spotify.com/album/3KJipat0D3NkRxQRXATByo) | 4:00 |
-| 12 | [Uyire](https://open.spotify.com/track/6kPYrnBJubso1t47lbXvNU) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Uyire \(From "Gauthamante Radham"\)](https://open.spotify.com/album/0dCwYrUoJ5HynQ1L9DcFAw) | 3:19 |
+| 12 | [Uyire](https://open.spotify.com/track/6kPYrnBJubso1t47lbXvNU) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Uyire \(From "Gauthamante Radham"\)](https://open.spotify.com/album/0dCwYrUoJ5HynQ1L9DcFAw) | 3:19 |
 | 13 | [Lailakame](https://open.spotify.com/track/6sdFD2tvkP5Pd93y33qaQg) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Rahul Raj](https://open.spotify.com/artist/4kbWDG96QZ2HkyVl9l1EmL), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [Ezra](https://open.spotify.com/album/3JqHtKZG9rGWsmZdWhbFbR) | 4:16 |
 | 14 | [Kudukku](https://open.spotify.com/track/3QRSs8nzHXXvcQjdnx0CsJ) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Manu Manjith](https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy) | [Love Action Drama](https://open.spotify.com/album/0PyduGao02LM04po12NKcm) | 2:37 |
 | 15 | [Illuminati \- From "Aavesham"](https://open.spotify.com/track/1kFNFsAZ4iZy4vjBEtT12I) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Illuminati \(From "Aavesham"\)](https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE) | 3:32 |

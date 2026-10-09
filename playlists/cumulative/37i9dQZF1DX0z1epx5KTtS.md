@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : KOMMANDER SAMO
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
 
-321 songs - 17 hr 11 min
+322 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Avec le cœur](https://open.spotify.com/track/3sjfComvig5HKUYTd82nf8) | [Sarah Liz](https://open.spotify.com/artist/3mGnigZzxWaPaaBucXbdtT) | [Avec le cœur](https://open.spotify.com/album/5NH1NFBjHk0X9ldAZDHVVi) | 3:44 | 2023-11-23 | 2023-12-01 |
 | [Aïcha trembleeer](https://open.spotify.com/track/5CZGF2LbWH05WwBR6pBz5B) | [Dj Domi](https://open.spotify.com/artist/7aCX1VkFmFdazTE4daQI2b) | [Aïcha trembleeer](https://open.spotify.com/album/0itQXaAig0OLVsgkaClF2m) | 2:57 | 2023-10-26 | 2024-04-19 |
 | [BABAYA](https://open.spotify.com/track/63PE9Ei0tplWbkJOe2mvtV) | [l3flo](https://open.spotify.com/artist/5CIecQ1dhoYwCU0UCch4Y4), [Yop Confrérie](https://open.spotify.com/artist/0FDZKjI23KqskNVVx9vmU1), [100 Papo](https://open.spotify.com/artist/19dg3QEuepSiyqPPdwHmMj), [RUIGI BOMBE](https://open.spotify.com/artist/2IrOu1Z9CjvS9KYl4cg8eV), [RUGO](https://open.spotify.com/artist/2ggDExc2zMpm3UAblW8x74), [J\-SK](https://open.spotify.com/artist/1v1MFa4FbB2Zez6kDhC93q), [DAM’S BOY](https://open.spotify.com/artist/4X2BX1CKOqgoL0ClOnEmUv), [MISTER\-X](https://open.spotify.com/artist/3ePzGT00Ma57aRYWdEzjjV) | [YOP CONFRÉRIE IT'S THE END](https://open.spotify.com/album/49CGOt37PX91QQcWn4F5mr) | 2:21 | 2026-10-01 |  |
-| [Bara](https://open.spotify.com/track/28vRp2iPn3wtFtoHt4XgJu) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Bara](https://open.spotify.com/album/73HtPwWeCd4oOsFksDrvHZ) | 2:26 | 2026-07-30 |  |
+| [Bara](https://open.spotify.com/track/28vRp2iPn3wtFtoHt4XgJu) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Bara](https://open.spotify.com/album/73HtPwWeCd4oOsFksDrvHZ) | 2:26 | 2026-07-30 | 2026-10-09 |
 | [BBL](https://open.spotify.com/track/1OuPjyDcQxYJTJkLnsvbsX) | [ESMEY](https://open.spotify.com/artist/78K6aNk5RZ3DWfNqMqSIgu), [Mr Behi](https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF) | [BBL](https://open.spotify.com/album/29roxzFxZIiIxSDVkdgRuV) | 2:30 | 2024-11-28 | 2025-01-17 |
 | [Biakamou](https://open.spotify.com/track/0V5kD6sff0KeCYM2MT6VKH) | [Ayanne](https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl) | [Biakamou](https://open.spotify.com/album/14eGVG0vLwCoK0lVdzGuw7) | 2:59 | 2024-09-19 | 2025-11-28 |
 | [BIAMA 2 BLACK K](https://open.spotify.com/track/7K65fwVYwjWHvyxwc8vvUi) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq) | [REMINISCENCE](https://open.spotify.com/album/1vxkcusCDeE3AXMVo4nAgV) | 2:22 | 2024-09-26 | 2024-10-04 |
@@ -244,6 +244,7 @@
 | [On peut relancer](https://open.spotify.com/track/13EDSww23FnPJVumRromVz) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [On peut relancer](https://open.spotify.com/album/5J57nwOyNgvKLa1RDPLsJQ) | 2:51 | 2024-07-11 | 2024-08-23 |
 | [Ou est Dos la](https://open.spotify.com/track/68eS9kZwmS9LM8pc1c7wa6) | [Puissance 225](https://open.spotify.com/artist/39MKS7R6rFb0JwY0Nglq7t), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Team2poy](https://open.spotify.com/artist/29PYWKj290o1Mowz6cmuht), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Ou est Dos la](https://open.spotify.com/album/2WKRypsch6ggIVQzjtVO6q) | 3:45 | 2025-08-28 |  |
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 | 2022-12-09 |
+| [OWE](https://open.spotify.com/track/2O7QF5MsjkVAvfKWGZfB50) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [OWE](https://open.spotify.com/album/5el9zyFDVjZu5H5F0YGjQh) | 2:34 | 2026-10-08 |  |
 | [Où je mets tu piles](https://open.spotify.com/track/3zvjkJ8WF9T2odHvI6AWrT) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Où je mets tu piles](https://open.spotify.com/album/4afn5I3WUgxOSwNUktom5H) | 2:26 | 2025-03-06 | 2025-12-12 |
 | [Papa arrive](https://open.spotify.com/track/1623sw26SCie7IvE1yUKCp) | [Apoutchou National](https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC), [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Lumière](https://open.spotify.com/album/6DbZeMqndcEBZiJT65WbbI) | 2:56 | 2023-10-19 | 2023-12-01 |
 | [PAPA HONORÉ](https://open.spotify.com/track/3RdpwOu5Rk5hZCyq9LJwnb) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE), [Maa Bio](https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb) | [PAPA HONORÉ](https://open.spotify.com/album/3oeVZbaxJgphr0mVeDId2k) | 2:49 | 2026-06-11 |  |

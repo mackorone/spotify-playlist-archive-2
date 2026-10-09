@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Meshell Ndegeocello",
+  "description": "The best jazz new releases. Cover: Ferdi",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -334,6 +334,54 @@
       "duration_ms": 227846,
       "name": "A World Without Love",
       "url": "https://open.spotify.com/track/2zFCLeBkn4s1iO4wYHNQf7"
+    },
+    {
+      "album": {
+        "name": "Abathuthu",
+        "url": "https://open.spotify.com/album/0Tx7NZnfovKps11qh1mLTf"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202837,
+      "name": "Abathuthu",
+      "url": "https://open.spotify.com/track/7CdBGfruRsDm5lOlFsoH8q"
+    },
+    {
+      "album": {
+        "name": "Aberdeen",
+        "url": "https://open.spotify.com/album/6Djhn6LSBunJkJUZi0el1f"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        },
+        {
+          "name": "Kenny Wollesen",
+          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437933,
+      "name": "Aberdeen",
+      "url": "https://open.spotify.com/track/3iVoB8pt8vazxR7NwvvUCL"
     },
     {
       "album": {
@@ -897,6 +945,36 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        },
+        {
+          "name": "Monty Alexander",
+          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Steve Jordan",
+          "url": "https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325652,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI"
+    },
+    {
+      "album": {
         "name": "Roulette",
         "url": "https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME"
       },
@@ -1178,6 +1256,32 @@
       "duration_ms": 493093,
       "name": "Anjo de mim",
       "url": "https://open.spotify.com/track/2uT7Dgq3BL5oId4d64f0bl"
+    },
+    {
+      "album": {
+        "name": "Another Night (It's Just) ft. Theo Croker, Daru Jones, Oli Rockberger",
+        "url": "https://open.spotify.com/album/0DYW8xek5shDjDAla1Hv7i"
+      },
+      "artists": [
+        {
+          "name": "China Moses",
+          "url": "https://open.spotify.com/artist/2KqBple0Yu8pssNGNvWNmV"
+        },
+        {
+          "name": "Daru Jones",
+          "url": "https://open.spotify.com/artist/3kOGIhN1mgwbrQMgY5KV9U"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "Another Night (It's Just) ft. Theo Croker, Daru Jones, Oli Rockberger",
+      "url": "https://open.spotify.com/track/0dWT5IDit0SKvC50eKNn1w"
     },
     {
       "album": {
@@ -2784,6 +2888,24 @@
       "duration_ms": 176000,
       "name": "Buono Time",
       "url": "https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY"
+    },
+    {
+      "album": {
+        "name": "But Not For Me",
+        "url": "https://open.spotify.com/album/1IDdRfd99shwFnJzGJdvYm"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310973,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/0Ls0HlOqQtCpoPwUu5yLzc"
     },
     {
       "album": {
@@ -5138,7 +5260,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 275997,
       "name": "Don\u2019t You Want Me (with Cat Power)",
       "url": "https://open.spotify.com/track/2uadrfFrPg8kQccUr36aEc"
@@ -7064,6 +7186,40 @@
       "duration_ms": 349600,
       "name": "Gl\u00f2r",
       "url": "https://open.spotify.com/track/3AsKQkYvnehFj9JkVYdTJP"
+    },
+    {
+      "album": {
+        "name": "God Bless The Child",
+        "url": "https://open.spotify.com/album/5ifM5FKsR0JE9HdUUiTOnT"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361664,
+      "name": "God Bless The Child",
+      "url": "https://open.spotify.com/track/2f8tsXV3RfgXCkNLWdzmVV"
     },
     {
       "album": {
@@ -10308,6 +10464,10 @@
         {
           "name": "Melissa Aldana",
           "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        },
+        {
+          "name": "Gonzalo Rubalcaba",
+          "url": "https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F"
         }
       ],
       "date_added": "2026-10-02",
@@ -10444,7 +10604,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 182214,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6SDFVOLzOD6E38hrY967am"
@@ -11474,7 +11634,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 255500,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/025oYIKmq0W2h5msflcaB9"
@@ -15176,7 +15336,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 159813,
       "name": "Perhaps, Perhaps, Perhaps - Live",
       "url": "https://open.spotify.com/track/3a2y73CXhJ06Kgw4zJqu84"
@@ -16380,7 +16540,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 134777,
       "name": "Sangria",
       "url": "https://open.spotify.com/track/3X1xdtaTyAarRAx2338h9o"
@@ -18283,6 +18443,28 @@
     },
     {
       "album": {
+        "name": "the Sound of Art",
+        "url": "https://open.spotify.com/album/7Mit6sJO0PT3XtICMqtTko"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345685,
+      "name": "Surya",
+      "url": "https://open.spotify.com/track/2IQZJUcLTe6CcTZ4Ek6YI5"
+    },
+    {
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -18714,7 +18896,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 151260,
       "name": "Tell Me More And More And Then Some - dublon Remix",
       "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
@@ -21014,7 +21196,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 147922,
       "name": "Vite!",
       "url": "https://open.spotify.com/track/5RTC4JhLVOxDY5Le6xFTht"

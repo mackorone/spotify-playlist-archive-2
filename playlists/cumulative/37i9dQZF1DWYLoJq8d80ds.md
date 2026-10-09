@@ -4,7 +4,7 @@
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-233 songs - 12 hr 58 min
+234 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Esta Noche Contigo](https://open.spotify.com/track/33ODbW4i7C79jap5HmjaIa) | [Amantes Inocentes](https://open.spotify.com/artist/6R4bupWR3q13uugfJoAojF), [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Esta Noche Contigo](https://open.spotify.com/album/6ngwGtxMlW9HNm74OJtQNu) | 3:20 | 2026-07-20 |  |
 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 | 2021-12-31 | 2026-07-21 |
 | [Eterno Amor \(En Vivo\)](https://open.spotify.com/track/2uSn8VGgamdhCKDqdasxHQ) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Eterno Amor \(En Vivo\)](https://open.spotify.com/album/6gJiMu8AMgn0ydw4WDDefD) | 4:08 | 2024-04-11 | 2026-07-21 |
+| [EX DE VERDAD](https://open.spotify.com/track/1gTnxn7NGz6VYh4jzUGrZ7) | [Ké Chamamé](https://open.spotify.com/artist/1tSZYYnfFI5tKfkrI10KIM), [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [EX DE VERDAD](https://open.spotify.com/album/56KwIdmWFE9f775D93On0i) | 3:12 | 2026-10-08 |  |
 | [Febrero Es Carnaval](https://open.spotify.com/track/5sGFvenxnClUZ6cV89v6Gh) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Festivalero](https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR) | 3:25 | 2022-07-01 | 2023-10-06 |
 | [Febrero Es Carnaval](https://open.spotify.com/track/3P2jmXKi39mCteMPCY8npI) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt), [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/5TyDRD791MEoJfshww4v4K) | 3:23 | 2021-12-31 | 2022-07-29 |
 | [Fuerte No Soy](https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Fuerte No Soy](https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J) | 3:28 | 2024-07-19 | 2026-07-21 |

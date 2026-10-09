@@ -4,7 +4,7 @@
 
 > Close Mic, Muted Strings, Cozy Vibes
 
-105 songs - 4 hr 25 min
+108 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bloom Later](https://open.spotify.com/track/0IoJYjMhJhOiwXqnkkBWoJ) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Bloom Later](https://open.spotify.com/album/4UugupuV93QB32rdUWZciN) | 3:00 | 2026-07-24 |  |
 | [Bramble](https://open.spotify.com/track/6J2H73IdyNJtynPkd3uHG1) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Bramble](https://open.spotify.com/album/01ZnOfWcHnjhobloNWPxac) | 2:53 | 2026-08-24 |  |
 | [Chalford](https://open.spotify.com/track/6CbJQ7uTJjW3RjXBG9sU0o) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Chalford](https://open.spotify.com/album/4QeoYBpW1fA9D9DwxIm06j) | 2:59 | 2026-08-07 |  |
+| [Circumstances](https://open.spotify.com/track/1gwtkhjfBcsdZom7szIDnB) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Circumstances](https://open.spotify.com/album/40y5seW3eWuNEoBBLHkggz) | 2:08 | 2026-10-09 |  |
 | [Does everyone hate me, or do I just need to go to sleep?](https://open.spotify.com/track/0ve62dWOJlOLKby2BnJLTE) | [Monty Hancock](https://open.spotify.com/artist/3aYlsneQ7p6SOVfKONAUxP) | [Does everyone hate me, or do I just need to go to sleep?](https://open.spotify.com/album/04r5zXARSkG4u3ouvJ2XYr) | 2:09 | 2026-09-18 |  |
 | [Elysium](https://open.spotify.com/track/0FjEbmuVgksEG1TN1eE0Dk) | [Charlie Westbrook](https://open.spotify.com/artist/7fbHzE2OKP2VIVIr5RZe0E) | [Elysium](https://open.spotify.com/album/07H5h0uPqEH3HVGc2tiGLk) | 2:46 | 2026-07-24 |  |
 | [Floating Between Stars](https://open.spotify.com/track/1bS7vdDehLQ2KDtQfZB2UK) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Floating Between Stars](https://open.spotify.com/album/7g8FrNoShv3oyiiQZwSHSq) | 2:13 | 2026-07-24 |  |
@@ -50,6 +51,7 @@
 | [It Goes On](https://open.spotify.com/track/6nV6Uj6Mh0nWSGaVCaqcms) | [Noreve](https://open.spotify.com/artist/6bn4pbd1Z3aPJGELTJHYd0) | [It Goes On](https://open.spotify.com/album/6pw6WtTINiZsvVZoyM1txB) | 2:26 | 2026-07-24 |  |
 | [Ivory](https://open.spotify.com/track/0vYdi1h6DxGJPgW0pWeIVX) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Ivory](https://open.spotify.com/album/7FXFGYECtxgM1sNpujpsJP) | 2:50 | 2026-07-24 |  |
 | [Katla](https://open.spotify.com/track/2P2T6tJOvgeox9GhPlYMKu) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Katla](https://open.spotify.com/album/4oTNLxpqANKRBpmojhfoNB) | 2:35 | 2026-08-24 |  |
+| [Le quai](https://open.spotify.com/track/0qXzWtCBDW97OQlAlveZov) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Le quai](https://open.spotify.com/album/5d8xqYQFtFiH1Me7LQ9goX) | 2:33 | 2026-10-09 |  |
 | [Le Silence](https://open.spotify.com/track/3UQoMxRBowlYY6Bkp5zskI) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Le Silence](https://open.spotify.com/album/1UtTt0MEqC4FM43PCtDDpe) | 2:10 | 2026-08-07 |  |
 | [Letting Go](https://open.spotify.com/track/4zCMKyYplY8f3EvPMRZWuz) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Letting Go](https://open.spotify.com/album/2bEhEPKQWwJ3u8acrFtJLK) | 2:16 | 2026-07-24 |  |
 | [Like Falling Leaves](https://open.spotify.com/track/4dcq8Vl6dEmLSlvp9JmRsB) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Like Falling Leaves](https://open.spotify.com/album/0ZksxbzR9FmTtkFN5JiCf5) | 3:12 | 2026-10-02 |  |
@@ -106,6 +108,7 @@
 | [The Words We Share](https://open.spotify.com/track/2hlEAFGbo8c7jxkzcSewLL) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [The Words We Share](https://open.spotify.com/album/52o4KzBkl33TP9WfWkN8yV) | 2:44 | 2026-10-02 |  |
 | [Through It All](https://open.spotify.com/track/6xSNZtpN8OhzabYXKqHI7i) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Through It All](https://open.spotify.com/album/4RF3O2mvPaB5Te5GGeJQpZ) | 3:17 | 2026-07-24 |  |
 | [Timing](https://open.spotify.com/track/3FprG4ou1vtAdvQO2ZeiLr) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Timing](https://open.spotify.com/album/7dWIQZAvUFp0VCVdsIyzOr) | 2:10 | 2026-07-24 |  |
+| [To Be Young Once More](https://open.spotify.com/track/3Tu5wM5RAjKXDY6ixC4F4R) | [Robin Klein](https://open.spotify.com/artist/1O4DJwDDiuFxnZuxRDQy8Y) | [To Be Young Once More](https://open.spotify.com/album/3P0akqs8ZlH56CPYyGgkmr) | 2:28 | 2026-10-09 |  |
 | [Trying, Still](https://open.spotify.com/track/51uthFdDTh8zU3IE9EjM4M) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Trying, Still](https://open.spotify.com/album/4AXEjsqoGa1V63cbKXwwPM) | 2:45 | 2026-10-02 |  |
 | [Wallflower](https://open.spotify.com/track/1LOBr57oFOqCuepGRjQvWK) | [Følgesvend](https://open.spotify.com/artist/3HFQhWHwDYkmK1x7WkKO78) | [Wallflower](https://open.spotify.com/album/0NZ9QKR2dpL5TTwoimI6zS) | 2:17 | 2026-07-24 |  |
 | [Wander](https://open.spotify.com/track/0ies7PA42O8rBca3oxSIAy) | [Owen Pearson](https://open.spotify.com/artist/30Zx8PMqcPaUdyifi9tBeY) | [Wander](https://open.spotify.com/album/5S8GjwHjUhXff9T7tpc8MY) | 2:35 | 2026-07-24 |  |

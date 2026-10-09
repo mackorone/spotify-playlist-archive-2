@@ -1,36 +1,32 @@
 {
-  "description": "Hindi hai, Indie hai! Cover- Anurag Vashisht",
-  "num_followers": 135556,
+  "description": "Hindi hai, Indie hai! Cover- Aanchal Tyagi",
+  "num_followers": 135561,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGCnGw1Fyap7PFXwtoBk/mfeJMoa",
+  "snapshot_id": "AAAAAMSae9c1lYO7PYrEUlzEi4FuoLuo",
   "tracks": [
     {
-      "added_at": "2026-09-15 12:10:49",
+      "added_at": "2026-10-08 18:05:08",
       "album": {
-        "name": "Sansein Kaha",
-        "url": "https://open.spotify.com/album/6WtIheU1W6bMcepFKkMneK"
+        "name": "HISAAB",
+        "url": "https://open.spotify.com/album/6N8K0OL3KMROwl2EwewZ26"
       },
       "artists": [
         {
-          "name": "Anurag Vashisht",
-          "url": "https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c"
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
         },
         {
-          "name": "jeevana.",
-          "url": "https://open.spotify.com/artist/1EGJR0noOlMQQP0xHcpThj"
-        },
-        {
-          "name": "Zaroon",
-          "url": "https://open.spotify.com/artist/18JGYRxX2ZTSo86VoifaPR"
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Sansein Kaha",
-      "url": "https://open.spotify.com/track/04O5wfhFGsbYhywJN1TS2r"
+      "duration_ms": 143644,
+      "name": "HISAAB",
+      "url": "https://open.spotify.com/track/0R9xT7EWcutJxpCu5PKRUq"
     },
     {
       "added_at": "2026-09-15 12:10:49",
@@ -83,6 +79,30 @@
       "duration_ms": 198831,
       "name": "Zulfein",
       "url": "https://open.spotify.com/track/6bwIkFBUUMG7upgPoVlTHt"
+    },
+    {
+      "added_at": "2026-09-15 12:10:49",
+      "album": {
+        "name": "Sansein Kaha",
+        "url": "https://open.spotify.com/album/6WtIheU1W6bMcepFKkMneK"
+      },
+      "artists": [
+        {
+          "name": "Anurag Vashisht",
+          "url": "https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c"
+        },
+        {
+          "name": "jeevana.",
+          "url": "https://open.spotify.com/artist/1EGJR0noOlMQQP0xHcpThj"
+        },
+        {
+          "name": "Zaroon",
+          "url": "https://open.spotify.com/artist/18JGYRxX2ZTSo86VoifaPR"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Sansein Kaha",
+      "url": "https://open.spotify.com/track/04O5wfhFGsbYhywJN1TS2r"
     },
     {
       "added_at": "2026-09-15 12:10:49",
@@ -899,6 +919,22 @@
     {
       "added_at": "2026-09-15 12:10:49",
       "album": {
+        "name": "Tu Hi Hoon",
+        "url": "https://open.spotify.com/album/6kw8NgTpRYKkyCBe1vma1n"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "duration_ms": 221769,
+      "name": "Tu Hi Hoon",
+      "url": "https://open.spotify.com/track/5jXJkm6vmIbtAvHD5QIsa4"
+    },
+    {
+      "added_at": "2026-09-15 12:10:49",
+      "album": {
         "name": "Qareeb",
         "url": "https://open.spotify.com/album/67TmrfJ0pim4hq3kRIOznG"
       },
@@ -919,22 +955,6 @@
       "duration_ms": 195857,
       "name": "Qareeb",
       "url": "https://open.spotify.com/track/35hwpi55PUyJFXjrodHPa0"
-    },
-    {
-      "added_at": "2026-09-15 12:10:49",
-      "album": {
-        "name": "Tu Hi Hoon",
-        "url": "https://open.spotify.com/album/6kw8NgTpRYKkyCBe1vma1n"
-      },
-      "artists": [
-        {
-          "name": "Navjot Ahuja",
-          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
-        }
-      ],
-      "duration_ms": 221769,
-      "name": "Tu Hi Hoon",
-      "url": "https://open.spotify.com/track/5jXJkm6vmIbtAvHD5QIsa4"
     },
     {
       "added_at": "2026-09-15 12:10:49",
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2026-09-15 12:10:49",
       "album": {
-        "name": "Aaja Re Piya",
-        "url": "https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Khushi Pareek",
-          "url": "https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "Aaja Re Piya",
-      "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
-    },
-    {
-      "added_at": "2026-09-15 12:10:49",
-      "album": {
         "name": "Stay Vol. 1",
         "url": "https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql"
       },
@@ -1199,6 +1199,26 @@
       "duration_ms": 174773,
       "name": "Tere Gaon",
       "url": "https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9"
+    },
+    {
+      "added_at": "2026-09-15 12:10:49",
+      "album": {
+        "name": "Aaja Re Piya",
+        "url": "https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Khushi Pareek",
+          "url": "https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "Aaja Re Piya",
+      "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
     },
     {
       "added_at": "2026-09-15 12:10:49",
@@ -1395,6 +1415,38 @@
     {
       "added_at": "2026-09-15 12:10:49",
       "album": {
+        "name": "Farak Nahi Padta",
+        "url": "https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "duration_ms": 139312,
+      "name": "Farak Nahi Padta",
+      "url": "https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH"
+    },
+    {
+      "added_at": "2026-09-15 12:10:49",
+      "album": {
+        "name": "Baaton",
+        "url": "https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 125231,
+      "name": "Baaton",
+      "url": "https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK"
+    },
+    {
+      "added_at": "2026-09-15 12:10:49",
+      "album": {
         "name": "Dear Maahiya (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv"
       },
@@ -1419,38 +1471,6 @@
     {
       "added_at": "2026-09-15 12:10:49",
       "album": {
-        "name": "Baaton",
-        "url": "https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 125231,
-      "name": "Baaton",
-      "url": "https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK"
-    },
-    {
-      "added_at": "2026-09-15 12:10:49",
-      "album": {
-        "name": "Farak Nahi Padta",
-        "url": "https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ"
-      },
-      "artists": [
-        {
-          "name": "KhoslaRaghu",
-          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
-        }
-      ],
-      "duration_ms": 139312,
-      "name": "Farak Nahi Padta",
-      "url": "https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH"
-    },
-    {
-      "added_at": "2026-09-15 12:10:49",
-      "album": {
         "name": "Sun Re Piya",
         "url": "https://open.spotify.com/album/2uh1rvhElikYUKAswxKd8P"
       },
@@ -1467,22 +1487,6 @@
       "duration_ms": 145902,
       "name": "Sun Re Piya",
       "url": "https://open.spotify.com/track/4F1OgFikCujerIVXgUhY5A"
-    },
-    {
-      "added_at": "2026-09-15 12:10:49",
-      "album": {
-        "name": "Barsa",
-        "url": "https://open.spotify.com/album/45JKe1xmPgQ91MZd2kf08f"
-      },
-      "artists": [
-        {
-          "name": "Achint",
-          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
-        }
-      ],
-      "duration_ms": 206088,
-      "name": "Barsa",
-      "url": "https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA"
     }
   ],
   "unique_name": "hIndies",

@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 161785,
       "name": "Lucid",
       "url": "https://open.spotify.com/track/2spoQnHvSANa0W6d567SjA"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 132281,
       "name": "Maze",
       "url": "https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc"
@@ -1817,6 +1817,28 @@
     },
     {
       "album": {
+        "name": "presence",
+        "url": "https://open.spotify.com/album/5wnAUPUCDYTpEymJLaPlP9"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "Shalimar",
+          "url": "https://open.spotify.com/artist/5Ngg8MO8stbuc1b0AcZJzX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "presence",
+      "url": "https://open.spotify.com/track/4u7xzdVBCfjg1hXowA4mRJ"
+    },
+    {
+      "album": {
         "name": "rainfall",
         "url": "https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s"
       },
@@ -1850,6 +1872,24 @@
       "duration_ms": 125714,
       "name": "Rainseat",
       "url": "https://open.spotify.com/track/7Aw4NIhyuW9hyF5WxtKN9m"
+    },
+    {
+      "album": {
+        "name": "Ralph",
+        "url": "https://open.spotify.com/album/7raNZPikMnHZlangXzDEuZ"
+      },
+      "artists": [
+        {
+          "name": "agot-w",
+          "url": "https://open.spotify.com/artist/7kDzFaRe9l7To45Hqo6Kdh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Ralph",
+      "url": "https://open.spotify.com/track/0660Qq6M7YZRR4I6i0wUjf"
     },
     {
       "album": {
@@ -1994,6 +2034,24 @@
       "duration_ms": 127024,
       "name": "slow turn",
       "url": "https://open.spotify.com/track/7zbGD2aCLp4ZaJnyk7i8FT"
+    },
+    {
+      "album": {
+        "name": "Small Canoe",
+        "url": "https://open.spotify.com/album/6A55D2kEMACzvHxh0aQqwF"
+      },
+      "artists": [
+        {
+          "name": "TimberRidge",
+          "url": "https://open.spotify.com/artist/0Dhp5LBunI0YQAkPwshY0k"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Small Canoe",
+      "url": "https://open.spotify.com/track/3lE3WGr3EfJNqR1NsLQxlv"
     },
     {
       "album": {
@@ -2242,7 +2300,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 146781,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl"

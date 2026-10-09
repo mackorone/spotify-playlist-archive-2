@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: FEZZO",
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Liu",
   "name": "mint brasil",
   "tracks": [
     {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 216861,
       "name": "Anaconda",
       "url": "https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 149826,
       "name": "Beatzinho de Bandido",
       "url": "https://open.spotify.com/track/35nEJJMKB3W30qVF4g7hE1"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 125760,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/63qvrFN0f14mwyzRVmvaL2"
@@ -3409,6 +3409,28 @@
     },
     {
       "album": {
+        "name": "Hot Girl Walk",
+        "url": "https://open.spotify.com/album/5GUlkDaeCQeSCr2JUcp9yp"
+      },
+      "artists": [
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        },
+        {
+          "name": "NO STATIC",
+          "url": "https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Hot Girl Walk",
+      "url": "https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25"
+    },
+    {
+      "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
@@ -3868,7 +3890,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 401777,
       "name": "Infinity - ANNA remix",
       "url": "https://open.spotify.com/track/5sdjTwc8YOrgGCV7sl7jq5"
@@ -5004,6 +5026,24 @@
       "duration_ms": 283337,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0G5Lb2yYO6OgGLKOEiGJoE"
+    },
+    {
+      "album": {
+        "name": "Move in Circles",
+        "url": "https://open.spotify.com/album/5pV2hOCFNokcZddSKR8ki5"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "Move in Circles",
+      "url": "https://open.spotify.com/track/6cpGJEvLFVtDVUCI0K15qN"
     },
     {
       "album": {
@@ -6827,6 +6867,24 @@
     },
     {
       "album": {
+        "name": "Strike It",
+        "url": "https://open.spotify.com/album/1yg4lcE4J3cJ99V1LdlFa8"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180465,
+      "name": "Strike It",
+      "url": "https://open.spotify.com/track/6nhjJJIr5DwJqzquDnWeQJ"
+    },
+    {
+      "album": {
         "name": "Stuka Ju87",
         "url": "https://open.spotify.com/album/22lPWJ6vAFKQxKHerUFquF"
       },
@@ -7282,6 +7340,28 @@
       "duration_ms": 205000,
       "name": "This House",
       "url": "https://open.spotify.com/track/3WEC8jQPjFxwFxNknGGzMm"
+    },
+    {
+      "album": {
+        "name": "Tilldawn",
+        "url": "https://open.spotify.com/album/3I6qRUaP3wXRqCx5jW8OSm"
+      },
+      "artists": [
+        {
+          "name": "Bauhouse",
+          "url": "https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz"
+        },
+        {
+          "name": "Onsoul",
+          "url": "https://open.spotify.com/artist/0hl7SkAKvTQX1tkLCSVwIa"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Tilldawn",
+      "url": "https://open.spotify.com/track/4u4e4k3WFfEk3pieHtev4z"
     },
     {
       "album": {

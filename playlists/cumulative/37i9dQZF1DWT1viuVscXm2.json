@@ -2861,6 +2861,28 @@
     },
     {
       "album": {
+        "name": "FRUTA Y T\u00c9 (ma\u00f1ana es hoy)",
+        "url": "https://open.spotify.com/album/2V9KxvtYH3viTwneYcEV7U"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Alanys Lagos",
+          "url": "https://open.spotify.com/artist/7zYKWRlWkeaKjRLAeEsJzS"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225856,
+      "name": "FRUTA Y T\u00c9 (ma\u00f1ana es hoy)",
+      "url": "https://open.spotify.com/track/7huDzyOO3t3r92s94ybr5B"
+    },
+    {
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -4361,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "Lo Peor",
+        "url": "https://open.spotify.com/album/4CcjRXWG9whaUeornuPuA6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159136,
+      "name": "Lo Peor",
+      "url": "https://open.spotify.com/track/3ZdJkHecQ8W8TrkefZBOrG"
+    },
+    {
+      "album": {
         "name": "Lo Peor De Tu Vida",
         "url": "https://open.spotify.com/album/1VtnUEH1s82o3b0DXgjElV"
       },
@@ -4794,7 +4834,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 195466,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
@@ -8666,7 +8706,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 240853,
       "name": "Una Cerveza",
       "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"

@@ -2,7 +2,7 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bias K\-Pop boy group? \(Cover: BOYNEXTDOOR\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bias K\-Pop boy group? \(Cover: N.Flying\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
 887 songs - 1 day 23 hr 47 min
 

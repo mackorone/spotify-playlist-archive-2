@@ -1,13 +1,65 @@
 {
-  "description": "The home of Canadian country music. Cover: Madeline Merlo",
+  "description": "The home of Canadian country music. Cover: The Prairie States",
   "num_followers": 84550,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZuSYCEy9f/PCb/TZn+cAcTdC1U",
+  "snapshot_id": "AAAAAFamHmHmckvVM4gzN6TcByHLadUW",
   "tracks": [
+    {
+      "added_at": "2026-10-09 04:03:54",
+      "album": {
+        "name": "My First Rodeo",
+        "url": "https://open.spotify.com/album/5Es88oc5apsaMJzoPedOdu"
+      },
+      "artists": [
+        {
+          "name": "The Prairie States",
+          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
+        }
+      ],
+      "duration_ms": 196928,
+      "name": "My First Rodeo",
+      "url": "https://open.spotify.com/track/557iWce8PD0cY22ldVhCGV"
+    },
+    {
+      "added_at": "2026-10-09 04:03:54",
+      "album": {
+        "name": "Little Miss Twain - The Places I'll Go",
+        "url": "https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 179756,
+      "name": "Who Do You Love (feat. The Milk Carton Kids)",
+      "url": "https://open.spotify.com/track/0CkRBKSBFHVsktNbT1qz2M"
+    },
+    {
+      "added_at": "2026-09-11 04:03:11",
+      "album": {
+        "name": "Hey Honey",
+        "url": "https://open.spotify.com/album/6CarxVqPawlmyU124cd9zK"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 193679,
+      "name": "Hey Honey",
+      "url": "https://open.spotify.com/track/3lOMy1CbiWhYPV68d9fbwn"
+    },
     {
       "added_at": "2026-10-02 04:04:01",
       "album": {
@@ -39,6 +91,70 @@
       "duration_ms": 183765,
       "name": "Good By Now",
       "url": "https://open.spotify.com/track/714MAXEt0p1j3XDCyJ9uZT"
+    },
+    {
+      "added_at": "2026-09-25 04:04:21",
+      "album": {
+        "name": "Drink Things Through",
+        "url": "https://open.spotify.com/album/5c99X6OCf482Ltytfiz6tj"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 193242,
+      "name": "Drink Things Through",
+      "url": "https://open.spotify.com/track/12GA1vVDSCMEZ1MmpeeMeu"
+    },
+    {
+      "added_at": "2026-10-09 04:03:54",
+      "album": {
+        "name": "Cheap Beer",
+        "url": "https://open.spotify.com/album/1ukJFcwrKiQlK9qswCCXmc"
+      },
+      "artists": [
+        {
+          "name": "Janna Leduc",
+          "url": "https://open.spotify.com/artist/2K4XiuMfmMNGrzpzy7Y6Xf"
+        }
+      ],
+      "duration_ms": 200851,
+      "name": "Cheap Beer",
+      "url": "https://open.spotify.com/track/2iqCMUkWA4qn91fofWPufe"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "She Rides Away",
+        "url": "https://open.spotify.com/album/0YFxUDMq25DPlwAmO5ngTx"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "duration_ms": 233505,
+      "name": "She Rides Away",
+      "url": "https://open.spotify.com/track/7IXOQA89n7Rx7igjjHUl7n"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "Chem History",
+        "url": "https://open.spotify.com/album/0v90juXnWglwaqBr9XSuBN"
+      },
+      "artists": [
+        {
+          "name": "Hailey Benedict",
+          "url": "https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce"
+        }
+      ],
+      "duration_ms": 188256,
+      "name": "Chem History",
+      "url": "https://open.spotify.com/track/1jhnfm4tSokvx0zJH0LaYf"
     },
     {
       "added_at": "2026-10-02 04:04:01",
@@ -73,20 +189,20 @@
       "url": "https://open.spotify.com/track/2Qp3PHliV7wObsqRBF20ZU"
     },
     {
-      "added_at": "2026-10-02 04:04:01",
+      "added_at": "2026-09-04 04:03:31",
       "album": {
-        "name": "She Rides Away",
-        "url": "https://open.spotify.com/album/0YFxUDMq25DPlwAmO5ngTx"
+        "name": "Me Without My Hometown",
+        "url": "https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd"
       },
       "artists": [
         {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
         }
       ],
-      "duration_ms": 233505,
-      "name": "She Rides Away",
-      "url": "https://open.spotify.com/track/7IXOQA89n7Rx7igjjHUl7n"
+      "duration_ms": 215000,
+      "name": "Me Without My Hometown",
+      "url": "https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC"
     },
     {
       "added_at": "2026-09-25 04:04:21",
@@ -107,38 +223,6 @@
     {
       "added_at": "2026-10-02 04:04:01",
       "album": {
-        "name": "Chem History",
-        "url": "https://open.spotify.com/album/0v90juXnWglwaqBr9XSuBN"
-      },
-      "artists": [
-        {
-          "name": "Hailey Benedict",
-          "url": "https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce"
-        }
-      ],
-      "duration_ms": 188256,
-      "name": "Chem History",
-      "url": "https://open.spotify.com/track/1jhnfm4tSokvx0zJH0LaYf"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "Hey Honey",
-        "url": "https://open.spotify.com/album/6CarxVqPawlmyU124cd9zK"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 193679,
-      "name": "Hey Honey",
-      "url": "https://open.spotify.com/track/3lOMy1CbiWhYPV68d9fbwn"
-    },
-    {
-      "added_at": "2026-10-02 04:04:01",
-      "album": {
         "name": "Thin Line",
         "url": "https://open.spotify.com/album/4TRXTcXaicX12fios8graX"
       },
@@ -151,22 +235,6 @@
       "duration_ms": 190813,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1VDnj7Alaf3tnkSVy9ZyPv"
-    },
-    {
-      "added_at": "2026-09-25 04:04:21",
-      "album": {
-        "name": "Drink Things Through",
-        "url": "https://open.spotify.com/album/5c99X6OCf482Ltytfiz6tj"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 193242,
-      "name": "Drink Things Through",
-      "url": "https://open.spotify.com/track/12GA1vVDSCMEZ1MmpeeMeu"
     },
     {
       "added_at": "2026-09-25 04:04:21",
@@ -215,22 +283,6 @@
       "duration_ms": 176024,
       "name": "Tears from the Dive Bar!",
       "url": "https://open.spotify.com/track/0QAGdhBBpvqMpvzsPplyi6"
-    },
-    {
-      "added_at": "2026-09-04 04:03:31",
-      "album": {
-        "name": "Me Without My Hometown",
-        "url": "https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Me Without My Hometown",
-      "url": "https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC"
     },
     {
       "added_at": "2026-10-02 04:04:01",
@@ -1821,22 +1873,6 @@
       "url": "https://open.spotify.com/track/0ReSM5YJqbkHQuf7Tv7jJ9"
     },
     {
-      "added_at": "2026-07-24 04:03:36",
-      "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198331,
-      "name": "Stranger Things",
-      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
-    },
-    {
       "added_at": "2026-07-31 04:03:45",
       "album": {
         "name": "I Hope You Love Me",
@@ -2327,26 +2363,6 @@
     {
       "added_at": "2026-07-10 04:03:19",
       "album": {
-        "name": "Faded Blue Jeans",
-        "url": "https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Josh Homme",
-          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
-        }
-      ],
-      "duration_ms": 151962,
-      "name": "Faded Blue Jeans (feat. Josh Homme)",
-      "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
         "name": "Being Free",
         "url": "https://open.spotify.com/album/4QqwaUHjqb9QsoP4F2fqHe"
       },
@@ -2575,26 +2591,6 @@
       "duration_ms": 219345,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
-    },
-    {
-      "added_at": "2026-06-26 08:00:22",
-      "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 255883,
-      "name": "Little Miss Twain (feat. Tanya Tucker)",
-      "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
     },
     {
       "added_at": "2026-06-26 08:00:22",

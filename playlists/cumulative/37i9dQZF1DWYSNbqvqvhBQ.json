@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 272127,
       "name": "A Rainy Night in Soho",
       "url": "https://open.spotify.com/track/04dQoUrmSfFxoD00GiMO51"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 205523,
       "name": "Break Up in Reverse",
       "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
@@ -1812,6 +1812,24 @@
       "duration_ms": 182400,
       "name": "Broken Promises",
       "url": "https://open.spotify.com/track/269deQv0LzWjMK4R1Zvb2b"
+    },
+    {
+      "album": {
+        "name": "I: Keep The Fire On",
+        "url": "https://open.spotify.com/album/73PTFhVbYlekS974F7GmSG"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383609,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/3JSNvRfLyEk2JzJgira7rP"
     },
     {
       "album": {
@@ -2534,6 +2552,24 @@
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
+    },
+    {
+      "album": {
+        "name": "Cold Blue Dawn",
+        "url": "https://open.spotify.com/album/0qySPcD4CsgE4ilIDAtKF1"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275113,
+      "name": "Cold Blue Dawn",
+      "url": "https://open.spotify.com/track/08EqJFDJCaBkDIMLO6Mrw2"
     },
     {
       "album": {
@@ -10012,10 +10048,28 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 247694,
       "name": "My Whole World",
       "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
+    },
+    {
+      "album": {
+        "name": "Man Of The World",
+        "url": "https://open.spotify.com/album/467TjIQsv6TTtsgNXLIycq"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171415,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/5tXv5cksD6D8l6HSP6xhoX"
     },
     {
       "album": {
@@ -14785,6 +14839,24 @@
     },
     {
       "album": {
+        "name": "The Brightest",
+        "url": "https://open.spotify.com/album/26zzLxnYQtJY6D7ORYCH8d"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249049,
+      "name": "The Brightest",
+      "url": "https://open.spotify.com/track/76kuiwPVPJLlw2glwy5RvR"
+    },
+    {
+      "album": {
         "name": "The City",
         "url": "https://open.spotify.com/album/4AGhuWCKdBxE7fmZnyF1Zm"
       },
@@ -15530,7 +15602,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 214741,
       "name": "This Woman's Work",
       "url": "https://open.spotify.com/track/7IqYgI6v4mlmPK9RVYaVZ7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,072 likes - 275 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,281 likes - 275 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 32 | [Umbra](https://open.spotify.com/track/0SolkK5zS11XWr6GVCf6oC) | [Celestial Echoes](https://open.spotify.com/artist/2kPdGnJr2JeSSlSsyjS41v) | [Umbra](https://open.spotify.com/album/7HkqEIOY28GjKNOV4MGi0H) | 2:39 |
 | 33 | [Gentle](https://open.spotify.com/track/6d2vv0fWpQvXSLnjMo2GFZ) | [Waves of Life](https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd) | [Gentle](https://open.spotify.com/album/1jGrRx5ypq33Q19egLXsU9) | 2:56 |
 | 34 | [Low Sugar Rest](https://open.spotify.com/track/3aMWliXgEzcHmrbNB4HnZl) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Low Sugar Rest](https://open.spotify.com/album/1aZzJynkMDolOm3KJS1r9k) | 2:32 |
-| 35 | [Northbound Air](https://open.spotify.com/track/6X6FCiehGjLPp3vPj25c1O) | [Sagamo](https://open.spotify.com/artist/4pDaBlpZTovRy5UjuBUC0l) | [Northbound Air](https://open.spotify.com/album/0jqC8DLQM8Ae7vUNDlru6E) | 2:49 |
+| 35 | [Northbound Air](https://open.spotify.com/track/6X6FCiehGjLPp3vPj25c1O) | [Sagamo](https://open.spotify.com/artist/4pDaBlpZTovRy5UjuBUC0l), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Mshvidi](https://open.spotify.com/artist/2QG2CJC7IycOyrak6NaFvj) | [Northbound Air](https://open.spotify.com/album/0jqC8DLQM8Ae7vUNDlru6E) | 2:49 |
 | 36 | [Luminous Sphere](https://open.spotify.com/track/2KoAUTt0cqcZeGajPJAPOT) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Luminous Sphere](https://open.spotify.com/album/4VSUoBH8QoFbi6xNdY1Nlo) | 2:56 |
 | 37 | [Etereo](https://open.spotify.com/track/3PFdYYd7O10tEDWursGBQU) | [Ex Nocte](https://open.spotify.com/artist/5AjF2OTpEFbeNTgy4cqpnW) | [Etereo](https://open.spotify.com/album/7yucxerzepIyOlWu0blP1Z) | 2:31 |
 | 38 | [Destination](https://open.spotify.com/track/5XQSxLSkl8PRxe7WvraQeL) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Destination](https://open.spotify.com/album/7ff9wd53b2sdigLDFKO2EY) | 2:57 |

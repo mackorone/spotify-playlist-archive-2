@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 164048,
       "name": "FICTION",
       "url": "https://open.spotify.com/track/73wbcZPiPGWedxVdRVm5dR"
@@ -5538,6 +5538,24 @@
       "duration_ms": 209583,
       "name": "Lewandoski",
       "url": "https://open.spotify.com/track/5MVAnYGimyRpWDkTD6qvRB"
+    },
+    {
+      "album": {
+        "name": "Lhouma",
+        "url": "https://open.spotify.com/album/4dlbre35ZWgCEqdgdAt70S"
+      },
+      "artists": [
+        {
+          "name": "Yvzid",
+          "url": "https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212210,
+      "name": "Lhouma",
+      "url": "https://open.spotify.com/track/3cUcxgPW9sVomnspNZbaHA"
     },
     {
       "album": {

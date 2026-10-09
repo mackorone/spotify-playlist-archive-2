@@ -12195,6 +12195,32 @@
     },
     {
       "album": {
+        "name": "Yellow Chunni (From \"Itllu Arjuna\")",
+        "url": "https://open.spotify.com/album/2SBZSmQ39wh6T6F2WleSzR"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Sreejo",
+          "url": "https://open.spotify.com/artist/0h6zdOSfThWV5s4fx44Hoc"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211016,
+      "name": "Yellow Chunni (From \"Itllu Arjuna\")",
+      "url": "https://open.spotify.com/track/4DTpJMZmQwdMx3ujuUKjgK"
+    },
+    {
+      "album": {
         "name": "Yemaiundacho",
         "url": "https://open.spotify.com/album/2QfB98RhYr6Y3YqwK5tbFx"
       },

@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "Azathoth",
+        "url": "https://open.spotify.com/album/1D9TtWXNGvauYsEi25VxEK"
+      },
+      "artists": [
+        {
+          "name": "USAO",
+          "url": "https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI"
+        },
+        {
+          "name": "Yuta Imai",
+          "url": "https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150935,
+      "name": "Azathoth",
+      "url": "https://open.spotify.com/track/1cOpsSPDqCyCltxOlDMovt"
+    },
+    {
+      "album": {
         "name": "Break Out Black",
         "url": "https://open.spotify.com/album/19itekbCskAsTR4uo2Jty8"
       },

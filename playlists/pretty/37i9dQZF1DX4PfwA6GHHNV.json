@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23511,
+  "num_followers": 23515,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,30 @@
     {
       "added_at": "2026-10-02 21:12:18",
       "album": {
+        "name": "Baile Em Chamas",
+        "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "DJ 2L da Rocinha",
+          "url": "https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Baile Em Chamas",
+      "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
+    },
+    {
+      "added_at": "2026-10-02 21:12:18",
+      "album": {
         "name": "Insana",
         "url": "https://open.spotify.com/album/4aaopaXBXqztTnBOTi5BBd"
       },
@@ -375,30 +399,6 @@
       "duration_ms": 206971,
       "name": "Insana",
       "url": "https://open.spotify.com/track/6hbYQFl2ybH0TVHyk2iWQR"
-    },
-    {
-      "added_at": "2026-10-02 21:12:18",
-      "album": {
-        "name": "Baile Em Chamas",
-        "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "DJ 2L da Rocinha",
-          "url": "https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Baile Em Chamas",
-      "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
     },
     {
       "added_at": "2026-10-02 21:12:18",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-10-02 21:12:18",
       "album": {
-        "name": "Coulda Shown You",
-        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
-      },
-      "artists": [
-        {
-          "name": "Lucca DL",
-          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
-        },
-        {
-          "name": "Killa",
-          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Coulda Shown You",
-      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
-    },
-    {
-      "added_at": "2026-10-02 21:12:18",
-      "album": {
         "name": "Porta Aberta",
         "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
       },
@@ -891,6 +871,26 @@
     {
       "added_at": "2026-10-02 21:12:18",
       "album": {
+        "name": "Coulda Shown You",
+        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
+      },
+      "artists": [
+        {
+          "name": "Lucca DL",
+          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
+        },
+        {
+          "name": "Killa",
+          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Coulda Shown You",
+      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
+    },
+    {
+      "added_at": "2026-10-02 21:12:18",
+      "album": {
         "name": "BRINDE",
         "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
       },
@@ -911,22 +911,22 @@
     {
       "added_at": "2026-10-02 21:12:18",
       "album": {
-        "name": "12 de Junho",
-        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
       },
       "artists": [
         {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
         },
         {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
         }
       ],
-      "duration_ms": 190588,
-      "name": "12 de Junho",
-      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2026-10-02 21:12:18",
@@ -951,22 +951,22 @@
     {
       "added_at": "2026-10-02 21:12:18",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+        "name": "12 de Junho",
+        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
       },
       "artists": [
         {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
         },
         {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         }
       ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+      "duration_ms": 190588,
+      "name": "12 de Junho",
+      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
     },
     {
       "added_at": "2026-10-02 21:12:18",

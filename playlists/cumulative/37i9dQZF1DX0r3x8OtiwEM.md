@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-809 songs - 3 day 2 hr 43 min
+810 songs - 3 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 | 2022-06-24 | 2024-05-25 |
 | [Lose Yourself Again](https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Lose Yourself Again](https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws) | 4:19 | 2025-05-23 | 2025-09-28 |
 | [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 | 2020-04-18 | 2020-06-29 |
+| [Lost In Music \- Edit](https://open.spotify.com/track/1uuqdYGOuPfBqQA5YhxT76) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Lost In Music](https://open.spotify.com/album/1mevpy036HSDdm5oJydjKt) | 2:35 | 2026-10-09 |  |
 | [Lost In The Stars \- Original Mix](https://open.spotify.com/track/3ODEf1vww4qljvqidfcqIU) | [ALMA \(GER\)](https://open.spotify.com/artist/6kYaUDGprOe3iZZ5bgxTgO) | [Mother](https://open.spotify.com/album/5v0f0wnZ4qYN8pjhTAZwsy) | 6:53 | 2022-01-14 | 2022-07-29 |
 | [Lost In The Woods](https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost In The Woods](https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax) | 3:03 | 2026-02-20 |  |
 | [Lotus](https://open.spotify.com/track/5B8J43hJFeVJvZEU2LdSwf) | [Dizharmonia](https://open.spotify.com/artist/6XJbAjen3yFjZ5NTmDC83h) | [Lotus](https://open.spotify.com/album/0KKINwa81J8iMNiEzlmocZ) | 7:13 | 2020-09-26 | 2020-11-28 |
@@ -813,7 +814,7 @@
 | [You Shine \- Original mix](https://open.spotify.com/track/2UcVfsMkqwmOWewsRBPVvX) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [You Shine EP](https://open.spotify.com/album/55HDc5bpxKGUlyW6yvnYpj) | 6:43 | 2019-11-10 | 2020-04-12 |
 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-12-17 | 2024-06-26 |
 | [Your Love](https://open.spotify.com/track/6O2r4n5YeF5KXVNUrobHZe) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Your Love](https://open.spotify.com/album/3bIILlNbQB51BHUK4ZX28e) | 4:19 | 2025-06-06 | 2025-06-24 |
-| [Youth](https://open.spotify.com/track/2KHyZ8X8DEthDel9avvzLh) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Youth](https://open.spotify.com/album/6dYpy3x3WZdON98fZEVUOk) | 4:25 | 2026-08-14 |  |
+| [Youth](https://open.spotify.com/track/2KHyZ8X8DEthDel9avvzLh) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Youth](https://open.spotify.com/album/6dYpy3x3WZdON98fZEVUOk) | 4:25 | 2026-08-14 | 2026-10-09 |
 | [You’re So High \(10 Years On\)](https://open.spotify.com/track/59wygKiI3oZ1dQNlClWzeP) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [You’re So High \(10 Years On\)](https://open.spotify.com/album/08iIEsoNGBA4Q8oI3SDiDC) | 4:32 | 2023-11-11 | 2024-07-25 |
 | [Zeit](https://open.spotify.com/track/6ChwoTAhVHGyxyA3tyv5XI) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Zeit](https://open.spotify.com/album/7oa0a2bi6yztJOPJmIdHlA) | 7:42 | 2021-12-17 | 2022-02-09 |
 | [​so far away](https://open.spotify.com/track/25LH9N0JmgSYsV6eqJPy97) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [current collection of demos on my drive](https://open.spotify.com/album/7KOEj1tjY9zeL70zHJoYGt) | 4:04 | 2024-06-21 | 2024-09-09 |

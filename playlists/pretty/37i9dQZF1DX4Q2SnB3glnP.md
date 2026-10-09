@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,777 likes - 270 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,836 likes - 270 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 70 | [Unending](https://open.spotify.com/track/5U3oUS6Z0pzhdM6BvYkWxS) | [Frans Dromenstadt](https://open.spotify.com/artist/57Pf6yQ2ewHBEMtpQpPW9S) | [Unending](https://open.spotify.com/album/24OpUhjP4LiN9yQIYrHStd) | 2:36 |
 | 71 | [Orbital Feelings](https://open.spotify.com/track/2d1LkZmuwfVYYQfZvZOISZ) | [Luca Kerr](https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap) | [Orbital Feelings](https://open.spotify.com/album/1Q7DrtzmfZVf6qTyDECF0b) | 2:52 |
 | 72 | [Glacadh](https://open.spotify.com/track/4yKinC9FapdEkMGam50eCF) | [Coileáinn](https://open.spotify.com/artist/5flYFtyT8qgB5GdW7SQsic) | [Glacadh](https://open.spotify.com/album/0RDlwtAjI1qXbpEnfG4qHy) | 2:18 |
-| 73 | [Northbound Air](https://open.spotify.com/track/6X6FCiehGjLPp3vPj25c1O) | [Sagamo](https://open.spotify.com/artist/4pDaBlpZTovRy5UjuBUC0l) | [Northbound Air](https://open.spotify.com/album/0jqC8DLQM8Ae7vUNDlru6E) | 2:49 |
+| 73 | [Northbound Air](https://open.spotify.com/track/6X6FCiehGjLPp3vPj25c1O) | [Sagamo](https://open.spotify.com/artist/4pDaBlpZTovRy5UjuBUC0l), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Mshvidi](https://open.spotify.com/artist/2QG2CJC7IycOyrak6NaFvj) | [Northbound Air](https://open.spotify.com/album/0jqC8DLQM8Ae7vUNDlru6E) | 2:49 |
 | 74 | [Empty Shapes](https://open.spotify.com/track/2KwQp498Xqinh9XaVjBnI1) | [Noémie Bohman](https://open.spotify.com/artist/37mNCHBKUq136a77yNsI09) | [Empty Shapes](https://open.spotify.com/album/4PBcK5Tyic8twT34p3G0l0) | 2:45 |
 | 75 | [Hypnagogia of the Quiet Mind](https://open.spotify.com/track/4YNT5uI4c4dIvFV9VumJw0) | [Ambient Eternal](https://open.spotify.com/artist/7HeEzWQeYDfoVJY5y5yNAR) | [Hypnagogia of the Quiet Mind](https://open.spotify.com/album/6hH3ZGYZtkIT8xrryAMntj) | 2:36 |
 | 76 | [Pressure Points](https://open.spotify.com/track/2p2Tm3bEbFRrFdMcFvOKNj) | [Sanyelle](https://open.spotify.com/artist/0WaclwFRHRJfNNt4iQ2I3l) | [Pressure Points](https://open.spotify.com/album/374vU6N1sHaAbiQTUMQ05A) | 2:41 |

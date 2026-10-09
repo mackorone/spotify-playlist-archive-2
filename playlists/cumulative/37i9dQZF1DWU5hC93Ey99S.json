@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 226146,
       "name": "28 Eyes",
       "url": "https://open.spotify.com/track/6ZiLYTqYr7oT22hrwGzOVM"
@@ -2676,7 +2676,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 128461,
       "name": "Calm (feat. Jawnino)",
       "url": "https://open.spotify.com/track/18vf3zcNibtFSY3ubyYfyw"
@@ -8998,7 +8998,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 213333,
       "name": "I'm Not Alone - MPH Remix",
       "url": "https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx"
@@ -10595,6 +10595,24 @@
     },
     {
       "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/7s0O2Fu6vu1AH3q4sVDhiL"
+      },
+      "artists": [
+        {
+          "name": "Indigo Eyes",
+          "url": "https://open.spotify.com/artist/04qGSeuOlRDSyVYFblRy9O"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/3V8TnK1ZVkcqof3Xa8oGKF"
+    },
+    {
+      "album": {
         "name": "let this go",
         "url": "https://open.spotify.com/album/3vFa0Vz1kiIk6CTxVcJvtG"
       },
@@ -11044,7 +11062,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 193432,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO"
@@ -11630,7 +11648,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160000,
       "name": "Love Me Right",
       "url": "https://open.spotify.com/track/0gFtdNsqdG2Nb4F3S5yW4r"
@@ -13356,6 +13374,24 @@
       "duration_ms": 226791,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"
+    },
+    {
+      "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/1dDedjzFUmg7Y6lF85P2ql"
+      },
+      "artists": [
+        {
+          "name": "OLIIVER",
+          "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130722,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/4ZyE95eUJXDGuOCz8xH7fB"
     },
     {
       "album": {
@@ -16869,6 +16905,28 @@
     },
     {
       "album": {
+        "name": "Shift Focus",
+        "url": "https://open.spotify.com/album/0VAOYPWKayy5vgcQfSsz1s"
+      },
+      "artists": [
+        {
+          "name": "Because of Art",
+          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+        },
+        {
+          "name": "Blair",
+          "url": "https://open.spotify.com/artist/43jJiW8JiogF0AwuwpvDY4"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281672,
+      "name": "Shift Focus",
+      "url": "https://open.spotify.com/track/2flRozAqCx8yCdQl4HOd3G"
+    },
+    {
+      "album": {
         "name": "Show Me The Way",
         "url": "https://open.spotify.com/album/082bNDNSwbF9v3Ji3r6GbG"
       },
@@ -17854,6 +17912,28 @@
       "duration_ms": 124800,
       "name": "Stay By My Side",
       "url": "https://open.spotify.com/track/0yMIZRZLBG7rh3xiHAFR9Z"
+    },
+    {
+      "album": {
+        "name": "Smiling Through The Pain 3",
+        "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159325,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
     },
     {
       "album": {
@@ -20309,6 +20389,32 @@
     },
     {
       "album": {
+        "name": "Unica",
+        "url": "https://open.spotify.com/album/3IEca7A79NZH691FXPHOPo"
+      },
+      "artists": [
+        {
+          "name": "760 Dreams",
+          "url": "https://open.spotify.com/artist/0TZgnnjVGxFJCpd6jdUCaI"
+        },
+        {
+          "name": "Cristian Comes",
+          "url": "https://open.spotify.com/artist/3UhSD7E0vEIVO0fR7Ob8Uq"
+        },
+        {
+          "name": "Dogs I Know",
+          "url": "https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/35SSqwnY9YT6VHVNhrKuEQ"
+    },
+    {
+      "album": {
         "name": "Unpredictable",
         "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
       },
@@ -21029,6 +21135,24 @@
     },
     {
       "album": {
+        "name": "We Could Be Lost",
+        "url": "https://open.spotify.com/album/6BhIPqjTvWExNpJGwqTSsL"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231896,
+      "name": "We Could Be Lost",
+      "url": "https://open.spotify.com/track/5u6GURxX3K8eDWpUw2envj"
+    },
+    {
+      "album": {
         "name": "We Don\u2019t Ever Stop",
         "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
       },
@@ -21566,7 +21690,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 129634,
       "name": "WHERE DO I GO?",
       "url": "https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey"

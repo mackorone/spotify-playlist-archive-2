@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-149 songs - 8 hr 35 min
+150 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Almost Again](https://open.spotify.com/track/7w1TnmKDHfYbyehaDpmYwK) | [Luné](https://open.spotify.com/artist/42URj5wwbtN07LSKYhdsLL) | [Pink Girls](https://open.spotify.com/album/4K17dtEO3JcHkBEFQ5Kv42) | 2:48 | 2026-03-19 | 2026-04-08 |
 | [Almost there](https://open.spotify.com/track/7B3KxH2EVuSkdRM97N7nqm) | [Elaisa Mancini](https://open.spotify.com/artist/54nSWwT0f9C4TYbN1SxUBr) | [Almost there](https://open.spotify.com/album/5dKD5QCVTHAqfLdt2mjunh) | 3:42 | 2026-03-27 | 2026-04-18 |
 | [Automático](https://open.spotify.com/track/5FUDj98ylGW4iUcFfiWo50) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Trans](https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry) | 3:45 | 2025-12-01 | 2025-12-13 |
+| [Barebones](https://open.spotify.com/track/2aWzmqndr6lsVJqqQkuaWa) | [MKTM](https://open.spotify.com/artist/0OLjwojWrPQT1pQY8lUGKf), [W Λ R D](https://open.spotify.com/artist/129wGdcEc9j1b9YEkvX50O) | [Barebones](https://open.spotify.com/album/1B86dpWBr8KajNzOHk27iB) | 4:28 | 2026-10-08 |  |
 | [Beautiful Life](https://open.spotify.com/track/0D8tiMBCjym2xlrZtNwfNO) | [Atomic Ritual](https://open.spotify.com/artist/5miCWiVah5iRMvoaNmkDWc) | [Beautiful Life](https://open.spotify.com/album/4gm2ra9K1zYB21USPZxLKv) | 2:39 | 2026-05-21 | 2026-07-30 |
 | [Belong](https://open.spotify.com/track/5V1oOuWqO7t0xBT01pmzWa) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Belong](https://open.spotify.com/album/5LZXl2Sjauj5xRcZz2j8Wv) | 3:34 | 2026-05-01 | 2026-05-31 |
 | [Beyond Reach](https://open.spotify.com/track/0hbF6ks1K7QReqX5MDQUsz) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [Beyond Reach](https://open.spotify.com/album/5j30B79NqODEF1OeFgiTdd) | 2:48 | 2025-10-13 |  |

@@ -1,4 +1,4 @@
-## Playlists \(9337\)
+## Playlists \(9338\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - ["Wuthering Heights" Official Playlist](/playlists/pretty/37i9dQZF1DWXeFtiUMSxKD.md)
@@ -1887,6 +1887,7 @@
 - [Dia de Faxina](/playlists/pretty/37i9dQZF1DXdg3JLYhYrif.md)
 - [Diarios de Bicicleta](/playlists/pretty/37i9dQZF1DWYx3tuFhwUtY.md)
 - [Diepe Rust](/playlists/pretty/37i9dQZF1DWVCZsi4BErc7.md)
+- [Digger Official Playlist](/playlists/pretty/37i9dQZF1DX17HBNzEXtLM.md)
 - [Digster HITS \- Best of 2013](/playlists/pretty/6FzxUXXUk9bzWJ8d1NIGWy.md)
 - [Dil Ka Sukoon](/playlists/pretty/45sMfdAKJExVmFvBd2TwmU.md)
 - [Dimitri Vangelis & Wyman's DJ Mix](/playlists/pretty/37i9dQZF1DX3JjRskvOCSF.md)
@@ -4532,7 +4533,7 @@
 - [O Melhor de Pagodeira 2025](/playlists/pretty/37i9dQZF1DWXxlTjrCu8cE.md)
 - [O Melhor de Pátria Rock 2023](/playlists/pretty/37i9dQZF1DWZCxWmiA1Zy3.md)
 - [O Trap Mais Caro](/playlists/pretty/37i9dQZF1DWWr5uieiPUVM.md)
-- [O vară chill](/playlists/pretty/37i9dQZF1DWTJ8OyVOVcvG.md)
+- [O toamnă chill](/playlists/pretty/37i9dQZF1DWTJ8OyVOVcvG.md)
 - [OBSESSED](/playlists/pretty/37i9dQZF1DX7YE2tQ4q86h.md)
 - [ODESZA \- ESSENTIALS](/playlists/pretty/3CbuNvlevZNRcTpWGKWIZz.md)
 - [OFF POP](/playlists/pretty/37i9dQZF1DX07Bg0Q5GozA.md)

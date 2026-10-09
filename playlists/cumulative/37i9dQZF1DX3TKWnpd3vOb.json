@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
+  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Fother Muckers",
   "name": "Rock Chileno",
   "tracks": [
     {
@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 215639,
       "name": "Cayeron L\u00e1grimas",
       "url": "https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 220295,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/0edQQyB3klYXb3ptkcdDIo"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 202493,
       "name": "D\u00e9jate Caer - 2024",
       "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
@@ -2150,6 +2150,24 @@
       "duration_ms": 231403,
       "name": "Fuerzas Que Retroceden",
       "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
+    },
+    {
+      "album": {
+        "name": "Girasol",
+        "url": "https://open.spotify.com/album/4xD4gEl7XfUTKdgmTYZxyj"
+      },
+      "artists": [
+        {
+          "name": "Primavera de Praga",
+          "url": "https://open.spotify.com/artist/5dWL5HD0Wjt9R5GvFT8UYI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241245,
+      "name": "Girasol",
+      "url": "https://open.spotify.com/track/0rfF0SYjD74H1JaMF3Ywnl"
     },
     {
       "album": {
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 161510,
       "name": "Lo \u00danico Que Tengo (V\u00edctor Jara)",
       "url": "https://open.spotify.com/track/68rrFLNV5LPjyPsfz24GYj"
@@ -3174,6 +3192,24 @@
       "duration_ms": 183000,
       "name": "Locura Espacial",
       "url": "https://open.spotify.com/track/0FauDhvAuanceOTIGQZAl4"
+    },
+    {
+      "album": {
+        "name": "Los Cometas (En vivo Teatro Telet\u00f3n 2026)",
+        "url": "https://open.spotify.com/album/7iYrrRTuQbDWs0qEWWQLDD"
+      },
+      "artists": [
+        {
+          "name": "Kuervos del Sur",
+          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237922,
+      "name": "Los Cometas - En vivo Teatro Telet\u00f3n 2026",
+      "url": "https://open.spotify.com/track/6KJHHKkcNejFFxhpXfgKep"
     },
     {
       "album": {
@@ -3759,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed se Hace",
+        "url": "https://open.spotify.com/album/2GOENEkIFsxm31JCksBZPe"
+      },
+      "artists": [
+        {
+          "name": "Fother Muckers",
+          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Nada en este Mundo",
+      "url": "https://open.spotify.com/track/66SrjI7L6eeoF3XqpHiwCG"
+    },
+    {
+      "album": {
         "name": "Rep\u00fablica Rock, Vol. 2",
         "url": "https://open.spotify.com/album/5zhxwxaOGOVLpFxPDGvzzE"
       },
@@ -3792,6 +3846,24 @@
       "duration_ms": 435697,
       "name": "Ni\u00f1a Blanca",
       "url": "https://open.spotify.com/track/4cYV1Di4LgjQR255w4QaKE"
+    },
+    {
+      "album": {
+        "name": "No Es Sacrificio",
+        "url": "https://open.spotify.com/album/3YCaVRMtbBUx0RbI0Flr5S"
+      },
+      "artists": [
+        {
+          "name": "Beto Cuevas",
+          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214184,
+      "name": "No Es Sacrificio",
+      "url": "https://open.spotify.com/track/3J51KB6m0QxxXyVs8GKfXc"
     },
     {
       "album": {
@@ -4923,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "S\u00e1bado Gigante",
+        "url": "https://open.spotify.com/album/7f8eOiZTDqxLq44txIDrbi"
+      },
+      "artists": [
+        {
+          "name": "Nando Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297242,
+      "name": "S\u00e1bado Gigante",
+      "url": "https://open.spotify.com/track/2VPj9fEI1HaIlpc8VDarqI"
+    },
+    {
+      "album": {
         "name": "Tanto creo en ti",
         "url": "https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd"
       },
@@ -5938,7 +6028,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 208298,
       "name": "Ya No Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0"

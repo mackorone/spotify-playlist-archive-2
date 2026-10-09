@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Akylas",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Hawk, Eleni Foureira",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -848,7 +848,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189411,
       "name": "Asorti",
       "url": "https://open.spotify.com/track/0Ds24GnzJdaWccgCxnkCYL"
@@ -5246,10 +5246,28 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 143677,
       "name": "Rebetiko",
       "url": "https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92"
+    },
+    {
+      "album": {
+        "name": "Revma",
+        "url": "https://open.spotify.com/album/7zYvgR6qc7FlKUetES3Oft"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Revma",
+      "url": "https://open.spotify.com/track/4J7yq3ghKZmSublCTwRfF4"
     },
     {
       "album": {
@@ -6090,6 +6108,24 @@
       "duration_ms": 180983,
       "name": "To Lathos Mou",
       "url": "https://open.spotify.com/track/0TUTYUToTHhykqAJK2SktL"
+    },
+    {
+      "album": {
+        "name": "To Party",
+        "url": "https://open.spotify.com/album/5M9eiF04ujyFlMe9woCAtK"
+      },
+      "artists": [
+        {
+          "name": "Akylas",
+          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193621,
+      "name": "To Party",
+      "url": "https://open.spotify.com/track/5fsGR9J0dzeBL8brNuc1m3"
     },
     {
       "album": {

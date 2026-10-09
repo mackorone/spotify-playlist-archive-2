@@ -1413,6 +1413,28 @@
     },
     {
       "album": {
+        "name": "EX DE VERDAD",
+        "url": "https://open.spotify.com/album/56KwIdmWFE9f775D93On0i"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9 Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1tSZYYnfFI5tKfkrI10KIM"
+        },
+        {
+          "name": "Maite Guzm\u00e1n y Su Estilo Campero",
+          "url": "https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192688,
+      "name": "EX DE VERDAD",
+      "url": "https://open.spotify.com/track/1gTnxn7NGz6VYh4jzUGrZ7"
+    },
+    {
+      "album": {
         "name": "Festivalero",
         "url": "https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR"
       },

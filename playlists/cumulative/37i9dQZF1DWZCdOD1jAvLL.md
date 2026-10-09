@@ -4,7 +4,7 @@
 
 > Stank face activated\. Cover: Michael Sparks
 
-1,066 songs - 2 day 9 hr 16 min
+1,067 songs - 2 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -752,6 +752,7 @@
 | [Power \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/23Yme7RmpgqUxpllJUkHkl) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Power \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/5ABYnU3Ti5L4028bwNtKSp) | 2:58 | 2025-01-10 | 2025-04-12 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-18 | 2025-08-09 |
 | [Prayers](https://open.spotify.com/track/32AM51AZPlQ7NqpuGqK4rP) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Prayers](https://open.spotify.com/album/1l5hWqjF2bmh6NgduCsMwj) | 3:20 | 2022-01-14 | 2022-01-29 |
+| [Pressure](https://open.spotify.com/track/3hIu75W02DynPMCEFyzZcI) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Pressure](https://open.spotify.com/album/4s49UYh2vp47bPR3LWwm8Z) | 2:31 | 2026-10-09 |  |
 | [Pressure](https://open.spotify.com/track/3vlN5TntxqeGFtx0YOYYBb) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Pressure](https://open.spotify.com/album/2W2vZJBEdyswIanzJUKuct) | 2:36 | 2026-04-24 | 2026-10-03 |
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-09-06 | 2024-12-07 |
 | [Prophecy](https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Prophecy](https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn) | 5:15 | 2025-06-27 | 2026-03-21 |
@@ -846,7 +847,7 @@
 | [Shell Shock \(feat\. Georgia Ku\)](https://open.spotify.com/track/2WidoejAximc21Pv69Q3ey) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Shell Shock \(feat\. Georgia Ku\)](https://open.spotify.com/album/4BaInrxpN9Bey7O1LGhVDp) | 4:24 | 2022-01-14 | 2022-04-02 |
 | [Shibuya Babe](https://open.spotify.com/track/4DdaZxgGx8AsPq2f299gcB) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Fafa Khan](https://open.spotify.com/artist/4TtWW9JEksSAem0tGrAYsP), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Shibuya Babe](https://open.spotify.com/album/1biLpZstCyBIgyRAzchz8S) | 2:06 | 2022-08-19 | 2023-01-14 |
 | [SHiNE](https://open.spotify.com/track/3eGTeMHX7bB8YhUuXs9IV3) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1) | [SHiNE](https://open.spotify.com/album/5todskDJAkfo8TYsGGtCEh) | 3:35 | 2022-10-07 | 2022-11-19 |
-| [Shine](https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Levex](https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef) | [Inferno](https://open.spotify.com/album/6dCpnvdq8U4plaAKwFJ52M) | 2:31 | 2026-03-27 |  |
+| [Shine](https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Levex](https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef) | [Inferno](https://open.spotify.com/album/6dCpnvdq8U4plaAKwFJ52M) | 2:31 | 2026-03-27 | 2026-10-09 |
 | [Shook Ones, PT\. III](https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Shook Ones, PT\. III](https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb) | 3:38 | 2025-09-12 | 2026-08-08 |
 | [Short Stop](https://open.spotify.com/track/6ZXDqJiNIgQfWow7KruP6I) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Short Stop](https://open.spotify.com/album/0Q0dqm7mFU4UhTveiWrRXP) | 3:45 | 2026-08-21 |  |
 | [Show Me Love](https://open.spotify.com/track/0gOeJEeOoDh4FD7i9qOFPH) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Show Me Love](https://open.spotify.com/album/5phKEujkaPJqyzbqCpnRIs) | 2:36 | 2024-11-15 | 2025-01-11 |

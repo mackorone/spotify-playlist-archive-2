@@ -7129,6 +7129,24 @@
     },
     {
       "album": {
+        "name": "October Nights",
+        "url": "https://open.spotify.com/album/3Kpop9c8APS7fy7skeV7Ty"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216954,
+      "name": "October Nights",
+      "url": "https://open.spotify.com/track/33iFfeY7WZ37MVgvaOwp97"
+    },
+    {
+      "album": {
         "name": "Off the Cuff",
         "url": "https://open.spotify.com/album/52X8pH95UmbAMg9OnVjUMF"
       },
@@ -7582,7 +7600,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 264261,
       "name": "Power Of Love",
       "url": "https://open.spotify.com/track/6zJ1o08f3iSzApXkrvvtoN"

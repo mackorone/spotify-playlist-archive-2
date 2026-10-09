@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Folk latino de estaci\u00f3n. Foto: Milo j & Mon Laferte",
+  "description": "Folk latino de estaci\u00f3n. Foto: Camila Ba\u00f1ados",
   "name": "folk & primavera",
   "tracks": [
     {
@@ -896,7 +896,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 251242,
       "name": "Besos en mi Memoria",
       "url": "https://open.spotify.com/track/7F3DfD7W4HC5iPDIOxc7wR"
@@ -3209,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Hasta que salga el sol",
+        "url": "https://open.spotify.com/album/1FoBVY7J6OmBUbTviPnuE6"
+      },
+      "artists": [
+        {
+          "name": "FELI\u00c1N",
+          "url": "https://open.spotify.com/artist/4dRdIjjKw16UWqGPu8sjLG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255599,
+      "name": "Hasta que salga el sol",
+      "url": "https://open.spotify.com/track/2wLVFfaHJQRiWzU0AHwEHj"
+    },
+    {
+      "album": {
         "name": "Helen K",
         "url": "https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt"
       },
@@ -3866,6 +3884,24 @@
       "duration_ms": 186812,
       "name": "La Mochila del Mundo",
       "url": "https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb"
+    },
+    {
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/6HssPH2u6AiyyR8QmUhQSL"
+      },
+      "artists": [
+        {
+          "name": "Zara Colombo",
+          "url": "https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191015,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/4eBA8wah1TmOzGopQ9noDD"
     },
     {
       "album": {
@@ -4858,6 +4894,28 @@
       "duration_ms": 150841,
       "name": "Nena",
       "url": "https://open.spotify.com/track/0zGiP8h7GMV2W1aIqq4mJz"
+    },
+    {
+      "album": {
+        "name": "Ni el Bosque Ser\u00e1",
+        "url": "https://open.spotify.com/album/1hGl9cEinCiiJT4XVM05tE"
+      },
+      "artists": [
+        {
+          "name": "Camila Ba\u00f1ados",
+          "url": "https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq"
+        },
+        {
+          "name": "Javier Barr\u00eda",
+          "url": "https://open.spotify.com/artist/2v63mEwpd09o5Oo3ALq0l6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263668,
+      "name": "Ni el Bosque Ser\u00e1",
+      "url": "https://open.spotify.com/track/1PnhICfu9Iy9LpGTiIMnsq"
     },
     {
       "album": {
@@ -7158,7 +7216,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 241810,
       "name": "Trance",
       "url": "https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T"
@@ -7604,7 +7662,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 175810,
       "name": "V13",
       "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
@@ -7940,6 +7998,24 @@
       "duration_ms": 249538,
       "name": "Volver\u00e1s al Sur",
       "url": "https://open.spotify.com/track/0VJRZ4nn6N0HyxjRsv3SBC"
+    },
+    {
+      "album": {
+        "name": "Voy A Dejar de Venir",
+        "url": "https://open.spotify.com/album/79rrJHDCxIJtw1vvcvNR0U"
+      },
+      "artists": [
+        {
+          "name": "TR\u00cdADA",
+          "url": "https://open.spotify.com/artist/25sGauAghntKxR2zrlsXAl"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Voy A Dejar de Venir",
+      "url": "https://open.spotify.com/track/2uULXHDhUGYdog5SypeJPJ"
     },
     {
       "album": {

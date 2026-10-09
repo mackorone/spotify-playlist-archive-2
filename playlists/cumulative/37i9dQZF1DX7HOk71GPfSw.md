@@ -4,7 +4,7 @@
 
 > giddy up  𓃗𓃗𓃗𓃗𓃗
 
-2,802 songs - 5 day 8 hr 24 min
+2,803 songs - 5 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Angel On My Shoulder](https://open.spotify.com/track/3M3bHley5OpJLTqGSf7v22) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Angel On My Shoulder](https://open.spotify.com/album/5rJ5nSlS3ARksBxsaysCQL) | 4:02 | 2021-11-05 | 2022-01-13 |
 | [aNgEl taTToo](https://open.spotify.com/track/7uP0rQAhoZiMzaNIDBdz8d) | [Oh Boy](https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [aNgEl taTToo](https://open.spotify.com/album/17bqx3eI7999RsdJHmlbGc) | 3:09 | 2021-11-12 | 2022-03-05 |
 | [ANIMAL CRACKERS](https://open.spotify.com/track/03vZHI9H4wycwdkaTX90gp) | [Charles the Emperor](https://open.spotify.com/artist/58YJLS6T3tP5Bvi6UwefTX) | [ANIMAL CRACKERS](https://open.spotify.com/album/0pmOOCqSsT15NcpFA3ePhf) | 2:25 | 2021-02-26 | 2021-09-21 |
-| [ANIME MIG](https://open.spotify.com/track/4S0Mt82rOxuDMNDfvfZzet) | [jalda](https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa) | [BLOND](https://open.spotify.com/album/43dn4ZDgTMhJyqvZ5PEmBE) | 2:54 | 2026-09-04 |  |
+| [ANIME MIG](https://open.spotify.com/track/4S0Mt82rOxuDMNDfvfZzet) | [jalda](https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa) | [BLOND](https://open.spotify.com/album/43dn4ZDgTMhJyqvZ5PEmBE) | 2:54 | 2026-09-04 | 2026-10-09 |
 | [anon](https://open.spotify.com/track/0ttcGyKnQi73CkBc6qn6Uu) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [anon](https://open.spotify.com/album/0Fdz3lZg3d8qrQf7ktidqE) | 2:47 | 2023-07-21 | 2024-02-24 |
 | [another life](https://open.spotify.com/track/0GrTMiguGCFYmkI67jGvRV) | [Sophia Anne Caruso](https://open.spotify.com/artist/6DQwC1hPrwv3JRmvxONCoZ) | [ON ECSTATIC](https://open.spotify.com/album/4mCugW3ZP2DvkVUd02kIM3) | 3:33 | 2026-09-18 |  |
 | [Antagonists](https://open.spotify.com/track/4Tj517L1MlS4vrXED64HKq) | [tropes](https://open.spotify.com/artist/0XvXIfdZ2e5I66BFC4z0AV), [Pitfall](https://open.spotify.com/artist/0bonINZ3DoCiYoXtLWwQTG) | [Antagonists](https://open.spotify.com/album/5xpl84sxZ4XpQReumAD1HN) | 2:34 | 2021-01-23 | 2021-09-22 |
@@ -317,6 +317,7 @@
 | [Bitch Bites Dog](https://open.spotify.com/track/3vVYV1vW9FPSF5BTIXWhMK) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Plucking a Cherry From The Void](https://open.spotify.com/album/5e7y3LbvNJ4HA9IsIgGfTl) | 3:32 | 2021-02-10 | 2021-09-24 |
 | [Bitch Smacker \- EDM GangStep Edit](https://open.spotify.com/track/1DTxRSFNCay9wpFfy0YBsa) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Dj Smokey](https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy) | [Psychological Musical Warfare 2](https://open.spotify.com/album/4BCN9570YUwdT695yuSbZ6) | 2:20 | 2025-05-16 | 2026-01-15 |
 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BITCH YOU COULD NEVER](https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0) | 2:28 | 2024-05-23 | 2025-05-31 |
+| [BITCH, I KNOW](https://open.spotify.com/track/0Oi7yCNUF7meXnoOzIA7ds) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [AFTER THE AFTERS](https://open.spotify.com/album/2ieA7vFE29EVe1re91ZqTn) | 2:09 | 2026-10-09 |  |
 | [bitcrush!](https://open.spotify.com/track/47sK6KhAVPV9q77jLUZF4B) | [Devika](https://open.spotify.com/artist/0RpzG8HdYAcTDYQuCyizet) | [GIRLSLIKE](https://open.spotify.com/album/7eT5UlB7u3olW9VnqFJDO9) | 2:05 | 2026-09-25 |  |
 | [bite](https://open.spotify.com/track/14q8vUDFcdohBJGlvSh2Fq) | [lustr](https://open.spotify.com/artist/58hki6fDZRnymwgCSwmwNY) | [bite](https://open.spotify.com/album/3T5WqWxzkfDYVtsXtS5lUO) | 2:00 | 2025-08-08 | 2026-02-14 |
 | [BITE BACK](https://open.spotify.com/track/5pedH2sXKvKCYaL51uzCpS) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [BITE BACK](https://open.spotify.com/album/6pLp4hzV5WX3jvBgYD2q3r) | 2:23 | 2023-09-08 | 2024-01-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83e\udd41 Lembrete in cover ",
+  "description": "Rock, indie e punk dall'Italia \ud83e\udd41 Envelope in cover ",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 156874,
       "name": "(non) mi piace",
       "url": "https://open.spotify.com/track/6PPEzKxkPPb2S9hVkcGLqK"
+    },
+    {
+      "album": {
+        "name": "(Not) So Easy",
+        "url": "https://open.spotify.com/album/3xF4QCWm0oOeTb2usHbEP3"
+      },
+      "artists": [
+        {
+          "name": "HEARTS APART",
+          "url": "https://open.spotify.com/artist/3G9NE50kKvGhZc2RIRIcrj"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150946,
+      "name": "(Not) So Easy",
+      "url": "https://open.spotify.com/track/4aDePFFZOR9jRORx5yh0Ac"
     },
     {
       "album": {
@@ -2275,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/7GX1s9BMIY1fkko9zNHiyx"
+      },
+      "artists": [
+        {
+          "name": "Earthset",
+          "url": "https://open.spotify.com/artist/27FihPbgJOaSdAyq9kgb9t"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369887,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/0b5rQ6UsnKPG3IJbKhs4dA"
+    },
+    {
+      "album": {
         "name": "Are You Lost?",
         "url": "https://open.spotify.com/album/420YoUSafozy2PFNTiQ7VM"
       },
@@ -2664,7 +2700,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 247893,
       "name": "Astray",
       "url": "https://open.spotify.com/track/72xhgbhCrR6Q8Cu4xzUhPo"
@@ -3502,6 +3538,24 @@
       "duration_ms": 229840,
       "name": "Berserk",
       "url": "https://open.spotify.com/track/6fzsjiqZ38KakK6QcJWZ4q"
+    },
+    {
+      "album": {
+        "name": "BESTIA",
+        "url": "https://open.spotify.com/album/4wmGEqQ2W19TqB5iR4rBW2"
+      },
+      "artists": [
+        {
+          "name": "OTTOBRE",
+          "url": "https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "bestia",
+      "url": "https://open.spotify.com/track/0vrdXP9gEGviRVofZXwTuu"
     },
     {
       "album": {
@@ -5736,7 +5790,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 119776,
       "name": "Chainsaw",
       "url": "https://open.spotify.com/track/21FNKndg5jB8R0P7GXsJi1"
@@ -6480,7 +6534,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 152026,
       "name": "Clairvoyant",
       "url": "https://open.spotify.com/track/0eAFKzYD8bptm8F5HCm0AA"
@@ -9348,7 +9402,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160705,
       "name": "Dove Andrei",
       "url": "https://open.spotify.com/track/1iWCEsBIQ3p1BzlRfLek5c"
@@ -21736,7 +21790,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 183820,
       "name": "Mr. Cock o' Nut",
       "url": "https://open.spotify.com/track/7xMn4NzU3UBImfRodK9LzK"
@@ -22226,7 +22280,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188000,
       "name": "Nel Paese Dei Ciechi",
       "url": "https://open.spotify.com/track/5gkTUb3jfATb16RF4hPw2P"
@@ -27271,6 +27325,24 @@
     },
     {
       "album": {
+        "name": "PROIETTILE",
+        "url": "https://open.spotify.com/album/6NsSqAOO7t0aC0tGed53uM"
+      },
+      "artists": [
+        {
+          "name": "Visconti",
+          "url": "https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147146,
+      "name": "PROIETTILE",
+      "url": "https://open.spotify.com/track/04ZJkAMQuZQ8MQZ94RFrqq"
+    },
+    {
+      "album": {
         "name": "Da dove ci eravamo lasciati",
         "url": "https://open.spotify.com/album/6rHBtllnQbtFwMgdo8G4AD"
       },
@@ -27582,7 +27654,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 182196,
       "name": "Pupo Glam",
       "url": "https://open.spotify.com/track/7KHcjQmSTR6zPuDlqGP1v1"
@@ -36659,6 +36731,24 @@
     },
     {
       "album": {
+        "name": "Risuona",
+        "url": "https://open.spotify.com/album/1x7Ky3tcZfL6FRXgJRbhTV"
+      },
+      "artists": [
+        {
+          "name": "Perturbazione",
+          "url": "https://open.spotify.com/artist/6oHCbM8jtvJRe0BjKQ90mD"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Vieni Qua",
+      "url": "https://open.spotify.com/track/2Q08k3Leo7uGGyB6Os6FP6"
+    },
+    {
+      "album": {
         "name": "vienimi_a_cercare",
         "url": "https://open.spotify.com/album/2yeOUg5cSlg1BerIuNThN0"
       },
@@ -37982,7 +38072,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 255246,
       "name": "XIII",
       "url": "https://open.spotify.com/track/3F5BYvaK9Xh5h9Rx9Wdppb"

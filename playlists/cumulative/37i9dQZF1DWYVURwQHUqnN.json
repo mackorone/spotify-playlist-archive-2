@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Shay x Ronisia x Meryl",
+  "description": "Photo : Leto",
   "name": "Best Life",
   "tracks": [
     {
@@ -7888,7 +7888,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 186880,
       "name": "M\u00c9DICAMENT",
       "url": "https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u"
@@ -8270,6 +8270,28 @@
       "duration_ms": 221653,
       "name": "Nous deux",
       "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
+    },
+    {
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/1OTfJFoGv5Rl6O67eiN6M0"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        },
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185359,
+      "name": "Nous deux",
+      "url": "https://open.spotify.com/track/3yXOtAnjSEMjhIVhxmmdIC"
     },
     {
       "album": {
@@ -12213,6 +12235,24 @@
     },
     {
       "album": {
+        "name": "Casus Belli",
+        "url": "https://open.spotify.com/album/2GlRfEUPzFoYTxGcREodSB"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Trivago",
+      "url": "https://open.spotify.com/track/54xaeZD9ya5jd1YJ0LiYew"
+    },
+    {
+      "album": {
         "name": "Trop Bizarre",
         "url": "https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI"
       },
@@ -12942,7 +12982,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 161173,
       "name": "YAKUZA",
       "url": "https://open.spotify.com/track/7DEuA8IpagjlToEyGmm3Zw"

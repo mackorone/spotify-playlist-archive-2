@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,694 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,746 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 36 | [Hustle \(feat\. Jeriq\)](https://open.spotify.com/track/1utu6EbIfnrHFr6uRLFVdH) | [Zyno TopBoy](https://open.spotify.com/artist/0Wid10rZ0QPQdFpmbldjNL), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Hustle \(feat\. Jeriq\)](https://open.spotify.com/album/3HOIA6k8M4ZUGDJGJNKbX6) | 4:09 |
 | 37 | [Smoke 4 Free](https://open.spotify.com/track/1BwW34VUymRb2gdVxSncxr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Euphoria](https://open.spotify.com/album/4IUsZcu8ZFCA64EYOmwAB8) | 2:17 |
 | 38 | [PTSD 2 USDT](https://open.spotify.com/track/4iKu9Gpg6PBVIqyTPRbA2U) | [Bkay EastGaad](https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [PTSD 2 USDT](https://open.spotify.com/album/2VQ2DECgvCMdJC0oQNmIHh) | 3:20 |
-| 39 | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/track/4rgoRhYCCb5Hprx3en869s) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0) | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/album/1Y2wJ0rFDpzSwZRxualxG6) | 2:46 |
+| 39 | [CANOPY \(feat\. Jeriq & Attifaya\)](https://open.spotify.com/track/4rgoRhYCCb5Hprx3en869s) | [Savage Beast](https://open.spotify.com/artist/1Dnsj3JU8TxSHw3VR8RJGj), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0) | [CANOPY \(feat\. Jeriq & Attifaya\)](https://open.spotify.com/album/1Y2wJ0rFDpzSwZRxualxG6) | 2:46 |
 | 40 | [Perfect Timing](https://open.spotify.com/track/7xgcrkdoh6EObUoMq7hvvh) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/4vAkdqqJAaixyOUAMjMv61) | 3:28 |
 | 41 | [Bando Diaries](https://open.spotify.com/track/3T27JFvKbp3btufldaKOUU) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:38 |
 | 42 | [Ego](https://open.spotify.com/track/2KpBEUqfK2LkScRRxB413X) | [Trench RB](https://open.spotify.com/artist/7GO9ysAvMiz5BK2vNikd2G) | [Ego](https://open.spotify.com/album/6WVEZFxbQAjrywuE6J8OOr) | 2:59 |

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí, con nuestra nueva promoción\. Foto: El Bobo de las 3000.
+> El futuro ya está aquí, con nuestra nueva promoción\. Foto: Teo Planell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,128 likes - 43 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,132 likes - 43 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Te Esperaré](https://open.spotify.com/track/7cUOiUPXAYAL0S0O3lL9QY) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Volviendo a Nacer](https://open.spotify.com/album/4Yq59p8hTg1AEitTPp2za1) | 4:08 |
-| 2 | [Qué Hay Más Grande Que Este Amor](https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila / Qué Hay Más Grande Que Este Amor](https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG) | 5:58 |
+| 1 | [Qué Hay Más Grande Que Este Amor](https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila / Qué Hay Más Grande Que Este Amor](https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG) | 5:58 |
+| 2 | [Te Esperaré](https://open.spotify.com/track/7cUOiUPXAYAL0S0O3lL9QY) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Volviendo a Nacer](https://open.spotify.com/album/4Yq59p8hTg1AEitTPp2za1) | 4:08 |
 | 3 | [El Endemoniao](https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Endemoniao](https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo) | 3:34 |
 | 4 | [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 |
 | 5 | [P0RN0](https://open.spotify.com/track/5LMy35rxqq4OG4VTWRMtz3) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Chesyprod](https://open.spotify.com/artist/3dSQm2WdaqG31BS3DylQFD) | [P0RN0](https://open.spotify.com/album/6B0R5o69CqabFAfU3rIeeL) | 2:18 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 42 | [Sea como Sea](https://open.spotify.com/track/0P4VuDVzqrZMXGpgl8T20C) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Sea como Sea](https://open.spotify.com/album/4XxPjsotbbdjY4T4iDG5pP) | 2:43 |
 | 43 | [CONEJITA PLAYBOY](https://open.spotify.com/track/7i1FtYA6fHykC4CiHY1Ift) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:18 |
 
-Snapshot ID: `AAAAAITDdU1dHjIJTAN6n7UtAwKIaOnu`
+Snapshot ID: `AAAAAALfVqdYGNlxUYhzqwOlPmVuyBL8`

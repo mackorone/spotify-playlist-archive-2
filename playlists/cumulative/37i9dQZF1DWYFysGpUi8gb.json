@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unearthing music that makes life feel interesting, featuring madra salach",
+  "description": "unearthing music that makes life feel interesting, featuring pollyfromthedirt",
   "name": "melomania",
   "tracks": [
     {
@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 159383,
       "name": "aimee lou wood freestyle",
       "url": "https://open.spotify.com/track/58yUKDNZNeq2RpGvEfZZIX"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 209658,
       "name": "Behind",
       "url": "https://open.spotify.com/track/4AM4PderK5MCo35OZMvq0t"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 325400,
       "name": "Change",
       "url": "https://open.spotify.com/track/4jAKnQfdSCC0CILVGtr1nC"
@@ -6357,6 +6357,24 @@
     },
     {
       "album": {
+        "name": "Little Green Book",
+        "url": "https://open.spotify.com/album/1SVhqqDZ1g06L5GMsXKAvP"
+      },
+      "artists": [
+        {
+          "name": "Awning",
+          "url": "https://open.spotify.com/artist/0ySs34NhoHIwOa0LZymJDK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "Little Green Book",
+      "url": "https://open.spotify.com/track/6Qv9ShMC8XZOSNbUqMwGeq"
+    },
+    {
+      "album": {
         "name": "Getting Killed",
         "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
       },
@@ -7153,6 +7171,24 @@
     },
     {
       "album": {
+        "name": "Poor Advice",
+        "url": "https://open.spotify.com/album/3ThL2DprG4nlpYk1V10xxB"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248624,
+      "name": "Moth",
+      "url": "https://open.spotify.com/track/5EiOUB3Hx7FSccfXZESciL"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF"
       },
@@ -7834,7 +7870,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 244483,
       "name": "OBL",
       "url": "https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd"
@@ -8093,6 +8129,24 @@
     },
     {
       "album": {
+        "name": "Penny Drop",
+        "url": "https://open.spotify.com/album/6GlTwfD72bVGcDYyG4Jyv9"
+      },
+      "artists": [
+        {
+          "name": "studio20",
+          "url": "https://open.spotify.com/artist/2RLTzU6T70BdbKDd7Fcata"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132419,
+      "name": "Penny Drop",
+      "url": "https://open.spotify.com/track/32GjuqtqII6OOUIzPYbrfs"
+    },
+    {
+      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w"
       },
@@ -8140,7 +8194,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160000,
       "name": "pick me up",
       "url": "https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC"
@@ -9062,6 +9116,24 @@
       "duration_ms": 202173,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2XZDtVBGje3OFEeuUBBAFG"
+    },
+    {
+      "album": {
+        "name": "sex",
+        "url": "https://open.spotify.com/album/0kL12szrXp4blmzGMztPOp"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162390,
+      "name": "sex",
+      "url": "https://open.spotify.com/track/2KMVizTVC3iUOcG6il4lBr"
     },
     {
       "album": {
@@ -10640,7 +10712,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 270000,
       "name": "The Human Can Opener",
       "url": "https://open.spotify.com/track/19NFwLSHRW617Tl2A0cxyj"
@@ -10896,6 +10968,24 @@
       "duration_ms": 223219,
       "name": "The Thing",
       "url": "https://open.spotify.com/track/4SGm4VetizYYLjD3g1g4kI"
+    },
+    {
+      "album": {
+        "name": "My Heart Is A Room With No Cameras In It (Deluxe)",
+        "url": "https://open.spotify.com/album/1ihrc3yuJI063vqKwupVPp"
+      },
+      "artists": [
+        {
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146087,
+      "name": "The Ugliest Girl On The Beach",
+      "url": "https://open.spotify.com/track/7zULk1BRwUrMjgImBEe37D"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIq4JWuSc3JaRFH/cDzntvZAs2K/",
+  "snapshot_id": "AAAAAMPryMXheRdX+CEBo/Ks8BTw0R4/",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:53",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/1ws9HNQVmC84LcyG2pfIhH"
     },
     {
+      "added_at": "2026-10-09 04:01:57",
+      "album": {
+        "name": "TRUE LOVE IN A MADE UP WORLD (DELUXE \u2191%)",
+        "url": "https://open.spotify.com/album/3WC48mkBtcxzdRsYnx3fJq"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 162332,
+      "name": "YOU, You, you",
+      "url": "https://open.spotify.com/track/4qcms70xoJ8Zq8nkQrsXFP"
+    },
+    {
       "added_at": "2026-05-01 04:02:39",
       "album": {
         "name": "Gloss (feat. y3kfae)",
@@ -85,6 +101,62 @@
       "url": "https://open.spotify.com/track/4WOvLGtZgRTQX3aCx9btnJ"
     },
     {
+      "added_at": "2026-10-02 04:02:53",
+      "album": {
+        "name": "BLOW THE ROOF",
+        "url": "https://open.spotify.com/album/0gpokEn8fzZIK1jLCp1wLQ"
+      },
+      "artists": [
+        {
+          "name": "Chopsoe",
+          "url": "https://open.spotify.com/artist/5y8reXJqfkQwiFoFHOqTzF"
+        }
+      ],
+      "duration_ms": 158087,
+      "name": "BLOW THE ROOF",
+      "url": "https://open.spotify.com/track/3XrIj5nsy511h8TDxnpI84"
+    },
+    {
+      "added_at": "2026-10-09 04:01:57",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0jC9oNGXneaKNKG25RwJiz"
+      },
+      "artists": [
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        },
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        }
+      ],
+      "duration_ms": 105529,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/2rZTC37sROpuUvMM3oEZKr"
+    },
+    {
+      "added_at": "2026-09-25 04:02:54",
+      "album": {
+        "name": "Can't Stop Me Now",
+        "url": "https://open.spotify.com/album/1jX4PMIL9J9LX3B3FKBHY9"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Can't Stop Me Now",
+      "url": "https://open.spotify.com/track/0ELmB2r0C0iusi6b0zJH7s"
+    },
+    {
       "added_at": "2026-09-25 04:02:54",
       "album": {
         "name": "Indian Summer (San Holo Remix)",
@@ -103,22 +175,6 @@
       "duration_ms": 212024,
       "name": "Indian Summer (San Holo Remix)",
       "url": "https://open.spotify.com/track/5vbQ7NAm2AjOa1e8PXiwLO"
-    },
-    {
-      "added_at": "2026-09-18 14:58:12",
-      "album": {
-        "name": "LOST DISC",
-        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
-      },
-      "artists": [
-        {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
-        }
-      ],
-      "duration_ms": 218651,
-      "name": "WAITING FOR YOU",
-      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
     },
     {
       "added_at": "2026-08-28 16:14:58",
@@ -161,24 +217,20 @@
       "url": "https://open.spotify.com/track/30sZwWmbQEej0Xg3fhdExf"
     },
     {
-      "added_at": "2026-09-25 04:02:54",
+      "added_at": "2026-09-18 14:58:12",
       "album": {
-        "name": "Can't Stop Me Now",
-        "url": "https://open.spotify.com/album/1jX4PMIL9J9LX3B3FKBHY9"
+        "name": "LOST DISC",
+        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Can't Stop Me Now",
-      "url": "https://open.spotify.com/track/0ELmB2r0C0iusi6b0zJH7s"
+      "duration_ms": 218651,
+      "name": "WAITING FOR YOU",
+      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
     },
     {
       "added_at": "2026-09-18 14:58:12",
@@ -431,22 +483,6 @@
       "duration_ms": 218500,
       "name": "Luire",
       "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
-    },
-    {
-      "added_at": "2026-10-02 04:02:53",
-      "album": {
-        "name": "BLOW THE ROOF",
-        "url": "https://open.spotify.com/album/0gpokEn8fzZIK1jLCp1wLQ"
-      },
-      "artists": [
-        {
-          "name": "Chopsoe",
-          "url": "https://open.spotify.com/artist/5y8reXJqfkQwiFoFHOqTzF"
-        }
-      ],
-      "duration_ms": 158087,
-      "name": "BLOW THE ROOF",
-      "url": "https://open.spotify.com/track/3XrIj5nsy511h8TDxnpI84"
     },
     {
       "added_at": "2026-09-25 04:02:54",
@@ -893,22 +929,6 @@
       "url": "https://open.spotify.com/track/0vAFaI4Dx0qdhRR1WmlIU7"
     },
     {
-      "added_at": "2026-08-28 16:14:58",
-      "album": {
-        "name": "GOIN' ALL THE WAY",
-        "url": "https://open.spotify.com/album/1vsUmqCmrUZl37jF0Vq9ou"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "GOIN' ALL THE WAY",
-      "url": "https://open.spotify.com/track/0y7coha2WoxWkEBsKVfBBz"
-    },
-    {
       "added_at": "2026-08-14 04:01:52",
       "album": {
         "name": "Buggy",
@@ -1055,26 +1075,6 @@
       "duration_ms": 157741,
       "name": "GUNMAN",
       "url": "https://open.spotify.com/track/3neNtifqx7HaNP5gmUQpiL"
-    },
-    {
-      "added_at": "2026-08-14 04:01:52",
-      "album": {
-        "name": "Bright Side",
-        "url": "https://open.spotify.com/album/6A9KJAXVwjO2iGPKpnkAoZ"
-      },
-      "artists": [
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 199285,
-      "name": "Bright Side",
-      "url": "https://open.spotify.com/track/50YReqhlfgqzthTUGBhQaF"
     },
     {
       "added_at": "2026-08-21 15:18:15",

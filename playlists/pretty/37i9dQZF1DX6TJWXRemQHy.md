@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 
 > An ambient + rain playlist\. Blurred city lights, empty sidewalks, and windowpane reflections 🌧️
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,997 likes - 125 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,059 likes - 125 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 | 124 | [Albor 528Hz](https://open.spotify.com/track/4eutA17Jwgx03rlt0cYAhZ) | [Healing Signals](https://open.spotify.com/artist/1IBOCrBlxVCkPqAd1iKnVd) | [Albor 528Hz](https://open.spotify.com/album/6t6XtAsW7aHkVEqGWb0bQF) | 2:12 |
 | 125 | [Thunder Heads](https://open.spotify.com/track/1WMZaVXPsIypTZY3wTOrel) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Thunder Heads](https://open.spotify.com/album/02JB1b4pgW22yVwIw5ZpeW) | 2:58 |
 
-Snapshot ID: `AAAAAHK6djVQ7pvUrEhy48AnolDadUu6`
+Snapshot ID: `AAAAAMMk+0sgvFTRkE2JOJ3zgWF1/Dvd`

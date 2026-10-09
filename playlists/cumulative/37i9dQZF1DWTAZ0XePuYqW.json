@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "FLO's got that big energy. ",
+  "description": "UTILITY & Vv Pete's got that big energy. ",
   "name": "Bounce",
   "tracks": [
     {
@@ -7788,7 +7788,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 169308,
       "name": "Loose Pt. 3",
       "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
@@ -8303,6 +8303,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7iva1QVtX8yUQOzR2ysAVj"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284420,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1wyzwFsSpEh65mQqApmd7o"
+    },
+    {
+      "album": {
         "name": "Meridian & Special",
         "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
       },
@@ -8442,6 +8460,28 @@
       "duration_ms": 199180,
       "name": "MONCLER",
       "url": "https://open.spotify.com/track/4kbMThlSBxsO7AJL12eNrb"
+    },
+    {
+      "album": {
+        "name": "Money Maker",
+        "url": "https://open.spotify.com/album/0GarEKqiWNnPuO69zWTuwe"
+      },
+      "artists": [
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187223,
+      "name": "Money Maker",
+      "url": "https://open.spotify.com/track/0jgVmVHbfM7rbhxQQbdpPo"
     },
     {
       "album": {
@@ -11506,7 +11546,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170074,
       "name": "Shake It To The Max (FLY) [Major Lazer Remix]",
       "url": "https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq"

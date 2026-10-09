@@ -2195,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "Clarividente",
+        "url": "https://open.spotify.com/album/4QreYs6OFrZ5SPgVnXAcw2"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140900,
+      "name": "Clarividente",
+      "url": "https://open.spotify.com/track/3WcUbTs2HA8pQaVL2KswiN"
+    },
+    {
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -6040,7 +6058,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 131693,
       "name": "KTRAP",
       "url": "https://open.spotify.com/track/1vFVE311YbgWWDQkJhBDd6"

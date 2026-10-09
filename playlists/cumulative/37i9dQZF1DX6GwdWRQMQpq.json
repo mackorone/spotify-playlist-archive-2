@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Yung Miami",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Cardi B",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -4388,6 +4388,28 @@
       "duration_ms": 179399,
       "name": "Donk 2.0",
       "url": "https://open.spotify.com/track/7zOMTU04JcYAV2OYtZi1f2"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Chart (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Don\u2019t Chart (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
     },
     {
       "album": {
@@ -17384,7 +17406,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 109745,
       "name": "YEEN",
       "url": "https://open.spotify.com/track/4NpSOG88pKA6RJoQj4Xa9d"

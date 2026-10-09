@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-486 songs - 1 day 20 hr 19 min
+487 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Fix My Eyes On You](https://open.spotify.com/track/01681YDSzn0mtZJoXHzcuG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Fix My Eyes On You](https://open.spotify.com/album/6A2omubxXwPF8fveDc1dNy) | 5:33 | 2020-04-13 | 2022-07-29 |
 | [For Me](https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [For Me](https://open.spotify.com/album/7vVLq5Jzpqevd43tAIx4eA) | 3:21 | 2023-03-31 | 2023-05-12 |
 | [For my mind](https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [For my mind](https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm) | 2:33 | 2023-05-12 | 2023-05-26 |
-| [Fragrance](https://open.spotify.com/track/5d7XeBCY5V4WV7yO6BD4Cq) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance](https://open.spotify.com/album/2e8K2P2XWzFxeyGWEHVEKV) | 4:27 | 2024-01-12 |  |
+| [Fragrance](https://open.spotify.com/track/5d7XeBCY5V4WV7yO6BD4Cq) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance](https://open.spotify.com/album/2e8K2P2XWzFxeyGWEHVEKV) | 4:27 | 2024-01-12 | 2026-10-09 |
 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 | 2024-01-12 | 2024-04-19 |
 | [Freedom Dance](https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Freedom Dance](https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH) | 2:54 | 2023-12-31 | 2024-01-04 |
 | [Gbogbonise](https://open.spotify.com/track/2g5SqiHdJjOPucWuHnzB4k) | [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Gbogbonise](https://open.spotify.com/album/0f9sJpmbLfaa2GstxF7Fxu) | 6:26 | 2025-12-03 | 2025-12-25 |
@@ -342,6 +342,7 @@
 | [Only](https://open.spotify.com/track/2i07f4lpIzbJBsP9xC8Nlk) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [The ONLY \(Ep\)](https://open.spotify.com/album/5shWxKWUY5ezc2na9YKVF0) | 2:39 | 2023-08-25 | 2023-09-01 |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-01 | 2024-04-26 |
 | [Open Up](https://open.spotify.com/track/0vL8wJhWQhHNAJkGurqPF9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Open Up](https://open.spotify.com/album/5XH3M1XHCaAgfQzp53mcRi) | 10:30 | 2020-01-14 | 2023-04-14 |
+| [Oro](https://open.spotify.com/track/5AhlBbGHo9QM9dq3cY9zUb) | [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Oro](https://open.spotify.com/album/55wHnyu3353TGksu1kIRw9) | 19:23 | 2026-10-09 |  |
 | [Oshimiri Atata \(Live\)](https://open.spotify.com/track/0DCrLzKs3DUKq0QIFryzUT) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [Oshimiri Atata \(Live\)](https://open.spotify.com/album/3v6309Tzp153HGRHa1HZIh) | 11:02 | 2025-12-03 | 2025-12-25 |
 | [Over Do](https://open.spotify.com/track/0fzFmrC0PyypWGBpLplUgC) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS) | [Over Do](https://open.spotify.com/album/4SMc8MSi1ZxN8uto4g8lXC) | 3:09 | 2023-06-09 | 2023-06-23 |
 | [Overdose](https://open.spotify.com/track/0oU05VhUd1HCUi516jZdIG) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [A mose](https://open.spotify.com/artist/01bQLjy2Y6N10bDEJsQGEb) | [Overdose](https://open.spotify.com/album/7jWmVpXUDxch6dO9DkP1tu) | 3:09 | 2023-05-05 | 2023-06-02 |

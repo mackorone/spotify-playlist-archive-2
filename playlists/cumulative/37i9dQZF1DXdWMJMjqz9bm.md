@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> a little rap, a little pop, a little country..\. sometimes\. BabyChiefDoIt on the cover.
+> a little rap, a little pop, a little country..\. sometimes\. brakence on the cover.
 
-875 songs - 1 day 15 hr 56 min
+877 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6) | 3:44 | 2022-04-04 | 2022-10-15 |
 | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/album/0ev0saRGsMUB9MxtWZnliz) | 2:35 | 2022-07-22 | 2022-11-30 |
 | [Home Videos](https://open.spotify.com/track/3FuBFn7jnMJWNufU61mSv4) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve) | 2:35 | 2021-11-16 | 2022-02-26 |
+| [HONEYMOON NIGHT](https://open.spotify.com/track/5qlaVYDcab5jX9CXTZQW32) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [HONEYMOON NIGHT](https://open.spotify.com/album/3fUva1Oq4K38WJKDA6RbNl) | 3:18 | 2026-10-09 |  |
 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 | 2023-02-17 | 2024-06-01 |
 | [Hopeless Romantic](https://open.spotify.com/track/545SZZYmeuSlM9biS7uZjf) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:56 | 2022-03-22 | 2022-07-02 |
 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 | 2022-02-04 | 2022-05-07 |
@@ -401,6 +402,7 @@
 | [ILYSM](https://open.spotify.com/track/6g5YTzEAhClnTivb4x6iBR) | [The Adoni](https://open.spotify.com/artist/2FE0a7TnyZHfLjcWqTdnBK), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [ILYSM](https://open.spotify.com/album/3MnWd2qQ1TnZ7eJx80LQRY) | 2:31 | 2023-03-24 | 2023-04-09 |
 | [IM YEAT](https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [IM YEAT](https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae) | 2:48 | 2025-08-05 | 2025-11-08 |
 | [IMPATIENT](https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [IMPATIENT](https://open.spotify.com/album/6GH9V2pkHwDjCNWhDkGQM4) | 3:09 | 2022-07-12 | 2023-09-09 |
+| [IMPULSIVE](https://open.spotify.com/track/6HkdUz90Kmcxr0cprI10UL) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [IMPULSIVE](https://open.spotify.com/album/3ywEQ1qz7ZjehBOSAOPieP) | 2:36 | 2026-10-09 |  |
 | [imu \(ft\. Travis Barker\)](https://open.spotify.com/track/0CcPL8OEi8vchvprpl6oYe) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [misery lake](https://open.spotify.com/album/6vqNFOfIgqe0l2Ui47YSyO) | 3:35 | 2022-01-05 | 2022-05-20 |
 | [IN THE FLESH](https://open.spotify.com/track/4Pml3YWGV50kbYfkty80WY) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [IN THE FLESH](https://open.spotify.com/album/3Cqafp2K6qY1TSslQRfAqo) | 1:54 | 2025-07-01 | 2025-11-18 |
 | [Indy 500](https://open.spotify.com/track/7boOv0Ph2myAueof7CrrUt) | [Kid Quill](https://open.spotify.com/artist/5vGXVYudNgm9E7jhXMM0Ro) | [Indy 500](https://open.spotify.com/album/2VJf8cxl1siCgiQMwNAvvM) | 2:10 | 2023-09-07 | 2024-06-01 |
@@ -490,7 +492,7 @@
 | [MAZZALEEN](https://open.spotify.com/track/6AhJ1N1Ua0nhJQa9G4fqyO) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [II](https://open.spotify.com/album/3bYmRWtPWM94WfgoW6QGzL) | 1:48 | 2025-11-04 | 2026-05-23 |
 | [Medicine](https://open.spotify.com/track/3BuyvZXqG2GvQ6RertnyAt) | [Miles Wesley](https://open.spotify.com/artist/4WhfepOctZk2kVISWeeNo3), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Medicine](https://open.spotify.com/album/6qMn2B1Pee5ttuYcqJCJFq) | 3:11 | 2021-11-16 | 2022-02-26 |
 | [Melody I Can Finish](https://open.spotify.com/track/6jagulbw4V67UJOveEZuY9) | [Sorisa](https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8) | [Melody I Can Finish](https://open.spotify.com/album/5SRmWRHSdNrIsqjoLbsi4l) | 2:22 | 2026-05-22 |  |
-| [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3rpA5iIZtlhMOeHUo1GNvq) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:00 | 2026-02-16 |  |
+| [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3rpA5iIZtlhMOeHUo1GNvq) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:00 | 2026-02-16 | 2026-10-09 |
 | [MERCEDES](https://open.spotify.com/track/6VEssnVAOZDmDEWrVCj4HP) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [A NECESSARY EVIL](https://open.spotify.com/album/0bYw8OiOHrDz8PerNCciSO) | 2:20 | 2023-06-23 | 2024-06-01 |
 | [Mero Mero](https://open.spotify.com/track/0DEhpnXCQButZJDhQ7KXrA) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Mero Mero](https://open.spotify.com/album/2T2iIfXu2G1ndz3qgTrD1P) | 2:34 | 2024-03-15 | 2025-03-24 |
 | [Mexico](https://open.spotify.com/track/0lcAWg1SRPEzF41AtPM6Na) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Mexico](https://open.spotify.com/album/5bzm9L4AJLCpSMcaVqXXLX) | 3:01 | 2026-05-22 |  |
@@ -634,7 +636,7 @@
 | [RA TA DIA](https://open.spotify.com/track/2mi8vJusg3QFEcm0PAjLFk) | [Judah Weston](https://open.spotify.com/artist/3E7pt4BEY5iDLYFRd6kMXX), [IsoKeys](https://open.spotify.com/artist/5iofffGNVFDotaaoqyEZNm) | [Why So Much Hate](https://open.spotify.com/album/71mI5a7ctw1UtEmppPzdor) | 1:46 | 2026-07-21 |  |
 | [RAGE](https://open.spotify.com/track/2JbwQteW6QQ2M2RIqGWY6h) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [RAGE](https://open.spotify.com/album/5RmYLr4JvrT34dc5efzt6X) | 2:28 | 2022-09-16 | 2023-04-05 |
 | [RAINCLOUDS](https://open.spotify.com/track/39ZCoAQVRkBsAIo0kO8f1f) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [RAINCLOUDS](https://open.spotify.com/album/4Est34UxJXBcf28dnrIgGR) | 2:43 | 2022-03-16 | 2022-07-02 |
-| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-02-16 |  |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-02-16 | 2026-10-09 |
 | [Random](https://open.spotify.com/track/422lAAWQO9TqL1LxIPdhOn) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 3:00 | 2022-09-23 | 2022-11-12 |
 | [RAYA](https://open.spotify.com/track/5XvkekIwf8FnuJrRZN5uuC) | [Paces](https://open.spotify.com/artist/5xO9868Xc1mjAzmaN1efoK) | [RAYA](https://open.spotify.com/album/5FDnQdaKIGKlVlH901ce6B) | 2:43 | 2026-04-29 |  |
 | [ready or noT](https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [ready or noT](https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK) | 4:02 | 2026-09-26 |  |

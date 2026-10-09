@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,245 songs - 3 day 8 hr 42 min
+1,246 songs - 3 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,6 +677,7 @@
 | [Medusa](https://open.spotify.com/track/3ei0xxgl2QNKR41fKWfTMN) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Sterling Toles](https://open.spotify.com/artist/0WdhLYtPH99bhAmqPLndhO) | [Manger on McNichols](https://open.spotify.com/album/0ZUtBUG7Ya4y0p8qSYlPFj) | 3:26 | 2023-01-13 |  |
 | [Meeting of the Spirits \(with John McLaughlin\)](https://open.spotify.com/track/41ZgVC4H14ajbV2adh3D7s) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [The Inner Mounting Flame \(with John McLaughlin\)](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:51 | 2023-06-09 |  |
 | [Mellon Collie And The Infinite Sadness](https://open.spotify.com/track/3WfcSkODi8NAvzE9CySdDp) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness](https://open.spotify.com/album/09LdvC3k8ybEmyeiShUWw2) | 2:52 | 2023-02-05 |  |
+| [Mesh](https://open.spotify.com/track/6q434zzWBD7culnGqk7rc3) | [Toys From Taiwan](https://open.spotify.com/artist/2FOHOwAyJLD2RImyfPimKa) | [Shorts! Vol\. 1](https://open.spotify.com/album/07mB7TcGEStlDvLkMP7ukh) | 1:35 | 2026-10-08 |  |
 | [Mesozoic](https://open.spotify.com/track/7CgqX3jfE10v5moFGer5r6) | [Brendan Byrnes](https://open.spotify.com/artist/2X5pNtEOcvIh9wPqq2EJpf) | [Holocene Dream](https://open.spotify.com/album/4Q3FN4UctdGgGkuIBVQvve) | 5:12 | 2026-09-25 |  |
 | [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:50 | 2024-03-03 |  |
 | [Metronomic Underground](https://open.spotify.com/track/0n9D5BLKdwCbSOLWZISiZN) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs) | 7:54 | 2024-03-24 | 2024-03-27 |

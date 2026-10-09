@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Emo Emo Idi
 
-479 songs - 1 day 6 hr 50 min
+480 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Yedo Yedo Maaya \(From "Bhimaa"\)](https://open.spotify.com/track/1QBTZy7E6aLKQFuyimNn0m) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Kalyan Chakravarthy](https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Yedo Yedo Maaya \(From "Bhimaa"\)](https://open.spotify.com/album/3O58tTvMyhvd9LYjNDansR) | 3:21 | 2024-02-09 | 2025-02-20 |
 | [Yedurangula Vaana](https://open.spotify.com/track/0l70yEnMGHPPZff7iLplnY) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [18 Pages](https://open.spotify.com/album/6DYN9cn9dlRY1wvhPJsHHI) | 4:12 | 2022-12-12 | 2023-10-12 |
 | [Yegire Manasule \(From "Mechanic Rocky"\)](https://open.spotify.com/track/72YNM7C4o8IUCfX8FAsbW5) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Yegire Manasule \(From "Mechanic Rocky"\)](https://open.spotify.com/album/4lkCl4dlT66ulvuMa4ul8W) | 1:30 | 2025-01-31 | 2025-04-17 |
+| [Yellow Chunni \(From "Itllu Arjuna"\)](https://open.spotify.com/track/4DTpJMZmQwdMx3ujuUKjgK) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Sreejo](https://open.spotify.com/artist/0h6zdOSfThWV5s4fx44Hoc) | [Yellow Chunni \(From "Itllu Arjuna"\)](https://open.spotify.com/album/2SBZSmQ39wh6T6F2WleSzR) | 3:31 | 2026-10-08 |  |
 | [Yemaiundacho](https://open.spotify.com/track/3S7IadsjeS0DXkAaHSREkM) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Yemaiundacho](https://open.spotify.com/album/2QfB98RhYr6Y3YqwK5tbFx) | 5:25 | 2022-03-11 | 2023-02-21 |
 | [Yetta Yetta \(From "Lenin"\)](https://open.spotify.com/track/31b5VAlGdyvuKbqrvAEwXs) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Yetta Yetta \(From "Lenin"\)](https://open.spotify.com/album/3j9dRlUxSullTEIPx4vtSw) | 3:23 | 2026-04-16 | 2026-07-28 |
 

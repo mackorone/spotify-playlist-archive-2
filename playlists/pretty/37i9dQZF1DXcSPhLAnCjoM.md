@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Chaussures Roses" de TeddyBear est le Grand Hit de la semaine.
+> "Le petit pêcheur" de Manon Lisa est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,799 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,826 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chaussures Roses](https://open.spotify.com/track/4cLspfLk7lebgQMDoZgSKD) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Chaussures Roses](https://open.spotify.com/album/7BbGTT6BxkSEK9nyIzwi8t) | 3:21 |
-| 2 | [Te rencontrer encore](https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Te rencontrer encore](https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ) | 2:50 |
-| 3 | [Frérot](https://open.spotify.com/track/6aZhAyAkZDl00J7c6o35Qc) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Frérot](https://open.spotify.com/album/6Ma7L5f2hce8QCHaol5V4h) | 2:43 |
-| 4 | [Le Petit Pêcheur](https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Le Petit Pêcheur](https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB) | 2:09 |
-| 5 | [Juste un peu](https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [EMMA](https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V) | [Juste un peu](https://open.spotify.com/album/7A3ec7fkFbwyH6jyjPatCJ) | 2:34 |
+| 1 | [Le Petit Pêcheur](https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Le Petit Pêcheur](https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB) | 2:09 |
+| 2 | [Chaussures Roses](https://open.spotify.com/track/4cLspfLk7lebgQMDoZgSKD) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Chaussures Roses](https://open.spotify.com/album/7BbGTT6BxkSEK9nyIzwi8t) | 3:21 |
+| 3 | [Te rencontrer encore](https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Te rencontrer encore](https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ) | 2:50 |
+| 4 | [Frérot](https://open.spotify.com/track/6aZhAyAkZDl00J7c6o35Qc) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Frérot](https://open.spotify.com/album/6Ma7L5f2hce8QCHaol5V4h) | 2:43 |
+| 5 | [La lune](https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La lune](https://open.spotify.com/album/7Jb1IPLlgsMbIubX0UqeLf) | 3:28 |
 | 6 | [Sur la piste](https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Sur la piste](https://open.spotify.com/album/16vXhWhUZhSLmRDuljs5ui) | 2:52 |
-| 7 | [La lune](https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La lune](https://open.spotify.com/album/7Jb1IPLlgsMbIubX0UqeLf) | 3:28 |
-| 8 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
-| 9 | [Soirée mondaine](https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Soirée mondaine](https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m) | 3:18 |
-| 10 | [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 |
-| 11 | [Soleil](https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Soleil](https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw) | 2:11 |
-| 12 | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/album/70kgTL1sdlX06MdZ5wa4rq) | 3:05 |
+| 7 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
+| 8 | [Soirée mondaine](https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Soirée mondaine](https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m) | 3:18 |
+| 9 | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/album/70kgTL1sdlX06MdZ5wa4rq) | 3:05 |
+| 10 | [Juste un peu](https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [EMMA](https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V) | [Juste un peu](https://open.spotify.com/album/7A3ec7fkFbwyH6jyjPatCJ) | 2:34 |
+| 11 | [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 |
+| 12 | [Soleil](https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Soleil](https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw) | 2:11 |
 | 13 | [Je pense à vous](https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Je pense à vous](https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF) | 2:52 |
 | 14 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
 | 15 | [D'or et d'étain](https://open.spotify.com/track/7CcuCgNXUWEAyKhQGwqJzf) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [D'or et d'étain](https://open.spotify.com/album/6uZcxUFKGEVp2S6205r4s4) | 3:16 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [Systaime](https://open.spotify.com/track/03P7mOAnyLr6T8uIGGU9Pr) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Systaime](https://open.spotify.com/album/3WPu1zUqJ9nWCsjeIqTe4t) | 2:34 |
 | 40 | [Famille ou pas famille](https://open.spotify.com/track/6FnLfT6EVS0IPhPAidTTmx) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Famille ou pas famille](https://open.spotify.com/album/5RqbggO0gxtg1qSSdHCqYd) | 3:01 |
 
-Snapshot ID: `AAAAALKxTQFDaPahDROh4f5EWpf8GIeq`
+Snapshot ID: `AAAAAGfG8pM8f9vyZZq1dWWePsfL0CQu`

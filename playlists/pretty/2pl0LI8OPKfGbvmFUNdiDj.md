@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,207 likes - 69 songs - 3 hr 54 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,221 likes - 71 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 67 | [In an Hour of Truth](https://open.spotify.com/track/4GehY9RxsnDzHe3SEhTeUF) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In an Hour of Truth](https://open.spotify.com/album/6pjoldpGadfEffunZF5XNe) | 4:11 |
 | 68 | [Paranoia](https://open.spotify.com/track/34gsr87ouP8s2JFvGuVtEO) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Paranoia](https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR) | 2:45 |
 | 69 | [Yellow](https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Yellow](https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV) | 4:19 |
+| 70 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 |
+| 71 | [Can I Have Ya Number?](https://open.spotify.com/track/3QVRa8jDHfAjH8TrIhfARQ) | [Prince LDJ](https://open.spotify.com/artist/4VaqTSzt4FF1Qz0e7fG5dT) | [Unfinished Business EP](https://open.spotify.com/album/4pCSzypjL7TBI6HgoMf2Wt) | 3:36 |
 
-Snapshot ID: `AAAEZ0gfWEdAT9LzbkTYLX36yJKZ3QFn`
+Snapshot ID: `AAAEad5mlY86HkWUSjI8Wnaz3d31vJVF`

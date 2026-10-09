@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: \u0414eva",
-  "num_followers": 17029,
+  "num_followers": 17033,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "Kontakthiba",
+        "url": "https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV"
+      },
+      "artists": [
+        {
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Kontakthiba",
+      "url": "https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "SZINTIPOP",
         "url": "https://open.spotify.com/album/76HGfnlgAvUzsBnd7z77ou"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 204923,
       "name": "MEGTAL\u00c1LLAK M\u00c9G (feat. Lil Frakk & FLM)",
       "url": "https://open.spotify.com/track/2Uc4wbnLvtDu9jLvYg96fs"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "V\u00e1rok R\u00e1d",
-        "url": "https://open.spotify.com/album/2zr6C54DVZWC8pPmPuOThx"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 169870,
-      "name": "V\u00e1rok R\u00e1d",
-      "url": "https://open.spotify.com/track/5ilhxSrCOfJSQNYfC022mT"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Kontakthiba",
-        "url": "https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV"
+        "name": "V\u00e1rok R\u00e1d",
+        "url": "https://open.spotify.com/album/2zr6C54DVZWC8pPmPuOThx"
       },
       "artists": [
         {
-          "name": "laurie.",
-          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
         }
       ],
-      "duration_ms": 181500,
-      "name": "Kontakthiba",
-      "url": "https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH"
+      "duration_ms": 169870,
+      "name": "V\u00e1rok R\u00e1d",
+      "url": "https://open.spotify.com/track/5ilhxSrCOfJSQNYfC022mT"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Nem Ismerlek",
-        "url": "https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O"
+        "name": "Sz\u00edven \u00fctnek a m\u00e9lyek",
+        "url": "https://open.spotify.com/album/31fF9TEfPk5yCoVrmiGz1o"
       },
       "artists": [
         {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+          "name": "Lenkke_",
+          "url": "https://open.spotify.com/artist/4tX2dLblK9T1yJ9s6dYjZr"
         }
       ],
-      "duration_ms": 137400,
-      "name": "Nem Ismerlek",
-      "url": "https://open.spotify.com/track/4ImLn4Eg8tUHdNBhnmRmhF"
+      "duration_ms": 270830,
+      "name": "Sz\u00edven \u00fctnek a m\u00e9lyek",
+      "url": "https://open.spotify.com/track/7cpvbgMfldIejIVFMpUiVZ"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Sz\u00edven \u00fctnek a m\u00e9lyek",
-        "url": "https://open.spotify.com/album/31fF9TEfPk5yCoVrmiGz1o"
+        "name": "Nem Ismerlek",
+        "url": "https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O"
       },
       "artists": [
         {
-          "name": "Lenkke_",
-          "url": "https://open.spotify.com/artist/4tX2dLblK9T1yJ9s6dYjZr"
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
         }
       ],
-      "duration_ms": 270830,
-      "name": "Sz\u00edven \u00fctnek a m\u00e9lyek",
-      "url": "https://open.spotify.com/track/7cpvbgMfldIejIVFMpUiVZ"
+      "duration_ms": 137400,
+      "name": "Nem Ismerlek",
+      "url": "https://open.spotify.com/track/4ImLn4Eg8tUHdNBhnmRmhF"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/7CS8xqnsr8hihSZBNGH69n"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 218675,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/3nMdLmpwXWPE8JtJ8bQQVn"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "Jazzbois Around The World",
         "url": "https://open.spotify.com/album/0NckwWyCO69wyU3JM7v3PN"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 165000,
       "name": "DONEKIRK",
       "url": "https://open.spotify.com/track/019GjG59HXJGly9yuhDb7n"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/7CS8xqnsr8hihSZBNGH69n"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 218675,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/3nMdLmpwXWPE8JtJ8bQQVn"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -955,6 +955,26 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "A sz\u00edv vezet",
+        "url": "https://open.spotify.com/album/5kVYf3Gm7wgk1F7Jjcm3Lm"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        },
+        {
+          "name": "Blansch",
+          "url": "https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "A sz\u00edv vezet",
+      "url": "https://open.spotify.com/track/4DYbJ4osRQVvzr5Stzq22q"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "Sehovaval\u00f3",
         "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 185142,
       "name": "\u00dcDV A KLUBBAN",
       "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "A sz\u00edv vezet",
-        "url": "https://open.spotify.com/album/5kVYf3Gm7wgk1F7Jjcm3Lm"
-      },
-      "artists": [
-        {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
-        },
-        {
-          "name": "Blansch",
-          "url": "https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "A sz\u00edv vezet",
-      "url": "https://open.spotify.com/track/4DYbJ4osRQVvzr5Stzq22q"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "NEM N\u00c9M\u00cdTHATTOK EL",
         "url": "https://open.spotify.com/album/2R1Psv1ZPyF3FggKde4rfp"
       },
@@ -1083,38 +1099,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Portug\u00edzer",
-        "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 242899,
-      "name": "Portug\u00edzer",
-      "url": "https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
         "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 259624,
       "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
       "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "Portug\u00edzer",
+        "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 242899,
+      "name": "Portug\u00edzer",
+      "url": "https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 205688,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "H\u00e9ra",
         "url": "https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 187849,
       "name": "MARIO",
       "url": "https://open.spotify.com/track/08m9oJ1bpBWLl1k66Uk7LS"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 205688,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Utcasarki f\u00e9ny",
-        "url": "https://open.spotify.com/album/1V3e1jy9kToUikxhzK7Ges"
-      },
-      "artists": [
-        {
-          "name": "Art\u016br Rambo",
-          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
-        }
-      ],
-      "duration_ms": 190724,
-      "name": "Utcasarki f\u00e9ny",
-      "url": "https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "Pillang\u00f3hat\u00e1s",
         "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 179045,
       "name": "Groteszk",
       "url": "https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "Utcasarki f\u00e9ny",
+        "url": "https://open.spotify.com/album/1V3e1jy9kToUikxhzK7Ges"
+      },
+      "artists": [
+        {
+          "name": "Art\u016br Rambo",
+          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
+        }
+      ],
+      "duration_ms": 190724,
+      "name": "Utcasarki f\u00e9ny",
+      "url": "https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R"
     },
     {
       "added_at": "2026-09-18 15:19:05",

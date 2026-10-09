@@ -10823,6 +10823,24 @@
     },
     {
       "album": {
+        "name": "Rains",
+        "url": "https://open.spotify.com/album/1NSQcnM9FYZD0iqC5Scmpr"
+      },
+      "artists": [
+        {
+          "name": "Vatn",
+          "url": "https://open.spotify.com/artist/38RpFJzmNYQjdvFv5gvdOR"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157884,
+      "name": "Rains",
+      "url": "https://open.spotify.com/track/7KAIxYOSxrWKBeO9IqwOVA"
+    },
+    {
+      "album": {
         "name": "Labyrinths",
         "url": "https://open.spotify.com/album/5ujmkxgqwwHvHZ78oeD9AP"
       },

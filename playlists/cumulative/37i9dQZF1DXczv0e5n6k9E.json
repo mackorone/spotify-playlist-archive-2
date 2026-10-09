@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trouf & Bloody Hawk",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: YungKapa",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -4925,6 +4925,28 @@
     },
     {
       "album": {
+        "name": "DRAKOS",
+        "url": "https://open.spotify.com/album/029rZwDYwchuO0mbmgyMfu"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "DRAKOS",
+      "url": "https://open.spotify.com/track/4YKJlKApPEaLf7Ba2etctU"
+    },
+    {
+      "album": {
         "name": "TURBO DELUXE",
         "url": "https://open.spotify.com/album/2QLCEk7JTunODh25ZYrE88"
       },
@@ -5310,6 +5332,32 @@
       "duration_ms": 178487,
       "name": "EKANA TO LATHOS",
       "url": "https://open.spotify.com/track/70r70apaAnBPVf8va0IR3K"
+    },
+    {
+      "album": {
+        "name": "Ela Poios?",
+        "url": "https://open.spotify.com/album/3bEaoqdhHMwS0nWRaRNMJR"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Ela Poios?",
+      "url": "https://open.spotify.com/track/6TgFF0enkF3Fp8h5CzXLE9"
     },
     {
       "album": {
@@ -9504,7 +9552,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 145019,
       "name": "KYRIAKI FREESTYLE",
       "url": "https://open.spotify.com/track/5w17UwOZCdsGMSpyIkqK4W"
@@ -13103,6 +13151,32 @@
     },
     {
       "album": {
+        "name": "Oxi Oxi",
+        "url": "https://open.spotify.com/album/3qst1bDkeVQpgfinmhgssF"
+      },
+      "artists": [
+        {
+          "name": "Khay Be",
+          "url": "https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "Oxi Oxi",
+      "url": "https://open.spotify.com/track/4tr7QnnigYv7MfWZECjtTD"
+    },
+    {
+      "album": {
         "name": "P.O.S.",
         "url": "https://open.spotify.com/album/2Shh4sMBBv3Uq5Klg9n2xd"
       },
@@ -16549,6 +16623,48 @@
     },
     {
       "album": {
+        "name": "State of Mind",
+        "url": "https://open.spotify.com/album/2QSdzEBCAnML8MAXyCHAdT"
+      },
+      "artists": [
+        {
+          "name": "Mikros Kleftis",
+          "url": "https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9"
+        },
+        {
+          "name": "DJ Waif",
+          "url": "https://open.spotify.com/artist/34E7XSYuJQGWpBlVQS0jkv"
+        },
+        {
+          "name": "Hatemost",
+          "url": "https://open.spotify.com/artist/39MSMcTSVkk9Wy5X1Dozwp"
+        },
+        {
+          "name": "Sadomas",
+          "url": "https://open.spotify.com/artist/3eZXDyJChvCDzsAGtNeGLP"
+        },
+        {
+          "name": "Thitis",
+          "url": "https://open.spotify.com/artist/2JQCG349xGvlhwEkK4qWoz"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Pilotirio",
+          "url": "https://open.spotify.com/artist/4iyJdQ9tPh7sqSjqLfPe4R"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292181,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/3dyhUzVahVbOFj1fMNgI3o"
+    },
+    {
+      "album": {
         "name": "Stigmes",
         "url": "https://open.spotify.com/album/0PKKVfieFUVX7ZMaBK3Sz7"
       },
@@ -16770,7 +16886,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 171715,
       "name": "STUFF",
       "url": "https://open.spotify.com/track/01uh1vFxHx6tHAVslWrJdZ"
@@ -18432,6 +18548,28 @@
       "duration_ms": 196363,
       "name": "VERSACE",
       "url": "https://open.spotify.com/track/77Ncp4dEk7bVbDTpTwfj6I"
+    },
+    {
+      "album": {
+        "name": "VGAINO RIXNO",
+        "url": "https://open.spotify.com/album/22BmVOKqRtGWC7jOpF2wKs"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117735,
+      "name": "VGAINO RIXNO",
+      "url": "https://open.spotify.com/track/703yjsRft9WQxljrzopeuz"
     },
     {
       "album": {

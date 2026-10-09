@@ -11773,6 +11773,28 @@
     },
     {
       "album": {
+        "name": "Beach Side",
+        "url": "https://open.spotify.com/album/5NpJ7LUHODY4sOXbDO0ltM"
+      },
+      "artists": [
+        {
+          "name": "Swink",
+          "url": "https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123243,
+      "name": "Beach Side",
+      "url": "https://open.spotify.com/track/54IHZptVCeuwUn4KVhzn6u"
+    },
+    {
+      "album": {
         "name": "Beachside Caf\u00e9",
         "url": "https://open.spotify.com/album/0GEqc2CZgEfoJ1PIldm7Al"
       },
@@ -31356,6 +31378,28 @@
       "duration_ms": 130000,
       "name": "Daily Routine",
       "url": "https://open.spotify.com/track/5mhCTQzibAYfmEEAyVAJaJ"
+    },
+    {
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/55nvyCHKKd1pjigm2w3PzT"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/57lpTN5S3GYD8SCrjqiA6X"
     },
     {
       "album": {
@@ -73699,6 +73743,24 @@
     },
     {
       "album": {
+        "name": "lighthearted",
+        "url": "https://open.spotify.com/album/0iCZ6exI98lR5FjQ6oBjLq"
+      },
+      "artists": [
+        {
+          "name": "Cloophie",
+          "url": "https://open.spotify.com/artist/4IeQ3mv23oNLUGBHk4mOIU"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "lighthearted",
+      "url": "https://open.spotify.com/track/0LkUIdKBKC0M810nKIeSlu"
+    },
+    {
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/4fziSjr6HWzRqSMG8mBXk3"
       },
@@ -86087,6 +86149,24 @@
     },
     {
       "album": {
+        "name": "more love",
+        "url": "https://open.spotify.com/album/6r780vED6HK9DJsuPPOqUI"
+      },
+      "artists": [
+        {
+          "name": "emptydream.",
+          "url": "https://open.spotify.com/artist/5eVZVouJSvjH5UNfhJy1BX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "more love",
+      "url": "https://open.spotify.com/track/5Y4xIiKuNFbMcZV5saKHJW"
+    },
+    {
+      "album": {
         "name": "Letters From The Heart",
         "url": "https://open.spotify.com/album/2wGJNm55yZvms7WUGDaOzG"
       },
@@ -88130,7 +88210,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 126153,
       "name": "my favourite shirt",
       "url": "https://open.spotify.com/track/5fnJ1pJlGgXKy3W6HhjEjV"
@@ -106709,6 +106789,24 @@
     },
     {
       "album": {
+        "name": "Ralph",
+        "url": "https://open.spotify.com/album/7raNZPikMnHZlangXzDEuZ"
+      },
+      "artists": [
+        {
+          "name": "agot-w",
+          "url": "https://open.spotify.com/artist/7kDzFaRe9l7To45Hqo6Kdh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Ralph",
+      "url": "https://open.spotify.com/track/0660Qq6M7YZRR4I6i0wUjf"
+    },
+    {
+      "album": {
         "name": "Rambla Sur",
         "url": "https://open.spotify.com/album/4JeF8hBzxcmjgYGn9RMb8X"
       },
@@ -107742,7 +107840,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 142574,
       "name": "Refract",
       "url": "https://open.spotify.com/track/4SW4q0IUhjq0upc0RFWM92"
@@ -124649,6 +124747,24 @@
     },
     {
       "album": {
+        "name": "Still Crossing",
+        "url": "https://open.spotify.com/album/7ksjK0vWE0mWjePbGq9eQo"
+      },
+      "artists": [
+        {
+          "name": "Slow Koi",
+          "url": "https://open.spotify.com/artist/5PaBNnPSqIT1c3JH9D0W1D"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121114,
+      "name": "Still Crossing",
+      "url": "https://open.spotify.com/track/40MQcaNZw9c6bgk4U8t1Hs"
+    },
+    {
+      "album": {
         "name": "Still Friends",
         "url": "https://open.spotify.com/album/6S9dkpDi35Toushbl4CQBW"
       },
@@ -141530,6 +141646,24 @@
       "duration_ms": 119500,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3cx4qyjwX8Ji4SXKc7P5F6"
+    },
+    {
+      "album": {
+        "name": "upside down",
+        "url": "https://open.spotify.com/album/4yL9uvutpcvUvDH2de6nYW"
+      },
+      "artists": [
+        {
+          "name": "table manners",
+          "url": "https://open.spotify.com/artist/4EpkX1JWuSjiqDuZBoqIiU"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127431,
+      "name": "upside down",
+      "url": "https://open.spotify.com/track/3dkzoT2wgwndlCrKPSJ0cr"
     },
     {
       "album": {

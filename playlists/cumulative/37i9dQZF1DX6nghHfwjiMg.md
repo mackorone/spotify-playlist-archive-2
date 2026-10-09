@@ -4,7 +4,7 @@
 
 > Artistas para descubrir 📸 Maia Reficco
 
-350 songs - 18 hr 0 min
+355 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [AMAME](https://open.spotify.com/track/3ynkDyWXMgspdVxrp022vu) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 3:39 | 2022-06-01 | 2023-06-02 |
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-06-01 | 2023-06-02 |
 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 | 2026-08-20 |  |
+| [Animales](https://open.spotify.com/track/0sGGeULtIdZB1rXxSVFrT1) | [CHUCK\-MOOL](https://open.spotify.com/artist/2TnhvttZWiPUwYagute1fa) | [CHUCK\-MOOL, Vol\. 3](https://open.spotify.com/album/6xkfAoqD137uEC954eqPa9) | 2:59 | 2026-10-09 |  |
 | [Anímate](https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Anímate](https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq) | 3:38 | 2023-06-01 | 2024-05-08 |
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-11-11 | 2023-06-02 |
 | [Arrancarte el Corazón \- En Vivo En Buenos Aires](https://open.spotify.com/track/2VZ5CwTjt73kEtUPhJR0sP) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Arrancarte el Corazón \(En Vivo En Buenos Aires\)](https://open.spotify.com/album/26rAU20hzlRLlNtwCo7HbB) | 4:03 | 2026-08-14 |  |
@@ -170,6 +171,7 @@
 | [La Mejor Versión de Mi](https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [La Mejor Versión de Mi](https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5) | 4:05 | 2024-05-07 | 2025-05-10 |
 | [La Oficial](https://open.spotify.com/track/74sIGoxUiqj5vLjry0zket) | [Pily García](https://open.spotify.com/artist/39oW9XDNK2MidsoRAyjXeB) | [La Oficial](https://open.spotify.com/album/49qL6ootmx7M0oJ8RVaDNI) | 3:18 | 2021-11-11 | 2023-06-02 |
 | [La Rompo](https://open.spotify.com/track/51PIicrHWhFFaBfBgJpkbM) | [May Creizy](https://open.spotify.com/artist/6XyKFAoM3iHJimAHWo7JNQ), [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [La Rompo](https://open.spotify.com/album/0r655437RSFvs7zosH5h8i) | 3:09 | 2024-05-07 | 2025-05-10 |
+| [La Sangre Brota](https://open.spotify.com/track/5szklKSV4LBsdynyHk2il8) | [Liberia](https://open.spotify.com/artist/4ZIizzWtTYNGX6GuRFHamC) | [El Fin del Mundo Fue Ayer](https://open.spotify.com/album/4xVEQW9F2GM6yPR2cCobGm) | 4:17 | 2026-10-09 |  |
 | [La Villana](https://open.spotify.com/track/4mIgIPpTRA2aIfp3vCufep) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 3:33 | 2026-08-14 |  |
 | [LADRONA \- Oficial](https://open.spotify.com/track/0zipg8FLDq6ScuwPP94tNX) | [ALEXIS FLP](https://open.spotify.com/artist/6L4PEBmok2rZTAHAusjetz), [Thommy](https://open.spotify.com/artist/2EHsrQ0ZDchzP1I6FHt2Yz) | [LADRONA \(Oficial\)](https://open.spotify.com/album/2qiSfX0TAMgkOB4u5ya5i4) | 3:49 | 2024-05-07 | 2025-05-10 |
 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 | 2023-06-01 | 2024-05-08 |
@@ -217,6 +219,7 @@
 | [Millonario](https://open.spotify.com/track/6pHrrTfjzWugd7TURu5qSc) | [Cris 66](https://open.spotify.com/artist/3GiNBEnaHit0JLhbf9BQCG), [El Mala](https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC) | [Millonario](https://open.spotify.com/album/4ERuhxxTv8Nx7B7z4jEXoi) | 2:08 | 2024-05-07 | 2025-05-10 |
 | [Minina](https://open.spotify.com/track/5UJgQ7DVvZsN4vA1DwSvo1) | [Apolo Kidd](https://open.spotify.com/artist/20ScfavHH5N3vZc62GS5k1), [scarface el tyger](https://open.spotify.com/artist/5MlZuriWb6dZV0VFOClFys) | [Minina](https://open.spotify.com/album/0PFnsXXIOeZFgcWd49Epg3) | 3:31 | 2023-06-01 | 2024-05-08 |
 | [MKOB](https://open.spotify.com/track/1fsv79A1dFFlyZoTP9XJLG) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:16 | 2023-06-01 | 2024-05-08 |
+| [Mnémica](https://open.spotify.com/track/3D9DcotBuSTIyiF4UwOhqK) | [HEDONÉ](https://open.spotify.com/artist/5hv0lGqR3uvmLzCSRin4bZ), [Chiro](https://open.spotify.com/artist/5nJLhQnr9KJMJDYC9vdKTS) | [ECOS DE UN ÉXTASIS](https://open.spotify.com/album/2PUJdZX1KM14PXTyHUaXNV) | 2:48 | 2026-10-09 |  |
 | [Monotonia](https://open.spotify.com/track/73PhGO0aMHskiHBvmqiNDU) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Desde el Bar](https://open.spotify.com/album/7afSoxmiNzFuUnjmbDN3eF) | 2:22 | 2024-05-10 | 2025-05-10 |
 | [Monotonia](https://open.spotify.com/track/4RCglCOteBxgYNKL81LuhE) | [Luz Paisio](https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C) | [Monotonia](https://open.spotify.com/album/2r5qVSazXytuc5ttByn7Ku) | 3:21 | 2024-05-07 | 2025-05-10 |
 | [Musikita del Cielo](https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Musikita del Cielo](https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz) | 3:00 | 2022-08-04 | 2022-09-02 |
@@ -252,6 +255,7 @@
 | [No Vengas a Cantarme Reggaetón](https://open.spotify.com/track/2J5RgOh1NO7Lon7aLg2tWD) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Aleo](https://open.spotify.com/artist/6zQ5RDRxvAEYVIrBaNz44N) | [No Vengas a Cantarme Reggaetón](https://open.spotify.com/album/6uLDK6lG14DS9tW05xDyS7) | 2:48 | 2021-11-11 | 2022-06-27 |
 | [Nota de Voz](https://open.spotify.com/track/414bekTP0wBQjE8juGHaC6) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 2:37 | 2026-08-14 |  |
 | [Nunca Fui Muy Buena](https://open.spotify.com/track/7vI0vZnKPIMH4DS5lkdddI) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 2:45 | 2025-05-09 | 2026-04-15 |
+| [Números](https://open.spotify.com/track/1UHwwd9ErKbeT2CxsFRQlV) | [El Fran](https://open.spotify.com/artist/0zBjxvNij6PhXYUGyEp8lb) | [No Estamos Solos](https://open.spotify.com/album/1LS78KsfHdcgB22g5ZxwfB) | 2:50 | 2026-10-09 |  |
 | [Octubre](https://open.spotify.com/track/5li1TvCfdNVZclNOWI9zVS) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz) | [Octubre](https://open.spotify.com/album/77dT4Zu1Zhy0i7ppHZHIp4) | 2:36 | 2026-04-14 | 2026-09-25 |
 | [Oh Oh Oh](https://open.spotify.com/track/4UvSZCODfJZxXylXPKkY3p) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 3:10 | 2023-06-01 | 2024-05-08 |
 | [OKUPAS](https://open.spotify.com/track/1JFOzm5blyqrenJCWaUDQs) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [OKUPAS](https://open.spotify.com/album/2sV73ALGXBEAXy2uxHJctQ) | 2:44 | 2025-10-15 | 2026-06-12 |
@@ -357,6 +361,7 @@
 | [Ya Nada Es Igual](https://open.spotify.com/track/4QuBHBckulz8KVA2VM7g9b) | [Pedro Monardi](https://open.spotify.com/artist/136cCULWiPzwK52l9mjGrL), [MR](https://open.spotify.com/artist/4YAz3PiBLC41HkYlWWJaVb) | [Ya Nada Es Igual](https://open.spotify.com/album/0xuZBM76djp4KZKYChDFoV) | 2:46 | 2024-05-07 | 2025-05-10 |
 | [Ya no somos ni seremos](https://open.spotify.com/track/4KWDgsXM4M8asOM3uZbPmP) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Ya no somos ni seremos](https://open.spotify.com/album/3sfNX5ON76oeSLZ0z8vnh9) | 2:38 | 2024-05-07 | 2025-05-10 |
 | [Yo Me Quedo](https://open.spotify.com/track/54YX6dxHnQfXIr899xDVyn) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 2:53 | 2025-05-09 | 2026-04-15 |
+| [Ángel](https://open.spotify.com/track/3kkwI7KE3MMo5GVDqJuuyp) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Ángel](https://open.spotify.com/album/55ksPAqOEAjS4OiN9EK88x) | 2:45 | 2026-10-09 |  |
 | [Úsame](https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Úsame](https://open.spotify.com/album/4vnJLpo5yCmBCOpEVG33A6) | 3:03 | 2026-04-14 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

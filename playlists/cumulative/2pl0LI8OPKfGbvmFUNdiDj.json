@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Unfinished Business EP",
+        "url": "https://open.spotify.com/album/4pCSzypjL7TBI6HgoMf2Wt"
+      },
+      "artists": [
+        {
+          "name": "Prince LDJ",
+          "url": "https://open.spotify.com/artist/4VaqTSzt4FF1Qz0e7fG5dT"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216640,
+      "name": "Can I Have Ya Number?",
+      "url": "https://open.spotify.com/track/3QVRa8jDHfAjH8TrIhfARQ"
+    },
+    {
+      "album": {
         "name": "Can't Find My Phone",
         "url": "https://open.spotify.com/album/2HjLHGRtW7yhxBKY0V5Mge"
       },
@@ -8698,6 +8716,24 @@
       "duration_ms": 271000,
       "name": "Surfing to Nowhere",
       "url": "https://open.spotify.com/track/6PN45BwdFZexnyNNPWkxyg"
+    },
+    {
+      "album": {
+        "name": "Symptoms",
+        "url": "https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI"
+      },
+      "artists": [
+        {
+          "name": "Ms. Black",
+          "url": "https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171999,
+      "name": "Symptoms",
+      "url": "https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP"
     },
     {
       "album": {

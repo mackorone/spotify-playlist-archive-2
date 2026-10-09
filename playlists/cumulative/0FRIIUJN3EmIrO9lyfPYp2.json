@@ -2117,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "beginnings",
+        "url": "https://open.spotify.com/album/11iBR8TH2dVByWJSIfoBv1"
+      },
+      "artists": [
+        {
+          "name": "oversly",
+          "url": "https://open.spotify.com/artist/0yW83Q0140sPnXTdk9gcyK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106133,
+      "name": "beginnings",
+      "url": "https://open.spotify.com/track/6D7qEfEc0GTEyQehvXLgaF"
+    },
+    {
+      "album": {
         "name": "being with you makes me smile",
         "url": "https://open.spotify.com/album/71UObw9Jg0n2afEH5QyQg7"
       },
@@ -8471,6 +8489,24 @@
     },
     {
       "album": {
+        "name": "how was your day",
+        "url": "https://open.spotify.com/album/3MStvdBjt0GC2kBFxqZLdL"
+      },
+      "artists": [
+        {
+          "name": "austen",
+          "url": "https://open.spotify.com/artist/0mGVTqV5kBBY2gd7Yo1mTx"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153712,
+      "name": "how was your day",
+      "url": "https://open.spotify.com/track/0Ctf5Uj8KHbeIY0JkjMrMn"
+    },
+    {
+      "album": {
         "name": "human error",
         "url": "https://open.spotify.com/album/1ZgIOm26Sc6dvBfuNwxHN8"
       },
@@ -12584,6 +12620,24 @@
       "duration_ms": 132553,
       "name": "noctiluca",
       "url": "https://open.spotify.com/track/0IsicxXe0F0KEX0IGbmNkZ"
+    },
+    {
+      "album": {
+        "name": "nocturnal lullaby",
+        "url": "https://open.spotify.com/album/1bG1Eyr2nyutEmPzfv1Tbl"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134947,
+      "name": "nocturnal lullaby",
+      "url": "https://open.spotify.com/track/1DM9zA0MD0HnqBZT32xCSx"
     },
     {
       "album": {

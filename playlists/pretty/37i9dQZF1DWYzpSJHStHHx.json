@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483698,
+  "num_followers": 483690,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Los Ojos Del C\u00f3ndor",
-        "url": "https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 212980,
-      "name": "Los Ojos Del C\u00f3ndor",
-      "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Greyhound",
         "url": "https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 226235,
       "name": "Greyhound",
       "url": "https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Los Ojos Del C\u00f3ndor",
+        "url": "https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Los Ojos Del C\u00f3ndor",
+      "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "L.S.D",
-        "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "L.S.D",
-      "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "The Edge",
         "url": "https://open.spotify.com/album/5oEUCJUYJoJv4QvDG36tFj"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 278000,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/6NT3ynBjdIUPwfTbd9IgYI"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "L.S.D",
+        "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "L.S.D",
+      "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Fish on the Sand",
-        "url": "https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 218019,
-      "name": "Fish on the Sand",
-      "url": "https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Stranger (Mariachi)",
         "url": "https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 204626,
       "name": "Stranger - Mariachi",
       "url": "https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Fish on the Sand",
+        "url": "https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 218019,
+      "name": "Fish on the Sand",
+      "url": "https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Santino Surfers",
-        "url": "https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP"
-      },
-      "artists": [
-        {
-          "name": "Santino Surfers",
-          "url": "https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ"
-        }
-      ],
-      "duration_ms": 377556,
-      "name": "Sun Rise Swell",
-      "url": "https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Mystic Braves",
         "url": "https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 243840,
       "name": "Mystic Rabbit",
       "url": "https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Santino Surfers",
+        "url": "https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP"
+      },
+      "artists": [
+        {
+          "name": "Santino Surfers",
+          "url": "https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ"
+        }
+      ],
+      "duration_ms": 377556,
+      "name": "Sun Rise Swell",
+      "url": "https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Kamakura",
-        "url": "https://open.spotify.com/album/64p9VeLQsDBEBQgifPMPsu"
-      },
-      "artists": [
-        {
-          "name": "Yuzostate",
-          "url": "https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Kamakura",
-      "url": "https://open.spotify.com/track/2N7XCLNPXNYOIA6R6Oawn1"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Ozonia",
         "url": "https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 344666,
       "name": "SLPM",
       "url": "https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Kamakura",
+        "url": "https://open.spotify.com/album/64p9VeLQsDBEBQgifPMPsu"
+      },
+      "artists": [
+        {
+          "name": "Yuzostate",
+          "url": "https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Kamakura",
+      "url": "https://open.spotify.com/track/2N7XCLNPXNYOIA6R6Oawn1"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Mushroom",
-        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 205974,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "I AM NOT SO TALL",
         "url": "https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 174000,
       "name": "I AM NOT SO TALL",
       "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Mushroom",
+        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Ooooo",
-        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
-      },
-      "artists": [
-        {
-          "name": "Easy Honey",
-          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
-        }
-      ],
-      "duration_ms": 154811,
-      "name": "Alright, Alright",
-      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "III: Arcade Dynamics",
         "url": "https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 259317,
       "name": "Killin' the Vibe",
       "url": "https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Chubby Money",
-        "url": "https://open.spotify.com/album/3uxAGVB65BwB3bsgN8qqPU"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 211243,
-      "name": "Chubby Money",
-      "url": "https://open.spotify.com/track/2VisPnKIme2cMXmhbO7u6V"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 124636,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Chubby Money",
+        "url": "https://open.spotify.com/album/3uxAGVB65BwB3bsgN8qqPU"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 211243,
+      "name": "Chubby Money",
+      "url": "https://open.spotify.com/track/2VisPnKIme2cMXmhbO7u6V"
     },
     {
       "added_at": "2026-09-17 14:00:53",

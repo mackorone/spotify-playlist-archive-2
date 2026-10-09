@@ -1,13 +1,29 @@
 {
-  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Hermanos Guti\u00e9rrez",
-  "num_followers": 27466,
+  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Alex Ponce",
+  "num_followers": 27470,
   "original_name": "Indie Andinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFEVhE0qoMcdDa0pLblh2+FJWd05",
+  "snapshot_id": "AAAAAAe8kLmuccCd1ikP2KU98G75UmTL",
   "tracks": [
+    {
+      "added_at": "2026-10-09 04:59:27",
+      "album": {
+        "name": "que seas t\u00fa -- & amor herido . . .",
+        "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "que seas t\u00fa --",
+      "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
+    },
     {
       "added_at": "2026-09-25 04:59:20",
       "album": {
@@ -241,22 +257,6 @@
       "url": "https://open.spotify.com/track/2VqcqkwQU8hnHF8PeNpP12"
     },
     {
-      "added_at": "2026-08-21 04:59:15",
-      "album": {
-        "name": "Ni\u00f1a Flor",
-        "url": "https://open.spotify.com/album/6T8rPObhh2ylU20UJRpRnH"
-      },
-      "artists": [
-        {
-          "name": "luci le",
-          "url": "https://open.spotify.com/artist/3glLfCwES6QDLQ7y1ypVbs"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Elmo",
-      "url": "https://open.spotify.com/track/0VJXLN3SJ58XyDcRtBvUMy"
-    },
-    {
       "added_at": "2026-03-26 19:05:39",
       "album": {
         "name": "Quiz\u00e1 no es para tanto",
@@ -295,22 +295,6 @@
       "duration_ms": 211882,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN"
-    },
-    {
-      "added_at": "2026-03-26 19:05:39",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/2Hy8fPqK6DM1nVXECN5qKU"
-      },
-      "artists": [
-        {
-          "name": "Bardo Jos\u00e9",
-          "url": "https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/5u4WtYlz4AVrsVwu58mKbv"
     },
     {
       "added_at": "2026-03-26 19:05:39",
@@ -535,6 +519,26 @@
       "duration_ms": 210960,
       "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
       "url": "https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr"
+    },
+    {
+      "added_at": "2026-10-09 04:59:27",
+      "album": {
+        "name": "audio c\u00e1mara flash",
+        "url": "https://open.spotify.com/album/4aCgaAk5Etw04smccyarhM"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        },
+        {
+          "name": "Lunal\u00e9",
+          "url": "https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu"
+        }
+      ],
+      "duration_ms": 145915,
+      "name": "yourmovie",
+      "url": "https://open.spotify.com/track/58i2W3ysfBLyeBqOWdlqI1"
     },
     {
       "added_at": "2026-03-26 19:05:39",

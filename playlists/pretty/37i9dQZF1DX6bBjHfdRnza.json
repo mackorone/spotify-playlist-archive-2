@@ -1,28 +1,48 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring KDAY. Curated with love by human Spotify editors. \n",
-  "num_followers": 218048,
+  "description": "The best new dance tracks from independent artists & labels. Featuring Akalex. Curated with love by human Spotify editors. \n",
+  "num_followers": 218138,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFtT/T41NRMx4N3kI8C3ldLonSDK",
+  "snapshot_id": "AAAAALDR6Wuvyl9wLCSYyWsXdLJGanSl",
   "tracks": [
     {
-      "added_at": "2026-10-07 04:00:12",
+      "added_at": "2026-10-09 04:02:02",
       "album": {
-        "name": "Senses EP",
-        "url": "https://open.spotify.com/album/75PvOaZ2Ioo5jUBQNpxpwD"
+        "name": "Baile de Paris",
+        "url": "https://open.spotify.com/album/66GUcgkXw8jsjoPjQOqako"
       },
       "artists": [
         {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE"
+          "name": "Akalex",
+          "url": "https://open.spotify.com/artist/731SRh0Tu8EXaCEa2m7BrV"
+        },
+        {
+          "name": "MC Donzela",
+          "url": "https://open.spotify.com/artist/7ufHJna3thtyJ5b2X7zY3W"
         }
       ],
-      "duration_ms": 396666,
-      "name": "Senses",
-      "url": "https://open.spotify.com/track/0e2M14PIS2vNKXVkHe1s8x"
+      "duration_ms": 215119,
+      "name": "Baile de Paris",
+      "url": "https://open.spotify.com/track/6G4zuZa5dn4WhWWz735B16"
+    },
+    {
+      "added_at": "2026-09-18 04:02:35",
+      "album": {
+        "name": "ROCK THE DISCO",
+        "url": "https://open.spotify.com/album/1x9bdn2Rjr5Y7d62C5N1zG"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "ROCK THE DISCO",
+      "url": "https://open.spotify.com/track/5DkQxWX81nR4TtMOzW3o24"
     },
     {
       "added_at": "2026-09-17 01:08:14",
@@ -41,20 +61,36 @@
       "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
     },
     {
-      "added_at": "2026-09-18 04:02:35",
+      "added_at": "2026-10-07 04:00:12",
       "album": {
-        "name": "ROCK THE DISCO",
-        "url": "https://open.spotify.com/album/1x9bdn2Rjr5Y7d62C5N1zG"
+        "name": "Senses EP",
+        "url": "https://open.spotify.com/album/75PvOaZ2Ioo5jUBQNpxpwD"
       },
       "artists": [
         {
-          "name": "PAULY!",
-          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE"
         }
       ],
-      "duration_ms": 181818,
-      "name": "ROCK THE DISCO",
-      "url": "https://open.spotify.com/track/5DkQxWX81nR4TtMOzW3o24"
+      "duration_ms": 396666,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/0e2M14PIS2vNKXVkHe1s8x"
+    },
+    {
+      "added_at": "2026-10-09 04:02:02",
+      "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/31UUFOxBCeT87WM9Lh3Gky"
+      },
+      "artists": [
+        {
+          "name": "ANIMATE",
+          "url": "https://open.spotify.com/artist/6YzhVTqCwOWYet9QLi2Kbs"
+        }
+      ],
+      "duration_ms": 194558,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/6vzBjc6Ea6EkPwfNwgMUUx"
     },
     {
       "added_at": "2026-07-30 05:08:29",
@@ -75,6 +111,22 @@
       "duration_ms": 200000,
       "name": "Bad B$tch",
       "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
+    },
+    {
+      "added_at": "2026-10-09 04:02:02",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3QTOck3XlXHlOMPmwUxd4i"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ssous",
+          "url": "https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/5Xe55KTe3nE8iy9ocTAT8U"
     },
     {
       "added_at": "2026-10-07 04:00:12",
@@ -107,6 +159,22 @@
       "duration_ms": 158906,
       "name": "i like what i see",
       "url": "https://open.spotify.com/track/1NBv7FQrdPomUgceVWawKX"
+    },
+    {
+      "added_at": "2026-10-09 04:02:02",
+      "album": {
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/4dnioxg2bJG6cXRPtPfZxA"
+      },
+      "artists": [
+        {
+          "name": "FUKHED",
+          "url": "https://open.spotify.com/artist/5BqpnSBznM8TZgqiCYRW2w"
+        }
+      ],
+      "duration_ms": 188215,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/1PzVU7KDC1KOckf0ussSUs"
     },
     {
       "added_at": "2026-10-07 04:00:12",
@@ -975,22 +1043,6 @@
     {
       "added_at": "2026-08-26 04:00:40",
       "album": {
-        "name": "2012 euro trash",
-        "url": "https://open.spotify.com/album/4WGIVqSEapNiqNPbrivmAQ"
-      },
-      "artists": [
-        {
-          "name": "Hilel Lev",
-          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
-        }
-      ],
-      "duration_ms": 406875,
-      "name": "2012 euro trash",
-      "url": "https://open.spotify.com/track/69uGmGFVCXYE6wgRkQowtI"
-    },
-    {
-      "added_at": "2026-08-26 04:00:40",
-      "album": {
         "name": "STRICTLY 4 MY UNCS",
         "url": "https://open.spotify.com/album/4hPKQKWcKYjZgdOm3CReC6"
       },
@@ -1113,22 +1165,6 @@
       "url": "https://open.spotify.com/track/17wru9AsJVNgUaEFlLyMwk"
     },
     {
-      "added_at": "2026-08-14 04:02:31",
-      "album": {
-        "name": "Pacha",
-        "url": "https://open.spotify.com/album/2joZfgKqZxeLLC6WPsjGmT"
-      },
-      "artists": [
-        {
-          "name": "ZARO",
-          "url": "https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Pacha",
-      "url": "https://open.spotify.com/track/5QuiMSE8sWvGQ60RxUSvET"
-    },
-    {
       "added_at": "2026-07-23 04:00:10",
       "album": {
         "name": "SH*T OUT OF LUCK (Radio Edit)",
@@ -1161,22 +1197,6 @@
       "url": "https://open.spotify.com/track/4hbRLhnARpNwxAmZZPGQ7d"
     },
     {
-      "added_at": "2026-08-06 01:55:50",
-      "album": {
-        "name": "Spotted I",
-        "url": "https://open.spotify.com/album/2jWptg5kuYUa4JbIUZC1kE"
-      },
-      "artists": [
-        {
-          "name": "Redstain",
-          "url": "https://open.spotify.com/artist/1OtzdqtxsQqVFl3gM5JYDq"
-        }
-      ],
-      "duration_ms": 103285,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/5IM3QDSAX5uqoNSSWLJFtj"
-    },
-    {
       "added_at": "2026-07-31 04:02:23",
       "album": {
         "name": "Casa Ponte EP",
@@ -1195,22 +1215,6 @@
       "duration_ms": 196751,
       "name": "Casa Ponte",
       "url": "https://open.spotify.com/track/7rKSCsqyh4YsJtGBpZVMSg"
-    },
-    {
-      "added_at": "2026-07-31 04:02:23",
-      "album": {
-        "name": "GET MONEY",
-        "url": "https://open.spotify.com/album/4LANVs9MReGnE7alZSPQwx"
-      },
-      "artists": [
-        {
-          "name": "SHAKING",
-          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "GET MONEY",
-      "url": "https://open.spotify.com/track/4l6xxixodubRsZCvbsTu9o"
     },
     {
       "added_at": "2026-06-18 00:12:59",

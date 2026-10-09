@@ -5609,6 +5609,24 @@
     },
     {
       "album": {
+        "name": "From Here",
+        "url": "https://open.spotify.com/album/3kUGFAWpx5WPKwp4zZcTnx"
+      },
+      "artists": [
+        {
+          "name": "Louis Everen",
+          "url": "https://open.spotify.com/artist/3qRLSlgESj4F0kaMUOhpjh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/6LakMj19bhCyHCgpjkx5mI"
+    },
+    {
+      "album": {
         "name": "Fr\u00fchlingsbach",
         "url": "https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb"
       },

@@ -2485,6 +2485,28 @@
     },
     {
       "album": {
+        "name": "Lost In Music",
+        "url": "https://open.spotify.com/album/1mevpy036HSDdm5oJydjKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Lost In Music - Edit",
+      "url": "https://open.spotify.com/track/1uuqdYGOuPfBqQA5YhxT76"
+    },
+    {
+      "album": {
         "name": "Love The Way You Lie (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/5P3i2e0G7OZFlHW6k01qNE"
       },
@@ -3926,7 +3948,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 144857,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/6IXr50xGiGbcRFEMlKW9yB"

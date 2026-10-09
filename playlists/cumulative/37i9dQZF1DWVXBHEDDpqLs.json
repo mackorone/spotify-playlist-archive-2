@@ -1737,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "FORMOSA",
+        "url": "https://open.spotify.com/album/5kGbTl60zRiv0ROKRQZnIP"
+      },
+      "artists": [
+        {
+          "name": "JIALING",
+          "url": "https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271304,
+      "name": "BABYGIRL WITH AN ERHU",
+      "url": "https://open.spotify.com/track/6pfneSkqIy8wgcZMzgjH3h"
+    },
+    {
+      "album": {
         "name": "Backhand EP",
         "url": "https://open.spotify.com/album/7zpkQkyEou9JD03OIYrZO6"
       },
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 373760,
       "name": "Black Swords",
       "url": "https://open.spotify.com/track/6kiPWFQitXgXsoXpgvY3g4"
@@ -4348,6 +4366,24 @@
       "duration_ms": 173000,
       "name": "Clean Cut",
       "url": "https://open.spotify.com/track/6KD5iTDSDydPhVvbYBoJkZ"
+    },
+    {
+      "album": {
+        "name": "TECH RIDER",
+        "url": "https://open.spotify.com/album/1TdMU3AmVD34Ejf25cGn1B"
+      },
+      "artists": [
+        {
+          "name": "Ayce Bio",
+          "url": "https://open.spotify.com/artist/1JJZyzSriYDxn3vp8piOWI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Click Track",
+      "url": "https://open.spotify.com/track/4JJKl04KZbM5CtA31rPpYB"
     },
     {
       "album": {
@@ -7416,7 +7452,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 329552,
       "name": "FIESTA",
       "url": "https://open.spotify.com/track/1Cs9MMnozQQUYUyxAQlbVD"
@@ -9067,6 +9103,24 @@
     },
     {
       "album": {
+        "name": "Groundhogs",
+        "url": "https://open.spotify.com/album/6czhhzdfnz9nTytVUzBxNx"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242842,
+      "name": "Groundhogs",
+      "url": "https://open.spotify.com/track/1oJkgq8Bs12CaKA045jkDc"
+    },
+    {
+      "album": {
         "name": "EDITS VOL. 1",
         "url": "https://open.spotify.com/album/4r1iDlAdTQxRiOOoUBTeiC"
       },
@@ -9158,6 +9212,24 @@
       "duration_ms": 343378,
       "name": "Habban",
       "url": "https://open.spotify.com/track/4MMyr5urTE4y1yX8IWaBfm"
+    },
+    {
+      "album": {
+        "name": "Half An Owl And A Full Moon Rising",
+        "url": "https://open.spotify.com/album/7bHXauY3cYMdIEuGwDKuvW"
+      },
+      "artists": [
+        {
+          "name": "Steffi",
+          "url": "https://open.spotify.com/artist/644PvPeYIyoq0n0eBP5fxG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369250,
+      "name": "Half An Owl And A Full Moon Rising",
+      "url": "https://open.spotify.com/track/0JKlN9aw9stNFUepjUeWat"
     },
     {
       "album": {
@@ -12816,7 +12888,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 233296,
       "name": "Media Vuelta",
       "url": "https://open.spotify.com/track/0Y9bPzog6xoyDvOYOpUZMN"
@@ -13929,6 +14001,28 @@
     },
     {
       "album": {
+        "name": "NO SWEAT",
+        "url": "https://open.spotify.com/album/3zsZn9XKo5yEnXtV7cY1Pu"
+      },
+      "artists": [
+        {
+          "name": "CRRDR",
+          "url": "https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I"
+        },
+        {
+          "name": "Refilled",
+          "url": "https://open.spotify.com/artist/5qP3ACzmz8L6p83jX3J9fp"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "NO SWEAT",
+      "url": "https://open.spotify.com/track/4N1hzXl2lWtlk1VnUPDSk3"
+    },
+    {
+      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/0Kln6LMqhDucCm0ChQxOJ2"
       },
@@ -14892,6 +14986,32 @@
       "duration_ms": 315709,
       "name": "Pacha - Tracker Mix",
       "url": "https://open.spotify.com/track/7GJ0pXU0yreUoXqKSQ1Mft"
+    },
+    {
+      "album": {
+        "name": "Pantano (aya Remix)",
+        "url": "https://open.spotify.com/album/68BGgR5DtqZu9RTTxe7UPM"
+      },
+      "artists": [
+        {
+          "name": "DNGDNGDNG",
+          "url": "https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Los Hijos De Lamas",
+          "url": "https://open.spotify.com/artist/3Lij9F1TKzmg73SpWANCq0"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352500,
+      "name": "Pantano",
+      "url": "https://open.spotify.com/track/6CuSDrasmVmA10pZnQKT9T"
     },
     {
       "album": {
@@ -16046,7 +16166,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 340337,
       "name": "PULSO.",
       "url": "https://open.spotify.com/track/3cWgQSLJYVPNLi5OfljY0k"
@@ -16286,6 +16406,24 @@
       "duration_ms": 281500,
       "name": "Quimperl\u00e9",
       "url": "https://open.spotify.com/track/1eWUXSl5X4HC7iXmPkN1Hq"
+    },
+    {
+      "album": {
+        "name": "Radiate",
+        "url": "https://open.spotify.com/album/3Ura0gnk3eM8te7Ix6hF7g"
+      },
+      "artists": [
+        {
+          "name": "Jay Carder",
+          "url": "https://open.spotify.com/artist/2VVF5cjuSx97r3ND28ndlK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302009,
+      "name": "Radiate",
+      "url": "https://open.spotify.com/track/0YODDD6O98G7TMPFgimjpP"
     },
     {
       "album": {
@@ -17784,7 +17922,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 393077,
       "name": "Shorty Out - Saoirse Remix",
       "url": "https://open.spotify.com/track/1Ae07Zbn304HtNVv6VMwrC"
@@ -17840,7 +17978,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 196482,
       "name": "Shot Caller (Shuga's Edit)",
       "url": "https://open.spotify.com/track/7lJsZIS9Z0uekFXmEVIywH"
@@ -20846,7 +20984,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 274921,
       "name": "Tu Cosita",
       "url": "https://open.spotify.com/track/2l3p1cmJ7xPSIDmipcG30j"

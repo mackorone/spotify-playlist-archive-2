@@ -3224,7 +3224,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 219213,
       "name": "Pegadito",
       "url": "https://open.spotify.com/track/3NkWUspEJzcMcUJKoX1KJa"
@@ -3560,6 +3560,24 @@
       "duration_ms": 162288,
       "name": "Radar",
       "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
+    },
+    {
+      "album": {
+        "name": "Repitiendo Promesas",
+        "url": "https://open.spotify.com/album/0qBl5UidUVvCbFEmb699kN"
+      },
+      "artists": [
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185940,
+      "name": "Repitiendo Promesas",
+      "url": "https://open.spotify.com/track/4lOm57IdBOr6BSEe1V1gsn"
     },
     {
       "album": {

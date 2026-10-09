@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,100 likes - 105 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,130 likes - 105 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 104 | [Jealous of a Kid](https://open.spotify.com/track/3xAO026dWHrw5pcM6Q5EPO) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Jealous of a Kid](https://open.spotify.com/album/177mzayu6o2R1V89SvxQzv) | 3:32 |
 | 105 | [time and space](https://open.spotify.com/track/6ASZIbWiYI84peOV3kFlAh) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [surfgoth](https://open.spotify.com/artist/5bOnGY1cTwZxkhK4JFLtKK) | [time and space](https://open.spotify.com/album/4cHY0W0XPI7gNInlQJOees) | 3:00 |
 
-Snapshot ID: `AAAAAJMUlc03g7s5M1qLw2qz3RxHA3tw`
+Snapshot ID: `AAAAADVU1NEwNz5gQ/vrVrT7PIj9Y+fp`

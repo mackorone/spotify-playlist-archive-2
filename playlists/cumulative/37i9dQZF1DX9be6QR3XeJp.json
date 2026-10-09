@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Hope Winter",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Saskia",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -6558,6 +6558,24 @@
       "duration_ms": 143872,
       "name": "waste your pain",
       "url": "https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas"
+    },
+    {
+      "album": {
+        "name": "Wearing All White Like An Angel",
+        "url": "https://open.spotify.com/album/5ckBQogUvxqRxMQ8nspRSP"
+      },
+      "artists": [
+        {
+          "name": "Saskia",
+          "url": "https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266624,
+      "name": "wearing all white like an angel",
+      "url": "https://open.spotify.com/track/0cS0s3CCtyl3oYggDEJ2kJ"
     },
     {
       "album": {

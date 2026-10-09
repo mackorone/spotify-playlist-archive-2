@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-492 songs - 21 hr 6 min
+494 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Home Again](https://open.spotify.com/track/5hp8oQT04yfM150I0Ro66u) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Home Again](https://open.spotify.com/album/5M3owr4ZIHWSehW14pGBDd) | 2:24 | 2024-08-20 |  |
 | [Hometown](https://open.spotify.com/track/5lvCd2cod6ehTI6rCXgW9x) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/0PXK9FNnsHU72wTz7uMMRA) | 2:02 | 2022-10-28 | 2022-12-10 |
 | [Hometown](https://open.spotify.com/track/6CB44WdB5DhGtzMiaQ11Rr) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/6ooTLhKe5yD5LC4bL4fI7f) | 2:02 | 2022-09-02 | 2022-11-05 |
+| [Horizonte Quieto](https://open.spotify.com/track/15WZqNTa6cpPcOwNco0xey) | [Olly Chesterman](https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR) | [Horizonte Quieto](https://open.spotify.com/album/2LZdR1IPXCr5y8aNJpEbTZ) | 2:24 | 2026-10-09 |  |
 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 | 2024-04-05 | 2025-09-13 |
 | [Human](https://open.spotify.com/track/5W188DNbU0X0WsxA0f4vsK) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Human](https://open.spotify.com/album/2raYowNzP5KrWjYaMVcVoF) | 2:16 | 2023-06-02 | 2025-11-18 |
 | [Humble Stream](https://open.spotify.com/track/52MgsfWkg5SaySCSybgq2f) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Humble Stream](https://open.spotify.com/album/0i8ogDdtotOqUuzxNRAvH1) | 1:55 | 2022-03-04 | 2022-05-27 |
@@ -332,6 +333,7 @@
 | [Promise](https://open.spotify.com/track/7a26pDubE6apyx3BucvKKt) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [Promise](https://open.spotify.com/album/2CZN9ANjx4cG4L9EywcLmM) | 1:44 | 2023-06-22 | 2023-08-26 |
 | [Pumori](https://open.spotify.com/track/1CLchOJrSa1K59IgJtBgAS) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Makalu](https://open.spotify.com/album/1T6ygMtSOuBoR1rMg4Ejh7) | 2:59 | 2022-09-23 | 2024-05-10 |
 | [Quality Craftsmanship](https://open.spotify.com/track/0BoV3iHQDjg8f1RI1jHR6B) | [Joshua Cipolla](https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1) | [Quality Craftsmanship](https://open.spotify.com/album/3AZbol8ntAqXNrUJOelRwX) | 2:16 | 2022-03-04 | 2022-03-19 |
+| [Questions](https://open.spotify.com/track/4Gnte34CAYkwbXVApkvmng) | [Simone](https://open.spotify.com/artist/79O1wMwePxGN6MrEDbM0qv) | [Questions](https://open.spotify.com/album/07kpPfupqdoVYYu8N8wvfB) | 2:07 | 2026-10-09 |  |
 | [Quiet Moments](https://open.spotify.com/track/7HXv68WRGm9KUKrkcNCwj3) | [F\. Garling](https://open.spotify.com/artist/6972NR2aw4LViqsAjMZAhq) | [Quiet Moments](https://open.spotify.com/album/2Us8pf9JKC4dgAVZckHIlo) | 2:27 | 2026-07-10 | 2026-10-03 |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-02-24 | 2023-10-13 |
 | [Rain Is Here](https://open.spotify.com/track/2tf9JNRi8eYDjkNe50bMrJ) | [Wildflowers](https://open.spotify.com/artist/5coLLXzZ7CNs9tKs0AbeJo) | [Rain Is Here](https://open.spotify.com/album/3otdxqAMOQxmZQ2X8aZK0B) | 2:55 | 2022-11-18 | 2023-02-25 |

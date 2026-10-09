@@ -1,6 +1,6 @@
 {
   "description": "Soft jazz for slow mornings, first coffee, and the quiet before the day starts.",
-  "num_followers": 447283,
+  "num_followers": 447338,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-10-02 07:49:23",
       "album": {
-        "name": "En attendant",
-        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 333213,
-      "name": "Riders On The Storm",
-      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
-    },
-    {
-      "added_at": "2026-10-02 07:49:23",
-      "album": {
         "name": "Fair Weather",
         "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 284493,
       "name": "Fair Weather",
       "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
+    },
+    {
+      "added_at": "2026-10-02 07:49:23",
+      "album": {
+        "name": "En attendant",
+        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 333213,
+      "name": "Riders On The Storm",
+      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
     },
     {
       "added_at": "2026-10-02 07:49:23",
@@ -375,6 +375,34 @@
     {
       "added_at": "2026-10-02 07:49:23",
       "album": {
+        "name": "Grand Street",
+        "url": "https://open.spotify.com/album/6TIjvKJlXCo4mJUYJRUdJV"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "duration_ms": 224868,
+      "name": "Grand Street",
+      "url": "https://open.spotify.com/track/2NxHjUNJbp9udozC5zCUxy"
+    },
+    {
+      "added_at": "2026-10-02 07:49:23",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -427,34 +455,6 @@
       "duration_ms": 317146,
       "name": "I Can't Believe That You're In Love With Me",
       "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
-    },
-    {
-      "added_at": "2026-10-02 07:49:23",
-      "album": {
-        "name": "Grand Street",
-        "url": "https://open.spotify.com/album/6TIjvKJlXCo4mJUYJRUdJV"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        },
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        },
-        {
-          "name": "Marcus Gilmore",
-          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
-        }
-      ],
-      "duration_ms": 224868,
-      "name": "Grand Street",
-      "url": "https://open.spotify.com/track/2NxHjUNJbp9udozC5zCUxy"
     },
     {
       "added_at": "2026-10-02 07:49:23",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-10-02 07:49:23",
       "album": {
+        "name": "Around The World With U",
+        "url": "https://open.spotify.com/album/3v4eINJb7PG6tyW91TtEOx"
+      },
+      "artists": [
+        {
+          "name": "Ulysses Owens Jr.",
+          "url": "https://open.spotify.com/artist/66FAsYgofjwbhgGXMzZyzP"
+        }
+      ],
+      "duration_ms": 307346,
+      "name": "Mo\u2019 Betta Blues",
+      "url": "https://open.spotify.com/track/0JoLYqF8Nq29tRzlR384vk"
+    },
+    {
+      "added_at": "2026-10-02 07:49:23",
+      "album": {
         "name": "Oh Brother",
         "url": "https://open.spotify.com/album/3DC22laI2ExbcsQ5vX7M1g"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 364700,
       "name": "Oh Brother",
       "url": "https://open.spotify.com/track/3DxZ8GyNWXaCnR01vvZjkY"
-    },
-    {
-      "added_at": "2026-10-02 07:49:23",
-      "album": {
-        "name": "Around The World With U",
-        "url": "https://open.spotify.com/album/3v4eINJb7PG6tyW91TtEOx"
-      },
-      "artists": [
-        {
-          "name": "Ulysses Owens Jr.",
-          "url": "https://open.spotify.com/artist/66FAsYgofjwbhgGXMzZyzP"
-        }
-      ],
-      "duration_ms": 307346,
-      "name": "Mo\u2019 Betta Blues",
-      "url": "https://open.spotify.com/track/0JoLYqF8Nq29tRzlR384vk"
     },
     {
       "added_at": "2026-10-02 07:49:23",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-10-02 07:49:23",
       "album": {
+        "name": "Ask Me Now",
+        "url": "https://open.spotify.com/album/6SUaYacR0vL0mjCPeuMUIy"
+      },
+      "artists": [
+        {
+          "name": "Billy Childs",
+          "url": "https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR"
+        }
+      ],
+      "duration_ms": 399973,
+      "name": "Ask Me Now",
+      "url": "https://open.spotify.com/track/460bPNCjbhmVxNHHacbWwD"
+    },
+    {
+      "added_at": "2026-10-02 07:49:23",
+      "album": {
         "name": "The Rumor",
         "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2026-10-02 07:49:23",
       "album": {
-        "name": "Ask Me Now",
-        "url": "https://open.spotify.com/album/6SUaYacR0vL0mjCPeuMUIy"
-      },
-      "artists": [
-        {
-          "name": "Billy Childs",
-          "url": "https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR"
-        }
-      ],
-      "duration_ms": 399973,
-      "name": "Ask Me Now",
-      "url": "https://open.spotify.com/track/460bPNCjbhmVxNHHacbWwD"
-    },
-    {
-      "added_at": "2026-10-02 07:49:23",
-      "album": {
         "name": "Gamla all\u00e9n",
         "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-02 07:49:23",
       "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
-    },
-    {
-      "added_at": "2026-10-02 07:49:23",
-      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 397173,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
+    },
+    {
+      "added_at": "2026-10-02 07:49:23",
+      "album": {
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2026-10-02 07:49:23",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-10-02 07:49:23",
       "album": {
-        "name": "Wives and Lovers",
-        "url": "https://open.spotify.com/album/7wsAtwFtf7qM8N1WjzGRjn"
-      },
-      "artists": [
-        {
-          "name": "Ben Paterson",
-          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
-        }
-      ],
-      "duration_ms": 285728,
-      "name": "Wives and Lovers",
-      "url": "https://open.spotify.com/track/2zMAv2fbK97p22b5XjaHe5"
-    },
-    {
-      "added_at": "2026-10-02 07:49:23",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/2xSiRbIxTg4UYg9aoJTuoV"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 235133,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/249aZOusHlB6hTAYzULvqQ"
+    },
+    {
+      "added_at": "2026-10-02 07:49:23",
+      "album": {
+        "name": "Wives and Lovers",
+        "url": "https://open.spotify.com/album/7wsAtwFtf7qM8N1WjzGRjn"
+      },
+      "artists": [
+        {
+          "name": "Ben Paterson",
+          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
+        }
+      ],
+      "duration_ms": 285728,
+      "name": "Wives and Lovers",
+      "url": "https://open.spotify.com/track/2zMAv2fbK97p22b5XjaHe5"
     },
     {
       "added_at": "2026-10-02 07:49:23",

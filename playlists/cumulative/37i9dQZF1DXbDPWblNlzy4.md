@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Fabian
 
-614 songs - 1 day 7 hr 55 min
+615 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2026-03-18 | 2026-03-27 |
 | [Despedida](https://open.spotify.com/track/110BAOGkDSP4T5hUUius1q) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Despedida](https://open.spotify.com/album/2iYLGQ5pypH737g75mx4yf) | 2:23 | 2025-04-11 | 2025-05-24 |
 | [Después de la Tormenta](https://open.spotify.com/track/4ivDHA6dgIlrit7blIR1hm) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Después de la Tormenta](https://open.spotify.com/album/7brGiRbMHwI4ZuhmXKxuyy) | 3:25 | 2023-03-17 | 2023-04-15 |
-| [Diamante](https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Diamante](https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1) | 2:36 | 2025-01-31 |  |
+| [Diamante](https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Diamante](https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1) | 2:36 | 2025-01-31 | 2026-10-09 |
 | [Dicen](https://open.spotify.com/track/4nm4ewuYd2k2CD6SGWtLsX) | [Sergio Sacoto](https://open.spotify.com/artist/4M2tjM6G1E5vwUr4EsrkC0), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Dicen](https://open.spotify.com/album/0ayMIXPqh9Nm5oKKkHwFT0) | 3:41 | 2026-07-01 |  |
 | [Dicen en mi Barrio](https://open.spotify.com/track/1JuPGhXphzWrADfz8ZtO4f) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/5h5LYj1q3fHaol9hIF6sQx) | 3:03 | 2024-05-10 | 2024-12-07 |
 | [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 | 2023-12-08 | 2024-02-03 |
@@ -378,6 +378,7 @@
 | [Muchas \(MUCHAS\) gracias](https://open.spotify.com/track/21WqnTphjylRyrdnVyRk1S) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Muchas \(MUCHAS\) gracias](https://open.spotify.com/album/5cQiuS0mh4pvXGhCNqrGrS) | 2:13 | 2026-03-06 | 2026-05-09 |
 | [Mucho Más Que Ayer](https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mucho Más Que Ayer](https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS) | 3:42 | 2025-09-05 | 2026-01-31 |
 | [Mujer](https://open.spotify.com/track/2kGWsi1lTLiDtru26eGKUs) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [SECO](https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD) | 4:36 | 2025-01-17 | 2026-08-22 |
+| [Mujer me estas matando](https://open.spotify.com/track/3yRZpzvjJjj4b9lXqiSf7G) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Mujer me estas matando](https://open.spotify.com/album/3CyVwbAOlkLESikxgGQqVH) | 2:43 | 2026-10-09 |  |
 | [Multicolor](https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Multicolor](https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF) | 3:40 | 2024-05-24 | 2024-07-19 |
 | [Máquina del Tiempo](https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Máquina del Tiempo](https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM) | 2:33 | 2023-09-15 | 2024-04-27 |
 | [MÁS ALLÁ](https://open.spotify.com/track/7oI4eP3pgPMuHOaf9OG2f0) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [POP ANDINO](https://open.spotify.com/album/1cQIL3GmWmjxqgTzER9FQh) | 3:21 | 2023-05-19 | 2023-07-22 |

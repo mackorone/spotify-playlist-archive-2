@@ -58363,6 +58363,24 @@
     },
     {
       "album": {
+        "name": "YOKO ONO",
+        "url": "https://open.spotify.com/album/32IouOFg14Fn97teye2owx"
+      },
+      "artists": [
+        {
+          "name": "Leviryi",
+          "url": "https://open.spotify.com/artist/0dHYc5ljM3Nocqd42goUM5"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226216,
+      "name": "YOKO ONO",
+      "url": "https://open.spotify.com/track/2K7XRbjCUEYf0m7lvMvXNR"
+    },
+    {
+      "album": {
         "name": "Yokubari",
         "url": "https://open.spotify.com/album/6qi8oyQMoejMOwSck2nUJe"
       },

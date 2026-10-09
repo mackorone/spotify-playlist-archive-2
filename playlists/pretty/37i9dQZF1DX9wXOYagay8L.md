@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Musa
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,904 likes - 95 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,954 likes - 95 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 32 | [Inlove](https://open.spotify.com/track/3f5Uqp13pMPR5V5auA8mDb) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi) | [Inqaba](https://open.spotify.com/album/0lN2fNfvn5o8e4vaKbdcJw) | 2:54 |
 | 33 | [Some More](https://open.spotify.com/track/1ZuWBbz652laSvKru8trgU) | [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5), [Nhlanhla Mafu](https://open.spotify.com/artist/7IJBjrsSgku5OGtLAEnq0t), [Naima Kay](https://open.spotify.com/artist/1RAmAUTyapevk2ViYBPcCM) | [Some More](https://open.spotify.com/album/6k2volsgxR7PFXJ6Y3nKfK) | 5:36 |
 | 34 | [Uzophumelela](https://open.spotify.com/track/5r5B9F336V8Z28mTjQ65Cm) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Uzophumelela](https://open.spotify.com/album/4IBjT3s0Ws23421NY1lc2J) | 4:07 |
-| 35 | [Kuwe \(feat\. Ugatsheni & Pretty Masompisi\)](https://open.spotify.com/track/0WxdS0wwIkVQKppKum6Xvi) | [Stallion X](https://open.spotify.com/artist/3V3keoOsIZ5Hj0PTGTWqds), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Diary](https://open.spotify.com/artist/2pTKezPNKXyQCfkUVIRJ74), [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60), [Pretty Masompisi](https://open.spotify.com/artist/7xBgvT4t4AQ0t7gcBc90ts) | [Genesis Chapter 1](https://open.spotify.com/album/1c3YTpnvWNgONgyS2DubMf) | 4:39 |
+| 35 | [Kuwe \(feat\. Ugatsheni & Pretty Masompisi\)](https://open.spotify.com/track/0WxdS0wwIkVQKppKum6Xvi) | [Stallion X](https://open.spotify.com/artist/3V3keoOsIZ5Hj0PTGTWqds), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Diary](https://open.spotify.com/artist/2pTKezPNKXyQCfkUVIRJ74), [uGatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60), [Pretty Masompisi](https://open.spotify.com/artist/7xBgvT4t4AQ0t7gcBc90ts) | [Genesis Chapter 1](https://open.spotify.com/album/1c3YTpnvWNgONgyS2DubMf) | 4:39 |
 | 36 | [Ndivile](https://open.spotify.com/track/6ebjGZv5Z7DAssFfIOKfUc) | [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i), [Michelle ka Ndikhoyo](https://open.spotify.com/artist/3aBdFG9uR25zPsSqQvPzpF) | [Dithapelo](https://open.spotify.com/album/5614FCEOB3ZvIftl0W2J7a) | 4:19 |
 | 37 | [EThekwini \(feat\. Shwi Mantombazane\)](https://open.spotify.com/track/0uqXtHOucKim6xknqVXy9R) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [GVNT](https://open.spotify.com/artist/3mPwYo0I3ghj65F0C9iRtQ), [Shwi Mantombazane](https://open.spotify.com/artist/19JQ640cmG2atUL0ynYIWX) | [NOSANGE](https://open.spotify.com/album/4VCDfRRf7SUvFx396U3cn9) | 4:00 |
 | 38 | [Ndi A Ni Funa](https://open.spotify.com/track/2SsNEiaTIx5pYANxFIvn87) | [Eleh](https://open.spotify.com/artist/3kPtdzzTFXY0AZIR1Iyrtl), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Ndi A Ni Funa](https://open.spotify.com/album/2fAkM4cyTKO8zR6FSuKwFz) | 4:32 |

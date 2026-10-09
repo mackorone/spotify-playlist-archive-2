@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: TH\u00c9A.",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: Stanislas.",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -424,6 +424,24 @@
       "duration_ms": 211866,
       "name": "ami imaginaire",
       "url": "https://open.spotify.com/track/0DuA2KLpfMq2TLgtHJ0g2b"
+    },
+    {
+      "album": {
+        "name": "Amour R\u00e9trograde",
+        "url": "https://open.spotify.com/album/7iHXdm9PvKbFJpyEs2I1pV"
+      },
+      "artists": [
+        {
+          "name": "Arzel",
+          "url": "https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156216,
+      "name": "Amour R\u00e9trograde",
+      "url": "https://open.spotify.com/track/3UQuHNMrIM3eQbBb5LUowD"
     },
     {
       "album": {
@@ -2110,7 +2128,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 120960,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/7EA9t5HOT9JlftSqvF3TRv"
@@ -2796,6 +2814,24 @@
       "duration_ms": 221600,
       "name": "D\u00e9rive",
       "url": "https://open.spotify.com/track/3mQFiwcJVmj4NMkp17rHFX"
+    },
+    {
+      "album": {
+        "name": "D\u00c9SIR",
+        "url": "https://open.spotify.com/album/6OBlt0Ggf4Z7TOnIv3NRyG"
+      },
+      "artists": [
+        {
+          "name": "Loa Mercury",
+          "url": "https://open.spotify.com/artist/6Zb2vTrIhur77yejWgHN60"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "D\u00c9SIR",
+      "url": "https://open.spotify.com/track/4MoJaVhA04WspUheA55r3e"
     },
     {
       "album": {
@@ -3532,6 +3568,24 @@
       "duration_ms": 160853,
       "name": "h4rdr0ck3r",
       "url": "https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t"
+    },
+    {
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/7L23eyGbBT0HbruEuaKkTy"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168853,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao"
     },
     {
       "album": {
@@ -4874,7 +4928,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 121600,
       "name": "L'autre sens",
       "url": "https://open.spotify.com/track/6GbIDmSrH6mS1Fm30cstIK"
@@ -5917,6 +5971,24 @@
     },
     {
       "album": {
+        "name": "Little Boy",
+        "url": "https://open.spotify.com/album/49t8VGuHruOxn1r2dfPGIW"
+      },
+      "artists": [
+        {
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/6AfonCJhLSPD4j3ZwDFBej"
+    },
+    {
+      "album": {
         "name": "Mec Normal",
         "url": "https://open.spotify.com/album/4DrSzyacBLr10kPXyu5RSz"
       },
@@ -6263,6 +6335,24 @@
     },
     {
       "album": {
+        "name": "Un jour apr\u00e8s l'autre",
+        "url": "https://open.spotify.com/album/1AOLRtJx5p2aq9qkka4dVk"
+      },
+      "artists": [
+        {
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154301,
+      "name": "Manana",
+      "url": "https://open.spotify.com/track/539QlCcRbIsbC7hFW6tfJ9"
+    },
+    {
+      "album": {
         "name": "Mascu Ferme Ta Gueule",
         "url": "https://open.spotify.com/album/535KV48kRNmaoGMyIEk1Hj"
       },
@@ -6498,6 +6588,24 @@
       "duration_ms": 138306,
       "name": "miki cowboy",
       "url": "https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU"
+    },
+    {
+      "album": {
+        "name": "Id\u00e9es Noires",
+        "url": "https://open.spotify.com/album/70g0q7audImjffcyWflACd"
+      },
+      "artists": [
+        {
+          "name": "Ulysse",
+          "url": "https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180363,
+      "name": "Misanthrope",
+      "url": "https://open.spotify.com/track/3QX4YrBc2ehvvGb3JR0UFc"
     },
     {
       "album": {
@@ -7010,7 +7118,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 159626,
       "name": "Ni l'une, ni l'autre",
       "url": "https://open.spotify.com/track/4rIimcM8yuCTPBblcAknhu"
@@ -7162,7 +7270,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 228931,
       "name": "Noum\u00e9a",
       "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
@@ -7220,7 +7328,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 153948,
       "name": "OLALA",
       "url": "https://open.spotify.com/track/1W4hvl0PetDuUgXeJ3z0vb"
@@ -7548,7 +7656,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 153750,
       "name": "PAS +",
       "url": "https://open.spotify.com/track/5QkBwwh6SKPIVBE5Xzhp4y"
@@ -7920,7 +8028,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 182140,
       "name": "PLEINE LUNE",
       "url": "https://open.spotify.com/track/2uOQmdjZyVVt0fUXfmE5yJ"
@@ -7938,7 +8046,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 103986,
       "name": "pleurer, baiser, rire",
       "url": "https://open.spotify.com/track/2K2NUCIZ4gQ1M5tAunR6Yv"
@@ -7985,6 +8093,24 @@
     },
     {
       "album": {
+        "name": "PLUS JAMAIS BROKE",
+        "url": "https://open.spotify.com/album/5Kdpe9PbENbV4G7DcafEq2"
+      },
+      "artists": [
+        {
+          "name": "Peso Shabba",
+          "url": "https://open.spotify.com/artist/7uzgY9BIz1MUFIkX8nDgFK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "PLUS JAMAIS BROKE",
+      "url": "https://open.spotify.com/track/0ezT65sFoRI244C95NXBhN"
+    },
+    {
+      "album": {
         "name": "Crier Vomir Pleurer",
         "url": "https://open.spotify.com/album/33PakfNdXr3X7cAWEAkGeg"
       },
@@ -8018,6 +8144,28 @@
       "duration_ms": 130531,
       "name": "PLUS RIEN N'EST GRAVE",
       "url": "https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt"
+    },
+    {
+      "album": {
+        "name": "Polaro\u00efds",
+        "url": "https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl"
+      },
+      "artists": [
+        {
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        },
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193213,
+      "name": "Polaro\u00efds",
+      "url": "https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ"
     },
     {
       "album": {

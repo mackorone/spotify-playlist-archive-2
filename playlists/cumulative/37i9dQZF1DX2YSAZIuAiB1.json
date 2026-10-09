@@ -9406,7 +9406,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 228133,
       "name": "Pas comme moi",
       "url": "https://open.spotify.com/track/3rdiPxdC5Y2N9eDgEk3MY4"
@@ -11502,6 +11502,28 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "album": {
+        "name": "Soy Plenero",
+        "url": "https://open.spotify.com/album/3FajkSxPacCsIGqEZyaNLI"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145609,
+      "name": "Soy Plenero",
+      "url": "https://open.spotify.com/track/3JoepptdNRYFaKdMgEHinT"
     },
     {
       "album": {

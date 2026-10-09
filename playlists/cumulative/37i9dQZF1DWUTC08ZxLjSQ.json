@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "ACHNO LI DRK",
+        "url": "https://open.spotify.com/album/67PM7r9xeoVfJooT3434qW"
+      },
+      "artists": [
+        {
+          "name": "IICYEE",
+          "url": "https://open.spotify.com/artist/1IqwhszLHhFGS0yhhOiMLt"
+        },
+        {
+          "name": "Tal6y",
+          "url": "https://open.spotify.com/artist/6gEitKikyabt7MFT0rCpFe"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137775,
+      "name": "ACHNO LI DRK",
+      "url": "https://open.spotify.com/track/6C8ialYQnNsrGAR7n2MRIf"
+    },
+    {
+      "album": {
         "name": "AD KALAMI",
         "url": "https://open.spotify.com/album/4SguTAovECiutkq4lfOs3o"
       },
@@ -688,7 +710,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 183823,
       "name": "ANA O YAK",
       "url": "https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy"

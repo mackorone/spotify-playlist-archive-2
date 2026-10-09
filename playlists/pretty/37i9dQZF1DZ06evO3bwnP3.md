@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3bwnP3.md) - [plain]
 
 > This is Kara\-Lis Coverdale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125 likes - 42 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 126 likes - 42 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Endocrine](https://open.spotify.com/track/1k6lZUCepvnM3o0g4NDD7x) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [Cello Octet Amsterdam](https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS) | [Endocrine](https://open.spotify.com/album/7tQSQNOVTKSXC7eUaCXjg6) | 7:37 |
-| 2 | [Boundlessness](https://open.spotify.com/track/11EfRHeiSHBynrX6IKpugx) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 4:37 |
-| 3 | [Flickers in the Air of Night](https://open.spotify.com/track/7iTVMlkBHObTVK4KVXbyg5) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:02 |
-| 4 | [Moments In Love](https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1LhNRSweuF57DJ2IbWrKx8) | 9:23 |
-| 5 | [Fantas Morbida \- Kara\-Lis Coverdale](https://open.spotify.com/track/6zrfr1RV9IM7SKUdYHU4UX) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/63QmA6FQwtoHIDP3m43UgS) | 3:07 |
-| 6 | [Touch me & die](https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:30 |
+| 1 | [Boundlessness](https://open.spotify.com/track/11EfRHeiSHBynrX6IKpugx) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 4:37 |
+| 2 | [Flickers in the Air of Night](https://open.spotify.com/track/7iTVMlkBHObTVK4KVXbyg5) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:02 |
+| 3 | [Moments In Love](https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1LhNRSweuF57DJ2IbWrKx8) | 9:23 |
+| 4 | [Fantas Morbida \- Kara\-Lis Coverdale](https://open.spotify.com/track/6zrfr1RV9IM7SKUdYHU4UX) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/63QmA6FQwtoHIDP3m43UgS) | 3:07 |
+| 5 | [Touch me & die](https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:30 |
+| 6 | [Endocrine](https://open.spotify.com/track/1k6lZUCepvnM3o0g4NDD7x) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [Cello Octet Amsterdam](https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS) | [Endocrine](https://open.spotify.com/album/7tQSQNOVTKSXC7eUaCXjg6) | 7:37 |
 | 7 | [Daze](https://open.spotify.com/track/2S8Qc0lIVObqMrymPz5WP8) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 5:16 |
 | 8 | [Flutter](https://open.spotify.com/track/0xhn9nGIzsQeJRdLxBHo8D) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 4:21 |
 | 9 | [Imgs /r](https://open.spotify.com/track/5aTBLrW5ACeiRAGtGLN9dE) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 4:26 |

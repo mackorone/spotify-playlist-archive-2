@@ -4574,7 +4574,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 442181,
       "name": "Nothing but Grace - Live",
       "url": "https://open.spotify.com/track/48AEVs6HxlDtiz8ySWvpmj"
@@ -5623,6 +5623,24 @@
     },
     {
       "album": {
+        "name": "Since I Met You (Live)",
+        "url": "https://open.spotify.com/album/4DiPiujvDBmLt2Z4LbWEZW"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353057,
+      "name": "Since I Met You - Live",
+      "url": "https://open.spotify.com/track/0IG8FKHnKYsoTdbScmNOAV"
+    },
+    {
+      "album": {
         "name": "Sing For Joy",
         "url": "https://open.spotify.com/album/2bLnPf8G08JcrL4N4VWGQz"
       },
@@ -5834,6 +5852,24 @@
       "duration_ms": 592000,
       "name": "Ta lo to O - Live",
       "url": "https://open.spotify.com/track/1nSJfN7XRupIuEquqZxQ0O"
+    },
+    {
+      "album": {
+        "name": "Melodies of My Heart",
+        "url": "https://open.spotify.com/album/1V4vsT1Z6k8WP4sHBCkuBD"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529786,
+      "name": "Tamuno - Live",
+      "url": "https://open.spotify.com/track/7o3BoeqgAb8rfz35gtvru8"
     },
     {
       "album": {
@@ -7308,7 +7344,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 676475,
       "name": "Your Name - Live",
       "url": "https://open.spotify.com/track/46hC9KsdqwotKlcrUKZVtP"

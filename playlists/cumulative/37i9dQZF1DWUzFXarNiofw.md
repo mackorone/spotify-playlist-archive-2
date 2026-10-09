@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Stevie Wonder
 
-6,262 songs - 13 day 14 hr 57 min
+6,263 songs - 13 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2221,6 +2221,7 @@
 | [guidance](https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [guidance](https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs) | 3:35 | 2024-08-02 | 2024-09-14 |
 | [Guilty](https://open.spotify.com/track/6cElxtow8oW5POqwv3mCbh) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Essie's World](https://open.spotify.com/album/5POh4uMQRFPQuZcAMKAtRB) | 2:51 | 2024-08-16 | 2024-09-28 |
 | [Guilty](https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Guilty](https://open.spotify.com/album/7LuYrvLkdzxHarZHNFLvYq) | 2:51 | 2024-07-26 | 2024-08-24 |
+| [Guilty \(with Ink\)](https://open.spotify.com/track/5LksZyYetsIYCrRH4IrYx6) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Synonym](https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ) | 4:28 | 2026-10-08 |  |
 | [GUY](https://open.spotify.com/track/4dnB3shgvzcG4qa2xY9SrI) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [GUY](https://open.spotify.com/album/6VGCdn6ROODtrypCowixlT) | 3:53 | 2025-03-07 | 2025-04-19 |
 | [Gyaldem Riddim \(feat\. PsychoYP\)](https://open.spotify.com/track/7ArtQ0O1ced93NTjokhwtt) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Heart Parts & Nostalgia \(Deluxe\)](https://open.spotify.com/album/0RVEXmsKakZ5OtjHan6gr4) | 3:47 | 2023-07-21 | 2023-09-09 |
 | [H.I.M](https://open.spotify.com/track/0jjrLN2I5nmy9owwliEfoD) | [SICKOFTHEINTERNET](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [H.I.M](https://open.spotify.com/album/7L9H2jio6aQhMhUPqkczUo) | 3:00 | 2026-06-12 | 2026-08-01 |

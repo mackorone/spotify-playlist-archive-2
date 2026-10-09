@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România și piesele alese de editorii noștri\. Cover: Alexandra Căpitănescu
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,061 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,063 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 10 | [Oamenii vin si pleaca](https://open.spotify.com/track/6pqD8ZDc7EhRpXXRCP6Rtp) | [EMY ALUPEI](https://open.spotify.com/artist/3ui0899eHDdJf7214LcI7I) | [Oamenii vin si pleaca](https://open.spotify.com/album/7H90aUB6u4bxucnlGzCnV8) | 2:44 |
 | 11 | [Talisman](https://open.spotify.com/track/5CGDUlffa87Q4WZsYVY7Bz) | [Aura Șova](https://open.spotify.com/artist/0fHzT5o6dGwn1nm1kMjVSG) | [Talisman](https://open.spotify.com/album/2oZy8uzx4khnQ8KjdTz5j8) | 2:56 |
 | 12 | [Last Night](https://open.spotify.com/track/03VTduRlKrLvYqtc4zPXY9) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq) | [Last Night](https://open.spotify.com/album/4egZgHAcqOVKiLmXvEhnPU) | 3:01 |
-| 13 | [Te las sa\-ți faci de cap](https://open.spotify.com/track/7s4oTHYLA5IMunKULr6ZPd) | [ILINCA](https://open.spotify.com/artist/64PgkSM1uDD9BJEg0UkMMM) | [Divin Féminin](https://open.spotify.com/album/2U6v5LC141zhTEmVPONuYt) | 3:10 |
+| 13 | [Te las să\-ți faci de cap](https://open.spotify.com/track/7s4oTHYLA5IMunKULr6ZPd) | [ILINCA](https://open.spotify.com/artist/64PgkSM1uDD9BJEg0UkMMM) | [Divin Féminin](https://open.spotify.com/album/2U6v5LC141zhTEmVPONuYt) | 3:10 |
 | 14 | [Am un vis](https://open.spotify.com/track/55ilwbyd7t7T1w0HxRhNJQ) | [Alessia Pop](https://open.spotify.com/artist/6qVzrDdOCOXDT5E9Hy94h2) | [Compromis](https://open.spotify.com/album/1rXpjlcgG1x5vrfVN2ruSP) | 3:03 |
 | 15 | [Light in the chaos](https://open.spotify.com/track/51xImuz9tz1iZpg5dHlpUL) | [RYAA](https://open.spotify.com/artist/2XJAWdtN8IXA0HwG1zs5zK) | [Light in the chaos](https://open.spotify.com/album/6p6w7PpfnK6xRdyjBN1Dcp) | 2:47 |
 | 16 | [Copilul din mine](https://open.spotify.com/track/4LxBdFuk1wZZFeFiw8jjiq) | [Andreea Balan](https://open.spotify.com/artist/0EzdKL71gSNlSxnAmEQeGV) | [Copilul din mine](https://open.spotify.com/album/4i405DpqgnKPLBXKR8pRFv) | 3:16 |

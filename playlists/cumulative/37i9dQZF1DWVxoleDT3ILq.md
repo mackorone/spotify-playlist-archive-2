@@ -2,9 +2,9 @@
 
 ### [alt/chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Estoy Bien en portada.
+> Niños Del Cerro en portada.
 
-615 songs - 1 day 13 hr 1 min
+619 songs - 1 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Amanecer](https://open.spotify.com/track/5zY6Y32KhjA0TzMYrbpeud) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Amanecer](https://open.spotify.com/album/6wJTeqF97YGb5QbwCwhcUS) | 2:44 | 2023-07-14 | 2023-08-17 |
 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 | 2023-06-23 | 2024-05-18 |
 | [Amatista](https://open.spotify.com/track/5KWGNOFCtfTARv9wuA9d60) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Amatista](https://open.spotify.com/album/7gmY5yKaExOsSURwSFoaM1) | 4:39 | 2022-04-15 | 2022-07-19 |
+| [Amiga nueva](https://open.spotify.com/track/2K1DxInVvVnn5GZ8eoaE9x) | [Así me dicen](https://open.spotify.com/artist/6bURd0UiRabz8ox39FmLG8), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Amiga nueva](https://open.spotify.com/album/5DHWCH8ABQgiZaBho47MGm) | 4:24 | 2026-10-09 |  |
 | [Amigos Imaginarios](https://open.spotify.com/track/0m7eJFkULhiip0NjjNN9vj) | [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Amigos Imaginarios](https://open.spotify.com/album/1wXNkNVWA8sro1KO5cd6qV) | 3:13 | 2022-04-15 | 2022-07-26 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-04-15 | 2023-01-28 |
 | [Amor Líquido](https://open.spotify.com/track/37HtHSAwrFV0zznQjpufzA) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Solar](https://open.spotify.com/artist/4EO24W4MNhpgz2BidW9qgu) | [Amor Líquido](https://open.spotify.com/album/3qvk9MtNGeD5wQ7XOyWt9K) | 2:45 | 2026-08-21 |  |
@@ -339,6 +340,7 @@
 | [Metatrón](https://open.spotify.com/track/6qUsTRejNR8WuUVqClm8Li) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Metatrón](https://open.spotify.com/album/5ATddaIPfN60xIgidfZSEV) | 3:56 | 2023-10-12 | 2024-08-24 |
 | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/track/5wnn9v60XXqJIdP2e7yPHK) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/album/5YqfkhcnCPjF7JF5eBY2U0) | 3:18 | 2022-04-15 | 2022-08-03 |
 | [Mi Chica](https://open.spotify.com/track/3kloO0cxNbUHSvC0oTY9Uc) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Espero podamos ver un ovni juntxs](https://open.spotify.com/album/26zRJsRXT7Svk3SdPk9phT) | 2:47 | 2026-07-17 | 2026-07-25 |
+| [Mi Pequeño Dolor](https://open.spotify.com/track/4bScAQs2iqvXNGIHSYeTKk) | [Laura sad](https://open.spotify.com/artist/4IRXvbsbSP4oHm4adUdQlt), [Ninja Nigro](https://open.spotify.com/artist/6pHg6fuPN3sHxijUHeXiSu) | [Mi Pequeño Dolor](https://open.spotify.com/album/2YiAUdgxh0dCQLbTWnASG0) | 2:28 | 2026-10-09 |  |
 | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 | 2022-08-26 | 2023-11-30 |
 | [Mi Sol Menor](https://open.spotify.com/track/0HJfgUh8DE2FzNqKwjR1St) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Sol Menor](https://open.spotify.com/album/47JB62v141rFEtfppIGVj7) | 4:30 | 2022-04-15 | 2022-07-28 |
 | [Milagros](https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8) | [DINDI JANE](https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ) | [Milagros](https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1) | 3:10 | 2022-04-15 | 2022-08-25 |
@@ -384,6 +386,7 @@
 | [Nupcial](https://open.spotify.com/track/1lki94wKYC423xMX8gq5YS) | [CICUTA](https://open.spotify.com/artist/7hv7VBQMQGt2nHDjOPRYPO) | [Nupcial](https://open.spotify.com/album/12Z8IQzjq4J2Si7zTGWcpy) | 5:50 | 2026-07-24 |  |
 | [Obsesión \- Remix](https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Obsesión \(Remix\)](https://open.spotify.com/album/3ll55HS0aY0jnK3UYrQRI9) | 3:30 | 2023-04-13 | 2026-07-18 |
 | [Odisea](https://open.spotify.com/track/4j4pXSdqqsxEfsb9dwikga) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Invierno en la playa](https://open.spotify.com/album/2MVDwWtKOqZlrXnS5d5liU) | 3:15 | 2025-05-30 | 2026-07-25 |
+| [Ola Ola](https://open.spotify.com/track/39RveTbLheBRfq8120YFuw) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4) | [Ola Ola](https://open.spotify.com/album/63iOu2cRrcjxpKetHYI0bn) | 3:47 | 2026-10-09 |  |
 | [Oler A Ti](https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Oler A Ti](https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5) | 3:45 | 2023-09-08 | 2026-07-25 |
 | [Once](https://open.spotify.com/track/1y526sUKDGQNlxTHaNS1Qn) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Once](https://open.spotify.com/album/3gEo1R7IlW4A6q5S7UKzM8) | 4:58 | 2024-05-17 | 2026-07-25 |
 | [otr\(a v\)ez](https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [\(re\)definiciones](https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b) | 2:46 | 2024-05-17 | 2025-08-02 |
@@ -590,6 +593,7 @@
 | [Venenos](https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 3:49 | 2023-03-31 | 2023-09-30 |
 | [Venus](https://open.spotify.com/track/485YGGmmfVXoURU9WePNPk) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/3O1CEge2yagoOo3ufClQ8n) | 4:00 | 2022-07-22 | 2022-12-10 |
 | [Venus](https://open.spotify.com/track/76SsQhqJ5VaHoQLvWgaB3x) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/5dMNce8X1rbwCsLL2Vmnn2) | 4:00 | 2022-04-15 | 2022-07-28 |
+| [Verlos morir](https://open.spotify.com/track/2HrlH70Pyf4Pr6j1i2xBMA) | [Anttonias](https://open.spotify.com/artist/3zso8kvuPiTFBXe5g6ERJW) | [Verlos morir](https://open.spotify.com/album/3jsCUehb5VsGE2w1ggm8BX) | 3:17 | 2026-10-09 |  |
 | [Verme \- Acústica](https://open.spotify.com/track/1GAE341bT1bLmXRM18jDez) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Verme \(Acústica\)](https://open.spotify.com/album/2vJuwueCrc3WwsLAlOFc7X) | 3:04 | 2025-11-14 | 2026-07-25 |
 | [Verte](https://open.spotify.com/track/2aQCNOBuD81IsgT3goC56A) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP), [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Verte](https://open.spotify.com/album/0nc4VKUR3tWPFt1K7WJwIm) | 3:45 | 2023-08-11 | 2024-08-17 |
 | [Vi al diablo](https://open.spotify.com/track/2v45JoEGEuayex48kyDxrK) | [asia menor](https://open.spotify.com/artist/5yrd8vlGtyEsP3maoVqlkD) | [Vi al diablo](https://open.spotify.com/album/3GvivEm7FGEExjYxVDdE9J) | 4:00 | 2026-08-21 |  |

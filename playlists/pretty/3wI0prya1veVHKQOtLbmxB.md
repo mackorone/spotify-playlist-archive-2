@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 > Fall deeply in love 💖 with this romantic playlist! Featuring soulful ballads, acoustic love songs &amp; intimate tracks from Ed Sheeran, Olivia Dean, Alex Warren, Bruno Mars, and more\. Perfect for date nights or dreaming of romance.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 137,224 likes - 101 songs - 6 hr 24 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 137,226 likes - 101 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

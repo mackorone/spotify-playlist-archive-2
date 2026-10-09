@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-125 songs - 4 hr 46 min
+128 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,12 +78,12 @@
 | [Light of October](https://open.spotify.com/track/0bT0KigMA1yirlMo7EBZqp) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Light of October](https://open.spotify.com/album/0BmL2ieDWhMalFMmle2HEu) | 1:42 | 2024-11-15 | 2024-11-30 |
 | [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 | 2024-10-18 |  |
 | [Long Road Home](https://open.spotify.com/track/0AiFPymAPPa9wt5Lzw8GHM) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Long Road Home](https://open.spotify.com/album/6xJA1S3vUfAmujzyk8Ayx9) | 2:13 | 2024-10-18 |  |
-| [Lucid](https://open.spotify.com/track/2spoQnHvSANa0W6d567SjA) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Lucid](https://open.spotify.com/album/4fLLQYSeCv7meJmc0KnI09) | 2:41 | 2025-10-16 |  |
+| [Lucid](https://open.spotify.com/track/2spoQnHvSANa0W6d567SjA) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Lucid](https://open.spotify.com/album/4fLLQYSeCv7meJmc0KnI09) | 2:41 | 2025-10-16 | 2026-10-09 |
 | [machine](https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [machine](https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz) | 2:08 | 2024-12-11 |  |
 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 | 2024-10-18 | 2025-11-29 |
 | [Maple Sunsets](https://open.spotify.com/track/42OVQFMwtsVVgND9Pl9RXm) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Maple Sunsets](https://open.spotify.com/album/2iV1rlCaAVV88O8zyUSls2) | 1:58 | 2024-10-18 |  |
 | [Marupe Blues](https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Marupe Blues](https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32) | 2:12 | 2024-10-18 |  |
-| [Maze](https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Maze](https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW) | 2:12 | 2024-10-18 |  |
+| [Maze](https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Maze](https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW) | 2:12 | 2024-10-18 | 2026-10-09 |
 | [mellow out](https://open.spotify.com/track/3Nrvm4lMBMb7yem6dUnOdt) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [mellow out](https://open.spotify.com/album/6UQUFb9OwDxj1Nm8H15tcf) | 2:02 | 2025-10-16 |  |
 | [mermaid melodies](https://open.spotify.com/track/5zO8OlM8WBi7ve7o8zlQ6A) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Rufus Dipper](https://open.spotify.com/artist/7vSjvv75PSaKYhLK3J0DMb) | [mermaid melodies](https://open.spotify.com/album/3TtVNk2KrYd2Fk93hem1Cm) | 2:56 | 2024-10-18 | 2024-10-28 |
 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 | 2024-10-18 |  |
@@ -104,8 +104,10 @@
 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 | 2024-10-18 |  |
 | [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 | 2024-10-18 | 2025-10-23 |
 | [plateau](https://open.spotify.com/track/0qi4Lk7uRGRSImdN33hgg7) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [plateau](https://open.spotify.com/album/6ydJwHuW8t3BN4hfgXPKl6) | 2:56 | 2024-10-18 | 2024-10-21 |
+| [presence](https://open.spotify.com/track/4u7xzdVBCfjg1hXowA4mRJ) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Shalimar](https://open.spotify.com/artist/5Ngg8MO8stbuc1b0AcZJzX) | [presence](https://open.spotify.com/album/5wnAUPUCDYTpEymJLaPlP9) | 2:17 | 2026-10-09 |  |
 | [rainfall](https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [rainfall](https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s) | 2:42 | 2024-11-15 | 2024-11-23 |
 | [Rainseat](https://open.spotify.com/track/7Aw4NIhyuW9hyF5WxtKN9m) | [Corridor](https://open.spotify.com/artist/0Tc5RmUZd5MfNBwBQfEXld) | [Rainseat](https://open.spotify.com/album/0L8V6DITyr1ZSLwpzeJwYz) | 2:05 | 2025-11-28 |  |
+| [Ralph](https://open.spotify.com/track/0660Qq6M7YZRR4I6i0wUjf) | [agot\-w](https://open.spotify.com/artist/7kDzFaRe9l7To45Hqo6Kdh) | [Ralph](https://open.spotify.com/album/7raNZPikMnHZlangXzDEuZ) | 2:29 | 2026-10-09 |  |
 | [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 | 2024-10-18 | 2025-09-06 |
 | [Renaissance](https://open.spotify.com/track/6rjWO9LcpRRAovhVpJ93pr) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Renaissance](https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x) | 2:08 | 2024-10-18 |  |
 | [Robin](https://open.spotify.com/track/5bBzYZ5n15wINaBmD28M8X) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Robin](https://open.spotify.com/album/6D3p9YoUNQNDvnYFSkKCb5) | 2:10 | 2026-09-18 |  |
@@ -114,6 +116,7 @@
 | [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 | 2024-12-11 |  |
 | [slow down time](https://open.spotify.com/track/5Aq3RQPH6qfrhuoTrRHhHN) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [slow down time](https://open.spotify.com/album/4dtVbTvZb6GVX40nnMlQFw) | 2:24 | 2024-10-18 |  |
 | [slow turn](https://open.spotify.com/track/7zbGD2aCLp4ZaJnyk7i8FT) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [slow turn](https://open.spotify.com/album/59TAYTgMS7y01sIXrcwyWg) | 2:07 | 2025-09-12 |  |
+| [Small Canoe](https://open.spotify.com/track/3lE3WGr3EfJNqR1NsLQxlv) | [TimberRidge](https://open.spotify.com/artist/0Dhp5LBunI0YQAkPwshY0k) | [Small Canoe](https://open.spotify.com/album/6A55D2kEMACzvHxh0aQqwF) | 2:21 | 2026-10-09 |  |
 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 | 2024-10-18 |  |
 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 | 2024-10-18 |  |
 | [spirulina](https://open.spotify.com/track/6RTXsP4KJKDhBSATyR4ZSB) | [green print](https://open.spotify.com/artist/39W25if0IxsMNwE37DBgZu) | [spirulina](https://open.spotify.com/album/5q0CUqbosogIw2TbpQTI9k) | 2:07 | 2024-10-18 | 2024-11-09 |
@@ -127,7 +130,7 @@
 | [thyme moves slow](https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X) | [new vibe](https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo) | [thyme moves slow](https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5) | 2:27 | 2024-10-18 |  |
 | [triple sun](https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [triple sun](https://open.spotify.com/album/4mG00rSaqK95YPPnA4ZmQV) | 1:53 | 2024-10-18 | 2025-09-06 |
 | [Undertone](https://open.spotify.com/track/50VLwwvzjpemTbpK4hdSCr) | [hiking trip](https://open.spotify.com/artist/2LYQSy5WzO4IpaDmvmGzts) | [Undertone](https://open.spotify.com/album/7u04oReVWqQQcabJa7vgAL) | 2:20 | 2025-09-25 |  |
-| [Walk Away](https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Couch Potato](https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI) | 2:26 | 2024-11-22 |  |
+| [Walk Away](https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Couch Potato](https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI) | 2:26 | 2024-11-22 | 2026-10-09 |
 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 | 2024-12-11 |  |
 | [when the leaves](https://open.spotify.com/track/627rDXLovcxPJRbarsYQxP) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [when the leaves](https://open.spotify.com/album/6dtMISjjExmxOq1mqcY3X6) | 2:03 | 2025-10-22 |  |
 | [where did the time go](https://open.spotify.com/track/4epspKCIRAXJozEvfs5l2c) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Lofi Girl: Fall Collection 2026](https://open.spotify.com/album/79rSoGxgGA3ln0IrJuM761) | 2:38 | 2026-10-05 |  |

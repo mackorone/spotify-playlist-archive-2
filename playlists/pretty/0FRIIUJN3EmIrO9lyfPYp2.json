@@ -6,7 +6,7 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACrXRF70gVs4DxhrWXwZBL4uFHuwUT",
+  "snapshot_id": "AAACsI6oeaoIU+IUa72xjtMinPlbNUwP",
   "tracks": [
     {
       "added_at": "2026-10-04 06:21:05",
@@ -113,6 +113,86 @@
       "url": "https://open.spotify.com/track/682lKYTlleFYokKgAQjvJs"
     },
     {
+      "added_at": "2026-10-08 21:35:02",
+      "album": {
+        "name": "nocturnal lullaby",
+        "url": "https://open.spotify.com/album/1bG1Eyr2nyutEmPzfv1Tbl"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        }
+      ],
+      "duration_ms": 134947,
+      "name": "nocturnal lullaby",
+      "url": "https://open.spotify.com/track/1DM9zA0MD0HnqBZT32xCSx"
+    },
+    {
+      "added_at": "2026-10-04 06:21:05",
+      "album": {
+        "name": "aficionado",
+        "url": "https://open.spotify.com/album/248qSSuDfq0sM2TiMp9znK"
+      },
+      "artists": [
+        {
+          "name": "tapei",
+          "url": "https://open.spotify.com/artist/6IJCzUQPa8OZTS14N55erm"
+        }
+      ],
+      "duration_ms": 178886,
+      "name": "nada + suerte",
+      "url": "https://open.spotify.com/track/4EOZnIIWI4W9WpqceuL5Fm"
+    },
+    {
+      "added_at": "2026-10-08 21:35:02",
+      "album": {
+        "name": "how was your day",
+        "url": "https://open.spotify.com/album/3MStvdBjt0GC2kBFxqZLdL"
+      },
+      "artists": [
+        {
+          "name": "austen",
+          "url": "https://open.spotify.com/artist/0mGVTqV5kBBY2gd7Yo1mTx"
+        }
+      ],
+      "duration_ms": 153712,
+      "name": "how was your day",
+      "url": "https://open.spotify.com/track/0Ctf5Uj8KHbeIY0JkjMrMn"
+    },
+    {
+      "added_at": "2026-10-04 06:21:05",
+      "album": {
+        "name": "aficionado",
+        "url": "https://open.spotify.com/album/248qSSuDfq0sM2TiMp9znK"
+      },
+      "artists": [
+        {
+          "name": "tapei",
+          "url": "https://open.spotify.com/artist/6IJCzUQPa8OZTS14N55erm"
+        }
+      ],
+      "duration_ms": 400865,
+      "name": "shiny (i love your air notes)",
+      "url": "https://open.spotify.com/track/13hoAh22spIOU4mXxM4Oxp"
+    },
+    {
+      "added_at": "2026-10-08 21:35:02",
+      "album": {
+        "name": "beginnings",
+        "url": "https://open.spotify.com/album/11iBR8TH2dVByWJSIfoBv1"
+      },
+      "artists": [
+        {
+          "name": "oversly",
+          "url": "https://open.spotify.com/artist/0yW83Q0140sPnXTdk9gcyK"
+        }
+      ],
+      "duration_ms": 106133,
+      "name": "beginnings",
+      "url": "https://open.spotify.com/track/6D7qEfEc0GTEyQehvXLgaF"
+    },
+    {
       "added_at": "2026-09-25 21:42:58",
       "album": {
         "name": "sleepwalk",
@@ -133,22 +213,6 @@
       "url": "https://open.spotify.com/track/4vmwaAExDiqJoSu3zsbJuq"
     },
     {
-      "added_at": "2026-10-04 06:21:05",
-      "album": {
-        "name": "aficionado",
-        "url": "https://open.spotify.com/album/248qSSuDfq0sM2TiMp9znK"
-      },
-      "artists": [
-        {
-          "name": "tapei",
-          "url": "https://open.spotify.com/artist/6IJCzUQPa8OZTS14N55erm"
-        }
-      ],
-      "duration_ms": 178886,
-      "name": "nada + suerte",
-      "url": "https://open.spotify.com/track/4EOZnIIWI4W9WpqceuL5Fm"
-    },
-    {
       "added_at": "2026-09-25 21:42:58",
       "album": {
         "name": "experience",
@@ -163,22 +227,6 @@
       "duration_ms": 96369,
       "name": "experience",
       "url": "https://open.spotify.com/track/7l3TAar1UnPIliNH7HZna8"
-    },
-    {
-      "added_at": "2026-10-04 06:21:05",
-      "album": {
-        "name": "aficionado",
-        "url": "https://open.spotify.com/album/248qSSuDfq0sM2TiMp9znK"
-      },
-      "artists": [
-        {
-          "name": "tapei",
-          "url": "https://open.spotify.com/artist/6IJCzUQPa8OZTS14N55erm"
-        }
-      ],
-      "duration_ms": 400865,
-      "name": "shiny (i love your air notes)",
-      "url": "https://open.spotify.com/track/13hoAh22spIOU4mXxM4Oxp"
     },
     {
       "added_at": "2026-09-25 21:42:58",

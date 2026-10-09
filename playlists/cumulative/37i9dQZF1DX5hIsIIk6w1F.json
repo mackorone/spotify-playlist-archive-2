@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: DrefQuila",
+  "description": "Este Flow tiene otro Flow. Foto: AK 4:20 & Benja Valencia",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -918,7 +918,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 185097,
       "name": "Adictiva",
       "url": "https://open.spotify.com/track/2CMsAgWjxN4WqmBXoiea2Z"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 188312,
       "name": "ALMAS GEMELAS",
       "url": "https://open.spotify.com/track/19tcB1ILXTJvvHxvzr2zZa"
@@ -3694,7 +3694,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 139200,
       "name": "BYONCE",
       "url": "https://open.spotify.com/track/4Uf3qct71nYsNivPLFK3pZ"
@@ -4228,6 +4228,28 @@
       "duration_ms": 266400,
       "name": "Chaparrita (Remix)",
       "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+    },
+    {
+      "album": {
+        "name": "Cheetah House",
+        "url": "https://open.spotify.com/album/2hPzN2O1jyqJMRudUblrT1"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "Cheetah House",
+      "url": "https://open.spotify.com/track/7bnftfWT4U7l0YZMmasubp"
     },
     {
       "album": {
@@ -6899,6 +6921,36 @@
     },
     {
       "album": {
+        "name": "D\u00e9jate Llevar (Remix)",
+        "url": "https://open.spotify.com/album/4O6gpYuqbMbWa7SbvzbebC"
+      },
+      "artists": [
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "simonpizarro",
+          "url": "https://open.spotify.com/artist/06km6u8PLi9auhDEUAiiuX"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "D\u00e9jate Llevar - Remix",
+      "url": "https://open.spotify.com/track/7sNKMBtIlFzCJQrxcA8qd0"
+    },
+    {
+      "album": {
         "name": "D\u00edmelo",
         "url": "https://open.spotify.com/album/2cDoZQMWCz7VaEedFHbOrh"
       },
@@ -7544,7 +7596,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 162624,
       "name": "EN LA DISCO",
       "url": "https://open.spotify.com/track/4avL7ImjHKmAu1KoEZu65j"
@@ -9312,7 +9364,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 204571,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/16gluNDUf7GitRH9W3Y4zI"
@@ -10672,7 +10724,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 152500,
       "name": "KERE BELLAKEAR",
       "url": "https://open.spotify.com/track/0c1V9KsleQ0idtrex2La1S"
@@ -10746,6 +10798,32 @@
       "duration_ms": 172960,
       "name": "Kilo De Amigas",
       "url": "https://open.spotify.com/track/5p3zexHZc07e8ASsMI63Rz"
+    },
+    {
+      "album": {
+        "name": "LAS COSAS IMPORTANTES",
+        "url": "https://open.spotify.com/album/5K69uSm7PGdL8bPxqTtcUp"
+      },
+      "artists": [
+        {
+          "name": "Igna",
+          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Lexter",
+          "url": "https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173916,
+      "name": "KISSES",
+      "url": "https://open.spotify.com/track/7p0wRA3KGvEGXTSlzGBemN"
     },
     {
       "album": {
@@ -11762,6 +11840,28 @@
       "duration_ms": 167812,
       "name": "Lealtad",
       "url": "https://open.spotify.com/track/6OsU20ogLqpSbNGAbMY9se"
+    },
+    {
+      "album": {
+        "name": "LEER TUS PENSAMIENTOS",
+        "url": "https://open.spotify.com/album/5QRnjpY6S4sTHLioA3myWd"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177368,
+      "name": "LEER TUS PENSAMIENTOS",
+      "url": "https://open.spotify.com/track/6zRAJ97ey0RjKa5uKkXfNA"
     },
     {
       "album": {
@@ -14140,7 +14240,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 168209,
       "name": "Me Mareo",
       "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
@@ -16496,7 +16596,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 222466,
       "name": "NO ES LO MISMO (feat. Polim\u00e1 Westcoast)",
       "url": "https://open.spotify.com/track/4XTJaWt6SRr2rjZOhocq9m"
@@ -17126,6 +17226,24 @@
       "duration_ms": 165600,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/4lRvyuYL6jinFHuqSKTLfT"
+    },
+    {
+      "album": {
+        "name": "Off The Planet",
+        "url": "https://open.spotify.com/album/5eQCto2v7SsMmEnwBxbSSg"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167941,
+      "name": "Off The Planet",
+      "url": "https://open.spotify.com/track/2bIQLFtJVGjNQ2ti5P1SMi"
     },
     {
       "album": {
@@ -18100,6 +18218,28 @@
       "duration_ms": 308366,
       "name": "PARTY DE MALEANTES - RMX",
       "url": "https://open.spotify.com/track/3lMXF0Sn0X1n1CBJn3pNYM"
+    },
+    {
+      "album": {
+        "name": "PARTY EN CASA",
+        "url": "https://open.spotify.com/album/7kACKxVn0ZVY3DKAqlXwlu"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200906,
+      "name": "PARTY EN CASA",
+      "url": "https://open.spotify.com/track/3OjutiddXU6Z5t3xirIYTd"
     },
     {
       "album": {
@@ -22350,7 +22490,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 153048,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/0wfxVhK6hS5ywcSotERiBs"
@@ -25950,7 +26090,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 160394,
       "name": "Vamo a Bailotear",
       "url": "https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ"

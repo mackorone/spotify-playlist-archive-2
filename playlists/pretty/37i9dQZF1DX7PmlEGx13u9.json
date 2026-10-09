@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: Leon Thomas",
-  "num_followers": 64231,
+  "num_followers": 64236,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-03-17 14:32:26",
       "album": {
+        "name": "Give Up The Fear",
+        "url": "https://open.spotify.com/album/3MS50q90DYesShrGsqAFve"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Give Up The Fear",
+      "url": "https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB"
+    },
+    {
+      "added_at": "2026-03-17 14:32:26",
+      "album": {
         "name": "He Loves Us Both (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 221700,
       "name": "He Loves Us Both (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
-    },
-    {
-      "added_at": "2026-03-17 14:32:26",
-      "album": {
-        "name": "Give Up The Fear",
-        "url": "https://open.spotify.com/album/3MS50q90DYesShrGsqAFve"
-      },
-      "artists": [
-        {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Give Up The Fear",
-      "url": "https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB"
     },
     {
       "added_at": "2026-03-17 14:32:26",

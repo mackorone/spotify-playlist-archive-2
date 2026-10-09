@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 129251,
+  "num_followers": 129272,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "25 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Jurabas Tu",
-      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 160856,
       "name": "ADI\u00d3S",
       "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "25 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Jurabas Tu",
+      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "20 A\u00f1os No Es Nada Todavia Estoy Vivo",
-        "url": "https://open.spotify.com/album/1PYPLjyXVGDaKXTUQXyuiG"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 219977,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/0GqJGNy4DJi0RVJOwLqunp"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Amor Entre S\u00e1banas",
         "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 181254,
       "name": "Que Nadie Se Entere",
       "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "20 A\u00f1os No Es Nada Todavia Estoy Vivo",
+        "url": "https://open.spotify.com/album/1PYPLjyXVGDaKXTUQXyuiG"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 219977,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/0GqJGNy4DJi0RVJOwLqunp"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Somos los Mejores... Y Que Sigan Participando",
-        "url": "https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 176587,
-      "name": "Donde Estas Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4fpg7DjOeH0fXx7gpVe426"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 212754,
       "name": "Me Enamore",
       "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Somos los Mejores... Y Que Sigan Participando",
+        "url": "https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 176587,
+      "name": "Donde Estas Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4fpg7DjOeH0fXx7gpVe426"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Somos los Mejores... Y Que Sigan Participando",
-        "url": "https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 189727,
-      "name": "Podria Ser Amado",
-      "url": "https://open.spotify.com/track/6HSxhRSUCUZr5s9LQtxWT6"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 192075,
       "name": "Yo Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Somos los Mejores... Y Que Sigan Participando",
+        "url": "https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 189727,
+      "name": "Podria Ser Amado",
+      "url": "https://open.spotify.com/track/6HSxhRSUCUZr5s9LQtxWT6"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 197616,
-      "name": "Entre el Cielo Vos y Yo",
-      "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Toque",
         "url": "https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 175266,
       "name": "Las Seis",
       "url": "https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 197616,
+      "name": "Entre el Cielo Vos y Yo",
+      "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+      "duration_ms": 202586,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
       "artists": [
         {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 202586,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Pero Qu\u00e9 Necesidad",
-        "url": "https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w"
-      },
-      "artists": [
-        {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
-        },
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 190736,
-      "name": "Pero Qu\u00e9 Necesidad",
-      "url": "https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 221601,
       "name": "OJITOS ROJOS",
       "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Pero Qu\u00e9 Necesidad",
+        "url": "https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w"
+      },
+      "artists": [
+        {
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+        },
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 190736,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "3 AM",
-        "url": "https://open.spotify.com/album/0DkYroeRYdlhcp3kklyomb"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
       },
       "artists": [
         {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
         }
       ],
-      "duration_ms": 193449,
-      "name": "3 AM",
-      "url": "https://open.spotify.com/track/5uyUokRn9ryuEJ7hczuAcg"
+      "duration_ms": 175694,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1739,26 +1743,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "El Amor De Mi Vida",
-        "url": "https://open.spotify.com/album/6ReApD38Z1LZXKJESAYflU"
+        "name": "3 AM",
+        "url": "https://open.spotify.com/album/0DkYroeRYdlhcp3kklyomb"
       },
       "artists": [
         {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        },
-        {
-          "name": "La Mary",
-          "url": "https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn"
-        },
-        {
-          "name": "Ulises Pi\u00f1eyro",
-          "url": "https://open.spotify.com/artist/401588jVafLLnM1utmR0Gb"
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
         }
       ],
-      "duration_ms": 186407,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/3nMYIuXBMRMrZjxp7eLOgA"
+      "duration_ms": 193449,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/5uyUokRn9ryuEJ7hczuAcg"
     }
   ],
   "unique_name": "Cumbias para carretear",

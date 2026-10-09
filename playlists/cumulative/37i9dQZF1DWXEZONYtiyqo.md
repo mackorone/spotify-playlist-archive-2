@@ -4,7 +4,7 @@
 
 > Cele mai noi hituri pop românești\. Cover: Olivia Addams, Liviu Teodorescu
 
-576 songs - 1 day 3 hr 11 min
+578 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Arde](https://open.spotify.com/track/0FOZ5aKf4AUKl2jT9nJf5j) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw) | [Arde](https://open.spotify.com/album/4jPSODAs7BacNiMDiVruJx) | 2:22 | 2025-08-21 | 2025-09-19 |
 | [Arde cerul](https://open.spotify.com/track/6lmB4XvuVcyJ7lTsrqOZSB) | [Betty Salam](https://open.spotify.com/artist/6YoV1pQqV1SX4m40yQ6LOd), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Arde cerul](https://open.spotify.com/album/3cRgSc1gEzhjTsJv4wyG7T) | 2:38 | 2024-12-12 | 2025-03-21 |
 | [Arta ta](https://open.spotify.com/track/0b5zKu5F7zoB5IHR9PZvOn) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [DOC](https://open.spotify.com/artist/6pWa7vRheyK4dmNJ2cg0gA) | [Arta ta](https://open.spotify.com/album/6rWlDZqdykjxPyXpnlHs9J) | 2:44 | 2025-11-20 | 2026-02-20 |
+| [Arunc cu florile](https://open.spotify.com/track/1ILEUclvI62ca0mR5cbg2E) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Arunc cu florile](https://open.spotify.com/album/730v07BNw7fZLX6iUOo4er) | 2:35 | 2026-10-08 |  |
 | [As late as possible](https://open.spotify.com/track/2KnTmtgyD5ZPAyBejJamNd) | [Speak](https://open.spotify.com/artist/4FMubIN9hLd0gLL7e9lXEi), [Florin Ristei](https://open.spotify.com/artist/75O3JSFrt909DtV34BTWfW) | [As late as possible](https://open.spotify.com/album/5Vma6ifh8VQDl4RXkMFn8W) | 3:41 | 2026-05-28 | 2026-06-12 |
 | [Asa ne da dragostea](https://open.spotify.com/track/65JqNtKD6mWh0pkyECafxX) | [Keo](https://open.spotify.com/artist/5VWiSi6ROTFyo3f5ENrQTT), [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Asa ne da dragostea](https://open.spotify.com/album/4TxlP494hA8betsRDMMvqN) | 2:40 | 2025-05-23 | 2025-06-06 |
 | [Atâtea inimi](https://open.spotify.com/track/2AtgVN7VzPJs5rK4mzyttK) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Atâtea inimi](https://open.spotify.com/album/2es8wgLPJuNGcUtaeHsbl5) | 2:33 | 2026-07-02 |  |
@@ -146,6 +147,7 @@
 | [D\-Aia Nu Mai Pot Io](https://open.spotify.com/track/3KqJyfTsKL0UpamJnJC7Yr) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [D\-Aia Nu Mai Pot Io](https://open.spotify.com/album/0VI59gjM24VRuzz8rsX8RX) | 2:17 | 2026-07-09 | 2026-07-31 |
 | [Dac\-ar ști](https://open.spotify.com/track/4wGj3Hq1FVxfAoGp3XQH6u) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [Dac\-ar ști](https://open.spotify.com/album/4DGWNCxChSVUlDQakyRC0S) | 2:24 | 2025-06-05 | 2025-07-04 |
 | [Dacă mai vrei](https://open.spotify.com/track/5NJzBq5gVZBsSPghS69p4F) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Dacă mai vrei](https://open.spotify.com/album/4d5Wj6v6ButVaSwjj7FxNf) | 2:50 | 2026-01-22 | 2026-05-08 |
+| [Dans](https://open.spotify.com/track/0RbvFQL2jCgEOEiqeE9q7Y) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Dans](https://open.spotify.com/album/4rRwt4oR2CSdy9NGfX6ukN) | 2:50 | 2026-10-08 |  |
 | [Dans nocturn](https://open.spotify.com/track/2pWVkrRjBySXqQloRsi9sk) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Dans nocturn](https://open.spotify.com/album/3hSwbrhEZ1C02EfWHQ52gL) | 2:57 | 2024-06-27 | 2024-12-06 |
 | [Dansezi](https://open.spotify.com/track/10MsQJOOsx8CfA13zDNoDe) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Dansezi](https://open.spotify.com/album/339JbgCy9ucSh1T7se3lX8) | 2:46 | 2024-06-27 | 2024-10-04 |
 | [Dansăm](https://open.spotify.com/track/7r93tDwB4wgchV9mnTtzJD) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Dansăm](https://open.spotify.com/album/1s6IGUxkGvDT58Fqot4lwX) | 3:16 | 2025-12-11 | 2026-04-17 |

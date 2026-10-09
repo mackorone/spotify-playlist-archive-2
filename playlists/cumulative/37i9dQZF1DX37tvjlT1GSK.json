@@ -346,7 +346,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 181591,
       "name": "A Qu\u00e9 Te Atienes",
       "url": "https://open.spotify.com/track/4F99vhSyDHXz34aZrIUQdv"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 181818,
       "name": "Bien Vividos",
       "url": "https://open.spotify.com/track/4U6nW9cAxjgYRdV2szOeLA"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 255076,
       "name": "Burbujas",
       "url": "https://open.spotify.com/track/75TqtZephQuKrsUKudbaFV"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 179280,
       "name": "Cabr\u00f3n Bien Hecho",
       "url": "https://open.spotify.com/track/4DWXbE4HXzIQVpF2VygoG8"
@@ -2707,6 +2707,28 @@
     },
     {
       "album": {
+        "name": "Dependencia Emocional",
+        "url": "https://open.spotify.com/album/0baizf63HCAjkESipPwj9l"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Dependencia Emocional",
+      "url": "https://open.spotify.com/track/4mvLqL2QJmMx8ctYMcrGN9"
+    },
+    {
+      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/6hx48VB6skQ8sDAy6hyVSi"
       },
@@ -2736,7 +2758,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 206874,
       "name": "Designo King",
       "url": "https://open.spotify.com/track/4pjpUdYr0XhEY2W94uVMmu"
@@ -3829,6 +3851,28 @@
     },
     {
       "album": {
+        "name": "El Perdedor",
+        "url": "https://open.spotify.com/album/2Hg8BHTKaEtD0tOFfml9ib"
+      },
+      "artists": [
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Equipo Imperial",
+          "url": "https://open.spotify.com/artist/202a7dpVKOKL5nxXkatXhT"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146711,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/27WAFtmd11GuUN6jJdr6Je"
+    },
+    {
+      "album": {
         "name": "El Plebe del Rancho",
         "url": "https://open.spotify.com/album/3KJspmEBkGrfOPEXyvgeUK"
       },
@@ -4716,7 +4760,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 136182,
       "name": "Flores",
       "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
@@ -5050,7 +5094,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 193295,
       "name": "HD",
       "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
@@ -5546,7 +5590,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 186368,
       "name": "La Bestia",
       "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
@@ -6833,6 +6877,28 @@
     },
     {
       "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194180,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
+    },
+    {
+      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
       },
@@ -6902,7 +6968,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 170232,
       "name": "Mi Deber",
       "url": "https://open.spotify.com/track/5w5VxYwS2G9uffuQjY29XN"
@@ -7622,7 +7688,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
@@ -8354,6 +8420,28 @@
       "duration_ms": 156281,
       "name": "Pal Jefe",
       "url": "https://open.spotify.com/track/5K0RVvAZlXUvkR2gOkE4PN"
+    },
+    {
+      "album": {
+        "name": "Panam\u00e1",
+        "url": "https://open.spotify.com/album/3ftm9tPAZLYpkECIkeVVwV"
+      },
+      "artists": [
+        {
+          "name": "Axel Rodriguez",
+          "url": "https://open.spotify.com/artist/7cXRTpLEXOagaIbnw0J0cB"
+        },
+        {
+          "name": "Luis Sandoval",
+          "url": "https://open.spotify.com/artist/29CZrQcy62hjQLwfp1oZl0"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158142,
+      "name": "Panam\u00e1",
+      "url": "https://open.spotify.com/track/016d9Tv8P3fuANlhZgpQK1"
     },
     {
       "album": {
@@ -9390,7 +9478,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 270328,
       "name": "REGALO DE DIOS",
       "url": "https://open.spotify.com/track/7et5fAoVdniLJImBLVQyBP"
@@ -9828,7 +9916,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 250500,
       "name": "Ser\u00e1s M\u00eda",
       "url": "https://open.spotify.com/track/2Sj0bIZExjrf88J32MxiuQ"
@@ -10777,6 +10865,24 @@
     },
     {
       "album": {
+        "name": "Todas Las Flores",
+        "url": "https://open.spotify.com/album/2vYWmLh4Amu1ee7a2qJ8Po"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209365,
+      "name": "Todas Las Flores",
+      "url": "https://open.spotify.com/track/4i8PothZVR4CDQQXdNs04o"
+    },
+    {
+      "album": {
         "name": "Todavia",
         "url": "https://open.spotify.com/album/1Nqdpy5j3juTdK90Gbo2Bo"
       },
@@ -11576,7 +11682,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 173963,
       "name": "Vibrando bajo",
       "url": "https://open.spotify.com/track/3uXyUBP9LLfpmHwsxSlDx9"

@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Cloudwalk",
+        "url": "https://open.spotify.com/album/4JYGFAl285EpGwhPe1YSjP"
+      },
+      "artists": [
+        {
+          "name": "Adrian Solen",
+          "url": "https://open.spotify.com/artist/0YXmGTBUBq6Pikq8MvNngn"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125226,
+      "name": "Cloudwalk",
+      "url": "https://open.spotify.com/track/1rdpPUb0Ms5ukwNAT0HrYf"
+    },
+    {
+      "album": {
         "name": "Cloudy Skies",
         "url": "https://open.spotify.com/album/5Kq1Szs6N86Lz3UMn9R30l"
       },
@@ -3298,6 +3316,24 @@
       "duration_ms": 126841,
       "name": "Softly",
       "url": "https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7"
+    },
+    {
+      "album": {
+        "name": "Softly Adrift",
+        "url": "https://open.spotify.com/album/1IwpX4gvBWDkZLAkGnFPyX"
+      },
+      "artists": [
+        {
+          "name": "Hues of Ruby",
+          "url": "https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148181,
+      "name": "Softly Adrift",
+      "url": "https://open.spotify.com/track/28wRSW6xzmSgZarmfeIm4h"
     },
     {
       "album": {

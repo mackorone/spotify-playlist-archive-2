@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 51681,
+  "num_followers": 51683,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "Righeira The 80's Hit Songs",
-        "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
         "name": "Peppino Di Capri",
         "url": "https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 137346,
       "name": "Saint-Tropez Twist",
       "url": "https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
+        "name": "Righeira The 80's Hit Songs",
+        "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP"
     },
     {
       "added_at": "2025-05-02 09:12:30",
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
         }
       ],
-      "duration_ms": 133226,
-      "name": "La Partita Di Pallone",
-      "url": "https://open.spotify.com/track/3wWmHzFEcG4Mg13JrR1J9h"
+      "duration_ms": 137573,
+      "name": "Il Ballo Del Mattone",
+      "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"
     },
     {
       "added_at": "2025-05-02 09:12:30",
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
         }
       ],
-      "duration_ms": 137573,
-      "name": "Il Ballo Del Mattone",
-      "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"
+      "duration_ms": 133226,
+      "name": "La Partita Di Pallone",
+      "url": "https://open.spotify.com/track/3wWmHzFEcG4Mg13JrR1J9h"
     },
     {
       "added_at": "2025-05-02 09:12:30",

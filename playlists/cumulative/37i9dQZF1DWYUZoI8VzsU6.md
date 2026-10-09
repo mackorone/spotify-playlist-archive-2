@@ -4,7 +4,7 @@
 
 > back roads up loud with Dexter and The Moonrocks and Avery Anna
 
-96 songs - 5 hr 22 min
+98 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Gasoline](https://open.spotify.com/track/0WDAiKuQ1R8jZt8JbZLHsa) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline](https://open.spotify.com/album/1RAM0vIiwm8DzbADGjyZ81) | 3:01 | 2026-07-31 |  |
 | [GOOD FOR NOTHING](https://open.spotify.com/track/040v2JdDlfRRJEsXTMSPjn) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [LIFE OF THE PARTY AND THE DEATH OF ME](https://open.spotify.com/album/3AV1LhyX47AQQwJNGSI8SB) | 3:30 | 2025-09-05 |  |
 | [Halfway To Hell](https://open.spotify.com/track/3EON33SUQai62FI5Sv0gPT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 2:58 | 2025-09-05 | 2026-09-19 |
+| [Hate Me](https://open.spotify.com/track/64pCTjqndsCi5gVnChODLo) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Hate Me](https://open.spotify.com/album/1cBZ5P37RqLx5OmypUHfPD) | 3:25 | 2026-10-09 |  |
 | [Hate Waking Up](https://open.spotify.com/track/4FIEIw7iVqP5YnpqKhZOMB) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hate Waking Up](https://open.spotify.com/album/1rc4guQ07DCgHPdyWiusUy) | 3:28 | 2025-10-24 |  |
 | [Heavy Metal](https://open.spotify.com/track/1U88VM6HzsPBZbXPT1aAR5) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Heavy Metal](https://open.spotify.com/album/33bWo4vFIyoC62phzfjEKy) | 2:34 | 2025-09-05 |  |
 | [I HATE ME TOO](https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [I HATE ME TOO](https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy) | 3:05 | 2025-09-05 |  |
@@ -63,6 +64,7 @@
 | [Name In A Song](https://open.spotify.com/track/7pCopTBQmUIvVHCAREicYC) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Name In A Song](https://open.spotify.com/album/5TnxrgBI9muACAEOHEO0Ik) | 3:20 | 2025-09-05 |  |
 | [Next Week](https://open.spotify.com/track/0r54Tm572IfsTmt0qXpJQO) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Simpler Days](https://open.spotify.com/album/1RNkTsTneXFwzZkiAKRnnN) | 2:53 | 2025-09-05 | 2026-09-19 |
 | [No Vacancy](https://open.spotify.com/track/3pVs5Zehts89WLyBPiYfxG) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:04 | 2025-09-05 |  |
+| [Nothing Left to Say](https://open.spotify.com/track/7xjZpI6B8n0BKqpEKGya87) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [Your Loss, My Misery](https://open.spotify.com/album/0PyChiSjOW1a7K8uzk2Dp6) | 2:35 | 2026-10-09 |  |
 | [Ode To Bourbon](https://open.spotify.com/track/4kvCtReby19JPkePLwy8Pq) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:01 | 2025-09-05 | 2026-09-19 |
 | [One More Hurt \(feat\. Wyatt Flores\)](https://open.spotify.com/track/0l6NdeHB070R90KU5RswP7) | [80 ACRES](https://open.spotify.com/artist/4mu142ay8RgOF0nPulRo8b), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [One More Hurt \(feat\. Wyatt Flores\)](https://open.spotify.com/album/2erqDxjGyFqtnRMhHZO086) | 3:52 | 2026-09-18 |  |
 | [Open the Gate](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:54 | 2025-09-05 | 2026-09-19 |

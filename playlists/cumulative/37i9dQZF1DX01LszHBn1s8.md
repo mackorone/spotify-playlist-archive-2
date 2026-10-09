@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> babygirl in control, I feel like Nicole..
+> The leaves turn red, girl in red turns blue 🍂
 
 1,742 songs - 3 day 20 hr 1 min
 

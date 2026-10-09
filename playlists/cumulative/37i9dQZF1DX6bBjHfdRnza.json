@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring KDAY. Curated with love by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring Akalex. Curated with love by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -472,7 +472,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 406875,
       "name": "2012 euro trash",
       "url": "https://open.spotify.com/track/69uGmGFVCXYE6wgRkQowtI"
@@ -4897,6 +4897,24 @@
     },
     {
       "album": {
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/4dnioxg2bJG6cXRPtPfZxA"
+      },
+      "artists": [
+        {
+          "name": "FUKHED",
+          "url": "https://open.spotify.com/artist/5BqpnSBznM8TZgqiCYRW2w"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188215,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/1PzVU7KDC1KOckf0ussSUs"
+    },
+    {
+      "album": {
         "name": "Gears",
         "url": "https://open.spotify.com/album/4WKd5U6EjhTR3nB0Oz8GfP"
       },
@@ -5386,6 +5404,28 @@
       "duration_ms": 316227,
       "name": "Bailarina - Pyura Remix",
       "url": "https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX"
+    },
+    {
+      "album": {
+        "name": "Baile de Paris",
+        "url": "https://open.spotify.com/album/66GUcgkXw8jsjoPjQOqako"
+      },
+      "artists": [
+        {
+          "name": "Akalex",
+          "url": "https://open.spotify.com/artist/731SRh0Tu8EXaCEa2m7BrV"
+        },
+        {
+          "name": "MC Donzela",
+          "url": "https://open.spotify.com/artist/7ufHJna3thtyJ5b2X7zY3W"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215119,
+      "name": "Baile de Paris",
+      "url": "https://open.spotify.com/track/6G4zuZa5dn4WhWWz735B16"
     },
     {
       "album": {
@@ -17186,7 +17226,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 103285,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/5IM3QDSAX5uqoNSSWLJFtj"
@@ -24648,7 +24688,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 182142,
       "name": "GET MONEY",
       "url": "https://open.spotify.com/track/4l6xxixodubRsZCvbsTu9o"
@@ -40019,6 +40059,24 @@
     },
     {
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3QTOck3XlXHlOMPmwUxd4i"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ssous",
+          "url": "https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/5Xe55KTe3nE8iy9ocTAT8U"
+    },
+    {
+      "album": {
         "name": "The Code EP",
         "url": "https://open.spotify.com/album/66hDwBOjibBrwBvnPpNf16"
       },
@@ -46590,7 +46648,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 200625,
       "name": "Pacha",
       "url": "https://open.spotify.com/track/5QuiMSE8sWvGQ60RxUSvET"
@@ -54616,6 +54674,24 @@
       "duration_ms": 193897,
       "name": "SLICK",
       "url": "https://open.spotify.com/track/5l75jSScmSas7PbsNc9uBq"
+    },
+    {
+      "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/31UUFOxBCeT87WM9Lh3Gky"
+      },
+      "artists": [
+        {
+          "name": "ANIMATE",
+          "url": "https://open.spotify.com/artist/6YzhVTqCwOWYet9QLi2Kbs"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194558,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/6vzBjc6Ea6EkPwfNwgMUUx"
     },
     {
       "album": {

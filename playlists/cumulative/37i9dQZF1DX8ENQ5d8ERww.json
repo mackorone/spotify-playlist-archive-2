@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-11-04",
-  "description": "Die Klassiker des Schweizer Hip-Hop.",
+  "description": "Playlist Takeover by Bligg!",
   "name": "Alte Schule",
   "tracks": [
+    {
+      "album": {
+        "name": "8i Bahnhof",
+        "url": "https://open.spotify.com/album/53nhR2JauB25narZk2hvED"
+      },
+      "artists": [
+        {
+          "name": "TAFS",
+          "url": "https://open.spotify.com/artist/390pqY5ZYgVMcSVQDsOJRS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244266,
+      "name": "8i Bahnhof",
+      "url": "https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s"
+    },
     {
       "album": {
         "name": "[\u00c3]",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 177040,
       "name": "[\u00c4]",
       "url": "https://open.spotify.com/track/6lQPodqFBJRQqvuHPwY7ag"
@@ -42,6 +60,28 @@
       "duration_ms": 254986,
       "name": "Alles scho mal gh\u00f6rt",
       "url": "https://open.spotify.com/track/16gkGhNGF3ovqylGoKDqdY"
+    },
+    {
+      "album": {
+        "name": "Normal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/08IevNCyhVvlIxarANOlju"
+      },
+      "artists": [
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        },
+        {
+          "name": "EMEL",
+          "url": "https://open.spotify.com/artist/19aI5CNRhoBG9ZvPBPU3Q2"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254986,
+      "name": "Alles scho mal gh\u00f6rt (feat. Emel)",
+      "url": "https://open.spotify.com/track/7aPKPEl45O138MeAqC38c0"
     },
     {
       "album": {
@@ -72,10 +112,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 262319,
       "name": "Alte Sagg Style Feat. Zitral, Poet & Gimma",
       "url": "https://open.spotify.com/track/52FSWnsdjdIpnCV9SU44nO"
+    },
+    {
+      "album": {
+        "name": "Bitters\u00fcessi Pille",
+        "url": "https://open.spotify.com/album/4lD6FRCcEBVlGaGtjUGeUU"
+      },
+      "artists": [
+        {
+          "name": "Steff la Cheffe",
+          "url": "https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216626,
+      "name": "Annabelle",
+      "url": "https://open.spotify.com/track/77GjjpNE6wNhac8fwTTYud"
     },
     {
       "album": {
@@ -90,10 +148,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 248267,
       "name": "Antihelda",
       "url": "https://open.spotify.com/track/4aTG1xUHF1qZR8czxkpjW5"
+    },
+    {
+      "album": {
+        "name": "Item",
+        "url": "https://open.spotify.com/album/1Amn8s0K5XHm1W45epCLWV"
+      },
+      "artists": [
+        {
+          "name": "Baze",
+          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219373,
+      "name": "Aus",
+      "url": "https://open.spotify.com/track/4cTrxrkes5tORn4sWmKIB8"
     },
     {
       "album": {
@@ -108,10 +184,94 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 212560,
       "name": "Avenue (feat. Karolyn)",
       "url": "https://open.spotify.com/track/2oBcWgTaL7Hf3kwyKKoKAM"
+    },
+    {
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/1Y5AZWjEWt1XQgzt3f2976"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212173,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/1hYjsaijcMS6kptLUUfOZ3"
+    },
+    {
+      "album": {
+        "name": "Beetown Beetz, Vol. 1",
+        "url": "https://open.spotify.com/album/5jtnTxD9F5VAESPajW3hGs"
+      },
+      "artists": [
+        {
+          "name": "Kaiser",
+          "url": "https://open.spotify.com/artist/7JbiFOh0wYpYJVfDX01rhC"
+        },
+        {
+          "name": "LDeep",
+          "url": "https://open.spotify.com/artist/2Le7dOaOuETzbshaap0s5S"
+        },
+        {
+          "name": "Samurai",
+          "url": "https://open.spotify.com/artist/2WnTVg6V0OWYGjomR0xugm"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252173,
+      "name": "Beetown Dezibel (feat. LDeeP & Samurai)",
+      "url": "https://open.spotify.com/track/0ks6XbF8wiecG88jT4F1Oe"
+    },
+    {
+      "album": {
+        "name": "Jede Tag'n Gleiser",
+        "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
+      },
+      "artists": [
+        {
+          "name": "Gleiszwei",
+          "url": "https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr"
+        },
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273266,
+      "name": "Bruch e Waag",
+      "url": "https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj"
+    },
+    {
+      "album": {
+        "name": "Introspektion",
+        "url": "https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO"
+      },
+      "artists": [
+        {
+          "name": "Taz",
+          "url": "https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251626,
+      "name": "Brugg",
+      "url": "https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww"
     },
     {
       "album": {
@@ -130,10 +290,32 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 220013,
       "name": "Die Grundregeln",
       "url": "https://open.spotify.com/track/45mo0hGu4G9aN0P9uTHpui"
+    },
+    {
+      "album": {
+        "name": "Nahdisnah",
+        "url": "https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4"
+      },
+      "artists": [
+        {
+          "name": "Bligg'N'Lexx",
+          "url": "https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK"
+        },
+        {
+          "name": "Pete Penicka",
+          "url": "https://open.spotify.com/artist/2isO7oz1eaYNOlFJCUbWSN"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309720,
+      "name": "Du & Ich",
+      "url": "https://open.spotify.com/track/5jAylcCbJaBKmRHgRUTxQC"
     },
     {
       "album": {
@@ -152,10 +334,32 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 238053,
       "name": "Du & Ich - Radio Edit",
       "url": "https://open.spotify.com/track/5Ej5atpjCZcFmu1OTXeFHx"
+    },
+    {
+      "album": {
+        "name": "Deheim?",
+        "url": "https://open.spotify.com/album/3TTzTj4qNDBe5FpnsLyjzZ"
+      },
+      "artists": [
+        {
+          "name": "Webba",
+          "url": "https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS"
+        },
+        {
+          "name": "Baze",
+          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272933,
+      "name": "Du Hesch Ke",
+      "url": "https://open.spotify.com/track/6AxLcMZFBLbBd5Hqvp7zdt"
     },
     {
       "album": {
@@ -174,10 +378,32 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 273005,
       "name": "Du Hesch Ke",
       "url": "https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW"
+    },
+    {
+      "album": {
+        "name": "Aktuelle Hits",
+        "url": "https://open.spotify.com/album/5dRO9HANhTc7cAqkkmmcF2"
+      },
+      "artists": [
+        {
+          "name": "Radio 200000",
+          "url": "https://open.spotify.com/artist/49zhWISKqWjhyI7hQ6EpwK"
+        },
+        {
+          "name": "Tinguely d\u00e4 Chn\u00e4cht",
+          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227493,
+      "name": "Dune ade Langstrass (feat. Tinguely d\u00e4 Chn\u00e4cht)",
+      "url": "https://open.spotify.com/track/4ZwZQKgPVuI2NpBETwWxyE"
     },
     {
       "album": {
@@ -196,6 +422,24 @@
       "duration_ms": 299520,
       "name": "Ein Koenig Regiert",
       "url": "https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0"
+    },
+    {
+      "album": {
+        "name": "Z'frid\u00e4",
+        "url": "https://open.spotify.com/album/1VRqmJrU4iZfSDjZWo5seU"
+      },
+      "artists": [
+        {
+          "name": "Dr\u00fcklang",
+          "url": "https://open.spotify.com/artist/0YKRAbXe2J0esSXB4c6xbh"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250266,
+      "name": "En Teil vo mir",
+      "url": "https://open.spotify.com/track/1ok24DhWBTymmV6yKtjqrp"
     },
     {
       "album": {
@@ -239,6 +483,28 @@
     },
     {
       "album": {
+        "name": "Eifach N\u00fct",
+        "url": "https://open.spotify.com/album/6b4j22HaunO5TjsIrSGpng"
+      },
+      "artists": [
+        {
+          "name": "PVP",
+          "url": "https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG"
+        },
+        {
+          "name": "Wurzel 5",
+          "url": "https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253051,
+      "name": "Figg Mitt",
+      "url": "https://open.spotify.com/track/5VQvslDviJALtttbwnBX38"
+    },
+    {
+      "album": {
         "name": "Eifach n\u00fct",
         "url": "https://open.spotify.com/album/5vRyfEOWuNEUX3DLOUeGSj"
       },
@@ -254,10 +520,68 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 253074,
       "name": "Figg mitt",
       "url": "https://open.spotify.com/track/5Jnjb7xP2BrLzxPIsJcOl2"
+    },
+    {
+      "album": {
+        "name": "From Hell to Heaven and Back",
+        "url": "https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz"
+      },
+      "artists": [
+        {
+          "name": "PVP",
+          "url": "https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "From Hell to Heaven and Back",
+      "url": "https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH"
+    },
+    {
+      "album": {
+        "name": "Legenda",
+        "url": "https://open.spotify.com/album/6eBJisPt7283GEfYj8hKFL"
+      },
+      "artists": [
+        {
+          "name": "Breitbild",
+          "url": "https://open.spotify.com/artist/07h2T3RrXQzYW5YpQnXd8U"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223493,
+      "name": "F\u00fcr 1 hets Immer no glangt",
+      "url": "https://open.spotify.com/track/7hb9E5NNeqkr60r8QxtrlR"
+    },
+    {
+      "album": {
+        "name": "Dr einzig W\u00e4g",
+        "url": "https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE"
+      },
+      "artists": [
+        {
+          "name": "P-27",
+          "url": "https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ"
+        },
+        {
+          "name": "MC Rony",
+          "url": "https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230960,
+      "name": "Geballte Hip Hop",
+      "url": "https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr"
     },
     {
       "album": {
@@ -272,7 +596,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 182773,
       "name": "Gedankeg\u00e4ng",
       "url": "https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq"
@@ -312,7 +636,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 236382,
       "name": "Gott spile",
       "url": "https://open.spotify.com/track/45HWwavpJRnDz8NhLzlRAi"
@@ -330,7 +654,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 269142,
       "name": "Grau",
       "url": "https://open.spotify.com/track/3gOGV9ZXBJvM9ij6Dq6vLQ"
@@ -348,7 +672,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 241293,
       "name": "Gr\u00e4chtigkeitsgass [feat. Lo & Leduc]",
       "url": "https://open.spotify.com/track/3OPLuQps2zDnD0vmhTeXIn"
@@ -381,6 +705,42 @@
     },
     {
       "album": {
+        "name": "Jugends\u00fcnd\u00e4",
+        "url": "https://open.spotify.com/album/4q5YmayzH2WlOJnMd1U7kj"
+      },
+      "artists": [
+        {
+          "name": "Wurzel 5",
+          "url": "https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "H\u00e4ng id Luft",
+      "url": "https://open.spotify.com/track/3tbOiz88LovKjZqipeXuAW"
+    },
+    {
+      "album": {
+        "name": "Und Nachteil",
+        "url": "https://open.spotify.com/album/1yj7QUrcOSpHhig4K5195M"
+      },
+      "artists": [
+        {
+          "name": "Skor",
+          "url": "https://open.spotify.com/artist/5f9SQX0dJ18VjczJgWobNt"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337026,
+      "name": "I de Schwiiz",
+      "url": "https://open.spotify.com/track/0HG4ApJ5c6xTjNwIoG5rpm"
+    },
+    {
+      "album": {
         "name": "Und Nachteil",
         "url": "https://open.spotify.com/album/0n3UzP0bmjDNUHeCT7tl32"
       },
@@ -392,7 +752,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 337026,
       "name": "I de Schwiiz",
       "url": "https://open.spotify.com/track/4uBmWRtomdBBFAVNHOVflp"
@@ -410,7 +770,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 200666,
       "name": "I dier",
       "url": "https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF"
@@ -453,6 +813,86 @@
     },
     {
       "album": {
+        "name": "I gega d'Schwiiz (Re-Edition)",
+        "url": "https://open.spotify.com/album/4EjyiXTE1J6j9mBVysYtXI"
+      },
+      "artists": [
+        {
+          "name": "Gimma",
+          "url": "https://open.spotify.com/artist/3lShmS9FBjiOfFURcLkihv"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Iisziit",
+      "url": "https://open.spotify.com/track/0FvcJLI5HHopkX9LdrBhsh"
+    },
+    {
+      "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/7wHzFREg5v4vxxJoAaSCoN"
+      },
+      "artists": [
+        {
+          "name": "Spooman",
+          "url": "https://open.spotify.com/artist/4OwjOTYon9HEBN2Dijr8RB"
+        },
+        {
+          "name": "Shape",
+          "url": "https://open.spotify.com/artist/3Bl22TVSVYUKkjFt1MJnYB"
+        },
+        {
+          "name": "Scarra Mucci",
+          "url": "https://open.spotify.com/artist/3KZUIzgQU8D9fTdkS4nDvK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "Immer No",
+      "url": "https://open.spotify.com/track/7vkh4DsCJoQ4A63VwYvIov"
+    },
+    {
+      "album": {
+        "name": "Au Revoir",
+        "url": "https://open.spotify.com/album/2prE2Na9j25aggFyWD9igm"
+      },
+      "artists": [
+        {
+          "name": "Double Pact",
+          "url": "https://open.spotify.com/artist/3owF80MhEn7JBB5JBUt4ya"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Je t'aime",
+      "url": "https://open.spotify.com/track/5RKhacxAckVl9ANlgdRJcY"
+    },
+    {
+      "album": {
+        "name": "Jede Tag'n Gleiser",
+        "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
+      },
+      "artists": [
+        {
+          "name": "Gleiszwei",
+          "url": "https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262853,
+      "name": "Jede Tag'n Gleiser",
+      "url": "https://open.spotify.com/track/6fJJDogk53KAtqzeeoVhps"
+    },
+    {
+      "album": {
         "name": "Mier macheds",
         "url": "https://open.spotify.com/album/6ENZfDZhR1toEjwcK1npvb"
       },
@@ -468,10 +908,86 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 200800,
       "name": "Kei Respekt",
       "url": "https://open.spotify.com/track/0a59i5elndo4piHsthVLAJ"
+    },
+    {
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/5n7l9TK57xauDF3wvA7eZw"
+      },
+      "artists": [
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        },
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206426,
+      "name": "King Size (feat. Kool Savas)",
+      "url": "https://open.spotify.com/track/7h5jNXhlFhGwzsYDyeZFrZ"
+    },
+    {
+      "album": {
+        "name": "Chromatic",
+        "url": "https://open.spotify.com/album/68MQixtX0z4rMf0QqKYIzB"
+      },
+      "artists": [
+        {
+          "name": "Sens Unik",
+          "url": "https://open.spotify.com/artist/4NJQiZfOszzd9O6z2gR8hS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286400,
+      "name": "Laisse toi aller",
+      "url": "https://open.spotify.com/track/3ETw4A4TaobwdtHgKcciFd"
+    },
+    {
+      "album": {
+        "name": "Nahdisnah",
+        "url": "https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4"
+      },
+      "artists": [
+        {
+          "name": "Bligg'N'Lexx",
+          "url": "https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219426,
+      "name": "Lauf Junge, Lauf!",
+      "url": "https://open.spotify.com/track/0I5FCVJSDvLNtGAlIcr1nV"
+    },
+    {
+      "album": {
+        "name": "Ke Summer",
+        "url": "https://open.spotify.com/album/0TrJBMa0h8tBFsSAa4uj9v"
+      },
+      "artists": [
+        {
+          "name": "Chlyklass",
+          "url": "https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210419,
+      "name": "Liechterl\u00f6sche",
+      "url": "https://open.spotify.com/track/5V3eoRuLFGji7PPj5x96Sc"
     },
     {
       "album": {
@@ -486,7 +1002,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 295381,
       "name": "Luftloch",
       "url": "https://open.spotify.com/track/2DlKLCqqfzbwKKGHOXZF8N"
@@ -515,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/1Y5AZWjEWt1XQgzt3f2976"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253973,
+      "name": "Mais o\u00fa? - Single Version",
+      "url": "https://open.spotify.com/track/0qUmNpkiDGKyGkgcmqOEGK"
+    },
+    {
+      "album": {
         "name": "Golden Greats",
         "url": "https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw"
       },
@@ -526,10 +1060,32 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 254226,
       "name": "Mais o\u00fa? - Single Version",
       "url": "https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl"
+    },
+    {
+      "album": {
+        "name": "Beetown Beetz, Vol. 1",
+        "url": "https://open.spotify.com/album/5jtnTxD9F5VAESPajW3hGs"
+      },
+      "artists": [
+        {
+          "name": "Kaiser",
+          "url": "https://open.spotify.com/artist/7JbiFOh0wYpYJVfDX01rhC"
+        },
+        {
+          "name": "Hobbitz",
+          "url": "https://open.spotify.com/artist/3wj1aGfnmu182aDhOH5C2z"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259560,
+      "name": "Meh bruuchtz nid (feat. Hobbitz)",
+      "url": "https://open.spotify.com/track/6CuNAwqvq6B6ikQi8MDKgq"
     },
     {
       "album": {
@@ -544,7 +1100,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 220186,
       "name": "Min Ort 2010",
       "url": "https://open.spotify.com/track/3HkMfKwvdCLtTblUfJFnDq"
@@ -562,7 +1118,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 252440,
       "name": "Mini Homeboys",
       "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
@@ -584,10 +1140,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 241333,
       "name": "Mond",
       "url": "https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD"
+    },
+    {
+      "album": {
+        "name": "Jede Tag'n Gleiser",
+        "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
+      },
+      "artists": [
+        {
+          "name": "Gleiszwei",
+          "url": "https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208146,
+      "name": "Muetersprach",
+      "url": "https://open.spotify.com/track/4WAn4IttWbxnDDbgXSYZjE"
     },
     {
       "album": {
@@ -602,7 +1176,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 202933,
       "name": "Musigg i d\u00e4 Schwiiz",
       "url": "https://open.spotify.com/track/3rrXQC7hEBynPo3qmHWNDA"
@@ -620,7 +1194,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 225666,
       "name": "Nackt",
       "url": "https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651"
@@ -646,7 +1220,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 330928,
       "name": "Nie Meh - KG Re-Edit",
       "url": "https://open.spotify.com/track/1vTMuV48PP7CR4h402dJ28"
@@ -671,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Rapresent",
+        "url": "https://open.spotify.com/album/7CrQQyd97yHOZuhOpNayEN"
+      },
+      "artists": [
+        {
+          "name": "LDeep",
+          "url": "https://open.spotify.com/artist/2Le7dOaOuETzbshaap0s5S"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Possitrack",
+      "url": "https://open.spotify.com/track/6M1X6qBmqWF741wjAL3fan"
+    },
+    {
+      "album": {
         "name": "Normal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4roW7Xpb9oeKUyqnwpQDMj"
       },
@@ -690,10 +1282,54 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 222173,
       "name": "Relaxtra",
       "url": "https://open.spotify.com/track/18in07peN7I1KRfrOKpyPn"
+    },
+    {
+      "album": {
+        "name": "Normal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/08IevNCyhVvlIxarANOlju"
+      },
+      "artists": [
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        },
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Lexx",
+          "url": "https://open.spotify.com/artist/7GH9fHYSqIt0jZSGHPxwU0"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "Relaxtra (feat. Stress & Lexx)",
+      "url": "https://open.spotify.com/track/6PUJbyUdWVGXX7RgPkus1y"
+    },
+    {
+      "album": {
+        "name": "Halbin\u00fcni Chlorzicht",
+        "url": "https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ"
+      },
+      "artists": [
+        {
+          "name": "Primitive Lyrics",
+          "url": "https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "Schtei",
+      "url": "https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw"
     },
     {
       "album": {
@@ -712,10 +1348,32 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 286066,
       "name": "Schwiizchaschte",
       "url": "https://open.spotify.com/track/2CpnLubVTEuyStX8UVb7wm"
+    },
+    {
+      "album": {
+        "name": "Verd\u00e4chtig",
+        "url": "https://open.spotify.com/album/3VssVyEuKRopiVCwQZGy7m"
+      },
+      "artists": [
+        {
+          "name": "Wurzel 5",
+          "url": "https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K"
+        },
+        {
+          "name": "Luut und T\u00fc\u00fctli",
+          "url": "https://open.spotify.com/artist/77hbpDymWqmhlv7H2Mlrbu"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286026,
+      "name": "Schwiizchaschte",
+      "url": "https://open.spotify.com/track/5Gnn8npKzj9KRhDTy4hgtN"
     },
     {
       "album": {
@@ -750,7 +1408,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 221426,
       "name": "Siemis",
       "url": "https://open.spotify.com/track/2kqXy5VfY8683DXZo7WZ77"
@@ -768,7 +1426,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189160,
       "name": "Single",
       "url": "https://open.spotify.com/track/1m0sV8wKf5h2quSzZyWeyT"
@@ -828,7 +1486,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 235906,
       "name": "So simer",
       "url": "https://open.spotify.com/track/5O9S52yM9oARUeeHZgLgPb"
@@ -850,7 +1508,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 248733,
       "name": "Stars und Sternli",
       "url": "https://open.spotify.com/track/4MlczrGSAqPqRupKLRsZUj"
@@ -886,7 +1544,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 245133,
       "name": "Summer f\u00fcr immer",
       "url": "https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO"
@@ -908,10 +1566,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 205242,
       "name": "Tagebuach",
       "url": "https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/5E8Bj7SAPRdJWbXg3Jxce0"
+      },
+      "artists": [
+        {
+          "name": "Greis",
+          "url": "https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227653,
+      "name": "Teil Vom Problem",
+      "url": "https://open.spotify.com/track/7uHvavuhl528f0aIUYrt7W"
     },
     {
       "album": {
@@ -926,7 +1602,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 227683,
       "name": "Teil Vom Problem",
       "url": "https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd"
@@ -952,7 +1628,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 400120,
       "name": "Track 05",
       "url": "https://open.spotify.com/track/7ojgCkJNhgFw7y5C7WlA3h"
@@ -970,7 +1646,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 178146,
       "name": "Traktor Racing",
       "url": "https://open.spotify.com/track/4zxGnFV66gDHNJSQRNgdRu"
@@ -988,7 +1664,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 270733,
       "name": "Umarm sie",
       "url": "https://open.spotify.com/track/1IzbWCl9MQJx8kRmWeO9ih"
@@ -1010,10 +1686,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 270053,
       "name": "Villech",
       "url": "https://open.spotify.com/track/3uOGs571OyoxsYsO3B9vQM"
+    },
+    {
+      "album": {
+        "name": "Yves Spink",
+        "url": "https://open.spotify.com/album/3S7Qw0xES3XbcAXRZRfWRo"
+      },
+      "artists": [
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Volksmusigg",
+      "url": "https://open.spotify.com/track/02KgHICcDaWxVJSPUZJRFx"
     },
     {
       "album": {
@@ -1028,10 +1722,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 206400,
       "name": "Volksmusigg",
       "url": "https://open.spotify.com/track/3S09OtRKrgj8XD3tWsQpLe"
+    },
+    {
+      "album": {
+        "name": "VollkontaktHipHop",
+        "url": "https://open.spotify.com/album/6AAoWgx3qJV55wzfZmOTxo"
+      },
+      "artists": [
+        {
+          "name": "Dynamic Duo",
+          "url": "https://open.spotify.com/artist/2a29ulH524zPeiQkHsJ1qM"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289160,
+      "name": "Vollkontakt",
+      "url": "https://open.spotify.com/track/5cG4Kg1sVifhxOiO48P6u1"
     },
     {
       "album": {
@@ -1054,7 +1766,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 253353,
       "name": "Vom Feinste",
       "url": "https://open.spotify.com/track/5KwBrbPh4g6JH4OzQ8vb2b"
@@ -1076,10 +1788,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170026,
       "name": "Weisch Du no?",
       "url": "https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ"
+    },
+    {
+      "album": {
+        "name": "Nacht",
+        "url": "https://open.spotify.com/album/5xW9MSLB8y46AzyZj9ccXf"
+      },
+      "artists": [
+        {
+          "name": "Boys On Pills",
+          "url": "https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Wenn I l\u00e4b, wenn I stirb",
+      "url": "https://open.spotify.com/track/27L8ShIJ24kVv8r6obPFpO"
     },
     {
       "album": {
@@ -1094,10 +1824,54 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 183226,
       "name": "Wenn I L\u00e4b, Wenn I Stirb",
       "url": "https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP"
+    },
+    {
+      "album": {
+        "name": "Item",
+        "url": "https://open.spotify.com/album/1Amn8s0K5XHm1W45epCLWV"
+      },
+      "artists": [
+        {
+          "name": "Baze",
+          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
+        },
+        {
+          "name": "Endo Anaconda",
+          "url": "https://open.spotify.com/artist/0oMN8U82MCpknh5w8eVFNQ"
+        },
+        {
+          "name": "Greis",
+          "url": "https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346706,
+      "name": "Woh\u00e4r\u00e4 Geisch?",
+      "url": "https://open.spotify.com/track/3lAZoNthKsGuIQF6oTuGvh"
+    },
+    {
+      "album": {
+        "name": "Nahdisnah",
+        "url": "https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4"
+      },
+      "artists": [
+        {
+          "name": "Bligg'N'Lexx",
+          "url": "https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "W\u00e4nn",
+      "url": "https://open.spotify.com/track/7G8YSQkUa5BOH1EDUVcPZ3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8ENQ5d8ERww"

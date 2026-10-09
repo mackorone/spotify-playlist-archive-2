@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Dagood YL in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "TY1 in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -2983,6 +2983,28 @@
     },
     {
       "album": {
+        "name": "bandiera rossa #302 (feat. LILCR)",
+        "url": "https://open.spotify.com/album/28u6QPHSrQO22FBiFQV0xj"
+      },
+      "artists": [
+        {
+          "name": "dedde",
+          "url": "https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN"
+        },
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152003,
+      "name": "bandiera rossa #302 (feat. LILCR)",
+      "url": "https://open.spotify.com/track/4kFGd9eUMejybpvXCw8qHU"
+    },
+    {
+      "album": {
         "name": "Bandit",
         "url": "https://open.spotify.com/album/2gzqXgZ8Qdzyb0H7VvXmc9"
       },
@@ -3787,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "Blatte",
+        "url": "https://open.spotify.com/album/6qnVG5gaUiYY0qaxvXFQ8W"
+      },
+      "artists": [
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151941,
+      "name": "Blatte",
+      "url": "https://open.spotify.com/track/2rO2UamSwPb7hgfkHxVIOR"
+    },
+    {
+      "album": {
         "name": "Blauer",
         "url": "https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK"
       },
@@ -4048,7 +4088,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 212334,
       "name": "Bosco Orizzontale",
       "url": "https://open.spotify.com/track/4r1sCaQvU7SEqcgS74qOmf"
@@ -4208,7 +4248,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 133533,
       "name": "BRUCIARE IL MONDO",
       "url": "https://open.spotify.com/track/6E1STxyFTLABAnoPQYdTI2"
@@ -6695,6 +6735,28 @@
     },
     {
       "album": {
+        "name": "A MILANO",
+        "url": "https://open.spotify.com/album/0IjYusIHjDPk8wvUDlPcvW"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168881,
+      "name": "DA PALAZZO A PALAZZO (con Promessa)",
+      "url": "https://open.spotify.com/track/7seY4zshB3BNx70uLHqT6a"
+    },
+    {
+      "album": {
         "name": "NO REGULAR MUSIC - Deluxe",
         "url": "https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe"
       },
@@ -7160,6 +7222,32 @@
       "duration_ms": 165418,
       "name": "DIE YOUNG (feat. Vale Pain & Kid Yugi)",
       "url": "https://open.spotify.com/track/2W8RVRL10rvjvt2WS5cZGi"
+    },
+    {
+      "album": {
+        "name": "DIECI (feat. N\u00e9za)",
+        "url": "https://open.spotify.com/album/7LEp6wJluTJkypYTxdhpxG"
+      },
+      "artists": [
+        {
+          "name": "Escomar",
+          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "DIECI (feat. N\u00e9za)",
+      "url": "https://open.spotify.com/track/32QxQPILFMigDwo7oq81ro"
     },
     {
       "album": {
@@ -8686,7 +8774,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 170115,
       "name": "FILS DE PUTE (feat. YD Frost)",
       "url": "https://open.spotify.com/track/3rknbBiIFpuA2foqBWidNn"
@@ -15422,7 +15510,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 136721,
       "name": "NAPOLETANA",
       "url": "https://open.spotify.com/track/6DfdaRmIddhoXWX20DWBYy"
@@ -15662,6 +15750,28 @@
       "duration_ms": 237822,
       "name": "NELLA TRAPPOLA (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/6MpuOu2Z9l5gxDVvZdo9xC"
+    },
+    {
+      "album": {
+        "name": "NENA (feat. twentyone21)",
+        "url": "https://open.spotify.com/album/7AverfgcOunYxsNNvIuFWY"
+      },
+      "artists": [
+        {
+          "name": "Dagood YL",
+          "url": "https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw"
+        },
+        {
+          "name": "twentyone21",
+          "url": "https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131142,
+      "name": "NENA (feat. twentyone21)",
+      "url": "https://open.spotify.com/track/4Wwor0dkbX1ShieJepIKox"
     },
     {
       "album": {
@@ -16654,6 +16764,32 @@
       "duration_ms": 155256,
       "name": "Ogni 2 Minuti",
       "url": "https://open.spotify.com/track/7BXVTzqKxMZywSrdIJm9yQ"
+    },
+    {
+      "album": {
+        "name": "JUNKIE MUSIK",
+        "url": "https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138437,
+      "name": "OH NOOO! (feat. Ele A, 18K)",
+      "url": "https://open.spotify.com/track/7lQrtVBb0bXC6pFwIHzPaZ"
     },
     {
       "album": {
@@ -18964,7 +19100,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 175137,
       "name": "Push It (feat. ANNA)",
       "url": "https://open.spotify.com/track/5FLxKWv8HEFI67uKzSX27K"
@@ -19218,6 +19354,32 @@
       "duration_ms": 148000,
       "name": "Ragazzo Street, Ragazzo Rich (feat. Papa V, IvanBi)",
       "url": "https://open.spotify.com/track/0OuXDNJQJtF2QCONUY2bqT"
+    },
+    {
+      "album": {
+        "name": "JUNKIE MUSIK",
+        "url": "https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162692,
+      "name": "RAMBO (feat. Macello, G.Mineiro)",
+      "url": "https://open.spotify.com/track/4mydj4ouiB2obk6NQZLwGz"
     },
     {
       "album": {
@@ -21466,7 +21628,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 135730,
       "name": "SONO IO IL PASS (feat. Lazza)",
       "url": "https://open.spotify.com/track/2qPmfC6698p228q3F1Zlbk"
@@ -25598,6 +25760,32 @@
       "duration_ms": 154229,
       "name": "Z\u00c9",
       "url": "https://open.spotify.com/track/6Jt8OWHFEQa2gFzLhFvuJe"
+    },
+    {
+      "album": {
+        "name": "JUNKIE MUSIK",
+        "url": "https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\u2060CRIMINALE (feat. Papa V, Ernia)",
+      "url": "https://open.spotify.com/track/4tcYbNYBWbhm50IECpySl2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x"

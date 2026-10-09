@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-908 songs - 1 day 21 hr 11 min
+909 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Carry On](https://open.spotify.com/track/0VnMDe98PwF1a2UIXoiTFR) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Carry On](https://open.spotify.com/album/6qFTylBHt4F7Yv7TKnwxeF) | 3:32 | 2025-03-20 |  |
 | [Cash Out](https://open.spotify.com/track/4VIhfUoqGVL67qzjGDecDX) | [Schrandy](https://open.spotify.com/artist/16DOlPH2Uh5OyntSN9qlxz) | [Cash Out](https://open.spotify.com/album/1bbedyCgIrSX1hQSfUALky) | 2:22 | 2026-01-15 |  |
 | [Castle](https://open.spotify.com/track/7tUToegtVh5dodpcqaYrHo) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E) | [Castle](https://open.spotify.com/album/3bxvt8vyLXAC0ioYQ2IixH) | 2:38 | 2023-08-08 | 2024-03-13 |
+| [Catch Me](https://open.spotify.com/track/7fP1Ysen92BDvgOc51FPHd) | [Moyo](https://open.spotify.com/artist/19P5sb0mIyCtmjx2ommkIv) | [Catch Me](https://open.spotify.com/album/6GDK6nFvpbdFLwrQUi0oFg) | 2:54 | 2026-10-08 |  |
 | [Catching Feelings](https://open.spotify.com/track/31nf4tcEQwkjhWtKY0Odox) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe) | [Catching Feelings](https://open.spotify.com/album/12uiINa1SNssVPOXdYXXqq) | 2:25 | 2023-03-01 | 2023-08-10 |
 | [CERBERUS](https://open.spotify.com/track/3tOtHXtNW0aE9e2GMHuHsK) | [TANTRON](https://open.spotify.com/artist/6HTp9Q7rmHmQjatn98BLAi), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [CERBERUS](https://open.spotify.com/album/2AgN9TGZmxADMJxsfcPTGx) | 3:30 | 2026-04-16 |  |
 | [Cereb](https://open.spotify.com/track/5U27BfsytyQfOn6zatsyTp) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Cereb](https://open.spotify.com/album/201kszqcsGij86IBeZvFnj) | 4:36 | 2023-08-03 | 2023-08-10 |

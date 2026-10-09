@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "A Pathetic Psalm",
       "url": "https://open.spotify.com/track/2tkXYoeNoONdzfrnpAwvHS"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 204053,
       "name": "Artifice",
       "url": "https://open.spotify.com/track/4dQEv9oai9L6yZQzDcs6G6"
@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Truth And Purpose",
+        "url": "https://open.spotify.com/album/2Z9DQBpSZThdi5YTOoSsPk"
+      },
+      "artists": [
+        {
+          "name": "I The Breather",
+          "url": "https://open.spotify.com/artist/6OpFzG0Srh37pwJUdwsETa"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228960,
+      "name": "Bruised & Broken",
+      "url": "https://open.spotify.com/track/6BXCA3BBhx6c3Idv5cLfR1"
+    },
+    {
+      "album": {
         "name": "An Ocean Between Us",
         "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
       },
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 253920,
       "name": "Connected",
       "url": "https://open.spotify.com/track/3vkkXFwSQjjVoHeBTcX4ba"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 242906,
       "name": "Crowns",
       "url": "https://open.spotify.com/track/4prky9H55Mo5jy63BJY2Ao"
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 216457,
       "name": "End Transmission",
       "url": "https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Endseekers",
       "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 275120,
       "name": "False Profit",
       "url": "https://open.spotify.com/track/3aahZWSGhy07rsli5H94Jr"
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 265053,
       "name": "I'm Only Laughing On The Outside",
       "url": "https://open.spotify.com/track/7mNsu6R8pbqN3izTMRrXKR"
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 290360,
       "name": "Live Love Die",
       "url": "https://open.spotify.com/track/6r9GDen0w849Cobr7Ljgqe"
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 240453,
       "name": "Malevolence",
       "url": "https://open.spotify.com/track/3m5t9Z6DyQCjepVvz7sjNv"
@@ -3491,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "Recover",
+        "url": "https://open.spotify.com/album/5dXhMf2qn82uY9txaTIoFK"
+      },
+      "artists": [
+        {
+          "name": "Confide",
+          "url": "https://open.spotify.com/artist/5AaqnHhrLz7lC1QBqG8i8p"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167472,
+      "name": "People Are Crazy",
+      "url": "https://open.spotify.com/track/4KP5Xuj6sli0sPa7nq53Di"
+    },
+    {
+      "album": {
         "name": "Holding a Wolf By the Ears (Bonus Version)",
         "url": "https://open.spotify.com/album/0vOgz0Igy6ABcwzSBZt7IH"
       },
@@ -3700,7 +3736,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 218586,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4m7dudQWZ3Zr84WpssfcN4"
@@ -3812,6 +3848,24 @@
       "duration_ms": 184706,
       "name": "Returning The Smile You Have Had From The Start",
       "url": "https://open.spotify.com/track/6ey0i3n9e5PGDxZx3oxOyy"
+    },
+    {
+      "album": {
+        "name": "The Great I Am",
+        "url": "https://open.spotify.com/album/3QONsWXpEVJfaBNvpfFZ6g"
+      },
+      "artists": [
+        {
+          "name": "Agraceful",
+          "url": "https://open.spotify.com/artist/13s1X8jBhNaN0r3hmTVLUm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230800,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/3Oi4BztRkiy6JoERyO4rH3"
     },
     {
       "album": {
@@ -3934,7 +3988,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 260063,
       "name": "Salty Grave",
       "url": "https://open.spotify.com/track/4Lq9mauZAuMsdN29Mp7k39"
@@ -4208,7 +4262,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 223880,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w"
@@ -4226,7 +4280,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -4514,7 +4568,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 262001,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/5u8kYO44UpooGgnraWOSBq"
@@ -4550,7 +4604,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 231826,
       "name": "The Darkest Nights",
       "url": "https://open.spotify.com/track/5URJEznfi3XiVHQCyC3sII"
@@ -4701,6 +4755,24 @@
     },
     {
       "album": {
+        "name": "Imperial",
+        "url": "https://open.spotify.com/album/5OBd1zwVFiJ8IkEMWeZL5V"
+      },
+      "artists": [
+        {
+          "name": "In Fear And Faith",
+          "url": "https://open.spotify.com/artist/19HgKsSbdKYlYmitK3Y8uP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "The High Life",
+      "url": "https://open.spotify.com/track/3aDZYelKLWKySv2dq5WUmS"
+    },
+    {
+      "album": {
         "name": "They're Only Chasing Safety",
         "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
       },
@@ -4820,7 +4892,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 183120,
       "name": "The Path to Certainty",
       "url": "https://open.spotify.com/track/2ukDcnjwNr2ssWoSiztowg"
@@ -5184,7 +5256,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 261013,
       "name": "This Ship, A Coffin",
       "url": "https://open.spotify.com/track/1UabJxjcG7QquUxbFNZDqM"
@@ -5476,6 +5548,24 @@
       "duration_ms": 258933,
       "name": "Vices Like Vipers",
       "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"
+    },
+    {
+      "album": {
+        "name": "They Said A Storm Was Coming",
+        "url": "https://open.spotify.com/album/3WzT5raMEcJZj0ayVas4P2"
+      },
+      "artists": [
+        {
+          "name": "Jamie's Elsewhere",
+          "url": "https://open.spotify.com/artist/2mJ7eHB7MKBYzxt0TC2NZ0"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223960,
+      "name": "Visions In Sleep",
+      "url": "https://open.spotify.com/track/1xTL2CWYsNaxHfLNDplXRC"
     },
     {
       "album": {
@@ -5850,7 +5940,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189146,
       "name": "Wolf's Jaw",
       "url": "https://open.spotify.com/track/6Hv3BomCozhJmgBo9TUOCQ"

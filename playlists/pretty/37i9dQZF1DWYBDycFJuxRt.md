@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Hump Back \*👉 <a href="https://spice.eplus.jp/articles/349480">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,677 likes - 88 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,681 likes - 88 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

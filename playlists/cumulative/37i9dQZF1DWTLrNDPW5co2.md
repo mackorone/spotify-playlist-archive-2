@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of dance music culture\. Featuring Pabllo Vittar.
 
-512 songs - 1 day 7 hr 8 min
+513 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-07 | 2025-09-06 |
 | [After Afters](https://open.spotify.com/track/4sRMCWKdHIUgmaMfcJwEbB) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [After Afters](https://open.spotify.com/album/6kEjq6GW5F5lmfDC2M8HRA) | 5:57 | 2024-06-28 | 2024-11-16 |
 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 | 2024-06-07 | 2025-04-26 |
+| [Airplane Mode](https://open.spotify.com/track/4RQfdaxHCfInDC5o9ml6Nw) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Airplane Mode](https://open.spotify.com/album/0ctt5gpe6uJowdRbKcM24f) | 2:22 | 2026-10-09 |  |
 | [all of that](https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [all of that](https://open.spotify.com/album/2aKrKxXK1bOVyyrmx0vTfp) | 2:09 | 2025-06-13 | 2026-05-31 |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-07-14 | 2024-03-02 |
 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-06-01 | 2024-11-23 |
@@ -398,7 +399,7 @@
 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88) | 3:52 | 2024-06-28 | 2025-03-22 |
 | [Reclaim Me \(feat\. Nimmo\) \- Maya Jane Coles Remix \[Edit\]](https://open.spotify.com/track/7DLxRocVGAXVaq63ZuuIby) | [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Reclaim Me \(feat\. Nimmo\) \[Maya Jane Coles Remix\]](https://open.spotify.com/album/2a6PATwWoogkNkzaWI05vU) | 3:23 | 2021-10-15 | 2023-10-14 |
 | [Records](https://open.spotify.com/track/0uLev2G8kxK1PH8Fsb9BHl) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Records](https://open.spotify.com/album/5bdP826dbsN19WFnDrZPWA) | 3:00 | 2024-08-02 | 2025-03-01 |
-| [RED](https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [RED](https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq) | 2:41 | 2025-03-21 |  |
+| [RED](https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [RED](https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq) | 2:41 | 2025-03-21 | 2026-10-09 |
 | [Red Plum](https://open.spotify.com/track/0R0dUadXGacI5Hy9W02SUf) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Heart Ego](https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX) | 3:42 | 2022-07-14 | 2024-04-19 |
 | [Red Plum](https://open.spotify.com/track/5ZG1MQ3uJ8QmZAA3Iut6vF) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Sunniva Lindgård \(Producer\), Sunniva Lindgård \(Composer\), Andrew Murray Baardsen \(Producer\)](https://open.spotify.com/artist/5cBNXQoN1r7meYakVaXiYS) | [Red Plum](https://open.spotify.com/album/0qjHlh505jPgo8ZA8xRmR0) | 3:42 | 2021-10-15 | 2024-06-01 |
 | [RELOAD](https://open.spotify.com/track/12ZrI2j6HsCE1NuCMNcgm1) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [RELOAD](https://open.spotify.com/album/5MrpNKMAyzZudB4i09edbu) | 2:58 | 2025-10-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Tel Kel
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,623 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,622 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 33 | [rules](https://open.spotify.com/track/2BTRbcij5UNvQ8ATrWjGhY) | [Franz Keloh](https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO) | [rules](https://open.spotify.com/album/2m1l66J4HhwOgbnmcUP0AE) | 2:01 |
 | 34 | [A La Base](https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [A La Base](https://open.spotify.com/album/2NMkjnOy51mypDJcdnSZU8) | 2:24 |
 | 35 | [Right Now](https://open.spotify.com/track/13ZDPX0CkpCH80uFkykwwQ) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Berger](https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg) | 2:06 |
-| 36 | [PIKET](https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [PIKET](https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR) | 3:27 |
-| 37 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 |
+| 36 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 |
+| 37 | [PIKET](https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [PIKET](https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR) | 3:27 |
 | 38 | [Soul pleureur](https://open.spotify.com/track/1DKgD6CCYoDdmqvUsveE8X) | [Dubmatique](https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny) | [La force de comprendre](https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve) | 3:56 |
 | 39 | [SHAWTYFREAKABELLADANGER](https://open.spotify.com/track/5Z62mISXqKe332tZcJHRs6) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm), [Nicky Savage](https://open.spotify.com/artist/1yG7xAkT8v6Ora2dBdkrgq) | [SHAWTYFREAKABELLADANGER](https://open.spotify.com/album/3F2SQXNU6CiDrpaTr5eRhR) | 2:22 |
 | 40 | [MURDA](https://open.spotify.com/track/0eZGhUhnRq73yTWM5se93o) | [Jimmy Cena](https://open.spotify.com/artist/3ersXzETV8IbKPBKjjQ5AX), [St\-Saoul](https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ), [Buckshot](https://open.spotify.com/artist/5Fc4E9FtAoP4UHXWh6oLpS) | [MURDA](https://open.spotify.com/album/4NYWFEH98bEma6JlTPgpww) | 3:50 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 71 | [Danger](https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Danger](https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs) | 2:40 |
 | 72 | [Take the time](https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6) | [Muhoza](https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG), [Carson](https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn) | [Take the time](https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ) | 2:57 |
 | 73 | [Riviera](https://open.spotify.com/track/4A0lJihI3xYaJ0EtW7s3aF) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Riviera](https://open.spotify.com/album/3SqYYQ4DPoO7cJ9Duqme5D) | 2:25 |
-| 74 | [GENS DU PAYS](https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:32 |
+| 74 | [Tehfouf](https://open.spotify.com/track/1C1d6BPQ9ILd6fSgRtcQrV) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Tehfouf](https://open.spotify.com/album/70DTqN5rPBB9ICMf0LkWa5) | 2:28 |
 | 75 | [Laisse nous](https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Laisse nous](https://open.spotify.com/album/53w6wLP7cA0LvG1eXHXlzF) | 2:48 |
 
 Snapshot ID: `AAAAAD7GV3yEv/j/4Cmc94RhQifZ0Q9K`

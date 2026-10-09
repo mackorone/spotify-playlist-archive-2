@@ -4,7 +4,7 @@
 
 > New and classic releases from Americana stalwarts\. Cover: Wynonna
 
-299 songs - 19 hr 6 min
+299 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Mother, Son and Holy Ghost](https://open.spotify.com/track/0Sf4Miqjok7iImlzEaSKHq) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/6T7XXP2wnOMgeEAyDhF03i) | 5:38 | 2023-08-11 | 2024-04-19 |
 | [Mr\. Lincoln](https://open.spotify.com/track/1jvrIYoQ6E8qqnZnVBRc7r) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Mr\. Lincoln](https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE) | 3:16 | 2026-08-28 |  |
 | [My Favorite Picture Of You](https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [My Favorite Picture Of You](https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo) | 3:32 | 2021-11-11 |  |
+| [My God Thank You John](https://open.spotify.com/track/1U5aOY6V1s7D1jbnrzq7JA) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Found Dogs](https://open.spotify.com/album/383eZVIN0GzKNWEQZwC6sM) | 4:20 | 2026-10-02 |  |
 | [Never Give In](https://open.spotify.com/track/1hO0UgZ2j5qY6qoUZ6pJ9u) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [Never Give In](https://open.spotify.com/album/1gfai8PiMzjSugxZAUkWdJ) | 3:00 | 2024-08-30 |  |
 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-11-11 | 2026-10-02 |
 | [Never Let a Day Go By](https://open.spotify.com/track/72Ez9UKPw8JCjvFXrFgPiE) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/0wSfUE2PQehJRjUwmEVj4H) | 3:15 | 2023-08-11 | 2024-04-14 |
@@ -269,7 +270,6 @@
 | [Those Memories of You \- 2015 Remaster](https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 4:00 | 2022-04-22 | 2024-04-19 |
 | [Those Memories Of You \- Remastered](https://open.spotify.com/track/3iNcaNDaddArDsccmm0mjF) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [The Complete Trio Collection](https://open.spotify.com/album/25X28V6p34T7dNc2x7Vzt4) | 4:00 | 2021-11-11 | 2026-03-28 |
 | [Time After Time \- Live from Spotify NYC](https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Spotify Sessions](https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf) | 5:29 | 2021-11-11 |  |
-| [Track 10](https://open.spotify.com/track/1U5aOY6V1s7D1jbnrzq7JA) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Found Dogs](https://open.spotify.com/album/383eZVIN0GzKNWEQZwC6sM) | 0:00 | 2026-10-02 |  |
 | [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 | 2023-02-24 | 2024-04-19 |
 | [Traveling Alone](https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone \(Bonus Track Version\)](https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw) | 4:44 | 2021-11-11 |  |
 | [Traveller](https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:42 | 2021-11-11 |  |

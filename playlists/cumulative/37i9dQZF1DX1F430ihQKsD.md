@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal w/ Joseph Lorange
 
-1,003 songs - 2 day 8 hr 32 min
+1,006 songs - 2 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-09-30 | 2023-02-18 |
 | [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 | 2024-10-25 | 2025-10-18 |
 | [Bittersweet](https://open.spotify.com/track/4r3dW2GaTXSMBOMxtnC2X0) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY), [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5) | [Bittersweet](https://open.spotify.com/album/1l7f3275NojBZM1FpxlDAT) | 3:26 | 2022-05-06 | 2022-10-15 |
+| [Black Cloud](https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Black Cloud](https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS) | 4:29 | 2026-10-09 |  |
 | [Blame](https://open.spotify.com/track/7IQWsorg1GCpQIqDeHKOHb) | [Oliver Forest](https://open.spotify.com/artist/0suucqqvdSvSNRyfvzEBe7) | [Wanted 2 Say](https://open.spotify.com/album/5XKtEOG6k6vLQAlp1xVurM) | 3:21 | 2026-07-03 | 2026-09-26 |
 | [Bleed Me Back to Yesterday](https://open.spotify.com/track/71WJmUixhnhTGZAFoIKfqZ) | [teen\*](https://open.spotify.com/artist/0rippXAXb6jSyQIc8BnEtd), [whyhaze](https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE) | [Bleed Me Back to Yesterday](https://open.spotify.com/album/37OwUtKhUtSDdKeSaNu0Um) | 3:11 | 2026-01-16 | 2026-07-11 |
 | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/album/0tT4aJMUh0ToD5vEFhhPnh) | 3:33 | 2024-03-22 | 2025-07-05 |
@@ -642,6 +643,7 @@
 | [OCTEMBRE](https://open.spotify.com/track/0ClSzOZrQAkJmmvRJY0oVV) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:32 | 2022-12-02 | 2023-04-09 |
 | [OCTEMBRE](https://open.spotify.com/track/3xQNPoblgUjc9860KMmUPI) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic) | 3:32 | 2022-03-25 | 2022-07-29 |
 | [OCTEMBRE](https://open.spotify.com/track/6r1K8p3o3pqzGPiJ8tY21G) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:32 | 2022-07-22 | 2022-12-03 |
+| [octobre, encore](https://open.spotify.com/track/2cCeOGVRK2dnJ9G5TQvH7u) | [gabno](https://open.spotify.com/artist/7ARDCeWQmzV4krCOTXSNVp) | [octobre, encore](https://open.spotify.com/album/5Hc0vmaR7nUTY1pmPfcLl6) | 3:19 | 2026-10-09 |  |
 | [Offrande](https://open.spotify.com/track/33SSA9jZu45ttDWNEYlyBL) | [Jonquille](https://open.spotify.com/artist/6EkhmsOgViVac1WMKcFeoz) | [Si on est la somme des gens qu'on aime](https://open.spotify.com/album/7sPhstcx803KTkiZ9C1UBY) | 3:22 | 2026-10-02 |  |
 | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/album/34By43vyYsxtfgLyDRoMnI) | 3:54 | 2022-04-22 | 2023-05-13 |
 | [Oiseau migrateur](https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0) | [Nana Quinn](https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4) | [tout me quitte / tout vient à moi](https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn) | 4:37 | 2026-01-30 | 2026-04-11 |
@@ -1007,6 +1009,7 @@
 | [Zombie Cry](https://open.spotify.com/track/1Okam83qB6OKbfoDleeET4) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Zombie Cry](https://open.spotify.com/album/0D9wFrtQuGIXFxfPoAyuS5) | 3:31 | 2022-09-23 | 2023-09-16 |
 | [Zoé sur la montagne](https://open.spotify.com/track/19jBx6s9LIxzRdccmlDUjD) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Zoé sur la montagne / Deuxième vie](https://open.spotify.com/album/4lVU7Rdk1wgzVutEbM3Vpx) | 2:53 | 2025-01-31 | 2025-10-18 |
 | [À bientôt](https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [À bientôt](https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S) | 3:24 | 2022-08-26 | 2023-01-21 |
+| [À demi\-croisé](https://open.spotify.com/track/6bTGBEE4tmh2YJtURQul7N) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [À demi\-croisé](https://open.spotify.com/album/72mT2RY5uUEegxhgkbowX5) | 2:40 | 2026-10-09 |  |
 | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/track/0xDNmS1FLbONayk21JM7NT) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy), [Standard Emmanuel](https://open.spotify.com/artist/03eMkqsGXAfGVyH9DvbO7D) | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/album/6HxlVrZdTIK2KXSJ5GhIw4) | 5:33 | 2023-08-18 | 2023-09-23 |
 | [À présent](https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [À présent](https://open.spotify.com/album/4yCghmiyhqVae5mRq402br) | 4:51 | 2022-08-26 | 2023-08-19 |
 | [À retardement](https://open.spotify.com/track/2fpOejhULp57PrbCXQ1xUG) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [À retardement](https://open.spotify.com/album/5bG6MAUi03dmCmghIAkW9M) | 3:05 | 2022-04-29 | 2023-02-11 |

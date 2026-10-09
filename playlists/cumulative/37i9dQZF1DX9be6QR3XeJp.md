@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Hope Winter
+> Discover your new favourite artists from UK&IE\. Cover: Saskia
 
-376 songs - 20 hr 9 min
+377 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Wanna Chill Baby?](https://open.spotify.com/track/1OYgZHegbK7PS1WwWeWOa1) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm) | [Wanna Chill Baby?](https://open.spotify.com/album/1624ryqTdABHLSmeOMHMsy) | 1:56 | 2023-04-13 |  |
 | [war outside](https://open.spotify.com/track/7IXCfadpx5y8O37WojfLUp) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [war outside](https://open.spotify.com/album/2NIWgo6xKR6YbWt0xfKw0z) | 3:06 | 2022-02-18 |  |
 | [waste your pain](https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [waste your pain](https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29) | 2:23 | 2026-04-09 |  |
+| [wearing all white like an angel](https://open.spotify.com/track/0cS0s3CCtyl3oYggDEJ2kJ) | [Saskia](https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB) | [Wearing All White Like An Angel](https://open.spotify.com/album/5ckBQogUvxqRxMQ8nspRSP) | 4:26 | 2026-10-08 |  |
 | [Wet Dream](https://open.spotify.com/track/0AQfrSYM1GjAMc3h52u1w2) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Too Late Now / Oh No](https://open.spotify.com/album/0c1zD1xhhczlpTNzhuOtvS) | 2:20 | 2022-11-11 | 2022-11-14 |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2022-07-28 | 2024-04-19 |
 | [Wet Dream](https://open.spotify.com/track/5mB1jcv6Xifg8OTBjJgzE3) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/602iDLkq2yJKNG6VUuMWBi) | 2:20 | 2022-02-18 |  |

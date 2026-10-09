@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä.
 
-1,212 songs - 3 day 0 hr 28 min
+1,217 songs - 3 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -626,6 +626,7 @@
 | [Mielikuvitusta](https://open.spotify.com/track/5FhFbwrMFYU7WkWdkenPvR) | [Aali](https://open.spotify.com/artist/64o4iINH5TMOoQEsZsMSLf) | [Mielikuvitusta](https://open.spotify.com/album/0VMhBfd8rNpddav5BRBY4F) | 3:56 | 2026-09-03 |  |
 | [Mies joka tuntee kaiken](https://open.spotify.com/track/2gHmhZg8IvQvbjOkgRF9zc) | [Kai Nuu](https://open.spotify.com/artist/1nM46vhERU1vkuD7Obhxol) | [Mies joka tuntee kaiken](https://open.spotify.com/album/5ylFkcKYQRuoGA88mobxtE) | 3:23 | 2026-03-05 | 2026-04-02 |
 | [Mikko uskoo rakkauteen](https://open.spotify.com/track/4Xu12aFulOPAn9HxhRsiNO) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Mikko uskoo rakkauteen](https://open.spotify.com/album/7LwvgWkGKsGdcDvFQnXURp) | 2:27 | 2025-07-24 | 2025-08-15 |
+| [Miks?](https://open.spotify.com/track/1XTmbOxlk5gDtdyQfElbtV) | [Emmi Saunders](https://open.spotify.com/artist/0apwyWbuf7YaviA81YkQcI) | [Miks?](https://open.spotify.com/album/2ty5KEh9rAgX20KXGe9NLE) | 2:43 | 2026-10-08 |  |
 | [Miksei tnä](https://open.spotify.com/track/7z7LRxlZbAzHYkRLbJgRaU) | [Meemio](https://open.spotify.com/artist/4HUuVRCNyRjCHAYX6ExFtj), [Lempi Elo](https://open.spotify.com/artist/2Uy3vg4OPMHIKwPwMR1D3s) | [Miksei tnä](https://open.spotify.com/album/4EMN6YeK3kwXHvDqNsId24) | 4:11 | 2025-03-13 | 2025-04-18 |
 | [Miksi kaikki on toisin?](https://open.spotify.com/track/76ZO54nb6sAUIHYoIAUiwV) | [Hemmo Helle](https://open.spotify.com/artist/0W4EcCpnI18YkZVVuhwhOf) | [Miksi kaikki on toisin?](https://open.spotify.com/album/5U4J2yrItJrI8NWnhDdqhy) | 3:09 | 2025-05-29 | 2025-06-13 |
 | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/track/7COQtkAMfAK1S0yfvKkglW) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT) | 3:27 | 2026-02-19 | 2026-05-29 |
@@ -655,6 +656,7 @@
 | [Mitä vaan](https://open.spotify.com/track/01KNZ2fOalkvOqRJtoPyJ2) | [SILANDER](https://open.spotify.com/artist/7IblNG1yyvO599TkIce78M) | [Violetti](https://open.spotify.com/album/2VBatHXJKo22NPoVky2Tli) | 3:00 | 2025-03-06 | 2025-03-28 |
 | [Mitäpä minä](https://open.spotify.com/track/7zvZC32LfI8ZmbBRSiej9C) | [Lempi Elo](https://open.spotify.com/artist/2Uy3vg4OPMHIKwPwMR1D3s) | [Mitäpä minä](https://open.spotify.com/album/6caewdOMuRcV5Ixyc8mKlN) | 4:05 | 2025-02-06 | 2025-04-04 |
 | [Moni asia voi muuttua vuodessa](https://open.spotify.com/track/4vtQglaUKsTetjPQoFXftE) | [Leeni](https://open.spotify.com/artist/4qFbzYlUZ5e7oeirpDdQ0z) | [Moni asia voi muuttua vuodessa](https://open.spotify.com/album/4Fo5ylMb9cfLQ2qey1wUzJ) | 2:45 | 2026-09-03 |  |
+| [Moovaa](https://open.spotify.com/track/7mfJe2fuwPcWOTvjmufHqj) | [Valentin](https://open.spotify.com/artist/2U0XZostSwDFbAltZ59Liz) | [Moovaa](https://open.spotify.com/album/7l0vVQCwtnQWsTu8FeJ1bo) | 2:27 | 2026-10-08 |  |
 | [Morning](https://open.spotify.com/track/7rxWkVPJaM8E2WaN11LcK9) | [SUAD](https://open.spotify.com/artist/1o8gKzbNYGHNv0qEojjcO5) | [Morning](https://open.spotify.com/album/0DRkAkeYG9LR4y1vJopVV4) | 3:34 | 2025-03-27 | 2025-05-16 |
 | [Mr\. Bean](https://open.spotify.com/track/1RcVBGYVbPc74Tkwyenq9E) | [Eero Rivera](https://open.spotify.com/artist/0X4YpLbMH9LdgbwbBBlHdy) | [Ai kuka Eero Rivera?](https://open.spotify.com/album/0NbFb31Q4gxdxdxaIAb3sM) | 2:29 | 2025-11-06 | 2026-05-29 |
 | [Mr\. Ditchmouth](https://open.spotify.com/track/3UJxDCBJqRzltxV1Iv5yEJ) | [Honey Crisp](https://open.spotify.com/artist/1tk7aANlL5yiOLqajatBHV) | [Mr\. Ditchmouth](https://open.spotify.com/album/64Q6JqbYtgQFj3l7RgpoAE) | 3:14 | 2025-01-30 | 2025-02-14 |
@@ -670,6 +672,7 @@
 | [Muovipussi](https://open.spotify.com/track/7IrzxQLNp0pi3XARUFY3n0) | [Kansalainen](https://open.spotify.com/artist/4RneDEHYcl60OSe17Czey6) | [Muovipussi](https://open.spotify.com/album/5sfUkbFe8Q1R2pA6TBbOpT) | 6:59 | 2024-09-26 | 2024-10-04 |
 | [Murheita menneiden](https://open.spotify.com/track/0LTnAZufNi2w4ij6gfSZj5) | [Haamuvaltakunta](https://open.spotify.com/artist/3KpS96KUnk3FELrpnJV06b) | [Murheita menneiden](https://open.spotify.com/album/6KgSrEWXNYIk70Tl9D0eN2) | 3:28 | 2024-11-21 | 2025-01-24 |
 | [Muscle Memory](https://open.spotify.com/track/7AF9JOHWmE1u1zjzwruDI9) | [Telephone Romeo](https://open.spotify.com/artist/2kQq9VtfaWtB8OFJn6ta1G) | [Muscle Memory](https://open.spotify.com/album/7saW8LCty5iMpFZdFpjUHc) | 4:25 | 2026-02-12 | 2026-05-29 |
+| [Musta enkeli](https://open.spotify.com/track/1wRRezJaIp5ghiiBUzb96h) | [M](https://open.spotify.com/artist/3Morn5TpdjMah0L9EtAxdH) | [Musta enkeli](https://open.spotify.com/album/30vYGPajd1RT9qBKfZackg) | 3:05 | 2026-10-08 |  |
 | [Musta ja painava taivas](https://open.spotify.com/track/0vLqTQ9mbs3RibsY0OUqOw) | [Haamuvaltakunta](https://open.spotify.com/artist/3KpS96KUnk3FELrpnJV06b) | [Musta ja painava taivas](https://open.spotify.com/album/1TS1AVv5ZNfbUBe4IBNClZ) | 3:42 | 2025-04-17 | 2025-05-09 |
 | [Musta marraskuu](https://open.spotify.com/track/2i7fzu485MSv0JUGut3umK) | [Piehingin PRKL](https://open.spotify.com/artist/6V2Zc2keqVg4AsrL0AJbL1) | [Musta marraskuu](https://open.spotify.com/album/4dNJ45RwJR0HEqOhCl6BFU) | 3:58 | 2025-11-03 | 2026-05-29 |
 | [Musta ruuna](https://open.spotify.com/track/1fqGyhMkNKGn0wklpudLC8) | [Pekko Käppi](https://open.spotify.com/artist/0UMDxlQeIQO1ObwZ2cHrWd), [K:H:H:L](https://open.spotify.com/artist/4pDr5fZXLO5mlYWHa20tUN) | [Musta ruuna](https://open.spotify.com/album/43jgUDJnsAtm7gUiLqVizV) | 4:39 | 2025-08-21 | 2025-09-26 |
@@ -777,6 +780,7 @@
 | [Pekka lupaa poutaa](https://open.spotify.com/track/2O3kSzcWheLqVFDYwaPRPa) | [Noora Kataja Trio](https://open.spotify.com/artist/0O1oj2v3UakziCllxJt7He) | [Pekka lupaa poutaa](https://open.spotify.com/album/6gTGBgfJGQwc1gbwwJOpcE) | 3:47 | 2024-08-15 | 2024-09-20 |
 | [Pelastetaan toisemme](https://open.spotify.com/track/1tTn493uBvRgrhXtxBTinm) | [Satu Lii](https://open.spotify.com/artist/7bKUfDCmNQgrjtmC9z0yRy) | [Pelastetaan toisemme](https://open.spotify.com/album/12Ykqjx9VOFbp7gr8gcRIA) | 2:43 | 2025-02-13 | 2025-03-21 |
 | [Pelkkä kirosana](https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Pelkkä kirosana](https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY) | 3:12 | 2026-03-12 |  |
+| [pelkkää hyvää](https://open.spotify.com/track/1AyLjbM4VrTiRhfLPpgiBF) | [aava ella](https://open.spotify.com/artist/5Y2447nvHGZPhlUHsugD6k) | [pelkkää hyvää](https://open.spotify.com/album/3SBNAp2hU25y5cEo21U2EJ) | 4:13 | 2026-10-08 |  |
 | [pelkään kuolemaa](https://open.spotify.com/track/23pYPMfHEgUPWuYA8PnN2J) | [Eetu Riikonen](https://open.spotify.com/artist/4LbjDmrZY9hoS08g0gI3YH) | [pelkään kuolemaa](https://open.spotify.com/album/2fAnncOxFIeSPPZk2kMFxl) | 3:44 | 2025-09-25 | 2025-10-24 |
 | [Pelon kapina](https://open.spotify.com/track/0tBGX2ELvR1AJvIJgmfvET) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT), [Vimma](https://open.spotify.com/artist/26vvDMY0SNr27F2CiWTxLa) | [Pelon kapina](https://open.spotify.com/album/2GDsh0oxYgiDbANrDfKJf0) | 2:48 | 2025-06-05 | 2025-08-15 |
 | [Pena from Ipanema](https://open.spotify.com/track/2cMVr7gRjXYanRYAGTe9T1) | [Näköradio](https://open.spotify.com/artist/4W1aSEdQNziXqqSssFZ3H2) | [Pena from Ipanema](https://open.spotify.com/album/5pPwlM3nwX5zVOuVtZDQJa) | 4:43 | 2025-07-03 | 2025-07-11 |
@@ -956,6 +960,7 @@
 | [Split](https://open.spotify.com/track/03nfFZluTBlOZOtLNMol1y) | [Bobomobile](https://open.spotify.com/artist/1ksvodwIQsqlRDRmRZ69p5) | [Split](https://open.spotify.com/album/4pavMT7959oMZ9chEPr1nB) | 4:12 | 2025-04-24 | 2025-05-16 |
 | [Sports Shorts](https://open.spotify.com/track/6KaXfFrsiuhCzFnFaB50fI) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [Sports Shorts](https://open.spotify.com/album/7tUiYc64pnXTRy6TT5MX3w) | 3:17 | 2026-04-09 |  |
 | [Stadion](https://open.spotify.com/track/4CrJH1SsGoRfcc85MRBJLs) | [Ne Lintuizet](https://open.spotify.com/artist/6Oygx8XzWbloL8MsTl1Zhc) | [Stadion](https://open.spotify.com/album/2MkmIMWWpqrc9zmkN8LOw3) | 4:34 | 2024-10-24 | 2024-11-15 |
+| [Star](https://open.spotify.com/track/150H6cj8Iq3JP8VtMlfawc) | [The New Tigers](https://open.spotify.com/artist/1T7RrCcDLUEMXnwqq9jYSh) | [Star](https://open.spotify.com/album/0Ar3dYhFBzw4eIgMNvUxKk) | 4:44 | 2026-10-08 |  |
 | [Starlings](https://open.spotify.com/track/0S81cmGoCVwpdSOkXaELXc) | [The Whistleblower](https://open.spotify.com/artist/7GuNfliw9j0CsLLR4iH6AX) | [Starlings](https://open.spotify.com/album/18bjoBj8HPl7KxYbzvP0ti) | 4:37 | 2025-08-14 | 2026-05-29 |
 | [Stereot](https://open.spotify.com/track/3FhY15yjub9sIofJK5nHFk) | [Efka Crush](https://open.spotify.com/artist/7F5rSmDXew3j6VX4e60dJF) | [Stereot](https://open.spotify.com/album/1BtRv6Y4dlPq3TaTmjzK5N) | 4:07 | 2026-09-24 |  |
 | [Storyteller](https://open.spotify.com/track/2GgRklSLCLaEYcBvgexUXE) | [Zangoma](https://open.spotify.com/artist/41uVQ1Nd3TJIpdllRdea7s) | [Faka Mulilo](https://open.spotify.com/album/2tW4S7VdmcxVsz9SLMZC3N) | 5:09 | 2025-01-30 | 2025-03-07 |

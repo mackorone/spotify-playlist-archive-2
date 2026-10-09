@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "It's giving Ms. Lauren...",
+  "description": "Tracks voor de juiste vibe. Cover: Tiakola",
   "name": "Vibes",
   "tracks": [
+    {
+      "album": {
+        "name": "#31#",
+        "url": "https://open.spotify.com/album/3XGjIdCcsX56o3LjzG3Qzk"
+      },
+      "artists": [
+        {
+          "name": "Sara Ciara",
+          "url": "https://open.spotify.com/artist/1k8p1XNKtvxEU232Uv0S46"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172191,
+      "name": "#31#",
+      "url": "https://open.spotify.com/track/71eQ2ZLjSjLdaqYOfyTEo4"
+    },
     {
       "album": {
         "name": "+31621301535, it\u2019s me!",
@@ -209,6 +227,24 @@
     },
     {
       "album": {
+        "name": "5 STERREN",
+        "url": "https://open.spotify.com/album/0qhtp2NllpRrktzUFGj7QV"
+      },
+      "artists": [
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "5 STERREN",
+      "url": "https://open.spotify.com/track/3IArz6vZ04ql8YH9IshIB0"
+    },
+    {
+      "album": {
         "name": "AAN JE DENK",
         "url": "https://open.spotify.com/album/1HSi7BDC3J1w63sQRgP2OW"
       },
@@ -334,7 +370,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 207085,
       "name": "Alive (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
@@ -950,7 +986,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 159000,
       "name": "Beetje Extra",
       "url": "https://open.spotify.com/track/1CY94LknYMWjdv9wwswNlN"
@@ -2380,7 +2416,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 190129,
       "name": "Exit Wounds",
       "url": "https://open.spotify.com/track/2wISrbI8SMX0UsMJiLcXyO"
@@ -2658,7 +2694,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 169696,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/2hOSYZ9hfeTA4aonT095Vu"
@@ -5461,6 +5497,24 @@
     },
     {
       "album": {
+        "name": "NIEMANDNODIG",
+        "url": "https://open.spotify.com/album/61rFQEOKqf6DvD0hk60KrE"
+      },
+      "artists": [
+        {
+          "name": "Genna",
+          "url": "https://open.spotify.com/artist/2qXV33vUIb0D4YygTg7FCT"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "NIEMANDNODIG",
+      "url": "https://open.spotify.com/track/1q8SdjVKBAOXX46U8OwxDy"
+    },
+    {
+      "album": {
         "name": "Niet Again",
         "url": "https://open.spotify.com/album/7nckK55uvw9WyFQiMsn24s"
       },
@@ -6967,6 +7021,28 @@
     },
     {
       "album": {
+        "name": "Schijn je licht op mij",
+        "url": "https://open.spotify.com/album/0KSSoSWXL7s2IFgdK28Cve"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129826,
+      "name": "Schijn je licht op mij",
+      "url": "https://open.spotify.com/track/4h6oCJNPJ06eYT3M9jdCOq"
+    },
+    {
+      "album": {
         "name": "Scorpio",
         "url": "https://open.spotify.com/album/3JNtKX3ZoQ49e0WYufgDuq"
       },
@@ -7044,6 +7120,24 @@
       "duration_ms": 188722,
       "name": "Shabang",
       "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
+    },
+    {
+      "album": {
+        "name": "She Bad",
+        "url": "https://open.spotify.com/album/3msSvLtk91ozP2GBJjbWsN"
+      },
+      "artists": [
+        {
+          "name": "PHV",
+          "url": "https://open.spotify.com/artist/56SBY6GxBYwmi6ovHzWZg2"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124403,
+      "name": "She Bad",
+      "url": "https://open.spotify.com/track/5u4BgT0yYdr6w9kt1S4O9c"
     },
     {
       "album": {
@@ -8682,7 +8776,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 88800,
       "name": "Wat Doe Je",
       "url": "https://open.spotify.com/track/1pa75lMy9L7TGkwWsjFgMV"

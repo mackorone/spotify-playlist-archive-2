@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,167,840 likes - 250 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,168,060 likes - 250 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 249 | [Transpiration](https://open.spotify.com/track/0tKWDNr7DTEGpzJ6Xdf4Fv) | [Ananda](https://open.spotify.com/artist/0OHO8bpZ2kCqXnA3pIICie) | [Transpiration](https://open.spotify.com/album/5q3mFMux3osBIP1DZLCCee) | 2:34 |
 | 250 | [Inner Peace](https://open.spotify.com/track/2P9tPGO2aMEo0RnU0mYEqE) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Inner Peace](https://open.spotify.com/album/43BEiL7WwXVnZxt844seVM) | 2:26 |
 
-Snapshot ID: `AAAAAJrO1TOEsCQun1ZoN7gIYF0msH9D`
+Snapshot ID: `AAAAAKCy2wKZvBkcaIJKkmvooSI5aGcp`

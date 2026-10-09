@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Emicida, Puro Suco
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,136 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,153 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 14 | [Kleenex](https://open.spotify.com/track/32Zio3Qkgao4e8VZCi4M0A) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [RAMON](https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl), [Teclas no Beat](https://open.spotify.com/artist/4uetfz3nPXdE4maQ9NKGwq), [Prod.BRØNK$](https://open.spotify.com/artist/1IqFMG6yoEEVJyF5huXYQa) | [Kleenex](https://open.spotify.com/album/6u33M40AioO6WHeBBujbIC) | 2:54 |
 | 15 | [Audi Q3](https://open.spotify.com/track/68VRzQQYzfE7hcXFemFruf) | [f.b.o](https://open.spotify.com/artist/1ac7vvl78LVq0f2sIjyEpU), [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL), [ProdGalician](https://open.spotify.com/artist/0yefXKWBoHatvo2VqK3GXF) | [Tróia & Grécia](https://open.spotify.com/album/5uYjibOxBHDIVHpcMiUNlS) | 3:15 |
 | 16 | [O QUE SEPARA OS HOMENS DOS MENINOS 2](https://open.spotify.com/track/3EqNnn97k4qBZY3KrVzMw4) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [O Que Separa Os Homens dos Meninos, Vol\. 2](https://open.spotify.com/album/0uSQmtWJKYpucN9ZZNp8CK) | 3:28 |
-| 17 | [Coisas Que a Gente Faz por Dinheiro](https://open.spotify.com/track/2qN3VFMtDycZetfeuOfnSU) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Coisas Que a Gente Faz por Dinheiro](https://open.spotify.com/album/3u530s2sBKOX9YxZ0Oj7Z5) | 2:35 |
+| 17 | [Coisas Que a Gente Faz por Dinheiro](https://open.spotify.com/track/2qN3VFMtDycZetfeuOfnSU) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z), [Chiocki, O Rodrigo](https://open.spotify.com/artist/3eeHAdfx2hlT7cqamCT95P) | [Coisas Que a Gente Faz por Dinheiro](https://open.spotify.com/album/3u530s2sBKOX9YxZ0Oj7Z5) | 2:35 |
 | 18 | [ELEVADOR](https://open.spotify.com/track/0JcVjccKJElZqLx24bVebN) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Jenni Rocha](https://open.spotify.com/artist/3JFNge4eb1nMMOwa0txAuV), [Nemésio Skillz](https://open.spotify.com/artist/6hr5UIHSzPW2h4qGle7ycG), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [ELEVADOR](https://open.spotify.com/album/7GqmyQYow2nvutcu4J3hdu) | 3:27 |
 | 19 | [Sorte do Dia](https://open.spotify.com/track/7yAOnA6YczejKj08GPE5Ay) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Sorte do Dia](https://open.spotify.com/album/6yovtSbFJUBPF8RNxA40C9) | 3:00 |
 | 20 | [Serpentes](https://open.spotify.com/track/59NUSlztfc0aR3BSeMC1ch) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [Serpentes](https://open.spotify.com/album/4zb0zdfIkeBbCJ8cMbst7I) | 2:50 |

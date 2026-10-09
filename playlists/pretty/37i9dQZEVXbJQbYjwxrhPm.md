@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,951 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,953 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Nito minuta](https://open.spotify.com/track/3Sp3iAOjnQygYlhAEsLcHY) | [Yanitsa](https://open.spotify.com/artist/3a4iT4FdFp6x0IqVTl47vR) | [Izkushenie](https://open.spotify.com/album/5Ccyh5zPTF9EXQPwTBtcou) | 4:06 |
 | 50 | [Skapoto se plashta](https://open.spotify.com/track/5jumClRHFt7meCQ8vbKyDf) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Skapoto se plashta](https://open.spotify.com/album/0M8StUFvLIE0c459cGZYwd) | 3:19 |
 
-Snapshot ID: `MlnPaAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mlsg6AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT0oJHv5eMj.md) - [plain]
 
 > Today's hit country music videos! Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,395 likes - 36 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,421 likes - 36 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mexico Honey](https://open.spotify.com/track/2aiwOtaPXwBjLWESTfpDkU) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Mexico Honey](https://open.spotify.com/album/3IpFDuATxj4LGNG52oxgzE) | 3:50 |
-| 2 | [Phone, Keys, Wallet](https://open.spotify.com/track/6ZdlOSd1gmKc09ixTr3pjO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Phone, Keys, Wallet](https://open.spotify.com/album/0wZS1yQVF4GM8Mzcr95ErJ) | 2:52 |
+| 1 | [Phone, Keys, Wallet](https://open.spotify.com/track/6ZdlOSd1gmKc09ixTr3pjO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Phone, Keys, Wallet](https://open.spotify.com/album/0wZS1yQVF4GM8Mzcr95ErJ) | 2:52 |
+| 2 | [Mexico Honey](https://open.spotify.com/track/2aiwOtaPXwBjLWESTfpDkU) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Mexico Honey](https://open.spotify.com/album/3IpFDuATxj4LGNG52oxgzE) | 3:50 |
 | 3 | [Hands Up](https://open.spotify.com/track/1ri6qOnuoSXb3484SqZI1W) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hands Up](https://open.spotify.com/album/33P4rww9FE9iTTLf5BI7Ry) | 6:37 |
 | 4 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
 | 5 | [Sleepless in a Hotel Room](https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Sleepless in a Hotel Room](https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds) | 2:57 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT0oJHv5eMj.md) - [plain]
 | 35 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/6xOsGr1dhXhhdX6ingWN4v) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/album/6WV1OV7B6aMpbDgorCvnqd) | 3:14 |
 | 36 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 |
 
-Snapshot ID: `AAAAABkI1qBSATeRh/FwqHhKBGBoqCoK`
+Snapshot ID: `AAAAAH2m3V2ZIGYWcrghG3ZNXcGbHj8G`

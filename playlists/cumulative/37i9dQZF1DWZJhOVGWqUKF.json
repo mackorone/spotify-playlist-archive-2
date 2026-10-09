@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Mother's Cake",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Royal Blood",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -982,7 +982,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 290573,
       "name": "ALL FOR NOTHING",
       "url": "https://open.spotify.com/track/32qvUXLLgejrOiBZavTseh"
@@ -4002,7 +4002,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 204797,
       "name": "Confidant",
       "url": "https://open.spotify.com/track/0wzYkzCLwEdjwllDxdyN7v"
@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 240208,
       "name": "De Oppresso Liber",
       "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
@@ -4650,6 +4650,24 @@
       "duration_ms": 148000,
       "name": "Dead 2 Me",
       "url": "https://open.spotify.com/track/2RsCzdo9CZeSFfy3SOJJtw"
+    },
+    {
+      "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199555,
+      "name": "Dead Company",
+      "url": "https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ"
     },
     {
       "album": {
@@ -6437,6 +6455,24 @@
     },
     {
       "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/3fwNOJiyv69Nf0GCIvUF7X"
+      },
+      "artists": [
+        {
+          "name": "April Art",
+          "url": "https://open.spotify.com/artist/5SIU6vqESwt2muetzRSX7f"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209427,
+      "name": "Fall into Pieces",
+      "url": "https://open.spotify.com/track/6HJ7MBIiP0pwbHIlMJPziy"
+    },
+    {
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/6jNaKHEccIUHK0zYde2gyn"
       },
@@ -6856,7 +6892,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 195720,
       "name": "Forgetting Sarah Marshall",
       "url": "https://open.spotify.com/track/4tpcDxKKIuvEkEe0RzUQ6z"
@@ -8617,6 +8653,24 @@
     },
     {
       "album": {
+        "name": "Palace for the People",
+        "url": "https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279576,
+      "name": "Heya",
+      "url": "https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k"
+    },
+    {
+      "album": {
         "name": "hide & seek",
         "url": "https://open.spotify.com/album/0pD1eUq9emXqqRnt9JI2u2"
       },
@@ -8632,6 +8686,24 @@
       "duration_ms": 187995,
       "name": "hide & seek",
       "url": "https://open.spotify.com/track/3hQVXjMDZBWhbl0lSTW7IC"
+    },
+    {
+      "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/38hmrb2ZXyxN0BLXAuAiPm"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206608,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0OwO15Nbw1PmnK7ZSrWChb"
     },
     {
       "album": {
@@ -12748,7 +12820,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 220413,
       "name": "NEON (feat. Maz Univerze)",
       "url": "https://open.spotify.com/track/6UezUtp6jxSrkMLKPMU3WL"
@@ -14201,6 +14273,24 @@
     },
     {
       "album": {
+        "name": "PARTY'S OVER",
+        "url": "https://open.spotify.com/album/3r2knZRYbnfSq8Lepyv7Bx"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348439,
+      "name": "PARTY'S OVER",
+      "url": "https://open.spotify.com/track/5eJqtTJXQkOnJ6XR4FU60q"
+    },
+    {
+      "album": {
         "name": "Perfect Soul",
         "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
       },
@@ -14576,7 +14666,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 185117,
       "name": "Private Lives",
       "url": "https://open.spotify.com/track/1FuKAmuSC09b2xBlyVA1Ks"
@@ -18048,6 +18138,24 @@
       "duration_ms": 103066,
       "name": "The Beat",
       "url": "https://open.spotify.com/track/5TM64poPKEC9oqUoxojedI"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5wjfDqEmIWfst84JhCDqbk"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181415,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6F5ZmNzsrApPjgoGQnnQs4"
     },
     {
       "album": {

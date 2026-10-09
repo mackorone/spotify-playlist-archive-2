@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Logan Staats
 
-783 songs - 1 day 23 hr 28 min
+784 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [casseroles & flowers](https://open.spotify.com/track/49T8KmZWJsWLq2pjxlBPDS) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI), [Cumulus](https://open.spotify.com/artist/5kO4scXJTa1QzbxqG55xFK) | [casseroles & flowers](https://open.spotify.com/album/0B4gPGqSJ207G3GFUNoB8z) | 3:37 | 2022-05-13 | 2023-04-22 |
 | [Causeway Road](https://open.spotify.com/track/3JfkqesP2oc7Vo5VVkhWdu) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Causeway Road](https://open.spotify.com/album/2Wi2PwZQqS4ZFj2bDArGBE) | 4:51 | 2022-07-22 | 2022-09-24 |
 | [Causeway Road](https://open.spotify.com/track/4FFgPfRziFe3X8IycsBvgy) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Causeway Road](https://open.spotify.com/album/6ocdE1SBF3dVvhluIl46B6) | 4:51 | 2022-07-19 | 2022-07-29 |
-| [Cecilia Jeffrey](https://open.spotify.com/track/7iFANAnKbAUMuB72IekOOl) | [Evan Redsky](https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s) | [Cecilia Jeffrey](https://open.spotify.com/album/3fV3PKA1AX4LTXMiPj3F74) | 4:00 | 2026-10-02 |  |
+| [Cecilia Jeffrey](https://open.spotify.com/track/7iFANAnKbAUMuB72IekOOl) | [Evan Redsky](https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s) | [Cecilia Jeffrey](https://open.spotify.com/album/3fV3PKA1AX4LTXMiPj3F74) | 4:00 | 2026-10-02 | 2026-10-09 |
 | [Change](https://open.spotify.com/track/1VExL9vUxqkfytmPpnmS8K) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Change](https://open.spotify.com/album/0OHcWj5QdMxe7CNXK9La86) | 3:52 | 2026-07-24 |  |
 | [Change Of Heart](https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 4:03 | 2023-04-21 | 2024-08-24 |
 | [Chasing Spirits](https://open.spotify.com/track/4KFerK4qS5krV7MxVC4iDe) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 2:44 | 2023-06-09 | 2023-11-18 |
@@ -441,6 +441,7 @@
 | [Lost for a While](https://open.spotify.com/track/5lLq0yhstHqi4Tz68qguqS) | [Little Misty](https://open.spotify.com/artist/695A3b4A5eEZx3aKpGZYay) | [Nowhere Land](https://open.spotify.com/album/34F00rG3BIf0CfY867Tn6W) | 3:46 | 2023-04-14 | 2023-05-08 |
 | [Love Is A Canyon](https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [I WANT MY LOVED ONES TO GO WITH ME \(DELUXE\)](https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY) | 3:48 | 2025-10-09 |  |
 | [Love Letters](https://open.spotify.com/track/75vo08Xe1zfo5PNvzd663o) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Pathways](https://open.spotify.com/album/3K1pEVfbFF5QbmXUpTH1WS) | 3:04 | 2024-09-27 | 2024-10-12 |
+| [Love Me Today](https://open.spotify.com/track/2fF7C4q789Q1LcoPBhe1ip) | [Tomi Swick](https://open.spotify.com/artist/4yeAYGV34SMvfjePHYeqbP) | [Love Me Today](https://open.spotify.com/album/37W8FHa6KXf4gE9jKZtfaD) | 3:45 | 2026-10-09 |  |
 | [Love Thy Neighbor](https://open.spotify.com/track/3ArBCwHbrBaW8hTWF4CWdG) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Love Thy Neighbor](https://open.spotify.com/album/7aGhjHYKpPW7lciXUx5Hlz) | 3:06 | 2022-05-13 | 2022-06-25 |
 | [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2022-12-16 | 2023-02-25 |
 | [Lover I'm Gonna Miss You](https://open.spotify.com/track/1Nd24ZJSkqvVfYrq4Pytzw) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936), [May Erlewine](https://open.spotify.com/artist/2OCklJbxEeL54I1EQOlbxW) | [Lover I'm Gonna Miss You](https://open.spotify.com/album/05bwXm1KhTHhGc33Z8VHUF) | 3:51 | 2026-03-06 | 2026-04-14 |
@@ -561,7 +562,7 @@
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-07 | 2024-07-06 |
 | [Queen Of Spades](https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Queen Of Spades](https://open.spotify.com/album/3ypJf75RGg4YsxRF7T2qzO) | 4:06 | 2022-09-16 | 2022-10-15 |
 | [Rattlesnake](https://open.spotify.com/track/4l1WYSb7vmJALdMoDHShtj) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Rattlesnake](https://open.spotify.com/album/6ty4luxA6qQTlGmI2B9Gif) | 3:33 | 2024-03-15 | 2024-06-02 |
-| [Ready Now](https://open.spotify.com/track/6xZUShgPgFExUWlVZOHNQJ) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Bird in Flames](https://open.spotify.com/album/5st5Ezbf3KeNqGEZRsZxgW) | 3:53 | 2026-09-24 |  |
+| [Ready Now](https://open.spotify.com/track/6xZUShgPgFExUWlVZOHNQJ) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Bird in Flames](https://open.spotify.com/album/5st5Ezbf3KeNqGEZRsZxgW) | 3:53 | 2026-09-24 | 2026-10-09 |
 | [Rearview](https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Rearview](https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS) | 3:08 | 2026-02-06 |  |
 | [Reckless Heart](https://open.spotify.com/track/5qTFeB7tqd8az9XUmjhJyI) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Way Through Time](https://open.spotify.com/album/62CmXYKJosz1Bs2MuHvAvD) | 3:24 | 2024-03-15 | 2024-04-06 |
 | [Recyclers](https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs) | 4:12 | 2022-05-13 | 2022-10-18 |

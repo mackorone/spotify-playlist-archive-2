@@ -604,7 +604,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 189859,
       "name": "Burial",
       "url": "https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 162333,
       "name": "Evergreen Avenue",
       "url": "https://open.spotify.com/track/3gqQj7QUW3azBS5Pl39t7t"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 213811,
       "name": "Funny Mouth",
       "url": "https://open.spotify.com/track/1lTp6SSihcLUxoiTPUJ6lA"
@@ -1750,10 +1750,50 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 204666,
       "name": "Hard Part",
       "url": "https://open.spotify.com/track/71BsK28ROXzJWOEkfkpQe4"
+    },
+    {
+      "album": {
+        "name": "Heartland (Song from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0ADLChjzKMNRmBO4ToHKqw"
+      },
+      "artists": [
+        {
+          "name": "Jessica Chastain",
+          "url": "https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF"
+        },
+        {
+          "name": "Jennifer Nettles",
+          "url": "https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233846,
+      "name": "Heartland - Song from the Netflix Film",
+      "url": "https://open.spotify.com/track/1VdCYm6JgJRGQwdtQA6Bqh"
+    },
+    {
+      "album": {
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
     },
     {
       "album": {
@@ -1794,6 +1834,24 @@
       "duration_ms": 225300,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
+    },
+    {
+      "album": {
+        "name": "hopeless romantic",
+        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
     },
     {
       "album": {
@@ -2099,6 +2157,28 @@
     },
     {
       "album": {
+        "name": "Into The Deep (Seas Cry) (feat. Hans Zimmer)",
+        "url": "https://open.spotify.com/album/2KKZXr6Twmqw9EKnwq2ee5"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280493,
+      "name": "Into The Deep (Seas Cry) (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/77JHNAiiLsSDwgAJGiPqby"
+    },
+    {
+      "album": {
         "name": "IRIS OUT",
         "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
       },
@@ -2266,6 +2346,28 @@
       "duration_ms": 163640,
       "name": "Let It Roll - From \"The Garfield Movie\"",
       "url": "https://open.spotify.com/track/2sEY3b8G71YuHxlu5XWJMN"
+    },
+    {
+      "album": {
+        "name": "Let Me Sell You A Dream",
+        "url": "https://open.spotify.com/album/1cLJiBmBQSYETuepZHyQFx"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185253,
+      "name": "Let Me Sell You A Dream",
+      "url": "https://open.spotify.com/track/5Sdbyz01H19kJpvB2Bv0JK"
     },
     {
       "album": {
@@ -2814,7 +2916,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 117866,
       "name": "Need Someone - From The MAX Original Series The Pitt",
       "url": "https://open.spotify.com/track/4StTDHHZMHhRS3e1UcFZNS"
@@ -3048,7 +3150,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 172903,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/4w2tZUs63YQeIFhKSCScJ7"
@@ -3488,6 +3590,24 @@
       "duration_ms": 189466,
       "name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
       "url": "https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH"
+    },
+    {
+      "album": {
+        "name": "Seriously (From the FX Series The Shards)",
+        "url": "https://open.spotify.com/album/1Vjv6elK1zzFtKibcD3JpR"
+      },
+      "artists": [
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153603,
+      "name": "Seriously (From the FX Series The Shards)",
+      "url": "https://open.spotify.com/track/27YYAcHQEW9alwLYAxjmBg"
     },
     {
       "album": {
@@ -4480,7 +4600,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 354133,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/6sby78fghipoXHQLeeZFFH"

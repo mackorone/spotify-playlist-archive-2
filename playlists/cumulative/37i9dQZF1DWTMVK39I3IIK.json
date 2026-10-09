@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unge kniv \ud83d\udd2a @Fine",
+  "description": "unge kniv \ud83d\udd2a @Yvonnes",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 239000,
       "name": "Barn Af Venedig",
       "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 187173,
       "name": "Big Spender",
       "url": "https://open.spotify.com/track/5HyoH4bna6iOoKG8NogVwm"
@@ -5137,6 +5137,24 @@
     },
     {
       "album": {
+        "name": "Mouthful of Sand",
+        "url": "https://open.spotify.com/album/0iSHH0aLohR311TCqIFL61"
+      },
+      "artists": [
+        {
+          "name": "B\u00c6NCH",
+          "url": "https://open.spotify.com/artist/32hyEyn0a2d4Uco2TBciRm"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196836,
+      "name": "Mouthful of Sand",
+      "url": "https://open.spotify.com/track/3A53Ci6ZNo4E98GR2FGz4C"
+    },
+    {
+      "album": {
         "name": "moving in",
         "url": "https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk"
       },
@@ -5520,7 +5538,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 140523,
       "name": "Ocean Breeze",
       "url": "https://open.spotify.com/track/6z6uFihig7U0BUwXO4mnf9"
@@ -5766,7 +5784,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 185533,
       "name": "Pissoir",
       "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
@@ -5849,6 +5867,24 @@
     },
     {
       "album": {
+        "name": "Postponements",
+        "url": "https://open.spotify.com/album/1LSaYxhMy4xppaDit5Dbsc"
+      },
+      "artists": [
+        {
+          "name": "Yvonnes",
+          "url": "https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179062,
+      "name": "Postponement",
+      "url": "https://open.spotify.com/track/22sWZmIc99HEFcX72GrjQt"
+    },
+    {
+      "album": {
         "name": "Pretty When I Cry",
         "url": "https://open.spotify.com/album/1DXMET9Q9sSG6FakBVPb3j"
       },
@@ -5882,6 +5918,24 @@
       "duration_ms": 177541,
       "name": "PRINCESS",
       "url": "https://open.spotify.com/track/1rfscPpZJO9r89WXN6ABU9"
+    },
+    {
+      "album": {
+        "name": "Problemer",
+        "url": "https://open.spotify.com/album/2G63NKfJzkMw6mGRObmhOf"
+      },
+      "artists": [
+        {
+          "name": "Liv",
+          "url": "https://open.spotify.com/artist/5lABIzayBt7HcqN1LJmtGA"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191785,
+      "name": "Problemer",
+      "url": "https://open.spotify.com/track/2elCXyOU2SMMBYGvSX1wkC"
     },
     {
       "album": {
@@ -6216,6 +6270,24 @@
       "duration_ms": 147739,
       "name": "R\u00f8dt Flag",
       "url": "https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC"
+    },
+    {
+      "album": {
+        "name": "R\u00f8sn\u00e6s, 2017 (havet lyste dig op)",
+        "url": "https://open.spotify.com/album/1hThaH0ITjPLDfc6ojR69q"
+      },
+      "artists": [
+        {
+          "name": "Karoline Funder",
+          "url": "https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260314,
+      "name": "R\u00f8sn\u00e6s, 2017 (havet lyste dig op)",
+      "url": "https://open.spotify.com/track/3VkWtyzvvGphm7Yhp5HMiP"
     },
     {
       "album": {
@@ -7038,6 +7110,24 @@
       "duration_ms": 217924,
       "name": "Sun Tan",
       "url": "https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI"
+    },
+    {
+      "album": {
+        "name": "SUNDOWN",
+        "url": "https://open.spotify.com/album/3otltXWhF7iYz29tmMxtBw"
+      },
+      "artists": [
+        {
+          "name": "Neverender",
+          "url": "https://open.spotify.com/artist/0mTyoefvqJeN8bYNfYkvax"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236741,
+      "name": "SUNDOWN",
+      "url": "https://open.spotify.com/track/2BmljsvXbO2PTZO32APHph"
     },
     {
       "album": {
@@ -8540,7 +8630,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 166209,
       "name": "Whatyoufeellike",
       "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"

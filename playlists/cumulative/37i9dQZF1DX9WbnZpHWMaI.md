@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Helena Gao.
 
-912 songs - 2 day 8 hr 3 min
+914 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Hollow](https://open.spotify.com/track/2J8YYqExy06PjSapXmm39f) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Hollow EP](https://open.spotify.com/album/2k0F2NkDj19iqUZ8c1SIwA) | 3:36 | 2022-03-08 | 2023-03-08 |
 | [Home](https://open.spotify.com/track/5PdA08FFRf8LaufbO0kQdv) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Home](https://open.spotify.com/album/0g7gJ3pJdy0O61GMgVQcqO) | 3:00 | 2025-06-13 | 2025-08-10 |
 | [Honesty](https://open.spotify.com/track/3BcEUl0zF9LoJHCTq4Fw9F) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Honesty](https://open.spotify.com/album/4feyMOtrlVm1JuT2Vy6IEs) | 4:11 | 2024-08-09 | 2024-11-23 |
-| [Hooked On You](https://open.spotify.com/track/2GllUWKwoRXxL1Y3zMTLJ9) | [BETH](https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17) | [Hooked On You](https://open.spotify.com/album/4uSJXmyvOwQHEEb1C2pwHu) | 3:02 | 2026-04-24 |  |
+| [Hooked On You](https://open.spotify.com/track/2GllUWKwoRXxL1Y3zMTLJ9) | [BETH](https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17) | [Hooked On You](https://open.spotify.com/album/4uSJXmyvOwQHEEb1C2pwHu) | 3:02 | 2026-04-24 | 2026-10-09 |
 | [Hot Bot](https://open.spotify.com/track/1R10YWIc3qGjBNlsqAYo5k) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/05KY6Zvc0lEHtBWF4LDnMY) | 4:48 | 2023-03-07 | 2024-03-02 |
 | [Hot Bot](https://open.spotify.com/track/1XNJI7P60NskriC3NhEvzt) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/3uuE2MtcSMcgDVwrjUvRBZ) | 4:48 | 2021-03-01 | 2023-02-08 |
 | [Hot Bot](https://open.spotify.com/track/5eeYXA1ZZBNRdwrJdCH9nD) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/7cFnHZSpmPQ2Ty6I5eoVOw) | 4:48 | 2022-03-08 | 2023-11-05 |
@@ -454,6 +454,7 @@
 | [I’ll Stand By You](https://open.spotify.com/track/0zwjijKrWJMpB8VNa0LTd0) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Femme House Vol\. 3](https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu) | 3:33 | 2026-03-06 | 2026-05-30 |
 | [Jeanette](https://open.spotify.com/track/5V28G1ktbqATUy4ioDzJZM) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7) | 6:14 | 2021-03-01 | 2022-07-29 |
 | [Jeanette](https://open.spotify.com/track/66KnxPOG7pEbzqyKhLaIE0) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 6:14 | 2022-03-08 | 2024-03-02 |
+| [Jezebel](https://open.spotify.com/track/6IDvtVV7hstph3DnXpBTL0) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [JEZEBEL](https://open.spotify.com/album/7HvRG2niZJweT6uJ0HtJ73) | 2:16 | 2026-10-09 |  |
 | [Journey](https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [Journey EP](https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs) | 3:01 | 2026-05-16 |  |
 | [Joy](https://open.spotify.com/track/2oKFozpMCSlgRUgzI63TlZ) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Joy](https://open.spotify.com/album/5yWgQgQfvVzrbd9P7rS00J) | 3:32 | 2024-06-18 | 2025-04-26 |
 | [Junge Sein](https://open.spotify.com/track/2xkSrW9JHEqkIqWsEOXSOA) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [La Música Es Dios](https://open.spotify.com/album/1wfK31izFVK0tgw9SIiVLP) | 7:33 | 2021-03-01 | 2024-03-02 |
@@ -545,6 +546,7 @@
 | [Monkey Madness](https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Monkey Madness](https://open.spotify.com/album/07cUEdpfFryZ8bSLXGnJdu) | 2:49 | 2024-08-02 | 2024-10-12 |
 | [Monochrome](https://open.spotify.com/track/2kskTbid8dwX2CWRr0PHTI) | [Dea Magna](https://open.spotify.com/artist/2CV829PespIwQonuSPIClv) | [Monochrome](https://open.spotify.com/album/5hgyxNLlJI41T8ZRiMxmSB) | 3:32 | 2024-05-03 | 2024-08-03 |
 | [Morning Light](https://open.spotify.com/track/1pK5RQ6j8o2TqGOQSxPAP1) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Morning Light](https://open.spotify.com/album/3XDqPUPVBg4YVbJq4nmQ4m) | 3:03 | 2026-05-29 | 2026-08-08 |
+| [Motel](https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS) | [Lisa Korver](https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH) | [Motel](https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok) | 3:45 | 2026-10-09 |  |
 | [Mothearth](https://open.spotify.com/track/6v7qPWc49BjNyq1Ei9pY3p) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Mothearth](https://open.spotify.com/album/1xl2husfsmtDRLATtpiIto) | 5:27 | 2025-03-14 | 2025-11-22 |
 | [Mount Etna](https://open.spotify.com/track/046eKaS966Mk6qjmDmmOgz) | [GABBY GUNN](https://open.spotify.com/artist/0Rxb93ISZocENV0h6xTQ4u) | [Tectonics](https://open.spotify.com/album/6ja6hOI5jEcI9V98qC7IAK) | 4:12 | 2026-02-20 | 2026-06-13 |
 | [MOVE](https://open.spotify.com/track/7fqonSY5E0ot4r02igxTrn) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [MOVE](https://open.spotify.com/album/77mHoOr31GlywElEi2zucF) | 3:03 | 2024-08-16 | 2024-09-21 |
@@ -774,7 +776,7 @@
 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 | 2026-08-07 |  |
 | [T Shirt](https://open.spotify.com/track/54uCSh5xkFvWxXPIe6zgZp) | [Lola Leon](https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL) | [T Shirt](https://open.spotify.com/album/041iig9kwc27HB2PBR2xc7) | 3:42 | 2026-05-29 | 2026-07-18 |
 | [Tacatá](https://open.spotify.com/track/5h3PqklN6mnrMYyKOCW2ly) | [Lisa Korver](https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH) | [Tacatá](https://open.spotify.com/album/0XIunmUmCiWnHYWpDaXNFt) | 2:46 | 2026-02-20 |  |
-| [Taconeando](https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [XXXXX](https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql) | 2:18 | 2026-07-31 |  |
+| [Taconeando](https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [XXXXX](https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql) | 2:18 | 2026-07-31 | 2026-10-09 |
 | [Take Me Higher](https://open.spotify.com/track/6mpflDudYSUBzdR8KbqCaJ) | [SYREETA](https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ) | [Take Me Higher](https://open.spotify.com/album/5IV0uzin6BEA3mfOC2aRsv) | 3:36 | 2024-12-06 | 2025-03-01 |
 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 | 2024-08-16 | 2026-02-21 |
 | [takeme2](https://open.spotify.com/track/5lF0OMA2GNEDe1OVuaM0tb) | [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [takeme2](https://open.spotify.com/album/0WIRi1STaiGqv2vxF35y32) | 3:35 | 2026-05-01 |  |

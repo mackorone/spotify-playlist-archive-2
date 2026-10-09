@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes ](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> PH vibin' cover: Bert Symoun
+> PH vibin' cover: Elhé
 
-532 songs - 1 day 4 hr 58 min
+534 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bad Boys](https://open.spotify.com/track/60vP7EdCkorP0PFbUiV1AD) | [STEF](https://open.spotify.com/artist/0DgheKnMZrZrtmvuf0ajkD) | [Bad Boys](https://open.spotify.com/album/5E4mVMn3G688p1Pvmw5c1B) | 2:41 | 2026-09-04 |  |
 | [baliktanaw](https://open.spotify.com/track/47zgYdCb0JjCMkdWqiGmlk) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF) | [baliktanaw](https://open.spotify.com/album/7DdAQB0WEsUI2C8eDHYvnh) | 2:31 | 2024-06-14 | 2024-08-17 |
 | [bb girl](https://open.spotify.com/track/4JkPVqYsg83oHC4VhSW37n) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [bb girl](https://open.spotify.com/album/0WGdprszHqeEuOIu8F6t5D) | 3:13 | 2023-02-23 | 2023-09-07 |
+| [Bb\. Araw \- Ughwit Part II](https://open.spotify.com/track/37HEoH3AA7mLvKf4bBvyqw) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [Bb\. Araw \(Ughwit Part II\)](https://open.spotify.com/album/3Wcq68wMppTPA6LlxitlXI) | 2:56 | 2026-10-09 |  |
 | [BE KIND](https://open.spotify.com/track/49DQxYQV8e7HFzDLXJGTyf) | [Adjeng](https://open.spotify.com/artist/6YceEbx95WDXZNT8fKpKyi) | [BE KIND](https://open.spotify.com/album/0yaYlzdd5cRPPvX7xgajxm) | 3:24 | 2022-10-12 | 2023-07-29 |
 | [Bebe](https://open.spotify.com/track/48uhAuFJLnUwti49dcyjmZ) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Bebe](https://open.spotify.com/album/1iVwS9MFswan5ib1OQK4rc) | 3:10 | 2025-11-24 | 2025-12-04 |
 | [Before You Leave My Heart](https://open.spotify.com/track/4SGJXiT5oEXsLCusmpS849) | [ANNA](https://open.spotify.com/artist/0kdRq6M9xM5QIw0NIfyEHN) | [Before You Leave My Heart](https://open.spotify.com/album/0eEAS5alAozUiNulHgx5bm) | 4:06 | 2022-10-12 | 2023-05-03 |
@@ -334,7 +335,7 @@
 | [Need It](https://open.spotify.com/track/3H1rKz5VQjsxHB8xUXAuDi) | [daze](https://open.spotify.com/artist/3mNnPqsHVbJSTxQtD74z4Z) | [Need It](https://open.spotify.com/album/01wGo5NysXJJyAnVIxykCL) | 3:53 | 2022-10-12 | 2023-07-29 |
 | [Need Time](https://open.spotify.com/track/6Mam1q7aFmaW3rBTzuYNra) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Need Time](https://open.spotify.com/album/0pCQzbR27DNnaFhbEZNjUv) | 3:03 | 2024-02-06 | 2024-06-22 |
 | [Never Ever](https://open.spotify.com/track/4acuAxO3HX8gnG0cPoHdY3) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Shanice](https://open.spotify.com/artist/7d0Wq0KsjId0JcqsDg02l2) | [Never Ever](https://open.spotify.com/album/4Kgp0O7onWFiBSFfw3Fadq) | 4:07 | 2025-08-27 | 2025-12-04 |
-| [ngunit hindi sapat](https://open.spotify.com/track/1xusvBFG2P3CjqQi7Ez4rb) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao), [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [ELHÉVATE](https://open.spotify.com/album/5OsAMhWYPohj7fBlpafmD0) | 3:08 | 2026-03-06 |  |
+| [ngunit hindi sapat](https://open.spotify.com/track/1xusvBFG2P3CjqQi7Ez4rb) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao), [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [ELHÉVATE](https://open.spotify.com/album/5OsAMhWYPohj7fBlpafmD0) | 3:08 | 2026-03-06 | 2026-10-09 |
 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 | 2023-09-06 | 2024-04-13 |
 | [NO LIMIT](https://open.spotify.com/track/2kIQmsQG3Wzoqt9WCkY8ww) | [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg), [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd) | [NO LIMIT](https://open.spotify.com/album/3sVB0Nx3yLM5dBhUaFQ2pG) | 3:46 | 2026-02-13 | 2026-09-04 |
 | [No Strings](https://open.spotify.com/track/1xo8TBulHlTaP1YJIXFu5z) | [Thome](https://open.spotify.com/artist/0TlpoVBa03V0XNXBq7Gjrh) | [No Strings](https://open.spotify.com/album/6d6S7bXx8PvVzB7q9wblpk) | 2:48 | 2024-11-08 | 2026-02-14 |
@@ -368,7 +369,7 @@
 | [Paminawa](https://open.spotify.com/track/4Pe8h3rovjDNqTymszh7xl) | [Jid Durano](https://open.spotify.com/artist/63lgN6XIvoFflcoefqMe1a), [Midnasty](https://open.spotify.com/artist/5vInrcUTu2zWamDqZnnozJ) | [Paminawa](https://open.spotify.com/album/1q8238sea5u1qcMO0GWvSi) | 3:09 | 2026-09-11 |  |
 | [PANAGINIP](https://open.spotify.com/track/5aKyHmvni2YWNDVokGAeX7) | [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU) | [PANAGINIP](https://open.spotify.com/album/0vW2WlXxqYkOdd3766IhTG) | 2:36 | 2026-02-27 | 2026-06-16 |
 | [pangalan](https://open.spotify.com/track/6sWE2HOMuYoAgsEX8PsqzI) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [pangalan](https://open.spotify.com/album/1xozCy63NzVrKrSOpTLkuY) | 4:09 | 2024-11-29 | 2026-02-28 |
-| [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 | 2024-03-12 |  |
+| [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 | 2024-03-12 | 2026-10-09 |
 | [Para Lang Sa'yo](https://open.spotify.com/track/3UlM8h84n3BoJyOAV2XbBS) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [Para Lang Sa'yo](https://open.spotify.com/album/64IGUK4c80Ki79J8GL53sL) | 2:25 | 2026-02-23 | 2026-06-27 |
 | [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 | 2025-03-21 | 2026-03-25 |
 | [Paradise](https://open.spotify.com/track/3SBDwo6VmwTr4oHedWgrFY) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Escape!](https://open.spotify.com/album/5eKxKnDrCOuaVyr0Vp3ld0) | 3:06 | 2026-08-14 |  |
@@ -467,6 +468,7 @@
 | [Sumama ka lang](https://open.spotify.com/track/2Jw6Yxw3yMcoWAqcpztG2l) | [Damarsian](https://open.spotify.com/artist/7mAWX7tSditTSCnoVYNVBp) | [Sumama ka lang](https://open.spotify.com/album/53K1lwl5Asu8uoRzwJrCyT) | 3:56 | 2023-06-13 | 2023-09-26 |
 | [Sumaya](https://open.spotify.com/track/2JID7g57i1AyVxX8C0fNlu) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Sumaya](https://open.spotify.com/album/6X6Fi3AhXGkxvHUoVgx7uh) | 3:12 | 2024-06-08 | 2024-08-24 |
 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 | 2022-10-12 | 2023-07-29 |
+| [Swear You Won't](https://open.spotify.com/track/7oHrB3ShmPZv3EAMrMyMzr) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [I Know Better](https://open.spotify.com/album/3PufPlebO0oM00iWMHpOPF) | 3:16 | 2026-10-09 |  |
 | [Sweater](https://open.spotify.com/track/00zym4gip0T3BaJTRYdimU) | [OZO](https://open.spotify.com/artist/2BlMyti7MTSjjlD51fHHVI) | [Sweater](https://open.spotify.com/album/6ucXmTxvLp3pJrEiOJcRfW) | 3:54 | 2026-02-13 | 2026-09-04 |
 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-08 | 2026-03-19 |
 | [SWERTE KA NA NGA](https://open.spotify.com/track/4T3CBzGcWCBXstkek0eLJ4) | [jiofü](https://open.spotify.com/artist/5lJnyJ8eWVrgjPcTLZmmGU) | [SWERTE KA NA NGA](https://open.spotify.com/album/7yUc8DpwXMwTZxsJeiPVa2) | 2:55 | 2026-02-16 | 2026-07-29 |

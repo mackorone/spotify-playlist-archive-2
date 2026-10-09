@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-496 songs - 1 day 11 hr 25 min
+497 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Cosmic Road](https://open.spotify.com/track/7KSxMGUUjuDT2iwKGE0ETa) | [Sung](https://open.spotify.com/artist/3HQQQ1jAB2mloT1MSU4evQ) | [Cosmic Road](https://open.spotify.com/album/4yxP7ZnIgQxWYAGGcq7cqK) | 3:36 | 2022-12-16 |  |
 | [Cosmic Voyage](https://open.spotify.com/track/5rZ4Y6hbo4URT781qcGlLB) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb), [Betamaxx](https://open.spotify.com/artist/3uIfha7lvdSsoFeJNJS3vJ) | [Cosmic Voyage](https://open.spotify.com/album/3nDvD4T8sB20QeF8XsFSQZ) | 4:44 | 2023-01-06 |  |
 | [Cosmos Voyage](https://open.spotify.com/track/4bct0rfT6wP0Qhj0J3MkFY) | [Notize](https://open.spotify.com/artist/7l2gykN6ATgE2ImbhwoNO2) | [Cosmos Voyage](https://open.spotify.com/album/1E9iH6OyZ6lsHwzCGtSLKz) | 4:27 | 2021-10-15 | 2022-03-22 |
+| [Countdown](https://open.spotify.com/track/6BNdtTt0KzOQUMG8W3fUT3) | [Eric Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Moonlight EP](https://open.spotify.com/album/5YvygnqRYhfF8KkbIOCc00) | 3:26 | 2026-10-09 |  |
 | [Credits Where Credit's Due](https://open.spotify.com/track/6w7JSjk9UbA9LwEHPWsoPF) | [Jetfire Prime](https://open.spotify.com/artist/7BavLKqFVEycZuveeQ9QYh) | [They Live to Feed](https://open.spotify.com/album/5FkJEAay9wQVS93Ii7DG6S) | 4:05 | 2022-02-25 | 2022-07-28 |
 | [Crepuscule](https://open.spotify.com/track/4R892ve3lkQWo6mKxsVbZN) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Alpha](https://open.spotify.com/album/5hP9xADhbxHD4TtnCKTt2W) | 4:40 | 2021-10-15 | 2022-07-29 |
 | [Crepuscule](https://open.spotify.com/track/4tjegaa9lSrtvVMq0PdiOR) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Alpha](https://open.spotify.com/album/0mXPAfu4L20ZfUPNLgXjEw) | 4:40 | 2022-07-22 | 2023-10-24 |
@@ -375,7 +376,7 @@
 | [Remoteness](https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Remoteness](https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF) | 5:44 | 2022-04-01 | 2026-05-10 |
 | [Rivage](https://open.spotify.com/track/4BUEypiJwVnKbXPRwUnhAe) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Rivage](https://open.spotify.com/album/3wq9PoE6W9J8fcW4GLqWBu) | 4:04 | 2023-01-13 | 2023-07-01 |
 | [Rivage](https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Rivage](https://open.spotify.com/album/59FX4d5jTvq06npU90Umbk) | 4:04 | 2021-10-15 | 2022-12-31 |
-| [Run Away](https://open.spotify.com/track/4cMUbSP1Ihp3W3ngjQyHzn) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Subwave](https://open.spotify.com/artist/19UDaks6aMVPdEp8qhO4T9), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb) | [Renaissance](https://open.spotify.com/album/0YsTLgX6gWgmJux1Sk97D8) | 3:17 | 2022-11-11 |  |
+| [Run Away](https://open.spotify.com/track/4cMUbSP1Ihp3W3ngjQyHzn) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Subwave](https://open.spotify.com/artist/19UDaks6aMVPdEp8qhO4T9), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb) | [Renaissance](https://open.spotify.com/album/0YsTLgX6gWgmJux1Sk97D8) | 3:17 | 2022-11-11 | 2026-10-09 |
 | [Run Away](https://open.spotify.com/track/6j9g98yKVvNorNn6qx3J8y) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Subwave](https://open.spotify.com/artist/19UDaks6aMVPdEp8qhO4T9), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb) | [Renaissance](https://open.spotify.com/album/6heyx8J1bUnbPDdcrLCp4m) | 3:17 | 2023-10-23 | 2024-04-19 |
 | [Runaway](https://open.spotify.com/track/3lS99gJJAWuxKxQfXArvvx) | [LeBrock](https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ) | [Real Thing](https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0) | 3:52 | 2022-02-25 | 2023-07-01 |
 | [Runaways](https://open.spotify.com/track/22XvOGl7eqbcQowbDIzYRk) | [The Outrunners](https://open.spotify.com/artist/5Fz12MRbf73whixgLPpSXd) | [Valerie and Friends](https://open.spotify.com/album/4mpzuBJYmwO7fzkMr43oT7) | 4:56 | 2022-04-01 | 2022-04-18 |

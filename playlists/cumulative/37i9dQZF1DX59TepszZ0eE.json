@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 655918,
       "name": "Holy Ground/ Wakwetsima - Live",
       "url": "https://open.spotify.com/track/4XxJCiK1tNsR7YxECqrsYQ"
@@ -4592,7 +4592,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 373395,
       "name": "Motho Tshaba Modimo - Live",
       "url": "https://open.spotify.com/track/19kJNYSJYOsOXc8c0BQXRf"
@@ -5134,6 +5134,28 @@
       "duration_ms": 474618,
       "name": "Ngisize ngisize Nkosi Yami",
       "url": "https://open.spotify.com/track/1EtlmAlMg6V3Cb4gklkovA"
+    },
+    {
+      "album": {
+        "name": "NGISONDELA KUWE",
+        "url": "https://open.spotify.com/album/5ZSTgvM5lbOsl3kCuVmDBg"
+      },
+      "artists": [
+        {
+          "name": "Ayanda Shange",
+          "url": "https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ"
+        },
+        {
+          "name": "Duduza Serenade",
+          "url": "https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306600,
+      "name": "NGISONDELA KUWE",
+      "url": "https://open.spotify.com/track/4zfjIB9iJC6z58zWx0JsmS"
     },
     {
       "album": {
@@ -7706,6 +7728,28 @@
         {
           "name": "Siyakha Khitha",
           "url": "https://open.spotify.com/artist/70skg68CEMDXoJG2sv6wMe"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487268,
+      "name": "Uloyiko Lwami",
+      "url": "https://open.spotify.com/track/79mI2X5OLrOdcqJMeuTIUH"
+    },
+    {
+      "album": {
+        "name": "Uloyiko Lwami",
+        "url": "https://open.spotify.com/album/2sg3JwDRtVuNg9SyREvnta"
+      },
+      "artists": [
+        {
+          "name": "Brilliant Baloyi",
+          "url": "https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA"
+        },
+        {
+          "name": "Siyakha Khitha",
+          "url": "https://open.spotify.com/artist/70skg68CEMDXoJG2sv6wMe"
         },
         {
           "name": "Vusi Nova",
@@ -9726,7 +9770,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 489308,
       "name": "Your Presence",
       "url": "https://open.spotify.com/track/7viB42X7E7Z4tNhOBEn6pr"

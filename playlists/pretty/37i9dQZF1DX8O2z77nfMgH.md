@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Clarent y Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,368 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,401 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 37 | [NO SOY IGUAL](https://open.spotify.com/track/62mzX0BTW3raGfao9D2YMd) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Lexter](https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj) | [NO SOY IGUAL](https://open.spotify.com/album/5Ur0l4EEPrBLnNFcGHIzp4) | 2:49 |
 | 38 | [BAD GOOD](https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:57 |
 | 39 | [Pornstar](https://open.spotify.com/track/0FqyrLqchgZaipnnlL7u31) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Pornstar](https://open.spotify.com/album/3Bt1hizGiTS9bwI9HYPNxf) | 2:36 |
-| 40 | [Sentimiento De Un Gangster](https://open.spotify.com/track/2DaQtwU1gZAic4QspM0Teq) | [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh), [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Blagh](https://open.spotify.com/artist/7LNIbiKKGIMlw7GjgJlR0w), [Jugo!](https://open.spotify.com/artist/5ZYhIxjmzSDGqD2kAXf22j), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Sentimiento De Un Gangster](https://open.spotify.com/album/1NBJ647hO6LAxkp74KiM64) | 4:13 |
+| 40 | [Sentimiento De Un Gangster](https://open.spotify.com/track/2DaQtwU1gZAic4QspM0Teq) | [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh), [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Blagh](https://open.spotify.com/artist/7LNIbiKKGIMlw7GjgJlR0w), [JuicyNise](https://open.spotify.com/artist/0MSw8gYA4pujLZst10Zve8), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Sentimiento De Un Gangster](https://open.spotify.com/album/1NBJ647hO6LAxkp74KiM64) | 4:13 |
 | 41 | [Dumb Boy \(ojo de loca\)](https://open.spotify.com/track/4TKBvVu4tHy7kX9ewht29n) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Dumb Boy \(ojo de loca\)](https://open.spotify.com/album/4ABG1RkhspmJGHDPEFSQ4I) | 3:04 |
 | 42 | [Palomitas en la muela](https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Palomitas en la muela](https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE) | 2:53 |
 | 43 | [Pequeño](https://open.spotify.com/track/5bF5ebY7hhm7VoNo5Q3kzF) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Pequeño](https://open.spotify.com/album/18PBKsn7BL2Tsxo6ODiIk5) | 3:30 |

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-813 songs - 1 day 14 hr 57 min
+814 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [Money And My Miss](https://open.spotify.com/track/4wA3AbpjIzXdz3UHUm6EIe) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:35 | 2025-09-26 | 2025-10-14 |
 | [Money Money](https://open.spotify.com/track/2ZTYkrB6rv8M7tLMkbAxss) | [Savvy Sandhu](https://open.spotify.com/artist/7JNNQOhXwS5i8ENCGLBUgo), [Wakeupparth](https://open.spotify.com/artist/279IKZpSmqxIYR3D46yWH1), [Shayar Sadeek](https://open.spotify.com/artist/5PXWL5af5akPTliQapoiz3) | [Money Money](https://open.spotify.com/album/2C5E2O8wMNJV4BqpLSbsJy) | 2:00 | 2025-03-19 | 2025-03-28 |
 | [Mood](https://open.spotify.com/track/45DhouHXEV4vLcatvoW9qK) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Mood](https://open.spotify.com/album/1YG4HJc27GqLQ9MAxhNiEh) | 2:25 | 2023-10-06 | 2023-10-26 |
+| [Morse Code](https://open.spotify.com/track/6TKU4KSoWn9VO0s4kVU8Pp) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [Xyz](https://open.spotify.com/album/7re8biApDmCZwoq3sD4YqQ) | 2:50 | 2026-10-08 |  |
 | [Mosh Pit](https://open.spotify.com/track/7nxnkCT2RTeXVJoV02sPGs) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [KRN Walia](https://open.spotify.com/artist/0Kpuu2pLaloYjY44rYA1kA) | [RUDE](https://open.spotify.com/album/1L5ZTnnD8PwMEw6xWka186) | 2:27 | 2023-08-25 | 2023-09-12 |
 | [Muchh \(From "Yaaran Da Rutbaa"\)](https://open.spotify.com/track/46BRhYVMvVdqVCnkMxsZvM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k) | [Muchh \(From "Yaaran Da Rutbaa"\)](https://open.spotify.com/album/3Ld0wlvOJnsMD2KBdJSSVq) | 2:28 | 2023-04-20 | 2024-01-12 |
 | [Mumble](https://open.spotify.com/track/54hKX4l7Ul9onSHbqjvDHv) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Mumble](https://open.spotify.com/album/30h7pg2eJvOUeqx5B6fRno) | 3:03 | 2023-06-08 | 2024-08-10 |
@@ -543,7 +544,7 @@
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-29 | 2024-06-19 |
 | [No Safety](https://open.spotify.com/track/20UbVolWK6m0Z0ombwnJuv) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [No Safety](https://open.spotify.com/album/3e1Hy7oriakodVpnsQHOCW) | 1:58 | 2023-08-11 | 2024-03-12 |
 | [No Warning](https://open.spotify.com/track/0IpjYI6B7fQ8pHf7DehETC) | [Kotti](https://open.spotify.com/artist/6zEVcCS0Y87Yrv2Pxjzcps), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [No Warning](https://open.spotify.com/album/4m9NB3gZg9fIswBJ1Iraov) | 2:05 | 2026-03-13 |  |
-| [No Way \- Extended Version](https://open.spotify.com/track/2N35IxjJoPcnHob5VuIyuf) | [The Bhamrah](https://open.spotify.com/artist/3sbwJ1C6i8P0yPFHPE6sYm), [Raporrate](https://open.spotify.com/artist/3p1bm0rPTPMNrZX2aV81Rd) | [No Way \- Extended Version](https://open.spotify.com/album/2Q74p9D1KY07ImM5zFl9NU) | 2:23 | 2026-09-10 |  |
+| [No Way \- Extended Version](https://open.spotify.com/track/2N35IxjJoPcnHob5VuIyuf) | [The Bhamrah](https://open.spotify.com/artist/3sbwJ1C6i8P0yPFHPE6sYm), [Raporrate](https://open.spotify.com/artist/3p1bm0rPTPMNrZX2aV81Rd) | [No Way \- Extended Version](https://open.spotify.com/album/2Q74p9D1KY07ImM5zFl9NU) | 2:23 | 2026-09-10 | 2026-10-09 |
 | [No Way Back](https://open.spotify.com/track/6OA60KrsBqTBUS1uk4kVwo) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Yaari Ghumaan](https://open.spotify.com/artist/7IStg4VLfRCVMMIL5RgToK) | [Versatile](https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V) | 2:34 | 2023-04-14 | 2023-04-21 |
 | [Nobody Knows](https://open.spotify.com/track/4ymJPdUwuzdlOSZgEIpoWq) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Nobody Knows](https://open.spotify.com/album/3CqHboq7IB4Brebg1azznk) | 4:36 | 2023-07-14 | 2025-04-11 |
 | [Non Stop](https://open.spotify.com/track/6M8xk0zbXFbAkLwfVyN7T3) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Non Stop](https://open.spotify.com/album/3vpikp9NDP0lnWM15cc51b) | 3:15 | 2025-08-04 | 2025-09-24 |

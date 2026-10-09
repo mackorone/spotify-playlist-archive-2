@@ -1,6 +1,6 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: ARJN, KDS, FIFTY4, Shreya Ghoshal",
-  "num_followers": 740150,
+  "num_followers": 740407,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
@@ -848,12 +848,12 @@
       },
       "artists": [
         {
-          "name": "Vaikom Vijayalakshmi",
-          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
-        },
-        {
           "name": "Jay Stellar",
           "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        },
+        {
+          "name": "Vaikom Vijayalakshmi",
+          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
         }
       ],
       "duration_ms": 234958,

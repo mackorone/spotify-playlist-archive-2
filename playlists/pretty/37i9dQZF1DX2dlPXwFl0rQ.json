@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Mariana Soane y Majo Aguilar en portada \ud83d\udd25",
-  "num_followers": 11729,
+  "num_followers": 11750,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
+        "name": "Tu Orgullo",
+        "url": "https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 212757,
+      "name": "Tu Orgullo",
+      "url": "https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK"
+    },
+    {
+      "added_at": "2026-08-28 06:00:15",
+      "album": {
         "name": "somos peligro",
         "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 179569,
       "name": "somos peligro",
       "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
-    },
-    {
-      "added_at": "2026-08-28 06:00:15",
-      "album": {
-        "name": "Tu Orgullo",
-        "url": "https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 212757,
-      "name": "Tu Orgullo",
-      "url": "https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
+        "name": "LA PENSI\u00d3N",
+        "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
+      },
+      "artists": [
+        {
+          "name": "Mariana Ochoa",
+          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
+        }
+      ],
+      "duration_ms": 162429,
+      "name": "LA PENSI\u00d3N",
+      "url": "https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI"
+    },
+    {
+      "added_at": "2026-08-28 06:00:15",
+      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 195851,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf"
-    },
-    {
-      "added_at": "2026-08-28 06:00:15",
-      "album": {
-        "name": "LA PENSI\u00d3N",
-        "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Ochoa",
-          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
-        }
-      ],
-      "duration_ms": 162429,
-      "name": "LA PENSI\u00d3N",
-      "url": "https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "Herencias De Mi Madre (Volumen 2)",
-        "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez Hija",
-          "url": "https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa"
-        }
-      ],
-      "duration_ms": 138931,
-      "name": "La Silla Vac\u00eda",
-      "url": "https://open.spotify.com/track/7yjox784bDOYEVTKddDPwg"
-    },
-    {
-      "added_at": "2026-08-28 06:00:15",
-      "album": {
         "name": "Mi Problema",
         "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 183106,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
+    },
+    {
+      "added_at": "2026-08-28 06:00:15",
+      "album": {
+        "name": "Herencias De Mi Madre (Volumen 2)",
+        "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez Hija",
+          "url": "https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa"
+        }
+      ],
+      "duration_ms": 138931,
+      "name": "La Silla Vac\u00eda",
+      "url": "https://open.spotify.com/track/7yjox784bDOYEVTKddDPwg"
     },
     {
       "added_at": "2026-08-28 06:00:15",

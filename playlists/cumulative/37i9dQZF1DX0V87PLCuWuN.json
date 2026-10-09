@@ -491,6 +491,36 @@
     },
     {
       "album": {
+        "name": "Amour",
+        "url": "https://open.spotify.com/album/3Cg1pz0u8H0iXoIkC5Jg5u"
+      },
+      "artists": [
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Irene Delgado-Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5KKt9lmn8yY9NX2jiSecr9"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247962,
+      "name": "Coup de foudre",
+      "url": "https://open.spotify.com/track/4vduFfEaYoliRwdpDY4dss"
+    },
+    {
+      "album": {
         "name": "Gypsic",
         "url": "https://open.spotify.com/album/3aRv9E3W3MGX525P21SwbR"
       },
@@ -1524,6 +1554,28 @@
       "duration_ms": 700493,
       "name": "Prokofiev: Piano Concerto No. 2 in G Minor, Op. 16: I. Andantino - Allegretto",
       "url": "https://open.spotify.com/track/4wjX6GndkUnfGbcUK8neWV"
+    },
+    {
+      "album": {
+        "name": "Pr\u00e4ludium, Aria and Fuge: II. Andante",
+        "url": "https://open.spotify.com/album/4QLgd99MVrzPWuJrQ2hmMP"
+      },
+      "artists": [
+        {
+          "name": "Paul M\u00fcller-Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/7JFRQgvAV6TByayL6MKivl"
+        },
+        {
+          "name": "Duo Yakovlev",
+          "url": "https://open.spotify.com/artist/6G5RWrwkDW8FgSeFTBAL0Y"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143920,
+      "name": "Pr\u00e4ludium, Aria and Fuge: II. Andante",
+      "url": "https://open.spotify.com/track/2YBIZstqGMBuuXTAoGNum0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: BKTHERULA
 
-1,585 songs - 3 day 2 hr 35 min
+1,586 songs - 3 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,7 +965,7 @@
 | [Never Freestyle](https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Never Freestyle](https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH) | 4:26 | 2022-06-24 | 2023-02-11 |
 | [New Black History \(feat\. Vince Staples\)](https://open.spotify.com/track/4HzV6IvuKEuKdh5O60v52u) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:16 | 2024-08-02 | 2024-08-10 |
 | [New Choppa](https://open.spotify.com/track/0qgq1PSmNYEq4KK17DbjVP) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV) | [New Choppa](https://open.spotify.com/album/3Bl9X9YpL7MkESEiLufutJ) | 1:42 | 2024-07-19 | 2024-08-03 |
-| [New Devils](https://open.spotify.com/track/6UvkrVb7aEuCPaQMyZXaj8) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [New Devils](https://open.spotify.com/album/236W1QHc6sPPAP1S8iARkE) | 3:39 | 2026-09-25 |  |
+| [New Devils](https://open.spotify.com/track/6UvkrVb7aEuCPaQMyZXaj8) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [New Devils](https://open.spotify.com/album/236W1QHc6sPPAP1S8iARkE) | 3:39 | 2026-09-25 | 2026-10-09 |
 | [New Ebonics](https://open.spotify.com/track/0e9Efw1iRH3q9SNaKcdDFG) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [New Ebonics](https://open.spotify.com/album/2ZRDs5161FP2nvMMwsG62P) | 2:51 | 2026-05-29 |  |
 | [New Flower! \(feat\. Leon Thomas\)](https://open.spotify.com/track/3q8mXT1racKde1h8zHY1ko) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 3:28 | 2025-05-16 | 2025-09-13 |
 | [NEW SHOES](https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [TM](https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA) | 3:18 | 2022-12-02 | 2023-06-17 |
@@ -1443,6 +1443,7 @@
 | [TRUTH \(feat\. Sam Truth and redveil\)](https://open.spotify.com/track/3hQrIF803GxbmRcWFJr7lc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [TRUTH \(feat\. Sam Truth and redveil\)](https://open.spotify.com/album/169yl4T0ip7hzkC4e51iHp) | 3:10 | 2021-09-03 | 2022-06-13 |
 | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/track/2XlaX5NF4ux2QgADVeYfU5) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/album/4TJnMKR81EbrOExdDsQo6I) | 2:33 | 2026-08-21 | 2026-09-05 |
 | [Tuk\-Tuk](https://open.spotify.com/track/0dxGlilXDBOK8UGQfgQq1d) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 2:36 | 2024-06-07 | 2024-10-26 |
+| [Tulsa, OK](https://open.spotify.com/track/4lyK8sT0dLpxSBv14wtVet) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Tulsa, OK](https://open.spotify.com/album/6X5KWLkivJQ7F89na1AoQC) | 3:01 | 2026-10-09 |  |
 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 | 2023-04-28 | 2023-07-15 |
 | [Turn It Up](https://open.spotify.com/track/1EtOaxATYj7RVYUJyaTS5d) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [Turn It Up](https://open.spotify.com/album/2z8hz5tjxXR3TrmVBD6mBw) | 2:33 | 2026-03-20 | 2026-06-20 |
 | [TURNIN' HEADS](https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TURNIN' HEADS](https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50) | 2:56 | 2023-03-24 | 2023-12-16 |

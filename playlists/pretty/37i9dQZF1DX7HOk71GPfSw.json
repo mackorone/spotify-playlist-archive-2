@@ -1,13 +1,45 @@
 {
   "description": "giddy up  \ud80c\udcd7\ud80c\udcd7\ud80c\udcd7\ud80c\udcd7\ud80c\udcd7",
-  "num_followers": 524482,
+  "num_followers": 524569,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFJyQaQZDs1J/8pTHzNGyH14YokW",
+  "snapshot_id": "AAAAAIbvFR9CyjxNpaVfVBQnbW25xJTv",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:02:01",
+      "album": {
+        "name": "CINNA",
+        "url": "https://open.spotify.com/album/4zPfDnzz6TWxxhITxpoYBf"
+      },
+      "artists": [
+        {
+          "name": "Cannelle",
+          "url": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Dis-Moi",
+      "url": "https://open.spotify.com/track/5GgRZOMxH4Uly3nZa3BPWA"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "AFTER THE AFTERS",
+        "url": "https://open.spotify.com/album/2ieA7vFE29EVe1re91ZqTn"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 129343,
+      "name": "BITCH, I KNOW",
+      "url": "https://open.spotify.com/track/0Oi7yCNUF7meXnoOzIA7ds"
+    },
     {
       "added_at": "2026-10-02 04:02:13",
       "album": {
@@ -27,38 +59,6 @@
       "duration_ms": 226014,
       "name": "c*ntry girl rock",
       "url": "https://open.spotify.com/track/3SwB3iCazOqulClBTo6RsA"
-    },
-    {
-      "added_at": "2026-07-03 04:02:01",
-      "album": {
-        "name": "CINNA",
-        "url": "https://open.spotify.com/album/4zPfDnzz6TWxxhITxpoYBf"
-      },
-      "artists": [
-        {
-          "name": "Cannelle",
-          "url": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Dis-Moi",
-      "url": "https://open.spotify.com/track/5GgRZOMxH4Uly3nZa3BPWA"
-    },
-    {
-      "added_at": "2026-09-25 04:01:59",
-      "album": {
-        "name": "2 GIRLS",
-        "url": "https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X"
-      },
-      "artists": [
-        {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
-        }
-      ],
-      "duration_ms": 129206,
-      "name": "2 GIRLS",
-      "url": "https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60"
     },
     {
       "added_at": "2026-09-04 04:01:50",
@@ -147,6 +147,22 @@
       "duration_ms": 182368,
       "name": "CONSTANTLY",
       "url": "https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY"
+    },
+    {
+      "added_at": "2026-09-25 04:01:59",
+      "album": {
+        "name": "2 GIRLS",
+        "url": "https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 129206,
+      "name": "2 GIRLS",
+      "url": "https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60"
     },
     {
       "added_at": "2026-08-07 04:02:03",
@@ -859,22 +875,6 @@
       "duration_ms": 106331,
       "name": "Lovesick Psycho",
       "url": "https://open.spotify.com/track/0lrn6suDeipHPwcyFIdVHw"
-    },
-    {
-      "added_at": "2026-09-04 04:01:50",
-      "album": {
-        "name": "BLOND",
-        "url": "https://open.spotify.com/album/43dn4ZDgTMhJyqvZ5PEmBE"
-      },
-      "artists": [
-        {
-          "name": "jalda",
-          "url": "https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa"
-        }
-      ],
-      "duration_ms": 174727,
-      "name": "ANIME MIG",
-      "url": "https://open.spotify.com/track/4S0Mt82rOxuDMNDfvfZzet"
     },
     {
       "added_at": "2026-08-14 04:02:27",

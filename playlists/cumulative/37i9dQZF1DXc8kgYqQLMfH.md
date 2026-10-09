@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,346 songs - 2 day 3 hr 29 min
+1,347 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Bliss](https://open.spotify.com/track/0XmnlDKrzvIXoOsp8YwWbY) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Bliss](https://open.spotify.com/album/2nC5R4NmZBOwXZivGLLIDD) | 3:15 | 2023-02-07 | 2023-10-23 |
 | [blossom](https://open.spotify.com/track/4Hv7TnBfBCzSCbqH0k4RhE) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [blossom](https://open.spotify.com/album/1qKGMnxUe2kVwG096pTR7U) | 2:17 | 2023-12-15 | 2024-05-14 |
 | [Blossom's Day](https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL) | [Perspolis](https://open.spotify.com/artist/6M0KZSevYJX27uqBGw3Ae9) | [Blossom's Day](https://open.spotify.com/album/4cYgeynqELpDFRPxaiWhwh) | 1:41 | 2022-10-07 | 2025-07-16 |
+| [blue](https://open.spotify.com/track/4p9isEOrb1yAvhAcy78Axb) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [blue](https://open.spotify.com/album/45SeGCGt34dvINrNWMCpeT) | 1:56 | 2026-10-09 |  |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 | 2025-07-16 |
 | [Blue Fraction](https://open.spotify.com/track/3V5oF645lO6vFmOjwfXalX) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blue Fraction](https://open.spotify.com/album/3kzLYlY7ByzGe90WcKCjXy) | 3:02 | 2022-10-28 | 2023-10-06 |
 | [blue jacket](https://open.spotify.com/track/7AaALYPKTkyXODP4YU72Jq) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [blue jacket](https://open.spotify.com/album/771iUXmzwZbihDdCWUmIV9) | 2:09 | 2021-11-10 | 2022-05-27 |
@@ -445,7 +446,7 @@
 | [Forgotten Notes](https://open.spotify.com/track/7s9D30tidyLGaPCRMnTPCs) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Forgotten Notes](https://open.spotify.com/album/6vGfj5wUI07Va1Nh3uO3zd) | 2:18 | 2022-10-01 | 2025-07-16 |
 | [Forgotten Photos](https://open.spotify.com/track/4hvCO4S2yEoIKV30nS7Fhz) | [patient wave](https://open.spotify.com/artist/2A5Rk0otLWV24A4IswyhTf), [Colens](https://open.spotify.com/artist/4l1PTmvLhCof1Px22Ph189) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:27 | 2022-12-16 | 2023-10-13 |
 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 | 2021-11-10 | 2025-07-16 |
-| [Found in a Drawer](https://open.spotify.com/track/1S96iKh5czTmhnEQ5p9fbi) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Found in a Drawer](https://open.spotify.com/album/0xsomjPiwZ1qCWxGiAjOit) | 2:44 | 2026-09-25 |  |
+| [Found in a Drawer](https://open.spotify.com/track/1S96iKh5czTmhnEQ5p9fbi) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Found in a Drawer](https://open.spotify.com/album/0xsomjPiwZ1qCWxGiAjOit) | 2:44 | 2026-09-25 | 2026-10-09 |
 | [Free](https://open.spotify.com/track/2oClB1VZuMWLc84FT3tcWS) | [MagicCarpet](https://open.spotify.com/artist/20GTeaSXQRZspkO26Aq08R) | [Free](https://open.spotify.com/album/7dCa4BkUGKW6GMRVgik5de) | 2:25 | 2023-07-13 | 2025-07-16 |
 | [free bloom](https://open.spotify.com/track/55rlnrbVIFVijNiVqVl3XP) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [free bloom](https://open.spotify.com/album/4CyuTfpanYaZSMp5HmsLfe) | 2:46 | 2024-02-26 | 2025-07-16 |
 | [free ride](https://open.spotify.com/track/1ocT9fovQjIS7rMsvDrkqw) | [kid.](https://open.spotify.com/artist/1ndPfZm8zHSlyrJs3itOSP) | [free ride](https://open.spotify.com/album/0ymYpgZXa2a2m8fCzl7YQT) | 1:36 | 2022-12-23 | 2025-07-16 |
@@ -720,7 +721,7 @@
 | [mariposas](https://open.spotify.com/track/2OEiGdcYERflPWGTau38WC) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [sunday mornings](https://open.spotify.com/album/1kd235cgVh0bdUEsx2wDlB) | 2:24 | 2021-11-10 | 2022-10-01 |
 | [Markwood](https://open.spotify.com/track/1IlgyO5jzXby1OYeEl8lL1) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Markwood](https://open.spotify.com/album/1WUZxQa3ZqMrA1ifSOwr13) | 3:12 | 2024-05-13 | 2024-07-19 |
 | [Massiv](https://open.spotify.com/track/4v7qUBLz0u5AnSRRcRyNyD) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Knowh3r3](https://open.spotify.com/artist/0NlaY8zuh9hjpOPSRL3yOG) | [Massiv](https://open.spotify.com/album/1zYbe3XZCBebHnDtZ5FPEt) | 2:03 | 2023-04-03 | 2026-05-30 |
-| [may sound trite](https://open.spotify.com/track/4wsbqaw2jgPhBqz8k4qwMN) | [Mist Ant](https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC) | [may sound trite](https://open.spotify.com/album/5DtCPHFvrZROaU2KDGh62u) | 2:21 | 2026-07-17 |  |
+| [may sound trite](https://open.spotify.com/track/4wsbqaw2jgPhBqz8k4qwMN) | [Mist Ant](https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC) | [may sound trite](https://open.spotify.com/album/5DtCPHFvrZROaU2KDGh62u) | 2:21 | 2026-07-17 | 2026-10-09 |
 | [Maypop](https://open.spotify.com/track/2Qv56D7vDQr1p2mjIivW2o) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Maypop](https://open.spotify.com/album/7IgT3NALeMrMkHPMHaayra) | 2:13 | 2022-10-01 | 2023-10-06 |
 | [Meanwhile](https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [Meanwhile](https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf) | 2:22 | 2023-02-17 |  |
 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 | 2022-02-18 | 2025-07-16 |
@@ -1104,7 +1105,7 @@
 | [stargaze](https://open.spotify.com/track/3xGDY3oMBtqaTCx7rnbk3j) | [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [stargaze](https://open.spotify.com/album/1ctl658ESeKJCvVVRSpPPO) | 2:07 | 2022-05-20 | 2023-05-20 |
 | [Stargazing](https://open.spotify.com/track/6E5hM1qsPCHVzzgRF2uusg) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30), [lo\-fido](https://open.spotify.com/artist/08pbX4XuBFQiAmsmRgiKpX) | [Stargazing](https://open.spotify.com/album/0FAux44yqekXpHPe4Rrtc8) | 1:43 | 2022-10-28 | 2023-09-26 |
 | [Stargazing](https://open.spotify.com/track/0s390f6S79p4Pr7HsledAB) | [Theo Aabel](https://open.spotify.com/artist/6yxMxVw1MRLoB9EJWO5XVe), [møndberg](https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2) | [Sunset Sailors](https://open.spotify.com/album/1Yk1MptY6avT67ojUWXKxT) | 2:17 | 2022-10-28 | 2023-10-06 |
-| [Staring Out The Window](https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Staring Out The Window](https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR) | 2:18 | 2022-08-12 | 2026-10-05 |
+| [Staring Out The Window](https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Staring Out The Window](https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR) | 2:18 | 2022-08-12 |  |
 | [Starless II \- Spotify Singles](https://open.spotify.com/track/139uZo8dlYHgVyMYN6bSXA) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 2:51 | 2022-05-04 | 2023-04-28 |
 | [Starlight Kiss](https://open.spotify.com/track/0G4kfyzE1PeSrhsO1fkXaG) | [with me, with you](https://open.spotify.com/artist/2GC5oaz2d1LibdZPNoJgJF), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Starlight Kiss](https://open.spotify.com/album/6LuIcaIUCKT2J4V0Uefyab) | 1:40 | 2022-09-23 | 2023-10-06 |
 | [Static Glow](https://open.spotify.com/track/0mrCVnofqXODFXTcFO2InR) | [driftø blues](https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E) | [Static Glow](https://open.spotify.com/album/0rqKvqEQjKN49VHMtdu1h6) | 1:57 | 2026-02-06 | 2026-05-23 |

@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-340 songs - 18 hr 29 min
+343 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/63kM4CbosJ70v25kZv19xc) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Anti\-Hero](https://open.spotify.com/album/3KwmgUnyK4ogjXVM5tF5GG) | 3:19 | 2022-11-18 | 2022-11-26 |
 | [APT.](https://open.spotify.com/track/3KZIILHAFvMmIlIAaQmivr) | [Cyrus Holloway](https://open.spotify.com/artist/15imgSvNwI0COJ9tIz0f7b) | [APT.](https://open.spotify.com/album/7m59X1CTOcBMwp85q0fpmN) | 3:35 | 2025-06-10 |  |
 | [As It Was](https://open.spotify.com/track/6BtLaWYYnxcObhjdGqpuNi) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [As It Was](https://open.spotify.com/album/4Xq8MuUowgvQq7jbKkirEk) | 3:09 | 2024-11-19 |  |
+| [As It Was](https://open.spotify.com/track/3mCf3cd8VF2RoyXaZiw8Uy) | [Hugo Mirewood](https://open.spotify.com/artist/0HVcHke34BNdHsYBTx6MlN) | [As It Was](https://open.spotify.com/album/2C52upTW6glBKYESix1crD) | 2:36 | 2026-10-09 |  |
 | [As It Was \(arr\. string quartet\)](https://open.spotify.com/track/4HE4FZmT05tZuN9NlBeE4f) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [As It Was \(arr\. string quartet\)](https://open.spotify.com/album/4ZDNoOtzzPTMOpJlw14Bb3) | 3:51 | 2023-07-28 | 2025-03-29 |
 | [As Long As You Love Me](https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Baby One More Time](https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv) | 3:54 | 2023-02-21 |  |
 | [Bad Guy](https://open.spotify.com/track/0kQvjf9Fjxw8WYTycCaqke) | [Elias Vondrel](https://open.spotify.com/artist/7CScgz7clKsQIR0K85fgWc) | [Bad Guy](https://open.spotify.com/album/5d0gGP14gTqjaj8nDYaO7B) | 2:56 | 2025-07-16 |  |
@@ -61,12 +62,14 @@
 | [Ceilings \(arr\. piano\)](https://open.spotify.com/track/4APasGM4QM39lYXiUZVD7A) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Ceilings \(arr\. piano\)](https://open.spotify.com/album/25q58qrmESNApR2aVHSc5I) | 2:28 | 2023-06-20 | 2023-09-23 |
 | [Cemeteries of London](https://open.spotify.com/track/3VYqUFO5rtWrcQe9XxW4OJ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Coldplay's Viva La Vida](https://open.spotify.com/album/6QIK648ES8MNvYpqZF8Zy3) | 3:08 | 2022-11-18 | 2022-11-26 |
 | [Champagne Problems \(Piano\)](https://open.spotify.com/track/1EcUxSH2iodoXp3T3x07Hi) | [Cabin Nocturnes](https://open.spotify.com/artist/2Xo1T8cEKLH7OOG2lNC8ZJ) | [Champagne Problems \(Piano\)](https://open.spotify.com/album/7bXzb44pvBNGsvCQWeaRJd) | 3:12 | 2025-11-05 |  |
+| [Chandelier](https://open.spotify.com/track/3uCM88KBX3ZO37khZJn4uj) | [Amanda Live](https://open.spotify.com/artist/7rD0OynywRBT9LteZWgd9p) | [Chandelier](https://open.spotify.com/album/75wtHEv0hBo7dzEkDwegtH) | 2:22 | 2026-10-09 |  |
 | [Cherry Blossom Girl](https://open.spotify.com/track/5kJ5KtrdAkYeRi2ObZ4ecZ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Beaucoup de VSQ](https://open.spotify.com/album/5XoLTlMq0WJ1eykXG6kQTn) | 3:54 | 2022-11-18 | 2022-11-26 |
 | [Christmas Tree Farm](https://open.spotify.com/track/1ROhfJh9EDvt77VXHoCCfH) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Christmas Tree Farm](https://open.spotify.com/album/2M9ZtQ3aTk9jAkpdXHWY09) | 2:08 | 2024-11-26 | 2025-01-08 |
 | [Circles](https://open.spotify.com/track/1ftNzNvPPIxdo3QDfq8h2A) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2019, Vol\. 2](https://open.spotify.com/album/2ZCnNqYX39bthmtd2I9IKB) | 3:32 | 2022-11-18 | 2022-11-26 |
 | [Clocks \- Coldplay](https://open.spotify.com/track/2Pv2aeT9K8EH0b0HgCJxDv) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [A Night In Strings](https://open.spotify.com/album/3duk4PVA7r012ysSojmnXv) | 5:14 | 2021-11-25 | 2024-04-19 |
 | [Clown](https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Clown](https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo) | 3:47 | 2023-01-30 |  |
 | [Colors Of The Wind](https://open.spotify.com/track/6bQ5Bvcmykkj5ONuk6FWyt) | [Alessandra Palade](https://open.spotify.com/artist/3RLM2ofq28IJVrNveeIkb3) | [Colors Of The Wind](https://open.spotify.com/album/4NeduIspIgT4GpZjAJeF3O) | 3:18 | 2023-02-28 |  |
+| [Creep](https://open.spotify.com/track/47J0Q7M8YIi3rSZ01x4VbD) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Creep](https://open.spotify.com/album/3eJ2aydzkg7nWHUPzZTQmE) | 3:07 | 2026-10-09 |  |
 | [Cruel Summer \(arr\. piano\)](https://open.spotify.com/track/0sI0B9QXE5niX3mneduYhe) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Cruel Summer \(arr\. piano\)](https://open.spotify.com/album/0Sbm8z1AV9cR6weWaxThHr) | 2:43 | 2023-09-01 |  |
 | [DAISIES](https://open.spotify.com/track/78gBortJAXO34xQ6iW2UF3) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [DAISIES](https://open.spotify.com/album/4sAnm2to4fpDhxaItEum6C) | 2:13 | 2025-11-05 |  |
 | [Dance Monkey](https://open.spotify.com/track/2yKwUvawwvock24y5EAl4g) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Dance Monkey](https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44) | 2:52 | 2021-11-25 | 2023-02-15 |

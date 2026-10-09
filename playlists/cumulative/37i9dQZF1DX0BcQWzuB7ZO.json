@@ -4659,6 +4659,28 @@
     },
     {
       "album": {
+        "name": "HOLD DA PHONE",
+        "url": "https://open.spotify.com/album/6zGGxrZeYbEk5Z6jRMtaPp"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203222,
+      "name": "HOLD DA PHONE",
+      "url": "https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY"
+    },
+    {
+      "album": {
         "name": "Home Alone (with Marnik)",
         "url": "https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc"
       },
@@ -10138,7 +10160,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-09",
       "duration_ms": 124864,
       "name": "tell you straight",
       "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"

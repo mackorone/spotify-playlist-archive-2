@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-890 songs - 1 day 14 hr 38 min
+891 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Quietus](https://open.spotify.com/track/17HzV5DJPNNDMeQXEjBbT6) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Quietus](https://open.spotify.com/album/4mUwh0o7CJEHxXBSpQZCYf) | 3:10 | 2022-10-28 | 2023-03-10 |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-02-24 | 2024-12-11 |
 | [Rainmaker](https://open.spotify.com/track/5asJLV0COedoeSPKAkiH7y) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Rainmaker](https://open.spotify.com/album/0Ww1YwBaiSEIpFmjeSbPg0) | 2:21 | 2021-12-08 | 2022-04-06 |
+| [Rains](https://open.spotify.com/track/7KAIxYOSxrWKBeO9IqwOVA) | [Vatn](https://open.spotify.com/artist/38RpFJzmNYQjdvFv5gvdOR) | [Rains](https://open.spotify.com/album/1NSQcnM9FYZD0iqC5Scmpr) | 2:37 | 2026-10-09 |  |
 | [Readers](https://open.spotify.com/track/4iN6427kzmNUcQWOd3cCNb) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/5ujmkxgqwwHvHZ78oeD9AP) | 3:01 | 2021-12-08 | 2022-07-29 |
 | [Readers](https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43) | 3:01 | 2022-07-29 | 2022-09-03 |
 | [Really Great To Be Here](https://open.spotify.com/track/1A4WdvncZhXXSYJooxgWYJ) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Really Great To Be Here](https://open.spotify.com/album/3manuOh0CJ7u1aMcEkovjI) | 3:10 | 2023-02-24 | 2023-10-13 |

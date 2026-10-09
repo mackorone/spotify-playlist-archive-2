@@ -6,7 +6,7 @@
     "name": "SONGBIRD-CN",
     "url": "https://open.spotify.com/user/megustager"
   },
-  "snapshot_id": "AAACiSS7fAgZFDLg4zYWIRl3NYeUw/o2",
+  "snapshot_id": "AAACijivS+bD87kP8NA8OW9UXX78aLdA",
   "tracks": [
     {
       "added_at": "2019-01-29 19:29:28",
@@ -9639,6 +9639,26 @@
       "duration_ms": 190874,
       "name": "High Forever",
       "url": "https://open.spotify.com/track/6wzgc8uhfC6riYUzhpXMXs"
+    },
+    {
+      "added_at": "2026-10-08 19:28:43",
+      "album": {
+        "name": "Azathoth",
+        "url": "https://open.spotify.com/album/1D9TtWXNGvauYsEi25VxEK"
+      },
+      "artists": [
+        {
+          "name": "USAO",
+          "url": "https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI"
+        },
+        {
+          "name": "Yuta Imai",
+          "url": "https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k"
+        }
+      ],
+      "duration_ms": 150935,
+      "name": "Azathoth",
+      "url": "https://open.spotify.com/track/1cOpsSPDqCyCltxOlDMovt"
     }
   ],
   "unique_name": "Japanese Hardstyle/Hardcore | J-Core | WeebCore |",

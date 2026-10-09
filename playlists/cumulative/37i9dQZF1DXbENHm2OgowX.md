@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-237 songs - 17 hr 18 min
+238 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [As I Came Through the Desert Thus It Was](https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Permanently Midnight](https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b) | 5:15 | 2022-11-09 | 2025-02-10 |
 | [Asleep at the Wheel](https://open.spotify.com/track/4TgK5rhGwoKbqkLgdtC6IA) | [Alexander Carson](https://open.spotify.com/artist/60FenJLDBQ18RLeUXVtTOb) | [The Idiot](https://open.spotify.com/album/3FdVZ4nJWJnQVuSgzhAApZ) | 3:57 | 2023-01-09 | 2025-07-23 |
 | [Asleep On The Wing \- Pt\. 4](https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Freya Goldmark](https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1) | [Asleep On The Wing](https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k) | 3:40 | 2025-06-05 |  |
+| [At Night](https://open.spotify.com/track/62NiG0RlA82SmdFFfx62uo) | [Eonfade](https://open.spotify.com/artist/1sGUUo98GyCXdstHIujOw1) | [At Night](https://open.spotify.com/album/2YRqfke64aQbk1jibcIXGK) | 2:12 | 2026-09-23 |  |
 | [Ataraxia](https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [You Are Here / Ataraxia](https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ) | 3:19 | 2023-01-09 |  |
 | [Bardo Landscape](https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape](https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f) | 3:23 | 2022-03-18 |  |
 | [Bathed in Grey](https://open.spotify.com/track/4IOy9rSBZa8UJJ9Wz2ipGa) | [Michael FK](https://open.spotify.com/artist/4Ppqyb0QJec1QNtK0VuuA3) | [Bathed in Grey](https://open.spotify.com/album/4uOcT4LvlBiK9GaETWiv8H) | 4:13 | 2026-05-15 | 2026-06-13 |
@@ -44,7 +45,7 @@
 | [Caelum, No\. I](https://open.spotify.com/track/0zO571dyb03qEZNzFeqwXG) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Caelum \(Excerpts\)](https://open.spotify.com/album/5pSaANL2BvibUYoIJ8byQb) | 5:36 | 2025-02-27 |  |
 | [Calm Current](https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE) | [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Calm Current](https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR) | 2:57 | 2026-02-27 | 2026-09-24 |
 | [Canneto](https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa), [G.U.P\. Alcaro](https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ) | [Canneto](https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N) | 1:54 | 2025-06-05 | 2026-10-08 |
-| [Cenizas](https://open.spotify.com/track/2pEcP8gvx0G1aA3NmNbwlJ) | [Solkaida](https://open.spotify.com/artist/3WOXZTYEJlLiwBxsoFl2EH) | [Renacer](https://open.spotify.com/album/66hWGmiZJlOcp5VUrSs07L) | 3:11 | 2023-01-09 |  |
+| [Cenizas](https://open.spotify.com/track/2pEcP8gvx0G1aA3NmNbwlJ) | [Solkaida](https://open.spotify.com/artist/3WOXZTYEJlLiwBxsoFl2EH) | [Renacer](https://open.spotify.com/album/66hWGmiZJlOcp5VUrSs07L) | 3:11 | 2023-01-09 | 2026-10-09 |
 | [Chlorine Gargoyle](https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo) | [thin air](https://open.spotify.com/artist/65OVOH6e3BNhnFJX3qramL) | [Dreams of a Wake](https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi) | 4:43 | 2023-01-09 | 2025-02-28 |
 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 | 2022-07-01 |  |
 | [Coma Waering](https://open.spotify.com/track/5JsfsxlFQ0EwfLN95YKI5B) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Coma Waering](https://open.spotify.com/album/2HFgZ2MeCZKxPFrBGY2ulz) | 9:18 | 2022-02-11 | 2022-03-09 |

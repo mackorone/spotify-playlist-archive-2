@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 238570,
+  "num_followers": 238628,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,6 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "5 Taara",
-        "url": "https://open.spotify.com/album/0ypcANqICUdvLiDBJ0H1Jn"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Jatinder Shah",
-          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
-        }
-      ],
-      "duration_ms": 178421,
-      "name": "5 Taara",
-      "url": "https://open.spotify.com/track/3Mghyxm9EHqlXDE8811Z9B"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
         "name": "Best of Punjabi Superstar Diljit Dosanjh",
         "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
       },
@@ -375,22 +355,6 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "Patiala Peg",
-        "url": "https://open.spotify.com/album/2wI6WGzFm4z1dPLjgfUd0m"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "Patiala Peg",
-      "url": "https://open.spotify.com/track/3chOtZ9EkYWYLT80Gjcptq"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
         "name": "Lak 28 Kudi Da",
         "url": "https://open.spotify.com/album/526HxFaDf5l1T0C5QBoT7B"
       },
@@ -407,6 +371,42 @@
       "duration_ms": 212680,
       "name": "Lak 28 Kudi Da",
       "url": "https://open.spotify.com/track/43ptYENIQJfqMWdCtyGFk8"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
+        "name": "5 Taara",
+        "url": "https://open.spotify.com/album/0ypcANqICUdvLiDBJ0H1Jn"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Jatinder Shah",
+          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+        }
+      ],
+      "duration_ms": 178421,
+      "name": "5 Taara",
+      "url": "https://open.spotify.com/track/3Mghyxm9EHqlXDE8811Z9B"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
+        "name": "Patiala Peg",
+        "url": "https://open.spotify.com/album/2wI6WGzFm4z1dPLjgfUd0m"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "Patiala Peg",
+      "url": "https://open.spotify.com/track/3chOtZ9EkYWYLT80Gjcptq"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -695,30 +695,6 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "Con.Fi.Den.Tial",
-        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Snappy",
-          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
-        },
-        {
-          "name": "Rav Hanjra",
-          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
-        }
-      ],
-      "duration_ms": 173638,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 172242,
       "name": "Midnight Desires",
       "url": "https://open.spotify.com/track/35imBoVE05swGqEdb17COU"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
+        "name": "Con.Fi.Den.Tial",
+        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Snappy",
+          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
+        },
+        {
+          "name": "Rav Hanjra",
+          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
+        }
+      ],
+      "duration_ms": 173638,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        }
-      ],
-      "duration_ms": 165781,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
         "name": "Roar",
         "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
       },
@@ -868,9 +848,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 184434,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
+      "duration_ms": 165781,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -887,6 +867,26 @@
       "duration_ms": 158513,
       "name": "Cali",
       "url": "https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 184434,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
     },
     {
       "added_at": "2026-09-11 10:46:59",

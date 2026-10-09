@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12176,
+  "num_followers": 12182,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,18 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+        "name": "Q",
+        "url": "https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -511,18 +507,22 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT"
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -803,38 +803,6 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "From JOY, with Love - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "La Vie En Bleu",
-      "url": "https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Picnic",
-      "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
         "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544",
         "url": "https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 182833,
       "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
       "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "Picnic",
+      "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "From JOY, with Love - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "La Vie En Bleu",
+      "url": "https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y"
     },
     {
       "added_at": "2026-09-03 07:10:58",

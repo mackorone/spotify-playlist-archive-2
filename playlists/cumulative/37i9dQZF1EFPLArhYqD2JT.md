@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-597 songs - 1 day 5 hr 55 min
+598 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Ooh! Maybe It's You](https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 32](https://open.spotify.com/album/7xDycDL2p7FqgmneJCtHm0) | 2:33 | 2025-04-07 | 2026-08-07 |
 | [Ooh! Maybe It's You](https://open.spotify.com/track/0SUQCbSEYTX0ni9BpLuHQM) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [Paul Whiteman Original 1927 Recordings](https://open.spotify.com/album/1Ak4pWwJi7Lylg4Xjeivi0) | 2:41 | 2026-08-06 |  |
 | [Our Wedding Day](https://open.spotify.com/track/6bw0woH10zbpPyGvFcs1Dk) | ['As Thousands Cheer: The Hit Musical Comedy Revue!' 1998 New York Revival Cast](https://open.spotify.com/artist/5Lt9AkGuzKxaqVItWFWZGa) | [As Thousands Cheer \(1998 Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2g4UW6AF3FhbUH6SIU53b7) | 3:18 | 2024-07-26 |  |
+| [Out of Nowhere](https://open.spotify.com/track/6LHStXTTda3lmiUNGoTI4O) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Atlantic Jazz Legends](https://open.spotify.com/album/5CYZCXrSlYjKtH6biz9x49) | 2:29 | 2026-10-08 |  |
 | [Outside Of Loving You \- I Like You](https://open.spotify.com/track/5CtzvLhO9pe877zjcMENej) | [Emily Loesser](https://open.spotify.com/artist/37hEcl0R9PVPfTxbsYrV53) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:43 | 2024-07-26 |  |
 | [Outside of That, I Love You](https://open.spotify.com/track/0fRTUSnjCNgOCULYR2aiHZ) | [Vivien Parry](https://open.spotify.com/artist/3xGck3avHaksZisPQlvEXP), [Martin Ball](https://open.spotify.com/artist/2QtfV8rPcFaFgQWfLgVk8d) | [Top Hat: The Musical \(Original London Cast Recording\)](https://open.spotify.com/album/2Jyv99HYnlhy0Fut0k4Yls) | 3:09 | 2024-07-26 |  |
 | [Overture](https://open.spotify.com/track/1xCSflMo520clpXehWPgUI) | [Irving Berlin's White Christmas Original Broadway Orchestra](https://open.spotify.com/artist/1Y1NRxpMScNsINX4ZbMMVa) | [Irving Berlin's White Christmas \(Original Broadway Cast Recording\)](https://open.spotify.com/album/43HbWHgKPaSlr1wcU8ppa0) | 2:30 | 2024-07-26 |  |
@@ -420,7 +421,7 @@
 | [Song Of Freedom](https://open.spotify.com/track/58UUyDTPGYj7GFGnt81YHD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UFYxC0oiZkmTijiBWzYXs) | 2:22 | 2024-07-26 |  |
 | [Spanish Love](https://open.spotify.com/track/0vmEA8MSlxNau9q3SZz5ph) | [Keith Anderson](https://open.spotify.com/artist/23ZvRmOzjptyDsn4c4UfbA) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:43 | 2024-07-26 |  |
 | [Stay Down Here Where You Belong](https://open.spotify.com/track/7rnuKO6Qk9DDPFmcGZjJca) | [Tiny Tim](https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC) | [God Bless Tiny Tim](https://open.spotify.com/album/6Oimi4JAkSAH3qhZmswoE9) | 2:40 | 2024-07-26 |  |
-| [Stella By Starlight](https://open.spotify.com/track/4RMpSLXLvoi2RkcrHDkDpi) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 2:43 | 2026-02-19 |  |
+| [Stella By Starlight](https://open.spotify.com/track/4RMpSLXLvoi2RkcrHDkDpi) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 2:43 | 2026-02-19 | 2026-10-09 |
 | [Steppin' Out With My Baby](https://open.spotify.com/track/16XegBhsozta1GH3t5LGSm) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:20 | 2024-07-26 |  |
 | [Suite \- Annie Get Your Gun](https://open.spotify.com/track/37Oyzi88xRp83vA5CgiRKK) | [Gregg Nestor](https://open.spotify.com/artist/2NxLFPENOWlGExNb2Tx9pj) | [Sarabande: Premiere Recordings of Favourite Evergreens Arranged for Guitar](https://open.spotify.com/album/4X9m1tBDvB3mwmusm7O01y) | 6:45 | 2024-08-13 | 2026-08-28 |
 | [Sunshine](https://open.spotify.com/track/1XQzFLT6rhCsT0rMJGpDjS) | [Tatiana Eva\-Marie](https://open.spotify.com/artist/3Nmm3IacxsC92dEP0kWL3z) | [Sunshine](https://open.spotify.com/album/4UpsA4LeAfEchjDBLRnQE1) | 3:51 | 2024-07-26 |  |

@@ -2,9 +2,9 @@
 
 ### [Rap Acústico](https://open.spotify.com/playlist/37i9dQZF1DWTf69iQOGkD2)
 
-> Sinta o flow do rap em estilo acústico ou romântico\. Foto:  Rô Rosa
+> Sinta o flow do rap em estilo acústico ou romântico\. Foto:  Hungria
 
-271 songs - 17 hr 11 min
+272 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Declaração De Um Malandro \- Ao Vivo](https://open.spotify.com/track/27Bb3gZhm3XjCeITNuxHlP) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ) | [8PKDOS Sessions \(Ao Vivo\)](https://open.spotify.com/album/2gVxra93BXs5Ei7nSlXiiu) | 2:16 | 2025-11-30 | 2026-03-21 |
 | [Destino](https://open.spotify.com/track/1tAcAD6c8HiMWDoHyUutHd) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Destino](https://open.spotify.com/album/2XqCSflbr8XImRRevu2Bpp) | 2:39 | 2024-04-26 | 2024-06-15 |
 | [Detalhes](https://open.spotify.com/track/3mHbUXh4pi4yy9gWHqV8bW) | [Igão Santi](https://open.spotify.com/artist/2xZhKkCpZq4YtbvNwhxBID), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Detalhes](https://open.spotify.com/album/6KSoeosLCvFYQfo6XUAKzd) | 1:55 | 2022-10-28 | 2023-04-29 |
+| [Disco Voador](https://open.spotify.com/track/5z3bXk6Xq7sYzqe9vcbMbz) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Disco Voador](https://open.spotify.com/album/6hQ1w3vIU8doEOGVaafgZc) | 3:54 | 2026-10-09 |  |
 | [Djavandalo](https://open.spotify.com/track/1L3KLeXqP4F4Qtt465Crl9) | [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/538I6tmaZtHvRMQDpaNLIC) | 2:53 | 2024-04-05 | 2024-04-19 |
 | [Djavandalo](https://open.spotify.com/track/21dWCeXNoS8H0aDvOcqqer) | [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/6Tfl3UdZrUm14cGFPRIteI) | 2:53 | 2024-03-29 | 2024-08-31 |
 | [Docê](https://open.spotify.com/track/5kCNhVsZ9mD3TDUgcL5tlp) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Docê](https://open.spotify.com/album/2ls9PYhT0VTFA3vTJOD5Bj) | 2:14 | 2022-03-25 | 2022-07-29 |
@@ -99,7 +100,7 @@
 | [fase](https://open.spotify.com/track/1zV8QFCfpK50GpqrNZ1O0N) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:12 | 2023-11-10 | 2024-11-09 |
 | [Fases da Vida](https://open.spotify.com/track/7wVfxMleDc8z52sT0ZX2Uf) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Fases da Vida](https://open.spotify.com/album/4S9O0HX42wSVc8GwMHUz0S) | 2:49 | 2023-09-15 | 2023-09-30 |
 | [Favorita](https://open.spotify.com/track/10aDvjUblBCmMSMfn9uk6T) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Favorita](https://open.spotify.com/album/23UElNVjwQqdG2HvTJlFqG) | 2:56 | 2024-03-29 | 2024-06-08 |
-| [Filha de Iemanjá](https://open.spotify.com/track/1oWHwJS4FrWcCrw6d6fq8F) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Ogmansha](https://open.spotify.com/artist/5PwQWhjrKuZ0XGpUBP007N), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Filha de Iemanjá](https://open.spotify.com/album/2hwxkqA2MrUupNxP11arBa) | 3:01 | 2026-02-06 |  |
+| [Filha de Iemanjá](https://open.spotify.com/track/1oWHwJS4FrWcCrw6d6fq8F) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Ogmansha](https://open.spotify.com/artist/5PwQWhjrKuZ0XGpUBP007N), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Filha de Iemanjá](https://open.spotify.com/album/2hwxkqA2MrUupNxP11arBa) | 3:01 | 2026-02-06 | 2026-10-09 |
 | [Fim De Semana](https://open.spotify.com/track/4SKrgwolhav2i1NXhjHMix) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Fim De Semana](https://open.spotify.com/album/3pbfczs2jCRIaPsjWcSszo) | 2:15 | 2023-05-12 | 2023-12-02 |
 | [Fim de Semana](https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Brian Arimura](https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Fim de Semana](https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7) | 3:14 | 2023-02-17 | 2024-12-21 |
 | [Flores](https://open.spotify.com/track/293RaVNeAHU4fpDCd873wX) | [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8) | [Flores](https://open.spotify.com/album/5hZTCAtb2Whkb1hQzyFtr0) | 3:39 | 2022-07-01 | 2022-09-18 |

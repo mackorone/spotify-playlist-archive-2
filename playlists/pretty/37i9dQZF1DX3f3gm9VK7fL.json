@@ -1,6 +1,6 @@
 {
   "description": "The hottest Anime hits of the 20s. Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>\n",
-  "num_followers": 146831,
+  "num_followers": 146892,
   "original_name": "Anime Hits 20's",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-07-08 04:51:50",
       "album": {
+        "name": "Black Catcher",
+        "url": "https://open.spotify.com/album/55JDu3ogkzlmUKgJt3nSd3"
+      },
+      "artists": [
+        {
+          "name": "VK Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Black Catcher",
+      "url": "https://open.spotify.com/track/5RXmLhscstsdvWPN0XtUa0"
+    },
+    {
+      "added_at": "2026-07-08 04:51:50",
+      "album": {
         "name": "more than words",
         "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
@@ -755,6 +771,22 @@
     {
       "added_at": "2026-07-08 04:51:50",
       "album": {
+        "name": "\u3082\u3057\u3082\u306e\u304c\u305f\u308a",
+        "url": "https://open.spotify.com/album/5yM6PFNuNz0LqB8Tq6NFi2"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "\u3082\u3057\u3082\u306e\u304c\u305f\u308a",
+      "url": "https://open.spotify.com/track/1wLrBCgGJcK5PNm0slZey9"
+    },
+    {
+      "added_at": "2026-07-08 04:51:50",
+      "album": {
         "name": "Recollect",
         "url": "https://open.spotify.com/album/6IdC8Pr6SJL3lzeZXSBmKn"
       },
@@ -775,38 +807,6 @@
       "duration_ms": 190965,
       "name": "Recollect",
       "url": "https://open.spotify.com/track/3Ltu1EsS0IiHNJcJYwfTkL"
-    },
-    {
-      "added_at": "2026-07-08 04:51:50",
-      "album": {
-        "name": "\u3082\u3057\u3082\u306e\u304c\u305f\u308a",
-        "url": "https://open.spotify.com/album/5yM6PFNuNz0LqB8Tq6NFi2"
-      },
-      "artists": [
-        {
-          "name": "Tani Yuuki",
-          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "\u3082\u3057\u3082\u306e\u304c\u305f\u308a",
-      "url": "https://open.spotify.com/track/1wLrBCgGJcK5PNm0slZey9"
-    },
-    {
-      "added_at": "2026-07-08 04:51:50",
-      "album": {
-        "name": "Black Catcher",
-        "url": "https://open.spotify.com/album/55JDu3ogkzlmUKgJt3nSd3"
-      },
-      "artists": [
-        {
-          "name": "VK Blanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Black Catcher",
-      "url": "https://open.spotify.com/track/5RXmLhscstsdvWPN0XtUa0"
     },
     {
       "added_at": "2026-07-08 04:51:50",

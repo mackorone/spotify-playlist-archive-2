@@ -4,7 +4,7 @@
 
 > Electronic music from AUS + NZ
 
-358 songs - 21 hr 55 min
+359 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [HARDSTYLE 2](https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U) | 4:46 | 2026-03-18 |  |
 | [Headrush](https://open.spotify.com/track/7at92pKxDnRVqngN6jb75V) | [Ekko & Sidetrack](https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL) | [Headrush](https://open.spotify.com/album/2bw55yiNKKdhEPg4vNBEEp) | 3:12 | 2023-07-13 | 2023-07-28 |
 | [Heart Strings](https://open.spotify.com/track/5fUcckBVUWX4HbShrP6YoI) | [Jantoje](https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx) | [Verano](https://open.spotify.com/album/4PQJ3PG46fo29GN0a3Dj7H) | 3:32 | 2024-01-25 | 2024-08-23 |
-| [Heartbeats \- Logic1000 Remix](https://open.spotify.com/track/3Dc5AOVwCpI5KBJArPgsqx) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Heartbeats \(Logic1000 Remix\)](https://open.spotify.com/album/6lnNhlD38nS7SPeywQeIKR) | 3:18 | 2025-10-17 |  |
+| [Heartbeats \- Logic1000 Remix](https://open.spotify.com/track/3Dc5AOVwCpI5KBJArPgsqx) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Heartbeats \(Logic1000 Remix\)](https://open.spotify.com/album/6lnNhlD38nS7SPeywQeIKR) | 3:18 | 2025-10-17 | 2026-10-09 |
 | [Hide and Seek](https://open.spotify.com/track/6v6TnpusHVcVTiIpLXQU1m) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Lustre](https://open.spotify.com/album/69jUVZWhJy974WUFPCqohq) | 4:08 | 2023-10-05 | 2023-10-07 |
 | [Hide and Seek](https://open.spotify.com/track/7MF2sZdu9QmAe9ABVjE5Y3) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Lustre](https://open.spotify.com/album/4ItxYoE7OV3dGs7xswvnCx) | 4:08 | 2023-10-05 | 2023-11-17 |
 | [Higher](https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Higher](https://open.spotify.com/album/6jOOQDwkPl8o55CdYYzlWB) | 4:38 | 2025-06-03 | 2025-09-06 |
@@ -322,6 +322,7 @@
 | [The Way I'm Feeling](https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [The Way I'm Feeling](https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT) | 4:17 | 2025-11-20 | 2026-01-28 |
 | [The World](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [A.M](https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK) | 3:29 | 2024-02-01 |  |
 | [Thinking About You](https://open.spotify.com/track/1E7jE0EHy7FlU8uWi5hirD) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [The Friends You Made Along The Way](https://open.spotify.com/album/1Sw2RWBcBOFIpWabO8Ftin) | 3:22 | 2023-06-22 | 2023-07-14 |
+| [Thunder](https://open.spotify.com/track/7FIqV18aiAsJpoeiE8pF7F) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Thunder EP](https://open.spotify.com/album/6CjCXLcpkqbzSgmUARdgF1) | 5:01 | 2026-07-30 |  |
 | [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2023-04-20 | 2025-03-05 |
 | [Time In The Sun](https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Time In The Sun](https://open.spotify.com/album/5MNzxZmtQWbakpiBMMDVnJ) | 2:48 | 2025-08-01 | 2026-06-30 |
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 | 2023-06-01 | 2024-04-19 |
