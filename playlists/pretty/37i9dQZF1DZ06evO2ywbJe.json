@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 9389,
+  "num_followers": 9395,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAACT1JEE1MqD/RuVmSX1w45H",
+  "snapshot_id": "asbdAAAAAAB0n13fF7tes7equkktjF3J",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "JET",
-        "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
+        "name": "Cash App",
+        "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
       },
       "artists": [
         {
-          "name": "SAMAD",
-          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
-        },
-        {
-          "name": "Chech",
-          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Lincoln",
+          "url": "https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu"
         }
       ],
-      "duration_ms": 175200,
-      "name": "JET",
-      "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
+      "duration_ms": 236068,
+      "name": "Cash App",
+      "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
     },
     {
       "added_at": null,
@@ -327,26 +327,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cash App",
-        "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
+        "name": "JET",
+        "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        },
+        {
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Lincoln",
-          "url": "https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu"
         }
       ],
-      "duration_ms": 236068,
-      "name": "Cash App",
-      "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
+      "duration_ms": 175200,
+      "name": "JET",
+      "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Let There Be Light",
-      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Je m'appelle",
         "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 243253,
       "name": "Je m'appelle",
       "url": "https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Let There Be Light",
+      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 223531,
+      "name": "Killin Dem (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -687,22 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+        "name": "Last Son of a Widow",
+        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 223531,
-      "name": "Killin Dem (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
+      "duration_ms": 148375,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
     },
     {
       "added_at": null,
@@ -727,26 +747,6 @@
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Son of a Widow",
-        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
     },
     {
       "added_at": null,
@@ -871,42 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165063,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bolanle",
         "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
       },
@@ -927,32 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DREAMS II",
-        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 237647,
-      "name": "DREAMS II",
-      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
       "artists": [
         {
@@ -960,9 +900,9 @@
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 161066,
-      "name": "Ale Yi",
-      "url": "https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8"
+      "duration_ms": 165063,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
     },
     {
       "added_at": null,
@@ -995,6 +935,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DREAMS II",
+        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 237647,
+      "name": "DREAMS II",
+      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Omo Ologo",
         "url": "https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj"
       },
@@ -1007,42 +991,6 @@
       "duration_ms": 189090,
       "name": "Omo Ologo",
       "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lagos Anthem",
-        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 209747,
-      "name": "Lagos Anthem",
-      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Alubarika",
-      "url": "https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S"
     },
     {
       "added_at": null,
@@ -1063,6 +1011,58 @@
       "duration_ms": 148820,
       "name": "Am I a Yahoo Boy",
       "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Ale Yi",
+      "url": "https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagos Anthem",
+        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 209747,
+      "name": "Lagos Anthem",
+      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "50 Billion (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
     }
   ],
   "unique_name": "This Is Zlatan",

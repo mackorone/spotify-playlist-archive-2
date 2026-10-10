@@ -2,9 +2,9 @@
 
 ### [Popetón](https://open.spotify.com/playlist/37i9dQZF1DWTPDzakLfYZr)
 
-> ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Manuel Turizo.
+> ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Maisak
 
-409 songs - 21 hr 22 min
+410 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [De 0 a Siempre](https://open.spotify.com/track/1qxwayGaQN4roLdX5L9pM6) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [De 0 a Siempre](https://open.spotify.com/album/2s8Wgg7X68n41ZGuwTmqjd) | 4:08 | 2021-12-10 |  |
 | [DEGENERE �� \(feat\. benny blanco\)](https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [LA PANTERA NEGRA \(DELUXE\)](https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H) | 2:10 | 2024-10-18 |  |
 | [Deja Vu](https://open.spotify.com/track/6ANTIKDETHmCjzeBVzMQjf) | [Nicolas Mayorca](https://open.spotify.com/artist/2pg3wL9rxgUzpJDYCBTlt1) | [Deja Vu](https://open.spotify.com/album/2xXCVuiKAUffVnimoxFKnh) | 2:41 | 2022-04-08 | 2022-04-29 |
+| [Dejarte Ir](https://open.spotify.com/track/16vfIvWt0Gw8z2Kj3CE3qt) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Vallenatico pa la Disco](https://open.spotify.com/album/2NIdcHU9Bs37j9a7WHtUMH) | 2:36 | 2026-10-09 |  |
 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:07 | 2021-12-10 |  |
 | [Demasiado Pa' Mí](https://open.spotify.com/track/3YpyGbVyMcxti6N5FR1z48) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Demasiado Pa' Mí](https://open.spotify.com/album/2BDIWoBmjfRW4dFPMcnT6b) | 2:42 | 2024-05-03 | 2024-06-01 |
 | [DeMasters Presenta: Tamos Claros](https://open.spotify.com/track/6Y05vVJkCF4QCyza9O5SzV) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ) | [DeMasters Presenta: Tamos Claros](https://open.spotify.com/album/1o8kMIbs8jMayE0TTZ93ol) | 2:36 | 2023-11-10 | 2023-11-18 |

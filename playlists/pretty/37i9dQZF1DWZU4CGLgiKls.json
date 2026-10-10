@@ -1,6 +1,6 @@
 {
   "description": "Se viene el partido, la previa es con m\u00fasica!",
-  "num_followers": 533946,
+  "num_followers": 533875,
   "original_name": "Previa Futbolera",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "Peluson Of Milk",
-        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Seguir Viviendo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
-    },
-    {
-      "added_at": "2026-07-19 14:57:45",
-      "album": {
         "name": "Esperando el Milagro",
         "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 181826,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
+    },
+    {
+      "added_at": "2026-07-19 14:57:45",
+      "album": {
+        "name": "Peluson Of Milk",
+        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Seguir Viviendo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
     },
     {
       "added_at": "2026-07-19 14:57:45",

@@ -303,6 +303,22 @@
     {
       "added_at": "2026-10-08 22:00:58",
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 290372,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
+    },
+    {
+      "added_at": "2026-10-08 22:00:58",
+      "album": {
         "name": "PLAYA FR\u00cdA",
         "url": "https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2"
       },

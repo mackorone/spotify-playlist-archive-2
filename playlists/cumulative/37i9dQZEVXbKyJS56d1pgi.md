@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-2,159 songs - 4 day 23 hr 16 min
+2,160 songs - 4 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1523,7 +1523,8 @@
 | [Portuguese](https://open.spotify.com/track/5hbwAAI2IDk5z3AHP3UwDM) | [Blessmon](https://open.spotify.com/artist/3zPYgcfV8C7pDX2sP54xPz) | [Portuguese](https://open.spotify.com/album/23QKxwOu33YJjqGkwDYGFT) | 2:19 | 2024-05-08 | 2024-05-10 |
 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:38 | 2025-10-17 | 2026-03-09 |
 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4tYCyoSpv0Ujpfwcneb02l) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/33n7tqtuoOf2t3ENdixO7B) | 2:42 | 2026-03-08 |  |
-| [Postinho de Gasolina](https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Postinho de Gasolina](https://open.spotify.com/album/5LEVnXg3usIhjeS7HAadfs) | 2:23 | 2026-10-02 |  |
+| [Postinho de Gasolina](https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Postinho de Gasolina](https://open.spotify.com/album/5LEVnXg3usIhjeS7HAadfs) | 2:23 | 2026-10-02 | 2026-10-10 |
+| [Postinho de Gasolina](https://open.spotify.com/track/4RuRAwMmuBxw4QsKeFVhxh) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Ao Vivo em Goiânia \- Ep.2](https://open.spotify.com/album/5cW3Mva0Gob5jJEbG157FF) | 2:23 | 2026-10-09 |  |
 | [Pra Mim](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Pra Mim](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-02-19 | 2022-02-21 |
 | [PRA MIM](https://open.spotify.com/track/6wDT7SWDZPlOoneWOmSmSC) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 2:33 | 2022-04-05 | 2022-04-11 |
 | [Pra Não Esquecer De Mim](https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1) | [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Pra Não Esquecer De Mim](https://open.spotify.com/album/0Kb7GeuzMK4sS45zb3O06h) | 3:12 | 2026-06-28 | 2026-07-27 |

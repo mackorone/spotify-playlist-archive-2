@@ -4,7 +4,7 @@
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨ Klaar voor de herfst!
 
-313 songs - 17 hr 37 min
+318 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Favorite Person](https://open.spotify.com/track/2aSLm1nQp9MmNwEqHyPerf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Favorite Person](https://open.spotify.com/album/4Z6g0egtF1nHzHAGrfizXh) | 2:39 | 2026-02-20 |  |
 | [Flowers \(Carry Me Home\)](https://open.spotify.com/track/70VTz7ZH2rCXUbk6PEo4Ap) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Flowers \(Carry Me Home\)](https://open.spotify.com/album/2vMtuoEPWr7zbQnjCoLoVa) | 3:42 | 2025-07-18 |  |
 | [Flyover State](https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Flyover State](https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG) | 3:15 | 2025-07-18 |  |
+| [Follow Me](https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Follow Me](https://open.spotify.com/album/1doYTnF0SbpTuRQqm8FE8R) | 2:51 | 2026-10-09 |  |
 | [Follows You](https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Follows You](https://open.spotify.com/album/2RSKFTL1S4XwxVxQP8eorN) | 3:26 | 2025-07-18 | 2025-09-13 |
 | [Forest Hills](https://open.spotify.com/track/7aeexgGieEGhvIg7Bm0Bra) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Forest Hills](https://open.spotify.com/album/0w8cg1jEpgA7cANU4qW6ov) | 3:18 | 2025-11-21 | 2026-01-17 |
 | [Forward Motion](https://open.spotify.com/track/4GoDpEcYUUdwC0J7cBkZiw) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Ron Cha](https://open.spotify.com/artist/4VmfJId5FAnW2l20SUpUNi), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [Forward Motion](https://open.spotify.com/album/4es22B851qcaM083Xvec5q) | 2:12 | 2026-03-13 |  |
@@ -261,8 +262,10 @@
 | [Streets of London](https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:09 | 2026-02-06 |  |
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2025-07-18 | 2025-10-11 |
 | [Sunday Smile](https://open.spotify.com/track/3U2imIBWN0BnTS516Lhjfr) | [Jake Troth](https://open.spotify.com/artist/4YYFbWfMM8Gr55Hddzkcrl) | [Sunday Smile](https://open.spotify.com/album/1f6eML7QLTmlI5lyMPsblL) | 3:28 | 2025-07-18 | 2025-09-20 |
+| [superstar](https://open.spotify.com/track/5Cgh3h1oWm0xdGhK76HHOi) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [my bad](https://open.spotify.com/album/0WTwR9yK3wgqxRAybdNlpE) | 2:59 | 2026-10-09 |  |
 | [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 | 2025-10-10 | 2026-02-07 |
 | [Tadow](https://open.spotify.com/track/1DoS5ql0TW3ejjJGHbsAmz) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/66q4QLWTKxEZnADbRRTnSd) | 5:01 | 2025-07-18 | 2025-11-22 |
+| [Take Me There](https://open.spotify.com/track/5Xlm6r0hBIxe0OvtfUG9UX) | [DA TI](https://open.spotify.com/artist/0E1Yd4BPHXB4DfTaYb9Y5i) | [Take Me There](https://open.spotify.com/album/0hT1cJPUyBfkscqU1gMbpa) | 3:22 | 2026-10-09 |  |
 | [Taking It Slowly](https://open.spotify.com/track/37hjpeTAswbMzp978oGBg5) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Taking It Slowly](https://open.spotify.com/album/5dnZeCPifLReZQrKMtRBbc) | 2:34 | 2025-09-19 | 2026-02-14 |
 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2025-07-18 | 2025-10-04 |
 | [Tel tot 100](https://open.spotify.com/track/0neJ9vnurgfVGWsAdk9Umx) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Tel tot 100](https://open.spotify.com/album/1OAZvbBxM6I3jKG4uFfoqM) | 2:56 | 2026-01-09 | 2026-02-07 |
@@ -286,6 +289,7 @@
 | [This Life](https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [This Life](https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy) | 3:02 | 2025-07-18 | 2025-09-27 |
 | [Thousand Nights](https://open.spotify.com/track/7bNfbHChtz9j65zMLvPoGV) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Thousand Nights](https://open.spotify.com/album/21woPwk6trw5H7sshSK7j2) | 2:59 | 2025-09-26 | 2026-02-14 |
 | [TickTickBoom](https://open.spotify.com/track/2fifcgrC2McRDrABuG743H) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [TickTickBoom](https://open.spotify.com/album/71Gg0zWr0x4I5VB3gAKumw) | 2:25 | 2025-09-12 | 2026-02-07 |
+| [Touchdown](https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [The Fear That This Is Real](https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4) | 3:52 | 2026-10-09 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-08-26 |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-19 | 2026-10-03 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2026-05-27 |  |
@@ -310,6 +314,7 @@
 | [Will I Ever Love Again \(feat\. Christina Barrett\)](https://open.spotify.com/track/6sKBBcC2A2LHQmu818UPdB) | [Blue Hue](https://open.spotify.com/artist/06Hn5bMvONssasZlSCJ7fU), [Christina Barrett](https://open.spotify.com/artist/0wCF391GJXKDyaKZcrvrEM) | [Birdsongs \(feat\. Christina Barrett\)](https://open.spotify.com/album/4ukEFrB5vzdV7UTnytGUgq) | 3:06 | 2025-08-15 | 2025-08-30 |
 | [Window](https://open.spotify.com/track/4vM1YX1WQVIz5B3eMgPCs1) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Window](https://open.spotify.com/album/1OzD9mT2n8432RK5z2HTe4) | 3:16 | 2025-08-22 | 2025-11-01 |
 | [Wish I Never Met You](https://open.spotify.com/track/0fzCczqLzsWvvMobo1dUmy) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Wish I Never Met You](https://open.spotify.com/album/0XwXdmNgdSNC3eYojBIdsk) | 2:37 | 2025-07-18 | 2025-09-06 |
+| [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 | 2026-10-09 |  |
 | [Wonder](https://open.spotify.com/track/7bNA3soSLudaENsLHsKWjX) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Wonder](https://open.spotify.com/album/5wNacGekpjRqVqrZiUd2vd) | 4:07 | 2025-10-17 | 2026-05-28 |
 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 | 2025-10-10 |  |
 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 | 2025-07-18 | 2025-08-30 |

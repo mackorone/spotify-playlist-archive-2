@@ -4,7 +4,7 @@
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 25 min
+94 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Enamorada y Herida](https://open.spotify.com/track/6HfYJQt9WHhfXKJT8bGdBM) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:43 | 2023-03-10 |  |
 | [Eres Mi Nada](https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Eres Mi Nada / Tu Pasado y Tú](https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE) | 2:51 | 2026-07-05 |  |
 | [Evítame la Pena](https://open.spotify.com/track/5iit5JfhTCIXmTcxDYk3kG) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 2:43 | 2025-02-10 |  |
-| [Felicítalo](https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Felicítalo](https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7) | 3:06 | 2024-04-28 |  |
+| [Felicítalo](https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Felicítalo](https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7) | 3:06 | 2024-04-28 | 2026-10-10 |
 | [Irremediable](https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:52 | 2023-03-10 |  |
 | [La Bienvenida](https://open.spotify.com/track/4IDOQV0hxzxN1R0yAVZi9W) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:22 | 2025-02-13 | 2025-03-20 |
 | [La Duda \(Primera fila\) \- En Vivo](https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:23 | 2023-03-10 |  |
@@ -46,6 +46,7 @@
 | [Llévate](https://open.spotify.com/track/2AHzaIprICahqw378HVUoO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:10 | 2025-03-11 |  |
 | [Llévate](https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Llévate](https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD) | 3:10 | 2023-11-10 | 2025-03-11 |
 | [Lo Que Son las Cosas](https://open.spotify.com/track/7GprMlRqZpBd6LYqar2hBv) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:54 | 2023-03-10 |  |
+| [Lo Siento Mi Amor](https://open.spotify.com/track/3336v3uxCP78aPN2wetZjx) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:02 | 2026-10-10 |  |
 | [Malamente](https://open.spotify.com/track/531zn1AxlkHj0aidD75L1w) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 2:56 | 2025-06-08 |  |
 | [Malamente](https://open.spotify.com/track/6hz7lasdrLrRF7foBVVHbi) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Malamente](https://open.spotify.com/album/043NQRYJMoTeqqMQpvXYh4) | 2:56 | 2023-09-15 | 2025-05-25 |
 | [Maldita Primavera](https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:05 | 2024-03-09 |  |

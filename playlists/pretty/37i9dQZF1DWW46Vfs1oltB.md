@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover:  Kid Milli, TRADE L\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,632 likes - 104 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,534 likes - 104 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

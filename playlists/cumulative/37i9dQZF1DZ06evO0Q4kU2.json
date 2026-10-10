@@ -444,10 +444,40 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 241673,
       "name": "Fantas\u00eda for Cello and Orchestra",
       "url": "https://open.spotify.com/track/3xc1tPUPPygJDabqiTwNjA"
+    },
+    {
+      "album": {
+        "name": "Orchestral Works",
+        "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
+        },
+        {
+          "name": "Reykjav\u00edk Orkestra",
+          "url": "https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU"
+        },
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241673,
+      "name": "Fantas\u00eda for Cello and Orchestra",
+      "url": "https://open.spotify.com/track/7h73IbmAHwKwPllZQsKOWx"
     },
     {
       "album": {
@@ -588,7 +618,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 98000,
       "name": "Hind - Voiceless - Harpa Sessions",
       "url": "https://open.spotify.com/track/35Azev1VFQXlLPmouKU2Z5"
@@ -1426,7 +1456,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 99338,
       "name": "The Archive",
       "url": "https://open.spotify.com/track/4lfZQwVOianW7gu4WMHM4J"

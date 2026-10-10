@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,651 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,648 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 26 | [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 |
 | 27 | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ) | 3:54 |
 | 28 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
-| 29 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 |
-| 30 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
+| 29 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
+| 30 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 |
 | 31 | [Liekinheitin](https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL) | [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T), [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Liekinheitin](https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL) | 3:00 |
 | 32 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
 | 33 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 46 | [Sisko ja sen veli](https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sisko ja sen veli](https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg) | 3:08 |
 | 47 | [Hold Me In The Dark](https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Hold Me In The Dark](https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg) | 3:17 |
 | 48 | [Criminal \- From the Original Motion Picture Scream 7](https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Criminal \(From the Original Motion Picture Scream 7\)](https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS) | 3:19 |
-| 49 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 |
-| 50 | [Kaikki viel edessä](https://open.spotify.com/track/2E1Mh0I5MrZy3AHidKr63j) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kaikki viel edessä](https://open.spotify.com/album/0jvTvhcz36GobILqRNO1zD) | 3:04 |
-| 51 | [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 |
+| 49 | [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 |
+| 50 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 |
+| 51 | [Kaikki viel edessä](https://open.spotify.com/track/2E1Mh0I5MrZy3AHidKr63j) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kaikki viel edessä](https://open.spotify.com/album/0jvTvhcz36GobILqRNO1zD) | 3:04 |
 | 52 | [Se ei mennyt niin](https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:50 |
 | 53 | [CEO \(Rich Man\)](https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [CEO \(Rich Man\)](https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy) | 2:29 |
 | 54 | [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 71 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
 | 72 | [Kuvia mun kännykässä](https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Kuvia mun kännykässä](https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega) | 2:36 |
 | 73 | [Sonic Youth \(feat\. Bizi\)](https://open.spotify.com/track/6cSV49YiVXKNvwCbRo4Rd7) | [Ruusut](https://open.spotify.com/artist/5mNowcxxg3M2Iros4GTfXw), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Sonic Youth \(feat\. Bizi\)](https://open.spotify.com/album/0zDctSZEAs3YRdXWy62D5m) | 3:53 |
-| 74 | [Pieni exit](https://open.spotify.com/track/2clsFSS5ZCx3SW5o8CcY74) | [Malla](https://open.spotify.com/artist/0dHaPMHXrg3x8J6ucqNoPj) | [Pieni exit](https://open.spotify.com/album/6QGvxY1eZHa2aL1en4Pi7f) | 3:38 |
-| 75 | [Tower](https://open.spotify.com/track/59pskAsUrYQJOjN6Lt6wCr) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [Sunder](https://open.spotify.com/album/1ciRPgX96Ye9UEHESfM908) | 2:51 |
+| 74 | [Tower](https://open.spotify.com/track/59pskAsUrYQJOjN6Lt6wCr) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [Sunder](https://open.spotify.com/album/1ciRPgX96Ye9UEHESfM908) | 2:51 |
+| 75 | [Pieni exit](https://open.spotify.com/track/2clsFSS5ZCx3SW5o8CcY74) | [Malla](https://open.spotify.com/artist/0dHaPMHXrg3x8J6ucqNoPj) | [Pieni exit](https://open.spotify.com/album/6QGvxY1eZHa2aL1en4Pi7f) | 3:38 |
 | 76 | [Heart Said No](https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE) | [HOKKA](https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97) | [Heart Said No](https://open.spotify.com/album/0Sz6p8iL9KrcTeYUrQthpG) | 3:22 |
 | 77 | [Elämä jatkuu](https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt) | [Roosa](https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg) | [Elämä jatkuu](https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u) | 3:00 |
 | 78 | [Lahja](https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [Apnea](https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t) | 5:53 |

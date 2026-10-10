@@ -4,7 +4,7 @@
 
 > just trying our best 📸 Ruby Rose Turner
 
-2,912 songs - 6 day 2 hr 45 min
+2,914 songs - 6 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-23 | 2025-08-18 |
 | [Bloodstream](https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bloodstream](https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH) | 3:31 | 2024-02-09 | 2024-06-01 |
 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 | 2023-06-02 | 2023-07-31 |
+| [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 | 2026-10-09 |  |
 | [blue](https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [Herified](https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl) | 2:50 | 2025-09-19 | 2026-02-14 |
 | [blue](https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [blue](https://open.spotify.com/album/29FYm9EmlZJ77BNOOq43pi) | 2:06 | 2022-05-20 | 2022-09-24 |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-21 | 2024-10-12 |
@@ -316,7 +317,7 @@
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-05-26 | 2024-01-05 |
 | [born to lose](https://open.spotify.com/track/5LOqhjhFNQ4WzKvEUrT8s9) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [born to lose](https://open.spotify.com/album/4Zrqs3YaexpBNVQlErbyTA) | 3:14 | 2026-07-05 |  |
 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 | 2026-03-27 | 2026-08-28 |
-| [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 | 2026-08-28 |  |
+| [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 | 2026-08-28 | 2026-10-10 |
 | [Bourgeoisieses](https://open.spotify.com/track/056bKm6W5j9QodOftRznUV) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:31 | 2024-04-12 | 2024-09-14 |
 | [Bowie](https://open.spotify.com/track/5qH4Pfu4TDSfQij1rkmlxj) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men](https://open.spotify.com/album/0ervPmQvzezaMUGR8W36SV) | 4:41 | 2022-01-14 | 2022-10-29 |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-10-08 | 2022-07-29 |
@@ -331,7 +332,7 @@
 | [Boys](https://open.spotify.com/track/3r6oQ66z8GfFNdAmjZr2ct) | [Kelianne](https://open.spotify.com/artist/29Umu6q2gjFj4rQCIvmLRm) | [Boys](https://open.spotify.com/album/5KObpEAV5b6d9f6X0Oi3TF) | 2:26 | 2022-01-28 | 2022-03-05 |
 | [Boys "R" Us](https://open.spotify.com/track/47EiQ0NtMyrAcV2dRfXrul) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:09 | 2023-09-15 | 2023-10-24 |
 | [Boys Don't Cry](https://open.spotify.com/track/58IYY8DzJ4s9R260vyQfqT) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Boys Don’t Cry](https://open.spotify.com/album/3hVTz0IcG4DHFqj8TDiiaE) | 3:14 | 2022-04-08 | 2022-04-30 |
-| [Boys in Skirts](https://open.spotify.com/track/1viohmE5vdwuD6DKdb4CZH) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [American Teenage Prophecy](https://open.spotify.com/album/7fqBTbPzWkCfuTvWenODfg) | 3:30 | 2026-05-15 |  |
+| [Boys in Skirts](https://open.spotify.com/track/1viohmE5vdwuD6DKdb4CZH) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [American Teenage Prophecy](https://open.spotify.com/album/7fqBTbPzWkCfuTvWenODfg) | 3:30 | 2026-05-15 | 2026-10-10 |
 | [Boys Like You](https://open.spotify.com/track/3MZeBZsYFViZ5OchHkv7NM) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Boys Like You](https://open.spotify.com/album/4lze7H8TQqIqnrRT9Sc351) | 3:27 | 2023-06-23 | 2024-08-01 |
 | [Boys will be Boys](https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Boys will be Boys](https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV) | 2:49 | 2025-06-27 | 2025-08-18 |
 | [BOYTOY](https://open.spotify.com/track/0uhM3a59WXfYEsxbmjga6S) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [BOYTOY](https://open.spotify.com/album/1k4YvboPSkWRViqD1Jc4mI) | 1:50 | 2022-11-11 | 2024-05-18 |
@@ -438,6 +439,7 @@
 | [Cellophane](https://open.spotify.com/track/1LlpkuY6GTy6vBoh50ZbMs) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Cellophane](https://open.spotify.com/album/1Te4KAgshBCIik3JbxVHsu) | 2:39 | 2022-07-15 | 2022-07-29 |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-01-14 | 2022-02-06 |
 | [Chameleon](https://open.spotify.com/track/4DuwypY8jTcKOT88WDYX3P) | [INViDA](https://open.spotify.com/artist/23ShYrOhu7gvdxz5NcIQx5), [Muza](https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo), [Juliette Reilly](https://open.spotify.com/artist/2HR1xMXsvA2zBfiiADeZo7) | [Chameleon](https://open.spotify.com/album/2E9wcd2LJ5mOWdsSmOrmiN) | 3:36 | 2019-06-27 | 2020-03-23 |
+| [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 | 2026-10-09 |  |
 | [Chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:20 | 2021-06-20 | 2021-11-20 |
 | [Chandelier](https://open.spotify.com/track/3REELyDyt5SPKX2387Zubv) | [Paquin](https://open.spotify.com/artist/2UGaFqTFNMtYGTrVznQksD), [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Vol\. 1](https://open.spotify.com/album/4FV4yInzGNhC6iSh1kX1qF) | 2:07 | 2021-11-25 | 2022-04-21 |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-08-12 | 2022-09-24 |
@@ -629,7 +631,7 @@
 | [Demons](https://open.spotify.com/track/2h9MUJQ62325E0G0dJs5Wl) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Ask Me How I’ve Been](https://open.spotify.com/album/6FrJR357uhTSuFNJVaYo7b) | 2:42 | 2026-03-27 | 2026-06-13 |
 | [Dependent](https://open.spotify.com/track/60vroCBYfVR1UijoHFJJIR) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Dependent](https://open.spotify.com/album/6PHUj1PI8BVwZlVpPKX7lT) | 3:00 | 2026-07-10 | 2026-10-09 |
 | [depends](https://open.spotify.com/track/6ClRt5Ikl6VEO6xJrdKRCX) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [blindfaith county](https://open.spotify.com/album/63PCqsm4LhqC3OSWSN97RB) | 4:19 | 2026-05-22 |  |
-| [depressed on the internet](https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [depressed on the internet](https://open.spotify.com/album/6yRPZDsFWQE6p4NhpGqjyw) | 2:57 | 2026-05-08 |  |
+| [depressed on the internet](https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [depressed on the internet](https://open.spotify.com/album/6yRPZDsFWQE6p4NhpGqjyw) | 2:57 | 2026-05-08 | 2026-10-10 |
 | [Deserve It](https://open.spotify.com/track/54G55Srn9Dk5bF76JNPQYD) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Deserve It](https://open.spotify.com/album/6pDK9mems2WhwqQJiok2Lx) | 2:57 | 2022-10-28 | 2022-11-14 |
 | [Deserve This](https://open.spotify.com/track/5ClggGlHpLil31okcAaUEU) | [Maggie Miles](https://open.spotify.com/artist/3fU7b1NSQYROvvdepD4PZ0) | [Deserve This](https://open.spotify.com/album/13vbIRIEC831FhydQXlCzV) | 4:01 | 2020-04-24 | 2021-08-20 |
 | [Detached](https://open.spotify.com/track/6ZoGCUlUCmc9zMaRMMP8fK) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [Detached](https://open.spotify.com/album/48OY2oZrUCNSp88zt7vWbk) | 2:21 | 2022-09-09 | 2022-10-01 |
@@ -1589,7 +1591,7 @@
 | [Lovelike](https://open.spotify.com/track/5ijYxUz6kTJVZWTbHSoIKw) | [SAINT WKND](https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Lovelike](https://open.spotify.com/album/5MM9vipBxJLKX9h6g9ufEx) | 3:08 | 2019-09-06 | 2020-04-18 |
 | [Lovely](https://open.spotify.com/track/6IYyWCVQbWpuyifWOGDevP) | [ANORA](https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo) | [Lovely](https://open.spotify.com/album/0or6SfnApnHDMJdAHTTvLb) | 3:26 | 2022-07-01 | 2022-07-14 |
 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 | 2025-06-27 | 2026-02-28 |
-| [lovergirl](https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket deluxe](https://open.spotify.com/album/68faVaLSG9EnxmOgOJwGFX) | 3:21 | 2026-05-08 |  |
+| [lovergirl](https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket deluxe](https://open.spotify.com/album/68faVaLSG9EnxmOgOJwGFX) | 3:21 | 2026-05-08 | 2026-10-10 |
 | [Lovers Table](https://open.spotify.com/track/1XgDH5V2RZJplqiXqKoQVc) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Lovers Table](https://open.spotify.com/album/71FzM9GDwiZTHaKQSklFZu) | 3:53 | 2019-09-29 | 2020-04-22 |
 | [Lovesick](https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Lovesick](https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc) | 2:31 | 2024-01-26 | 2024-07-09 |
 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2023-09-08 | 2025-05-03 |

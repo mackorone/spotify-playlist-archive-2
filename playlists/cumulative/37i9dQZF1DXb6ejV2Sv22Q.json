@@ -256,7 +256,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 205000,
       "name": "1besito",
       "url": "https://open.spotify.com/track/72lBhSO5SN6GqtTsmUXok5"
@@ -2715,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Cu\u00e1nto nos queda",
+        "url": "https://open.spotify.com/album/50yE0eLO8QTDvoY95WfbQy"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194288,
+      "name": "Cu\u00e1nto nos queda",
+      "url": "https://open.spotify.com/track/1AJQzARciyt3rrR9NKEFDO"
+    },
+    {
+      "album": {
         "name": "i Music Listen",
         "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
       },
@@ -2974,6 +2992,24 @@
       "duration_ms": 105204,
       "name": "DELI",
       "url": "https://open.spotify.com/track/0nq81uNQBRoRjBpLYKaVJC"
+    },
+    {
+      "album": {
+        "name": "deliveryfood1000",
+        "url": "https://open.spotify.com/album/56CwYTlSuxirw66u6QlTGD"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134193,
+      "name": "deliveryfood1000",
+      "url": "https://open.spotify.com/track/7CO9KDkC67xseaQVHX0bhj"
     },
     {
       "album": {
@@ -5835,6 +5871,28 @@
     },
     {
       "album": {
+        "name": "Zona de Mamboteo",
+        "url": "https://open.spotify.com/album/4fPgW765a0rCBlPHv2Dbr9"
+      },
+      "artists": [
+        {
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "La cloaka",
+      "url": "https://open.spotify.com/track/7LWNesO7tyZttKdzQ1derE"
+    },
+    {
+      "album": {
         "name": "LA CONOC\u00cd EN UN pERREO",
         "url": "https://open.spotify.com/album/2gp9sDhMjTK2zZiWnga0zE"
       },
@@ -7008,7 +7066,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 134514,
       "name": "mayo",
       "url": "https://open.spotify.com/track/2alUJhwm1WhzTEwMMTNuVx"
@@ -8920,7 +8978,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 233000,
       "name": "Pa que buscar?",
       "url": "https://open.spotify.com/track/6uuo5JomROvw6c9By2ElMU"
@@ -9919,6 +9977,24 @@
     },
     {
       "album": {
+        "name": "qu\u00e9 envidia me da",
+        "url": "https://open.spotify.com/album/0ARoBGh3vfy8PZ21BW2sD0"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173397,
+      "name": "qu\u00e9 envidia me da",
+      "url": "https://open.spotify.com/track/3ol4nWfDSJROgB83GDRTvV"
+    },
+    {
+      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
@@ -10908,7 +10984,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 269289,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/522XRQYWHYZ7BA64eoYgJN"

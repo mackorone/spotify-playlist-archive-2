@@ -4,7 +4,7 @@
 
 > When the beat drops, that's Guaracha.
 
-126 songs - 7 hr 17 min
+127 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Delicious](https://open.spotify.com/track/6cS9Hgnnd1zWNsYlVVma9v) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Happy Face](https://open.spotify.com/artist/0ED4nwCVzVNO4epxO86cOR) | [Delicious](https://open.spotify.com/album/5vsYvKnA7baRbbq3fvEDTW) | 2:46 | 2023-08-11 |  |
 | [Descontrol](https://open.spotify.com/track/4fOhWnhzv9j1bepz5Ap4yr) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Alina](https://open.spotify.com/artist/56qkYOeMCKZ5MwXquyMgj1), [Smoove Matt](https://open.spotify.com/artist/3KmalU8VYl6SOPDK8a1L6u) | [Descontrol](https://open.spotify.com/album/4DWQ4xa9iVfvYHJiG7V0cW) | 3:03 | 2023-08-11 |  |
 | [Devuélvete](https://open.spotify.com/track/5zwICoUTp0sJASiQ25fmkQ) | [F4ST](https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a), [Sara Tunes](https://open.spotify.com/artist/0y9110h844bML3uSJDgV9C), [Fainal](https://open.spotify.com/artist/0Q7ezBXgkKjIvdbtDLL3R6) | [Devuélvete](https://open.spotify.com/album/6ZpBzWcvs6l5ClmALMViaR) | 4:12 | 2023-08-11 |  |
+| [Dr\. Doctor](https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53) | [Emi Blue](https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Dr\. Doctor](https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ) | 2:38 | 2026-10-09 |  |
 | [El Grosero \- Original Mix](https://open.spotify.com/track/6LyOazBSFMyKZd7LVeRsD7) | [DJ Goozo](https://open.spotify.com/artist/5tnFFb9eJcPTwYReZWR8Zj), [Jacobo Palacio](https://open.spotify.com/artist/3mU1B2afd4dketDYW5BLfz) | [El Grosero \(Original Mix\)](https://open.spotify.com/album/5EsXdhSuJMdCSju789wvft) | 3:12 | 2023-08-11 |  |
 | [El Incomprendido](https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [El Incomprendido](https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8) | 4:27 | 2023-08-11 |  |
 | [El Mariachi](https://open.spotify.com/track/4lvgZsyJZIYn6QRMZvlt3O) | [Daniel Parranda](https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O), [Chris Salgado](https://open.spotify.com/artist/3tTY8XzN1jKcMRbazoNDVg) | [El Mariachi](https://open.spotify.com/album/1IDoRaTAdiGxOGQvPxhUdG) | 3:15 | 2023-08-11 |  |
@@ -88,7 +89,7 @@
 | [Noches de Soledad](https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M) | 3:38 | 2023-08-11 | 2024-04-19 |
 | [Ojitos Verdes](https://open.spotify.com/track/0YrS7XWkSdrYxN0Bx7ykFI) | [Manguito DJ](https://open.spotify.com/artist/0yc4gso86blxv1vjjv8qOJ) | [Ojitos Verdes](https://open.spotify.com/album/6tLTuGQbMOOpcZ2fSec92u) | 3:25 | 2023-08-11 | 2024-04-19 |
 | [Ojitos Verdes](https://open.spotify.com/track/1gvetCLLk27C95uN31dVmz) | [Manguito DJ](https://open.spotify.com/artist/0yc4gso86blxv1vjjv8qOJ) | [Ojitos Verdes](https://open.spotify.com/album/28IiQ5Wy7COGuG9viQVCfK) | 3:25 | 2023-11-10 |  |
-| [PA PA PA](https://open.spotify.com/track/5wuub0qkR7iGjOLkZe4Uod) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H), [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [PA PA PA](https://open.spotify.com/album/3Zx74y6FI8qjbUa2qWRDbB) | 3:43 | 2023-08-11 |  |
+| [PA PA PA](https://open.spotify.com/track/5wuub0qkR7iGjOLkZe4Uod) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H), [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [PA PA PA](https://open.spotify.com/album/3Zx74y6FI8qjbUa2qWRDbB) | 3:43 | 2023-08-11 | 2026-10-10 |
 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 | 2023-08-11 |  |
 | [Peligro](https://open.spotify.com/track/2rntkeZE5XNNEJGHd09PbZ) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl) | [Le Flame](https://open.spotify.com/album/3P9P6PWasGeuzZNiIBlcQV) | 2:54 | 2023-08-11 |  |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2023-08-11 |  |

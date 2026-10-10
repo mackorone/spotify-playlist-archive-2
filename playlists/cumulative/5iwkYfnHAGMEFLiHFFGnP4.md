@@ -4,7 +4,7 @@
 
 > HITS 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Miley Cyrus
 
-171 songs - 9 hr 32 min
+172 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 | 2026-07-31 |  |
 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2025-12-17 | 2026-03-14 |
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-09 | 2026-08-22 |
+| [pop it](https://open.spotify.com/track/31LTblYkfjcYNo8VcDIalJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [pop it](https://open.spotify.com/album/7DtLXYT2f2FT95xcYDgnSD) | 2:18 | 2026-10-09 |  |
 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 | 2026-01-30 | 2026-02-28 |
 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 | 2026-04-17 |  |
 | [Pretty & Petty](https://open.spotify.com/track/4qpqtd3FqIzZaFgHrDYExi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA? \(Beat Edition\)](https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi) | 3:03 | 2025-12-17 | 2026-01-17 |

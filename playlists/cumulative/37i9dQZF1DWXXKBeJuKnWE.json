@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 168323,
       "name": "Bad Faith",
       "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
@@ -7252,6 +7252,24 @@
       "duration_ms": 236273,
       "name": "human props",
       "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
+    },
+    {
+      "album": {
+        "name": "At Work In The Fields Of The Bomb",
+        "url": "https://open.spotify.com/album/7tIVbLtTqWrlTnoPiLLA1R"
+      },
+      "artists": [
+        {
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436850,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0"
     },
     {
       "album": {

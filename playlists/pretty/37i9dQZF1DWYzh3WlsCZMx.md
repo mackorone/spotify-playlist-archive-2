@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,940 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,947 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 40 | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/track/0YrYVhq0EukTxojdqLh2Sj) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [AzSwaye](https://open.spotify.com/artist/5tg5JDw7tQiZdJCShs9rk9), [Pjay](https://open.spotify.com/artist/6rB1jv0emRIkbLluXskjt9) | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/album/4aBeGq3hlU2z7c6EvKjHpc) | 2:36 |
 | 41 | [212](https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 3:24 |
 | 42 | [Foot Fungus](https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:09 |
-| 43 | [The Ave in You](https://open.spotify.com/track/3AIx2mvrJJuCaea9ImEkr1) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Lil Mont from The Ave](https://open.spotify.com/album/1cZLwwMVQDCEOErLWjJD6X) | 2:56 |
-| 44 | [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 |
-| 45 | [Sleeping With the Enemy](https://open.spotify.com/track/0ISoKjo9JVUB97JMgygRZP) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [The Bastard Tape, Vol\. 1](https://open.spotify.com/album/2N2geXZotNXw4nqi2bk00J) | 3:49 |
+| 43 | [Sleeping With the Enemy](https://open.spotify.com/track/0ISoKjo9JVUB97JMgygRZP) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [The Bastard Tape, Vol\. 1](https://open.spotify.com/album/2N2geXZotNXw4nqi2bk00J) | 3:49 |
+| 44 | [The Ave in You](https://open.spotify.com/track/3AIx2mvrJJuCaea9ImEkr1) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Lil Mont from The Ave](https://open.spotify.com/album/1cZLwwMVQDCEOErLWjJD6X) | 2:56 |
+| 45 | [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 |
 | 46 | [Pop It 4 Pimp](https://open.spotify.com/track/09nAAaHatXLnc0SmhReYny) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [II Trill](https://open.spotify.com/album/726mitnLPJrg0pftxSne1O) | 3:50 |
 | 47 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 |
 | 48 | [Drip](https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj) | [Kiddo Marv](https://open.spotify.com/artist/6HOYSQk7Npiuuy5KDdJQ3o), [Major Nine](https://open.spotify.com/artist/4Ve9PxCRMHIcErb2b6rpLu) | [Drip](https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad) | 3:13 |

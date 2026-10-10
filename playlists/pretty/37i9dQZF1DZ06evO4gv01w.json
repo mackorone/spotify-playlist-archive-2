@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30720,
+  "num_followers": 30731,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAClmhslbQulXH21y6lMIHwr",
+  "snapshot_id": "asbdAAAAAAAhMCjjf0xJrdiVBEpOJvhA",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193444,
-      "name": "Bleach Blonde Bottle Blues",
-      "url": "https://open.spotify.com/track/3cRhk3aGHPTe4aptRyQAJW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/6zAalDHGqtEJZK8M8rI9ak"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193444,
+      "name": "Bleach Blonde Bottle Blues",
+      "url": "https://open.spotify.com/track/59VfeuDC5ZulEYkVJYFkFR"
     },
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/3Mi6mtEZ2MopQ7MKfkWl9f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reskinned",
         "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
       },
@@ -111,22 +95,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Say Yes",
-        "url": "https://open.spotify.com/album/4llPdQko8nRGK12QcHWs3N"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
       "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 236433,
-      "name": "Come On Up",
-      "url": "https://open.spotify.com/track/2uu4UlunMmvMy4XFzWbzDY"
+      "duration_ms": 201586,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/3Mi6mtEZ2MopQ7MKfkWl9f"
     },
     {
       "added_at": null,
@@ -159,6 +139,26 @@
       "duration_ms": 273237,
       "name": "Bluephoria",
       "url": "https://open.spotify.com/track/7CSTeWYuRoCw1MOh9R6Rci"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Say Yes",
+        "url": "https://open.spotify.com/album/4llPdQko8nRGK12QcHWs3N"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 236433,
+      "name": "Come On Up",
+      "url": "https://open.spotify.com/track/2uu4UlunMmvMy4XFzWbzDY"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gray House (Original Soundtrack From the Amazon Series)",
+        "url": "https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 292869,
+      "name": "The Devil's Boat - From The Gray House Original Soundtrack",
+      "url": "https://open.spotify.com/track/62kKtLqtYgzKNiug9baIAe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kin",
         "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
       },
@@ -551,6 +567,22 @@
       "duration_ms": 228360,
       "name": "Jailbreak",
       "url": "https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 201526,
+      "name": "In The Air Tonight",
+      "url": "https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq"
     },
     {
       "added_at": null,
@@ -575,38 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "In The Air Tonight",
-      "url": "https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gray House (Original Soundtrack From the Amazon Series)",
-        "url": "https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 292869,
-      "name": "The Devil's Boat - From The Gray House Original Soundtrack",
-      "url": "https://open.spotify.com/track/62kKtLqtYgzKNiug9baIAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin'",
-      "url": "https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reskinned",
         "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
       },
@@ -651,22 +635,6 @@
       "duration_ms": 210040,
       "name": "Sucker Puncher",
       "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Crown of Fire",
-      "url": "https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij"
     },
     {
       "added_at": null,
@@ -688,7 +656,7 @@
       "added_at": null,
       "album": {
         "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/3umXCPAIuBIi1DifA4IGMW"
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
@@ -696,9 +664,25 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 164340,
-      "name": "God Moves On The Water",
-      "url": "https://open.spotify.com/track/32ghv1TXOdB5O7tX8OK9q3"
+      "duration_ms": 193389,
+      "name": "Keep Diggin'",
+      "url": "https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Crown of Fire",
+      "url": "https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij"
     },
     {
       "added_at": null,
@@ -719,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/0W7YXl1HqU7lzgI0BAlpfu"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1uwBsYiLFY4hnHJYwrRaz8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
@@ -747,6 +715,38 @@
       "duration_ms": 193063,
       "name": "Hard Time Killing Floor Blues",
       "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/3umXCPAIuBIi1DifA4IGMW"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 164340,
+      "name": "God Moves On The Water",
+      "url": "https://open.spotify.com/track/32ghv1TXOdB5O7tX8OK9q3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/0W7YXl1HqU7lzgI0BAlpfu"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1uwBsYiLFY4hnHJYwrRaz8"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 192351,
+      "name": "Tears Of Blue To Gold",
+      "url": "https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Co-Starring",
         "url": "https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 271678,
       "name": "Rattlesnake Shakin\u2019 Woman",
       "url": "https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 192351,
-      "name": "Tears Of Blue To Gold",
-      "url": "https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v"
     },
     {
       "added_at": null,

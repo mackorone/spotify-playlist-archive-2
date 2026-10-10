@@ -650,10 +650,28 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 145116,
       "name": "CALL SPITTA",
       "url": "https://open.spotify.com/track/6TSbyVtg9vgSiJEHct8wOF"
+    },
+    {
+      "album": {
+        "name": "BIGGER THAN THE DEVIL",
+        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "CALL SPITTA",
+      "url": "https://open.spotify.com/track/6pz0xCL2lbwxO8JXenfyyg"
     },
     {
       "album": {
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 126467,
       "name": "RICH PROBLEMS",
       "url": "https://open.spotify.com/track/6rpwtMSVd51Uev03tDDvax"

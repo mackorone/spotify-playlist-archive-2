@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-528 songs - 1 day 0 hr 56 min
+529 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Incandescent](https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Incandescent](https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg) | 2:28 | 2025-10-02 | 2026-09-27 |
 | [Inclusive](https://open.spotify.com/track/26atiN5wmCGO9Rbcx5lSwj) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Inclusive](https://open.spotify.com/album/6bPTArHqDlHoxzO5ELIE0g) | 2:35 | 2025-10-02 | 2026-08-20 |
 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 | 2026-02-26 |
+| [Infinite Stream](https://open.spotify.com/track/5ySia39aWCRHbPc2gHLY2s) | [Witrai](https://open.spotify.com/artist/1Sh2NurLfd3Xfx2KZF6xlJ) | [Infinite Stream](https://open.spotify.com/album/5C12awehRKMzgOmjZdpTig) | 2:38 | 2026-09-21 |  |
 | [Infinity](https://open.spotify.com/track/6U1eeDHeGzT9KHKwWfrHqF) | [Ælan](https://open.spotify.com/artist/6hoxrMfUz7hWkm7b7XxsDU) | [Infinity](https://open.spotify.com/album/5hufE2CA1jvRgxD765b8km) | 2:58 | 2025-10-24 | 2026-03-03 |
 | [Inner Stream](https://open.spotify.com/track/1zIevefvM7u2XZzEbHkSKA) | [I thought about time](https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8) | [Inner Stream](https://open.spotify.com/album/6WlNdLtXenVk8jrphSEL50) | 2:21 | 2026-02-23 | 2026-04-04 |
 | [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-15 | 2024-04-02 |
@@ -380,7 +381,7 @@
 | [Revelation](https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Revelation](https://open.spotify.com/album/0B7u4chWcq7fBvU7EAK3Fj) | 3:10 | 2025-06-04 | 2026-04-04 |
 | [Rising Up](https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp) | [Flora Fossils](https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N) | [Rising Up](https://open.spotify.com/album/02AhYeStIFGhVazWU4Xx6Q) | 3:09 | 2025-02-18 | 2026-07-15 |
 | [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 | 2024-12-12 | 2025-05-22 |
-| [River Essence](https://open.spotify.com/track/1tW3xopLtJrMxf7K8qcjAA) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [River Essence](https://open.spotify.com/album/1WujHhY8Cu2ML4zCes2vhK) | 2:30 | 2026-09-21 |  |
+| [River Essence](https://open.spotify.com/track/1tW3xopLtJrMxf7K8qcjAA) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [River Essence](https://open.spotify.com/album/1WujHhY8Cu2ML4zCes2vhK) | 2:30 | 2026-09-21 | 2026-10-10 |
 | [Robin Choir](https://open.spotify.com/track/3Hb6TtTURzwXFaBoMkUj2u) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Robin Choir](https://open.spotify.com/album/15yfgasrD61BQmsYx3gaez) | 2:59 | 2023-11-24 | 2025-05-22 |
 | [Roots](https://open.spotify.com/track/7dR4I3Gvrx9njBICv4jsz4) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Roots](https://open.spotify.com/album/51PNlBZV4CCQItG7h7LrcP) | 3:31 | 2023-04-28 | 2024-04-02 |
 | [Rumble in Peace](https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Rumble in Peace](https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N) | 2:58 | 2025-01-31 | 2026-06-27 |

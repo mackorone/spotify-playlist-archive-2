@@ -1,6 +1,6 @@
 {
   "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: Te Wehi",
-  "num_followers": 133920,
+  "num_followers": 133941,
   "original_name": "Island Time",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,18 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7mKtYSUiaVa6nccctEBRo3"
+        "name": "SAW",
+        "url": "https://open.spotify.com/album/2HCIshsLaVlgUY24Y3ZsgH"
       },
       "artists": [
         {
           "name": "Son & Water",
           "url": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi"
-        },
-        {
-          "name": "Myshaan",
-          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
         }
       ],
-      "duration_ms": 215068,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2acveoZyxBzwbxw6Y3v18J"
+      "duration_ms": 246000,
+      "name": "SAW",
+      "url": "https://open.spotify.com/track/4uqsqS00IghuTUOAPpkbR3"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -483,18 +479,22 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "SAW",
-        "url": "https://open.spotify.com/album/2HCIshsLaVlgUY24Y3ZsgH"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7mKtYSUiaVa6nccctEBRo3"
       },
       "artists": [
         {
           "name": "Son & Water",
           "url": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi"
+        },
+        {
+          "name": "Myshaan",
+          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
         }
       ],
-      "duration_ms": 246000,
-      "name": "SAW",
-      "url": "https://open.spotify.com/track/4uqsqS00IghuTUOAPpkbR3"
+      "duration_ms": 215068,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2acveoZyxBzwbxw6Y3v18J"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
+        "name": "Lay Your Head",
+        "url": "https://open.spotify.com/album/2PeRnswqeVdWq82jOh91Gu"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 177150,
+      "name": "Lay Your Head",
+      "url": "https://open.spotify.com/track/3xhDVsfxKTzhhPjqPjaMP9"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
         "name": "Keep Jamming",
         "url": "https://open.spotify.com/album/233QYWuGeFQ7uSG0pV7oh8"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 229090,
       "name": "Keep Jamming",
       "url": "https://open.spotify.com/track/4CjzpOmmmEHg6VEIdSgSVJ"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
-        "name": "Lay Your Head",
-        "url": "https://open.spotify.com/album/2PeRnswqeVdWq82jOh91Gu"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 177150,
-      "name": "Lay Your Head",
-      "url": "https://open.spotify.com/track/3xhDVsfxKTzhhPjqPjaMP9"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
+        "name": "Always with You",
+        "url": "https://open.spotify.com/album/3TEomtRmmPSIvL5tozcHV2"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "duration_ms": 197787,
+      "name": "Always with You",
+      "url": "https://open.spotify.com/track/21tXzRXVJd6ikASjsWZIXD"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/1bc5Ork15j61m1sdKnC5t5"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "Always with You",
-        "url": "https://open.spotify.com/album/3TEomtRmmPSIvL5tozcHV2"
-      },
-      "artists": [
-        {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
-        }
-      ],
-      "duration_ms": 197787,
-      "name": "Always with You",
-      "url": "https://open.spotify.com/track/21tXzRXVJd6ikASjsWZIXD"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
         "name": "M\u0101ori Ki Te Ao",
         "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "Do Anything",
-        "url": "https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a"
-      },
-      "artists": [
-        {
-          "name": "Lion Rezz",
-          "url": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Do Anything",
-      "url": "https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 225000,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
+        "name": "Do Anything",
+        "url": "https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a"
+      },
+      "artists": [
+        {
+          "name": "Lion Rezz",
+          "url": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Do Anything",
+      "url": "https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "Good on You",
-        "url": "https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt"
-      },
-      "artists": [
-        {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "Good on You",
-      "url": "https://open.spotify.com/track/5pFoSyHgHL03w7GahfZDFc"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 213077,
       "name": "One Night",
       "url": "https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
+        "name": "Good on You",
+        "url": "https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Good on You",
+      "url": "https://open.spotify.com/track/5pFoSyHgHL03w7GahfZDFc"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -1279,34 +1279,42 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "ROLLIN ON",
-        "url": "https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU"
+        "name": "The Producers Chair Dancehall, Vol. 1",
+        "url": "https://open.spotify.com/album/3zIR1sUyNwgVOuNdjBHEow"
       },
       "artists": [
         {
-          "name": "Rokk\u014d",
-          "url": "https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b"
+          "name": "Iharaira Starr",
+          "url": "https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui"
+        },
+        {
+          "name": "Awa",
+          "url": "https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P"
+        },
+        {
+          "name": "Lion Rezz",
+          "url": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
         }
       ],
-      "duration_ms": 196689,
-      "name": "ROLLIN ON",
-      "url": "https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D"
+      "duration_ms": 209950,
+      "name": "Long White Cloud",
+      "url": "https://open.spotify.com/track/5GoOe77gWuqjzp8ESNFdZ9"
     },
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "Do That To Me One More Time",
-        "url": "https://open.spotify.com/album/7DCPgwiy3QybrkirypwX2c"
+        "name": "Not I",
+        "url": "https://open.spotify.com/album/3drszSw8bafZ36LNQNmpQY"
       },
       "artists": [
         {
-          "name": "Junior Soqeta",
-          "url": "https://open.spotify.com/artist/1bJTmjgUdH1inz5cCpsOUA"
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
         }
       ],
-      "duration_ms": 270344,
-      "name": "Do That To Me One More Time",
-      "url": "https://open.spotify.com/track/0fDcWl8ApNhQlqVk7aQNg0"
+      "duration_ms": 188000,
+      "name": "Not I",
+      "url": "https://open.spotify.com/track/5pAvjWVO2PhST6csDrU4fN"
     }
   ],
   "unique_name": "Island Time",

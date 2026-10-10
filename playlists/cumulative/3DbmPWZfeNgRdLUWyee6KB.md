@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,580 songs - 3 day 19 hr 59 min
+1,582 songs - 3 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 | 2025-12-09 | 2026-01-05 |
 | [Did I Do Something Wrong?](https://open.spotify.com/track/6WuatAimXNoHVnkZ2zEMOS) | [Amin Etesamian](https://open.spotify.com/artist/5GMO7X0263W47oe3j37Z5d) | [Did I Do Something Wrong?](https://open.spotify.com/album/6FT0JtRDR4re7KJe8NsOCz) | 3:16 | 2026-03-08 | 2026-04-12 |
 | [Dieser Moment Mit Dir](https://open.spotify.com/track/2xFZeUDtkclgCGTRqUPg1r) | [Leslie´s Project](https://open.spotify.com/artist/6FxIZD5GYvLPbrdln5RD2f) | [Dieser Moment Mit Dir](https://open.spotify.com/album/2GnhEFSs5b8kTy7PPEH4dG) | 3:18 | 2025-12-15 | 2026-01-15 |
+| [Dime Que Puedo Hacer Sin Ti \- Remix](https://open.spotify.com/track/0WhxLpotzzMvKdF0HKpLcb) | [Dr\. Leo](https://open.spotify.com/artist/1KPjYNSnNtKiZXCyeDfuw5), [Bernal Villegas](https://open.spotify.com/artist/3odi1BKZOHNVgJ1fOpEkWM), [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Dime Que Puedo Hacer Sin Ti \(Remix\)](https://open.spotify.com/album/1nSXeJ5KaW8cCFkjXQSgQe) | 6:38 | 2026-10-09 |  |
 | [Dimensione Sospesa](https://open.spotify.com/track/60ALwPWjAZpShCXdanf3Vq) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [Canzoni Contromano](https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII) | 4:01 | 2025-10-02 | 2025-11-29 |
 | [Diminuendo](https://open.spotify.com/track/3YbKWayRUzzl86Yu88vvbi) | [Giuseppe Moffa](https://open.spotify.com/artist/5fkDfBiPF2JYEl8VXeg9Np) | [Diminuendo](https://open.spotify.com/album/30H9RvsEPStjBG8ZNNToBr) | 2:02 | 2023-04-20 | 2025-11-29 |
 | [Dimmelo Adesso](https://open.spotify.com/track/5dokQ5aPLUoVuKUMlUYYmy) | [Aless\_andro](https://open.spotify.com/artist/7olRQapU828COnC46pwfzO) | [Dimmelo Adesso](https://open.spotify.com/album/3j3qBXLr6p8gKGIPuNXTOV) | 4:05 | 2026-01-31 | 2026-02-28 |
@@ -676,6 +677,7 @@
 | [Just Human](https://open.spotify.com/track/1ph19dy5HOqRQU0QOVOPal) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Just Human](https://open.spotify.com/album/4CfKQUWU0oSfBey94KBYHt) | 3:46 | 2026-08-08 | 2026-09-17 |
 | [Kabungah \(Happiness\)](https://open.spotify.com/track/0VsPnsXdo8mMDDUgIYYZFb) | [Nirvan Channel](https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x) | [Kabungah \(Happiness\)](https://open.spotify.com/album/5xHDhkusrljpHJVwZMjp5X) | 4:09 | 2026-05-25 | 2026-07-03 |
 | [Kali Was Right About You](https://open.spotify.com/track/3U5JmWFAPrhnQeslCwHby5) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Kali Was Right About You](https://open.spotify.com/album/623mi3Iwh3GVVimTgSEbGF) | 3:38 | 2025-12-22 | 2026-01-24 |
+| [Kangkung Darat](https://open.spotify.com/track/5tyyqNFUOqYemUMzNHLTy9) | [Vicz GeoHam](https://open.spotify.com/artist/1t5itTb1ZUb5ToCBQR9V1R) | [Kangkung Darat](https://open.spotify.com/album/56HBquJLEOgFYmsHbLpt5O) | 1:54 | 2026-10-09 |  |
 | [Kapanmayan Yara](https://open.spotify.com/track/3hRkj9UQCZE7yqkQnbFXl9) | [Senfonia Sound](https://open.spotify.com/artist/5lowV6dVoWE3CYVXUxPO5N) | [Kapanmayan Yara](https://open.spotify.com/album/14mtNlJYZwyW5nmE84gw0I) | 4:02 | 2026-08-17 | 2026-09-17 |
 | [Kavanagh](https://open.spotify.com/track/2mxMn8pXBqlkAAQEXbFIgx) | [Alejandro Fernandez Lecce](https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re) | [Buenos Aires Lounge Deluxe Vol\. 1](https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G) | 3:19 | 2024-09-19 | 2025-12-21 |
 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 | 2026-04-19 | 2026-06-05 |

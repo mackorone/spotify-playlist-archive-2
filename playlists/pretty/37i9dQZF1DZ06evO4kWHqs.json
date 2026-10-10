@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABG5py2dfmipk875HDDog7x",
+  "snapshot_id": "asbdAAAAAAD6THj6J105KGongc0t+GFA",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitches Over Boys",
-        "url": "https://open.spotify.com/album/23qRynO3OytfHSeMKtTADN"
+        "name": "Gameboi",
+        "url": "https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S"
       },
       "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 147947,
-      "name": "Bitches Over Boys",
-      "url": "https://open.spotify.com/track/0YWFpqZck5m8olsZr3CC1H"
+      "duration_ms": 153103,
+      "name": "Gameboi",
+      "url": "https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n"
     },
     {
       "added_at": null,
@@ -404,9 +396,33 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Gameboi",
-      "url": "https://open.spotify.com/track/6rVhcAfzVXye2Rv5dxplKy"
+      "duration_ms": 131764,
+      "name": "All My Girls",
+      "url": "https://open.spotify.com/track/6kNmSSRM2fRII7zjFGjzyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitches Over Boys",
+        "url": "https://open.spotify.com/album/23qRynO3OytfHSeMKtTADN"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 147947,
+      "name": "Bitches Over Boys",
+      "url": "https://open.spotify.com/track/0YWFpqZck5m8olsZr3CC1H"
     },
     {
       "added_at": null,
@@ -423,26 +439,6 @@
       "duration_ms": 100444,
       "name": "Pop Shit",
       "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "fashion week",
-        "url": "https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
-        }
-      ],
-      "duration_ms": 114626,
-      "name": "fashion week",
-      "url": "https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk"
     },
     {
       "added_at": null,
@@ -472,9 +468,29 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 131764,
-      "name": "All My Girls",
-      "url": "https://open.spotify.com/track/6kNmSSRM2fRII7zjFGjzyB"
+      "duration_ms": 185379,
+      "name": "Wrist",
+      "url": "https://open.spotify.com/track/3FUhwWJhvtXJJWp8Vsq8w9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "fashion week",
+        "url": "https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "duration_ms": 114626,
+      "name": "fashion week",
+      "url": "https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk"
     },
     {
       "added_at": null,
@@ -491,26 +507,6 @@
       "duration_ms": 140307,
       "name": "Be Me",
       "url": "https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DRY CRY",
-        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 169208,
-      "name": "cunty (feat. Duquesa)",
-      "url": "https://open.spotify.com/track/4VZXiqqOV4fNg4IS2SecgL"
     },
     {
       "added_at": null,
@@ -551,46 +547,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "jane baby (feat. Cash Cobain)",
-        "url": "https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO"
+        "name": "Money Talk",
+        "url": "https://open.spotify.com/album/6QfToP6Te9fSg6TDGS7EUE"
       },
       "artists": [
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
         }
       ],
-      "duration_ms": 128000,
-      "name": "jane baby (feat. Cash Cobain)",
-      "url": "https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp"
+      "duration_ms": 162062,
+      "name": "Money Talk",
+      "url": "https://open.spotify.com/track/25qQATlLMHVqewlA3kYFBu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Blue Sky (feat. LYZZA & SadBoi)",
-        "url": "https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu"
+        "name": "DRY CRY",
+        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
       "artists": [
         {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "LYZZA",
-          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
-        },
-        {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         }
       ],
-      "duration_ms": 142914,
-      "name": "Blue Sky (feat. LYZZA & SadBoi)",
-      "url": "https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68"
+      "duration_ms": 169208,
+      "name": "cunty (feat. Duquesa)",
+      "url": "https://open.spotify.com/track/4VZXiqqOV4fNg4IS2SecgL"
     },
     {
       "added_at": null,
@@ -620,25 +608,29 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 185379,
-      "name": "Wrist",
-      "url": "https://open.spotify.com/track/3FUhwWJhvtXJJWp8Vsq8w9"
+      "duration_ms": 100000,
+      "name": "Bathroom Sink",
+      "url": "https://open.spotify.com/track/7kIIuZp49vKZksGqsLfFLp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/2BFNePqPv0p0nsxbtgD1RE"
+        "name": "jane baby (feat. Cash Cobain)",
+        "url": "https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO"
       },
       "artists": [
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"
+      "duration_ms": 128000,
+      "name": "jane baby (feat. Cash Cobain)",
+      "url": "https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp"
     },
     {
       "added_at": null,
@@ -679,8 +671,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Forbid I Have Fun.",
-        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
+        "name": "Blue Sky (feat. LYZZA & SadBoi)",
+        "url": "https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 142914,
+      "name": "Blue Sky (feat. LYZZA & SadBoi)",
+      "url": "https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/2BFNePqPv0p0nsxbtgD1RE"
       },
       "artists": [
         {
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 100000,
-      "name": "Bathroom Sink",
-      "url": "https://open.spotify.com/track/7kIIuZp49vKZksGqsLfFLp"
+      "duration_ms": 131250,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"
     },
     {
       "added_at": null,
@@ -707,22 +723,6 @@
       "duration_ms": 170666,
       "name": "watch it all fall",
       "url": "https://open.spotify.com/track/4dHI6744n697CKwis0vhT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "were all the ig girls worth it?",
-        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 125397,
-      "name": "blaming me",
-      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "U Dun Kno",
-        "url": "https://open.spotify.com/album/5lD2QGhGCh7lGmfvaLWjxR"
+        "name": "were all the ig girls worth it?",
+        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 146548,
-      "name": "U Dun Kno",
-      "url": "https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf"
+      "duration_ms": 125397,
+      "name": "blaming me",
+      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
       "duration_ms": 176602,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/7pqABmG9d2EXsBmXtE6221"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "U Dun Kno",
+        "url": "https://open.spotify.com/album/5lD2QGhGCh7lGmfvaLWjxR"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 146548,
+      "name": "U Dun Kno",
+      "url": "https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf"
     },
     {
       "added_at": null,
@@ -927,34 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ms. Do You Wrong",
-        "url": "https://open.spotify.com/album/3dheKefbYeaYT97B6bxEzW"
+        "name": "METAL TAIL",
+        "url": "https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1"
       },
       "artists": [
+        {
+          "name": "WondaGurl",
+          "url": "https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0"
+        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 113142,
-      "name": "Ms. Do You Wrong",
-      "url": "https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DRY CRY",
-        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "nana",
-      "url": "https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj"
+      "duration_ms": 178611,
+      "name": "DAMAGE",
+      "url": "https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy"
     }
   ],
   "unique_name": "This Is SadBoi",

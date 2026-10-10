@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-222 songs - 13 hr 3 min
+223 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Black Betty](https://open.spotify.com/track/1hyEsWwmDnWnLaw0n0YkLS) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi) | 2:44 | 2023-11-10 | 2026-01-04 |
 | [Black Betty](https://open.spotify.com/track/4wju5onPL5k2pORII0t2W1) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz) | 2:44 | 2023-06-13 |  |
 | [Bleach Blonde Bottle Blues](https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:13 | 2022-08-05 | 2023-06-17 |
-| [Bleach Blonde Bottle Blues](https://open.spotify.com/track/3cRhk3aGHPTe4aptRyQAJW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:13 | 2023-06-19 |  |
+| [Bleach Blonde Bottle Blues](https://open.spotify.com/track/3cRhk3aGHPTe4aptRyQAJW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:13 | 2023-06-19 | 2026-10-10 |
+| [Bleach Blonde Bottle Blues](https://open.spotify.com/track/59VfeuDC5ZulEYkVJYFkFR) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/6zAalDHGqtEJZK8M8rI9ak) | 3:13 | 2026-10-10 |  |
 | [Bleach Blonde Bottle Blues](https://open.spotify.com/track/7dH8e4Eb8PMqDCTU20ZKRB) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 3:13 | 2023-06-16 | 2026-03-26 |
 | [Blood Harmony](https://open.spotify.com/track/03DkpmmMGvsyuNjb7rBn72) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k) | 4:05 | 2022-09-10 | 2022-09-18 |
 | [Blood Harmony](https://open.spotify.com/track/0lNzJmI8WydGlJ3ZzEvW93) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 4:05 | 2022-11-18 | 2026-05-30 |

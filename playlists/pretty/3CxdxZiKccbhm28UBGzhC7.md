@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 133 songs - 7 hr 53 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 134 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,5 +141,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 131 | [Ill Ray \(The King\)](https://open.spotify.com/track/0WruOD5fP4RJ1kAn3Pcv3h) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [For Crying Out Loud \(Deluxe\)](https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU) | 3:39 |
 | 132 | [Never Be Alone](https://open.spotify.com/track/0hFGU12tOymm3D8WXiWhEl) | [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/3wBmAxRSkxbWqBZ57Ujogs) | 3:22 |
 | 133 | [If You Got The Money](https://open.spotify.com/track/5XbX2Wud5JmdRBtqWMLhoB) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Panic Prevention](https://open.spotify.com/album/15P0EFs78iLbc5rOLSkYYG) | 4:03 |
+| 134 | [Loser](https://open.spotify.com/track/0dHoN2r23LzobJS5FynRip) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Put A Smile On For Me](https://open.spotify.com/album/6lsuxUBgd9TFAfzS9lBkCH) | 3:46 |
 
-Snapshot ID: `AAAA91/hC2OlAL46N4eGx9pMZXGz00D6`
+Snapshot ID: `AAAA+IE7cQegl+hwNebunr3CxjW5wRVO`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,867 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,908 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Busy](https://open.spotify.com/track/707dVK7TR7V5aZCIOZUAfv) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Victory Lap](https://open.spotify.com/album/15lQCBUQm0PeQdFnRDVDZn) | 2:07 |
 | 2 | [ANTIDOTE](https://open.spotify.com/track/7KmCQLSSde0UX5OqCgvGN9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 3:07 |
-| 3 | [BADASS](https://open.spotify.com/track/6nIRQecf0Wpfbm078oZTsr) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Rumane](https://open.spotify.com/artist/0bSPH6EeWI56i8A5Z3m7R2) | [BADASS](https://open.spotify.com/album/4G5OaPKi65aIfyY0vR1C1V) | 2:41 |
+| 3 | [BADASS](https://open.spotify.com/track/6nIRQecf0Wpfbm078oZTsr) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [RUMANE](https://open.spotify.com/artist/30Y5MpTLQy10jZ96324lV7) | [BADASS](https://open.spotify.com/album/4G5OaPKi65aIfyY0vR1C1V) | 2:41 |
 | 4 | [Heater](https://open.spotify.com/track/0FI43BWpVXYhuAI2IO9pNH) | [Supreme Sidhu](https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN), [Shiiv](https://open.spotify.com/artist/1QNNJQV9fWB0o73y3fZAnj) | [Better Late Than Never](https://open.spotify.com/album/7LZj19MRlz22g0fdtzHspn) | 2:27 |
 | 5 | [Tension](https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:48 |
 | 6 | [Mangda Wapis Kyun](https://open.spotify.com/track/0uxLzgP3Y2SgLOyWDDUc6f) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Kidjaywest](https://open.spotify.com/artist/2S34cREqbQ10LEU0hvvpCF), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Mangda Wapis Kyun](https://open.spotify.com/album/06gZ62SyRZF80Ty5RxMvWL) | 3:18 |

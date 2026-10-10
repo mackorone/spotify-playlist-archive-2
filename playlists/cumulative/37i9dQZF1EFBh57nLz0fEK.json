@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 269740,
       "name": "Big Wheel Whippin'",
       "url": "https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1"
@@ -1618,10 +1618,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 184941,
       "name": "Lil Slime",
       "url": "https://open.spotify.com/track/5qiCLYqvRSzo0BtW5lQfs1"
+    },
+    {
+      "album": {
+        "name": "Beautiful Michi Girls",
+        "url": "https://open.spotify.com/album/3wItpw9FvGBLkGrPf73iBg"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184960,
+      "name": "Lil Slime",
+      "url": "https://open.spotify.com/track/1qt2V8xHRrN8Nu63SFUEnV"
     },
     {
       "album": {
@@ -2450,7 +2468,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 218037,
       "name": "Strongest Woman I Know",
       "url": "https://open.spotify.com/track/4JsPASwBKWutGo84Na2oQ8"
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 218037,
       "name": "Strongest Woman I Know",
       "url": "https://open.spotify.com/track/4XvQ2wpRv9xyH0t7B3K1Mo"

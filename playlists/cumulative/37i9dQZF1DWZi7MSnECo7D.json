@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: CACO/CONCHA",
+  "description": "M\u00fasica brasileira fora da curva. Foto: In\u00eas \u00e9 Morta",
   "name": "alt BR",
   "tracks": [
     {
@@ -2203,6 +2203,32 @@
     },
     {
       "album": {
+        "name": "Beb\u00ea Chor\u00e3o",
+        "url": "https://open.spotify.com/album/3HJtr9uqW7ayOqSy3ZZ4q7"
+      },
+      "artists": [
+        {
+          "name": "Clube Dezenove",
+          "url": "https://open.spotify.com/artist/719qMl6Gpbyr3h56RZ7RQT"
+        },
+        {
+          "name": "Plumasdecera",
+          "url": "https://open.spotify.com/artist/2ieNjZISvOxzjA4N5o3z4D"
+        },
+        {
+          "name": "Kelly Clube",
+          "url": "https://open.spotify.com/artist/3jw11GBeoNQCmpD4rr831J"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218192,
+      "name": "Beb\u00ea Chor\u00e3o",
+      "url": "https://open.spotify.com/track/4abiTuOkFIhymiVAAS8Rws"
+    },
+    {
+      "album": {
         "name": "Beijo Roubado em Segredo",
         "url": "https://open.spotify.com/album/5gWxrGn4jvSucPyWLCgOX8"
       },
@@ -3630,6 +3656,24 @@
       "duration_ms": 199761,
       "name": "cidade",
       "url": "https://open.spotify.com/track/2QZd6iEwoXjke3PIxeVsYJ"
+    },
+    {
+      "album": {
+        "name": "Cigarro",
+        "url": "https://open.spotify.com/album/1xvjc2y5hTvjFbUBMA3Qxd"
+      },
+      "artists": [
+        {
+          "name": "Fuma\u00e7a Urbana",
+          "url": "https://open.spotify.com/artist/3zQOGDpQ0B6nWvvdplQXMm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185286,
+      "name": "cigarro",
+      "url": "https://open.spotify.com/track/1vEsCUDo16h1bW9kmuEfTv"
     },
     {
       "album": {
@@ -5155,6 +5199,24 @@
     },
     {
       "album": {
+        "name": "Dias de um Futuro Esquecido",
+        "url": "https://open.spotify.com/album/2MjO6BArq6radVbFCNNp4i"
+      },
+      "artists": [
+        {
+          "name": "In\u00eas \u00e9 Morta",
+          "url": "https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165066,
+      "name": "Dias de um Futuro Esquecido",
+      "url": "https://open.spotify.com/track/3VUXWwiXwRe0rtZVkDbtkN"
+    },
+    {
+      "album": {
         "name": "Dif\u00edcil",
         "url": "https://open.spotify.com/album/5PnBdVhjBi6dfATnhLSnIa"
       },
@@ -5538,6 +5600,24 @@
       "duration_ms": 295332,
       "name": "DTF",
       "url": "https://open.spotify.com/track/1QyBY8GvGDGhibm9VMlP4f"
+    },
+    {
+      "album": {
+        "name": "Duas Palavras",
+        "url": "https://open.spotify.com/album/3t6wKGalQmYmhgpLd007MR"
+      },
+      "artists": [
+        {
+          "name": "Monza",
+          "url": "https://open.spotify.com/artist/6ObFhfPgXL9AfJufWk8BfP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216015,
+      "name": "Duas Palavras",
+      "url": "https://open.spotify.com/track/2CtBFttRMH8k2BD5D0b6EJ"
     },
     {
       "album": {
@@ -10392,7 +10472,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 162919,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/2JpJZNS3cMAU9FyfbYjYpZ"
@@ -15372,7 +15452,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 316384,
       "name": "Sem margem",
       "url": "https://open.spotify.com/track/3gzbTYpYZU7IesqO6KKf7F"
@@ -16400,6 +16480,24 @@
       "duration_ms": 213546,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7"
+    },
+    {
+      "album": {
+        "name": "at\u00e9 aqui.",
+        "url": "https://open.spotify.com/album/25lS3jvYOWib0dSasc2ygH"
+      },
+      "artists": [
+        {
+          "name": "esportes individuais",
+          "url": "https://open.spotify.com/artist/2cFIymfFzJp5vtINMXRnZS"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183703,
+      "name": "tanto faz",
+      "url": "https://open.spotify.com/track/2I0FjIDFu2fbf9X0T4W7px"
     },
     {
       "album": {
@@ -18684,6 +18782,24 @@
       "duration_ms": 227755,
       "name": "Voc\u00ea Sabe Tudo Pela Metade",
       "url": "https://open.spotify.com/track/70Gyc0ylgaU7iwaXKZFsTC"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Se Passa",
+        "url": "https://open.spotify.com/album/3WGOa1Y7z4Uj8ReVij8HUH"
+      },
+      "artists": [
+        {
+          "name": "Caxabaxa",
+          "url": "https://open.spotify.com/artist/4WEL2trKGv2zV3aBnHpiEu"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279700,
+      "name": "Voc\u00ea Se Passa",
+      "url": "https://open.spotify.com/track/1lT6VwrOBbR4Qak8QcNfg4"
     },
     {
       "album": {

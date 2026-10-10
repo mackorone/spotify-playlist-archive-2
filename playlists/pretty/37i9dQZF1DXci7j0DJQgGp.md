@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,674,535 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,674,276 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 36 | [Maker](https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Tragic Magic](https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA) | 4:31 |
 | 37 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 |
 | 38 | [Horses](https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 5:05 |
-| 39 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
-| 40 | [Pepper](https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 2:48 |
+| 39 | [Pepper](https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 2:48 |
+| 40 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
 | 41 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 |
 | 42 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 43 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 53 | [Where’s Your Love Now \- Waxahatchee Version](https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Where’s Your Love Now \(Waxahatchee Version\)](https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3) | 5:21 |
 | 54 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
 | 55 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
-| 56 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 |
-| 57 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
+| 56 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
+| 57 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 |
 | 58 | [Astral Projection](https://open.spotify.com/track/0cIcEuNjpHSKaXEiH3H1NW) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/6xhv13hoRmxMHCXjp87Kl0) | 3:52 |
 | 59 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 |
 | 60 | [Don't Do Me Good](https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:13 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 95 | [Summer](https://open.spotify.com/track/5wghHTSgz3KugE6b7QTm2e) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Summer](https://open.spotify.com/album/0ZRGex2LSlTPx9Na2PBqB5) | 3:21 |
 | 96 | [The Weakness](https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6) | 3:28 |
 | 97 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
-| 98 | [Queenstown](https://open.spotify.com/track/7EzhSMssOShDH5PfOW2sOe) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [I Love You, Brae](https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m) | 4:43 |
-| 99 | [Fanfare](https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Fanfare](https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx) | 4:03 |
+| 98 | [Fanfare](https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Fanfare](https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx) | 4:03 |
+| 99 | [Queenstown](https://open.spotify.com/track/7EzhSMssOShDH5PfOW2sOe) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [I Love You, Brae](https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m) | 4:43 |
 | 100 | [happy accident](https://open.spotify.com/track/4CIoVUlxgd0nlSIEhJb4of) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [happy accident](https://open.spotify.com/album/6TF05xh9TbmpbQBwxAKbHA) | 5:45 |
 
 Snapshot ID: `AAAAACFPQzH2YtAw3nHP3B0ie7sH5ilD`

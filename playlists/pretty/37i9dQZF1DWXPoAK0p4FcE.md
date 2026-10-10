@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: QLER
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,971 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,955 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 |
-| 2 | [เดิมเดิม \(Once\)](https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เดิมเดิม \(Once\)](https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ) | 3:59 |
-| 3 | [มนุษย์ต่างดาว \(WHO R U ? \)](https://open.spotify.com/track/2aOgahAZL1biEeqsSgIjJ2) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [มนุษย์ต่างดาว \(WHO R U ? \)](https://open.spotify.com/album/0PdWNkrPQfsnCnidVY7YGf) | 4:28 |
-| 4 | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32) | 4:40 |
-| 5 | [ผู้ไม่หวังดี](https://open.spotify.com/track/1LANjQgBx2gec5iC1Y0YrV) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ผู้ไม่หวังดี](https://open.spotify.com/album/6TAJHGXAwz7m3eK0991Af7) | 3:43 |
+| 1 | [เดิมเดิม \(Once\)](https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เดิมเดิม \(Once\)](https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ) | 3:59 |
+| 2 | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32) | 4:40 |
+| 3 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 |
+| 4 | [มนุษย์ต่างดาว \(WHO R U ? \)](https://open.spotify.com/track/2aOgahAZL1biEeqsSgIjJ2) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [มนุษย์ต่างดาว \(WHO R U ? \)](https://open.spotify.com/album/0PdWNkrPQfsnCnidVY7YGf) | 4:28 |
+| 5 | [รักอยู่ \(linger\)](https://open.spotify.com/track/5joUZVyzfFEnfDAOQCOt0X) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Yesterday's Town](https://open.spotify.com/album/2M1M2ILdah6R0VsHA65ePI) | 4:07 |
 | 6 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 7 | [ปลายเส้นขอบฟ้า \(Oath To Romance\)](https://open.spotify.com/track/62bBrZb27BfRxPG8JyG5Yz) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [ปลายเส้นขอบฟ้า \(Oath To Romance\)](https://open.spotify.com/album/0cuNQ5xAjy7Zp6JTp1sfB0) | 5:07 |
-| 8 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
-| 9 | [ตลอดกาล](https://open.spotify.com/track/1ojMbMs85G4WFO7sBDu7X4) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [ตลอดกาล](https://open.spotify.com/album/5jNSURxN60xpowpm767jFw) | 3:44 |
+| 7 | [เบลออย่างชัดเจน](https://open.spotify.com/track/1x6FUEXXdbGF8vnVlhFo85) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [DRIVE\-IN THEATER, Pt\. 2](https://open.spotify.com/album/2CXH90ZkZYFPp1zlX6FTDk) | 4:50 |
+| 8 | [ผู้ไม่หวังดี](https://open.spotify.com/track/1LANjQgBx2gec5iC1Y0YrV) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ผู้ไม่หวังดี](https://open.spotify.com/album/6TAJHGXAwz7m3eK0991Af7) | 3:43 |
+| 9 | [ยังไม่พร้อมรักใคร](https://open.spotify.com/track/7MijojlXflYBJW3gmNSC69) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [ยังไม่พร้อมรักใคร](https://open.spotify.com/album/749fRSjQx1SPmAAMlqO8vg) | 4:43 |
 | 10 | [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 |
-| 11 | [เก้าอี้ดนตรี](https://open.spotify.com/track/2iaqguz1NrcOtbeVuTkjXk) | [Playground](https://open.spotify.com/artist/2wOi2qbLUki1fdXM14aki4) | [เก้าอี้ดนตรี](https://open.spotify.com/album/01IPjKjw9QbiQpLCJwYWHT) | 4:56 |
-| 12 | [สับสนวุ่นวาย \(Outside\)](https://open.spotify.com/track/4OiVtlt4R0lxyvOUYk4FEs) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh), [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [สับสนวุ่นวาย \(Outside\)](https://open.spotify.com/album/7fMeFr2iSTbzsvd4IgleRe) | 3:20 |
-| 13 | [พัดพา \(When the Wind Blows\)](https://open.spotify.com/track/4JVuvSLFnjwEi1D8Yn7rWz) | [PENGUIN VILLA](https://open.spotify.com/artist/2nO6v6ZnigodGqi7kZfEY6) | [พัดพา \(When the Wind Blows\)](https://open.spotify.com/album/2u0zzU9nb2iSS8qDBhRR9h) | 5:02 |
-| 14 | [เธอร้องไห้ได้เลยนะถ้าเธออ่อนแอ](https://open.spotify.com/track/5neprQuS9bDAGrVsuAy1uR) | [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [เธอร้องไห้ได้เลยนะถ้าเธออ่อนแอ](https://open.spotify.com/album/5asGqtDhEJJbWQGOQpZLn0) | 3:55 |
-| 15 | [ไม่ต้องเดินลำพัง](https://open.spotify.com/track/0F9ObI9vjZ6ywBydkMb1LK) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ไม่ต้องเดินลำพัง](https://open.spotify.com/album/0myDA3wNrNcUX12Q9AtMql) | 3:17 |
-| 16 | [ดั่งถูกกำหนดไว้ \( The Moment \)](https://open.spotify.com/track/3s5fZynFonUi3KtB1fQrRM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดั่งถูกกำหนดไว้ \( The Moment \)](https://open.spotify.com/album/4WmPgsX2Ry61WTPfHR49Iw) | 3:34 |
-| 17 | [กาลครั้งเดียว](https://open.spotify.com/track/0QBkLn6FbUrVXol6eOOhCQ) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [กาลครั้งเดียว](https://open.spotify.com/album/77af1rUWBTi9vvilyRT0ie) | 4:02 |
-| 18 | [ขอให้ฟ้าอวยพร \(Dear friend\)](https://open.spotify.com/track/0Rv76Bg0r2PSITMJyRDCWp) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ขอให้ฟ้าอวยพร \(Dear friend\)](https://open.spotify.com/album/7qi6LshNnGjkqvuey0Bfjy) | 2:24 |
+| 11 | [Angel](https://open.spotify.com/track/40xe67pm9qIBfpCmN54dm9) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [Angel](https://open.spotify.com/album/50ijriMtPab2A2JLFnDhEJ) | 2:49 |
+| 12 | [ปลายเส้นขอบฟ้า \(Oath To Romance\)](https://open.spotify.com/track/62bBrZb27BfRxPG8JyG5Yz) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [ปลายเส้นขอบฟ้า \(Oath To Romance\)](https://open.spotify.com/album/0cuNQ5xAjy7Zp6JTp1sfB0) | 5:07 |
+| 13 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
+| 14 | [ตลอดกาล](https://open.spotify.com/track/1ojMbMs85G4WFO7sBDu7X4) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [ตลอดกาล](https://open.spotify.com/album/5jNSURxN60xpowpm767jFw) | 3:44 |
+| 15 | [เธอร้องไห้ได้เลยนะถ้าเธออ่อนแอ](https://open.spotify.com/track/5neprQuS9bDAGrVsuAy1uR) | [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [เธอร้องไห้ได้เลยนะถ้าเธออ่อนแอ](https://open.spotify.com/album/5asGqtDhEJJbWQGOQpZLn0) | 3:55 |
+| 16 | [ไม่ต้องเดินลำพัง](https://open.spotify.com/track/0F9ObI9vjZ6ywBydkMb1LK) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ไม่ต้องเดินลำพัง](https://open.spotify.com/album/0myDA3wNrNcUX12Q9AtMql) | 3:17 |
+| 17 | [ดั่งถูกกำหนดไว้ \( The Moment \)](https://open.spotify.com/track/3s5fZynFonUi3KtB1fQrRM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดั่งถูกกำหนดไว้ \( The Moment \)](https://open.spotify.com/album/4WmPgsX2Ry61WTPfHR49Iw) | 3:34 |
+| 18 | [กาลครั้งเดียว](https://open.spotify.com/track/0QBkLn6FbUrVXol6eOOhCQ) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [กาลครั้งเดียว](https://open.spotify.com/album/77af1rUWBTi9vvilyRT0ie) | 4:02 |
 | 19 | [ไม่มีฉัน \(Not Even Me\)](https://open.spotify.com/track/18EvswsvivSBZNHoYpvWER) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ไม่มีฉัน \(Not Even Me\)](https://open.spotify.com/album/4KTd0BSEfIpHpvN8CWfY3E) | 4:39 |
 | 20 | [สักคำก่อน](https://open.spotify.com/track/4a5knK2We9wDXk6G9PjmtM) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [สักคำก่อน](https://open.spotify.com/album/1mneqtolwEvbGKSuowZoPe) | 4:47 |
 | 21 | [จากนี้คงไม่มีเรา \[Farewell\]](https://open.spotify.com/track/2bHIphJV9Tg2SSiEQlnZAy) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากนี้คงไม่มีเรา \[Farewell\]](https://open.spotify.com/album/2yMgZeBiXjehbn50YTqXep) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [sunflower](https://open.spotify.com/track/42zpYHx20wav5DCR1DoPMP) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [sunflower](https://open.spotify.com/album/0OYRy9wiYoerh85dSOnw4l) | 4:22 |
 | 50 | [ด้วยความไม่จริงใจ](https://open.spotify.com/track/0uq8rOoqymhkbRrd676hmd) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ด้วยความไม่จริงใจ](https://open.spotify.com/album/4hjAPx4hSv4NGsgpsNtl6X) | 3:49 |
 
-Snapshot ID: `AAAAAKuL1ufMUmjUZIqtufuoNst/vt9o`
+Snapshot ID: `AAAAANJvm0CzcMXFVLbe6qgoJC92uL2q`

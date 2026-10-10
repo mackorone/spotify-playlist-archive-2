@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35155,
+  "num_followers": 35162,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQYCWlErJ8s/dzaxvKVpVcuv3G5",
+  "snapshot_id": "AAAAAG3isYVGbUtetXQUJugtORu/GMFB",
   "tracks": [
     {
       "added_at": "2026-10-02 08:14:11",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Carioca",
+        "url": "https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp"
+      },
+      "artists": [
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        }
+      ],
+      "duration_ms": 300453,
+      "name": "Luz Negra",
+      "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Oltreoceano",
         "url": "https://open.spotify.com/album/7B2ff0wIuXsdwfWuebmfo5"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 199639,
       "name": "Fine Di Un'Era",
       "url": "https://open.spotify.com/track/3pOpZ3BStCHuixCYipeFyF"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Carioca",
-        "url": "https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp"
-      },
-      "artists": [
-        {
-          "name": "Stefano Bollani",
-          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
-        }
-      ],
-      "duration_ms": 300453,
-      "name": "Luz Negra",
-      "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Popoli del Mare",
+        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 279709,
+      "name": "Popoli del Mare",
+      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Plexus Plexus",
         "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 186107,
       "name": "Bird\u00b4s Lament",
       "url": "https://open.spotify.com/track/2JNfB0GUiq2lnhurSqPdrb"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Popoli del Mare",
-        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 279709,
-      "name": "Popoli del Mare",
-      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "High Fever",
+        "url": "https://open.spotify.com/album/1kEHJ7NkxBnvGVnBtUT5q1"
+      },
+      "artists": [
+        {
+          "name": "Electric Circus",
+          "url": "https://open.spotify.com/artist/1U6ZJR2dru7HSglnG1MPn6"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "High Fever",
+      "url": "https://open.spotify.com/track/3Ee0GnJ0lg3L4u0yBV5pAx"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 153600,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "High Fever",
-        "url": "https://open.spotify.com/album/1kEHJ7NkxBnvGVnBtUT5q1"
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
       },
       "artists": [
         {
-          "name": "Electric Circus",
-          "url": "https://open.spotify.com/artist/1U6ZJR2dru7HSglnG1MPn6"
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
         }
       ],
-      "duration_ms": 192400,
-      "name": "High Fever",
-      "url": "https://open.spotify.com/track/3Ee0GnJ0lg3L4u0yBV5pAx"
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1455,6 +1455,30 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Audio File",
+        "url": "https://open.spotify.com/album/288oOjXAVQxmsnEl4p9y1k"
+      },
+      "artists": [
+        {
+          "name": "Filippo Bubbico",
+          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
+        },
+        {
+          "name": "Riccardo Oliva",
+          "url": "https://open.spotify.com/artist/3199MCKg3T4Hau16EXF9YA"
+        },
+        {
+          "name": "Alberto Manco",
+          "url": "https://open.spotify.com/artist/5j7r9SKaMVTDHKiTajIDoN"
+        }
+      ],
+      "duration_ms": 149397,
+      "name": "Audio File",
+      "url": "https://open.spotify.com/track/3bjAOHIWIYliHwOmN2dbY5"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
@@ -1563,50 +1587,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Under Italian Skies",
-        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        },
-        {
-          "name": "Andrea Donati",
-          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
-        }
-      ],
-      "duration_ms": 323533,
-      "name": "Impronte",
-      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Audio File",
-        "url": "https://open.spotify.com/album/288oOjXAVQxmsnEl4p9y1k"
-      },
-      "artists": [
-        {
-          "name": "Filippo Bubbico",
-          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
-        },
-        {
-          "name": "Riccardo Oliva",
-          "url": "https://open.spotify.com/artist/3199MCKg3T4Hau16EXF9YA"
-        },
-        {
-          "name": "Alberto Manco",
-          "url": "https://open.spotify.com/artist/5j7r9SKaMVTDHKiTajIDoN"
-        }
-      ],
-      "duration_ms": 149397,
-      "name": "Audio File",
-      "url": "https://open.spotify.com/track/3bjAOHIWIYliHwOmN2dbY5"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 241966,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Under Italian Skies",
+        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        },
+        {
+          "name": "Andrea Donati",
+          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
+        }
+      ],
+      "duration_ms": 323533,
+      "name": "Impronte",
+      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1755,26 +1755,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Norma (Arr. for Jazz Orchestra)",
-        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
       "artists": [
         {
-          "name": "Orchestra Jazz del Mediterraneo",
-          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Silvestri",
-          "url": "https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO"
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
         }
       ],
-      "duration_ms": 584075,
-      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
-      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1795,18 +1787,26 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+        "name": "Norma (Arr. for Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
       "artists": [
         {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+          "name": "Orchestra Jazz del Mediterraneo",
+          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Silvestri",
+          "url": "https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO"
         }
       ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+      "duration_ms": 584075,
+      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
+      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
     },
     {
       "added_at": "2026-10-02 08:14:11",

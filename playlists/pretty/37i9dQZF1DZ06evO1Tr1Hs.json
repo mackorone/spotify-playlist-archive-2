@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 47556,
+  "num_followers": 47568,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABbEZAs6toMvlUQvww72TKt",
+  "snapshot_id": "asbdAAAAAADYZSCLY3/fo2iJPIRPEpN5",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 186756,
+      "name": "loading",
+      "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 177534,
       "name": "Tic Tac Toe (with Ken Carson)",
       "url": "https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 186756,
-      "name": "loading",
-      "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "delusional",
+        "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 131274,
+      "name": "delusional",
+      "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Teen Bean",
         "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
       },
@@ -695,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "delusional",
-        "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
       },
       "artists": [
         {
@@ -704,9 +720,25 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 131274,
-      "name": "delusional",
-      "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
+      "duration_ms": 190541,
+      "name": "LiveLeak",
+      "url": "https://open.spotify.com/track/7aURTqVzpZxkJfboCvGc69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 150386,
+      "name": "Trap Jump",
+      "url": "https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9"
     }
   ],
   "unique_name": "This Is Ken Carson",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,945 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,952 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 30 | [Yapa Yapa \(Shut It Pls\) \- Serum Remix](https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Yapa Yapa \(Shut It Pls\) \[Serum Remix\]](https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs) | 3:18 |
 | 31 | [USB](https://open.spotify.com/track/3GfLEp6Cj3al4Zjk1t2EXN) | [Born On Road](https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Carasel](https://open.spotify.com/artist/4tKJAusQAI9xHrHyDUTf0f) | [USB](https://open.spotify.com/album/6p8Sc2FVKeIYUHUuEdp6cA) | 3:35 |
 | 32 | [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 |
-| 33 | [Holy Moly \- VIP](https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Holy Moly \(VIP\)](https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ) | 4:13 |
-| 34 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |
+| 33 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |
+| 34 | [Holy Moly \- VIP](https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Holy Moly \(VIP\)](https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ) | 4:13 |
 | 35 | [Satellite \- SOTA Remix](https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Satellite \(SOTA Remix\)](https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ) | 2:57 |
 | 36 | [Do You](https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q) | [Upgrade \(UK\)](https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Do You](https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64) | 3:42 |
 | 37 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 49 | [Vandal](https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Vandal](https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml) | 2:41 |
 | 50 | [Posra](https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Posra](https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2) | 3:25 |
 | 51 | [Feel My Love](https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [Feel My Love](https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus) | 3:44 |
-| 52 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 |
-| 53 | [Outta Order](https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Outta Order](https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r) | 3:55 |
+| 52 | [Outta Order](https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Outta Order](https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r) | 3:55 |
+| 53 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 |
 | 54 | [Sticks & Stones](https://open.spotify.com/track/3QTI12GOy7qzizzwOb9Oi1) | [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Sticks & Stones](https://open.spotify.com/album/7LXcPDrT8Ldx3L1OqPjljq) | 3:53 |
 | 55 | [Go Hard](https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ) | [T\-Lex](https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL) | [Go Hard / Wednesday](https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB) | 4:27 |
 
-Snapshot ID: `AAAAAONEN0Ri2Tt7B56ZosygDqGeJwHo`
+Snapshot ID: `AAAAAEOx5Zq9fuaL5oI7Oa3M5MRYG0/H`

@@ -994,7 +994,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 247266,
       "name": "Deadline",
       "url": "https://open.spotify.com/track/4YVIDt9lhVeZJ9e4E45VCS"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 263008,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/78xcyHVAJbwzksemi1Rjlb"
@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Quirky Retro Tech",
+        "url": "https://open.spotify.com/album/0BdNBAoQRfEbniMb7LCRPI"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90390,
+      "name": "Laugh A Minute",
+      "url": "https://open.spotify.com/track/0wlecxD7hM8ziQlummYuzX"
+    },
+    {
+      "album": {
         "name": "Laura",
         "url": "https://open.spotify.com/album/7nG2Idce7vm6pBdxp2eEA1"
       },
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 132026,
       "name": "Move with the Times",
       "url": "https://open.spotify.com/track/1hrjFllL4H15uq6sUvLZyp"
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 169215,
       "name": "Mystique Voyage",
       "url": "https://open.spotify.com/track/4sgv8AIbpS2ABbxVtiOCCc"
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 92400,
       "name": "Powerboat",
       "url": "https://open.spotify.com/track/4rrNpVsELkya1KoOWorhOd"
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 135533,
       "name": "Rocky Mountain Runabout",
       "url": "https://open.spotify.com/track/0onhMFZBampcxMxkIDxmU0"
@@ -3042,7 +3060,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 242125,
       "name": "Serengeti",
       "url": "https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR"
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 130946,
       "name": "Sweet Summer (A)",
       "url": "https://open.spotify.com/track/0ybVqxksvCV2qCGIUw49Dy"
@@ -4034,7 +4052,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 137853,
       "name": "Where the Action Is",
       "url": "https://open.spotify.com/track/7h1wuuntA9VgK2lP7wI1UI"

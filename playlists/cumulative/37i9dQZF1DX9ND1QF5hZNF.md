@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-448 songs - 22 hr 58 min
+449 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Silhouette](https://open.spotify.com/track/5XflWKyyLrg3HlvjlDn6Rk) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Silhouette](https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8) | 3:33 | 2022-12-20 | 2023-05-13 |
 | [Silverlight](https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Silverlight](https://open.spotify.com/album/5vpDjbRlku61UAeFzqm09E) | 3:20 | 2025-11-06 |  |
 | [Sleep Tight](https://open.spotify.com/track/1SAQcToek0ed5YQxtrOJgK) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Sleep Tight](https://open.spotify.com/album/66mXXkuDaQRe33m9LksJvN) | 2:17 | 2025-06-19 | 2025-06-28 |
+| [Slow Me Down](https://open.spotify.com/track/6hxDnTsyOeuisitIJ0YluH) | [H:dn](https://open.spotify.com/artist/4gD6ddSF1KwHyvk34XykYH) | [Slow Me Down](https://open.spotify.com/album/2QFE3tcsi7Vg5ZRepIo5HJ) | 2:39 | 2026-10-09 |  |
 | [Slow Motion](https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lilly](https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb) | [Slow Motion](https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G) | 2:46 | 2026-06-26 | 2026-09-05 |
 | [Smile](https://open.spotify.com/track/5yQfJ6p6vJc21677BW8bmE) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq), [autrioly](https://open.spotify.com/artist/2SalqIZD5x6AJLLHEuctcU) | [Smile](https://open.spotify.com/album/60T5bvDucFO3Cs4vYDeu90) | 3:04 | 2025-11-14 | 2025-12-05 |
 | [Smoke & Ash](https://open.spotify.com/track/7jUBj3nZfs0dRqr68b4yxy) | [Weisser Quiff](https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy) | [Smoke & Ash](https://open.spotify.com/album/6Z41aZilSCkdW8IK75Y1wp) | 2:44 | 2022-12-20 | 2023-05-13 |
@@ -377,7 +378,7 @@
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-04-08 | 2024-09-21 |
 | [Summer Days](https://open.spotify.com/track/14bHw2NS6a0aoMZi7Fbb47) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Summer Days](https://open.spotify.com/album/5yt3k4A9Iovid69ic62HGC) | 3:22 | 2026-06-19 | 2026-07-31 |
 | [Summer In Your Arms](https://open.spotify.com/track/0ROfiWtyN3q5np44QqiCVA) | [Youngmin](https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb), [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD) | [Summer In Your Arms](https://open.spotify.com/album/6yaiVVvpRArCMSyTwrjkg3) | 2:30 | 2025-09-25 | 2025-10-11 |
-| [Sundown](https://open.spotify.com/track/0ytDnkYrIbFCVu7kyE1XRV) | [H:dn](https://open.spotify.com/artist/4gD6ddSF1KwHyvk34XykYH) | [Sundown](https://open.spotify.com/album/0LeVRcFdIWpxBhjkBsMIGV) | 2:58 | 2026-07-03 |  |
+| [Sundown](https://open.spotify.com/track/0ytDnkYrIbFCVu7kyE1XRV) | [H:dn](https://open.spotify.com/artist/4gD6ddSF1KwHyvk34XykYH) | [Sundown](https://open.spotify.com/album/0LeVRcFdIWpxBhjkBsMIGV) | 2:58 | 2026-07-03 | 2026-10-10 |
 | [Sunset](https://open.spotify.com/track/2mCDr3iGivDH7rGBVIgkUf) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Sunset](https://open.spotify.com/album/75SOVqtkavzS4o2DlS9KcG) | 2:58 | 2024-07-05 | 2025-06-20 |
 | [Sunset In Pretoria](https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Sunset In Pretoria](https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD) | 3:58 | 2026-06-19 | 2026-07-17 |
 | [Sunset Lovers](https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Sunset Lovers](https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu) | 2:56 | 2022-12-20 | 2024-04-19 |

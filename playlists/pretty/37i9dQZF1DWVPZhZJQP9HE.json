@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Siri Xander",
-  "num_followers": 85150,
+  "num_followers": 85200,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAInklvUjdAyb7TynWwPgPT01dqth",
+  "snapshot_id": "AAAAAAUpZ0qEi5AG+x1PnlqNaS7mS0gJ",
   "tracks": [
     {
       "added_at": "2026-08-27 11:24:03",
@@ -315,6 +315,34 @@
       "duration_ms": 151578,
       "name": "Devaloka Sundari",
       "url": "https://open.spotify.com/track/3bvwQ8ProCCS0DdkzxoNLL"
+    },
+    {
+      "added_at": "2026-10-10 00:55:15",
+      "album": {
+        "name": "Pookie Ponnamma",
+        "url": "https://open.spotify.com/album/4p4ZHMfgnr06Qb9CeV9RD8"
+      },
+      "artists": [
+        {
+          "name": "AJ",
+          "url": "https://open.spotify.com/artist/36rX5HFNUTJUDImyws1yud"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        },
+        {
+          "name": "Sneha",
+          "url": "https://open.spotify.com/artist/6KlkgPunUZn90pna2Uu0qI"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Pookie Ponnamma",
+      "url": "https://open.spotify.com/track/1P7OITHvKuprWBsbV2yDHM"
     },
     {
       "added_at": "2026-08-10 11:58:44",

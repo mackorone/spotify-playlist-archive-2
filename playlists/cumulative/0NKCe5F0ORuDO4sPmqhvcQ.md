@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-736 songs - 1 day 17 hr 7 min
+737 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Forgotten Feels](https://open.spotify.com/track/4LJUeryiW0zXSN20PEnfvE) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Forgotten Feels](https://open.spotify.com/album/1XHSrFR9VV4Yc2llQdVMgA) | 3:51 | 2023-07-20 | 2026-07-25 |
 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 | 2023-03-02 | 2023-04-01 |
 | [Free Yourself](https://open.spotify.com/track/6hBXPSKrmGBiRVD65Rpqot) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Free Yourself](https://open.spotify.com/album/4t9ySdBRxL6KchQWrXL8Jz) | 3:50 | 2023-06-27 | 2023-08-18 |
+| [Frequency](https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Frequency](https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm) | 3:25 | 2026-10-09 |  |
 | [Gasoline](https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Gasoline](https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY) | 3:13 | 2024-03-30 | 2024-08-07 |
 | [Get To You](https://open.spotify.com/track/4jfySsGwhaA7TT4RsYzDvM) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Get To You](https://open.spotify.com/album/68Kb2V3PP0mmHrerQpspM5) | 3:46 | 2023-02-24 | 2023-06-23 |
 | [Get Up](https://open.spotify.com/track/2H43AB2EgHmUChTFL8zVZp) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Get Up](https://open.spotify.com/album/1kw8SiaqsRjeg8hAMxDdjL) | 3:31 | 2025-09-12 | 2026-07-25 |

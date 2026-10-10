@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Alg\u00fan D\u00eda",
+        "url": "https://open.spotify.com/album/4u6qq4hzHJRdRTBzHpkjH8"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189397,
+      "name": "Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/1xsCN4M0pvYi0CkwxTUC0D"
+    },
+    {
+      "album": {
         "name": "ELYTE",
         "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
       },
@@ -478,7 +500,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 322906,
       "name": "Bonita - Remix",
       "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"

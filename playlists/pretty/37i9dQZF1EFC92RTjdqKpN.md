@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207 likes - 201 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208 likes - 201 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 72 | [Change Your Mind](https://open.spotify.com/track/74age2cUBw5mdUhGGbAtiM) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga](https://open.spotify.com/album/6MUwfeWeo93ZO0WhDFmt6T) | 3:42 |
 | 73 | [STAY WITH ME \- KR Ver.](https://open.spotify.com/track/6Bz2nEZLNYm1hEB3c3upoj) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [RISE](https://open.spotify.com/album/5g83RiFIYU6NlMIF5Wp8kk) | 3:22 |
 | 74 | [Revival \(feat\. Cheat Codes & MAX\)](https://open.spotify.com/track/3y6R5ohBabcdmbvhr1P1xC) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:12 |
-| 75 | [My Love Won't Let You Down](https://open.spotify.com/track/3Ms30cFnM7su9lCdwgnexR) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:54 |
-| 76 | [Changing](https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9) | [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Changing](https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR) | 3:02 |
+| 75 | [Changing](https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9) | [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Changing](https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR) | 3:02 |
+| 76 | [My Love Won't Let You Down](https://open.spotify.com/track/3Ms30cFnM7su9lCdwgnexR) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:54 |
 | 77 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
 | 78 | [SEESAW](https://open.spotify.com/track/21Ou57aSTKECHs3zedyFLd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 3:30 |
 | 79 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 124 | [Promise Me](https://open.spotify.com/track/5BTgy0YT2HNKbBbsoodIox) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:38 |
 | 125 | [Making Me Dance](https://open.spotify.com/track/4CXzB7sfask9ekNzdXX83q) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Making Me Dance](https://open.spotify.com/album/6aN6Gf2xG7PLTACXGsu4kU) | 3:28 |
 | 126 | [Happy](https://open.spotify.com/track/6jbvtCxnmDhqIMb36AE94R) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
-| 127 | [Angels In The Snow](https://open.spotify.com/track/5LJ9zB2g4qftILTNZeeDgA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:52 |
-| 128 | [After Ours](https://open.spotify.com/track/2coTyOHfAxmAjYF2BiVlud) | [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [After Ours](https://open.spotify.com/album/0hnE7os3g2jVB6bk7R2jKi) | 2:40 |
+| 127 | [After Ours](https://open.spotify.com/track/2coTyOHfAxmAjYF2BiVlud) | [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [After Ours](https://open.spotify.com/album/0hnE7os3g2jVB6bk7R2jKi) | 2:40 |
+| 128 | [Angels In The Snow](https://open.spotify.com/track/5LJ9zB2g4qftILTNZeeDgA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:52 |
 | 129 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
 | 130 | [I'll Remember You](https://open.spotify.com/track/3PuyCRR2JN1Nbk1yjl0xYE) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 4:06 |
 | 131 | [The Other Side](https://open.spotify.com/track/1fWTLLBR90ZdAgklPTTPRr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:45 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 200 | [Wasted Time With Folsom Prison Blues \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 8:10 |
 | 201 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AceblgAAAABvUkEw+N0sOihSZH6M21Xu`
+Snapshot ID: `Aceg+gAAAAAJw/ITydf2ELdlUiv7iNa9`

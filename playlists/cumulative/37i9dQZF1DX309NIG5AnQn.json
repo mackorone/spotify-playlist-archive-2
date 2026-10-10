@@ -1537,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Cuando Vas al Trabajo",
+        "url": "https://open.spotify.com/album/4ZIcax9d1AXwPRoua42q94"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Del Cerro",
+          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160554,
+      "name": "Cuando Vas al Trabajo",
+      "url": "https://open.spotify.com/track/5dQvh98O4WO4PLiUNPrCE1"
+    },
+    {
+      "album": {
         "name": "Cuidado",
         "url": "https://open.spotify.com/album/7IyGt8wniTS7XlDf5I3yRZ"
       },

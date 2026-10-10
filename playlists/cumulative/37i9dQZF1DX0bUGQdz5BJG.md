@@ -4,7 +4,7 @@
 
 > Your ears on the ground in Music City\. Cover: Noah James
 
-4,521 songs - 10 day 3 hr 5 min
+4,522 songs - 10 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1832,6 +1832,7 @@
 | [Huntin' Season](https://open.spotify.com/track/27N3YqhzNsvfhqVSBoCjLf) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Huntin' Season](https://open.spotify.com/album/1LlxQ7ZfMRQX96pepdtJjt) | 2:57 | 2022-10-07 | 2023-01-28 |
 | [Hunting Lightning](https://open.spotify.com/track/3rKrduXGubUqUhVgntzsyV) | [Will Dempsey](https://open.spotify.com/artist/6EwJep0jBRD2MMG3BLH6dd) | [Hunting Lightning](https://open.spotify.com/album/0SRIlKxrn0BPZBm3HMSyjq) | 3:20 | 2026-08-14 |  |
 | [Hurricane](https://open.spotify.com/track/3A0AYh7WkYsatq8JU3IdJt) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Hurricane](https://open.spotify.com/album/58gOlBZH1HhW3D3ryZV8KO) | 4:09 | 2024-01-05 | 2024-01-13 |
+| [Hurt Me Tonight](https://open.spotify.com/track/5NDFD45qTV9gc11JLS7JlA) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Homesick](https://open.spotify.com/album/45pdjlUca5bO7Vm5JnR1DV) | 2:27 | 2026-10-09 |  |
 | [Hurtin' On It](https://open.spotify.com/track/7gkdb29VUMczmIaR2jXVMS) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [The Lost Files: Exhibit A](https://open.spotify.com/album/36u5w6ipPaJNDeuKawcyJw) | 3:25 | 2023-02-17 | 2023-05-20 |
 | [Hush](https://open.spotify.com/track/48LEeAAXxr0f0W6w1eQYyu) | [Troubadour Blue](https://open.spotify.com/artist/3EadWMHUn9FfrzAWxMM7GG) | [Shadow Of A Doubt](https://open.spotify.com/album/0JrOmRBv1sv5hJdSPbdXqq) | 3:53 | 2024-02-23 | 2024-05-18 |
 | [Hush Little Baby](https://open.spotify.com/track/4cjBtjqjURxGPKpnefT1OF) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Hush Little Baby](https://open.spotify.com/album/21Kco6snU7yW9SJfYHhsAy) | 2:54 | 2023-06-16 | 2023-12-16 |

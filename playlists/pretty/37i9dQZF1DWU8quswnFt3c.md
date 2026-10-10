@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Majo Aguilar from Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,511 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,267 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 25 | [te odio](https://open.spotify.com/track/2xyCkGYkYIrbi5JwzCjcH8) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/6j7QHBlPi3gdLeMOqiTZAT) | 2:50 |
 | 26 | [Ninja](https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:55 |
 | 27 | [t escucho al pensar](https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:18 |
-| 28 | [Que Culpa tengo Yo](https://open.spotify.com/track/3D640imXQ08xT9HCg75bpk) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Que Culpa tengo Yo](https://open.spotify.com/album/5GDMBaYJ41vu67yDkQFusv) | 3:11 |
-| 29 | [Thisavros Mou](https://open.spotify.com/track/0x4jNAQZan8RDXDMTt0rKc) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Thisavros Mou](https://open.spotify.com/album/0GMkj4HaRdxYY6PswqSGT7) | 3:24 |
-| 30 | [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 |
+| 28 | [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 |
+| 29 | [Que Culpa tengo Yo](https://open.spotify.com/track/3D640imXQ08xT9HCg75bpk) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Que Culpa tengo Yo](https://open.spotify.com/album/5GDMBaYJ41vu67yDkQFusv) | 3:11 |
+| 30 | [Thisavros Mou](https://open.spotify.com/track/0x4jNAQZan8RDXDMTt0rKc) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Thisavros Mou](https://open.spotify.com/album/0GMkj4HaRdxYY6PswqSGT7) | 3:24 |
 | 31 | [LOBO](https://open.spotify.com/track/6iOQKeQA9IQWlheCgtiXon) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Pop Pesado](https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4) | 2:27 |
 | 32 | [Palomitas en la muela](https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Palomitas en la muela](https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE) | 2:53 |
 | 33 | [好鍾意！](https://open.spotify.com/track/7EiOKCZaPnIyQuvD7T84T1) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [好鍾意！](https://open.spotify.com/album/7LsMpEveA8Ak8TazJdUmIs) | 3:10 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 36 | [プラチナ](https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [プラチナ](https://open.spotify.com/album/5mgabloGQx0OJUq1WgbkaL) | 4:10 |
 | 37 | [Chico Shy](https://open.spotify.com/track/25SinfEnxKfMkD7Iw50lx8) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [Chico Shy](https://open.spotify.com/album/7rcRElKOPMsXZqTHO2prx9) | 3:08 |
 | 38 | [ESQUINITAS](https://open.spotify.com/track/1bL1A8RfawZaWDs7NY9au5) | [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [ESQUINITAS](https://open.spotify.com/album/5rrYBDMFlGVCDpAScw72ea) | 2:14 |
-| 39 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 |
-| 40 | [Necesito menos](https://open.spotify.com/track/1PN22sdWp7iSorGWcFOOcI) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Ey, no molestes](https://open.spotify.com/album/7pciEPMEdELNvsOP2aTNcw) | 4:08 |
+| 39 | [Necesito menos](https://open.spotify.com/track/1PN22sdWp7iSorGWcFOOcI) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Ey, no molestes](https://open.spotify.com/album/7pciEPMEdELNvsOP2aTNcw) | 4:08 |
+| 40 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 |
 | 41 | [Sonsuza Kadar](https://open.spotify.com/track/7hpawzlBGT3YFnJgzSmOtO) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Sonsuza Kadar](https://open.spotify.com/album/3ViKM7SloMTlkyrE3cNHZi) | 2:40 |
 | 42 | [Te Mereces Un Amor](https://open.spotify.com/track/6gaIFnYe0umznzKhhci4A7) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:46 |
 | 43 | [Pagana](https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Pagana](https://open.spotify.com/album/5Nye8aOQ9pfltqffBpQ5A0) | 2:57 |
-| 44 | [playa](https://open.spotify.com/track/65x6H83om4kmtQMRo6G4ea) | [bri!!o](https://open.spotify.com/artist/26htoE4F3CuVTp2MFG1sSN) | [playa](https://open.spotify.com/album/0MRYUqJVQnXymX1cWAlqsc) | 3:09 |
-| 45 | [Ring\-A\-Ring O' Roses](https://open.spotify.com/track/5aJ5pbsbHRgFYAhLS82bzM) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 4:28 |
+| 44 | [Ring\-A\-Ring O' Roses](https://open.spotify.com/track/5aJ5pbsbHRgFYAhLS82bzM) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 4:28 |
+| 45 | [playa](https://open.spotify.com/track/65x6H83om4kmtQMRo6G4ea) | [bri!!o](https://open.spotify.com/artist/26htoE4F3CuVTp2MFG1sSN) | [playa](https://open.spotify.com/album/0MRYUqJVQnXymX1cWAlqsc) | 3:09 |
 | 46 | [abans abans](https://open.spotify.com/track/02m8VMKmUILOO6aufAkJaQ) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Pripyat](https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE) | 4:04 |
 | 47 | [Mua Mua Mua](https://open.spotify.com/track/29RyqkUPTH38nwOXuj6dAj) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Lo Que Hay](https://open.spotify.com/album/6WZuiN4RpAA4DYVXiEl0bs) | 2:11 |
 | 48 | [Hotter Than Hot](https://open.spotify.com/track/1DcRZgk0OzhN9Fhxj0GiFs) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Callaita Nunca](https://open.spotify.com/album/3YOR5sMAJNkkR43ZCN2TFd) | 3:10 |
 | 49 | [The Last Encounter](https://open.spotify.com/track/5RUkIOblbZ8P9fz4dUhQII) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hallucinating](https://open.spotify.com/album/3VQpTlLYpOhFbtbPSQQuBS) | 3:04 |
-| 50 | [Cog Systems](https://open.spotify.com/track/3Iv19cThJh2EilmLftPJUv) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Cog Systems](https://open.spotify.com/album/0rLhQU2Q1m2Kvb9qMitw3w) | 2:39 |
+| 50 | [amor con coco](https://open.spotify.com/track/7s0D5cHFmgwKPqv8Bzf4Ia) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [amor con coco](https://open.spotify.com/album/09stTRWAeegzwtavBVXjD6) | 3:23 |
 
 Snapshot ID: `AAAAANHPVhFoRQIaNIR6B8WjbDlOLTFx`

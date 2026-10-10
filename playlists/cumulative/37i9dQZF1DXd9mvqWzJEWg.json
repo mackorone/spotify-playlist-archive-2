@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJKnator",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Omagoqa",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -3855,6 +3855,40 @@
     },
     {
       "album": {
+        "name": "Gu Gu Gu (feat. Niseni, Mgilane, Sazified & Thobeka)",
+        "url": "https://open.spotify.com/album/6zITSXOFi0RhVpKnMOgz4y"
+      },
+      "artists": [
+        {
+          "name": "Sphectacula and DJ Naves",
+          "url": "https://open.spotify.com/artist/7yHWqKzRw7VR7zU5e3nIZx"
+        },
+        {
+          "name": "Niseni",
+          "url": "https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J"
+        },
+        {
+          "name": "Mgilane",
+          "url": "https://open.spotify.com/artist/4slppI2zvIkWxKR1KmGRoI"
+        },
+        {
+          "name": "Sazified",
+          "url": "https://open.spotify.com/artist/1PmS3JegLpKsc6V9aWvQJA"
+        },
+        {
+          "name": "Thobeka",
+          "url": "https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301935,
+      "name": "Gu Gu Gu (feat. Niseni, Mgilane, Sazified & Thobeka)",
+      "url": "https://open.spotify.com/track/6SvlZ6KjOvC7o7gAvTu20M"
+    },
+    {
+      "album": {
         "name": "Dollars & White Pipes",
         "url": "https://open.spotify.com/album/27ZIO4P91sOLk9vK1zdGjE"
       },
@@ -4248,6 +4282,44 @@
       "duration_ms": 337288,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/5QAV8EHFJqqZcbqRNV7SqN"
+    },
+    {
+      "album": {
+        "name": "Ibambe ibambe",
+        "url": "https://open.spotify.com/album/1res7v3FiLZcQ23vvvVPf1"
+      },
+      "artists": [
+        {
+          "name": "DJ Bhaksi",
+          "url": "https://open.spotify.com/artist/1jDAgpLEAYJpyNarw7kPcK"
+        },
+        {
+          "name": "We Dem Boyz",
+          "url": "https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq"
+        },
+        {
+          "name": "Prince Olumor",
+          "url": "https://open.spotify.com/artist/3idvwP1iQVnyAoujA8xDuH"
+        },
+        {
+          "name": "Cwelzn",
+          "url": "https://open.spotify.com/artist/0xftjn8XrNzciwZdwaGadi"
+        },
+        {
+          "name": "TDmusiq",
+          "url": "https://open.spotify.com/artist/0bh8kZO22sHLoPKjAONccd"
+        },
+        {
+          "name": "Metro SA",
+          "url": "https://open.spotify.com/artist/6rvTRCiMl2ws4HnqFiE06Q"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336610,
+      "name": "Ibambe ibambe",
+      "url": "https://open.spotify.com/track/6USgGpBXlH05WvG7NNUG4S"
     },
     {
       "album": {
@@ -9785,6 +9857,24 @@
     },
     {
       "album": {
+        "name": "Sokoloko",
+        "url": "https://open.spotify.com/album/3bDxHc8R7sMQQBolLh7M5X"
+      },
+      "artists": [
+        {
+          "name": "Shisa Sterling",
+          "url": "https://open.spotify.com/artist/1men7AqmsSnafCJkDKSnKi"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346693,
+      "name": "Sokoloko",
+      "url": "https://open.spotify.com/track/5mNdz7JsMzgKio1LY4FPzb"
+    },
+    {
+      "album": {
         "name": "Meeting With The King",
         "url": "https://open.spotify.com/album/66ZkSQI3roUFYVDYy5kp9e"
       },
@@ -10802,6 +10892,32 @@
       "duration_ms": 280502,
       "name": "Ubabalo Luka Thixo",
       "url": "https://open.spotify.com/track/7disYBS7me3JIqMVbUeeSo"
+    },
+    {
+      "album": {
+        "name": "Ubumnandi",
+        "url": "https://open.spotify.com/album/1XMAb8ypMgvegCNlfGAAoS"
+      },
+      "artists": [
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        },
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314315,
+      "name": "uBumnandi",
+      "url": "https://open.spotify.com/track/5hMkA7fHiJxu4E3yLQ5i0c"
     },
     {
       "album": {
@@ -12758,6 +12874,36 @@
       "duration_ms": 356650,
       "name": "Yebo - Remix",
       "url": "https://open.spotify.com/track/0kEDzhXTdc88ELA0zEP8yl"
+    },
+    {
+      "album": {
+        "name": "Yebo Yehh",
+        "url": "https://open.spotify.com/album/0mRCqRYRvUx3Zv4MMa1fqB"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "MfanaTouchLine",
+          "url": "https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ"
+        },
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        },
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275295,
+      "name": "Yebo Yehh",
+      "url": "https://open.spotify.com/track/7p8S8jcLTfgF6GL2nYjhLH"
     },
     {
       "album": {

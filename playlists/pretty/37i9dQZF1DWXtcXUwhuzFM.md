@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Minttu, Käärijä & Joost, M//O..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,799 likes - 98 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,870 likes - 98 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maksan kaiken takas](https://open.spotify.com/track/2PTs04hECkjq3oTzFDFaok) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Maksan kaiken takas](https://open.spotify.com/album/3QoODFnqeJo0SlLaLzo7Bz) | 3:03 |
 | 2 | [Hyvää Puuta](https://open.spotify.com/track/15tUbWhDoHTwRF8PA9ELSt) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Hyvää Puuta](https://open.spotify.com/album/483YnkDxfrASNzzNC2iQrK) | 2:31 |
 | 3 | [IDOLI](https://open.spotify.com/track/2J17KAeazngLWW6s7S4eXk) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [IDOLI](https://open.spotify.com/album/1OlnZBTya6p9JTTe8b2jqC) | 2:27 |
-| 4 | [Jos \(feat\. emma & matilda\) \[Vain elämää kausi 17\]](https://open.spotify.com/track/2e2GOyK6ZRp33ZjcS5Hipa) | [Jippu](https://open.spotify.com/artist/0KYGvSXrGDHlExTpandhct), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos \(feat\. emma & matilda\) \[Vain elämää kausi 17\]](https://open.spotify.com/album/5UPPfEuCgglu01okzgmuDn) | 2:48 |
+| 4 | [Jos \(Vain elämää kausi 17\)](https://open.spotify.com/track/2e2GOyK6ZRp33ZjcS5Hipa) | [Jippu](https://open.spotify.com/artist/0KYGvSXrGDHlExTpandhct), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos \(Vain elämää kausi 17\)](https://open.spotify.com/album/5UPPfEuCgglu01okzgmuDn) | 2:48 |
 | 5 | [Seksi vie ja taksi tuo \(Vain elämää kausi 17\)](https://open.spotify.com/track/2MBlUzwMeb3WKRCozhlf05) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Seksi vie ja taksi tuo \(Vain elämää kausi 17\)](https://open.spotify.com/album/7lZRBL7V6I98E8AoTNDPsT) | 2:37 |
 | 6 | [Satasen laina \(Vain elämää kausi 17\)](https://open.spotify.com/track/0MrSEsbkiICInfWjDLk7UE) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Satasen laina \(Vain elämää kausi 17\)](https://open.spotify.com/album/2f7lO3zzZ312Sz70LItF22) | 2:32 |
 | 7 | [Kaurismäki](https://open.spotify.com/track/5Y4H1CSghOI3oi4a0hOY90) | [Lilja Lundén](https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1) | [Epäluotettava kertoja](https://open.spotify.com/album/30YMu7mvj6yBP5w2VMkqGz) | 3:11 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 18 | [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz) | 2:44 |
 | 19 | [DANTE](https://open.spotify.com/track/2bUseeFwVu57CODQGPQML7) | [ODE](https://open.spotify.com/artist/5pvzRpKLDFIaU1S9Ka5bxz), [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi), [ODFM](https://open.spotify.com/artist/2phHPkExbn5mQ5c9Z6obIv) | [DANTE](https://open.spotify.com/album/2l3EUC4Q5ddiwS6PEiBKKm) | 3:20 |
 | 20 | [Musta enkeli](https://open.spotify.com/track/1wRRezJaIp5ghiiBUzb96h) | [M](https://open.spotify.com/artist/3Morn5TpdjMah0L9EtAxdH) | [Musta enkeli](https://open.spotify.com/album/30vYGPajd1RT9qBKfZackg) | 3:05 |
-| 21 | [Moovaa](https://open.spotify.com/track/7mfJe2fuwPcWOTvjmufHqj) | [Valentin](https://open.spotify.com/artist/2U0XZostSwDFbAltZ59Liz) | [Moovaa](https://open.spotify.com/album/7l0vVQCwtnQWsTu8FeJ1bo) | 2:27 |
+| 21 | [Moovaa](https://open.spotify.com/track/7mfJe2fuwPcWOTvjmufHqj) | [Valentin](https://open.spotify.com/artist/2U0XZostSwDFbAltZ59Liz), [Tursas](https://open.spotify.com/artist/1gaiUznTioZVqNkyNh89WY) | [Moovaa](https://open.spotify.com/album/7l0vVQCwtnQWsTu8FeJ1bo) | 2:27 |
 | 22 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
 | 23 | [Viimeinen \(Vain elämää kausi 17\)](https://open.spotify.com/track/5qhoai53HLFcDKpdxFjfYg) | [Freeman](https://open.spotify.com/artist/0GB63Taq59i582Lr9z3K2f), [Virve Rosti](https://open.spotify.com/artist/0bdhvnpKpN6rlgQnf2VC3h) | [Viimeinen \(Vain elämää kausi 17\)](https://open.spotify.com/album/1ThTGANAtsxDdCsdgzqNO8) | 3:05 |
 | 24 | [Tummaa kohti](https://open.spotify.com/track/7yC90NVyqQZy5Qb9CkGwST) | [Pihalla](https://open.spotify.com/artist/292JyZtx8shEK2YEacPHS5) | [Tummaa kohti](https://open.spotify.com/album/1yNNYMGpvZoJ7Fb1UvyeVT) | 3:57 |

@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1594952,
+  "num_followers": 1595066,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2026-10-09 04:02:59",
       "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7"
+      },
+      "artists": [
+        {
+          "name": "ICXN",
+          "url": "https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 184335,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG"
+    },
+    {
+      "added_at": "2026-10-09 04:02:59",
+      "album": {
         "name": "Blowout Comb",
         "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 285805,
       "name": "Friendly Hallucinations",
       "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
-    },
-    {
-      "added_at": "2026-10-09 04:02:59",
-      "album": {
-        "name": "NOBODY",
-        "url": "https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7"
-      },
-      "artists": [
-        {
-          "name": "ICXN",
-          "url": "https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj"
-        },
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 184335,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG"
     },
     {
       "added_at": "2026-10-09 04:02:59",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-10-09 04:02:59",
       "album": {
-        "name": "GO:OD AM (10th Anniversary)",
-        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Cable Box",
-      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
-    },
-    {
-      "added_at": "2026-10-09 04:02:59",
-      "album": {
         "name": "Saturday Mornings (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 262573,
       "name": "Saturday Mornings (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
+    },
+    {
+      "added_at": "2026-10-09 04:02:59",
+      "album": {
+        "name": "GO:OD AM (10th Anniversary)",
+        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "Cable Box",
+      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
     },
     {
       "added_at": "2026-10-09 04:02:59",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-10-09 04:02:59",
       "album": {
-        "name": "GOD flow.",
-        "url": "https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 209302,
-      "name": "GOD flow.",
-      "url": "https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl"
-    },
-    {
-      "added_at": "2026-10-09 04:02:59",
-      "album": {
         "name": "Pray For Haiti",
         "url": "https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 114329,
       "name": "No Blood No Sweat",
       "url": "https://open.spotify.com/track/4DCZxox8ZvICoaG02cxHnj"
+    },
+    {
+      "added_at": "2026-10-09 04:02:59",
+      "album": {
+        "name": "GOD flow.",
+        "url": "https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "GOD flow.",
+      "url": "https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl"
     },
     {
       "added_at": "2026-10-09 04:02:59",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-10-09 04:02:59",
       "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
-      },
-      "artists": [
-        {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
-    },
-    {
-      "added_at": "2026-10-09 04:02:59",
-      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 238573,
       "name": "Memories Live",
       "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
+    },
+    {
+      "added_at": "2026-10-09 04:02:59",
+      "album": {
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+      },
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2026-10-09 04:02:59",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2026-10-09 04:02:59",
       "album": {
-        "name": "PAELLA!",
-        "url": "https://open.spotify.com/album/748mYgp3r7ovOvtIuZ6NSJ"
+        "name": "Boulangerie Deux",
+        "url": "https://open.spotify.com/album/5CZtgilZ3n33w3UYcZb8IZ"
       },
       "artists": [
         {
-          "name": "Stoic",
-          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
         },
         {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 152142,
-      "name": "PAY NO MIND",
-      "url": "https://open.spotify.com/track/3SFUGati8EkaLj6rO3iXMt"
+      "duration_ms": 151578,
+      "name": "More Colour Money",
+      "url": "https://open.spotify.com/track/3qKdA6xmnt3mW5yMHgseq9"
     },
     {
       "added_at": "2026-10-09 04:02:59",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2026-10-09 04:02:59",
       "album": {
-        "name": "Boulangerie Deux",
-        "url": "https://open.spotify.com/album/5CZtgilZ3n33w3UYcZb8IZ"
+        "name": "PAELLA!",
+        "url": "https://open.spotify.com/album/748mYgp3r7ovOvtIuZ6NSJ"
       },
       "artists": [
         {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+          "name": "Stoic",
+          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
         }
       ],
-      "duration_ms": 151578,
-      "name": "More Colour Money",
-      "url": "https://open.spotify.com/track/3qKdA6xmnt3mW5yMHgseq9"
+      "duration_ms": 152142,
+      "name": "PAY NO MIND",
+      "url": "https://open.spotify.com/track/3SFUGati8EkaLj6rO3iXMt"
     },
     {
       "added_at": "2026-10-09 04:02:59",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2026-10-09 04:02:59",
       "album": {
-        "name": "BusyForYa",
-        "url": "https://open.spotify.com/album/2HVZHeCUroQTUACNbhh7DX"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        },
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Shibo",
-          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
-        }
-      ],
-      "duration_ms": 214837,
-      "name": "BusyForYa (feat. Planet Giza, Shibo)",
-      "url": "https://open.spotify.com/track/2ETcuQhpS0DmavS5v2fU6O"
-    },
-    {
-      "added_at": "2026-10-09 04:02:59",
-      "album": {
         "name": "A Fine African Man",
         "url": "https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
+    },
+    {
+      "added_at": "2026-10-09 04:02:59",
+      "album": {
+        "name": "BusyForYa",
+        "url": "https://open.spotify.com/album/2HVZHeCUroQTUACNbhh7DX"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Shibo",
+          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
+        }
+      ],
+      "duration_ms": 214837,
+      "name": "BusyForYa (feat. Planet Giza, Shibo)",
+      "url": "https://open.spotify.com/track/2ETcuQhpS0DmavS5v2fU6O"
     },
     {
       "added_at": "2026-10-09 04:02:59",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2026-10-09 04:02:59",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/0I4rNrQwJ8Ckk5iaShqjx7"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Termanology",
-          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
-        },
-        {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        }
-      ],
-      "duration_ms": 236913,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/7xZ4p4vVt6m8pXIYuH0pMv"
-    },
-    {
-      "added_at": "2026-10-09 04:02:59",
-      "album": {
         "name": "IMMORTAL",
         "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
@@ -1879,6 +1855,30 @@
       "duration_ms": 164656,
       "name": "Raw (feat. Lil Wayne & Niko Brim)",
       "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
+    },
+    {
+      "added_at": "2026-10-09 04:02:59",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/0I4rNrQwJ8Ckk5iaShqjx7"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Termanology",
+          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "duration_ms": 236913,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/7xZ4p4vVt6m8pXIYuH0pMv"
     },
     {
       "added_at": "2026-10-09 04:02:59",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2026-10-09 04:02:59",
       "album": {
-        "name": "Piece of Mind",
-        "url": "https://open.spotify.com/album/1nCfFkzf3lCuIrJV1K6HNR"
-      },
-      "artists": [
-        {
-          "name": "Jboogz",
-          "url": "https://open.spotify.com/artist/6qCCbx2dsKhC8ho5M1xcOq"
-        },
-        {
-          "name": "Kai Banks",
-          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
-        }
-      ],
-      "duration_ms": 187267,
-      "name": "Piece of Mind",
-      "url": "https://open.spotify.com/track/4u9cC6bAuMqvyOsLHLJlBy"
-    },
-    {
-      "added_at": "2026-10-09 04:02:59",
-      "album": {
         "name": "Love N Drugs",
         "url": "https://open.spotify.com/album/06WRkCTuAtCNqckOGrrksm"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 249331,
       "name": "Love N Drugs",
       "url": "https://open.spotify.com/track/3kGK2EcioWNqaj5rfsKN5b"
+    },
+    {
+      "added_at": "2026-10-09 04:02:59",
+      "album": {
+        "name": "We Do It Remixes",
+        "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "Jazz Spastiks",
+          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
+        }
+      ],
+      "duration_ms": 187941,
+      "name": "We Do It (Jazz Spastiks Remix)",
+      "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
     }
   ],
   "unique_name": "Jazz Rap",

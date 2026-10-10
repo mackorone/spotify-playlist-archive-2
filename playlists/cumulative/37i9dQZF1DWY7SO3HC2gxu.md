@@ -2,9 +2,9 @@
 
 ### [Oontz](https://open.spotify.com/playlist/37i9dQZF1DWY7SO3HC2gxu)
 
-> Best blends of Electronic music across Africa\. Cover: Big Nyagz & Tina Ardor
+> Best blends of Electronic music across Africa\. Cover: One Dow
 
-400 songs - 1 day 7 hr 26 min
+401 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Likizo](https://open.spotify.com/track/3y1JM5t7z4wBYprQgiy16y) | [Mura](https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd), [Big Nyagz](https://open.spotify.com/artist/4xukSlub7BM65K97FD4EAF), [Liboi](https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp), [YAH LISTEN](https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc) | [Likizo](https://open.spotify.com/album/0Te1K78U1S5Ua1CFrjE2Fb) | 6:02 | 2025-07-10 |  |
 | [Limbi](https://open.spotify.com/track/7HHkBkLksh86Qsqd8l4jYU) | [Bareno](https://open.spotify.com/artist/3HUwuKnvmz95LRPoxRFDwc), [Lakwister](https://open.spotify.com/artist/78lvkgk61m0EfRgMs1Flw6), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Limbi](https://open.spotify.com/album/0EEJ50O6o73ouAPT2pbRTW) | 3:57 | 2024-01-19 | 2025-04-25 |
 | [LOST IN CHAMPAGNE](https://open.spotify.com/track/3siAQeekKuXCMfHn8hjrSe) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD) | [LOST IN CHAMPAGNE](https://open.spotify.com/album/2xoJSwOnhtWJNqgjTaASHV) | 2:21 | 2026-06-19 |  |
+| [Lucy \- Extended Mix](https://open.spotify.com/track/2l3MdVh5YPwSpv62eYSSq2) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [Pilka Pilka](https://open.spotify.com/artist/53PHusDfvzQkPADIAFRkwn), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Lucy](https://open.spotify.com/album/47gG0ygy87oQyuc1Ge13c2) | 5:26 | 2026-10-09 |  |
 | [Lwandle](https://open.spotify.com/track/28Wq5lknJHU4p4vlKOyXKX) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Pixie L](https://open.spotify.com/artist/38qnDEjuo43UZMmxZRcK6G) | [Pyramids](https://open.spotify.com/album/4Imc9qg3fBn0KuusJYydSb) | 4:32 | 2022-11-17 | 2022-12-10 |
 | [M2Ki2](https://open.spotify.com/track/0gIFH2K59Ry9gQQ2avfnzh) | [Rody Joh](https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr), [JayBless](https://open.spotify.com/artist/74TsvjrmUSPpRdQxGuBYvM) | [M2Ki2](https://open.spotify.com/album/4cjHPIp6ZCDLddXq9n9rsX) | 6:56 | 2025-10-23 |  |
 | [Mahaba](https://open.spotify.com/track/5Nk6J6i8aA7kno0hhtCMCB) | [ODASOUL](https://open.spotify.com/artist/2ow3ArrKeVgP3MhDtWOnjo) | [Mahaba](https://open.spotify.com/album/2Ok1ptSfkGhzmIavtvY4p4) | 6:47 | 2022-08-01 | 2023-07-08 |

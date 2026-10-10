@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Mariah Deborah
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031,720 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,031,247 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 24 | [Puso](https://open.spotify.com/track/6bL1905He8qzy48DcXO1Xt) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Puso](https://open.spotify.com/album/6INNQlbCinKJOVMURzn5Kz) | 4:22 |
 | 25 | [Summer Crush](https://open.spotify.com/track/6dz4FTaIgrPIk7lfphecQh) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Summer Crush](https://open.spotify.com/album/5kfTZHSs9x8z0oMOoXiqw2) | 3:14 |
 | 26 | [Shuloks](https://open.spotify.com/track/1m4zRUexgXzzpI9Sb94bgz) | [RAPROJECT SIX](https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59) | [Shuloks](https://open.spotify.com/album/70FbVi8zPEnqd19ZBnyq2s) | 2:58 |
-| 27 | [Silip](https://open.spotify.com/track/3nHfwCmcwmt1eJX3rqn8xC) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Silip](https://open.spotify.com/album/2IZRTt70Ri8I5G9clDfJEO) | 3:01 |
+| 27 | [Silip](https://open.spotify.com/track/3nHfwCmcwmt1eJX3rqn8xC) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Silip](https://open.spotify.com/album/2IZRTt70Ri8I5G9clDfJEO) | 3:02 |
 | 28 | [Edi Magalit Ka](https://open.spotify.com/track/6xcbG14O6rkLGQAzogEqic) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Edi Magalit Ka](https://open.spotify.com/album/7253mHdhZHV0eyOmveYyhJ) | 3:46 |
 | 29 | [Daanan](https://open.spotify.com/track/6hPssOAhr7D9MGOoi7XJ8a) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Daanan](https://open.spotify.com/album/6CrWwo9KuGuAjhaGKnyEnJ) | 3:38 |
 | 30 | [Tayong Dalawa](https://open.spotify.com/track/0B61Xa64eghUz2GT8pw06b) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT), [Magiliw Street](https://open.spotify.com/artist/5J8oDvMc65JFCewBYS60nA) | [Tayong Dalawa](https://open.spotify.com/album/0RLYaF1viYlO5BRFtpAWs7) | 3:23 |

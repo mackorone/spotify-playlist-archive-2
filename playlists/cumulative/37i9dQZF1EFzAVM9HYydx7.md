@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-367 songs - 22 hr 28 min
+368 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,8 +335,9 @@
 | [Too Much](https://open.spotify.com/track/54DLSGZBdEiK4WKMfpkhPj) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Too Much](https://open.spotify.com/album/3FvLcPYFfHk5KkGrFqTY6c) | 2:49 | 2023-12-13 |  |
 | [Too Soon?](https://open.spotify.com/track/7rkIQfm5giweK9Xjwbtg7n) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 3:04 | 2025-07-11 |  |
 | [Touch Down](https://open.spotify.com/track/6jB56tohVWjdqkfNv4RS7s) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:55 | 2023-12-13 |  |
-| [TOUCH ME](https://open.spotify.com/track/0ynB9ywLFT4EDFO1gOz0p3) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:46 | 2025-11-26 |  |
+| [TOUCH ME](https://open.spotify.com/track/0ynB9ywLFT4EDFO1gOz0p3) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:46 | 2025-11-26 | 2026-10-10 |
 | [TOUCH ME](https://open.spotify.com/track/3HE0qnw60B0KOKYmI6iNVZ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX) | 3:46 | 2026-09-23 | 2026-10-07 |
+| [TOUCH ME](https://open.spotify.com/track/5VHLayP457cJkxuVQReZwV) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6) | 3:46 | 2026-10-09 |  |
 | [TOUCH ME](https://open.spotify.com/track/7d6eKiPc5IzdZO28iT9cdh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a) | 3:46 | 2026-09-24 | 2026-10-08 |
 | [Tough Love](https://open.spotify.com/track/1Y96TJIhZCg8gyvOKalieY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:04 | 2023-12-13 |  |
 | [Traumatized](https://open.spotify.com/track/3MhauDni0SoCRSfv3eSrts) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:10 | 2023-12-13 |  |

@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: TML Vibez
 
-539 songs - 1 day 0 hr 32 min
+540 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [AKAMOLE \- Sped Up](https://open.spotify.com/track/7uNqUG6JWpB5XRmNOAIIc7) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [AKAMOLE \(Sped Up\)](https://open.spotify.com/album/49L9HRirjSrIp3M7ccCueJ) | 2:19 | 2025-10-10 | 2025-11-07 |
 | [Akonuche \- Remix](https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Akonuche \(Remix\)](https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s) | 2:56 | 2026-01-23 | 2026-08-21 |
 | [AKPOR \- feat\. ODUMODUBLVCK, Magnito & Portable](https://open.spotify.com/track/2phrffYY0zzvRTnMiy48tb) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [AKPOR \(feat\. ODUMODUBLVCK, Magnito & Portable\)](https://open.spotify.com/album/04FnxfTL8M1xuQ8BBc2iSy) | 2:38 | 2025-07-04 | 2025-08-01 |
-| [Alafia \(Peace\)](https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Alafia \(Peace\)](https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF) | 2:35 | 2026-08-21 |  |
+| [Alafia \(Peace\)](https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Alafia \(Peace\)](https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF) | 2:35 | 2026-08-21 | 2026-10-10 |
 | [Alajo Emilokan](https://open.spotify.com/track/10N00uyWmUaHFkNPbtNKvG) | [DJ CORA](https://open.spotify.com/artist/5vPNT5JKbOOJuwdQ8dKOAc) | [Alajo Emilokan](https://open.spotify.com/album/45XrXX2y77M6F5u4oLVHwo) | 1:14 | 2022-06-29 | 2023-01-23 |
 | [Alhamdulillah](https://open.spotify.com/track/0iQbrllM4TkC8BQrk155sx) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Alhamdulillah](https://open.spotify.com/album/1V2eHcLypl1r0RcNfhNfxJ) | 2:15 | 2024-04-19 | 2024-05-24 |
 | [Alimanjiri](https://open.spotify.com/track/7nYvrKpbodXxGfYU2sMgIU) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhad Boi](https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm) | 2:41 | 2025-01-17 | 2025-03-21 |
@@ -130,6 +130,7 @@
 | [CLEAR](https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:33 | 2026-08-21 |  |
 | [CLOUD 9 \(GUCCI BBY\)](https://open.spotify.com/track/0s0HKUEoB3vmZqzM90GOJK) | [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [GUCCI & LV](https://open.spotify.com/album/6VFErC5TrSgbttDKc4LJJx) | 2:49 | 2026-04-10 | 2026-05-08 |
 | [Collect \- Afrobeat](https://open.spotify.com/track/4wNUpUL8niDXZX8FHeKs2a) | [DJ Baddo](https://open.spotify.com/artist/2Kw1ePXHREwlgngRzbaqR9), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Collect \(Afrobeat\)](https://open.spotify.com/album/4KtdOekMwPRnpmNFZQJ5nJ) | 2:46 | 2024-10-25 | 2024-11-08 |
+| [Come Back Home](https://open.spotify.com/track/76bJuqprGVU6gHFqw1rjMu) | [Kellylivinglarge](https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Come Back Home](https://open.spotify.com/album/79CXyWncscwC0nExbi0w22) | 2:35 | 2026-10-09 |  |
 | [Comforter](https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:18 | 2024-11-29 | 2025-06-20 |
 | [Comma](https://open.spotify.com/track/0X6KeoX1HANrLI20m4Hc1V) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 2:50 | 2022-06-29 | 2023-02-17 |
 | [Coupé](https://open.spotify.com/track/7hyoqFb1SsoPW96pcOndPM) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [Coupé](https://open.spotify.com/album/4qGZxpr6XVmHsoM3WKgDR0) | 2:48 | 2026-04-24 | 2026-05-22 |

@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever. Classics to brand new tracks across heavy, power, doom, thrash, and sludge. Cover: Trivium",
-  "num_followers": 1416906,
+  "num_followers": 1416991,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Empty Hands",
-        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Dying To Forget",
-      "url": "https://open.spotify.com/track/58n0MyTEOVHzAlPowTVt4P"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "War Pigs (Charity Version)",
         "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 484779,
       "name": "War Pigs - Charity Version",
       "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Dying To Forget",
+      "url": "https://open.spotify.com/track/58n0MyTEOVHzAlPowTVt4P"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185425,
-      "name": "Pure Ecstasy",
-      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "BRAVE NEW WORLD",
         "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 263942,
       "name": "BRAVE NEW WORLD",
       "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "The Grinding Wheel",
-        "url": "https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 449786,
-      "name": "Mean, Green, Killing Machine",
-      "url": "https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Voyage of the Dead Marauder",
         "url": "https://open.spotify.com/album/24Pm8GCzu6JXWOWTjburvl"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 267530,
       "name": "Voyage of the Dead Marauder (feat. Patty Gurdy)",
       "url": "https://open.spotify.com/track/15tb65IQDLvVlz8znIQfAu"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "The Grinding Wheel",
+        "url": "https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 449786,
+      "name": "Mean, Green, Killing Machine",
+      "url": "https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "The Trooper",
         "url": "https://open.spotify.com/album/6we9preGiPMKlAlHFWx4FH"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 251375,
       "name": "The Trooper",
       "url": "https://open.spotify.com/track/3X9TaoUaAgBCQ3G9DLCBOZ"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Everybody's Got a Plan",
-        "url": "https://open.spotify.com/album/6aZzoWRpj7XrvFE2GLNWdF"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 276841,
-      "name": "Everybody's Got A Plan",
-      "url": "https://open.spotify.com/track/07edYgDr9WJZhBp0vhEkcy"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Crown of Horns",
         "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
       },
@@ -2259,18 +2243,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "An Undying Love for a Burning World",
-        "url": "https://open.spotify.com/album/6R9JG8pkMHdGz031ceugiM"
+        "name": "Everybody's Got a Plan",
+        "url": "https://open.spotify.com/album/6aZzoWRpj7XrvFE2GLNWdF"
       },
       "artists": [
         {
-          "name": "Neurosis",
-          "url": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
         }
       ],
-      "duration_ms": 339501,
-      "name": "Mirror Deep",
-      "url": "https://open.spotify.com/track/6bEPtGlc4sixMMcsG0nPHT"
+      "duration_ms": 276841,
+      "name": "Everybody's Got A Plan",
+      "url": "https://open.spotify.com/track/07edYgDr9WJZhBp0vhEkcy"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2287,6 +2271,22 @@
       "duration_ms": 219676,
       "name": "Divine",
       "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "An Undying Love for a Burning World",
+        "url": "https://open.spotify.com/album/6R9JG8pkMHdGz031ceugiM"
+      },
+      "artists": [
+        {
+          "name": "Neurosis",
+          "url": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+        }
+      ],
+      "duration_ms": 339501,
+      "name": "Mirror Deep",
+      "url": "https://open.spotify.com/track/6bEPtGlc4sixMMcsG0nPHT"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "A.F. Day",
         "url": "https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 227335,
       "name": "A.F. Day",
       "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2491,6 +2491,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Time II",
+        "url": "https://open.spotify.com/album/27TYlqOWbO1zClQVHfTjOt"
+      },
+      "artists": [
+        {
+          "name": "Wintersun",
+          "url": "https://open.spotify.com/artist/6ui6SwChan7c1KYBQCqGKV"
+        }
+      ],
+      "duration_ms": 608013,
+      "name": "The Way of The Fire",
+      "url": "https://open.spotify.com/track/6a3fzQf9SbrbkBZtbUWVEG"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "House of Mirrors",
         "url": "https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195"
       },
@@ -2519,22 +2535,6 @@
       "duration_ms": 220133,
       "name": "Curl of the Burl",
       "url": "https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Time II",
-        "url": "https://open.spotify.com/album/27TYlqOWbO1zClQVHfTjOt"
-      },
-      "artists": [
-        {
-          "name": "Wintersun",
-          "url": "https://open.spotify.com/artist/6ui6SwChan7c1KYBQCqGKV"
-        }
-      ],
-      "duration_ms": 608013,
-      "name": "The Way of The Fire",
-      "url": "https://open.spotify.com/track/6a3fzQf9SbrbkBZtbUWVEG"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2675,6 +2675,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Para Bellum",
+        "url": "https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/6zsJjey6gAb8wVo3Rx4DVt"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Steelbound",
         "url": "https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI"
       },
@@ -2703,22 +2719,6 @@
       "duration_ms": 249072,
       "name": "Cult Of The Used",
       "url": "https://open.spotify.com/track/2b87v1enS93mz5CiKAAk0N"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Para Bellum",
-        "url": "https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/6zsJjey6gAb8wVo3Rx4DVt"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2803,22 +2803,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Teardrinker",
-        "url": "https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 320507,
-      "name": "Teardrinker",
-      "url": "https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Lest We Fall",
         "url": "https://open.spotify.com/album/6ZqlZnGCeo8ULNZ4esknhk"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 231213,
       "name": "Lest We Fall",
       "url": "https://open.spotify.com/track/1g0YyvMI8e82KtutPZV8QG"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Teardrinker",
+        "url": "https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 320507,
+      "name": "Teardrinker",
+      "url": "https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2923,6 +2923,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Cross The Divide",
+        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 258209,
+      "name": "Cross the Divide",
+      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Descent",
         "url": "https://open.spotify.com/album/1mDaT2RNgf04P88aTEjTeL"
       },
@@ -2939,18 +2955,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Cross The Divide",
-        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
+        "name": "Presence of Mind",
+        "url": "https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd"
       },
       "artists": [
         {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
         }
       ],
-      "duration_ms": 258209,
-      "name": "Cross the Divide",
-      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
+      "duration_ms": 255986,
+      "name": "Presence of Mind",
+      "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2971,22 +2987,6 @@
       "duration_ms": 289750,
       "name": "No Place of Warmth (feat. Gerard Way)",
       "url": "https://open.spotify.com/track/4cNUzje8bpS368orIfCp70"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Presence of Mind",
-        "url": "https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Presence of Mind",
-      "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -3027,6 +3027,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/6HeHYKs3GSZ3Vsd6XgM9x5"
+      },
+      "artists": [
+        {
+          "name": "The Halo Effect",
+          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+        }
+      ],
+      "duration_ms": 265307,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/3nYX9MSz50E45Vgiwgd5Dt"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Gawdzillionaire",
         "url": "https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK"
       },
@@ -3039,22 +3055,6 @@
       "duration_ms": 196740,
       "name": "Full Disclosure",
       "url": "https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Sidewinder",
-        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 239682,
-      "name": "Sidewinder",
-      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -3075,18 +3075,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Dance With The Devil",
-        "url": "https://open.spotify.com/album/6HeHYKs3GSZ3Vsd6XgM9x5"
+        "name": "Sidewinder",
+        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
       },
       "artists": [
         {
-          "name": "The Halo Effect",
-          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
         }
       ],
-      "duration_ms": 265307,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/3nYX9MSz50E45Vgiwgd5Dt"
+      "duration_ms": 239682,
+      "name": "Sidewinder",
+      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -3207,22 +3207,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Silence Like The Grave",
-        "url": "https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH"
-      },
-      "artists": [
-        {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
-        }
-      ],
-      "duration_ms": 287160,
-      "name": "Silence Like The Grave",
-      "url": "https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "A Perfect Day to Die",
         "url": "https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD"
       },
@@ -3235,6 +3219,22 @@
       "duration_ms": 230680,
       "name": "A Perfect Day to Die",
       "url": "https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Silence Like The Grave",
+        "url": "https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH"
+      },
+      "artists": [
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "duration_ms": 287160,
+      "name": "Silence Like The Grave",
+      "url": "https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId"
     },
     {
       "added_at": "2026-09-18 04:01:06",

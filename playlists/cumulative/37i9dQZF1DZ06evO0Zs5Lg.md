@@ -4,7 +4,7 @@
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 56 min
+75 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 | 2025-04-19 |  |
 | [Dynamite](https://open.spotify.com/track/3ici5bVyYe4hidBW2enSUt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 2:40 | 2026-07-12 |  |
 | [Dynamite](https://open.spotify.com/track/76N39WgN4xENapS5tnw7Of) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Dynamite](https://open.spotify.com/album/7BYzMlE0anzovqdMe5bNSJ) | 2:40 | 2025-04-19 | 2026-07-12 |
+| [errybody know](https://open.spotify.com/track/5GU8vng4WQCrb2xe2oEzxN) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [errybody know](https://open.spotify.com/album/4IDFh7O0mNQN2oXIuCnpAc) | 2:20 | 2026-10-10 |  |
 | [Farout](https://open.spotify.com/track/11yDV9YCkT5hyKVc0L5Vfp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:56 | 2025-04-19 | 2025-09-28 |
 | [Feed the Dogs](https://open.spotify.com/track/21Nuz8C7Ou8B7U7RUxhTR1) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Feed the Dogs](https://open.spotify.com/album/6MIpSgb65ovU5136ui8udW) | 3:23 | 2025-04-19 |  |
 | [Fighter](https://open.spotify.com/track/0rdthoG3YvgkghJObltH8h) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 2:28 | 2026-06-28 | 2026-07-25 |

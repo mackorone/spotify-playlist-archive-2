@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2456,
+  "num_followers": 2455,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABOQbq6tCVb3TCwyXhhz25h",
+  "snapshot_id": "asbdAAAAAADjeHl0Rd76e+JaObkA+2TW",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Que Amigos",
+        "url": "https://open.spotify.com/album/4HKFXNEZnJv6IRL1HeO04r"
+      },
+      "artists": [
+        {
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 122264,
+      "name": "Mas Que Amigos",
+      "url": "https://open.spotify.com/track/1rqzkYCoyjeWdYPhiPR5n5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bagatelle",
         "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 259777,
       "name": "Bagatelle",
       "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Que Amigos",
-        "url": "https://open.spotify.com/album/4HKFXNEZnJv6IRL1HeO04r"
-      },
-      "artists": [
-        {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 122264,
-      "name": "Mas Que Amigos",
-      "url": "https://open.spotify.com/track/1rqzkYCoyjeWdYPhiPR5n5"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Fue Suerte",
-        "url": "https://open.spotify.com/album/5QxLA2T5xN1exwvi8Nbj3m"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Galvancillo",
-          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
-        }
-      ],
-      "duration_ms": 160038,
-      "name": "No Fue Suerte",
-      "url": "https://open.spotify.com/track/5JlFFZzslIp8Ljnl4DRr5X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noches sin dormir",
         "url": "https://open.spotify.com/album/5VYzsjCsJRy1IE8GjMKTAR"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 143097,
       "name": "Noches sin dormir",
       "url": "https://open.spotify.com/track/5baQKG5WDuU1H2UsSDwZXL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Fue Suerte",
+        "url": "https://open.spotify.com/album/5QxLA2T5xN1exwvi8Nbj3m"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Galvancillo",
+          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
+        }
+      ],
+      "duration_ms": 160038,
+      "name": "No Fue Suerte",
+      "url": "https://open.spotify.com/track/5JlFFZzslIp8Ljnl4DRr5X"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLOSS DIOR",
+        "url": "https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "GLOSS DIOR",
+      "url": "https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RUMBA",
         "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 181818,
       "name": "RUMBA",
       "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLOSS DIOR",
-        "url": "https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "GLOSS DIOR",
-      "url": "https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Pilas (En Vivo)",
-        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Bien Pilas - En Vivo",
-      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BELIKBOY",
         "url": "https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 165000,
       "name": "BELIKBOY",
       "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Pilas (En Vivo)",
+        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Bien Pilas - En Vivo",
+      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
       "duration_ms": 160000,
       "name": "BELICLOVE",
       "url": "https://open.spotify.com/track/7nAOK2nmjAJOixiF7Dd2UT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFROLANDIA",
+        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Sabine",
+          "url": "https://open.spotify.com/artist/7yYwMLyDomWvLopr8vsJZK"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "#TBT",
+      "url": "https://open.spotify.com/track/0WyC33yYFlOewzJbbN3WMD"
     },
     {
       "added_at": null,
@@ -775,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos Y Damitas",
-        "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Jr Heguertty",
-          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
-        }
-      ],
-      "duration_ms": 154338,
-      "name": "Lujos Y Damitas",
-      "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fama De Ingrata",
         "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
       },
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lujos Y Damitas",
+        "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jr Heguertty",
+          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "Lujos Y Damitas",
+      "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFROLANDIA",
         "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
       },
@@ -871,26 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESDE MIS OJOS",
-        "url": "https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4"
+        "name": "Do\u00f1a Soledad",
+        "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
       },
       "artists": [
         {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        },
+        {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Bastian",
-          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
         }
       ],
-      "duration_ms": 127058,
-      "name": "DESDE MIS OJOS",
-      "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
+      "duration_ms": 163636,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c"
     },
     {
       "added_at": null,
@@ -931,6 +947,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "DESDE MIS OJOS",
+        "url": "https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Bastian",
+          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "DESDE MIS OJOS",
+      "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Uno Al 7 (En Vivo)",
         "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
       },
@@ -951,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do\u00f1a Soledad",
-        "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dejate Llevar",
         "url": "https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 160362,
       "name": "Dejate Llevar",
       "url": "https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFROLANDIA",
-        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "BRONCEADITA",
-      "url": "https://open.spotify.com/track/5civOQC2cKVvOnhRg7zNUj"
     }
   ],
   "unique_name": "This Is Alex Favela",

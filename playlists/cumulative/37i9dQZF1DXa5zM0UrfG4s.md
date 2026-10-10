@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-483 songs - 22 hr 12 min
+484 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [Shotski](https://open.spotify.com/track/0RndJ3YX7oQTm1UXLQMrRR) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Shotski](https://open.spotify.com/album/6nKlpUiUlrfjqESyLk9lq3) | 3:00 | 2022-02-17 | 2022-07-28 |
 | [Sidehilling](https://open.spotify.com/track/7ncIIf7l61q5H61J7RKwPQ) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Sidehilling](https://open.spotify.com/album/3roB4NCsetfmEuevwxbJWZ) | 4:01 | 2021-12-16 | 2022-07-10 |
 | [Silikon](https://open.spotify.com/track/3NQUo82llGnP5GytRVbHdI) | [DUNK F.E.S.T](https://open.spotify.com/artist/6Cps3rLMAUgatcFnZOC5H6), [MÆG](https://open.spotify.com/artist/6vEJhqegkxcodFIqGYx3IG) | [Silikon](https://open.spotify.com/album/3L2iGhiY2HqEZpQZz3AUZl) | 2:48 | 2022-03-31 | 2022-05-08 |
-| [Singel til jeg dør](https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Singel til jeg dør](https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f) | 2:22 | 2025-03-06 |  |
+| [Singel til jeg dør](https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Singel til jeg dør](https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f) | 2:22 | 2025-03-06 | 2026-10-10 |
 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 | 2023-04-27 | 2026-04-08 |
 | [Siste refreng](https://open.spotify.com/track/4tE2FctqyplhSsdrYL5b5Z) | [Sebb Ottesen](https://open.spotify.com/artist/6iDVsJ3FJROGJ9Y40GrnMQ) | [Siste refreng](https://open.spotify.com/album/1oYc55ihHjU5R7AovoHNwh) | 3:45 | 2026-09-17 |  |
 | [Sju Fjell](https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sju Fjell](https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ) | 2:58 | 2021-12-16 | 2024-09-20 |
@@ -490,6 +490,7 @@
 | [Ærmen i kærmen \- Remix](https://open.spotify.com/track/6U1SykqBrf8ogs548afPUW) | [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærmen i kærmen \(Remix\)](https://open.spotify.com/album/2zSfoNFUTIFuT5CaH9C8zY) | 2:43 | 2023-05-18 | 2023-08-11 |
 | [Över gränsen](https://open.spotify.com/track/3MWFPfsyvLWKceLAPx0hHY) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Över gränsen](https://open.spotify.com/album/5NmNTHYvTGmVOxRmuEr1YA) | 2:18 | 2023-10-26 | 2024-02-09 |
 | [Øl i kantina](https://open.spotify.com/track/2pV3iEhPidxQrX9zmRY3W8) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Øl i kantina](https://open.spotify.com/album/3Ba89F7pVLtwkcxEqt5gMj) | 2:21 | 2024-02-15 | 2024-09-20 |
+| [Øl På Tapp](https://open.spotify.com/track/7ge3mj530mQOczY2OSob7N) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Øl På Tapp](https://open.spotify.com/album/3mgcwQ8N4fwBXvxpuTWYyK) | 3:40 | 2026-10-09 |  |
 | [Øl&Jæger](https://open.spotify.com/track/2BMGGXsF4CPVJK5vWj4Lc0) | [Holmsve](https://open.spotify.com/artist/4XkDTdhLAkoEzRDohLoT1o) | [Øl&Jæger](https://open.spotify.com/album/3Z17RskjniNcxXnfimW0Cm) | 3:06 | 2021-12-16 | 2022-04-20 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

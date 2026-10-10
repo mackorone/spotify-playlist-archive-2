@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 159809,
       "name": "Berceuse, Op. 57 - Short Edit",
       "url": "https://open.spotify.com/track/2bzjf6y15j3h5GDMsmLSuW"
@@ -3388,6 +3388,48 @@
       "duration_ms": 241093,
       "name": "Bulgaria",
       "url": "https://open.spotify.com/track/782rqTD0wtue0vqytqoQxk"
+    },
+    {
+      "album": {
+        "name": "Bulgaria (Live)",
+        "url": "https://open.spotify.com/album/0qjsHmYcG6mayIGsHPRMhh"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        },
+        {
+          "name": "Clara B\u00fcsel",
+          "url": "https://open.spotify.com/artist/6s2VkU5B3ll5cyPVelI13O"
+        },
+        {
+          "name": "Alvar Ceamanos",
+          "url": "https://open.spotify.com/artist/46ZNDsSJXQykdt7SvRgA3U"
+        },
+        {
+          "name": "Alona Khlevna",
+          "url": "https://open.spotify.com/artist/30gg8sWAfaLRlvqC2bex4s"
+        },
+        {
+          "name": "Gereon Theis",
+          "url": "https://open.spotify.com/artist/5ArKJsYmYAb6T8Z2djzVyv"
+        },
+        {
+          "name": "Benedikt Wagner",
+          "url": "https://open.spotify.com/artist/3rz9zuTeiW8wUSNg0xawy1"
+        },
+        {
+          "name": "Michael Neumann",
+          "url": "https://open.spotify.com/artist/0S70K7OU1bqOEhwDF148J4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224785,
+      "name": "Bulgaria - Live",
+      "url": "https://open.spotify.com/track/4YWZHiu00lwr95ZnvMD4zd"
     },
     {
       "album": {
@@ -4410,6 +4452,24 @@
       "duration_ms": 86165,
       "name": "Coeur \u00e0 Coeur",
       "url": "https://open.spotify.com/track/2Zb3Vd2SNjUunJf7Dp3Igg"
+    },
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171586,
+      "name": "Coffee Song",
+      "url": "https://open.spotify.com/track/49Uq9mhpvn5a6mG5CWTkqh"
     },
     {
       "album": {
@@ -5524,6 +5584,24 @@
       "duration_ms": 80124,
       "name": "Echo Bells",
       "url": "https://open.spotify.com/track/1FlgJLqyURantBH2fIIdlO"
+    },
+    {
+      "album": {
+        "name": "Echo Psalm",
+        "url": "https://open.spotify.com/album/6kyIxtErI7jr9Bf8c4zOm2"
+      },
+      "artists": [
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Echo Psalm",
+      "url": "https://open.spotify.com/track/5UhVNi3EnoMsY33S0olLv2"
     },
     {
       "album": {
@@ -8402,7 +8480,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 138440,
       "name": "In The Bleak Midwinter",
       "url": "https://open.spotify.com/track/3czlbEgQDVP39H5BXd7CPH"
@@ -9584,7 +9662,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 226333,
       "name": "Laufey: What Love Will Do to you",
       "url": "https://open.spotify.com/track/71G0IAEoNkyuM8wuAS5wEy"
@@ -10832,7 +10910,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 258333,
       "name": "Lydian Harp",
       "url": "https://open.spotify.com/track/00H7sFTudfj2GWM3lwRdtN"
@@ -12646,6 +12724,28 @@
       "duration_ms": 247453,
       "name": "Nocturne in E-Flat Major, Op. 9, No. 2",
       "url": "https://open.spotify.com/track/5vHdzeEjuK5ZQnOyFqUTDH"
+    },
+    {
+      "album": {
+        "name": "Nocturne in F Minor, \"La S\u00e9paration\"",
+        "url": "https://open.spotify.com/album/0HcoEI9DGMAJ4vhUZEgSA7"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Glinka",
+          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+        },
+        {
+          "name": "Alexander Malofeev",
+          "url": "https://open.spotify.com/artist/02QMwZF7kLqDVGDTZ5GoSw"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270426,
+      "name": "Nocturne in F Minor, \"La S\u00e9paration\"",
+      "url": "https://open.spotify.com/track/4qwXp2yxalJXvHcrH6RgCt"
     },
     {
       "album": {
@@ -17410,7 +17510,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 152080,
       "name": "Sonatina for Nausicaa: II. Andantino",
       "url": "https://open.spotify.com/track/2wxu13McUyMPXrTfIpfHRg"
@@ -17560,6 +17660,40 @@
       "duration_ms": 221133,
       "name": "Song for Octave",
       "url": "https://open.spotify.com/track/0a1V9soqYkcKEzSqjfLf3W"
+    },
+    {
+      "album": {
+        "name": "Song for Snow (Arr. for Cello, Piano & Orchestra by Jan-Peter Kl\u00f6pfel)",
+        "url": "https://open.spotify.com/album/6jn05ViZDuBCHqIklTZ7ik"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Gordon Hamilton",
+          "url": "https://open.spotify.com/artist/5AW6V3aR82UfioCptMQ9p9"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155753,
+      "name": "Song for Snow (Arr. for Cello, Piano & Orchestra by Jan-Peter Kl\u00f6pfel)",
+      "url": "https://open.spotify.com/track/7BcMfk0YatbVQXhK0q4ivM"
     },
     {
       "album": {
@@ -21675,6 +21809,28 @@
     },
     {
       "album": {
+        "name": "Vexations (2)",
+        "url": "https://open.spotify.com/album/6qlemTFkOByMImO4fQUBlx"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106120,
+      "name": "Vexations (2)",
+      "url": "https://open.spotify.com/track/0THRybNMiHWEOwsnLLAoge"
+    },
+    {
+      "album": {
         "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
         "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
       },
@@ -22666,7 +22822,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 345466,
       "name": "\u00c9l\u00e9gie in E-Flat Minor",
       "url": "https://open.spotify.com/track/5RQ49Ogdlu7XA8Sdnxd4gT"

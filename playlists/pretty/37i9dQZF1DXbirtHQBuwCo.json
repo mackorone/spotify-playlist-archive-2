@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover:  ONEW, ZICO)",
-  "num_followers": 1096800,
+  "num_followers": 1096717,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-10-08 07:15:42",
       "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
-    },
-    {
-      "added_at": "2026-10-08 07:15:42",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 235413,
       "name": "Yours",
       "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
+    },
+    {
+      "added_at": "2026-10-08 07:15:42",
+      "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "added_at": "2026-10-08 07:15:42",
@@ -1159,38 +1159,6 @@
     {
       "added_at": "2026-10-08 07:15:42",
       "album": {
-        "name": "HAWWAH",
-        "url": "https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0"
-      },
-      "artists": [
-        {
-          "name": "dodree",
-          "url": "https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "HAWWAH",
-      "url": "https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx"
-    },
-    {
-      "added_at": "2026-10-08 07:15:42",
-      "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
-    },
-    {
-      "added_at": "2026-10-08 07:15:42",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -1207,6 +1175,22 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2026-10-08 07:15:42",
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
     },
     {
       "added_at": "2026-10-08 07:15:42",
@@ -1243,6 +1227,22 @@
       "duration_ms": 183146,
       "name": "MOVIE",
       "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
+    },
+    {
+      "added_at": "2026-10-08 07:15:42",
+      "album": {
+        "name": "HAWWAH",
+        "url": "https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0"
+      },
+      "artists": [
+        {
+          "name": "dodree",
+          "url": "https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "HAWWAH",
+      "url": "https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx"
     },
     {
       "added_at": "2026-10-08 07:15:42",

@@ -4,13 +4,13 @@
 
 > This is Ana Gabriel\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 33 min
+88 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Pesar de Todo](https://open.spotify.com/track/5f3AqtwIWpWW9Oq31AJHNd) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:48 | 2023-03-10 |  |
 | [Ahora](https://open.spotify.com/track/5UtNsaUhCptZJzw1yIFFdz) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:21 | 2023-03-10 |  |
-| [Amigo Mío \(Homenaje a Juan Gabriel\)](https://open.spotify.com/track/0AVNZGGgCp8YCwWOZWQ2PH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:39 | 2023-03-10 |  |
+| [Amigo Mío \(Homenaje a Juan Gabriel\)](https://open.spotify.com/track/0AVNZGGgCp8YCwWOZWQ2PH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:39 | 2023-03-10 | 2026-10-10 |
 | [Amor](https://open.spotify.com/track/07hLFDNfRR8m01VGSfedDV) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 4:39 | 2023-03-10 |  |
 | [Aprendiste a Volar](https://open.spotify.com/track/0QVsZ6EciMG8NBQtzFFxwc) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dos Amores, un Amante](https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R) | 2:52 | 2024-11-24 | 2025-03-21 |
 | [Besos Prohibidos](https://open.spotify.com/track/7M6kJp0mS2be16L0WVaf64) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Sagitario](https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd) | 3:48 | 2023-09-09 | 2023-09-16 |
@@ -31,7 +31,8 @@
 | [Esta Noche](https://open.spotify.com/track/7xWUtjDA5NSBVpKKnz8ff4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Vivencias](https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J) | 3:25 | 2024-11-24 | 2025-03-21 |
 | [Evidencias](https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Silueta](https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0) | 4:16 | 2023-03-10 |  |
 | [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:40 | 2023-03-10 | 2025-03-21 |
-| [Hechizo](https://open.spotify.com/track/3BrrnpQ2p1WeXmtNYs5b0D) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:28 | 2023-03-10 |  |
+| [Hechizo](https://open.spotify.com/track/6BTiNXqAQ7WSzgGBzMYsc3) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:27 | 2026-10-10 |  |
+| [Hechizo](https://open.spotify.com/track/3BrrnpQ2p1WeXmtNYs5b0D) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:28 | 2023-03-10 | 2026-10-10 |
 | [Hice Bien Quererte \(Lambada\) \- Versión Corta](https://open.spotify.com/track/3M7phO34hRzD2bEPZCXeVk) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 4:02 | 2023-03-10 |  |
 | [Huelo a Soledad](https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Huelo a Soledad](https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe) | 4:18 | 2023-03-10 |  |
 | [La Araña](https://open.spotify.com/track/6d058SNQUhMHZ8wIqre8zH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:11 | 2024-11-24 | 2024-12-25 |
@@ -65,7 +66,7 @@
 | [Oye](https://open.spotify.com/track/2oGCwd3y7VWmnp64mheSq1) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:15 | 2026-08-26 | 2026-08-28 |
 | [Pacto de Amor](https://open.spotify.com/track/1rbcpg93budzDfOKQ2CAOb) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 3:22 | 2023-03-10 | 2024-01-14 |
 | [Parece Que Fue Ayer](https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:09 | 2023-03-10 |  |
-| [Paz en Este Amor](https://open.spotify.com/track/3FfajmH9zGvlsOlO78SQhN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:31 | 2023-04-06 | 2026-08-28 |
+| [Paz en Este Amor](https://open.spotify.com/track/3FfajmH9zGvlsOlO78SQhN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:31 | 2023-04-06 |  |
 | [Pecado Original](https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:26 | 2023-03-10 |  |
 | [Popurrí Ranchero \- En Vivo](https://open.spotify.com/track/0RIYRFQyrM4rCV0PKYCeAH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 8:28 | 2024-11-24 | 2025-03-21 |
 | [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:24 | 2023-03-10 | 2024-12-19 |

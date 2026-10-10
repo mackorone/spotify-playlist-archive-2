@@ -79,26 +79,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Pinch Me",
-        "url": "https://open.spotify.com/album/2p7DbJjX0HA1HmxH408qMQ"
-      },
-      "artists": [
-        {
-          "name": "Kazy Lambist",
-          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
-        },
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
-        }
-      ],
-      "duration_ms": 214789,
-      "name": "Pinch Me",
-      "url": "https://open.spotify.com/track/6zDYiZZXrjEJXIvCNkDlVj"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "\u00c0 demain",
         "url": "https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 207560,
       "name": "Comme les autres",
       "url": "https://open.spotify.com/track/3WMwvWAAdicQFiTCvdAZd3"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Pinch Me",
+        "url": "https://open.spotify.com/album/2p7DbJjX0HA1HmxH408qMQ"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
+        }
+      ],
+      "duration_ms": 214789,
+      "name": "Pinch Me",
+      "url": "https://open.spotify.com/track/6zDYiZZXrjEJXIvCNkDlVj"
     },
     {
       "added_at": "2025-11-20 17:00:08",

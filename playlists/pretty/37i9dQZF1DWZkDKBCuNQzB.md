@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkDKBCuNQzB.md) - [plain]
 
 > Canciones de mujeres fuertes e increíbles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,494 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,502 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cero Tolerancia](https://open.spotify.com/track/2oQ4b2PClVb9R7MVMlNOng) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cero Tolerancia](https://open.spotify.com/album/6G1JFQvH9oGYNsjjeySVWF) | 3:05 |
-| 2 | [Malas Mañas](https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Malas Mañas](https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh) | 2:56 |
-| 3 | [DOLCE VITA](https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [WET DREAMS](https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr) | 3:10 |
-| 4 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
-| 5 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
+| 1 | [Intensamente](https://open.spotify.com/track/5OaP93ux2WhLGR2ElP6ga8) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Angel](https://open.spotify.com/artist/6yB30YN6Hjo4auuVUzXhVR), [Armando Gomez](https://open.spotify.com/artist/2dplSKaTG3Rdk6M1rrVCuy) | [Intensamente](https://open.spotify.com/album/1AJwSW7Y6OpY1reCFqI6Dt) | 3:29 |
+| 2 | [DOLCE VITA](https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [WET DREAMS](https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr) | 3:10 |
+| 3 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
+| 4 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
+| 5 | [piercing girl](https://open.spotify.com/track/2RqCgqA7LqrfxaE0jbAWqz) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [piercing girl](https://open.spotify.com/album/5kr0Zwkw3fyeyKtamrLIM0) | 3:01 |
 | 6 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Respiro \(Cap\. 8\)](https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo) | 3:41 |
 | 7 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
 | 8 | [Future Nostalgia](https://open.spotify.com/track/5Vzpmk27VQ9M77SCkSkERq) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/4KwrZSxfPq67eTcNsjRMW6) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkDKBCuNQzB.md) - [plain]
 | 49 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
 | 50 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 
-Snapshot ID: `AAAAAPaCvIbqsivRbekQS2v74eDTnxHa`
+Snapshot ID: `AAAAAP03K1xb636MU1EVbhr1FcHuqQjt`

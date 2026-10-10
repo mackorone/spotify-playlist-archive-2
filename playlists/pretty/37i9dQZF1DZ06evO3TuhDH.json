@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19680,
+  "num_followers": 19685,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAACOfLlIRxLo5oSx0n/tZs+",
+  "snapshot_id": "asbdAAAAAAA5ew/nPdGj/HyRJPUEGJxs",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT"
       },
@@ -111,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "!",
         "url": "https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y"
       },
@@ -127,26 +127,6 @@
       "duration_ms": 205701,
       "name": "Everything BoZ (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
-        "url": "https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
-      "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
     },
     {
       "added_at": null,
@@ -179,6 +159,26 @@
       "duration_ms": 178124,
       "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Hypaton & Giuseppe Ottaviani Remix",
       "url": "https://open.spotify.com/track/0838zv1ZStd9x0rUGAHZ9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+        "url": "https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+      "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
     },
     {
       "added_at": null,
@@ -507,22 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonsense (Remix)",
-        "url": "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL"
+        "name": "Die 4 Respect",
+        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
         },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 175648,
-      "name": "Nonsense (with Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC"
+      "duration_ms": 245621,
+      "name": "Impatient (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
     },
     {
       "added_at": null,
@@ -547,26 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die 4 Respect",
-        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
+        "name": "Nonsense (Remix)",
+        "url": "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL"
       },
       "artists": [
         {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 245621,
-      "name": "Impatient (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
+      "duration_ms": 175648,
+      "name": "Nonsense (with Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Land Of Nothing Real 2",
+        "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
+      },
+      "artists": [
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 198670,
+      "name": "CUFFIN (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BE MORE GRATEFUL",
         "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
       },
@@ -651,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Land Of Nothing Real 2",
-        "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
       },
       "artists": [
-        {
-          "name": "Lonr.",
-          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
-        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 198670,
-      "name": "CUFFIN (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
+      "duration_ms": 186133,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
     },
     {
       "added_at": null,
@@ -691,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here 2 Stay",
         "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
       },
@@ -707,38 +739,6 @@
       "duration_ms": 162386,
       "name": "Upnow (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/4NWmEDnhyn4kUZGyCgx047"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Sh!t",
-        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Fly Sh!t",
-      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fly Sh!t",
+        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Fly Sh!t",
+      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The One (Sprite Limelight)",
         "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
       },
@@ -839,6 +839,26 @@
       "duration_ms": 135733,
       "name": "The One (Sprite Limelight)",
       "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "added_at": null,
@@ -875,22 +895,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanna Come Thru",
-        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/3ZnMKPhpgpTwXRSrXZ4XEm"
       },
       "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         },
         {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
         }
       ],
-      "duration_ms": 131900,
-      "name": "Wanna Come Thru",
-      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+      "duration_ms": 170062,
+      "name": "Hold Me Down (42 Dugg, Coi Leray)",
+      "url": "https://open.spotify.com/track/3RXjFdXvbIIydnkrCKIjcA"
     },
     {
       "added_at": null,
@@ -951,46 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/3ZnMKPhpgpTwXRSrXZ4XEm"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 170062,
-      "name": "Hold Me Down (42 Dugg, Coi Leray)",
-      "url": "https://open.spotify.com/track/3RXjFdXvbIIydnkrCKIjcA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/2U2PWiUPxeKBipJrPlTW3u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "They Got Amnesia",
         "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 185477,
       "name": "Push Start (with Coi Leray feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 168013,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/2U2PWiUPxeKBipJrPlTW3u"
     },
     {
       "added_at": null,

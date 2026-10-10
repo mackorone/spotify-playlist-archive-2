@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,633 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,539 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 71 | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe) | 3:33 |
 | 72 | [Turks \(feat\. Travis Scott\)](https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Turks](https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6) | 2:41 |
 | 73 | [Red Ruby Da Sleeze](https://open.spotify.com/track/3fhvnn5xALwA2htzljsU1v) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:34 |
-| 74 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
-| 75 | [My Name \(feat\. Eminem & Nate Dogg\)](https://open.spotify.com/track/04w57GO5p1763E44KQ8AKB) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Man VS Machine](https://open.spotify.com/album/0d9boWzzDKA5FTuWPOhQ37) | 4:32 |
+| 74 | [My Name \(feat\. Eminem & Nate Dogg\)](https://open.spotify.com/track/04w57GO5p1763E44KQ8AKB) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Man VS Machine](https://open.spotify.com/album/0d9boWzzDKA5FTuWPOhQ37) | 4:32 |
+| 75 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
 | 76 | [Modern Day](https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:01 |
 | 77 | [Panini \- DaBaby Remix](https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Panini](https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov) | 2:31 |
 | 78 | [Alive \(with Offset & 2 Chainz\)](https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Alive \(with Offset & 2 Chainz\)](https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2) | 3:55 |

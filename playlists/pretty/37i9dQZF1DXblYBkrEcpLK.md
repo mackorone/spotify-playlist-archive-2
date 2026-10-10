@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Daoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,981 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,995 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 35 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
 | 36 | [猫日](https://open.spotify.com/track/0xqOOO6CG11e3Wu20cElk7) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [猫日](https://open.spotify.com/album/1QY871uDh8leKT0faCZ5dA) | 3:50 |
 | 37 | [Amore](https://open.spotify.com/track/5HMuyrjj7GrQPyDE7PGE9K) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Amore](https://open.spotify.com/album/5vBL2UwpiOUtBUEWD4RA5F) | 4:35 |
-| 38 | [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 |
-| 39 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 38 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 39 | [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 |
 | 40 | [The Story of Us](https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV) | 4:27 |
 | 41 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
 | 42 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
 | 43 | [猫じゃらし](https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [猫じゃらし](https://open.spotify.com/album/2uYPJOuresrTw80IwTTuwr) | 2:47 |
 | 44 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 |
 | 45 | [零\-zero\-](https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [零\-zero\-](https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi) | 3:58 |
-| 46 | [HIDE AND SEEK](https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HIDE AND SEEK](https://open.spotify.com/album/3TvybfjZVsoIzHj54Q5cMh) | 3:18 |
-| 47 | [祈り、終われば](https://open.spotify.com/track/1JelF7yfO3pDABPmOxLoVl) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [祈り、終われば](https://open.spotify.com/album/0hvpMj6z0amzqaVhhHmsD8) | 3:57 |
+| 46 | [祈り、終われば](https://open.spotify.com/track/1JelF7yfO3pDABPmOxLoVl) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [祈り、終われば](https://open.spotify.com/album/0hvpMj6z0amzqaVhhHmsD8) | 3:57 |
+| 47 | [HIDE AND SEEK](https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HIDE AND SEEK](https://open.spotify.com/album/3TvybfjZVsoIzHj54Q5cMh) | 3:18 |
 | 48 | [星降る海](https://open.spotify.com/track/4sEn07Jaha1koyaFzplJB0) | [Aqu3ra](https://open.spotify.com/artist/1FE8CKbcNBC5a9NsvJ4Nif), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD), [超かぐや姫！](https://open.spotify.com/artist/4Lk0yqhpmphymMVtbdT0z6) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:13 |
 | 49 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 |
 | 50 | [彼方](https://open.spotify.com/track/2XxE57jv7wFNmJ9FuaDKaT) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [彼方](https://open.spotify.com/album/3wHbN0ndkziKqj3epXmvEJ) | 5:29 |

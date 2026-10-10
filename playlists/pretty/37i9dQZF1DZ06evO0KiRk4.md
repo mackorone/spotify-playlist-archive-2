@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,851 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,873 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 | 20 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 |
 | 21 | [Stand By Me](https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Songs From Final Fantasy XV](https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO) | 4:05 |
 | 22 | [The Old Religion](https://open.spotify.com/track/6Z2hokFLCbEXKnnBosDj8u) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:40 |
-| 23 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
+| 23 | [You Got The Love \(Mark Knight Remix\) / One](https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [EDM Party](https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2) | 4:24 |
 | 24 | [Howl](https://open.spotify.com/track/30JSP0mpT8DQNHjs6v8Z4P) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 3:34 |
-| 25 | [You Got The Love \(Mark Knight Remix\) / One](https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [EDM Party](https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2) | 4:24 |
+| 25 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
 | 26 | [One of the Greats](https://open.spotify.com/track/3qrht50EwYuMgjPkM2A3aJ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 6:32 |
 | 27 | [What Kind Of Man](https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:36 |
 | 28 | [Rabbit Heart \(Raise It Up\)](https://open.spotify.com/track/5jAYbBuwroXXigCj4IGFdA) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 3:52 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 | 34 | [Big God](https://open.spotify.com/track/1NcXkWB3UwXfMt8izByICb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 4:01 |
 | 35 | [Queen Of Peace](https://open.spotify.com/track/6WRjufZUoxjaUNKOJ6QhWp) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 5:07 |
 | 36 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 |
-| 37 | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB) | 3:08 |
-| 38 | [What The Water Gave Me](https://open.spotify.com/track/10H6mvk1cPPTzs3IHsHSHi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 5:33 |
+| 37 | [What The Water Gave Me](https://open.spotify.com/track/10H6mvk1cPPTzs3IHsHSHi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 5:33 |
+| 38 | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB) | 3:08 |
 | 39 | [Make Up Your Mind](https://open.spotify.com/track/3AiXzUyFAFZVBGVAADPN5a) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 4:01 |
 | 40 | [The Bomb](https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 2:44 |
 | 41 | [Breath Of Life](https://open.spotify.com/track/4NMD8KWxZwCrff9uHhVqSn) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 | 49 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 |
 | 50 | [Moderation](https://open.spotify.com/track/6V0PPYLaQ5fCAPftwIgpuN) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Moderation](https://open.spotify.com/album/7kytZHAdRdVINFw8W1TB50) | 3:08 |
 
-Snapshot ID: `asLogAAAAABkvotHyYL0sXFR6r8mR0Iy`
+Snapshot ID: `asbdAAAAAAA3jqUObuJ86dZUjD9udKmB`

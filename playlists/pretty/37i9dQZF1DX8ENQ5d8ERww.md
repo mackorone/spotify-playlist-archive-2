@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Playlist Takeover by Bligg!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,339 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,467 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 22 | [Glasmönsch](https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD) | [Glanton Gang](https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef) | 4:53 |
 | 23 | [Wenn I läb, wenn I stirb](https://open.spotify.com/track/27L8ShIJ24kVv8r6obPFpO) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/5xW9MSLB8y46AzyZj9ccXf) | 3:03 |
 | 24 | [Teil Vom Problem](https://open.spotify.com/track/7uHvavuhl528f0aIUYrt7W) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/5E8Bj7SAPRdJWbXg3Jxce0) | 3:47 |
-| 25 | [King Size \(feat\. Kool Savas\)](https://open.spotify.com/track/7h5jNXhlFhGwzsYDyeZFrZ) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Odyssey](https://open.spotify.com/album/5n7l9TK57xauDF3wvA7eZw) | 3:26 |
-| 26 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
+| 25 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
+| 26 | [King Size \(feat\. Kool Savas\)](https://open.spotify.com/track/7h5jNXhlFhGwzsYDyeZFrZ) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Odyssey](https://open.spotify.com/album/5n7l9TK57xauDF3wvA7eZw) | 3:26 |
 | 27 | [Dune ade Langstrass \(feat\. Tinguely dä Chnächt\)](https://open.spotify.com/track/4ZwZQKgPVuI2NpBETwWxyE) | [Radio 200000](https://open.spotify.com/artist/49zhWISKqWjhyI7hQ6EpwK), [Tinguely dä Chnächt](https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj) | [Aktuelle Hits](https://open.spotify.com/album/5dRO9HANhTc7cAqkkmmcF2) | 3:47 |
 | 28 | [Vollkontakt](https://open.spotify.com/track/5cG4Kg1sVifhxOiO48P6u1) | [Dynamic Duo](https://open.spotify.com/artist/2a29ulH524zPeiQkHsJ1qM) | [VollkontaktHipHop](https://open.spotify.com/album/6AAoWgx3qJV55wzfZmOTxo) | 4:49 |
 | 29 | [From Hell to Heaven and Back](https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG) | [From Hell to Heaven and Back](https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz) | 3:46 |

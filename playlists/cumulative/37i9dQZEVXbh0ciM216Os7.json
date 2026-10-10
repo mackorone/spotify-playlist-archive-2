@@ -956,7 +956,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 231884,
       "name": "2SIDED - Oscar Farrell Remix",
       "url": "https://open.spotify.com/track/6qo5VaM1M8Gg0FPVtClRi0"
@@ -7988,7 +7988,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 205742,
       "name": "Black Is The Color Of My True Love's Hair",
       "url": "https://open.spotify.com/track/5LqZYgKIRYff0KI4MJY137"
@@ -14531,7 +14531,7 @@
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 219200,
+      "duration_ms": 219146,
       "name": "Complicated (with Tropidelic & Wax)",
       "url": "https://open.spotify.com/track/6Iph1eRoFtHPRz0KQpid9k"
     },
@@ -18272,6 +18272,24 @@
       "duration_ms": 216000,
       "name": "Do it All Again",
       "url": "https://open.spotify.com/track/7s62mYqs8RVpozHlLYijEn"
+    },
+    {
+      "album": {
+        "name": "Atlantic Jazz Legends",
+        "url": "https://open.spotify.com/album/1b5KESuOMQomF3wntoLAsk"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168093,
+      "name": "Do Nothin' Till You Hear from Me",
+      "url": "https://open.spotify.com/track/2mwdIoSluZxzN4z8lyccd1"
     },
     {
       "album": {
@@ -28846,7 +28864,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 69900,
       "name": "God Speak - Interlude",
       "url": "https://open.spotify.com/track/2Ukq3hEVucKT3vk1zH3WPi"
@@ -31828,6 +31846,24 @@
       "duration_ms": 191789,
       "name": "Hey wir woll'n die Eisb\u00e4rn sehn",
       "url": "https://open.spotify.com/track/6j7AWOj8StXqLedARcmoBG"
+    },
+    {
+      "album": {
+        "name": "Palace for the People",
+        "url": "https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279576,
+      "name": "Heya",
+      "url": "https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k"
     },
     {
       "album": {
@@ -35954,6 +35990,28 @@
       "duration_ms": 322520,
       "name": "In the Arms of Morpheus",
       "url": "https://open.spotify.com/track/4egp3L6e8e93EaHbWyN5Az"
+    },
+    {
+      "album": {
+        "name": "THE NETWORK",
+        "url": "https://open.spotify.com/album/4AL8M45viN7gijTTG7Fuyt"
+      },
+      "artists": [
+        {
+          "name": "FLVR",
+          "url": "https://open.spotify.com/artist/0leKSEjHxsp5fYvQB67kEH"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120424,
+      "name": "In The Booth",
+      "url": "https://open.spotify.com/track/79A4an9yKcWxNIGV6sCBeQ"
     },
     {
       "album": {
@@ -44591,6 +44649,36 @@
     },
     {
       "album": {
+        "name": "MADARA (with Eminem)",
+        "url": "https://open.spotify.com/album/6dF6B4EBpatZbuFC1DbEK4"
+      },
+      "artists": [
+        {
+          "name": "EZ MIL",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Neil Kaplan",
+          "url": "https://open.spotify.com/artist/53aJcejXOK8cLawUOR5VEB"
+        },
+        {
+          "name": "Hideyoshi",
+          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295866,
+      "name": "MADARA (with Eminem)",
+      "url": "https://open.spotify.com/track/4SaYK1xomZ5jAIOnqClQsV"
+    },
+    {
+      "album": {
         "name": "Maddy O' Maddy",
         "url": "https://open.spotify.com/album/73Jd7GsgSvU4YSS20nbk97"
       },
@@ -47603,6 +47691,28 @@
     },
     {
       "album": {
+        "name": "Moving at Light Speed",
+        "url": "https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Button Masher",
+          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107402,
+      "name": "Moving at Light Speed",
+      "url": "https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4"
+    },
+    {
+      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/5S0eXl1GZ3SAZfQ2HM5QyW"
       },
@@ -49112,6 +49222,28 @@
       "duration_ms": 182643,
       "name": "Nasty - Match My Chic Remix",
       "url": "https://open.spotify.com/track/7wknfJIi6OkDZPt0iE5rhh"
+    },
+    {
+      "album": {
+        "name": "National Treasure",
+        "url": "https://open.spotify.com/album/05ioHslY3uCC5GbuBCd5ub"
+      },
+      "artists": [
+        {
+          "name": "MAMMOTH.",
+          "url": "https://open.spotify.com/artist/7tdBqb3aekf8FbdIUKEMM1"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190263,
+      "name": "National Treasure",
+      "url": "https://open.spotify.com/track/35M5lfOuQIbLOChtL57u4g"
     },
     {
       "album": {
@@ -64698,7 +64830,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 237250,
       "name": "So Good (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
@@ -70030,7 +70162,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 263727,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
@@ -74152,7 +74284,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 170620,
       "name": "Thinking",
       "url": "https://open.spotify.com/track/11OvILap0KxKlGMqo8dAwS"
@@ -78285,6 +78417,24 @@
     },
     {
       "album": {
+        "name": "Sad Wings of Destiny (Original 1976 Masters)",
+        "url": "https://open.spotify.com/album/3xsb7YOwzYShxVLewJ3DNl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472130,
+      "name": "Victim of Changes - Original 1976 Masters",
+      "url": "https://open.spotify.com/track/6nRpof5gPgogrU87jsJnhq"
+    },
+    {
+      "album": {
         "name": "Victoria",
         "url": "https://open.spotify.com/album/7hfHcGwJ8LcWeYeYrMPnGs"
       },
@@ -78712,6 +78862,24 @@
       "duration_ms": 201214,
       "name": "Waiting - Otis Mix",
       "url": "https://open.spotify.com/track/4Y9uKlCmKjubxXV0XDsyjW"
+    },
+    {
+      "album": {
+        "name": "Ambiguous Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194473,
+      "name": "waiting for me",
+      "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
     },
     {
       "album": {

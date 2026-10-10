@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Lyodra, Lafa Pratomo, Ari Lesmana, White Chorus, Troye Sivan, Carly Rae Jepsen dan masih banyak lagi dari dalam dan mancanegara.
 
-33,619 songs - 79 day 15 hr 54 min
+33,620 songs - 79 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20861,6 +20861,7 @@
 | [ON & ON](https://open.spotify.com/track/1Nq9Uy3wQy8XtCLjGu1bg2) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w) | [Sympathy Empathy](https://open.spotify.com/album/2eU105k3eCAe695QmFI26r) | 3:36 | 2026-09-17 | 2026-09-25 |
 | [On & On](https://open.spotify.com/track/09tZpL9MMg4MgWIBrlJg7l) | [Mordo Blasters](https://open.spotify.com/artist/0DYpozvR3EidOPHqQ4574h) | [On & On](https://open.spotify.com/album/5P3zKO3mdiHTgp9BaLVYKm) | 4:05 | 2020-10-23 | 2020-10-30 |
 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 | 2022-05-26 | 2022-06-03 |
+| [on &on](https://open.spotify.com/track/5UzlWqxlvPpzzuNSILt5Du) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [on &on](https://open.spotify.com/album/05aF3NLC9CqgZe8pYrP70l) | 2:34 | 2026-10-09 |  |
 | [On + On \(with Justine Skye\)](https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 2:49 | 2023-06-15 | 2023-06-23 |
 | [On A Starry Night](https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [On A Starry Night \(REVIBE Vol.3\)](https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC) | 4:32 | 2021-09-03 | 2021-09-10 |
 | [On And On](https://open.spotify.com/track/2xeVbsz4Ab2cFX9TgOoZA0) | [AMPERS&ONE](https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg) | [AMPERSAND ONE](https://open.spotify.com/album/1DgPFXEedQx7BmeLpVLcyx) | 3:11 | 2023-11-16 | 2023-11-25 |

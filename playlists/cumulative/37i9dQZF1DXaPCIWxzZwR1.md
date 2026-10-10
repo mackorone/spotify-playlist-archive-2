@@ -4,7 +4,7 @@
 
 > next gen pop<br/>Cover: Mercer Henderson
 
-2,555 songs - 5 day 5 hr 24 min
+2,556 songs - 5 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1739,6 +1739,7 @@
 | [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 | 2022-10-25 | 2023-06-10 |
 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 | 2023-02-03 | 2023-03-18 |
 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 | 2025-02-21 | 2025-10-25 |
+| [Petty Crimes](https://open.spotify.com/track/2fwZYbWNMaepcGjmHTA3lJ) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Petty Crimes](https://open.spotify.com/album/3CtkFKTeTAnmzantOSYZNx) | 3:12 | 2026-10-09 |  |
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/0RW1UL8w8rjQkaIaljaFc5) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/album/3zFq7EuaSEF96fFaMCUE8w) | 3:27 | 2021-03-06 | 2021-04-24 |
 | [Picasso](https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Picasso](https://open.spotify.com/album/7aeEAI1j1z0yDnBVaaN967) | 3:16 | 2024-05-10 | 2024-06-08 |
 | [Pickup Lines](https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Pickup Lines](https://open.spotify.com/album/1SlVtVG8JmqGMOeXZaT9HF) | 2:59 | 2022-07-22 | 2022-07-30 |
@@ -1796,7 +1797,7 @@
 | [Producer Man](https://open.spotify.com/track/5BArc3UpONi77FMkNT4LYU) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Producer Man](https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4) | 2:21 | 2021-02-16\* | 2021-03-31 |
 | [Profane](https://open.spotify.com/track/3IHuUvemXT2QIiO5JW1rMW) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [Profane](https://open.spotify.com/album/1UooTYuAi4A1p9jObYWQTU) | 2:00 | 2021-08-11 | 2021-08-25 |
 | [Profane \- extended](https://open.spotify.com/track/0kBRBtaDHKsK6y2sm7cr6c) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [Profane](https://open.spotify.com/album/1UooTYuAi4A1p9jObYWQTU) | 2:29 | 2021-08-07 | 2021-08-11 |
-| [prom queen](https://open.spotify.com/track/5t93U7fBPzzwXN6xv6ZiwE) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [prom queen](https://open.spotify.com/album/1VcR6W30QImsjcpVegZaUR) | 2:43 | 2026-03-27 |  |
+| [prom queen](https://open.spotify.com/track/5t93U7fBPzzwXN6xv6ZiwE) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [prom queen](https://open.spotify.com/album/1VcR6W30QImsjcpVegZaUR) | 2:43 | 2026-03-27 | 2026-10-10 |
 | [Promise Ring](https://open.spotify.com/track/153iM41fmOcct1Pc2SydON) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Promise Ring](https://open.spotify.com/album/6L70IPQgVS3bochvZGxHA8) | 3:22 | 2023-09-29 | 2023-11-18 |
 | [Proud](https://open.spotify.com/track/5Bnno6b2mmVozAO80DaA6T) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Proud](https://open.spotify.com/album/4x076qhw4E5POtKrEx3lDK) | 2:32 | 2025-03-21 | 2025-04-05 |
 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-02-25 | 2022-04-16 |

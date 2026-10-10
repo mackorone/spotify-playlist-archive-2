@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,063,740 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,063,499 likes - 65 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 37 | [Wake Me up When September Ends](https://open.spotify.com/track/3479kk78dx3GFt048Udq54) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(Deluxe\)](https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g) | 4:45 |
 | 38 | [Suit & Tie \(feat\. JAY\-Z\)](https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 5:26 |
 | 39 | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 4:21 |
-| 40 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
+| 40 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 |
 | 41 | [Sure Thing \- Live](https://open.spotify.com/track/0uExoVSY1lgjiAhvtYwmMV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Live\)](https://open.spotify.com/album/3PXsBxDrSXMYkSlWwASle1) | 3:11 |
 | 42 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
 | 43 | [No Other Heart](https://open.spotify.com/track/4laW52Dhj4RhmYqdXYiYw9) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [No Other Heart](https://open.spotify.com/album/1iiL6HegqIF4Ql0ObDxU2j) | 2:53 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 64 | [Impostor Syndrome](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz) | 4:54 |
 | 65 | [do i clench my fists?](https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [do i clench my fists?](https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX) | 2:33 |
 
-Snapshot ID: `AAAAANxhUNFeApib3wcbYk841io5yGwi`
+Snapshot ID: `AAAAAAd2BCgpRawLiGij338RrcBeVXTX`

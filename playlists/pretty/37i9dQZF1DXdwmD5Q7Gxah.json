@@ -1,12 +1,12 @@
 {
-  "description": "Featuring Cameron Winter and the concert of a lifetime \ud83c\udf1f <a href=\"https://loremandfriends.substack.com/p/even-if-you-cant-read-you-can-still\">(p.s. read our new substack!)</a",
-  "num_followers": 1184626,
+  "description": "Featuring Cameron Winter and the concert of a lifetime \ud83c\udf1f  <a href=\"https://loremandfriends.substack.com/p/even-if-you-cant-read-you-can-still\">(p.s. read our substack!)</a>   ",
+  "num_followers": 1184595,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA2jCwGmGJ7Ag1PeH+Myh/WncoDx",
+  "snapshot_id": "AAAAANa/nIhy8dpE50mLRuSrk0LQ3aej",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:49",
@@ -147,6 +147,22 @@
       "duration_ms": 220285,
       "name": "Grey Mullet (Flip)",
       "url": "https://open.spotify.com/track/4DJRiC0S5kakXkcHqUZ3zF"
+    },
+    {
+      "added_at": "2026-10-09 18:49:06",
+      "album": {
+        "name": "The Point's a Truss, My Trusselina",
+        "url": "https://open.spotify.com/album/316h93vnHKcXH7iceuMJ8p"
+      },
+      "artists": [
+        {
+          "name": "Trusselina",
+          "url": "https://open.spotify.com/artist/06DYRh926LZdCKvDKWxsA9"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Gastro",
+      "url": "https://open.spotify.com/track/1ER7XeW1dL2SYsO1uTpsON"
     },
     {
       "added_at": "2026-09-30 17:49:46",

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: FOLA",
-  "num_followers": 658056,
+  "num_followers": 658157,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,26 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Dear London",
-        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
+        "name": "One Condition",
+        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Glass in the Air",
-      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
+      "duration_ms": 234977,
+      "name": "One Condition",
+      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
     },
     {
       "added_at": "2026-10-09 00:01:51",
@@ -499,26 +507,18 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "One Condition",
-        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
+        "name": "Dear London",
+        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 234977,
-      "name": "One Condition",
-      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+      "duration_ms": 155000,
+      "name": "Glass in the Air",
+      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
     },
     {
       "added_at": "2026-10-09 00:01:51",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
-    },
-    {
-      "added_at": "2026-10-09 00:01:51",
-      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 224684,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
+    },
+    {
+      "added_at": "2026-10-09 00:01:51",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170823,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
     },
     {
       "added_at": "2026-10-09 00:01:51",
@@ -843,38 +843,6 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129391,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
-    },
-    {
-      "added_at": "2026-10-09 00:01:51",
-      "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
-    },
-    {
-      "added_at": "2026-10-09 00:01:51",
-      "album": {
         "name": "Comfort",
         "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
       },
@@ -895,18 +863,18 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Raining (O Dun Mi)",
-        "url": "https://open.spotify.com/album/795j20zTKent2xN94khVa9"
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
       },
       "artists": [
         {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 192203,
-      "name": "Raining (O Dun Mi)",
-      "url": "https://open.spotify.com/track/0lLaSWk2SKEbtpXcND9gGT"
+      "duration_ms": 129391,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
     },
     {
       "added_at": "2026-10-09 00:01:51",
@@ -923,6 +891,38 @@
       "duration_ms": 159757,
       "name": "Money Lingo",
       "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
+    },
+    {
+      "added_at": "2026-10-09 00:01:51",
+      "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
+    },
+    {
+      "added_at": "2026-10-09 00:01:51",
+      "album": {
+        "name": "Raining (O Dun Mi)",
+        "url": "https://open.spotify.com/album/795j20zTKent2xN94khVa9"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "duration_ms": 192203,
+      "name": "Raining (O Dun Mi)",
+      "url": "https://open.spotify.com/track/0lLaSWk2SKEbtpXcND9gGT"
     },
     {
       "added_at": "2026-10-09 00:01:51",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Gorgeous",
-        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
+        "name": "Arike (Remix)",
+        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
       "artists": [
         {
@@ -1020,13 +1020,17 @@
           "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         },
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 182790,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
+      "duration_ms": 146823,
+      "name": "Arike - Remix",
+      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
     },
     {
       "added_at": "2026-10-09 00:01:51",
@@ -1075,22 +1079,6 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Muhammad Ali (Can't Relate)",
-        "url": "https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "Muhammad Ali (Can't Relate)",
-      "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"
-    },
-    {
-      "added_at": "2026-10-09 00:01:51",
-      "album": {
         "name": "Hope Is A Heavy Thing",
         "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
       },
@@ -1107,8 +1095,24 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Arike (Remix)",
-        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
+        "name": "Muhammad Ali (Can't Relate)",
+        "url": "https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "Muhammad Ali (Can't Relate)",
+      "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"
+    },
+    {
+      "added_at": "2026-10-09 00:01:51",
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
       },
       "artists": [
         {
@@ -1116,17 +1120,13 @@
           "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 146823,
-      "name": "Arike - Remix",
-      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
+      "duration_ms": 182790,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
     },
     {
       "added_at": "2026-10-09 00:01:51",

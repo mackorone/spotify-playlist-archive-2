@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Real Boss,  Arjan Dhillon, JASKARAN and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,042 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,086 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Morse Code](https://open.spotify.com/track/6TKU4KSoWn9VO0s4kVU8Pp) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [Xyz](https://open.spotify.com/album/7re8biApDmCZwoq3sD4YqQ) | 2:50 |
 | 2 | [S.T.O.M.P](https://open.spotify.com/track/6Y5Cg7q3aZvoz7gMTm87ED) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [S.T.O.M.P](https://open.spotify.com/album/2lHIx02NerLqc7TVBrP1GY) | 2:48 |
 | 3 | [Plan AB](https://open.spotify.com/track/6VL3OFLELae1vQSsfsiULA) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3) | [Code 6](https://open.spotify.com/album/69HE9sdJr0UEnultj8ND4z) | 2:28 |
-| 4 | [BADASS](https://open.spotify.com/track/6nIRQecf0Wpfbm078oZTsr) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Rumane](https://open.spotify.com/artist/0bSPH6EeWI56i8A5Z3m7R2) | [BADASS](https://open.spotify.com/album/4G5OaPKi65aIfyY0vR1C1V) | 2:41 |
+| 4 | [BADASS](https://open.spotify.com/track/6nIRQecf0Wpfbm078oZTsr) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [RUMANE](https://open.spotify.com/artist/30Y5MpTLQy10jZ96324lV7) | [BADASS](https://open.spotify.com/album/4G5OaPKi65aIfyY0vR1C1V) | 2:41 |
 | 5 | [How Much](https://open.spotify.com/track/7Fsb4Ys6ogLSbIpxvZTN4y) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [Xyz](https://open.spotify.com/album/7re8biApDmCZwoq3sD4YqQ) | 2:39 |
 | 6 | [Hear Me Out](https://open.spotify.com/track/4i3wXY26XbH5ANRZ0ydChb) | [Jass Pannu](https://open.spotify.com/artist/3CLq5iLTyPhrsmJuA3wAO5), [Spy Boi](https://open.spotify.com/artist/1gttYcIL5LonZdudIP1HLb) | [Hear Me Out](https://open.spotify.com/album/3R6KRIBlXndf5cykdLljdJ) | 2:22 |
 | 7 | [TERE NI KARARAN](https://open.spotify.com/track/2jfYfzdoOUmgTdvC2k06qY) | [TOOR](https://open.spotify.com/artist/5EWY7Jo2G1gWqPRnKmGeiX), [AJUNT](https://open.spotify.com/artist/3J0u9LRWkb2CRuxAIluC1j) | [TERE NI KARARAN](https://open.spotify.com/album/0n6QCqv8BDOeExmAvHrqpM) | 2:59 |

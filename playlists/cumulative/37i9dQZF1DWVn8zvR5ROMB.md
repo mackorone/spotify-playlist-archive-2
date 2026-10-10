@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Lainey Wilson, Joshua Slone, Chase Matthew and more.
 
-14,126 songs - 32 day 4 hr 51 min
+14,128 songs - 32 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5791,6 +5791,7 @@
 | [Hurt Like Hell](https://open.spotify.com/track/2xKhJEyaVHteQSvY2DC6LD) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Hurt Like Hell](https://open.spotify.com/album/7tYdOXQYqw7kcVU2WMl5Ab) | 3:37 | 2025-08-29 | 2025-09-06 |
 | [Hurt Like That](https://open.spotify.com/track/0K95lc93LNG5fq6TjihE5h) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Hurt Like That](https://open.spotify.com/album/1OF3Tg8vEuT3bz52rG9mcv) | 4:08 | 2026-05-22 | 2026-05-30 |
 | [Hurt Like You \(feat\. ROZ\)](https://open.spotify.com/track/4YiuYchReGmLFzKBKhNFwY) | [Matt Rogers](https://open.spotify.com/artist/05fmyImfk8ILasGDFWQkbC), [ROZ](https://open.spotify.com/artist/2mhXLt4amgUwxOMhNNYbcG) | [Hurt Like You \(feat\. ROZ\)](https://open.spotify.com/album/3StEU7yQKD3ADLN8k3BvLP) | 3:23 | 2022-01-21 | 2022-03-05 |
+| [Hurt Me Tonight](https://open.spotify.com/track/5NDFD45qTV9gc11JLS7JlA) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Homesick](https://open.spotify.com/album/45pdjlUca5bO7Vm5JnR1DV) | 2:27 | 2026-10-09 |  |
 | [Hurt My Feelings](https://open.spotify.com/track/7l6w884CaKhOBNW3MSXoEa) | [Taylor Austin Dye](https://open.spotify.com/artist/25fKXUc8KaT2o17A094b15) | [Hurt My Feelings](https://open.spotify.com/album/3mxXFpBRDZOclvCaqFk7cO) | 3:29 | 2024-10-04 | 2024-10-12 |
 | [Hurt No More](https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Hurt No More](https://open.spotify.com/album/0vri0TC8mGVb1EFspFzgJN) | 2:56 | 2022-10-14 | 2022-10-22 |
 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 | 2022-10-28 | 2022-11-05 |
@@ -7722,6 +7723,7 @@
 | [LOW ROAD \(feat\. Avery Anna\)](https://open.spotify.com/track/1pbWkKLJUUFyEBJ82Ha26S) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [LOW ROAD \(feat\. Avery Anna\)](https://open.spotify.com/album/6IGH3D37Bkrko7WBfW9VEY) | 2:57 | 2024-09-27 | 2024-10-05 |
 | [LOW ROAD \(SLOW ROAD\) \[feat\. Avery Anna\]](https://open.spotify.com/track/6he1MxzyvkGqvJmxIBopbs) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [LOW ROAD \(SLOW ROAD\) \[feat\. Avery Anna\]](https://open.spotify.com/album/38k6wD0zcoUWi3jpQLZzZu) | 2:56 | 2025-01-24 | 2025-02-01 |
 | [Lowdown & Lonesome](https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Lowdown & Lonesome](https://open.spotify.com/album/7e8Ka3g62QpJTm23DYLLm5) | 4:31 | 2023-06-30 | 2023-07-08 |
+| [Lower](https://open.spotify.com/track/61HUrcDGg7yBJiUQTF7whR) | [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs) | [Lower](https://open.spotify.com/album/775QTB1CHUaqOxcmojybOw) | 2:33 | 2026-10-09 |  |
 | [Lowlife](https://open.spotify.com/track/0uuvlanDppMtM4Ml0IXzFT) | [The Jack Wharff Band](https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz) | [Lowlife](https://open.spotify.com/album/2AUco2bUTR70HLPb6WEKKQ) | 2:46 | 2026-06-19 | 2026-06-27 |
 | [Lubbock](https://open.spotify.com/track/3Sm3nz2NiDq1THpq0iJIw3) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Lubbock](https://open.spotify.com/album/1L2BXSzOHFrPYNJBjSJtSx) | 4:24 | 2024-11-01 | 2024-11-09 |
 | [Lucid Dreams \- Pickin’ in the Meadow](https://open.spotify.com/track/6z6sFmZGG5aF0oOvalJVYX) | [Zandi Holup](https://open.spotify.com/artist/4nDqdCi31TxVG3j6cyMQtR) | [Wildflower: Pickin’ in the Meadow](https://open.spotify.com/album/2vqJZSpIhMzbS6aPl0aRMr) | 3:51 | 2025-10-24 | 2025-11-08 |

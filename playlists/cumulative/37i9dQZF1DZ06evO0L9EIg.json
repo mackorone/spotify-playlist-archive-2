@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Verity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172619,
+      "name": "Becoming A Writer",
+      "url": "https://open.spotify.com/track/2GzRdYqCp9veAePsCo2URG"
+    },
+    {
+      "album": {
         "name": "All Quiet On The Western Front (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 115000,
       "name": "Carriages Approaching",
       "url": "https://open.spotify.com/track/1LadRPfP4J0BFC1OWNK9Hj"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 103044,
       "name": "Not What We Had Hoped",
       "url": "https://open.spotify.com/track/16Zj0x6oNbaa5pW0mXJ0fG"
@@ -690,7 +708,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 44710,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/1UWqnymbM1e8dBPMFkJfM8"
@@ -868,6 +886,24 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "The King's Arrival",
+      "url": "https://open.spotify.com/track/0GHCK4hUN1RmvMlYAPRGET"
+    },
+    {
+      "album": {
+        "name": "The Uprising (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -924,7 +960,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 165226,
       "name": "Uprising Ouverture",
       "url": "https://open.spotify.com/track/4qqV4dqTq1wXP9wZG74QY6"

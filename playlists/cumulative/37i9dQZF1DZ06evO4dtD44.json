@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "O Mito (Digital Edition)",
+        "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134321,
+      "name": "Este Seu Olhar",
+      "url": "https://open.spotify.com/track/6dnyCxtyPa6ONMtORsriBs"
+    },
+    {
+      "album": {
         "name": "Coisa Mais Linda",
         "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
       },
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 135993,
       "name": "H\u00f4-b\u00e1-l\u00e1-l\u00e1",
       "url": "https://open.spotify.com/track/69MmoNvhn68CmqoREGtqfI"

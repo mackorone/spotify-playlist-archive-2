@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 29157,
+  "num_followers": 29156,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAC/IdyTlA9UcbTLYGKOntO+",
+  "snapshot_id": "asbdAAAAAAATo/6TMYzKAZFBi6VEg/Lf",
   "tracks": [
     {
       "added_at": null,
@@ -335,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold Me Back",
-        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
+        "name": "American Prodigal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
       },
       "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 223107,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
+      "duration_ms": 156480,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
     },
     {
       "added_at": null,
@@ -371,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Prodigal (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
       },
       "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 156480,
-      "name": "Prove It",
-      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
+      "duration_ms": 223107,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
     },
     {
       "added_at": null,
@@ -735,26 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just That Good",
-        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
       "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 199065,
-      "name": "Glorious Day",
-      "url": "https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx"
+      "duration_ms": 187115,
+      "name": "Glory 2 Glory",
+      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
     },
     {
       "added_at": null,
@@ -795,82 +787,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 187115,
-      "name": "Glory 2 Glory",
-      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Go Let God: The EP",
-        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 185441,
-      "name": "Let Go Let God (The Anthem)",
-      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glory Down",
-        "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
-      },
-      "artists": [
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 179673,
-      "name": "Glory Down",
-      "url": "https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 219242,
-      "name": "100",
-      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
+      "duration_ms": 199065,
+      "name": "Glorious Day",
+      "url": "https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx"
     },
     {
       "added_at": null,
@@ -899,6 +835,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glory Down",
+        "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 179673,
+      "name": "Glory Down",
+      "url": "https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Go Let God: The EP",
+        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 185441,
+      "name": "Let Go Let God (The Anthem)",
+      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wholehearted",
         "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
       },
@@ -915,6 +895,46 @@
       "duration_ms": 182095,
       "name": "Wholehearted",
       "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 219242,
+      "name": "100",
+      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
     },
     {
       "added_at": null,
@@ -955,26 +975,6 @@
       "duration_ms": 154169,
       "name": "Black Sheep II",
       "url": "https://open.spotify.com/track/0spY4QN3gI12ohsr4TdqXu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 260048,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
     },
     {
       "added_at": null,

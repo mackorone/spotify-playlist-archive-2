@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,298,135 likes - 150 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,297,908 likes - 150 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 46 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
 | 47 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 |
 | 48 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
-| 49 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 |
-| 50 | [Islands of Men](https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 5:54 |
+| 49 | [Islands of Men](https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 5:54 |
+| 50 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 |
 | 51 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
 | 52 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 |
 | 53 | [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 |
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 123 | [Bad Bad News](https://open.spotify.com/track/4RiBL4u0w26dNmVB45ofzo) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bad Bad News](https://open.spotify.com/album/6Y989i2swgje49NjskB3o6) | 3:19 |
 | 124 | [Sway](https://open.spotify.com/track/2u4ugBC7qiil1W02UTXPJU) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Let Yourself Free](https://open.spotify.com/album/3EEUq4UWicsmDfWWkmImGE) | 2:16 |
 | 125 | [I Don't Want to Talk](https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [I Don't Want to Talk](https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I) | 3:43 |
-| 126 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 |
-| 127 | [Dead](https://open.spotify.com/track/2LaHq6oy3DYrsmreXlmlwx) | [Quarters](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:39 |
+| 126 | [Dead](https://open.spotify.com/track/2LaHq6oy3DYrsmreXlmlwx) | [Quarters](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:39 |
+| 127 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 |
 | 128 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 |
 | 129 | [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 |
 | 130 | [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 |

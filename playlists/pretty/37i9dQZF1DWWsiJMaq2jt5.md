@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6o1HvE0HE1CZJSBIVyNcKg">Natalia Grosiak</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,003 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,012 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 |
+| 1 | [Teraz mam serce](https://open.spotify.com/track/5WTN8q8J0IbkwWmobgEvsR) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Tamtej dziewczyny już nie ma](https://open.spotify.com/album/6l7Huc1Zk00By4v0QnAUJ1) | 3:17 |
 | 2 | [Fall In Love With Me](https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Fall In Love With Me](https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj) | 2:48 |
 | 3 | [ZRÓB TO DLA MNIE](https://open.spotify.com/track/4K88kcWQbXeUBrG7GRh5dc) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [ZRÓB TO DLA MNIE](https://open.spotify.com/album/73T0qeSoVVXxYdJBpCzGWE) | 3:05 |
 | 4 | [Cicho sza](https://open.spotify.com/track/0LXhzHwoRGwhMde38QGncI) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Cicho sza](https://open.spotify.com/album/2uWRrAawCBsIpBfy1FIQnl) | 3:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [SWOJE MIEJSCE](https://open.spotify.com/track/027y6mASZoOm9Fcqh6BUHU) | [Magda Paradziej](https://open.spotify.com/artist/5jme4FRjRz7RorRwwzC9yp) | [SWOJE MIEJSCE](https://open.spotify.com/album/3uqtmqgWuFrNuvuMoGnpJs) | 2:29 |
 | 60 | [wir](https://open.spotify.com/track/456zlfcYrUiU3vU9ObdOdB) | [misia horbatowska](https://open.spotify.com/artist/0AnhClvd0lTTUibEslLMAI) | [wir](https://open.spotify.com/album/4LM7UzucsCgtqcte3FIgCM) | 3:34 |
 
-Snapshot ID: `AAAAAGZq2F41uNt30AVrGAyJMw/BHLlC`
+Snapshot ID: `AAAAAF6u/alL9uhZKp90AnuzuBdjEg5V`

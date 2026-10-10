@@ -4,7 +4,7 @@
 
 > The sound of the underground\. Cover: Overgrown
 
-903 songs - 2 day 5 hr 56 min
+904 songs - 2 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Back From The Dead](https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:30 | 2023-07-25 | 2025-10-24 |
 | [Back With Another One](https://open.spotify.com/track/09A8fZVdi4iv5YG8mZTN0S) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Back With Another One](https://open.spotify.com/album/0Gq9CLto1yWYpcCFihQFYw) | 2:12 | 2023-11-17 | 2024-05-11 |
 | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31) | 3:40 | 2025-01-17 | 2026-03-21 |
-| [Bad Faith](https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Love Is Not Enough](https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm) | 2:48 | 2026-02-13 |  |
+| [Bad Faith](https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Love Is Not Enough](https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm) | 2:48 | 2026-02-13 | 2026-10-10 |
 | [Bang Bang Bang](https://open.spotify.com/track/6fhNTP2BZzR3wri0qh1iKx) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Bang Bang Bang](https://open.spotify.com/album/2OQAMmezHYf03fpDoJngrN) | 2:22 | 2026-09-18 |  |
 | [Be Someone \(feat\. Eric Vanlerberghe of I Prevail\)](https://open.spotify.com/track/3ftyD427SvsTqDJ57PAcbd) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2) | [Be Someone \(feat\. Eric Vanlerberghe of I Prevail\)](https://open.spotify.com/album/7uFCwYvYgm8tf8LC1TVgWp) | 4:13 | 2024-07-19 | 2025-09-12 |
 | [be very afraid](https://open.spotify.com/track/1nXWhLumXogqFeijfa1uJd) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:20 | 2022-11-10 | 2023-02-01 |
@@ -397,6 +397,7 @@
 | [House Of Matches](https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c) | 3:01 | 2026-06-12 |  |
 | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv) | 3:20 | 2023-02-03 | 2023-08-25 |
 | [human props](https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [human props](https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0) | 3:56 | 2026-01-23 | 2026-07-17 |
+| [Hunter](https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [At Work In The Fields Of The Bomb](https://open.spotify.com/album/7tIVbLtTqWrlTnoPiLLA1R) | 7:16 | 2026-10-09 |  |
 | [Hunter’s Moon](https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Hunter's Moon](https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1) | 3:16 | 2022-11-10 | 2023-02-03 |
 | [Hype Man](https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Hype Man](https://open.spotify.com/album/2Gmcj6USDIZh2tGg0Z3068) | 4:08 | 2025-09-01 | 2026-05-27 |
 | [I COME ALIVE](https://open.spotify.com/track/4SfQjOiGqT5eYE8C8pR8Kz) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [THE WAY](https://open.spotify.com/album/358tJVvVgfUhwcjpLDnZPk) | 4:24 | 2025-03-26 | 2025-09-12 |

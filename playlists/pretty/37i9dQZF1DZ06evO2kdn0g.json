@@ -1,12 +1,12 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 6159,
+  "num_followers": 6163,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAC+Z8MIOhK7bzFYFACRsjhe",
+  "snapshot_id": "asbdAAAAAAAb+vYLOWPUxT75x0PeDPM3",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shameless",
-        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 126973,
       "name": "Art of War",
       "url": "https://open.spotify.com/track/1W5Du9CclU9myih1pu1eA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shameless",
+        "url": "https://open.spotify.com/album/3rV6cj8X6K8L1NE7l2qAuo"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/7FpUhTBcs6Ap2xrx5us2Jp"
     },
     {
       "added_at": null,
@@ -103,22 +103,6 @@
       "duration_ms": 173026,
       "name": "AFTER HOURS",
       "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TMW",
-        "url": "https://open.spotify.com/album/6lcg2uyc0h2IxH0zZqELyY"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 128919,
-      "name": "TMW",
-      "url": "https://open.spotify.com/track/19Dhj2zNpcTX2mBYrxlkax"
     },
     {
       "added_at": null,
@@ -187,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TMW",
+        "url": "https://open.spotify.com/album/6lcg2uyc0h2IxH0zZqELyY"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 128919,
+      "name": "TMW",
+      "url": "https://open.spotify.com/track/19Dhj2zNpcTX2mBYrxlkax"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eve",
         "url": "https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 163728,
       "name": "Eve",
       "url": "https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": null,
@@ -251,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
       },
@@ -283,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHO DO U LUV",
-        "url": "https://open.spotify.com/album/5OSxxuKEwrcv9Xe8bZ4iSm"
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc"
       },
       "artists": [
         {
@@ -292,9 +260,25 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 248760,
-      "name": "WHO DO U LUV",
-      "url": "https://open.spotify.com/track/74KASQI7XvyWdsNyQcJuv9"
+      "duration_ms": 230560,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": null,
@@ -315,8 +299,24 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 149253,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/0605IFCVNYSchpfcoS77YU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heaven",
-        "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
+        "url": "https://open.spotify.com/album/3dDHsgsMUgGJrgfxPyjdcI"
       },
       "artists": [
         {
@@ -330,13 +330,13 @@
       ],
       "duration_ms": 182906,
       "name": "Heaven",
-      "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
+      "url": "https://open.spotify.com/track/1MjfmxFnt7CpIG4KnXS7jI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+        "name": "WHO DO U LUV",
+        "url": "https://open.spotify.com/album/5OSxxuKEwrcv9Xe8bZ4iSm"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 149253,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/5as974bpTDV3CJGZYbK6kJ"
+      "duration_ms": 248760,
+      "name": "WHO DO U LUV",
+      "url": "https://open.spotify.com/track/74KASQI7XvyWdsNyQcJuv9"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Desert Oasis",
+      "url": "https://open.spotify.com/track/3kK4h79kBOzCZrep4LW2ap"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOIRE",
         "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
       },
@@ -404,7 +420,7 @@
       "added_at": null,
       "album": {
         "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
       },
       "artists": [
         {
@@ -412,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 113106,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6mU00UhZ1jCEyEoja3B3hl"
+      "duration_ms": 98000,
+      "name": "When You Need Me",
+      "url": "https://open.spotify.com/track/5843TGIiIISilnWgOM84vl"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
       "duration_ms": 141720,
       "name": "MORTAL",
       "url": "https://open.spotify.com/track/2DsKEr398bpEAOJvZjem6L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Desert Oasis",
-      "url": "https://open.spotify.com/track/4raVYWt5YDX4GlLDUrRM9c"
     }
   ],
   "unique_name": "This Is Avenoir",

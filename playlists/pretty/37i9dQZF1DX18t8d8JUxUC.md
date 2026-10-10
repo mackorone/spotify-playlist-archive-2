@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: selines
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,700 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,708 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 49 | [Sunlight](https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Sunlight](https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh) | 3:23 |
 | 50 | [Camino de Arena](https://open.spotify.com/track/6jLUUaXfTUExzE4zNIp3q9) | [La Última Ola](https://open.spotify.com/artist/4H0syoQQ6nUvU8fUHiCAmZ), [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Catalín Munteanu](https://open.spotify.com/artist/3Bo4iMIQ1fapJEYcvBb42S) | [La Última Ola](https://open.spotify.com/album/14yYxeHiP07nFfEYanYjSq) | 3:18 |
 | 51 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
-| 52 | [Tabú](https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Tabú](https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx) | 3:30 |
-| 53 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
+| 52 | [Flores Muertas](https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz) | [Tavo Guarneros](https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q) | [Flores Muertas](https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC) | 5:28 |
+| 53 | [Tabú](https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Tabú](https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx) | 3:30 |
 | 54 | [Mi Niña](https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mi Niña](https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m) | 3:57 |
-| 55 | [Flores Muertas](https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz) | [Tavo Guarneros](https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q) | [Flores Muertas](https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC) | 5:28 |
+| 55 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
 | 56 | [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 |
 | 57 | [¿Qué Será De Mí?](https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:26 |
 | 58 | [el wey que otra vez confio :\(](https://open.spotify.com/track/68Fp40NMOxP5qmeppEeQVz) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh), [Besasa](https://open.spotify.com/artist/7K3q9xfxjmU07gyu0MdFOS) | [el wey que otra vez confio :\(](https://open.spotify.com/album/1qxpHT9Gqbd3BAvhPSq5nE) | 5:10 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 72 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 | 73 | [Lila Alelí](https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Lila Alelí](https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv) | 3:25 |
 | 74 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 |
-| 75 | [Recuerdo](https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Uno De Nosotros](https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N) | 3:29 |
-| 76 | [hasta viejitos](https://open.spotify.com/track/24kcHSP9RuUB9xxk4wq5Tn) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2), [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [George Waves](https://open.spotify.com/artist/0yLl8k4ehq6YHgqjTAgf3P) | [hasta viejitos](https://open.spotify.com/album/7BLfcGhwRysE5zfdi1xXsM) | 4:04 |
+| 75 | [hasta viejitos](https://open.spotify.com/track/24kcHSP9RuUB9xxk4wq5Tn) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2), [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [George Waves](https://open.spotify.com/artist/0yLl8k4ehq6YHgqjTAgf3P) | [hasta viejitos](https://open.spotify.com/album/7BLfcGhwRysE5zfdi1xXsM) | 4:04 |
+| 76 | [Recuerdo](https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Uno De Nosotros](https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N) | 3:29 |
 | 77 | [Valles](https://open.spotify.com/track/5giedFuwGdJ15xqJPuEHvg) | [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [Valles](https://open.spotify.com/album/07QLMgEF08qGJldtkjoNzm) | 2:45 |
 | 78 | [Drowning](https://open.spotify.com/track/3oa7Q4VLpv9YYbpp741qih) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Motel Kilomango](https://open.spotify.com/album/2Et2imBWvYQ8XJYrBbwsqp) | 2:53 |
 | 79 | [A La Mitad \- Acústico](https://open.spotify.com/track/0nZhcBDyshxiuwUXbPs1Ic) | [MAURA NAVA](https://open.spotify.com/artist/3W43SA5H6ybLgyCZ86OANj) | [A La Mitad \(Acústico\)](https://open.spotify.com/album/6LURF69yHcqbtyr1OrUwko) | 3:19 |

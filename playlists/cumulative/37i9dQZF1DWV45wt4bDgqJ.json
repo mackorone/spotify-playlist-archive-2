@@ -41,6 +41,40 @@
     },
     {
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301714,
+      "name": "China",
+      "url": "https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5"
+    },
+    {
+      "album": {
         "name": "De Lejitos",
         "url": "https://open.spotify.com/album/2ukbbf4uaeSZF4q09Iciq3"
       },
@@ -59,6 +93,46 @@
     },
     {
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+    },
+    {
+      "album": {
+        "name": "Donde Hubo Fuego Cenizas Quedan",
+        "url": "https://open.spotify.com/album/1cNsFMMfmiS4jalF8ZAv4T"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211968,
+      "name": "Donde Hubo Fuego Cenizas Quedan",
+      "url": "https://open.spotify.com/track/3blTUQBjONdQE2axYgs1d9"
+    },
+    {
+      "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/05MaDb9RBWImPDezuUjEvT"
       },
@@ -74,6 +148,24 @@
       "duration_ms": 196245,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/18Pv9tK6iymZWB8yQW6Aoc"
+    },
+    {
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5uyNrZMYdauJCrwSPBfJ4z"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215785,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/1jAibpPpbNMJyLEnu8b3ES"
     },
     {
       "album": {
@@ -140,6 +232,24 @@
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
+    },
+    {
+      "album": {
+        "name": "LALA",
+        "url": "https://open.spotify.com/album/5uVHqTvIjmwrDR6RTzurvE"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199936,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/6mhp28tUmVBZ1yEqT7fjki"
     },
     {
       "album": {
@@ -224,7 +334,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 273813,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/3UMpdwMNrTOm8z3ldN2I0N"
@@ -454,10 +564,28 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 224223,
       "name": "QUE PRETENDES",
       "url": "https://open.spotify.com/track/7LdXoP2rkbFF0xsPo6fQbg"
+    },
+    {
+      "album": {
+        "name": "RIKI",
+        "url": "https://open.spotify.com/album/4nJS5vylDAVo1pPgYYwCR8"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189769,
+      "name": "RIKI",
+      "url": "https://open.spotify.com/track/28kHu9mE8Z6YbBOBXUOJtO"
     },
     {
       "album": {

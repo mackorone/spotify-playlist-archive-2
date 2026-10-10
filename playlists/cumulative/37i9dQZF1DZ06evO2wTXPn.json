@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 183706,
       "name": "No Lo Est\u00e1s Logrando",
       "url": "https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn"
@@ -1462,10 +1462,28 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 214268,
       "name": "Por Si Te Quieres Quedar",
       "url": "https://open.spotify.com/track/1IOFN550MP5nd2qRfoDaTG"
+    },
+    {
+      "album": {
+        "name": "Desde Antes De Nacer",
+        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214268,
+      "name": "Por Si Te Quieres Quedar",
+      "url": "https://open.spotify.com/track/6cP6wjPfk5Ii4tU9nQKRYm"
     },
     {
       "album": {
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 127933,
       "name": "Si Te Volviera A Conocer",
       "url": "https://open.spotify.com/track/5ihj6KU1TyKH6ie6izhLEi"

@@ -2,9 +2,9 @@
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: Djavan
+> Os grandes artistas da MPB\. Foto: Maria Bethânia
 
-179 songs - 11 hr 18 min
+180 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Lábios Que Beijei](https://open.spotify.com/track/4eCxHYt3VfiffuRSkydhgN) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8) | [Lábios Que Beijei](https://open.spotify.com/album/1wUzUUx7Uush6TxCnkp0AS) | 4:04 | 2021-12-31 | 2022-08-27 |
 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 | 2022-01-20 |  |
 | [Mama África / Brilho de Beleza / Pra Não Dizer Que Não Falei das Flores \- Ao Vivo \| Bônus Track](https://open.spotify.com/track/56QI0cHMqOQRBw4jbNFGZD) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Lazzo Matumbi](https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV), [Seu Pereira](https://open.spotify.com/artist/28pAHiB6AXRv8xAFi6y2cw), [Luizinho Calixto](https://open.spotify.com/artist/5RVxzbhV0agb2TSjCD3Kmk), [Escurinho](https://open.spotify.com/artist/4JPtZ1t3FJ7SjLPEAHQswo), [Michi Ruzitschika](https://open.spotify.com/artist/030OnLWDWctqB2Rx6bBOx1) | [Estado de Poesia \(Ao Vivo\) \(Deluxe Edition\)](https://open.spotify.com/album/3mDS3K8Eg7eCJ3Ny8uJG3J) | 9:30 | 2021-12-31 | 2023-11-25 |
+| [Mares da Espanha \- Ao Vivo](https://open.spotify.com/track/4JezCGwd9kujHk55Z2cPfZ) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mares da Espanha / Palavras de Rita / Diz Que Fui Por Aí \(Ao Vivo\)](https://open.spotify.com/album/0K3AFoxXjbC8s845JsUYBz) | 2:32 | 2026-10-09 |  |
 | [Maria Maria](https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Trem Azul](https://open.spotify.com/album/0Jl8gxF0bV3CDB2A01Y30N) | 4:20 | 2023-03-17 | 2025-03-07 |
 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 | 2021-12-31 |  |
 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 | 2021-12-31 |  |
@@ -136,7 +137,7 @@
 | [Olhos Nos Olhos](https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y) | 4:35 | 2022-06-24 | 2024-04-19 |
 | [Olhos Nos Olhos](https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/2cRw1H1XHHS9VHxQkbz0Y5) | 4:35 | 2021-12-31 |  |
 | [Olhos Nos Olhos](https://open.spotify.com/track/7oSdOcEsu9SMYHoK0ifbVh) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Doce MPB](https://open.spotify.com/album/2XAc4keBjM6sGyrVAsiLhW) | 4:35 | 2022-11-09 | 2022-11-13 |
-| [Outra Vez](https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Outra Vez](https://open.spotify.com/album/2NylFxVu73peifK68z2fuc) | 4:14 | 2021-12-31 |  |
+| [Outra Vez](https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Outra Vez](https://open.spotify.com/album/2NylFxVu73peifK68z2fuc) | 4:14 | 2021-12-31 | 2026-10-10 |
 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 | 2021-12-31 |  |
 | [Paisagem da Janela \- Ao Vivo](https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tênis + Clube \- Ao Vivo No Circo Voador](https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ) | 3:12 | 2021-12-31 |  |
 | [Peito Aberto](https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Peito Aberto](https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w) | 3:11 | 2026-03-27 | 2026-05-15 |

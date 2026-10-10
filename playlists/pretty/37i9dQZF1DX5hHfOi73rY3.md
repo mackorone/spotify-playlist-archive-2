@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,772 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,809 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 37 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
 | 38 | [Stunner](https://open.spotify.com/track/6RmHESttla4I4g4vr0NLkQ) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Stunner](https://open.spotify.com/album/2N9S0Hd0AzQSdRxlLhS1oP) | 2:58 |
 | 39 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
-| 40 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
-| 41 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
+| 40 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
+| 41 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
 | 42 | [Break](https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Break](https://open.spotify.com/album/1s7ypuIcLO2C9Qc4MFH4hj) | 2:31 |
 | 43 | [Raw Control](https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Raw Control](https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD) | 2:30 |
 | 44 | [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 |

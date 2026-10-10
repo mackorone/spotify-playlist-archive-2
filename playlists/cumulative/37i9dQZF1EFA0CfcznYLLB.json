@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 152480,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 152480,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/6t8FYoGOh31ssc9zS4OO6u"
@@ -4288,7 +4288,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 224546,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/2nefpDEMiozxhrssWCvQMa"
@@ -4310,6 +4310,24 @@
       "duration_ms": 224546,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/46df2qqZrXxDfhaXuSTRAm"
+    },
+    {
+      "album": {
+        "name": "Exis (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6KwjNwN4Dg9JHawGGB7Utj"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224546,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/6C0DAXEjxVF9Xsjv23ycVy"
     },
     {
       "album": {
@@ -5992,7 +6010,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 208789,
       "name": "NOTHING LESS",
       "url": "https://open.spotify.com/track/07wQOvUrGeUtak35xGErIj"
@@ -6010,7 +6028,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 208789,
       "name": "NOTHING LESS",
       "url": "https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le"
@@ -8294,7 +8312,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 208762,
       "name": "TURN UP",
       "url": "https://open.spotify.com/track/0hzAYGvbeMwW5O6n1w9zNq"
@@ -8316,6 +8334,24 @@
       "duration_ms": 208762,
       "name": "TURN UP",
       "url": "https://open.spotify.com/track/2OsrEaBGJjORvRwLzvnSDy"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE (Chopped Not Slopped)",
+        "url": "https://open.spotify.com/album/7954tDYraStpAFjS8SdPfo"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208762,
+      "name": "TURN UP",
+      "url": "https://open.spotify.com/track/5Q6OGApyVwBtdx3iv7IZWP"
     },
     {
       "album": {

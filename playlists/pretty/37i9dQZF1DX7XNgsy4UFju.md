@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,502 likes - 99 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,533 likes - 99 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

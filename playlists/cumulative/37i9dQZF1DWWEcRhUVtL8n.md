@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sydney Ross Mitchell
 
-2,547 songs - 5 day 15 hr 53 min
+2,548 songs - 5 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Better Than Before](https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X) | [Pamela.](https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE) | [Better Than Before](https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1) | 2:42 | 2026-05-15 | 2026-09-22 |
 | [BeVerly Hills BoYfRiEnd \(with ROLE MODEL\)](https://open.spotify.com/track/0xljDdXOyRfnlYAW6ZkzF8) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [BeVerly Hills BoYfRiEnd \(Remixes\)](https://open.spotify.com/album/6fr4YPNUZHYdycSDvc5qV1) | 2:43 | 2021-01-16 | 2022-04-29 |
 | [Bicycle](https://open.spotify.com/track/6je24EioclOnquVFZzQa81) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Bicycle](https://open.spotify.com/album/60QH27LQtqQ11jZaDYodg7) | 2:27 | 2023-02-04 | 2023-02-11 |
-| [Big Believer](https://open.spotify.com/track/2G4px5GH5jULK1plyCpB16) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Big Believer](https://open.spotify.com/album/1HslvQ1aNNtMxJlto9sZSz) | 3:04 | 2026-09-18 |  |
+| [Big Believer](https://open.spotify.com/track/2G4px5GH5jULK1plyCpB16) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Big Believer](https://open.spotify.com/album/1HslvQ1aNNtMxJlto9sZSz) | 3:04 | 2026-09-18 | 2026-10-10 |
 | [Big Brown Eyes](https://open.spotify.com/track/2eQotZtrNHzi38qge7CGXE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Big Brown Eyes](https://open.spotify.com/album/0rez0kptEcS4h9NMKlHsl0) | 3:38 | 2024-04-05 | 2024-06-05 |
 | [Big House](https://open.spotify.com/track/0JxgrqSA328tRUNWdTmRAL) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Big House](https://open.spotify.com/album/2tqpoS992y7iKD4M4C2Jmx) | 3:25 | 2023-04-07 | 2023-04-15 |
 | [Big Wheel](https://open.spotify.com/track/5TxwBIN4MTTWLvW3Tl5ttE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Big Wheel](https://open.spotify.com/album/4gYJZjcBe0hbXNCfkiHgeD) | 3:15 | 2020-10-16 | 2021-06-03 |
@@ -1523,6 +1523,7 @@
 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 | 2025-03-28 | 2025-04-05 |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2021-12-03 | 2022-12-10 |
 | [Movie Star](https://open.spotify.com/track/7baiuxB2BkWnsAuAWn1NpO) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Movie Star](https://open.spotify.com/album/3Dwtzc1bPxXjFMxEPhm8r6) | 3:00 | 2025-12-12 | 2026-02-21 |
+| [Movie Star](https://open.spotify.com/track/3MA12tbX1avdc0ljdqLOdI) | [Syd Taylor](https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav) | [After the Fact \(Deluxe\)](https://open.spotify.com/album/07jLvT3K1q3uUTy2OzU7uC) | 2:57 | 2026-10-09 |  |
 | [Moving Men \(feat\. Mac DeMarco\)](https://open.spotify.com/track/3y4I9VECfNbDXYN2bXh9hV) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Moving Men](https://open.spotify.com/album/5KHDM6ahrfEV8D2JFPbz4h) | 2:47 | 2020-10-29 | 2021-05-28 |
 | [moving on \(feat\. Khary\)](https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [moving on / sugarhoneyiceicetea](https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n) | 2:59 | 2023-04-28 | 2023-09-30 |
 | [Mr Loverman \(feat\. chloe moriondo\)](https://open.spotify.com/track/60GNcfTVPbKYpdgyYDqUPq) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Mr Loverman \(feat\. chloe moriondo\)](https://open.spotify.com/album/7ugpe4Tp9D5kU1UbHwmu7p) | 3:35 | 2021-04-13 | 2022-04-21 |

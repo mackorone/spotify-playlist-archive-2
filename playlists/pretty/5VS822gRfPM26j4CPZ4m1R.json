@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 18153,
+  "num_followers": 18152,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMl4zpe3ZW2CMIUz3S9nxoSESISUcZ",
+  "snapshot_id": "AAAMmPjqYBmE3qfY+x7+ixk3A5eahnu1",
   "tracks": [
+    {
+      "added_at": "2026-10-09 14:59:52",
+      "album": {
+        "name": "Someone's Alibi",
+        "url": "https://open.spotify.com/album/2m0IXGivQFZwsnBsRVESLy"
+      },
+      "artists": [
+        {
+          "name": "Marcoca",
+          "url": "https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4"
+        }
+      ],
+      "duration_ms": 258483,
+      "name": "Someone's Alibi",
+      "url": "https://open.spotify.com/track/2dpLg4IEt83P49573MuvkO"
+    },
     {
       "added_at": "2026-09-25 08:26:38",
       "album": {

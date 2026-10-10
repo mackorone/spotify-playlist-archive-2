@@ -5117,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "I'M IN THE BAND",
+        "url": "https://open.spotify.com/album/4RYbnY33qSKP55guw0EsxI"
+      },
+      "artists": [
+        {
+          "name": "Max Rickun",
+          "url": "https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199094,
+      "name": "I'M IN THE BAND",
+      "url": "https://open.spotify.com/track/4kDpQhtAarLjq35TOG9K63"
+    },
+    {
+      "album": {
         "name": "I've Had Enough",
         "url": "https://open.spotify.com/album/2iUmotCQAv7gJVmBKZGKwo"
       },
@@ -9650,7 +9668,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 202250,
       "name": "THE CINEMA",
       "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"

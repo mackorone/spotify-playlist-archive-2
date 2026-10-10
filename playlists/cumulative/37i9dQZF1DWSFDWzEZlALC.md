@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Raum27
 
-1,998 songs - 3 day 21 hr 53 min
+1,998 songs - 3 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Eine Ode an Wien](https://open.spotify.com/track/43ufwL96oO8ICPs6kQerlq) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Eine Ode an Wien](https://open.spotify.com/album/0LxX4gqN7Ys9Kvbz38gFvY) | 3:06 | 2023-04-13 | 2023-06-16 |
 | [Eine Wolke, die sich vor die Sonne schiebt](https://open.spotify.com/track/2hqJEsX7PNKKk9P1Z5uMj5) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi) | [Eine Wolke, die sich vor die Sonne schiebt](https://open.spotify.com/album/5VYpZwbtDV8lFazEL49DeG) | 2:27 | 2026-06-18 |  |
 | [Einfach sein](https://open.spotify.com/track/79ZfFZxU80HL49D6QdoaAU) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Einfach sein](https://open.spotify.com/album/0309n4dzi1kqWpZwXEabae) | 2:45 | 2025-07-10 | 2025-10-03 |
+| [EINMAL](https://open.spotify.com/track/60FmAiDXA1pTM4w7lfvu8U) | [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [SHARAKTAH](https://open.spotify.com/album/71c0iGzjoQCNUvrraR0aS8) | 3:31 | 2026-10-08 |  |
 | [einmal um die Welt mit dir](https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [einmal um die Welt mit dir](https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB) | 2:30 | 2026-07-02 |  |
 | [Einmal verliebt \(Outro\)](https://open.spotify.com/track/2Ibp8UUZFcS6dnUXHR4ZIO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Wenn du weinst / Einmal verliebt \(Outro\)](https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas) | 2:30 | 2023-11-30 | 2024-04-26 |
 | [Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Einsame Insel](https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ) | 2:44 | 2023-02-23 | 2023-05-12 |
@@ -1691,8 +1692,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 3](https://open.spotify.com/track/0H5hye7VY1TE4XnvzwUf68) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fragmente](https://open.spotify.com/album/34saAcCkHEJ3A25JpDxgRm) | 0:00 | 2026-10-08 |  |
-| [Track 3](https://open.spotify.com/track/60FmAiDXA1pTM4w7lfvu8U) | [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [SHARAKTAH](https://open.spotify.com/album/71c0iGzjoQCNUvrraR0aS8) | 0:00 | 2026-10-08 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [traum](https://open.spotify.com/track/4rJ7Mu1pTf7XGyvX08VBmM) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [traum](https://open.spotify.com/album/510TUxmx6oG5bd3MUwN4an) | 2:10 | 2026-09-24 |  |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
@@ -1857,6 +1856,7 @@
 | [Weißt du](https://open.spotify.com/track/6xTQUjMO5hZVrEpSNNo4eu) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Weißt du](https://open.spotify.com/album/1GNaAjx5ns0ptcKNYs0wAH) | 2:04 | 2024-03-28 | 2024-06-28 |
 | [Weißt du überhaupt noch wer ich bin?](https://open.spotify.com/track/2WaGqcbTEIiM8QPHPmqclR) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Weißt du überhaupt noch wer ich bin?](https://open.spotify.com/album/1cuITNhAFG8ycP1y2QnXh9) | 2:08 | 2026-03-05 | 2026-06-05 |
 | [Wellenlängen](https://open.spotify.com/track/6R2xBCoJhimKect9AxexdZ) | [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM) | [Wellenlängen](https://open.spotify.com/album/7trTZd6bZGQZjD3SQuMhSH) | 3:19 | 2023-08-03 | 2023-08-25 |
+| [weltohnefarben](https://open.spotify.com/track/0H5hye7VY1TE4XnvzwUf68) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fragmente](https://open.spotify.com/album/34saAcCkHEJ3A25JpDxgRm) | 2:18 | 2026-10-08 |  |
 | [Wem mach ich was vor](https://open.spotify.com/track/00yXb1NU2vtNBUxsRhahX6) | [Tua](https://open.spotify.com/artist/1GXnXJCevXK2b7qDAwdU5u) | [Tua](https://open.spotify.com/album/1ctWwPLNWvngxFq0VjtmoY) | 2:55 | 2025-02-13 | 2025-02-15 |
 | [wen INTERESSIERTS.](https://open.spotify.com/track/7LWjUgzHKlria6VuM3WkFt) | [Laika Allein](https://open.spotify.com/artist/6ZI1Y5HJTs6aomTpuo1eqn), [hansi.media](https://open.spotify.com/artist/6yf1FDnl0JrQCUAHfx2IvP), [Rio Soul](https://open.spotify.com/artist/7iB4kePW3SASn69znn4RQM) | [wen INTERESSIERTS.](https://open.spotify.com/album/4djYXMzlOahgRd72pWoSDY) | 3:04 | 2026-02-05 | 2026-03-20 |
 | [Weniger Allein](https://open.spotify.com/track/3HuQvPFNb8e8pYITgwFPQ7) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Weniger Allein](https://open.spotify.com/album/6xFBY6ZHtbU5wNbsaanHwc) | 3:20 | 2024-05-02 | 2024-06-07 |

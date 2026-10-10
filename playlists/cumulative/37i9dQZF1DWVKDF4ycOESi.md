@@ -4,7 +4,7 @@
 
 > Nuovi brani di Marco Mengoni,  Rkomi, TY1, Jovanotti e Samurai Jay, Judeline, Fabri Fibra con Neffa e tanti altri.
 
-10,685 songs - 22 day 13 hr 31 min
+10,686 songs - 22 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2696,6 +2696,7 @@
 | [Donna Fiammifero](https://open.spotify.com/track/2UYSRTGIvQJMJCgQZpZRF8) | [Sina](https://open.spotify.com/artist/2BYuUplSlEUC7pg9W05d3F) | [Donna Fiammifero](https://open.spotify.com/album/4GhztJmrr7bwsoyz8NKuax) | 2:40 | 2024-06-06 | 2024-06-14 |
 | [DONNA VERA \(feat\. Artie 5ive\)](https://open.spotify.com/track/5U3MS2PddLtfkwx3eJZmt8) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Anno Zero](https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr) | 2:37 | 2025-07-03 | 2025-07-11 |
 | [Don’t Break Her Heart](https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Don’t Break Her Heart](https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY) | 3:44 | 2026-06-04 | 2026-06-12 |
+| [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz) | 2:44 | 2026-10-09 |  |
 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 | 2025-08-22 | 2025-08-29 |
 | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI) | 3:12 | 2026-08-06 | 2026-08-21 |
 | [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 | 2026-03-20 | 2026-03-27 |

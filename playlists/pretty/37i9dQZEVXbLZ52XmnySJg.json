@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - India.",
-  "num_followers": 636823,
+  "num_followers": 636924,
   "original_name": "Top 50 - India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mlsg6AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MlxtuAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Barsaat",
         "url": "https://open.spotify.com/album/3wm8qhMYXqteXNc8PgOiCo"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/0DpUQ3mpAGy3bYsEKVy6t5"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "Arz Kiya Hai | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Arz Kiya Hai | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Alfaaz",
         "url": "https://open.spotify.com/album/41jcM2Nk286Rghi16VGTax"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "Arz Kiya Hai | Coke Studio Bharat",
-        "url": "https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Arz Kiya Hai | Coke Studio Bharat",
-      "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Khat",
         "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "KALYANI (with Shreya Ghoshal) [Remix]",
         "url": "https://open.spotify.com/album/7JIw6me0sSXfs4nGwNaTHw"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/2y8mkajKikV5S1PRCMQ5WL"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Bairan",
         "url": "https://open.spotify.com/album/3ZIsrV7xUXWX4tR0vk1CGF"
@@ -125,7 +125,35 @@
       "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        }
+      ],
+      "duration_ms": 362400,
+      "name": "Gehra Hua",
+      "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Radhimaa (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/7hgwwDIBJe548XPBJ0zIuq"
@@ -157,55 +185,27 @@
       "url": "https://open.spotify.com/track/6jJHYbJReFfR2ieGzRP5bq"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "AUJLA SZN 1",
-        "url": "https://open.spotify.com/album/7rBIioPKNbFbedgP6iioLN"
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
       },
       "artists": [
         {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
         },
         {
-          "name": "Mxrci",
-          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
         }
       ],
-      "duration_ms": 217625,
-      "name": "Ashke",
-      "url": "https://open.spotify.com/track/5vTJrmnmJMAvFjrUpUWxyy"
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        },
-        {
-          "name": "Armaan Khan",
-          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
-        }
-      ],
-      "duration_ms": 362400,
-      "name": "Gehra Hua",
-      "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Bollywood Love Lounge Vol 1",
         "url": "https://open.spotify.com/album/1xj1uSVpgy9m4Bvu2XIl33"
@@ -229,7 +229,27 @@
       "url": "https://open.spotify.com/track/0KpdEdrrlqV9X58YAbSsY9"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "AUJLA SZN 1",
+        "url": "https://open.spotify.com/album/7rBIioPKNbFbedgP6iioLN"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "duration_ms": 217625,
+      "name": "Ashke",
+      "url": "https://open.spotify.com/track/5vTJrmnmJMAvFjrUpUWxyy"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Table No. 21 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qg01omGy5c6MhdiwMhqcW"
@@ -245,27 +265,7 @@
       "url": "https://open.spotify.com/track/0mwAlZqPUWpZJIut93y40W"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "Pesamale",
-        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
-      },
-      "artists": [
-        {
-          "name": "Siri Xander",
-          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
-        },
-        {
-          "name": "Arra Aria Khayal",
-          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Pesamale",
-      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Finding Her",
         "url": "https://open.spotify.com/album/69xcXWqK1aN73KgVA2i3Zq"
@@ -289,59 +289,7 @@
       "url": "https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "Tum Ho Toh (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/69oxllULO1PeIO1VHT97uk"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
-        }
-      ],
-      "duration_ms": 318217,
-      "name": "Tum Ho Toh (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/6G8vN5EUtcDxOXOXadF6kp"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "Samjhawan",
-        "url": "https://open.spotify.com/album/6XgV61OBbr8gHlXdAQ89Sj"
-      },
-      "artists": [
-        {
-          "name": "Jawad Ahmad",
-          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
-        },
-        {
-          "name": "Shaarib Toshi",
-          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 269184,
-      "name": "Samjhawan",
-      "url": "https://open.spotify.com/track/0rk2X5TAhraBC5aCIXK2Rq"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Shivaay",
         "url": "https://open.spotify.com/album/0gCcyIYaX8OK2BcKs8behf"
@@ -369,7 +317,31 @@
       "url": "https://open.spotify.com/track/1awtp7rf6ajhGY9BgzCHeZ"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "Tum Ho Toh (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/69oxllULO1PeIO1VHT97uk"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "duration_ms": 318217,
+      "name": "Tum Ho Toh (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/6G8vN5EUtcDxOXOXadF6kp"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Jo Tum Mere Ho",
         "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
@@ -385,7 +357,7 @@
       "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Sahiba",
         "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
@@ -401,7 +373,7 @@
       "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Best of Romance: Atif Aslam",
         "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
@@ -429,7 +401,35 @@
       "url": "https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "Samjhawan",
+        "url": "https://open.spotify.com/album/6XgV61OBbr8gHlXdAQ89Sj"
+      },
+      "artists": [
+        {
+          "name": "Jawad Ahmad",
+          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
+        },
+        {
+          "name": "Shaarib Toshi",
+          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 269184,
+      "name": "Samjhawan",
+      "url": "https://open.spotify.com/track/0rk2X5TAhraBC5aCIXK2Rq"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Rathinamo (Female Version)",
         "url": "https://open.spotify.com/album/45Q1OXnKdOS2B7TkinNudO"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/5DM9FesTYD1piLenjk4WBL"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Strc5WebWKsRXuN4bl6qH"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/3dcSec3fFteTR6QlQ194aI"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Awarapan 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/5uvG5xETXhVkBSr09RBjyC"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "The Arijit Singh Collection",
         "url": "https://open.spotify.com/album/1QOwvBk3LNWAaEvARxPDNd"
@@ -533,47 +533,31 @@
       "url": "https://open.spotify.com/track/4MU4Kfkd9EnkArK2ocQyqK"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Casa Tupka Anthemo",
-        "url": "https://open.spotify.com/album/2in9Bgw7e4jKwH8aKZUkEH"
+        "name": "Inaam (Ft. Badshah)",
+        "url": "https://open.spotify.com/album/5TMWAUvmDF6XPK2P0TH0tp"
       },
       "artists": [
         {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
         },
         {
-          "name": "Priyanshi Srivastava",
-          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Casa Tupka Anthemo",
-      "url": "https://open.spotify.com/track/0cbmbkbCIg97a0CTt2c0Y0"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "Boom Shaka",
-        "url": "https://open.spotify.com/album/30WCmigi6kMczGUKjmtqxb"
-      },
-      "artists": [
-        {
-          "name": "KR$NA",
-          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         },
         {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+          "name": "Ansh Chahal",
+          "url": "https://open.spotify.com/artist/2vaV6Tzkkt5r8OUpyAYzpz"
         }
       ],
-      "duration_ms": 218769,
-      "name": "Boom Shaka",
-      "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
+      "duration_ms": 178124,
+      "name": "Inaam (Ft. Badshah)",
+      "url": "https://open.spotify.com/track/5haZbtveqI9v1svcc5IDx6"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Tu Thodi Der Aur Thehar Ja (From \"Half Girlfriend\")",
         "url": "https://open.spotify.com/album/5jg2uBAvjjDGlL9u2gI8RC"
@@ -597,7 +581,7 @@
       "url": "https://open.spotify.com/track/2Rz2F6KoLH6TtbX4TZ2qcP"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Bhediya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1pw0xzpe4O0OMohBwau50L"
@@ -621,51 +605,51 @@
       "url": "https://open.spotify.com/track/1hA697u7e1jX2XM8sWA6Uy"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Dooron Dooron",
-        "url": "https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6"
+        "name": "Lost;Found",
+        "url": "https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH"
       },
       "artists": [
         {
-          "name": "Paresh Pahuja",
-          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
         },
         {
-          "name": "Shiv Tandan",
-          "url": "https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP"
+          "name": "Rauhan Malik",
+          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
         },
         {
-          "name": "Meghdeep Bose",
-          "url": "https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda"
+          "name": "Amir Ameer",
+          "url": "https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj"
         }
       ],
-      "duration_ms": 215946,
-      "name": "Dooron Dooron",
-      "url": "https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd"
+      "duration_ms": 224842,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Barbaad (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
+        "name": "Best Of Palak Muchhal",
+        "url": "https://open.spotify.com/album/4dYNdtPc5EUSmKtyZ9x0l0"
       },
       "artists": [
         {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
         },
         {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         }
       ],
-      "duration_ms": 357127,
-      "name": "Barbaad (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
+      "duration_ms": 304899,
+      "name": "Chahun Main Ya Naa (From \"Aashiqui 2\")",
+      "url": "https://open.spotify.com/track/7Imk0IG6S5GA5iYWkjmMW5"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Saiyaara",
         "url": "https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf"
@@ -693,115 +677,91 @@
       "url": "https://open.spotify.com/track/5SSZtFWdrmFV4MxtlRA13N"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Best Of Palak Muchhal",
-        "url": "https://open.spotify.com/album/4dYNdtPc5EUSmKtyZ9x0l0"
+        "name": "Boom Shaka",
+        "url": "https://open.spotify.com/album/30WCmigi6kMczGUKjmtqxb"
       },
       "artists": [
         {
-          "name": "Palak Muchhal",
-          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
         }
       ],
-      "duration_ms": 304899,
-      "name": "Chahun Main Ya Naa (From \"Aashiqui 2\")",
-      "url": "https://open.spotify.com/track/7Imk0IG6S5GA5iYWkjmMW5"
+      "duration_ms": 218769,
+      "name": "Boom Shaka",
+      "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Lost;Found",
-        "url": "https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH"
+        "name": "Dooron Dooron",
+        "url": "https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6"
       },
       "artists": [
         {
-          "name": "Faheem Abdullah",
-          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+          "name": "Paresh Pahuja",
+          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
         },
         {
-          "name": "Rauhan Malik",
-          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
+          "name": "Shiv Tandan",
+          "url": "https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP"
         },
         {
-          "name": "Amir Ameer",
-          "url": "https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj"
+          "name": "Meghdeep Bose",
+          "url": "https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda"
         }
       ],
-      "duration_ms": 224842,
-      "name": "Ishq",
-      "url": "https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE"
+      "duration_ms": 215946,
+      "name": "Dooron Dooron",
+      "url": "https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Inaam (Ft. Badshah)",
-        "url": "https://open.spotify.com/album/5TMWAUvmDF6XPK2P0TH0tp"
+        "name": "Barbaad (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
       },
       "artists": [
         {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
         },
         {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Ansh Chahal",
-          "url": "https://open.spotify.com/artist/2vaV6Tzkkt5r8OUpyAYzpz"
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
         }
       ],
-      "duration_ms": 178124,
-      "name": "Inaam (Ft. Badshah)",
-      "url": "https://open.spotify.com/track/5haZbtveqI9v1svcc5IDx6"
+      "duration_ms": 357127,
+      "name": "Barbaad (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Love Wali Feeling: Valentine Special",
-        "url": "https://open.spotify.com/album/5496jkVOCMdOCej9uCmoYV"
+        "name": "Casa Tupka Anthemo",
+        "url": "https://open.spotify.com/album/2in9Bgw7e4jKwH8aKZUkEH"
       },
       "artists": [
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
         }
       ],
-      "duration_ms": 341054,
-      "name": "Agar Tum Saath Ho (From \"Tamasha\")",
-      "url": "https://open.spotify.com/track/6kYoY0PhBelP64UMnhsEZx"
+      "duration_ms": 183652,
+      "name": "Casa Tupka Anthemo",
+      "url": "https://open.spotify.com/track/0cbmbkbCIg97a0CTt2c0Y0"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "Love Dose Arijit Singh",
-        "url": "https://open.spotify.com/album/5aRPSAhsXgpXhxRF8q1aLI"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 280161,
-      "name": "Mast Magan (From \"2 States)",
-      "url": "https://open.spotify.com/track/5bVmOD7UKfP2iLFUGMtdnS"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Aarzu",
         "url": "https://open.spotify.com/album/0TU6nutUkqYYUqZHeB0JHs"
@@ -825,7 +785,7 @@
       "url": "https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Murder 2",
         "url": "https://open.spotify.com/album/1vUKBCizrhzhTZ8tgqL8db"
@@ -845,71 +805,27 @@
       "url": "https://open.spotify.com/track/6GQK4G5o60E8YA18DGpAzv"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Sheesha (Aakhya Mai Aakh Ghali Jo Bairan)",
-        "url": "https://open.spotify.com/album/42IeGIxYc7xgQ0gvuxcIh6"
+        "name": "Love Wali Feeling: Valentine Special",
+        "url": "https://open.spotify.com/album/5496jkVOCMdOCej9uCmoYV"
       },
       "artists": [
         {
-          "name": "Mitta Ror",
-          "url": "https://open.spotify.com/artist/3qWCWW0lyHpnj6E1cYwtKV"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         },
         {
-          "name": "Swara Verma",
-          "url": "https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         }
       ],
-      "duration_ms": 196253,
-      "name": "Sheesha - Aakhya Mai Aakh Ghali Jo Bairan",
-      "url": "https://open.spotify.com/track/412poAqbwD8OC0dYD1nBkV"
+      "duration_ms": 341054,
+      "name": "Agar Tum Saath Ho (From \"Tamasha\")",
+      "url": "https://open.spotify.com/track/6kYoY0PhBelP64UMnhsEZx"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "P-POP CULTURE",
-        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "For A Reason",
-      "url": "https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "Andaaz e Karam",
-        "url": "https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO"
-      },
-      "artists": [
-        {
-          "name": "Madhur Sharma",
-          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
-        },
-        {
-          "name": "Moin",
-          "url": "https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti"
-        },
-        {
-          "name": "ER",
-          "url": "https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll"
-        }
-      ],
-      "duration_ms": 437679,
-      "name": "Andaaz e Karam",
-      "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Ehsaas",
         "url": "https://open.spotify.com/album/12ShvJkszHFeRxDuZz2OYk"
@@ -937,27 +853,7 @@
       "url": "https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "Mumbai Monsoon Drive",
-        "url": "https://open.spotify.com/album/6m3MpCUAGntmNHqk0moUbn"
-      },
-      "artists": [
-        {
-          "name": "Shashaa Tirupati",
-          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
-        },
-        {
-          "name": "Ash King",
-          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
-        }
-      ],
-      "duration_ms": 276380,
-      "name": "Baarish",
-      "url": "https://open.spotify.com/track/5VCHlKKMHwlZ7aS3b3HKzW"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
@@ -972,32 +868,76 @@
           "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
         }
       ],
-      "duration_ms": 160796,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic"
+      "duration_ms": 180000,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Best Of Akhil Sachdeva",
-        "url": "https://open.spotify.com/album/1kjmB9cfxSjPJFfqwZ9eHN"
+        "name": "Andaaz e Karam",
+        "url": "https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO"
       },
       "artists": [
         {
-          "name": "Akhil Sachdeva",
-          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
         },
         {
-          "name": "Mansheel Gujral",
-          "url": "https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h"
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti"
+        },
+        {
+          "name": "ER",
+          "url": "https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll"
         }
       ],
-      "duration_ms": 268463,
-      "name": "Humsafar (From \"Badrinath Ki Dulhania\")",
-      "url": "https://open.spotify.com/track/7aE1lfskJLMHQnzCCP1zsV"
+      "duration_ms": 437679,
+      "name": "Andaaz e Karam",
+      "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "Sheesha (Aakhya Mai Aakh Ghali Jo Bairan)",
+        "url": "https://open.spotify.com/album/42IeGIxYc7xgQ0gvuxcIh6"
+      },
+      "artists": [
+        {
+          "name": "Mitta Ror",
+          "url": "https://open.spotify.com/artist/3qWCWW0lyHpnj6E1cYwtKV"
+        },
+        {
+          "name": "Swara Verma",
+          "url": "https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Sheesha - Aakhya Mai Aakh Ghali Jo Bairan",
+      "url": "https://open.spotify.com/track/412poAqbwD8OC0dYD1nBkV"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "Love Dose Arijit Singh",
+        "url": "https://open.spotify.com/album/5aRPSAhsXgpXhxRF8q1aLI"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 280161,
+      "name": "Mast Magan (From \"2 States)",
+      "url": "https://open.spotify.com/track/5bVmOD7UKfP2iLFUGMtdnS"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Pavazha Malli (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
@@ -1021,23 +961,67 @@
       "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Hanuman Ansh (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1DlVPtSdh0eXgXLZA4Newq"
+        "name": "P-POP CULTURE",
+        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
       "artists": [
         {
-          "name": "Sadhu Tiwari",
-          "url": "https://open.spotify.com/artist/3O1k8nK9y1xTzGpKnLyLEi"
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
         }
       ],
-      "duration_ms": 284843,
-      "name": "Parvati",
-      "url": "https://open.spotify.com/track/1Z3QzpDrOqINSkmJODoGnd"
+      "duration_ms": 160796,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "Mumbai Monsoon Drive",
+        "url": "https://open.spotify.com/album/6m3MpCUAGntmNHqk0moUbn"
+      },
+      "artists": [
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        },
+        {
+          "name": "Ash King",
+          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
+        }
+      ],
+      "duration_ms": 276380,
+      "name": "Baarish",
+      "url": "https://open.spotify.com/track/5VCHlKKMHwlZ7aS3b3HKzW"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "Best Of Akhil Sachdeva",
+        "url": "https://open.spotify.com/album/1kjmB9cfxSjPJFfqwZ9eHN"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sachdeva",
+          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Mansheel Gujral",
+          "url": "https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h"
+        }
+      ],
+      "duration_ms": 268463,
+      "name": "Humsafar (From \"Badrinath Ki Dulhania\")",
+      "url": "https://open.spotify.com/track/7aE1lfskJLMHQnzCCP1zsV"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Sitaare (From \"Ikkis\")",
         "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
@@ -1061,31 +1045,7 @@
       "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
-      "album": {
-        "name": "Shree Hanuman Chalisa (Hanuman Ashtak)",
-        "url": "https://open.spotify.com/album/1JfMAw56ShwV21lxRrwGbu"
-      },
-      "artists": [
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        },
-        {
-          "name": "Lalit Sen",
-          "url": "https://open.spotify.com/artist/5fDnhohLUsWhN7MUXse3QS"
-        },
-        {
-          "name": "Chander",
-          "url": "https://open.spotify.com/artist/2RY2JQU7jz6KEp04i7TGld"
-        }
-      ],
-      "duration_ms": 586075,
-      "name": "Shree Hanuman Chalisa",
-      "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
-    },
-    {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
         "name": "Jhol",
         "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
@@ -1105,28 +1065,72 @@
       "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
     },
     {
-      "added_at": "2026-10-08 14:33:54",
+      "added_at": "2026-10-09 14:39:33",
       "album": {
-        "name": "Udi Udi",
-        "url": "https://open.spotify.com/album/6ZRXnfTz48dWXDlDrumiYE"
+        "name": "Hanuman Ansh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4TvTRud5qbRsmGI3IDOPvf"
       },
       "artists": [
         {
-          "name": "Aneesh",
-          "url": "https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2"
-        },
-        {
-          "name": "Sarkar",
-          "url": "https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh"
-        },
-        {
-          "name": "Hruday",
-          "url": "https://open.spotify.com/artist/5LAR3fyRELNNXHIfnptaXF"
+          "name": "Sadhu Tiwari",
+          "url": "https://open.spotify.com/artist/3O1k8nK9y1xTzGpKnLyLEi"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Udi Udi",
-      "url": "https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat"
+      "duration_ms": 284843,
+      "name": "Parvati",
+      "url": "https://open.spotify.com/track/3GRpsROvrR081e7j0SBv2b"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "The Paradise (Telugu)",
+        "url": "https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Singer Prabha",
+          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
+        },
+        {
+          "name": "Jangi Reddy",
+          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Yeshanagula",
+      "url": "https://open.spotify.com/track/2wybTm9sMnaT1mI0gO0X2t"
+    },
+    {
+      "added_at": "2026-10-09 14:39:33",
+      "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "duration_ms": 224083,
+      "name": "Shararat",
+      "url": "https://open.spotify.com/track/0R7grQWU1dRxiOQGIqZm0Z"
     }
   ],
   "unique_name": "Top 50 - India",

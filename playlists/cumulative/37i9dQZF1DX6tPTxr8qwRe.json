@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/2VKVQXkNFZwKSPFcrMMp4y"
+      },
+      "artists": [
+        {
+          "name": "Ella Isaacson",
+          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145088,
+      "name": "American Psycho",
+      "url": "https://open.spotify.com/track/6dZlxIGoiiQYyyJwKIVLw2"
+    },
+    {
+      "album": {
         "name": "RAT TRAP 5: the beginning",
         "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
       },
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 182383,
       "name": "BLOODY MARY",
       "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
@@ -3736,6 +3754,24 @@
       "duration_ms": 239527,
       "name": "Closer to the moon",
       "url": "https://open.spotify.com/track/2PBpKrVVmbnrV91i56zT1I"
+    },
+    {
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/0enyZOmCbq9QRtSJER2jYE"
+      },
+      "artists": [
+        {
+          "name": "Prestyn Smith",
+          "url": "https://open.spotify.com/artist/1J6uxKkYke0sUt5vcmy7Xi"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201766,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/28jDHQ7NL0BmZK637LUQ50"
     },
     {
       "album": {
@@ -10605,6 +10641,48 @@
     },
     {
       "album": {
+        "name": "Know My Name",
+        "url": "https://open.spotify.com/album/5CfKcRzU4j7AyZ5CwyJ2Ut"
+      },
+      "artists": [
+        {
+          "name": "True Damage",
+          "url": "https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212236,
+      "name": "Know My Name",
+      "url": "https://open.spotify.com/track/3s2YCL5LHLzXWbw7ezQru3"
+    },
+    {
+      "album": {
         "name": "Known Better",
         "url": "https://open.spotify.com/album/0ZHK8D7PKdxw84sgkh3g4K"
       },
@@ -12924,7 +13002,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 180720,
       "name": "my way",
       "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
@@ -14722,7 +14800,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 118026,
       "name": "pretty little wreck",
       "url": "https://open.spotify.com/track/5E20wifIo9SPgYSFiboExO"
@@ -16014,7 +16092,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 184000,
       "name": "SEDUCTIVE",
       "url": "https://open.spotify.com/track/1pk6Qo3Vzv4kUF81BxU4S5"
@@ -21122,6 +21200,24 @@
       "duration_ms": 144374,
       "name": "You are what you fear in me.",
       "url": "https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR"
+    },
+    {
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/7I5xQyjHarN7HwVUR4pqZ1"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111759,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/6R7duyVyvy7S4gNQKitgBY"
     },
     {
       "album": {

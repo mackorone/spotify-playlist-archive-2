@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Raum27
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,926 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,967 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 3 | [wenigstens für jetzt](https://open.spotify.com/track/0pbdMK8Pix2NfRSkbTVZ72) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wenigstens für jetzt](https://open.spotify.com/album/5Pq4onkgUufE1MH3PAXQjH) | 2:26 |
 | 4 | [Nachgeschmack](https://open.spotify.com/track/0S15EgLEle4KhJvHce5Bls) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Nachgeschmack](https://open.spotify.com/album/3jAzCv9K4nuQpLSqSHfI1S) | 2:10 |
 | 5 | [Cry Baby Cry](https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Cry Baby Cry](https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j) | 3:08 |
-| 6 | [Track 3](https://open.spotify.com/track/0H5hye7VY1TE4XnvzwUf68) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fragmente](https://open.spotify.com/album/34saAcCkHEJ3A25JpDxgRm) | 0:00 |
+| 6 | [weltohnefarben](https://open.spotify.com/track/0H5hye7VY1TE4XnvzwUf68) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fragmente](https://open.spotify.com/album/34saAcCkHEJ3A25JpDxgRm) | 2:18 |
 | 7 | [ambivalent](https://open.spotify.com/track/7gDZP9lg3moTaYvBDvDJ8P) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [ambivalent](https://open.spotify.com/album/1Y86OCfhthlTxQN8q2Fj61) | 1:53 |
 | 8 | [wann hast du zeit?](https://open.spotify.com/track/0fvAYtVN0yyfnLhXzPWWnC) | [SYDOW](https://open.spotify.com/artist/5mbkFxQCZwbv7p5h2S5GVl) | [wann hast du zeit?](https://open.spotify.com/album/5aC7qsRrqXW8ELbtbVcEFb) | 2:28 |
 | 9 | [War das schon alles](https://open.spotify.com/track/0Vms499FZPiBQOtjUCOPCH) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [War das schon alles](https://open.spotify.com/album/5idGQyDVxHrJgPa9XQ3AuK) | 2:51 |
 | 10 | [Initialen](https://open.spotify.com/track/60wRBOGgG38SeB5GJXRWsN) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Initialen](https://open.spotify.com/album/11tfUWcFaNVaKXZNybnKBH) | 2:47 |
-| 11 | [Track 3](https://open.spotify.com/track/60FmAiDXA1pTM4w7lfvu8U) | [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [SHARAKTAH](https://open.spotify.com/album/71c0iGzjoQCNUvrraR0aS8) | 0:00 |
+| 11 | [EINMAL](https://open.spotify.com/track/60FmAiDXA1pTM4w7lfvu8U) | [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [SHARAKTAH](https://open.spotify.com/album/71c0iGzjoQCNUvrraR0aS8) | 3:31 |
 | 12 | [Hund ohne Namen](https://open.spotify.com/track/5S5LBQKkUL97BxiTqslL4Y) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Hund ohne Namen](https://open.spotify.com/album/2VBvvvfhxT9iDWqb7Hd0eV) | 3:02 |
 | 13 | [Flieder](https://open.spotify.com/track/15hucx8JkjGEJB45xwb7i0) | [Ketzberg](https://open.spotify.com/artist/0d3hTwGrBcFFVknmesFObY), [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Flieder](https://open.spotify.com/album/1l7gp5dPiIGq2ORcvRbMcv) | 2:14 |
 | 14 | [Leiter](https://open.spotify.com/track/20C1AI7F3ZiLoa0GKPjZkJ) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [Leiter](https://open.spotify.com/album/1yUdtBRgg03c5sAyvcavXf) | 2:51 |

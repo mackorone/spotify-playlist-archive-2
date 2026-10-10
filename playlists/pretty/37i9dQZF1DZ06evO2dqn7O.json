@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57795,
+  "num_followers": 57794,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABJ/1a5MjTPOPdZuD8goj4O",
+  "snapshot_id": "asbdAAAAAAA25prnww/o78HXJysE3B5n",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VHS 2.0",
         "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 233013,
       "name": "Kerosene Dreams",
       "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belong EP",
+        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 218885,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
         "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 189800,
       "name": "Don't Stay",
       "url": "https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belong EP",
-        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 218885,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Love Songs Drug Songs",
-      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoping",
         "url": "https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 193566,
       "name": "Hoping",
       "url": "https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Love Songs Drug Songs",
+      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
+        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 186620,
+      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
+      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Songs Drug Songs",
         "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
       },
@@ -763,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
-        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
+        "name": "Alcohol (with BRELAND)",
+        "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
       },
       "artists": [
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 186620,
-      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
-      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
+      "duration_ms": 218266,
+      "name": "Alcohol (with BRELAND)",
+      "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
     },
     {
       "added_at": null,
@@ -803,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alcohol (with BRELAND)",
-        "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Alcohol (with BRELAND)",
-      "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Astronomical",
         "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beautiful Liar",
-        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 224807,
-      "name": "Somebody Who Knows You",
-      "url": "https://open.spotify.com/track/2tcFQRyTiw9uuS7Red3NEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "torture (with Earl St. Clair)",
         "url": "https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 161669,
       "name": "torture (with Earl St. Clair)",
       "url": "https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 224807,
+      "name": "Somebody Who Knows You",
+      "url": "https://open.spotify.com/track/2tcFQRyTiw9uuS7Red3NEK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Foto: Motherflowers
 
-227 songs - 13 hr 15 min
+229 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [aiaiaiaiai](https://open.spotify.com/track/3ZIUbesQtBxDi4Dl46u2bl) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:20 | 2026-07-16 | 2026-09-11 |
 | [Allá Cayó](https://open.spotify.com/track/6F7uqfzvcdl5Y42mJBVc9V) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Plomo Revienta](https://open.spotify.com/album/5LIVxzLRdrJowxmLayI3uc) | 4:12 | 2021-12-17 |  |
 | [Alma Llanera / Venezuela \- Live from Nobel Peace Prize 2025](https://open.spotify.com/track/2pvoBWRbXGXQrGgQF6swxn) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Alma Llanera / Venezuela \(Live from Nobel Peace Prize 2025\)](https://open.spotify.com/album/1ZlHS1USF0HZtjBngdLwu1) | 3:58 | 2025-12-12 |  |
-| [AMAPOLA](https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:22 | 2026-05-29 |  |
+| [AMAPOLA](https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:22 | 2026-05-29 | 2026-10-10 |
 | [amoureux](https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [amoureux](https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh) | 2:13 | 2026-07-16 |  |
 | [Amparito](https://open.spotify.com/track/0ayNtRudPUG8mMSL6xzVcF) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Amparito](https://open.spotify.com/album/2v6ufk2RJEMUw5Vqe1f8In) | 3:08 | 2022-09-30 | 2022-11-13 |
 | [Amparito](https://open.spotify.com/track/0DTkjSxTl3Q2xYqok4vhH4) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Exitos De Maracaibo 15](https://open.spotify.com/album/5GbKnnwqvJRto8ck2PV3WY) | 3:11 | 2021-12-17 |  |
@@ -116,7 +116,7 @@
 | [la culpa \(track 11\)](https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [la culpa \(track 11\)](https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP) | 2:45 | 2025-06-13 |  |
 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2021-12-17 | 2025-02-14 |
 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 | 2026-07-22 | 2026-09-11 |
-| [LA ISLA](https://open.spotify.com/track/5TGRRjV16CXdNvitAsObIr) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [LA ISLA](https://open.spotify.com/album/6VBJdfE8LKDBwCpRoTBT71) | 2:15 | 2025-04-11 |  |
+| [LA ISLA](https://open.spotify.com/track/5TGRRjV16CXdNvitAsObIr) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [LA ISLA](https://open.spotify.com/album/6VBJdfE8LKDBwCpRoTBT71) | 2:15 | 2025-04-11 | 2026-10-10 |
 | [La Pulga y el Piojo](https://open.spotify.com/track/66NPq7686mbZFY5W2fOVWA) | [Serenata Guayanesa](https://open.spotify.com/artist/1G6AdxMaPnYJFHZhBsH2V9) | [Sentir de Nuestra Tierra](https://open.spotify.com/album/0HuEGb5JmFcKMSyTp5Uyd6) | 3:33 | 2021-12-17 | 2022-04-29 |
 | [La Vaca Mariposa \(El Becerrito\)](https://open.spotify.com/track/2W8sdlfr1p6TeWWZCIgcZl) | [Albita](https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [Albita](https://open.spotify.com/album/7Es0fexd4HhbkaVa6xeabv) | 3:59 | 2021-12-17 | 2024-11-02 |
 | [Las Caraqueñas](https://open.spotify.com/track/0B5pOLlr0OLEVdE0PBG8pF) | [Guaco](https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot) | [Guaco Es Guaco](https://open.spotify.com/album/4irR3HfqLTMhKNsr42R06c) | 3:53 | 2021-12-17 |  |
@@ -172,6 +172,7 @@
 | [por la pequeña Venecia](https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:02 | 2024-07-19 | 2025-01-25 |
 | [Prende la Cámara RMX](https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Prende la Cámara RMX](https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo) | 3:32 | 2022-04-22 | 2026-05-30 |
 | [Primera Cita](https://open.spotify.com/track/61TIqrpTJ6ZlEaQpneVboa) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Primera Cita](https://open.spotify.com/album/12zL0QO90BC88QJTYeso5d) | 2:44 | 2023-02-10 |  |
+| [Problematikoh](https://open.spotify.com/track/301LYshJiRuZuqcIqUl4LB) | [Dani Barranco](https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Problematikoh](https://open.spotify.com/album/0PzOWsRyj1XSE6ttFsMxQ7) | 2:53 | 2026-10-09 |  |
 | [Quiero \- TDH's Version](https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Quiero \(TDH's Version\)](https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL) | 2:37 | 2022-05-19 | 2022-10-01 |
 | [Quién Contra Mí \- Live From Los Ángeles](https://open.spotify.com/track/4B63O9ddDnEXNyAAkKBhTE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Live From Los Ángeles](https://open.spotify.com/album/7yAaOQSsXdjiRjvrtDCFc2) | 3:39 | 2026-10-02 |  |
 | [Qué Rico PR!](https://open.spotify.com/track/08C6m4alGcRaXEbm6IMsNs) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 2:00 | 2026-02-27 |  |
@@ -186,6 +187,7 @@
 | [Secreto](https://open.spotify.com/track/5bvBnLBzfBR3rLtArdiclG) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [8](https://open.spotify.com/album/2JnQQ4NCgc9mN2F0LJkQxl) | 3:20 | 2021-12-17 |  |
 | [Si Tú No Estás](https://open.spotify.com/track/35hemoZQuo9lEbFSS05I9h) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [En Letra de Otro](https://open.spotify.com/album/1E3FsITcOH4apvzd9PFVtS) | 3:40 | 2026-07-16 | 2026-09-11 |
 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 | 2021-12-17 |  |
+| [So no va](https://open.spotify.com/track/2eW1rnObrBLEpsPXFYiiOZ) | [Neomai](https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz) | [So no va](https://open.spotify.com/album/6H3EMFja2m53vWjuI0QegB) | 2:41 | 2026-10-09 |  |
 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 | 2021-12-17 | 2022-04-23 |
 | [Sé Como Duele](https://open.spotify.com/track/7a8ShNCakt6bJj1GhNEdYF) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2GfGn4V16KyYJFtkKL4OHY) | 3:13 | 2021-12-17 |  |
 | [Sé Cómo Duele](https://open.spotify.com/track/1723G9MmbFUTH8yai7AaWL) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2EeG6eYEpdAovdBFioA4C3) | 3:13 | 2023-03-03 | 2024-04-19 |

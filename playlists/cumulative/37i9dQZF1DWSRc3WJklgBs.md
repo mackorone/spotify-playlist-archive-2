@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,618 songs - 3 day 21 hr 15 min
+1,619 songs - 3 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1096,6 +1096,7 @@
 | [Promise You](https://open.spotify.com/track/0gw7l4VVk82MCXoI1i3e8t) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Promise You](https://open.spotify.com/album/2T4T379VnWqQPYHMdy39fp) | 2:45 | 2023-09-08 | 2024-10-12 |
 | [Proud](https://open.spotify.com/track/4YXKVaWzHaVyDq2pVS5cgR) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Joytime III](https://open.spotify.com/album/662MMKEWOxGXbPXQIcgBlW) | 3:11 | 2019-08-20 | 2020-10-30 |
 | [Pull Me Closer](https://open.spotify.com/track/1R58ZwAFGpy4iMxa0mPmIN) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Pull Me Closer](https://open.spotify.com/album/28WRx5G880dCffLfPUpTED) | 2:44 | 2021-03-14 | 2021-09-25 |
+| [PULL ME CLOSER](https://open.spotify.com/track/4TL9YbU53eOeTTvv2ZWDTf) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [TRUE LOVE IN A MADE UP WORLD](https://open.spotify.com/album/4VFU51NEgeT5It9ocFdsgJ) | 3:19 | 2026-10-09 |  |
 | [pullmecloser](https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [pullmecloser](https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2) | 2:30 | 2023-11-17 | 2025-05-31 |
 | [PURE LOVE](https://open.spotify.com/track/4zAvLrnmzYAc55qfUG7coN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [PURE LOVE](https://open.spotify.com/album/22AuMsgiDu1rAu7hPAylZE) | 3:24 | 2025-02-21 | 2025-09-13 |
 | [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 | 2025-05-02 | 2026-07-18 |

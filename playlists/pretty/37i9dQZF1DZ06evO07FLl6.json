@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 250262,
+  "num_followers": 250278,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAEvfD7ocYRcEW2PtmUFH+d",
+  "snapshot_id": "asbdAAAAAABwuzgQvjLugiYj9ifqLRYQ",
   "tracks": [
     {
       "added_at": null,
@@ -771,38 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doo-Bop",
-        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 172330,
-      "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Columbia Studio Recordings",
         "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
       },
@@ -823,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
       "artists": [
         {
@@ -832,9 +800,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 316666,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
+      "duration_ms": 172330,
+      "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
     },
     {
       "added_at": null,
@@ -848,9 +816,41 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 297440,
-      "name": "The Doo-Bop Song",
-      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
+      "duration_ms": 236200,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Steps To Heaven (2023 Remaster)",
+        "url": "https://open.spotify.com/album/625H2ZomGelxwZcrpFqLA7"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 385554,
+      "name": "Seven Steps to Heaven (2023 Remaster)",
+      "url": "https://open.spotify.com/track/2PiU9VQ0VrJnv6EciQTC09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Steps To Heaven (2023 Remaster)",
-        "url": "https://open.spotify.com/album/625H2ZomGelxwZcrpFqLA7"
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 385554,
-      "name": "Seven Steps to Heaven (2023 Remaster)",
-      "url": "https://open.spotify.com/track/2PiU9VQ0VrJnv6EciQTC09"
+      "duration_ms": 297440,
+      "name": "The Doo-Bop Song",
+      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
     },
     {
       "added_at": null,
@@ -912,12 +912,12 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         },
         {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         },
         {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         },
         {
           "name": "Kenny Clarke",
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
         }
       ],
-      "duration_ms": 674800,
-      "name": "Bags' Groove - Take 1 / RVG Remastered 2008",
-      "url": "https://open.spotify.com/track/5RQqoEIkp6XsYyULz7AlAS"
+      "duration_ms": 312480,
+      "name": "Oleo - RVG Remastered 2008",
+      "url": "https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i"
     },
     {
       "added_at": null,
@@ -992,12 +992,12 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         },
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         },
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
         },
         {
           "name": "Kenny Clarke",
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
         }
       ],
-      "duration_ms": 312480,
-      "name": "Oleo - RVG Remastered 2008",
-      "url": "https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i"
+      "duration_ms": 674800,
+      "name": "Bags' Groove - Take 1 / RVG Remastered 2008",
+      "url": "https://open.spotify.com/track/5RQqoEIkp6XsYyULz7AlAS"
     },
     {
       "added_at": null,

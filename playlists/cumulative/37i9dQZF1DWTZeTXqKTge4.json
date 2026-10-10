@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Tel Kel",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Franz Keloh",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -7636,10 +7636,28 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 205769,
       "name": "Distortions",
       "url": "https://open.spotify.com/track/0MwjWDAmrj4CKw70d5vM9t"
+    },
+    {
+      "album": {
+        "name": "HOCHELAG\u00c0PARIS, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1HoSsyaY2hWbXdq0OSCa"
+      },
+      "artists": [
+        {
+          "name": "Franz Keloh",
+          "url": "https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94285,
+      "name": "district 11",
+      "url": "https://open.spotify.com/track/7GY8iX73MIDjHR95l0Lx5q"
     },
     {
       "album": {
@@ -10474,7 +10492,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 152187,
       "name": "GENS DU PAYS",
       "url": "https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB"
@@ -17280,7 +17298,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 230418,
       "name": "MURDA",
       "url": "https://open.spotify.com/track/0eZGhUhnRq73yTWM5se93o"
@@ -19088,7 +19106,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 176102,
       "name": "Papercuts",
       "url": "https://open.spotify.com/track/73cQ9CN3Z0pFvvq6HFGo6k"
@@ -20122,6 +20140,28 @@
       "duration_ms": 177403,
       "name": "Plata",
       "url": "https://open.spotify.com/track/2S4GE0dXH8F0G4HZwviRSQ"
+    },
+    {
+      "album": {
+        "name": "Playboi 3arbi",
+        "url": "https://open.spotify.com/album/1TUo9lSxWIWZh7svWQnF7F"
+      },
+      "artists": [
+        {
+          "name": "Nawfal",
+          "url": "https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr"
+        },
+        {
+          "name": "DJ White Socks",
+          "url": "https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113777,
+      "name": "Playboi 3arbi",
+      "url": "https://open.spotify.com/track/4dbTXS5XPFokCcDum11PeB"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Yammi",
+  "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Zuchu",
   "name": "Singeli Sounds",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 137806,
       "name": "GUGO",
       "url": "https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5"
@@ -1191,6 +1191,32 @@
     },
     {
       "album": {
+        "name": "Kucheza Unajua",
+        "url": "https://open.spotify.com/album/0B7uZ8fM9oD2XUCphO5zJ2"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "MATUA TZ",
+          "url": "https://open.spotify.com/artist/7y8XLns0z2kz1Yp4eM0bmj"
+        },
+        {
+          "name": "Desmile TZ",
+          "url": "https://open.spotify.com/artist/2k3DJ6bYAOTGFCcmx2uM5K"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212204,
+      "name": "Kucheza Unajua",
+      "url": "https://open.spotify.com/track/5xs64jwzTCbN6693W2MoPv"
+    },
+    {
+      "album": {
         "name": "Kuchi Kuchi",
         "url": "https://open.spotify.com/album/43svCQme17PS5C9uI9kT0w"
       },
@@ -1630,7 +1656,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 154838,
       "name": "Maokoto",
       "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
@@ -1748,6 +1774,28 @@
       "duration_ms": 273866,
       "name": "Mchepuko",
       "url": "https://open.spotify.com/track/12zGv1X0dXwtz7gU2yL0j3"
+    },
+    {
+      "album": {
+        "name": "Mganga",
+        "url": "https://open.spotify.com/album/704pr6JliSJqMyGA3eFcmm"
+      },
+      "artists": [
+        {
+          "name": "Gigy Money",
+          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
+        },
+        {
+          "name": "Amthebubby",
+          "url": "https://open.spotify.com/artist/1nQBFlG6eew2akfZgTqzrb"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234604,
+      "name": "Mganga",
+      "url": "https://open.spotify.com/track/7DZWMNXmsuvReH3JfVVfqB"
     },
     {
       "album": {
@@ -3427,6 +3475,32 @@
     },
     {
       "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/0565R3VpCabpTMtwimfU6U"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Chino Kidd",
+          "url": "https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm"
+        },
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214073,
+      "name": "Uloda (feat. Chino Kidd & MABANTU)",
+      "url": "https://open.spotify.com/track/4ibwwSoXaXQVQcPLxMqfIH"
+    },
+    {
+      "album": {
         "name": "Hits of Aslay",
         "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
       },
@@ -3838,7 +3912,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 205771,
       "name": "Wezi",
       "url": "https://open.spotify.com/track/4XvNC3l6dPpns7aGn1SbJL"

@@ -36669,6 +36669,24 @@
     },
     {
       "album": {
+        "name": "Centre",
+        "url": "https://open.spotify.com/album/7egdFIZeaLfohzjGYNragy"
+      },
+      "artists": [
+        {
+          "name": "STACKS",
+          "url": "https://open.spotify.com/artist/0C9iFe882ieknG0D0D8dSy"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263035,
+      "name": "Centre",
+      "url": "https://open.spotify.com/track/0YleoLTvU6Yj3xsHnqp0RX"
+    },
+    {
+      "album": {
         "name": "Centrum",
         "url": "https://open.spotify.com/album/4E7YrshLJ7x35zDl1B9fKj"
       },
@@ -73208,6 +73226,10 @@
         {
           "name": "tech x copper",
           "url": "https://open.spotify.com/artist/7L78uiMth5ryK2RXpLeprs"
+        },
+        {
+          "name": "\u00c1sta Fanney",
+          "url": "https://open.spotify.com/artist/7amiFEqQUZoyKyq6GKN5Me"
         }
       ],
       "date_added": "2026-10-09",

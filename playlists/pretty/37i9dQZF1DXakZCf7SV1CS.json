@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 96131,
+  "num_followers": 96141,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "SugarCrash!",
-        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
-      },
-      "artists": [
-        {
-          "name": "ElyOtto",
-          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
-        }
-      ],
-      "duration_ms": 80080,
-      "name": "SugarCrash!",
-      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Vroom Vroom EP",
         "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 193270,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "SugarCrash!",
+        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
+      },
+      "artists": [
+        {
+          "name": "ElyOtto",
+          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
+        }
+      ],
+      "duration_ms": 80080,
+      "name": "SugarCrash!",
+      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 149390,
+      "name": "claws",
+      "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 114460,
       "name": "money machine",
       "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 149390,
-      "name": "claws",
-      "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 202531,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 126616,
       "name": "hand crushed by a mallet",
       "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "VYZEE",
-        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 202531,
-      "name": "VYZEE",
-      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "1:15",
-        "url": "https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU"
-      },
-      "artists": [
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 130206,
-      "name": "1:15",
-      "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 178823,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "1:15",
+        "url": "https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU"
+      },
+      "artists": [
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 130206,
+      "name": "1:15",
+      "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Whatuworried4?",
-        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Whatuworried4?",
-      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Flamboyant",
         "url": "https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 197757,
       "name": "Man To Man",
       "url": "https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Whatuworried4?",
+        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Whatuworried4?",
+      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
     },
     {
       "added_at": "2024-10-09 21:55:22",

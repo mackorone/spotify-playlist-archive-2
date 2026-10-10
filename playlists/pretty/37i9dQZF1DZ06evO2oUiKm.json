@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAACOkzD0eqGZbQBoUVlg8onx",
+  "snapshot_id": "asbdAAAAAABs7WnVO1xlHeKdJw2viWR8",
   "tracks": [
     {
       "added_at": null,
@@ -103,8 +103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "With God On Our Side",
-        "url": "https://open.spotify.com/album/2bmIEl5LZ6fvqN7VIeK7B1"
+        "name": "Synonym",
+        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
       },
       "artists": [
         {
@@ -118,7 +118,7 @@
       ],
       "duration_ms": 286306,
       "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/6odkxZJ4TeAGV0D39z7PMr"
+      "url": "https://open.spotify.com/track/1dg1PxkqjvP16OU6VCr1sd"
     },
     {
       "added_at": null,
@@ -215,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harriet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5uIArfxMSlySubVayCGvaX"
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
       "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 72200,
-      "name": "Goodbye Song",
-      "url": "https://open.spotify.com/track/01CAnizAABR9udpxzOYKdG"
+      "duration_ms": 217718,
+      "name": "I Might Be In Love With You",
+      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
     },
     {
       "added_at": null,
@@ -251,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "Harriet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5uIArfxMSlySubVayCGvaX"
       },
       "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 217718,
-      "name": "I Might Be In Love With You",
-      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
+      "duration_ms": 72200,
+      "name": "Goodbye Song",
+      "url": "https://open.spotify.com/track/01CAnizAABR9udpxzOYKdG"
     },
     {
       "added_at": null,
@@ -355,26 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Only Knows (feat. yMusic)",
-        "url": "https://open.spotify.com/album/4xZ8OVKJlywZLIe2O8zeJU"
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "yMusic",
-          "url": "https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY"
         }
       ],
-      "duration_ms": 201278,
-      "name": "God Only Knows (feat. yMusic)",
-      "url": "https://open.spotify.com/track/4mhcNoThsVSE1Mpnb7Wnj6"
+      "duration_ms": 160289,
+      "name": "Intro (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
     },
     {
       "added_at": null,
@@ -395,22 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+        "name": "God Only Knows (feat. yMusic)",
+        "url": "https://open.spotify.com/album/4xZ8OVKJlywZLIe2O8zeJU"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "yMusic",
+          "url": "https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY"
         }
       ],
-      "duration_ms": 160289,
-      "name": "Intro (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
+      "duration_ms": 201278,
+      "name": "God Only Knows (feat. yMusic)",
+      "url": "https://open.spotify.com/track/4mhcNoThsVSE1Mpnb7Wnj6"
     },
     {
       "added_at": null,
@@ -631,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Blooms",
-        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
       "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 190026,
-      "name": "If I Only Had A Brain",
-      "url": "https://open.spotify.com/track/0ObnAd04cMcuwMfD1RSFNn"
+      "duration_ms": 209893,
+      "name": "The Good",
+      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
     },
     {
       "added_at": null,
@@ -683,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "Night Blooms",
+        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
       },
       "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 209893,
-      "name": "The Good",
-      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
+      "duration_ms": 190026,
+      "name": "If I Only Had A Brain",
+      "url": "https://open.spotify.com/track/0ObnAd04cMcuwMfD1RSFNn"
     },
     {
       "added_at": null,
@@ -759,38 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Hold On I'm Coming",
-      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
       },
@@ -803,22 +771,6 @@
       "duration_ms": 183506,
       "name": "Fly Before You Fall",
       "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 41066,
-      "name": "Why - Interlude",
-      "url": "https://open.spotify.com/track/6ZKb3UNC7IvVCtYzT3vS3q"
     },
     {
       "added_at": null,
@@ -839,6 +791,38 @@
       "duration_ms": 237387,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "Hold On I'm Coming",
+      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 41066,
+      "name": "Why - Interlude",
+      "url": "https://open.spotify.com/track/6ZKb3UNC7IvVCtYzT3vS3q"
     },
     {
       "added_at": null,
@@ -872,25 +856,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 232896,
-      "name": "Glowing Up",
-      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singing You Home - Children's Songs for Family Reunification",
-        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 157966,
-      "name": "Si Pudiera Leer Tus Sue\u00f1os",
-      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
+      "duration_ms": 212755,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
     },
     {
       "added_at": null,
@@ -915,6 +883,22 @@
       "duration_ms": 232800,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singing You Home - Children's Songs for Family Reunification",
+        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 157966,
+      "name": "Si Pudiera Leer Tus Sue\u00f1os",
+      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
     },
     {
       "added_at": null,
@@ -944,9 +928,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 220972,
-      "name": "A Window",
-      "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
+      "duration_ms": 232896,
+      "name": "Glowing Up",
+      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
     },
     {
       "added_at": null,
@@ -967,6 +951,22 @@
       "duration_ms": 224643,
       "name": "Ocean In The Desert",
       "url": "https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

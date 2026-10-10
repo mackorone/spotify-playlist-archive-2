@@ -494,7 +494,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 232468,
       "name": "Circles",
       "url": "https://open.spotify.com/track/6DoHoYQW6EU025KNaYv1pt"
@@ -4230,7 +4230,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/2pUpNOgJBIBCcjyQZQ00qU"
@@ -4512,7 +4512,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
@@ -5310,7 +5310,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 311802,
       "name": "On The Brain",
       "url": "https://open.spotify.com/track/6DqMQF6pHVHzpNOV2GXwjU"
@@ -6310,6 +6310,24 @@
       "duration_ms": 202078,
       "name": "Secondhand Smoke",
       "url": "https://open.spotify.com/track/30l66ARYnwynjNlByPPbPj"
+    },
+    {
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "album": {
@@ -7571,6 +7589,24 @@
     },
     {
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
+    },
+    {
+      "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
@@ -8192,6 +8228,24 @@
       "duration_ms": 223453,
       "name": "Wisemen - 2024 Remaster",
       "url": "https://open.spotify.com/track/52cUTqvGWE5K2pXK5h4Ta3"
+    },
+    {
+      "album": {
+        "name": "Wish Upon You",
+        "url": "https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277248,
+      "name": "Wish Upon You",
+      "url": "https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z"
     },
     {
       "album": {

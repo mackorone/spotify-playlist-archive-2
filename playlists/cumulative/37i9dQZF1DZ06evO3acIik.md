@@ -4,7 +4,7 @@
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-174 songs - 8 hr 44 min
+175 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [God Don't Make Mistakes \(feat\. Dante Bowe, Montell Fish & Mav City Gospel Choir\)](https://open.spotify.com/track/7Gm5qTbZOdsCDdRohqoFVB) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 3:50 | 2022-09-14 | 2023-03-01 |
 | [God Given Dreams](https://open.spotify.com/track/15gmFPuXOMZV7l1Afj0JMM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 2:52 | 2022-09-14 | 2026-05-15 |
 | [God or The Devil?](https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 1:20 | 2024-09-30 | 2026-05-14 |
-| [God or The Devil?](https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 1:20 | 2026-05-14 |  |
+| [God or The Devil?](https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 1:20 | 2026-05-14 | 2026-10-10 |
 | [Green Leaves \(feat\. Kyng\)](https://open.spotify.com/track/51hUaBDS30iiC4iQJlpBnN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Kyng](https://open.spotify.com/artist/1agj720VcWDnnT6y7SMbLI) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 5:04 | 2022-09-14 | 2022-10-13 |
 | [Heaven](https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Gingi Bradley](https://open.spotify.com/artist/0DIIlR40byWxfrXpPfV35Y) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 4:08 | 2023-02-28 | 2026-06-09 |
 | [Heaven](https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 4:36 | 2024-10-03 | 2025-07-11 |
@@ -155,6 +155,7 @@
 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 | 2024-07-25 | 2024-11-03 |
 | [Show the Signs.](https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Show the Signs.](https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl) | 3:01 | 2022-09-14 | 2025-11-04 |
 | [Slipping Away](https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 1:43 | 2023-03-04 | 2024-09-29 |
+| [Soon](https://open.spotify.com/track/4bYtMO7J56StUfIEEAQSPH) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [NEST](https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If) | 3:16 | 2026-10-10 |  |
 | [space helmets](https://open.spotify.com/track/5EWBmXdxdWljoh8SAdxLy4) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Summer/Spring Lofi Compilation](https://open.spotify.com/album/2zT0rgijDSLbiuQkD0iFvT) | 3:43 | 2024-03-27 | 2024-07-11 |
 | [Stay \(With Me\).](https://open.spotify.com/track/02ophTv5wMWDp0xgil59Dt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/08Og51JvHzxAjafLDkrAH9) | 5:03 | 2026-05-17 |  |
 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 | 2022-09-14 | 2026-05-17 |

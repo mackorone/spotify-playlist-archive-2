@@ -10207,6 +10207,24 @@
     },
     {
       "album": {
+        "name": "Hist\u00e9rica",
+        "url": "https://open.spotify.com/album/3Wt9MCLYwSiQcJBSlyM9Yc"
+      },
+      "artists": [
+        {
+          "name": "Mimi Leclercq",
+          "url": "https://open.spotify.com/artist/5jROvsAhZsmmETG67HIyYC"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Hist\u00e9rica",
+      "url": "https://open.spotify.com/track/7zVljuJTZHvl0RHi0LEDYG"
+    },
+    {
+      "album": {
         "name": "Home Alone",
         "url": "https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4"
       },

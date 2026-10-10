@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. El Malilla en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Car\u00edn Le\u00f3n y Ryan Castro en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -1862,6 +1862,28 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
+    {
+      "album": {
+        "name": "MudaH",
+        "url": "https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175909,
+      "name": "Atte El Insuperable",
+      "url": "https://open.spotify.com/track/0tgYhNMHWBIkJgW9xg8Vzi"
     },
     {
       "album": {
@@ -10488,7 +10510,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 184918,
       "name": "MADRID",
       "url": "https://open.spotify.com/track/6kUvZUtJDZLZNzjhCqJ7Wk"
@@ -10732,6 +10754,32 @@
       "duration_ms": 153080,
       "name": "MALEFIKA",
       "url": "https://open.spotify.com/track/38KIzV28jPFwf8j84Hoz2x"
+    },
+    {
+      "album": {
+        "name": "MALIB\u00da",
+        "url": "https://open.spotify.com/album/6317v4hnpchTv8Xe2v5Wzp"
+      },
+      "artists": [
+        {
+          "name": "DeMasters",
+          "url": "https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179301,
+      "name": "MALIB\u00da",
+      "url": "https://open.spotify.com/track/57IIRATtcJhbRvomaszbQS"
     },
     {
       "album": {
@@ -11234,6 +11282,24 @@
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+    },
+    {
+      "album": {
+        "name": "Me Mata",
+        "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186611,
+      "name": "Me Mata",
+      "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
     },
     {
       "album": {
@@ -13490,7 +13556,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 148235,
       "name": "Ola <3",
       "url": "https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF"
@@ -18336,7 +18402,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 260405,
       "name": "Tu Veneno",
       "url": "https://open.spotify.com/track/2xR6JxPvPcITjA0gM15evm"

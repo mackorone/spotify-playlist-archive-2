@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa.  En portada: Sack Baby",
+  "description": "Bienvenidx a la trampa mexa.  En portada: Zimple y Santa Fe Klan",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -1730,6 +1730,28 @@
       "duration_ms": 114782,
       "name": "Cajeta",
       "url": "https://open.spotify.com/track/706LuA8OPYsRFwTYatLEjS"
+    },
+    {
+      "album": {
+        "name": "Calladito",
+        "url": "https://open.spotify.com/album/2LgRBu7wPA80abn8PEx6sZ"
+      },
+      "artists": [
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212101,
+      "name": "Calladito",
+      "url": "https://open.spotify.com/track/57S7rIH6h8R5xWYlLU1pJF"
     },
     {
       "album": {
@@ -4926,7 +4948,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 196841,
       "name": "Hon0lulu",
       "url": "https://open.spotify.com/track/2VvoZPAp4ide93gZnLDpO0"
@@ -8218,7 +8240,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 141906,
       "name": "ONE OF ONE",
       "url": "https://open.spotify.com/track/34HDjmul0hY7wwAYXqBc2f"
@@ -9261,6 +9283,40 @@
     },
     {
       "album": {
+        "name": "Que te valga vrg (feat. Tzunami)",
+        "url": "https://open.spotify.com/album/3TYg7lYfH2Nkn3yGtaoRMv"
+      },
+      "artists": [
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        },
+        {
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162919,
+      "name": "Que te valga vrg (feat. Tzunami)",
+      "url": "https://open.spotify.com/track/128qSWDez56hTJZPaC7PQ6"
+    },
+    {
+      "album": {
         "name": "Quehacer",
         "url": "https://open.spotify.com/album/2iEKSHSVMbOBmjkN6osGBc"
       },
@@ -9294,7 +9350,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 234285,
       "name": "Quien Diria",
       "url": "https://open.spotify.com/track/7in3iob45LtO2p6njGZiUT"
@@ -9320,6 +9376,28 @@
       "duration_ms": 174831,
       "name": "QUIENES SOMOS",
       "url": "https://open.spotify.com/track/0n5t9tUXaZGWk5mdXdf7sd"
+    },
+    {
+      "album": {
+        "name": "QUINIENTAS ATRAS",
+        "url": "https://open.spotify.com/album/1OJxX3IEZBSIpPD83dUHhz"
+      },
+      "artists": [
+        {
+          "name": "ElGranAlexis",
+          "url": "https://open.spotify.com/artist/77dBqhGBLZodn35OJzEvGS"
+        },
+        {
+          "name": "Gatu",
+          "url": "https://open.spotify.com/artist/233E75Xe7GVztp8eBTmyCq"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139870,
+      "name": "QUINIENTAS ATRAS",
+      "url": "https://open.spotify.com/track/3esXe9ijPAWpXPtLIdUw0o"
     },
     {
       "album": {
@@ -10184,7 +10262,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 98158,
       "name": "Skiny Btches",
       "url": "https://open.spotify.com/track/0YosqQNmyH5fbVGFNbYqho"
@@ -10582,6 +10660,28 @@
       "duration_ms": 147040,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/2o4U7UIKS7DyFJ03REPyty"
+    },
+    {
+      "album": {
+        "name": "Tarantin",
+        "url": "https://open.spotify.com/album/6C2Xvkqdah5EUZHWt0tIIv"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "DOOBLE 9",
+          "url": "https://open.spotify.com/artist/0UJsFWmqm2PMz805KkoAFo"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125806,
+      "name": "Tarantin",
+      "url": "https://open.spotify.com/track/6s2FW1eIHmpo2MhTAani2v"
     },
     {
       "album": {

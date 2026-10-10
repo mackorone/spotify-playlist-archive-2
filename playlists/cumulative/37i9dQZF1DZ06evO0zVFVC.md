@@ -4,7 +4,7 @@
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-82 songs - 5 hr 20 min
+84 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Heaven's Gates](https://open.spotify.com/track/5O4pUnw88y5Md7bqS5Zi0K) | [50 Lions](https://open.spotify.com/artist/2TY2TDzMptJVfUAoV2n0hb), [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Heaven's Gates](https://open.spotify.com/album/5QBE6vKR7vLBkJAF9saCNG) | 2:18 | 2025-09-03 | 2025-10-29 |
 | [Home Is For The Heartless](https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:08 | 2022-06-01 |  |
 | [Horizons](https://open.spotify.com/track/2i5lnmaZ9tB8pom8Br4KS5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 5:39 | 2022-05-30 |  |
+| [I Hope You Rot](https://open.spotify.com/track/6t1s0Vj1gLkYyzkDQuAQEU) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:50 | 2026-10-10 |  |
 | [Idols and Anchors](https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:48 | 2022-05-30 |  |
 | [If a God Can Bleed](https://open.spotify.com/track/2b7yigvDL1fkswGnQv4hqc) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 2:40 | 2022-09-11 | 2022-10-05 |
 | [Imperial Heretic](https://open.spotify.com/track/52Ee1NSe8oaum15FN1CyH7) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:50 | 2022-09-10 | 2023-05-12 |
@@ -65,7 +66,8 @@
 | [Pandora](https://open.spotify.com/track/4u3LudcqUJmDjx2eRi1YES) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing with a Smile](https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml) | 3:58 | 2024-10-01 | 2026-08-31 |
 | [Pandora](https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:58 | 2022-05-30 |  |
 | [Pressures](https://open.spotify.com/track/3L35mWptpfTmFdYwAO0MiT) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:22 | 2022-05-30 | 2022-06-01 |
-| [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 | 2022-05-30 |  |
+| [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 | 2022-05-30 | 2026-10-10 |
+| [Prey \- Live at the Sydney Opera House](https://open.spotify.com/track/2ppM3phxrwMZqyIIu0nZCA) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Prey \(Live at the Sydney Opera House\)](https://open.spotify.com/album/1ofXyNxZgZpOqmRp1dvYX9) | 6:12 | 2026-10-10 |  |
 | [Romance Is Dead](https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 5:17 | 2022-05-30 |  |
 | [Sacred](https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/7mmj9Kh2WmbKIs7eEQlGwM) | 3:49 | 2025-05-10 |  |
 | [Schattenboxen](https://open.spotify.com/track/0fP3R18uL3KgJabqm5Crja) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Viva The Underdogs](https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb) | 3:50 | 2022-05-30 |  |

@@ -4,7 +4,7 @@
 
 > Samurai Jay e Jovanotti in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,856 songs - 8 day 7 hr 12 min
+3,857 songs - 8 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2419,6 +2419,7 @@
 | [Oh, Maria!](https://open.spotify.com/track/76AUGMgXgac6mPBF2gvjlb) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Oh, Maria!](https://open.spotify.com/album/0FVo6YC9EPxZLuhGyumnIg) | 3:11 | 2026-04-23 | 2026-05-15 |
 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 | 2024-12-19 | 2025-01-24 |
 | [Ok](https://open.spotify.com/track/72vi3juBT0iaK0fwePm3ky) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Ok](https://open.spotify.com/album/1l3exYRBannWFRLP2D3CM9) | 2:31 | 2025-08-21 | 2025-09-19 |
+| [ok buonanotte](https://open.spotify.com/track/3D3tkwn0dPmNUg0R0o8qG7) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [ok buonanotte](https://open.spotify.com/album/5XcS6TmwOrLNWXGwIhJV51) | 2:37 | 2026-10-09 |  |
 | [OK Scusa Errore Mio](https://open.spotify.com/track/3ijkWq1YsQ3Amor35yHS47) | [edoEdo](https://open.spotify.com/artist/7y8r29XzidWpzDmSuhHZVP) | [OK Scusa Errore Mio](https://open.spotify.com/album/1MXXmolM5zHQu2VOzWSXup) | 2:39 | 2026-04-09 | 2026-05-08 |
 | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR) | 3:33 | 2026-06-11 | 2026-07-03 |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-05-30 |

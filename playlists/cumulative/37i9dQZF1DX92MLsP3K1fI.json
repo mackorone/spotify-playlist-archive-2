@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Yeri Mua en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Enrique Iglesias y Santos Bravos en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 212852,
       "name": "Blanco Y Negro",
       "url": "https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 191943,
       "name": "Dame un besito",
       "url": "https://open.spotify.com/track/0aAuTTkAXh4n7Nux7GBetm"
@@ -5047,6 +5047,28 @@
     },
     {
       "album": {
+        "name": "FRUTA Y T\u00c9 (ma\u00f1ana es hoy)",
+        "url": "https://open.spotify.com/album/2V9KxvtYH3viTwneYcEV7U"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Alanys Lagos",
+          "url": "https://open.spotify.com/artist/7zYKWRlWkeaKjRLAeEsJzS"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225856,
+      "name": "FRUTA Y T\u00c9 (ma\u00f1ana es hoy)",
+      "url": "https://open.spotify.com/track/7huDzyOO3t3r92s94ybr5B"
+    },
+    {
+      "album": {
         "name": "Ojos Diamante",
         "url": "https://open.spotify.com/album/2Xt25pQkjDzqiPMRMs4uol"
       },
@@ -5803,6 +5825,54 @@
     },
     {
       "album": {
+        "name": "Intensamente",
+        "url": "https://open.spotify.com/album/1AJwSW7Y6OpY1reCFqI6Dt"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/6yB30YN6Hjo4auuVUzXhVR"
+        },
+        {
+          "name": "Armando Gomez",
+          "url": "https://open.spotify.com/artist/2dplSKaTG3Rdk6M1rrVCuy"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Intensamente",
+      "url": "https://open.spotify.com/track/5OaP93ux2WhLGR2ElP6ga8"
+    },
+    {
+      "album": {
+        "name": "RRRomeo",
+        "url": "https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315609,
+      "name": "Iron\u00eda",
+      "url": "https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR"
+    },
+    {
+      "album": {
         "name": "Jeans",
         "url": "https://open.spotify.com/album/0GT6nYV0wS2F6K7FKkKKFY"
       },
@@ -6404,7 +6474,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 282017,
       "name": "La Vida Que Debo",
       "url": "https://open.spotify.com/track/7hgVraGyJVFKLhlVxyKf41"
@@ -7190,7 +7260,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 183760,
       "name": "MALVAS",
       "url": "https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H"
@@ -9069,6 +9139,28 @@
     },
     {
       "album": {
+        "name": "Ooh Laka Laka La",
+        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134797,
+      "name": "Ooh Laka Laka La",
+      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
+    },
+    {
+      "album": {
         "name": "Oportunidad",
         "url": "https://open.spotify.com/album/7Gyf6o9zasu7KqfQPmy9pf"
       },
@@ -10536,7 +10628,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 163960,
       "name": "Respira y ya",
       "url": "https://open.spotify.com/track/27BWtWPohMX3xWtcq2tKok"
@@ -11732,6 +11824,24 @@
       "duration_ms": 191098,
       "name": "S\u00e1lvame (7:07 PM)",
       "url": "https://open.spotify.com/track/79LbKClQ4ulIo8giVkXjo3"
+    },
+    {
+      "album": {
+        "name": "S\u00e1lvame Otra Vez",
+        "url": "https://open.spotify.com/album/16JvWibqyTqxaz7eeGZXjT"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "S\u00e1lvame Otra Vez",
+      "url": "https://open.spotify.com/track/6WUxiNHMldVSzFhbTZRruA"
     },
     {
       "album": {

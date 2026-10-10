@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,865 songs - 10 day 23 hr 52 min
+4,867 songs - 10 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1146,6 +1146,7 @@
 | [Divide](https://open.spotify.com/track/5dsHDEtCMqELLu9cC0KCic) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Blindspot](https://open.spotify.com/album/0mwDzmvlLD8w6XiMURxOiv) | 3:33 | 2025-11-26 |  |
 | [DIY Till I Die](https://open.spotify.com/track/4CD0MYDmHQpyIbkAebAb85) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 1:59 | 2025-09-19 |  |
 | [Djinn](https://open.spotify.com/track/4dKaGPw2NAcpLTETHaU4NG) | [Atopics](https://open.spotify.com/artist/4zrFaxH2qgffuRDxgna5wI) | [Djinn](https://open.spotify.com/album/0JPLWWXfW9y82D4RV75IB8) | 3:00 | 2025-06-11 |  |
+| [DOE DAN](https://open.spotify.com/track/0k6moj6JXKY0r7g7jDo2oF) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [DOE DAN](https://open.spotify.com/album/62ngumopXDkWWiA1Nrk96e) | 2:30 | 2026-10-09 |  |
 | [DOG DAG BAU BAU](https://open.spotify.com/track/5SU8PgiAudB0sQrDKkSTLY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:06 | 2026-05-21 |  |
 | [dogon](https://open.spotify.com/track/2Vc9ilT0HXP208Duu45b8W) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 3:18 | 2026-02-01 |  |
 | [dogon \- 2023 Remastered Version](https://open.spotify.com/track/6Jrh2GJVrLIDmT5AMdRHP1) | [yogyety](https://open.spotify.com/artist/7FBPTQ69WVgYB0T9PbhO4z) | [dogon \(2023 Remastered Version\)](https://open.spotify.com/album/5ndgx0Ouoq9RAbhYrvJnDZ) | 3:18 | 2026-02-01 |  |
@@ -1800,6 +1801,7 @@
 | [Good Times](https://open.spotify.com/track/38NmPzihe5QnaVsOrt3fWl) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT), [Nines Wlrd](https://open.spotify.com/artist/2wmNRhUyMEvi3oPAHprCrc) | [Good Times](https://open.spotify.com/album/5FeKA8oR8Kh3N9PNvwQgzC) | 3:08 | 2025-03-03 |  |
 | [Good Times Together](https://open.spotify.com/track/3mtOVX3RkG4DVJO2d8IRew) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Good Listening Music](https://open.spotify.com/album/5mpEQ45XDec4XcJyjDf5s8) | 2:48 | 2025-05-27 |  |
 | [Goodbye](https://open.spotify.com/track/4ciqI4T6L5fyi2CmmT2JnS) | [Alice Elzira](https://open.spotify.com/artist/2UMZWBBmQ6wxLSDVXCM6HK) | [Goodbye](https://open.spotify.com/album/1zkbYSANz5os3fqAUnRvth) | 3:16 | 2025-05-16 |  |
+| [Goodbye, Goodnight](https://open.spotify.com/track/4Zd2ElhotZnoMwJg5NA6jP) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Goodbye, Goodnight](https://open.spotify.com/album/5MRudKcvra04AYy0kOi30u) | 3:51 | 2026-10-09 |  |
 | [Goodnight Song](https://open.spotify.com/track/4rtDCyA3TtkAZNEQ8RmT1X) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Goodnight Song](https://open.spotify.com/album/4wd1FGFihVt0lXoJy3104f) | 3:21 | 2025-12-10 |  |
 | [Goood on](https://open.spotify.com/track/6ix4dhO1Q9v1uWdydbar4v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Lo\-fi ambient perfect for a good soundrack by AIVA](https://open.spotify.com/album/3HzbeYAbDysrAsEaZNbPNl) | 4:49 | 2025-05-27 |  |
 | [Got Your Gun \- Demo](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun \(Demo\)](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 | 2026-08-18 |  |

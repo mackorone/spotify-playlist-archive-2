@@ -16005,6 +16005,24 @@
     },
     {
       "album": {
+        "name": "QUE TALENTO",
+        "url": "https://open.spotify.com/album/41ecYQc92iH9qjtiFfv8tk"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179428,
+      "name": "QUE TALENTO",
+      "url": "https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc"
+    },
+    {
+      "album": {
         "name": "que te vaya bien",
         "url": "https://open.spotify.com/album/1vlompiT1FQLKGUnUTKHme"
       },

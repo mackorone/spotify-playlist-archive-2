@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-11",
-  "description": "Judeline, Lucho RK, Anuel, Dani Mart\u00edn, Morat y m\u00e1s novedades de la semana.",
+  "description": "Judeline, Lucho RK, Dani Mart\u00edn, Morat y m\u00e1s novedades de la semana.",
   "name": "Novedades Viernes Espa\u00f1a",
   "tracks": [
     {
@@ -56309,6 +56309,24 @@
     },
     {
       "album": {
+        "name": "i think he's got a girl",
+        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214559,
+      "name": "i think he's got a girl",
+      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
+    },
+    {
+      "album": {
         "name": "Fidget Spinner EP",
         "url": "https://open.spotify.com/album/5PiNrjLl5nIgkgsjMwWdm1"
       },
@@ -65360,7 +65378,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 174315,
       "name": "La Vibra",
       "url": "https://open.spotify.com/track/5kgcbTlykPL6k9M1KZxuDs"
@@ -92884,6 +92902,10 @@
         {
           "name": "1joakin",
           "url": "https://open.spotify.com/artist/3wvT4uRjFb0W2NCCbv8bMK"
+        },
+        {
+          "name": "Saint Cairo",
+          "url": "https://open.spotify.com/artist/7p9VgsKSP07XUJdo8Oj7pz"
         }
       ],
       "date_added": "2026-10-08",
@@ -136728,6 +136750,24 @@
       "duration_ms": 205756,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/37vTJSP632xmRC7zPU0mRl"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290372,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
     },
     {
       "album": {

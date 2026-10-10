@@ -2,7 +2,7 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Emo Emo Idi
+> Bringing out the best of latest love tracks<br/>Cover : Itlu Arjuna
 
 480 songs - 1 day 6 hr 53 min
 

@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzMtuZH5xJY.md) - [plain]
 
 > Low\-stakes vibes, high\-stakes crimes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAOCIE1lDOTAEfZPFY6AvhD/eOfzr`
+Snapshot ID: `AAAAAMu8RKJL5MrIesALbRcc3V95HC6o`

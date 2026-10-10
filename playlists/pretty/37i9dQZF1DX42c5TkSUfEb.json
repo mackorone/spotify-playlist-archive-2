@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 1070700,
+  "num_followers": 1070565,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-10-02 13:13:56",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 126824,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l"
-    },
-    {
-      "added_at": "2026-10-02 13:13:56",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 305875,
       "name": "Over country",
       "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
+    },
+    {
+      "added_at": "2026-10-02 13:13:56",
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 126824,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l"
     },
     {
       "added_at": "2026-10-02 13:13:56",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-10-02 13:13:56",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Green & Gold",
+      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+    },
+    {
+      "added_at": "2026-10-02 13:13:56",
+      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 236533,
       "name": "Anyone Who Loves Me",
       "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
-    },
-    {
-      "added_at": "2026-10-02 13:13:56",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Green & Gold",
-      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
     },
     {
       "added_at": "2026-10-02 13:13:56",
@@ -675,18 +675,18 @@
     {
       "added_at": "2026-10-02 13:13:56",
       "album": {
-        "name": "The Pirate's Gospel (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6"
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj"
       },
       "artists": [
         {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 175453,
-      "name": "The Pirate's Gospel",
-      "url": "https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI"
+      "duration_ms": 189519,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH"
     },
     {
       "added_at": "2026-10-02 13:13:56",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-10-02 13:13:56",
       "album": {
-        "name": "Feels Right",
-        "url": "https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj"
+        "name": "The Pirate's Gospel (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
         }
       ],
-      "duration_ms": 189519,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH"
+      "duration_ms": 175453,
+      "name": "The Pirate's Gospel",
+      "url": "https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI"
     },
     {
       "added_at": "2026-10-02 13:13:56",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-10-02 13:13:56",
       "album": {
+        "name": "Only Gets Better",
+        "url": "https://open.spotify.com/album/1ZECACbWsbjf0MzKsZO0jC"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 234582,
+      "name": "Only Gets Better",
+      "url": "https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA"
+    },
+    {
+      "added_at": "2026-10-02 13:13:56",
+      "album": {
         "name": "The Art Of Pretending To Swim",
         "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2026-10-02 13:13:56",
       "album": {
-        "name": "Only Gets Better",
-        "url": "https://open.spotify.com/album/1ZECACbWsbjf0MzKsZO0jC"
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
       },
       "artists": [
         {
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 234582,
-      "name": "Only Gets Better",
-      "url": "https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA"
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-10-02 13:13:56",
@@ -879,22 +895,6 @@
       "duration_ms": 221441,
       "name": "tired eyes",
       "url": "https://open.spotify.com/track/01KdnakFsRqKyGAQBhH4kB"
-    },
-    {
-      "added_at": "2026-10-02 13:13:56",
-      "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-10-02 13:13:56",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-10-02 13:13:56",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 257400,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
-    },
-    {
-      "added_at": "2026-10-02 13:13:56",
-      "album": {
         "name": "Confirmation!",
         "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 164611,
       "name": "2Love (feat. FAUZIA)",
       "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
+    },
+    {
+      "added_at": "2026-10-02 13:13:56",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 257400,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
     },
     {
       "added_at": "2026-10-02 13:13:56",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-10-02 13:13:56",
       "album": {
+        "name": "paradox",
+        "url": "https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 309637,
+      "name": "paradox",
+      "url": "https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3"
+    },
+    {
+      "added_at": "2026-10-02 13:13:56",
+      "album": {
         "name": "Sonatine",
         "url": "https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 233666,
       "name": "Sonatine",
       "url": "https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0"
-    },
-    {
-      "added_at": "2026-10-02 13:13:56",
-      "album": {
-        "name": "paradox",
-        "url": "https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 309637,
-      "name": "paradox",
-      "url": "https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3"
     },
     {
       "added_at": "2026-10-02 13:13:56",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-10-02 13:13:56",
       "album": {
-        "name": "Felix Antonio & the Sea",
-        "url": "https://open.spotify.com/album/6f4lM2gbgsiFejncsNfM0h"
-      },
-      "artists": [
-        {
-          "name": "Felix Antonio",
-          "url": "https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ"
-        }
-      ],
-      "duration_ms": 208085,
-      "name": "it's over, i'm sober",
-      "url": "https://open.spotify.com/track/3xXoPfR3HWKHPHgwFxqd0J"
-    },
-    {
-      "added_at": "2026-10-02 13:13:56",
-      "album": {
         "name": "Lua Ki Di Nos",
         "url": "https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 271391,
       "name": "Mindjeris De Panu Pretu",
       "url": "https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC"
+    },
+    {
+      "added_at": "2026-10-02 13:13:56",
+      "album": {
+        "name": "Felix Antonio & the Sea",
+        "url": "https://open.spotify.com/album/6f4lM2gbgsiFejncsNfM0h"
+      },
+      "artists": [
+        {
+          "name": "Felix Antonio",
+          "url": "https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ"
+        }
+      ],
+      "duration_ms": 208085,
+      "name": "it's over, i'm sober",
+      "url": "https://open.spotify.com/track/3xXoPfR3HWKHPHgwFxqd0J"
     },
     {
       "added_at": "2026-10-02 13:13:56",

@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169579,
+  "num_followers": 169576,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABLkH0XM1YCsur1Wx3Z+6tE",
+  "snapshot_id": "asbdAAAAAAD+G3B/4XgMsX3bnQTovo/B",
   "tracks": [
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
-        "url": "https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo"
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 170315,
-      "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
-      "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
+      "duration_ms": 305333,
+      "name": "\u8776\u3005\u7d50\u3073",
+      "url": "https://open.spotify.com/track/3HxJaKzob7tdcr4qmqfR1d"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "daydream",
-        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+        "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+        "url": "https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 305333,
-      "name": "\u8776\u3005\u7d50\u3073",
-      "url": "https://open.spotify.com/track/3HxJaKzob7tdcr4qmqfR1d"
+      "duration_ms": 170315,
+      "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+      "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
     },
     {
       "added_at": null,
@@ -175,6 +175,26 @@
       "duration_ms": 235160,
       "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
       "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "Chelly",
+          "url": "https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "ninelie",
+      "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
     },
     {
       "added_at": null,
@@ -211,26 +231,6 @@
       "duration_ms": 232786,
       "name": "\u5730\u7403\u5100",
       "url": "https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "daydream",
-        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        },
-        {
-          "name": "Chelly",
-          "url": "https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "ninelie",
-      "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8776\u3005\u7d50\u3073",
-        "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 302960,
-      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
-      "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pastoral",
         "url": "https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8"
       },
@@ -463,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+        "name": "\u8776\u3005\u7d50\u3073",
+        "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
       },
       "artists": [
         {
@@ -472,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 328493,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
+      "duration_ms": 302960,
+      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
+      "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
       "duration_ms": 365093,
       "name": "\u30dd\u30e9\u30ea\u30b9",
       "url": "https://open.spotify.com/track/0m37tmxs9lX9LQjoNcvhKk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 328493,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 235202,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Walpurgis",
         "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 285826,
       "name": "STAND-ALONE",
       "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "escalate",
-        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "escalate",
-      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
-        "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 350933,
-      "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
-      "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
+        "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+        "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 235202,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
+      "duration_ms": 350933,
+      "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+      "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
     },
     {
       "added_at": null,

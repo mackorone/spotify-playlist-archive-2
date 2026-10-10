@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 11 hr 9 min
+212 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Evergreen](https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [United](https://open.spotify.com/album/4e4Zi2CSqcIr9cMKN9vg6S) | 3:58 | 2024-10-22 |  |
 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 | 2025-02-19 |  |
 | [Faces](https://open.spotify.com/track/32eAYk36CwX2cP81zfRl4M) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:22 | 2024-01-29 |  |
+| [Fall](https://open.spotify.com/track/6Gnf3QLRDofjxq6DFkSiRD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Fall](https://open.spotify.com/album/525z7lKqbZUzbeI6Ej2ii2) | 3:19 | 2026-10-09 |  |
 | [Fall](https://open.spotify.com/track/2BEXL3mUgofqfZ4OyxWfHQ) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Fall](https://open.spotify.com/album/0ZL2T8qNUEbBf6pzg8IGin) | 2:54 | 2024-01-29 |  |
 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 | 2025-01-09 | 2025-04-12 |
 | [Feel Again](https://open.spotify.com/track/4i9ay73aSChB8q4KeGDBIl) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Feel Again](https://open.spotify.com/album/2G5BCVsZJjwGIp8OXBa2w0) | 3:26 | 2026-10-04 |  |

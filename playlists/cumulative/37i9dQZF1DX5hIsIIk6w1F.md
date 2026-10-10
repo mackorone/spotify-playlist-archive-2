@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: AK 4:20 & Benja Valencia
 
-1,159 songs - 2 day 13 hr 13 min
+1,160 songs - 2 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [6.5](https://open.spotify.com/track/24Jam2dilbARAWyR6K1L8v) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:23 | 2023-03-03 | 2023-11-09 |
 | [6.5](https://open.spotify.com/track/5xTTD2qosom7sMY8tKTmkY) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [6.5](https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO) | 2:23 | 2023-11-03 | 2024-02-24 |
 | [619](https://open.spotify.com/track/0dACXp164P8EsZAJNUJuBu) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [Dias Antes de la Darkera](https://open.spotify.com/album/441mFgwzfuFW3y6cIQVGQs) | 2:22 | 2023-12-08 | 2024-03-02 |
+| [7 Maravillas](https://open.spotify.com/track/2ui8tettqXzQRLJyNQmV44) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Ag Daddy](https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1) | [7 Maravillas](https://open.spotify.com/album/3TCSXg7cOrbeLk5OIz39Yy) | 3:18 | 2026-10-09 |  |
 | [7 Trompetas](https://open.spotify.com/track/4ApLAqNEdqMwgF3Y8MRSXj) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [7 Trompetas](https://open.spotify.com/album/5X1KeQjQuhuSdZz0FyxcGg) | 2:49 | 2025-01-10 | 2025-10-24 |
 | [7.62](https://open.spotify.com/track/72Cq4PlMsJZCdqP2rmG3rP) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [7.62](https://open.spotify.com/album/7jFTOv3LiZavZdGZEP9RgL) | 2:22 | 2023-12-15 | 2024-02-17 |
 | [A Escondidas](https://open.spotify.com/track/7iOns39ZyM38mks8uzzYyn) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [A Escondidas](https://open.spotify.com/album/7yrB4g1xWWsA1J9yzrO52m) | 3:07 | 2022-07-22 | 2022-08-06 |
@@ -1148,7 +1149,7 @@
 | [XQ TAN SOLA?](https://open.spotify.com/track/42wzqKYpAInONWmT0FtiIj) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 3:20 | 2024-01-12 | 2024-04-19 |
 | [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 | 2023-04-07 | 2024-07-13 |
 | [Xtasis](https://open.spotify.com/track/69mKhvArKOKESydeYTFxeM) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Xtasis](https://open.spotify.com/album/6Ej5iQ9fHzBiUOw12EbIy4) | 3:26 | 2026-08-14 |  |
-| [XXXINGARTE](https://open.spotify.com/track/2ofKjfajyqUc6RI06j7Qd4) | [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [PAL SEXXX](https://open.spotify.com/album/0UraqV81UByAZZhs2j8Bue) | 2:30 | 2026-05-08 |  |
+| [XXXINGARTE](https://open.spotify.com/track/2ofKjfajyqUc6RI06j7Qd4) | [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [PAL SEXXX](https://open.spotify.com/album/0UraqV81UByAZZhs2j8Bue) | 2:30 | 2026-05-08 | 2026-10-10 |
 | [YA TO SAEN K ERES MIA](https://open.spotify.com/track/4ZJBWt867WdntFMLIhFuek) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [YA TO SAEN K ERES MIA](https://open.spotify.com/album/6pQFdZXVWMgwHxt4YQzpKS) | 2:58 | 2023-03-03 | 2023-06-10 |
 | [YATEE](https://open.spotify.com/track/4g3eryYUnyoM8KfeTcQ86l) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [YATEE](https://open.spotify.com/album/1R6rQCFcgUWEFwDCMLKe99) | 3:30 | 2025-06-06 | 2025-12-05 |
 | [YEKA \(feat\. Best\)](https://open.spotify.com/track/26AMBvT8tFuDKiSTxWmlJy) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [YEKA \(feat\. Best\)](https://open.spotify.com/album/3B55AJkNCUfYhuyQJPwurN) | 3:06 | 2024-05-03 | 2025-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,528 likes - 103 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,562 likes - 103 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 102 | [Blame It On Eve](https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:32 |
 | 103 | [Issa](https://open.spotify.com/track/01WyqI4Qnh4gvUFVGp2C9r) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Issa](https://open.spotify.com/album/6iTIRtJvk0JyRsmtXz2TDe) | 3:26 |
 
-Snapshot ID: `AAAAALzEv/nJQR5B/89S/D+ADS8etDtw`
+Snapshot ID: `AAAAAPAfEyjCxXHUuM+RMfeFD78akaEl`

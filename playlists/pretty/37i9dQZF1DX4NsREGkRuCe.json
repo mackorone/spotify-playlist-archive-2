@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 147935,
+  "num_followers": 147976,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 174823,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
-    },
-    {
-      "added_at": "2026-10-09 00:01:57",
-      "album": {
         "name": "The Game Needs Us",
         "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
       },
@@ -659,6 +643,38 @@
       "duration_ms": 155294,
       "name": "Already",
       "url": "https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3"
+    },
+    {
+      "added_at": "2026-10-09 00:01:57",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
+    },
+    {
+      "added_at": "2026-10-09 00:01:57",
+      "album": {
+        "name": "Anybody",
+        "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 150073,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK"
     },
     {
       "added_at": "2026-10-09 00:01:57",
@@ -695,18 +711,26 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
-        "name": "Anybody",
-        "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv"
+        "name": "One Condition",
+        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
       "artists": [
         {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 150073,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK"
+      "duration_ms": 234977,
+      "name": "One Condition",
+      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
     },
     {
       "added_at": "2026-10-09 00:01:57",
@@ -731,22 +755,6 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
-        "name": "Dear London",
-        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Glass in the Air",
-      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
-    },
-    {
-      "added_at": "2026-10-09 00:01:57",
-      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -767,26 +775,18 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
-        "name": "One Condition",
-        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
+        "name": "Dear London",
+        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 234977,
-      "name": "One Condition",
-      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+      "duration_ms": 155000,
+      "name": "Glass in the Air",
+      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
     },
     {
       "added_at": "2026-10-09 00:01:57",
@@ -843,6 +843,26 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
+        "name": "Juice & Liquor",
+        "url": "https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 177087,
+      "name": "Juice & Liquor",
+      "url": "https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R"
+    },
+    {
+      "added_at": "2026-10-09 00:01:57",
+      "album": {
         "name": "Mofe",
         "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 147696,
       "name": "BODY (danz)",
       "url": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
-    },
-    {
-      "added_at": "2026-10-09 00:01:57",
-      "album": {
-        "name": "Juice & Liquor",
-        "url": "https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 177087,
-      "name": "Juice & Liquor",
-      "url": "https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R"
     },
     {
       "added_at": "2026-10-09 00:01:57",
@@ -983,38 +983,6 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
-      "added_at": "2026-10-09 00:01:57",
-      "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 139424,
-      "name": "Lakute",
-      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
-    },
-    {
-      "added_at": "2026-10-09 00:01:57",
-      "album": {
         "name": "Stars Misaligned II",
         "url": "https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc"
       },
@@ -1035,6 +1003,38 @@
       "duration_ms": 170679,
       "name": "Stars Misaligned II",
       "url": "https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u"
+    },
+    {
+      "added_at": "2026-10-09 00:01:57",
+      "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 139424,
+      "name": "Lakute",
+      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
+    },
+    {
+      "added_at": "2026-10-09 00:01:57",
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2026-10-09 00:01:57",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/2CAzG4F35WKFURnVWvwAlg"
-      },
-      "artists": [
-        {
-          "name": "Delamore",
-          "url": "https://open.spotify.com/artist/7qYJQSvaLyLOFvxGEdjw79"
-        },
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/5cSaHJEB56sgxLURr9WFzF"
-    },
-    {
-      "added_at": "2026-10-09 00:01:57",
-      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 153103,
       "name": "Water",
       "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
+    },
+    {
+      "added_at": "2026-10-09 00:01:57",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/2CAzG4F35WKFURnVWvwAlg"
+      },
+      "artists": [
+        {
+          "name": "Delamore",
+          "url": "https://open.spotify.com/artist/7qYJQSvaLyLOFvxGEdjw79"
+        },
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5cSaHJEB56sgxLURr9WFzF"
     },
     {
       "added_at": "2026-10-09 00:01:57",
@@ -1231,22 +1231,22 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
+        "name": "CHE",
+        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 170823,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
+      "duration_ms": 144000,
+      "name": "CHE",
+      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
     },
     {
       "added_at": "2026-10-09 00:01:57",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
-        "name": "CHE",
-        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
       },
       "artists": [
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         },
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 144000,
-      "name": "CHE",
-      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
+      "duration_ms": 170823,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
     },
     {
       "added_at": "2026-10-09 00:01:57",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
-        "name": "SHON PE (Count Your Money)",
-        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "SHON PE (Count Your Money)",
-      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
-    },
-    {
-      "added_at": "2026-10-09 00:01:57",
-      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 155428,
       "name": "10 MINUTES",
       "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
+    },
+    {
+      "added_at": "2026-10-09 00:01:57",
+      "album": {
+        "name": "SHON PE (Count Your Money)",
+        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "SHON PE (Count Your Money)",
+      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
     },
     {
       "added_at": "2026-10-09 00:01:57",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2026-10-09 00:01:57",
       "album": {
-        "name": "Intentions (feat. Urban Chords)",
-        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "Urban Chords",
-          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Intentions (feat. Urban Chords)",
-      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
-    },
-    {
-      "added_at": "2026-10-09 00:01:57",
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 181606,
       "name": "Titi",
       "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "added_at": "2026-10-09 00:01:57",
+      "album": {
+        "name": "Intentions (feat. Urban Chords)",
+        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Urban Chords",
+          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Intentions (feat. Urban Chords)",
+      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

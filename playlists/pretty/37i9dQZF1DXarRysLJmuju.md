@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Britney
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,391 likes - 92 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,192 likes - 92 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PUN, THE TOYS
 
-270 songs - 17 hr 24 min
+271 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Benz ดำ](https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 2:50 | 2025-12-11 |  |
 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 | 2024-08-04 | 2024-12-17 |
 | [BU](https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY) | [BU](https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s) | 2:46 | 2025-09-11 | 2026-05-08 |
-| [CHECKLIST](https://open.spotify.com/track/5sxfpwXQU6636cZerTtiTG) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [CHECKLIST](https://open.spotify.com/album/0VJ2t25jf4JQ5Tdx4xVSvK) | 3:47 | 2026-09-10 |  |
+| [CHECKLIST](https://open.spotify.com/track/5sxfpwXQU6636cZerTtiTG) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [CHECKLIST](https://open.spotify.com/album/0VJ2t25jf4JQ5Tdx4xVSvK) | 3:47 | 2026-09-10 | 2026-10-10 |
 | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 | 2025-01-30 | 2025-10-13 |
 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-08 | 2026-01-23 |
 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 | 2026-05-14 | 2026-07-14 |
@@ -219,6 +219,7 @@
 | [อยากอินเพลงรัก](https://open.spotify.com/track/0ZK7WAqADNAc2zY7WVRDTl) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H), [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [อยากอินเพลงรัก](https://open.spotify.com/album/6G3FvZ2OHWHyoG40SQhIbJ) | 3:22 | 2026-01-15 |  |
 | [อยู่ด้วยกันนะ \(Every Single Day\)](https://open.spotify.com/track/2odtCLRbw7U2SuLrTfADtO) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [อยู่ด้วยกันนะ \(Every Single Day\)](https://open.spotify.com/album/3HDs76j5WZCrJpZHX88d0e) | 3:55 | 2026-04-19 | 2026-06-12 |
 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 | 2024-08-08 | 2026-03-20 |
+| [อย่ามากกว่าฉันก็พอ \(Jealous\)](https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [IN MY ROOM SESSION](https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq) | 3:48 | 2026-10-09 |  |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2024-01-26 | 2024-06-07 |
 | [อารมณ์สีเทา](https://open.spotify.com/track/3gxK6ehmktiz8QRElreh5S) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [อารมณ์สีเทา](https://open.spotify.com/album/7jQYQQHdNM8t72aFTVrcgs) | 3:27 | 2026-09-02 |  |
 | [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2024-01-26 | 2024-08-23 |

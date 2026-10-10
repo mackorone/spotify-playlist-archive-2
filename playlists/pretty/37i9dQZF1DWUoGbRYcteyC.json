@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1856131,
+  "num_followers": 1855770,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-10-08 21:26:35",
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
+    },
+    {
+      "added_at": "2026-10-08 21:26:35",
+      "album": {
         "name": "mi refe",
         "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
-    },
-    {
-      "added_at": "2026-10-08 21:26:35",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
     },
     {
       "added_at": "2026-10-08 21:26:35",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-10-08 21:26:35",
       "album": {
-        "name": "\u00bfD\u00f3nde Es El After?",
-        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Cimarr\u00f3n",
-      "url": "https://open.spotify.com/track/03E4111ppLF3qUQme0Sw70"
-    },
-    {
-      "added_at": "2026-10-08 21:26:35",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 202285,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
+    },
+    {
+      "added_at": "2026-10-08 21:26:35",
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Cimarr\u00f3n",
+      "url": "https://open.spotify.com/track/03E4111ppLF3qUQme0Sw70"
     },
     {
       "added_at": "2026-10-08 21:26:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-08 21:26:35",
       "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
-    },
-    {
-      "added_at": "2026-10-08 21:26:35",
-      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "added_at": "2026-10-08 21:26:35",
+      "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
     },
     {
       "added_at": "2026-10-08 21:26:35",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-10-08 21:26:35",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+        "name": "La Mujer Perfecta",
+        "url": "https://open.spotify.com/album/4Sj72xRJkdtcQ79INIEvvX"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+      "duration_ms": 217906,
+      "name": "La Mujer Perfecta",
+      "url": "https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR"
     }
   ],
   "unique_name": "Amor Amor",

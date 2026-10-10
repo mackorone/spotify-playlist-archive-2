@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,187 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,191 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 10 | [L'envie](https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 3:50 |
 | 11 | [Capitaine abandonné](https://open.spotify.com/track/38LHrcQIVbJJtS8H3xfCKn) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Incontournable Gold](https://open.spotify.com/album/0RPMT9OFkLNQMUjCxhlTlR) | 3:55 |
 | 12 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
-| 13 | [Femme libérée](https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj) | [Cookie Dingler](https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG) | [Femme Libérée](https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi) | 3:41 |
-| 14 | [Cendrillon \- Remasterisé en 2015](https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 3:58 |
+| 13 | [Cendrillon \- Remasterisé en 2015](https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 3:58 |
+| 14 | [Femme libérée](https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj) | [Cookie Dingler](https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG) | [Femme Libérée](https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi) | 3:41 |
 | 15 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 |
 | 16 | [Les démons de minuit](https://open.spotify.com/track/2ne2QYNb5DjByvKPOtzQaM) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [Les démons de minuit](https://open.spotify.com/album/6hOGy2ogj9tbIIpfQ5aQOO) | 3:51 |
 | 17 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 28 | [Il est libre Max](https://open.spotify.com/track/0ZuHb82X30zwYP8TVnIi8K) | [Hervé Cristiani](https://open.spotify.com/artist/4ml7309NlaZaAHeBUOThVx) | [Les inoubliables de Hervé Cristiani \- Best Of](https://open.spotify.com/album/5X7x3uX32XtxdhBcMohjNA) | 3:14 |
 | 29 | [En rouge et noir](https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN) | [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [Best of Jeanne Mas 2004](https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx) | 4:28 |
 | 30 | [Besoin de personne](https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Exclusivement féminin](https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS) | 2:47 |
-| 31 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
+| 31 | [Miss Maggie](https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 4:15 |
 | 32 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
-| 33 | [Miss Maggie](https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 4:15 |
+| 33 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
 | 34 | [Disparue](https://open.spotify.com/track/280p8WbpK05bAptetUzEcx) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Disparue \- EP](https://open.spotify.com/album/6InWfWweFfuMQ7kCn5CBoc) | 3:09 |
 | 35 | [Joue pas](https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe), [Joniece Jamison](https://open.spotify.com/artist/1cv4XgiZ8UewYxrtk4XO3Q) | [Two Feldman](https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9) | 4:11 |
 | 36 | [La p'tite Lady](https://open.spotify.com/track/7jeK414Hj68dYeLzEUVGe8) | [Vivien Savage](https://open.spotify.com/artist/4JB4YibTxVBeW30DtePCZT) | [EP La P'tite Lady](https://open.spotify.com/album/0Lg340OEMHB1qyi919yiZQ) | 3:35 |

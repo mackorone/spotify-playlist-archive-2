@@ -1,13 +1,29 @@
 {
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Genes1s",
-  "num_followers": 54436,
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Wendy Kimani",
+  "num_followers": 54450,
   "original_name": "Made In Kenya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACfEvv7hJbLUSEJhhz6xtAXL1krJ",
+  "snapshot_id": "AAAAAMa5zLePxbJYmiIOhFjFhul4FbIW",
   "tracks": [
+    {
+      "added_at": "2026-10-09 12:28:45",
+      "album": {
+        "name": "I'll Be Okay",
+        "url": "https://open.spotify.com/album/4FRm1vre15Rj6NwZnf9qmj"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 199591,
+      "name": "I'll Be Okay",
+      "url": "https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW"
+    },
     {
       "added_at": "2026-10-01 23:59:28",
       "album": {
@@ -27,6 +43,46 @@
       "duration_ms": 221250,
       "name": "BLOW",
       "url": "https://open.spotify.com/track/4pk9OFnhaYFPKJay9EqYCm"
+    },
+    {
+      "added_at": "2026-10-09 15:23:09",
+      "album": {
+        "name": "Ipepete (Remix)",
+        "url": "https://open.spotify.com/album/0WgLX4lp76pRihbWRnKIIs"
+      },
+      "artists": [
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        },
+        {
+          "name": "Iyanii",
+          "url": "https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Ipepete - Remix",
+      "url": "https://open.spotify.com/track/7wrfhwbOVqlzMUvl8Us5uu"
+    },
+    {
+      "added_at": "2026-10-09 12:28:45",
+      "album": {
+        "name": "AIBU",
+        "url": "https://open.spotify.com/album/7vHRpS2xbDkXPfAoycorKG"
+      },
+      "artists": [
+        {
+          "name": "Wendy Kimani",
+          "url": "https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT"
+        },
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "AIBU",
+      "url": "https://open.spotify.com/track/0F4cIQyKeExJYLMrOk8OVT"
     },
     {
       "added_at": "2026-10-01 23:59:28",
@@ -67,6 +123,26 @@
       "duration_ms": 147500,
       "name": "Faya Si Faya",
       "url": "https://open.spotify.com/track/3JU4MisE3OVTp5S6sG46WT"
+    },
+    {
+      "added_at": "2026-10-09 12:28:45",
+      "album": {
+        "name": "Mariwana",
+        "url": "https://open.spotify.com/album/3FZfBxvfWuGrCDdMtSpHvU"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
+        }
+      ],
+      "duration_ms": 192972,
+      "name": "Mariwana",
+      "url": "https://open.spotify.com/track/7JMCJErV8qBEuBCLtEbnE6"
     },
     {
       "added_at": "2026-10-01 23:59:28",
@@ -161,6 +237,22 @@
       "url": "https://open.spotify.com/track/3FPNnbI7Ymkc4nFXex11ZO"
     },
     {
+      "added_at": "2026-10-09 12:28:45",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/4xxcNupkxrbjbHFcjFosrN"
+      },
+      "artists": [
+        {
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
+        }
+      ],
+      "duration_ms": 181363,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/7tFWfxjtb0Rk2FYgTASHgL"
+    },
+    {
       "added_at": "2026-10-01 23:59:28",
       "album": {
         "name": "Mwecheche",
@@ -199,6 +291,26 @@
       "duration_ms": 188181,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/6hLL8wyNPr8KXM7dwnmFAS"
+    },
+    {
+      "added_at": "2026-10-09 12:28:45",
+      "album": {
+        "name": "Give Me Love",
+        "url": "https://open.spotify.com/album/5z58ZjN8fl5hrLtKvyF8E1"
+      },
+      "artists": [
+        {
+          "name": "Partraw KE",
+          "url": "https://open.spotify.com/artist/4jUS1tyLx7c6zgT5dlCMtw"
+        },
+        {
+          "name": "Lisa Oduor Noah",
+          "url": "https://open.spotify.com/artist/4TvajrZD4cJdAx2jO4yO5e"
+        }
+      ],
+      "duration_ms": 411428,
+      "name": "Nini Ni Kupe",
+      "url": "https://open.spotify.com/track/5OwlkTKMueq8wsW70upS6m"
     },
     {
       "added_at": "2026-10-01 23:59:28",
@@ -559,22 +671,6 @@
     {
       "added_at": "2026-10-01 23:59:28",
       "album": {
-        "name": "Unanipa",
-        "url": "https://open.spotify.com/album/2MH90bwjE29b9TrsNTa47s"
-      },
-      "artists": [
-        {
-          "name": "Zaituni",
-          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
-        }
-      ],
-      "duration_ms": 192579,
-      "name": "Unanipa",
-      "url": "https://open.spotify.com/track/263NrbGTVJI5draas4VOnY"
-    },
-    {
-      "added_at": "2026-10-01 23:59:28",
-      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/3vcdW0dMdsZLf7LtyAp6Iq"
       },
@@ -679,50 +775,6 @@
       "duration_ms": 339692,
       "name": "Nalingi Yo",
       "url": "https://open.spotify.com/track/1ABmyUibzK9hC9S66mBcFk"
-    },
-    {
-      "added_at": "2026-10-01 23:59:28",
-      "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/2GqiTio6qu6nrWVhamVSNh"
-      },
-      "artists": [
-        {
-          "name": "DTX",
-          "url": "https://open.spotify.com/artist/1LbAw7swSIJ3xv0vgyaFws"
-        },
-        {
-          "name": "Nviiri The Storyteller",
-          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
-        },
-        {
-          "name": "Ssaru",
-          "url": "https://open.spotify.com/artist/6eVkqgsfXtxdUnKFUoNrvg"
-        },
-        {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
-        }
-      ],
-      "duration_ms": 210619,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/1WBhqy3hTte6U9tAo5qe3N"
-    },
-    {
-      "added_at": "2026-10-01 23:59:28",
-      "album": {
-        "name": "Wingu La Tisa",
-        "url": "https://open.spotify.com/album/3tJtIfoARTp9irgPMQJ4oq"
-      },
-      "artists": [
-        {
-          "name": "TLVSN",
-          "url": "https://open.spotify.com/artist/6PWktnw07ge9NXQCBYxP74"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/1FlYF71tkG6UeMSPPBgiVQ"
     },
     {
       "added_at": "2026-10-01 23:59:28",
@@ -867,26 +919,6 @@
     {
       "added_at": "2026-10-01 23:59:28",
       "album": {
-        "name": "Watiri's Trouble",
-        "url": "https://open.spotify.com/album/0fLdMoX6lwdeXwHOuUUj2i"
-      },
-      "artists": [
-        {
-          "name": "Hildah Watiri",
-          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
-        },
-        {
-          "name": "FEMI ONE",
-          "url": "https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH"
-        }
-      ],
-      "duration_ms": 172580,
-      "name": "Pole Pole",
-      "url": "https://open.spotify.com/track/5e8vMUSUiMuM7QmsEE6roD"
-    },
-    {
-      "added_at": "2026-10-01 23:59:28",
-      "album": {
         "name": "FREAKY",
         "url": "https://open.spotify.com/album/0sF7WtY3jzo2CHUlNWNOsK"
       },
@@ -923,26 +955,6 @@
     {
       "added_at": "2026-10-01 23:59:28",
       "album": {
-        "name": "Wi Muthaka",
-        "url": "https://open.spotify.com/album/5We2OdnmfsWmIa3gw4gJAj"
-      },
-      "artists": [
-        {
-          "name": "Tuku Kantu",
-          "url": "https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24"
-        },
-        {
-          "name": "Muthaka",
-          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Wi Muthaka",
-      "url": "https://open.spotify.com/track/27fREfR29KgpnCGHQa658H"
-    },
-    {
-      "added_at": "2026-10-01 23:59:28",
-      "album": {
         "name": "Mjiekee",
         "url": "https://open.spotify.com/album/6nnibv2Nq4eo83Wa5mCbrJ"
       },
@@ -963,26 +975,6 @@
       "duration_ms": 210612,
       "name": "Mjiekee",
       "url": "https://open.spotify.com/track/3I7h52OZb7eokVCFoWBGFp"
-    },
-    {
-      "added_at": "2026-10-01 23:59:28",
-      "album": {
-        "name": "NaEnjoy",
-        "url": "https://open.spotify.com/album/3X0ByBetVJ3YDL5tSTgjRt"
-      },
-      "artists": [
-        {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
-        },
-        {
-          "name": "Watendawili",
-          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "NaEnjoy",
-      "url": "https://open.spotify.com/track/5HYDoscfBYwQhLxkMY2dXs"
     },
     {
       "added_at": "2026-10-01 23:59:28",
@@ -1023,22 +1015,6 @@
       "duration_ms": 254680,
       "name": "Ghetto Dala",
       "url": "https://open.spotify.com/track/3MQDQWquB3KcDWVVzhgkhj"
-    },
-    {
-      "added_at": "2026-10-01 23:59:28",
-      "album": {
-        "name": "Ni Sisi Tuliowachagua",
-        "url": "https://open.spotify.com/album/03ynYpD0qnWtVthRD0eSzZ"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ni Sisi Tuliowachagua",
-      "url": "https://open.spotify.com/track/3q8ilRtjOS0mLYCWkDR98K"
     },
     {
       "added_at": "2026-10-01 23:59:28",
@@ -1099,6 +1075,26 @@
       "duration_ms": 196628,
       "name": "Trust No 1",
       "url": "https://open.spotify.com/track/4Nfq2CziIZHDzVP8A6llUF"
+    },
+    {
+      "added_at": "2026-10-01 23:59:28",
+      "album": {
+        "name": "Wi Muthaka",
+        "url": "https://open.spotify.com/album/5We2OdnmfsWmIa3gw4gJAj"
+      },
+      "artists": [
+        {
+          "name": "Tuku Kantu",
+          "url": "https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24"
+        },
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Wi Muthaka",
+      "url": "https://open.spotify.com/track/27fREfR29KgpnCGHQa658H"
     },
     {
       "added_at": "2026-10-01 23:59:28",

@@ -4,7 +4,7 @@
 
 > Solo rap da Napoli e dalla Campania\. Geolier in cover.
 
-659 songs - 1 day 5 hr 37 min
+660 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [RISPETTO](https://open.spotify.com/track/4F0jrUs3Y65lXIxBka27gi) | [Bl4ir](https://open.spotify.com/artist/75be7XA6WPIE5UWcBzEYIx), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [RISPETTO](https://open.spotify.com/album/2tYSvjH9CeSk9iOBPnoVuu) | 2:33 | 2026-02-19 | 2026-04-03 |
 | [RISPETTO](https://open.spotify.com/track/4reyq1uCEFqfnq6tFltw3y) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [RISPETTO](https://open.spotify.com/album/2Vn0jyCkXdw5wO1lm9WY6y) | 2:20 | 2024-12-19 | 2025-02-27 |
 | [RNAR SPUORCH](https://open.spotify.com/track/758gBjpv9urbcYbo0n5lGM) | [ALTACARATURA](https://open.spotify.com/artist/4FBfE5lWE8eGkPuUTXzRNr) | [RNAR SPUORCH](https://open.spotify.com/album/16ldGPgb034QKbjtGSbeRI) | 2:50 | 2024-09-12 | 2024-09-27 |
+| [ROLEX](https://open.spotify.com/track/3UMsmat6dEfLBjtL92xYof) | [Joka Diablo](https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ) | [Locura](https://open.spotify.com/album/0aC8g1rSmbygMtmKnSD4uw) | 2:09 | 2026-10-08 |  |
 | [ROLEX](https://open.spotify.com/track/7Dv22B9cWZ4BZA9FFriZzs) | [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ) | [ROLEX](https://open.spotify.com/album/25NDj20IXZEtA9TOHWcJfG) | 3:12 | 2026-03-05 | 2026-04-03 |
 | [Rolex \(feat\. Lele Blade\)](https://open.spotify.com/track/74bfTNttbZDa0x9v57V94K) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:02 | 2024-01-16 | 2024-02-16 |
 | [Rolls Royce](https://open.spotify.com/track/3CYZEJWJOWuc7hJj3NhBi4) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [Rolls Royce](https://open.spotify.com/album/2o4foqsE9ZAiRTExTCXLgM) | 2:47 | 2026-10-08 |  |

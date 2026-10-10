@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : Ben PLG
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,583 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,578 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 7 | [Dying In Reverse](https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Dying In Reverse](https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx) | 3:54 |
 | 8 | [Empty Stadium](https://open.spotify.com/track/6HHCf0DrccfgC3GlbfmXgH) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:45 |
 | 9 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
-| 10 | [Versailles](https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg) | 3:14 |
-| 11 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
+| 10 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
+| 11 | [Versailles](https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg) | 3:14 |
 | 12 | [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 |
 | 13 | [PA' TOUCH \- A COLORS SHOW](https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [PA' TOUCH \- A COLORS SHOW](https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu) | 2:52 |
 | 14 | [Make believe](https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Make believe](https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V) | 3:30 |

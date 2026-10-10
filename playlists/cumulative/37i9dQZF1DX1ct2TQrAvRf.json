@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Krish Rao",
+  "description": "India's Rap Scene. Cover - Karan Aujla",
   "name": "RAP 91",
   "tracks": [
     {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 217625,
       "name": "Ashke",
       "url": "https://open.spotify.com/track/5vTJrmnmJMAvFjrUpUWxyy"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 155844,
       "name": "DAMN IT RABBIT",
       "url": "https://open.spotify.com/track/41P5ixs4bxZENT3IvvxOSw"
@@ -3104,6 +3104,28 @@
       "duration_ms": 220571,
       "name": "FUKUYAMA",
       "url": "https://open.spotify.com/track/7ne0g89uU1mbB4bIGva2dG"
+    },
+    {
+      "album": {
+        "name": "Autobiography",
+        "url": "https://open.spotify.com/album/49kI8wLqF1S7EKpl4t2Cfn"
+      },
+      "artists": [
+        {
+          "name": "NIJJAR",
+          "url": "https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W"
+        },
+        {
+          "name": "Jazz Dee",
+          "url": "https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177833,
+      "name": "G Who",
+      "url": "https://open.spotify.com/track/7J9tw4E4ZKcX0AvhTOtqfk"
     },
     {
       "album": {
@@ -4554,6 +4576,32 @@
       "duration_ms": 312000,
       "name": "Kath Lagda",
       "url": "https://open.spotify.com/track/3zoM4v1qTX94ZqfPYRReJh"
+    },
+    {
+      "album": {
+        "name": "Kaun Marvana",
+        "url": "https://open.spotify.com/album/7JfXrTOs73RMeR0FdmBwI0"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Priyam",
+          "url": "https://open.spotify.com/artist/6zHVlpak6U0fqQ5FjAeZN2"
+        },
+        {
+          "name": "Amar Karnawal",
+          "url": "https://open.spotify.com/artist/6DAbqsPFnfdjW7qUtVW7wS"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Kaun Marvana",
+      "url": "https://open.spotify.com/track/4aFmzuZXXtCbwW7SfWXFFZ"
     },
     {
       "album": {
@@ -7243,6 +7291,32 @@
     },
     {
       "album": {
+        "name": "AUJLA SZN 1",
+        "url": "https://open.spotify.com/album/7rBIioPKNbFbedgP6iioLN"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        },
+        {
+          "name": "Azaad 4L",
+          "url": "https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245952,
+      "name": "Rap Killa",
+      "url": "https://open.spotify.com/track/3B6vLmcMBl772iLn9AWgWw"
+    },
+    {
+      "album": {
         "name": "HARD DRIVE Vol. 2",
         "url": "https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9"
       },
@@ -8660,7 +8734,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 201081,
       "name": "Top Fella",
       "url": "https://open.spotify.com/track/4x8JsInrhf0yWYFRpF4vRz"
@@ -9016,6 +9090,28 @@
       "duration_ms": 141578,
       "name": "Vedakk Chekka",
       "url": "https://open.spotify.com/track/0PGJHryop4kfDskuNmNnEn"
+    },
+    {
+      "album": {
+        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Thamizh Aadhavan",
+          "url": "https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152674,
+      "name": "Veramaari",
+      "url": "https://open.spotify.com/track/3QMfo44lz1oGmZY2wWAQb5"
     },
     {
       "album": {
@@ -9536,7 +9632,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 211783,
       "name": "You & I",
       "url": "https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF"

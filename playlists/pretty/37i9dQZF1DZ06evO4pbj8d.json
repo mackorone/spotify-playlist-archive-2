@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADoVGtUP2JA2/ZU6fZH/6xx",
+  "snapshot_id": "asbdAAAAAADMXVoBgffD9f+LhNP2vpld",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kind",
-        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 247372,
-      "name": "Kind",
-      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
+      "duration_ms": 148213,
+      "name": "Time Is A River",
+      "url": "https://open.spotify.com/track/6UsgsliuU5gTLxKkfCfPFN"
     },
     {
       "added_at": null,
@@ -255,6 +255,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kind",
+        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 247372,
+      "name": "Kind",
+      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/3I6n5FDKw6TCjPw7JjLHSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hope Is A Heavy Thing",
         "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
       },
@@ -264,9 +296,25 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 148213,
-      "name": "Time Is A River",
-      "url": "https://open.spotify.com/track/6UsgsliuU5gTLxKkfCfPFN"
+      "duration_ms": 189186,
+      "name": "TOGIAIM",
+      "url": "https://open.spotify.com/track/54hGhxFr67d2A4Sg5Ep602"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": null,
@@ -291,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
       "artists": [
         {
@@ -300,25 +348,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 216167,
-      "name": "Taking Things For Granted",
-      "url": "https://open.spotify.com/track/3I6n5FDKw6TCjPw7JjLHSG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+      "duration_ms": 193786,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
     },
     {
       "added_at": null,
@@ -332,25 +364,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 189186,
-      "name": "TOGIAIM",
-      "url": "https://open.spotify.com/track/54hGhxFr67d2A4Sg5Ep602"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "sunday",
-      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
+      "duration_ms": 122040,
+      "name": "Raised By The Radio (A Reintroduction)",
+      "url": "https://open.spotify.com/track/0rXEZxeUQKmOPsPCUzvzkr"
     },
     {
       "added_at": null,
@@ -391,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hope Is A Heavy Thing",
-        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "Dear Maria",
-      "url": "https://open.spotify.com/track/7sg33uya6t8yAh0WvMrZw5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In the Hour of Chaos",
         "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 200373,
       "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
       "url": "https://open.spotify.com/track/2rpLXFeQau14IYHqPDqGcw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Dear Maria",
+      "url": "https://open.spotify.com/track/7sg33uya6t8yAh0WvMrZw5"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hope Is A Heavy Thing",
-        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 122040,
-      "name": "Raised By The Radio (A Reintroduction)",
-      "url": "https://open.spotify.com/track/0rXEZxeUQKmOPsPCUzvzkr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -503,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/6gc1IqKVv87XukZlYsJxxo"
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
       },
       "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        },
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 193000,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/7A4S5hX98oy3nRSlt8SMT7"
+      "duration_ms": 210026,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/0mZUDdU5PMBv3AmlLDLOne"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hope Is A Heavy Thing",
-        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/6gc1IqKVv87XukZlYsJxxo"
       },
       "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 210026,
-      "name": "Toothache",
-      "url": "https://open.spotify.com/track/0mZUDdU5PMBv3AmlLDLOne"
+      "duration_ms": 193000,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/7A4S5hX98oy3nRSlt8SMT7"
     },
     {
       "added_at": null,
@@ -582,31 +582,11 @@
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
         }
       ],
-      "duration_ms": 183546,
-      "name": "heaven from here (with Penny and Sparrow)",
-      "url": "https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outer Banks: Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 242714,
-      "name": "Out on the Weekend",
-      "url": "https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9"
+      "duration_ms": 221853,
+      "name": "someone that i used to be",
+      "url": "https://open.spotify.com/track/4ESU8fhu6M9TUg5vmjV87S"
     },
     {
       "added_at": null,
@@ -623,6 +603,22 @@
       "duration_ms": 203739,
       "name": "DRUGS",
       "url": "https://open.spotify.com/track/0q4DbCRYxEAZQXXyCFhNe3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outer Banks: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 242714,
+      "name": "Out on the Weekend",
+      "url": "https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9"
     },
     {
       "added_at": null,
@@ -654,11 +650,15 @@
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
         }
       ],
-      "duration_ms": 221853,
-      "name": "someone that i used to be",
-      "url": "https://open.spotify.com/track/4ESU8fhu6M9TUg5vmjV87S"
+      "duration_ms": 183546,
+      "name": "heaven from here (with Penny and Sparrow)",
+      "url": "https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "bad blood",
-      "url": "https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carry",
         "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
       },
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 237915,
-      "name": "QUESTIONS, CHAOS & FAITH",
-      "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
+      "duration_ms": 188493,
+      "name": "bad blood",
+      "url": "https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 197767,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 237915,
+      "name": "QUESTIONS, CHAOS & FAITH",
+      "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196008,
-      "name": "AM I?",
-      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hating Game (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 196606,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196008,
+      "name": "AM I?",
+      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
     }
   ],
   "unique_name": "This Is Joy Oladokun",

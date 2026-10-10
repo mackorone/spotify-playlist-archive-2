@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: SHERRY
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: HAPPILY
 
-397 songs - 1 day 4 hr 18 min
+399 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Greed](https://open.spotify.com/track/5kD32fiZ5b6HiQOQDkM9wf) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Greed](https://open.spotify.com/album/5XIuWSPPwwTs33MAAEqIUc) | 4:42 | 2025-12-26 | 2026-05-02 |
 | [Hallway](https://open.spotify.com/track/0kk4AZh6CwUvLUmlQ9XcJs) | [OK but no.](https://open.spotify.com/artist/5MFKZu8PvExV56orhdxPpA) | [Hallway](https://open.spotify.com/album/79R1zCiHRC7sjyV84VVGMg) | 3:23 | 2026-03-20 | 2026-04-23 |
 | [How Are U?](https://open.spotify.com/track/31d7yUJB75GOVgMDDiqoIt) | [ELEVEN](https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN), [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [Don't Wanna Lose "U"](https://open.spotify.com/album/1avLfjuM8CQMIhGogDksw3) | 4:43 | 2024-06-21 | 2025-04-12 |
+| [Hug](https://open.spotify.com/track/4b9feL0VtukPm7aG4DTFGf) | [TIMER](https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR) | [Hug](https://open.spotify.com/album/7uUdTGu5klek5EZEw0vG4v) | 3:19 | 2026-10-09 |  |
 | [IG](https://open.spotify.com/track/7Aepf1U1aEjhU4lhCmvqMz) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN), [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi) | [IG](https://open.spotify.com/album/3kt7j2BUwZ2FJRjCBZwdNH) | 3:32 | 2024-12-13 | 2025-05-17 |
 | [Jinna](https://open.spotify.com/track/4sTpyVCItKsKf9yduwZMIF) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [Jinna](https://open.spotify.com/album/1tjZtHV3wJuaeMgMouIkQ2) | 4:18 | 2024-06-28 | 2024-08-03 |
 | [KON LA KON](https://open.spotify.com/track/2dF92JkAbSoTwfgHMKJdqj) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [KON LA KON](https://open.spotify.com/album/16282P8OPLHzPKBC9eKMIh) | 5:08 | 2025-05-02 | 2025-05-31 |
@@ -154,7 +155,7 @@
 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 | 2024-11-01 | 2026-05-02 |
 | [ดิ่ง \(Deep\)](https://open.spotify.com/track/20EMMATUtWu4rs6IMOXkfK) | [Enter The Joy](https://open.spotify.com/artist/2FA1UgZXy5OoXBB6CNgCQk) | [ดิ่ง \(Deep\)](https://open.spotify.com/album/1zOfH1aSjAKLOSiFLyqoUH) | 5:33 | 2026-06-24 | 2026-09-19 |
 | [ดีแล้ว](https://open.spotify.com/track/08xrZIS2GjbsKWaceAbKRf) | [Methane](https://open.spotify.com/artist/6kNXwB8eVNq6jPJGTi0Vk7) | [ดีแล้ว](https://open.spotify.com/album/63IW4wzMkru6GvdLwCa8In) | 4:16 | 2024-07-19 | 2024-08-10 |
-| [ดี๊ดี \(DD\)](https://open.spotify.com/track/4j6JZUAvDWhx7aKVU1EKuy) | [PANPAN YEEYEE](https://open.spotify.com/artist/5xIZlZMfqO1ooXVB6RdVky) | [ดี๊ดี \(DD\)](https://open.spotify.com/album/2VYxxc6TT0XRkiAcnD04Xq) | 3:34 | 2026-09-25 |  |
+| [ดี๊ดี \(DD\)](https://open.spotify.com/track/4j6JZUAvDWhx7aKVU1EKuy) | [PANPAN YEEYEE](https://open.spotify.com/artist/5xIZlZMfqO1ooXVB6RdVky) | [ดี๊ดี \(DD\)](https://open.spotify.com/album/2VYxxc6TT0XRkiAcnD04Xq) | 3:34 | 2026-09-25 | 2026-10-10 |
 | [ตลอดไป](https://open.spotify.com/track/5eTOts5kvMHOVDMtOqY6uX) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [ตลอดไป](https://open.spotify.com/album/3pA4CJzeCiRpSSLSqt6NkY) | 4:46 | 2024-06-21 | 2024-07-13 |
 | [ตอนจบ \(The End\)](https://open.spotify.com/track/6lryBvGRXzKnBnAqFo5TBh) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [ตอนจบ \(The End\)](https://open.spotify.com/album/10LYLoV3aPCuFF6EQngRJd) | 4:29 | 2024-11-01 | 2026-05-30 |
 | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 | 2025-08-29 | 2025-10-04 |
@@ -241,7 +242,7 @@
 | [ยินดี \(With All My Heart\)](https://open.spotify.com/track/6hIVVx3x0Q3q45u9INj1bx) | [Bluedream](https://open.spotify.com/artist/0KFHTUubhWrWJ3IBGyQ6vS) | [ยินดี \(With All My Heart\)](https://open.spotify.com/album/4NVw32Cxrb8ePqOZAM9mZx) | 6:20 | 2025-12-26 | 2026-09-19 |
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-06-28 | 2024-07-06 |
 | [ยิ้มเธอ\(Still\)](https://open.spotify.com/track/19C1zQ4ChUqYzA17q7kexu) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [ยิ้มเธอ\(Still\)](https://open.spotify.com/album/0CH79nEW5Cq2epIlOyrShj) | 3:49 | 2024-06-21 | 2024-08-31 |
-| [ย้อน](https://open.spotify.com/track/3xd3G6dwfBYP2Ui5hNdzDx) | [reu](https://open.spotify.com/artist/73jWtoYEh1OYEnsF7cnVEQ) | [ย้อน](https://open.spotify.com/album/3AnO1SEz5z3Vr7vBaInDcR) | 5:12 | 2026-07-24 |  |
+| [ย้อน](https://open.spotify.com/track/3xd3G6dwfBYP2Ui5hNdzDx) | [reu](https://open.spotify.com/artist/73jWtoYEh1OYEnsF7cnVEQ) | [ย้อน](https://open.spotify.com/album/3AnO1SEz5z3Vr7vBaInDcR) | 5:12 | 2026-07-24 | 2026-10-10 |
 | [รถมันติด \(Romantic\)](https://open.spotify.com/track/1nifHQL0R1vZKYaoeqhJCM) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [รถมันติด \(Romantic\)](https://open.spotify.com/album/0NbbkbliUaaqnxYRNKDY44) | 4:14 | 2025-04-11 | 2025-05-03 |
 | [รักดีดีใกล้คุณ](https://open.spotify.com/track/11h7EE5Uh2Rbx9hdRaJL2A) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [รักดีดีใกล้คุณ](https://open.spotify.com/album/4pTEYzVcL4FWirueQDiFQA) | 4:11 | 2025-05-16 | 2025-05-31 |
 | [รักรักรัก \(you\)](https://open.spotify.com/track/2MJJxk6syNsix0WB400spD) | [SURFF](https://open.spotify.com/artist/0LJ6cw64d0z2B5oHIlaAt2) | [รักรักรัก \(you\)](https://open.spotify.com/album/6p9Mbk5hN3hzOVG0LbIoMq) | 3:38 | 2026-05-07 | 2026-05-30 |
@@ -253,6 +254,7 @@
 | [ร่วงโรยเมื่อร่ำลา](https://open.spotify.com/track/2tRF1BmQnXFshPHlnZtZxt) | [soulfear](https://open.spotify.com/artist/0Zb7SEEZlki0VYTlzUgMr4) | [ร่วงโรยเมื่อร่ำลา](https://open.spotify.com/album/67lRBzUYCX4zvssd84TrKo) | 6:03 | 2024-10-04 | 2024-10-26 |
 | [ร้องไห้ให้ตะโกน](https://open.spotify.com/track/7zGWA2OzsqtJGAmwY7LPGX) | [Sukid458](https://open.spotify.com/artist/6dWH3SSe9rYb2KvunPIvf4) | [ป็อป // เนทีฟ .](https://open.spotify.com/album/6wnSy6llpy3C9WE67A7XEK) | 5:04 | 2025-05-02 | 2025-05-31 |
 | [ฤดูกาล](https://open.spotify.com/track/3RoJDqOz2TZFU8WX5m1dB2) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ฤดูกาล](https://open.spotify.com/album/54qzPKYhtnigeFHpO4skrQ) | 3:57 | 2024-09-13 | 2024-10-05 |
+| [ฤดูที่สี่](https://open.spotify.com/track/7j2PkyP7bJ1Uc2VjlePMg6) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [SO HAPPY](https://open.spotify.com/album/2FYF9Hg1GwNQjTuSeykW79) | 4:47 | 2026-10-09 |  |
 | [ฤดูแห่งการจากไปไม่เคยลา \(Season\)](https://open.spotify.com/track/3YcjSNtmlxRgSbqxiS92cy) | [Intoverse](https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk) | [ฤดูแห่งการจากไปไม่เคยลา \(Season\)](https://open.spotify.com/album/7jbgesGx1hko4ICHHxpkdU) | 3:30 | 2026-07-10 | 2026-07-25 |
 | [ลบเลือนและจากลา](https://open.spotify.com/track/4mS8QF1wGqZDwBA5d4mAh1) | [23'O](https://open.spotify.com/artist/6EhSBsNJfsZiWYQUdjBkqB) | [ลบเลือนและจากลา](https://open.spotify.com/album/1sN7c3pcuYwWeNzAMtdI3j) | 4:34 | 2026-07-10 |  |
 | [ลมฝน \(By Your Side\)](https://open.spotify.com/track/1oNSDOwAjJUxFLQy2z5OcH) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [ลมฝน \(By Your Side\)](https://open.spotify.com/album/5E2cMAXwpBCYRMGaAWBVIV) | 4:39 | 2024-06-28 | 2024-08-24 |

@@ -216,7 +216,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 142150,
       "name": "AMAPOLA",
       "url": "https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 135695,
       "name": "LA ISLA",
       "url": "https://open.spotify.com/track/5TGRRjV16CXdNvitAsObIr"
@@ -3333,6 +3333,28 @@
     },
     {
       "album": {
+        "name": "Problematikoh",
+        "url": "https://open.spotify.com/album/0PzOWsRyj1XSE6ttFsMxQ7"
+      },
+      "artists": [
+        {
+          "name": "Dani Barranco",
+          "url": "https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Problematikoh",
+      "url": "https://open.spotify.com/track/301LYshJiRuZuqcIqUl4LB"
+    },
+    {
+      "album": {
         "name": "Quiero (TDH's Version)",
         "url": "https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL"
       },
@@ -3598,6 +3620,24 @@
       "duration_ms": 287013,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
+    },
+    {
+      "album": {
+        "name": "So no va",
+        "url": "https://open.spotify.com/album/6H3EMFja2m53vWjuI0QegB"
+      },
+      "artists": [
+        {
+          "name": "Neomai",
+          "url": "https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161352,
+      "name": "So no va",
+      "url": "https://open.spotify.com/track/2eW1rnObrBLEpsPXFYiiOZ"
     },
     {
       "album": {

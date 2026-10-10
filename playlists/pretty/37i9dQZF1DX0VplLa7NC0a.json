@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 43024,
+  "num_followers": 43030,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -499,30 +499,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: String Sonatas, Vol.2",
-        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
-      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "Rossini: Stabat Mater",
         "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 240911,
       "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
       "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
+        "name": "Rossini: String Sonatas, Vol.2",
+        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
+      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -671,58 +671,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
-        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Stefania Malagu",
-          "url": "https://open.spotify.com/artist/1OplrfSEa8wHadR2KLfAQS"
-        },
-        {
-          "name": "Teresa Berganza",
-          "url": "https://open.spotify.com/artist/6myXAUJ8cAp5oSXId946SJ"
-        },
-        {
-          "name": "Luigi Alva",
-          "url": "https://open.spotify.com/artist/3VvEDwzCTkx6W7yeTR3rua"
-        },
-        {
-          "name": "Hermann Prey",
-          "url": "https://open.spotify.com/artist/3gdchu3GRExh4tF8ypQc9Y"
-        },
-        {
-          "name": "Enzo Dara",
-          "url": "https://open.spotify.com/artist/03SZ5zVrrY9ydcNEqpaQrZ"
-        },
-        {
-          "name": "Paolo Montarsolo",
-          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
-        },
-        {
-          "name": "Ambrosian Opera Chorus",
-          "url": "https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 137200,
-      "name": "Il barbiere di Siviglia, Act II: No. 19, Finale. Di s\u00ec felice innesto",
-      "url": "https://open.spotify.com/track/75uhrNhZp5HrnCdB1foDUW"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "Rossini: Guillaume Tell",
         "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
       },
@@ -803,6 +751,58 @@
       "duration_ms": 499626,
       "name": "Variazzioni di clarinetto in C Major",
       "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
+        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
+        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Stefania Malagu",
+          "url": "https://open.spotify.com/artist/1OplrfSEa8wHadR2KLfAQS"
+        },
+        {
+          "name": "Teresa Berganza",
+          "url": "https://open.spotify.com/artist/6myXAUJ8cAp5oSXId946SJ"
+        },
+        {
+          "name": "Luigi Alva",
+          "url": "https://open.spotify.com/artist/3VvEDwzCTkx6W7yeTR3rua"
+        },
+        {
+          "name": "Hermann Prey",
+          "url": "https://open.spotify.com/artist/3gdchu3GRExh4tF8ypQc9Y"
+        },
+        {
+          "name": "Enzo Dara",
+          "url": "https://open.spotify.com/artist/03SZ5zVrrY9ydcNEqpaQrZ"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "Ambrosian Opera Chorus",
+          "url": "https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 137200,
+      "name": "Il barbiere di Siviglia, Act II: No. 19, Finale. Di s\u00ec felice innesto",
+      "url": "https://open.spotify.com/track/75uhrNhZp5HrnCdB1foDUW"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -1011,6 +1011,34 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
+        "name": "Rossini: Stabat Mater & Petite messe solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Agnes Baltsa",
+          "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Rossini: Stabat Mater: VII. Fac, ut portem Christi mortem",
+      "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
         "name": "Rossini: The Barber of Seville",
         "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
       },
@@ -1043,34 +1071,6 @@
       "duration_ms": 141933,
       "name": "Rossini: Il barbiere di Siviglia, Act 1: Canzone. \"Se il mio nome saper voi bramate\" (Conte, Rosina, Figaro)",
       "url": "https://open.spotify.com/track/7F9mkgZ8QsJkzzBwfjLApg"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
-        "name": "Rossini: Stabat Mater & Petite messe solennelle",
-        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Agnes Baltsa",
-          "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Rossini: Stabat Mater: VII. Fac, ut portem Christi mortem",
-      "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -1115,34 +1115,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: The Barber of Seville",
-        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        },
-        {
-          "name": "Beverly Sills",
-          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 349706,
-      "name": "Rossini: Il barbiere di Siviglia, Act 2: Cavatina. \"Una voce poco f\u00e0\" (Rosina)",
-      "url": "https://open.spotify.com/track/0UjKBsUrFqiKrMPddGh1vb"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "Rossini: Stabat Mater & Petite messe solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -1183,6 +1155,34 @@
       "duration_ms": 358600,
       "name": "Rossini: Stabat Mater: X. Amen. In sempiterna saecula",
       "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
+        "name": "Rossini: The Barber of Seville",
+        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        },
+        {
+          "name": "Beverly Sills",
+          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 349706,
+      "name": "Rossini: Il barbiere di Siviglia, Act 2: Cavatina. \"Una voce poco f\u00e0\" (Rosina)",
+      "url": "https://open.spotify.com/track/0UjKBsUrFqiKrMPddGh1vb"
     },
     {
       "added_at": "2025-12-15 11:47:15",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 210893,
       "name": "A Threnody For Modern Romance",
       "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 266653,
       "name": "Circle The Sky",
       "url": "https://open.spotify.com/track/5OW3hWZIfWIGa41N26sL6I"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 217000,
       "name": "Compromised",
       "url": "https://open.spotify.com/track/62bn0wrhmzWQzsBLQNGlwp"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 242906,
       "name": "Crowns",
       "url": "https://open.spotify.com/track/4prky9H55Mo5jy63BJY2Ao"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 186000,
       "name": "Endseekers",
       "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 259532,
       "name": "Fight For Your King",
       "url": "https://open.spotify.com/track/1nNBM1OIbedH3JIPILS9TJ"
@@ -2601,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "The Darker Shades Of White",
+        "url": "https://open.spotify.com/album/78F8FoDXoxFVhyfpior32O"
+      },
+      "artists": [
+        {
+          "name": "Corpus Christi",
+          "url": "https://open.spotify.com/artist/66jyCx26AB2Yqeu8GY8skR"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "It's Always Darkest Before The Dawn",
+      "url": "https://open.spotify.com/track/73zneYI9DlEbvcHvHbct4p"
+    },
+    {
+      "album": {
         "name": "I Swear",
         "url": "https://open.spotify.com/album/50yvqL4wCkCwqsDm2OSnst"
       },
@@ -2774,7 +2792,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 290360,
       "name": "Live Love Die",
       "url": "https://open.spotify.com/track/6r9GDen0w849Cobr7Ljgqe"
@@ -3653,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "Of Love And Lunacy",
+        "url": "https://open.spotify.com/album/6QiKYJ1Fa3n5wE8viOyRea"
+      },
+      "artists": [
+        {
+          "name": "Still Remains",
+          "url": "https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316466,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/6mjmLznkH7ZHHg0tzWQXIg"
+    },
+    {
+      "album": {
         "name": "The Lost, The Sick, The Sacred",
         "url": "https://open.spotify.com/album/2jgHxWbM646hmBqaJCXb0s"
       },
@@ -3736,7 +3772,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 218586,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4m7dudQWZ3Zr84WpssfcN4"
@@ -3988,7 +4024,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 260063,
       "name": "Salty Grave",
       "url": "https://open.spotify.com/track/4Lq9mauZAuMsdN29Mp7k39"
@@ -4179,6 +4215,24 @@
     },
     {
       "album": {
+        "name": "Redirect",
+        "url": "https://open.spotify.com/album/3Gmob4Lf05jLYPcbNOts9v"
+      },
+      "artists": [
+        {
+          "name": "Your Memorial",
+          "url": "https://open.spotify.com/artist/58Dja9fVx1ptmjkgQlDXwf"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235906,
+      "name": "Shipwreck",
+      "url": "https://open.spotify.com/track/6LLkb61U9uzCiJlBYkidUQ"
+    },
+    {
+      "album": {
         "name": "Savage Seas",
         "url": "https://open.spotify.com/album/5LMGiMfL3Crt3zDOvEqAUX"
       },
@@ -4262,7 +4316,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 223880,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w"
@@ -4280,7 +4334,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -4647,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "The Marriage Of Heaven And Hell",
+        "url": "https://open.spotify.com/album/2KXWlPgj7uMvB0JPXWN5aa"
+      },
+      "artists": [
+        {
+          "name": "A Plea for Purging",
+          "url": "https://open.spotify.com/artist/2KMe9muhC1eg1kQq6veejU"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225386,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5gcqdcjYGAqDMGWL9pRO1b"
+    },
+    {
+      "album": {
         "name": "Children Of Fire",
         "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
       },
@@ -4694,7 +4766,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 185200,
       "name": "The Finisher",
       "url": "https://open.spotify.com/track/2IrBOsPFanKlio8U55XUxc"
@@ -4766,7 +4838,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 182106,
       "name": "The High Life",
       "url": "https://open.spotify.com/track/3aDZYelKLWKySv2dq5WUmS"
@@ -4788,6 +4860,24 @@
       "duration_ms": 203826,
       "name": "The Impact Of Reason",
       "url": "https://open.spotify.com/track/5T8sMuNzpxsZlmOKFhGayj"
+    },
+    {
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/3k4aYVzOplQp6MTye2KlQ0"
+      },
+      "artists": [
+        {
+          "name": "MYCHILDREN MYBRIDE",
+          "url": "https://open.spotify.com/artist/4Uc6biA3i00oRAWvIfjhlk"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244573,
+      "name": "The Machinist",
+      "url": "https://open.spotify.com/track/2S12ujSo1DbsuAlS2NbNAv"
     },
     {
       "album": {
@@ -5058,7 +5148,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 230133,
       "name": "The Worst Is yet to Come",
       "url": "https://open.spotify.com/track/3T8WTbGrVFWI2eWrDqylTI"
@@ -5256,7 +5346,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 261013,
       "name": "This Ship, A Coffin",
       "url": "https://open.spotify.com/track/1UabJxjcG7QquUxbFNZDqM"
@@ -5544,7 +5634,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 258933,
       "name": "Vices Like Vipers",
       "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"
@@ -5940,7 +6030,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 189146,
       "name": "Wolf's Jaw",
       "url": "https://open.spotify.com/track/6Hv3BomCozhJmgBo9TUOCQ"

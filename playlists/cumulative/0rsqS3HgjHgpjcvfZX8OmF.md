@@ -4,7 +4,7 @@
 
 > The best and latest rock and alternative\. Cover:  Greta Van Fleet
 
-328 songs - 19 hr 40 min
+329 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Here and Now](https://open.spotify.com/track/5mx8Ka1gIGwIS4VIaCYRtR) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Here and Now](https://open.spotify.com/album/4M0F46mBr3ZNvE660SCBiC) | 3:31 | 2023-11-03 | 2024-01-27 |
 | [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 | 2026-04-24 |  |
 | [Hey Man](https://open.spotify.com/track/3zHSoUJTJtlJ8eL9qAGInn) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Hey Man](https://open.spotify.com/album/7M50WU6shdcokRPvQZdcb0) | 3:00 | 2025-02-14 | 2025-03-23 |
+| [Heya](https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Palace for the People](https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS) | 4:39 | 2026-10-09 |  |
 | [History](https://open.spotify.com/track/4MWKhUasdUFoxsOc9w1Feq) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:23 | 2023-11-03 | 2024-05-18 |
 | [Home](https://open.spotify.com/track/3hyV8JBxMuARHhVwVDj6Qx) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Home](https://open.spotify.com/album/2nQoXfaAd6ZFqb6ylCqySD) | 3:23 | 2025-05-23 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-05-17 |  |

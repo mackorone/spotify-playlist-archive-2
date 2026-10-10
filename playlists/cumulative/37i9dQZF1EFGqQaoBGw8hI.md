@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-757 songs - 2 day 4 hr 16 min
+758 songs - 2 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Black Icy Stare](https://open.spotify.com/track/0f7MOangrvhpeIHoOJVSJL) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 3:11 | 2022-09-08 |  |
 | [Blessed](https://open.spotify.com/track/4rKsQBxDysJWqXpY5TAekd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:02 | 2022-09-08 |  |
 | [Blue Avenue](https://open.spotify.com/track/6CK7N5K49iTzBnReWF89Nj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:18 | 2022-09-08 |  |
-| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 |  |
+| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 | 2026-10-10 |
 | [Blue Wonderful](https://open.spotify.com/track/5goFdE9LTs1r0JgVvOdMZ8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:37 | 2022-09-08 |  |
 | [Blues](https://open.spotify.com/track/6SIkDFZKXzXBddYshDrgvl) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Back Country Suite](https://open.spotify.com/album/6Fe7ELZVZw5Qn3vdVtOvvF) | 1:24 | 2026-02-12 | 2026-08-07 |
 | [Blues For Baby And Me](https://open.spotify.com/track/2MaW82qnGVIVTDi4KeA4Y8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:38 | 2022-09-08 |  |
@@ -409,6 +409,7 @@
 | [Mansfield](https://open.spotify.com/track/3I0Cw8Qy3vB1gy1W76GPyv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:53 | 2022-09-08 |  |
 | [Medicine Man](https://open.spotify.com/track/3dBrcMVXCjQq2c19gyVImX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:36 | 2023-05-26 |  |
 | [MEDLEY \- 1974年10月26日 ライブ at 中野サンプラザ](https://open.spotify.com/track/78bUCIVClCc1ZiuojgK6ml) | [Off Course](https://open.spotify.com/artist/5YQX51PLEtKQAKnMFt5jnG) | [秋ゆく街で オフコース・ライヴ・イン・コンサート \(1974年10月26日 ライブ at 中野サンプラザ\)](https://open.spotify.com/album/4KOdPyfbbuvILOQ8jGh5T1) | 6:14 | 2023-05-26 |  |
+| [Medley: Yell Help / Wednesday Night / Ugly](https://open.spotify.com/track/1wDOwrbOEQOrcSldtK2riK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 6:15 | 2026-10-09 |  |
 | [Meet Christine](https://open.spotify.com/track/7BvitHMNGMpGqhPtPgBppa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:32 | 2023-05-26 |  |
 | [Mellow](https://open.spotify.com/track/51Y1WwassIhqZYBwwaAjzr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:32 | 2022-09-08 |  |
 | [Mellow \- Remastered 2017](https://open.spotify.com/track/5rAnB8Ys3rFTmiXxMvEKbr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Château \(50th Anniversary Edition\)](https://open.spotify.com/album/30ey65p5ZWsi82MsferipB) | 5:32 | 2026-02-12 | 2026-03-16 |
@@ -442,7 +443,7 @@
 | [Never Too Old \(To Hold Somebody\)](https://open.spotify.com/track/14KH4059KdXdzTRVpjb5OU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:57 | 2022-09-08 |  |
 | [New World Order](https://open.spotify.com/track/3MIaMzfn268zyJxUboLAYc) | [Sam Sneed](https://open.spotify.com/artist/7fhSN2Pok7u6J2IER2MFeQ), [Ramaj](https://open.spotify.com/artist/3K2mfMVB6bAqyOzvljwUjz), [Shadow](https://open.spotify.com/artist/2lf0FYOB52skJWouVr7orA), [Atilio Jarquin](https://open.spotify.com/artist/5P0K08hWBiz3dkyditBr18), [Feab](https://open.spotify.com/artist/6JkkqbGQOIbpT4YN4ASBbJ) | [Street Scholars](https://open.spotify.com/album/0Dc2YMSF2zNj5ka8RQXKHg) | 4:05 | 2023-05-26 |  |
 | [Nice And Slow](https://open.spotify.com/track/0ThIeJpqmnxAb9XvWlSIjO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Complete Thom Bell Sessions](https://open.spotify.com/album/0EXubpxzIR0IoPJCCvJNDZ) | 4:40 | 2022-09-08 |  |
-| [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 | 2022-09-08 | 2026-10-08 |
+| [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 | 2022-09-08 |  |
 | [Nikita](https://open.spotify.com/track/0Nch1D9uPB4krd8eEmDWc0) | [Mel Jersey](https://open.spotify.com/artist/5hPk4VKUsJPYP8CEZ6y84t) | [25 Jahre Mel Jersey](https://open.spotify.com/album/36Yk30GImpsHXei1oEJGej) | 4:48 | 2023-05-26 |  |
 | [Nina \- Band Version](https://open.spotify.com/track/1rv2bzca6ilxwMynldXTyF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:42 | 2023-05-26 | 2023-06-16 |
 | [Nina \- Stereo Mix](https://open.spotify.com/track/3xjhO7i96jCZUgscFmrSTF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 3:52 | 2023-06-15 |  |

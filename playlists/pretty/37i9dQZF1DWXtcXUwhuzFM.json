@@ -1,6 +1,6 @@
 {
   "description": "Uutta musaa tarjoilevat Minttu, K\u00e4\u00e4rij\u00e4 & Joost, M//O... ja moni muu  \ud83c\udfb6",
-  "num_followers": 108799,
+  "num_followers": 108870,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -63,7 +63,7 @@
     {
       "added_at": "2026-10-08 21:00:31",
       "album": {
-        "name": "Jos (feat. emma & matilda) [Vain el\u00e4m\u00e4\u00e4 kausi 17]",
+        "name": "Jos (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
         "url": "https://open.spotify.com/album/5UPPfEuCgglu01okzgmuDn"
       },
       "artists": [
@@ -77,7 +77,7 @@
         }
       ],
       "duration_ms": 168191,
-      "name": "Jos (feat. emma & matilda) [Vain el\u00e4m\u00e4\u00e4 kausi 17]",
+      "name": "Jos (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
       "url": "https://open.spotify.com/track/2e2GOyK6ZRp33ZjcS5Hipa"
     },
     {
@@ -366,6 +366,10 @@
         {
           "name": "Valentin",
           "url": "https://open.spotify.com/artist/2U0XZostSwDFbAltZ59Liz"
+        },
+        {
+          "name": "Tursas",
+          "url": "https://open.spotify.com/artist/1gaiUznTioZVqNkyNh89WY"
         }
       ],
       "duration_ms": 147631,

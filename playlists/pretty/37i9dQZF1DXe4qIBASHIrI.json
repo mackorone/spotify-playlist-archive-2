@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 184868,
+  "num_followers": 184903,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Fruta (Vol. II)",
-        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Atemahawke",
         "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 260466,
       "name": "Host of a Ghost",
       "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Fruta (Vol. II)",
+        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Zo\u00e9",
-        "url": "https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 329573,
-      "name": "Deja Te Conecto",
-      "url": "https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Zo\u00e9",
+        "url": "https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 329573,
+      "name": "Deja Te Conecto",
+      "url": "https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Hola Chicuelos",
-        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "Al\u00f3",
-      "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Kiosko",
         "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 253501,
       "name": "Kiosko",
       "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Hola Chicuelos",
+        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Al\u00f3",
+      "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sistema Solar",
-        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
+        "name": "Lo Que Puedes Dar",
+        "url": "https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV"
       },
       "artists": [
         {
-          "name": "Disco Ruido",
-          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
+          "name": "Los Fascinantes",
+          "url": "https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ"
         }
       ],
-      "duration_ms": 249630,
-      "name": "Amorfos",
-      "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
+      "duration_ms": 172500,
+      "name": "Lo Que Puedes Dar",
+      "url": "https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Lo Que Puedes Dar",
-        "url": "https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV"
+        "name": "Sistema Solar",
+        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
       },
       "artists": [
         {
-          "name": "Los Fascinantes",
-          "url": "https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ"
+          "name": "Disco Ruido",
+          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Lo Que Puedes Dar",
-      "url": "https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV"
+      "duration_ms": 249630,
+      "name": "Amorfos",
+      "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
     },
     {
       "added_at": "2023-09-01 16:42:45",

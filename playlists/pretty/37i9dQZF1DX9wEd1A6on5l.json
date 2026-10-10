@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 121664,
+  "num_followers": 121705,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
         "name": "Breaking",
         "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "Still In Charge",
-        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 162284,
-      "name": "If You Like",
-      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "Ukanigbe",
-        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 169299,
-      "name": "Tumo Weto",
-      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
         "name": "fine ting (fine $hit)",
         "url": "https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 195375,
       "name": "fine ting (fine $hit)",
       "url": "https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
+        "name": "Ukanigbe",
+        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 169299,
+      "name": "Tumo Weto",
+      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
+        "name": "CHE",
+        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "CHE",
+      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
         "name": "Guide",
         "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
       },
@@ -1079,26 +1099,6 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "CHE",
-        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "CHE",
-      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 154268,
       "name": "Osusu",
       "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 154705,
-      "name": "2FRESH",
-      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -1171,6 +1155,22 @@
       "duration_ms": 399314,
       "name": "SNOKONOKO",
       "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 154705,
+      "name": "2FRESH",
+      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
         "name": "Happy Song",
         "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
       },
@@ -1303,6 +1323,22 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
+        "name": "Money Lingo",
+        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 159757,
+      "name": "Money Lingo",
+      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
         "name": "LAPOPIANO",
         "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
       },
@@ -1315,6 +1351,30 @@
       "duration_ms": 139285,
       "name": "LAPOPIANO",
       "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
+        "name": "Lalakula",
+        "url": "https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k"
+      },
+      "artists": [
+        {
+          "name": "Txmmyily",
+          "url": "https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 152635,
+      "name": "Lalakula",
+      "url": "https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -1395,22 +1455,26 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "Comfort",
-        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         },
         {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         }
       ],
-      "duration_ms": 146054,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+      "duration_ms": 169043,
+      "name": "Shuperu",
+      "url": "https://open.spotify.com/track/1OQsbva3p2g1ycxCVPC2gc"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -1431,46 +1495,6 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "Lalakula",
-        "url": "https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k"
-      },
-      "artists": [
-        {
-          "name": "Txmmyily",
-          "url": "https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 152635,
-      "name": "Lalakula",
-      "url": "https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
-        "name": "Waist",
-        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Waist",
-      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
         "name": "IRON ORE II",
         "url": "https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy"
       },
@@ -1487,22 +1511,6 @@
       "duration_ms": 150588,
       "name": "Turbulent Fellow",
       "url": "https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
-        "name": "Money Lingo",
-        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 159757,
-      "name": "Money Lingo",
-      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
     }
   ],
   "unique_name": "Party Dey!",

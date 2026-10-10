@@ -6,13 +6,29 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABOkpRRCyi03ItTb5Yiu5wKqWnjGDU1",
+  "snapshot_id": "AABOq1gdeLra7riiaJyOgLNutzqzO7fq",
   "tracks": [
     {
-      "added_at": "2026-10-07 14:07:25",
+      "added_at": "2026-10-09 09:01:11",
       "album": {
-        "name": "The Chancer",
-        "url": "https://open.spotify.com/album/0YJEyzPHAU994WtRaX8TuO"
+        "name": "Groundhogs",
+        "url": "https://open.spotify.com/album/3SClwr8xNs4bZKAI0fFJr8"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "duration_ms": 242842,
+      "name": "Groundhogs",
+      "url": "https://open.spotify.com/track/74HjFoxiIjUNVRqTpuEgqk"
+    },
+    {
+      "added_at": "2026-10-09 08:53:07",
+      "album": {
+        "name": "Stories They Don't Teach You At School",
+        "url": "https://open.spotify.com/album/39fk5BkpkgovhoE6CiMCRY"
       },
       "artists": [
         {
@@ -22,7 +38,79 @@
       ],
       "duration_ms": 268823,
       "name": "The Chancer",
-      "url": "https://open.spotify.com/track/74M9VwZ7aNDTQiJoEkrYYo"
+      "url": "https://open.spotify.com/track/22GuDLKmHUDgqy9TuZLnpc"
+    },
+    {
+      "added_at": "2026-10-09 08:53:22",
+      "album": {
+        "name": "Common Primitives",
+        "url": "https://open.spotify.com/album/5rjPRc6x392ERoVuU3L7C9"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        },
+        {
+          "name": "Masal",
+          "url": "https://open.spotify.com/artist/57AGvkrbizJE4lN2c5KYSq"
+        }
+      ],
+      "duration_ms": 497506,
+      "name": "Rudi\u2019s Dream \u2013 The Third Bardo",
+      "url": "https://open.spotify.com/track/4s9cTv0TB5ojNwyjBKrYjV"
+    },
+    {
+      "added_at": "2026-10-09 08:59:30",
+      "album": {
+        "name": "3TWI",
+        "url": "https://open.spotify.com/album/71lrTgzhtewRQQNSuuiqPe"
+      },
+      "artists": [
+        {
+          "name": "Fatima Al Qadiri",
+          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
+        },
+        {
+          "name": "Gumar",
+          "url": "https://open.spotify.com/artist/61dQpcMwAcjmpwD1APlE0C"
+        }
+      ],
+      "duration_ms": 164013,
+      "name": "ta3alay",
+      "url": "https://open.spotify.com/track/1AXlqkpLp2f1OV8R589IpJ"
+    },
+    {
+      "added_at": "2026-10-09 09:00:08",
+      "album": {
+        "name": "You Are Not That Special",
+        "url": "https://open.spotify.com/album/6EAZ38YS1zF0wPC1Va8y3T"
+      },
+      "artists": [
+        {
+          "name": "Si Begg",
+          "url": "https://open.spotify.com/artist/7nhc8jNe7dTkmv3UIF5iII"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "You Are Not That Special",
+      "url": "https://open.spotify.com/track/0rnyPyBNlqR3UTb2fpRRDi"
+    },
+    {
+      "added_at": "2026-10-09 08:53:45",
+      "album": {
+        "name": "The Chronicles of Gnowt (Vol 2)",
+        "url": "https://open.spotify.com/album/3CVFXNmW8bXOBMYYIfyFMl"
+      },
+      "artists": [
+        {
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        }
+      ],
+      "duration_ms": 740600,
+      "name": "Strangled",
+      "url": "https://open.spotify.com/track/0a6c2b3TFgjc6OFWwhYlZT"
     },
     {
       "added_at": "2026-10-07 14:07:38",
@@ -39,6 +127,134 @@
       "duration_ms": 154490,
       "name": "Loma Linda",
       "url": "https://open.spotify.com/track/7d6L6EpAyGAIdMzz29LXR7"
+    },
+    {
+      "added_at": "2026-10-09 08:58:59",
+      "album": {
+        "name": "Black Dogs",
+        "url": "https://open.spotify.com/album/5dEDHSXjvuFT66An0KIyjN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Nolan",
+          "url": "https://open.spotify.com/artist/4SmDPzaTSXaXsYYeLvr1x9"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Padfoot",
+      "url": "https://open.spotify.com/track/40kJg5eU1za0go9Eteu9fH"
+    },
+    {
+      "added_at": "2026-10-09 08:54:01",
+      "album": {
+        "name": "Moulded By Industry",
+        "url": "https://open.spotify.com/album/7BGKesbf8JwEbVn5hJu56Z"
+      },
+      "artists": [
+        {
+          "name": "William D. Drake",
+          "url": "https://open.spotify.com/artist/4BnxinUW0r1yyHqiDvw1Il"
+        }
+      ],
+      "duration_ms": 394234,
+      "name": "Distant Hills",
+      "url": "https://open.spotify.com/track/7b3uHA53KTQKBwlf9LC2IM"
+    },
+    {
+      "added_at": "2026-10-09 08:54:31",
+      "album": {
+        "name": "The Security System is Jacked Up",
+        "url": "https://open.spotify.com/album/4rba6wHinjHp0cv8bxKmZ9"
+      },
+      "artists": [
+        {
+          "name": "Starkey",
+          "url": "https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "The Security System is Jacked Up",
+      "url": "https://open.spotify.com/track/0XOIDTDc3ysX1cRHgYyjVn"
+    },
+    {
+      "added_at": "2026-10-09 08:57:49",
+      "album": {
+        "name": "Tyrant Sun",
+        "url": "https://open.spotify.com/album/2kK8AguqAdLEtxuxQXTHgo"
+      },
+      "artists": [
+        {
+          "name": "Sense Fracture",
+          "url": "https://open.spotify.com/artist/1izZ6suiYhavcv4x9GJXMJ"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Arena Rock",
+      "url": "https://open.spotify.com/track/5FvQtRbXGZ5IsDG5UckQfP"
+    },
+    {
+      "added_at": "2026-10-09 08:58:12",
+      "album": {
+        "name": "A Death Chant",
+        "url": "https://open.spotify.com/album/6zPVxk4FmstLjquuiWciTX"
+      },
+      "artists": [
+        {
+          "name": "Tenebra",
+          "url": "https://open.spotify.com/artist/0Ov31kq4IM5dMOLxfGFzsX"
+        }
+      ],
+      "duration_ms": 398386,
+      "name": "Death Chant",
+      "url": "https://open.spotify.com/track/3KimAfWICqZ9IgLx3dyJgI"
+    },
+    {
+      "added_at": "2026-10-09 08:59:49",
+      "album": {
+        "name": "Tomorrow For A Stone",
+        "url": "https://open.spotify.com/album/4H1txk0mJXjmNp7WA8XZWF"
+      },
+      "artists": [
+        {
+          "name": "Langan, Frost & Wane",
+          "url": "https://open.spotify.com/artist/1UAm9BVUda86ALCfiBKzwD"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Coal-Eyed Sunrise",
+      "url": "https://open.spotify.com/track/0dncpGP9pJCiARfOEwEMXI"
+    },
+    {
+      "added_at": "2026-10-09 09:00:30",
+      "album": {
+        "name": "Night Blooming Jasmine",
+        "url": "https://open.spotify.com/album/1azUtXWkwDnHCcDZI74cHg"
+      },
+      "artists": [
+        {
+          "name": "XAM Duo",
+          "url": "https://open.spotify.com/artist/4gkMjhOHSgudaN161imvTQ"
+        }
+      ],
+      "duration_ms": 129669,
+      "name": "Night Blooming Jasmine",
+      "url": "https://open.spotify.com/track/2rTLwpbCVdObDYxZPNtM0x"
+    },
+    {
+      "added_at": "2026-10-09 09:02:06",
+      "album": {
+        "name": "V\u00f6r\u00f6s Foly\u00f3 / Amoutu",
+        "url": "https://open.spotify.com/album/4tHaaAbdTngERAaEtgFm9B"
+      },
+      "artists": [
+        {
+          "name": "V\u00cdZ",
+          "url": "https://open.spotify.com/artist/63J9Mq346A6mBQS44syKYf"
+        }
+      ],
+      "duration_ms": 221542,
+      "name": "V\u00f6r\u00f6s Foly\u00f3",
+      "url": "https://open.spotify.com/track/5nk1KYt5CY9taUAsOskoHT"
     },
     {
       "added_at": "2026-10-07 14:06:16",
@@ -1487,302 +1703,6 @@
       "duration_ms": 297840,
       "name": "Gouge",
       "url": "https://open.spotify.com/track/5nz7G2OyWBe8vhXWD2jE09"
-    },
-    {
-      "added_at": "2026-09-11 14:54:24",
-      "album": {
-        "name": "Goon Club Allstars & Friends Volume 3",
-        "url": "https://open.spotify.com/album/3VPRZjZSvijNAzV3KiRnBA"
-      },
-      "artists": [
-        {
-          "name": "Surreal Sessions",
-          "url": "https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E"
-        }
-      ],
-      "duration_ms": 226197,
-      "name": "Dragon Warrior",
-      "url": "https://open.spotify.com/track/63A5y9w3tPliujoBhamAYI"
-    },
-    {
-      "added_at": "2026-09-11 15:01:26",
-      "album": {
-        "name": "Irene",
-        "url": "https://open.spotify.com/album/2ByQRnLGFpQn8fDpepduHk"
-      },
-      "artists": [
-        {
-          "name": "The Baby Seals",
-          "url": "https://open.spotify.com/artist/6dPxlBjTjehWM4VRwl2bmw"
-        }
-      ],
-      "duration_ms": 390266,
-      "name": "Irene",
-      "url": "https://open.spotify.com/track/2Ed3OHkXvYtlaJwkFJUqb9"
-    },
-    {
-      "added_at": "2026-09-11 14:54:52",
-      "album": {
-        "name": "Valmistaudu sotaan",
-        "url": "https://open.spotify.com/album/4QS7jCFhoettyshVNzC88l"
-      },
-      "artists": [
-        {
-          "name": "Kohti Tuhoa",
-          "url": "https://open.spotify.com/artist/0lZWMjVWFHrSulpGmIqUXf"
-        }
-      ],
-      "duration_ms": 121893,
-      "name": "Valmistaudu sotaan",
-      "url": "https://open.spotify.com/track/1KEglfjAWflSPzT5BpYqex"
-    },
-    {
-      "added_at": "2026-09-11 14:55:11",
-      "album": {
-        "name": "becoming tardigrade",
-        "url": "https://open.spotify.com/album/1UsbdafIZQRpoE6f6z70JD"
-      },
-      "artists": [
-        {
-          "name": "Big Flowers",
-          "url": "https://open.spotify.com/artist/0NhPSg4BoR15rey1i0orN9"
-        }
-      ],
-      "duration_ms": 167737,
-      "name": "becoming tardigrade",
-      "url": "https://open.spotify.com/track/5kSkj2rTZCsMNqb7wYRGy4"
-    },
-    {
-      "added_at": "2026-09-11 14:58:32",
-      "album": {
-        "name": "Bj\u00e4rtr\u00e5 Tv\u00e5",
-        "url": "https://open.spotify.com/album/35ZJwivzWUkyp1kKdFfMSo"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 311415,
-      "name": "Bj\u00e4rtr\u00e5 Tv\u00e5",
-      "url": "https://open.spotify.com/track/1WZ5oEaCTLUw5ZsfCF2upX"
-    },
-    {
-      "added_at": "2026-09-11 14:58:12",
-      "album": {
-        "name": "Outlier (Edit)",
-        "url": "https://open.spotify.com/album/4qKlKlog4OxYRRIVjDEyy0"
-      },
-      "artists": [
-        {
-          "name": "Ye Gods",
-          "url": "https://open.spotify.com/artist/2zyltGXZo5v2S42ucaGJFx"
-        }
-      ],
-      "duration_ms": 310696,
-      "name": "Outlier - Edit",
-      "url": "https://open.spotify.com/track/7MTEyth4c7v6vDlmTKUmGz"
-    },
-    {
-      "added_at": "2026-09-11 14:55:31",
-      "album": {
-        "name": "Ghostwriter I",
-        "url": "https://open.spotify.com/album/4RlRK8B4SNExzFlaPUf1Tv"
-      },
-      "artists": [
-        {
-          "name": "Raz Mesinai",
-          "url": "https://open.spotify.com/artist/4iY5ZMs1Li6MvY24CBfb9Y"
-        }
-      ],
-      "duration_ms": 422225,
-      "name": "Ghostwriter I",
-      "url": "https://open.spotify.com/track/3aDL41Xq0QAy8X7hF8QfjU"
-    },
-    {
-      "added_at": "2026-09-11 14:55:54",
-      "album": {
-        "name": "Hemorrhoid / Sequestrum- Split",
-        "url": "https://open.spotify.com/album/2POUeoBpywrQgrJezBmYYh"
-      },
-      "artists": [
-        {
-          "name": "Hemorrhoid",
-          "url": "https://open.spotify.com/artist/1MPDiabKkyc5TwZebLEikV"
-        }
-      ],
-      "duration_ms": 102800,
-      "name": "Desecrated Cavity",
-      "url": "https://open.spotify.com/track/64AgCfae6fFtFhdZngolVC"
-    },
-    {
-      "added_at": "2026-09-11 14:59:22",
-      "album": {
-        "name": "Was It Just A Dream?",
-        "url": "https://open.spotify.com/album/6mIE4jkxPilYhFHGWWGn5J"
-      },
-      "artists": [
-        {
-          "name": "Talulah Gosh",
-          "url": "https://open.spotify.com/artist/3twRxnjZrSKByPGQErO6V8"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "Talulah Gosh",
-      "url": "https://open.spotify.com/track/0mhiRVYz3cremvtoolEMuh"
-    },
-    {
-      "added_at": "2026-09-11 14:56:11",
-      "album": {
-        "name": "Going Through",
-        "url": "https://open.spotify.com/album/1J1MHpPHONiDXgC6nArMQJ"
-      },
-      "artists": [
-        {
-          "name": "Sofftness",
-          "url": "https://open.spotify.com/artist/1YjWGmLZpholGUwgCf38tk"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Going Through",
-      "url": "https://open.spotify.com/track/36OYegU6DfijLaihqxxvfM"
-    },
-    {
-      "added_at": "2026-09-11 14:57:51",
-      "album": {
-        "name": "Giga",
-        "url": "https://open.spotify.com/album/3BLhfI4eiqQRrIxXSafL6T"
-      },
-      "artists": [
-        {
-          "name": "Renato Grieco",
-          "url": "https://open.spotify.com/artist/6z6HOPiwpYTFdSRWGvyYHk"
-        }
-      ],
-      "duration_ms": 200759,
-      "name": "Giga",
-      "url": "https://open.spotify.com/track/5sj3yzjsd2e2RDjqtDanFW"
-    },
-    {
-      "added_at": "2026-09-11 14:51:33",
-      "album": {
-        "name": "Red Sulphur",
-        "url": "https://open.spotify.com/album/34WuQ3HR45VyfJtknqWpJz"
-      },
-      "artists": [
-        {
-          "name": "Tyshawn Sorey",
-          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
-        },
-        {
-          "name": "Pat Thomas",
-          "url": "https://open.spotify.com/artist/5TokO3SV9TPaGArsR5nyYa"
-        }
-      ],
-      "duration_ms": 2366000,
-      "name": "Red Sulphur",
-      "url": "https://open.spotify.com/track/1hB5Me4FuJaqSwnRlUAM2L"
-    },
-    {
-      "added_at": "2026-08-28 09:43:57",
-      "album": {
-        "name": "Miss U (Broken Mix)",
-        "url": "https://open.spotify.com/album/48nLoqSRrSoiaHYWPrUhId"
-      },
-      "artists": [
-        {
-          "name": "The Bug",
-          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
-        },
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 201974,
-      "name": "Miss U - Broken Mix",
-      "url": "https://open.spotify.com/track/6fE8Agt7ce2vXHjRExiyiX"
-    },
-    {
-      "added_at": "2026-08-28 09:44:17",
-      "album": {
-        "name": "Sliddim",
-        "url": "https://open.spotify.com/album/2FQFRPQ2lsQCsQef5GuLev"
-      },
-      "artists": [
-        {
-          "name": "Lean Low",
-          "url": "https://open.spotify.com/artist/7A9q57PZ1UYY61rQVQKNUz"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Sliddim",
-      "url": "https://open.spotify.com/track/0cuufPVsMRQpYNnVAuxcST"
-    },
-    {
-      "added_at": "2026-08-28 09:38:02",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0HhF9CYk6418VxHXtH4eIN"
-      },
-      "artists": [
-        {
-          "name": "Starkey",
-          "url": "https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK"
-        }
-      ],
-      "duration_ms": 338028,
-      "name": "Time Out",
-      "url": "https://open.spotify.com/track/0mknb4LSg5Es50uDxPj2Ry"
-    },
-    {
-      "added_at": "2026-08-28 09:42:47",
-      "album": {
-        "name": "A Voralberg Of The Mind",
-        "url": "https://open.spotify.com/album/5WAgaF8SzyfmaJRyUaZAPg"
-      },
-      "artists": [
-        {
-          "name": "The Van Pelt",
-          "url": "https://open.spotify.com/artist/3EhFI2URDazN3fp9PqHLrt"
-        }
-      ],
-      "duration_ms": 231645,
-      "name": "A Voralberg Of The Mind",
-      "url": "https://open.spotify.com/track/1bXK1ggZyNm8m3nkLlHdU4"
-    },
-    {
-      "added_at": "2026-08-28 09:36:16",
-      "album": {
-        "name": "Slime",
-        "url": "https://open.spotify.com/album/63prNQIV0b0ZQsk1wG8dT0"
-      },
-      "artists": [
-        {
-          "name": "Laughter",
-          "url": "https://open.spotify.com/artist/5zEmgwhR5Rha4crl1jW8HQ"
-        }
-      ],
-      "duration_ms": 138761,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/2zlwaE3XqOkNAam42AZnBc"
-    },
-    {
-      "added_at": "2026-08-28 09:36:57",
-      "album": {
-        "name": "Not Asking for Much",
-        "url": "https://open.spotify.com/album/7kuaZ8QgFbTcATvb7zFjoK"
-      },
-      "artists": [
-        {
-          "name": "Rat Cage",
-          "url": "https://open.spotify.com/artist/3cL7KGXKM6HIest6nV0ZQK"
-        }
-      ],
-      "duration_ms": 177620,
-      "name": "Cracks They Show",
-      "url": "https://open.spotify.com/track/4vUE41Wu9mxu9huREAAsoL"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 103550,
+  "num_followers": 103577,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAP2TtFqqDwcjoqLiw3SAnj",
+  "snapshot_id": "asbdAAAAAADEW4vF5Ruu/WqhbvllwzG8",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 163120,
-      "name": "Feel complete",
-      "url": "https://open.spotify.com/track/2bBh5UwbVLkA3WB44iXBye"
+      "duration_ms": 136573,
+      "name": "True romance",
+      "url": "https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 136573,
-      "name": "True romance",
-      "url": "https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ"
+      "duration_ms": 163120,
+      "name": "Feel complete",
+      "url": "https://open.spotify.com/track/2bBh5UwbVLkA3WB44iXBye"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Sun: Girls Trip",
-        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 171736,
-      "name": "Midnight Sun - Girls Trip",
-      "url": "https://open.spotify.com/track/2FHGYrQEmuWGX24QoQtQ13"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
         "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 172151,
       "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
       "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Sun: Girls Trip",
+        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 171736,
+      "name": "Midnight Sun - Girls Trip",
+      "url": "https://open.spotify.com/track/2FHGYrQEmuWGX24QoQtQ13"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EUSEXUA Afterglow",
-        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Wild And Alone (feat. PinkPantheress)",
-      "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Melodic Blue (Deluxe)",
         "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 215679,
       "name": "killstreaks (with Don Toliver & PinkPantheress)",
       "url": "https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EUSEXUA Afterglow",
+        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Wild And Alone (feat. PinkPantheress)",
+      "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
     },
     {
       "added_at": null,
@@ -755,30 +755,6 @@
       "duration_ms": 218117,
       "name": "Kiss Me Thru The Phone pt 2 (with PinkPantheress)",
       "url": "https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don\u2019t Get Too Close",
-        "url": "https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 119314,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6aE1kHca8lxdIDMgZwAwfJ"
     },
     {
       "added_at": null,

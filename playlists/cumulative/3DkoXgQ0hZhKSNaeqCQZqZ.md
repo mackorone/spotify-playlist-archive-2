@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-598 songs - 1 day 7 hr 52 min
+599 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Energy Drink](https://open.spotify.com/track/6T8KeH4lZDTnQeaxRkTwTn) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs), [MetaArchion](https://open.spotify.com/artist/7CvkeLyEIzGdsUNPet1l2P), [Kaito Fox](https://open.spotify.com/artist/2AlBONFADL42MfVe9yFCpF) | [SDM 01: The Beginning](https://open.spotify.com/album/2jzBQjYGit8ZthH6LAPLjp) | 2:42 | 2025-08-24 |  |
 | [ENJOY THE MOMENT!](https://open.spotify.com/track/59mcok7es5pAOcQGU2RSqU) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [FAIRY](https://open.spotify.com/album/3el8ORbUoeVju2nQVCpnv4) | 2:23 | 2023-06-14 | 2026-03-01 |
 | [Enough](https://open.spotify.com/track/3AuyWBT0bkOuD1YFXySUi3) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Enough](https://open.spotify.com/album/6RQs4kCyXo5B4SoFiYIEiq) | 4:13 | 2023-06-14 | 2026-03-01 |
+| [EVERLASTING](https://open.spotify.com/track/0nmhfTCZXU2cBJR53b6QZm) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [EVERLASTING](https://open.spotify.com/album/1YFcxKF5BRW33FYz25FqHy) | 2:38 | 2026-10-09 |  |
 | [EVERY SECOND COUNTS](https://open.spotify.com/track/37efM38CJZTstn8l7ZrufL) | [flatroom !!](https://open.spotify.com/artist/3oeqmvHqZaCf0gdCK0Eo4C) | [EVERY SECOND COUNTS](https://open.spotify.com/album/5tK1KX4H4QicRcrlKgSm72) | 4:22 | 2026-06-30 |  |
 | [Everything Stays](https://open.spotify.com/track/6YwumfxAPcsXIAbx6DVimv) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Data Soup Demos](https://open.spotify.com/album/5CWYFxQJrUcIJGCCyLVszB) | 1:27 | 2023-12-19 |  |
 | [everything tonight](https://open.spotify.com/track/3TOvGHN3gxa4LlwI529y4U) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [post con obsession](https://open.spotify.com/album/6EOzJWPNRqT9AvnAngqhP4) | 3:00 | 2026-09-13 |  |

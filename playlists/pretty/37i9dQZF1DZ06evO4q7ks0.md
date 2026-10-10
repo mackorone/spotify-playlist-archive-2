@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,888 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,946 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 49 | [Intro / Dreaming My Dreams \- Live MTV Unplugged](https://open.spotify.com/track/002yi5PoiijJ9Rxmo4ucs7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:39 |
 | 50 | [Dying Inside](https://open.spotify.com/track/71yv2oUlDswarpajuXlw5O) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/592j1syleeHJWGP5a4kYPm) | 3:10 |
 
-Snapshot ID: `asLogAAAAACnMQ8o9wglYr4QK9NmRPKp`
+Snapshot ID: `asbdAAAAAACcXqrXCy5J3QkDmDqAzicn`

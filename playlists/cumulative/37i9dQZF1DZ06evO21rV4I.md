@@ -4,7 +4,7 @@
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-174 songs - 9 hr 51 min
+175 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Abracadabra \- Remix](https://open.spotify.com/track/7CDmOoIXrtknQN5zcpHRBr) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Abracadabra \(Remix\)](https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3) | 2:52 | 2023-02-16 | 2024-03-29 |
 | [African Bad Gyal \(feat\. Chris Brown\)](https://open.spotify.com/track/4FRKGdgOh9G5sub5GiknfS) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:25 | 2022-01-21 | 2022-09-07 |
 | [Alaye](https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:35 | 2026-01-25 |  |
-| [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 | 2026-07-08 |  |
+| [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/4LMRZo0fJ9UcfvVqvsn6CY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 3:27 | 2026-10-10 |  |
+| [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 | 2026-07-08 | 2026-10-10 |
 | [All For Love \(feat\. Bucie\)](https://open.spotify.com/track/73J7ROhWCZB9UDHombzlSr) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 4:25 | 2021-12-28 | 2022-09-02 |
 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 | 2021-12-28 | 2024-12-03 |
 | [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:47 | 2026-06-14 | 2026-07-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,588 likes - 346 songs - 21 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,589 likes - 346 songs - 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 93 | [Violet Chemistry](https://open.spotify.com/track/4C2Y3Y2x2PbOqwdNBuLjP3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 4:06 |
 | 94 | [Dressed In Black](https://open.spotify.com/track/1ruNslbgoiZk8e1vP0lY6j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 6:40 |
 | 95 | [You Don't Know](https://open.spotify.com/track/1nkRwGuEnySwY2PbdT25Hb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [The Bigger Picture](https://open.spotify.com/album/5shtXocLO7yZoLsztFHhqF) | 2:47 |
-| 96 | [Free the Animal](https://open.spotify.com/track/5J8MPzzufgbhutBl8gEr6r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:24 |
-| 97 | [Ranjha](https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Ranjha](https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX) | 3:04 |
+| 96 | [Ranjha](https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Ranjha](https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX) | 3:04 |
+| 97 | [Free the Animal](https://open.spotify.com/track/5J8MPzzufgbhutBl8gEr6r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:24 |
 | 98 | [Opportunity](https://open.spotify.com/track/4RlEfpp0p8TzRwseTUA4fp) | [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:06 |
 | 99 | [Fear](https://open.spotify.com/track/5WfBl43XUcWng7OnB8LKNW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fear](https://open.spotify.com/album/2wmvVAqB2sAiJQpp2pRWcD) | 4:40 |
 | 100 | [Puppies Are Forever](https://open.spotify.com/track/5Uj1LL6HaSFYlfyC6o42ZC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:43 |
@@ -227,8 +227,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 217 | [Rise Up \- Eurovision Version](https://open.spotify.com/track/3URAsM2IY2WIdaMH5vEXhP) | [Freaky Fortune](https://open.spotify.com/artist/5cRocmkAjNUol2bK9v2Ce0), [Riskykidd](https://open.spotify.com/artist/3lDfsS6EuLofMXRdKpypb2) | [Rise Up](https://open.spotify.com/album/5Sk1E8KFSoJvC3S0nibehQ) | 3:02 |
 | 218 | [Naughty & Nice](https://open.spotify.com/track/0EqvLk3Y74nDMsuUo8nQeT) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 2:10 |
 | 219 | [Nowhere To Be](https://open.spotify.com/track/0MBw7KEU6wxhhRTD3j4qpv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:16 |
-| 220 | [Sweet Potato](https://open.spotify.com/track/0X5REyeiMlUl1YJqsjXW3w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 3:56 |
-| 221 | [Boogie's in My Soul](https://open.spotify.com/track/24xKQ8UaZQpcYr7HVB6wQd) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:42 |
+| 220 | [Boogie's in My Soul](https://open.spotify.com/track/24xKQ8UaZQpcYr7HVB6wQd) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:42 |
+| 221 | [Sweet Potato](https://open.spotify.com/track/0X5REyeiMlUl1YJqsjXW3w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 3:56 |
 | 222 | [Stronger Than Ever](https://open.spotify.com/track/0GzrDJVavYZpA8Hc6MRxuU) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:15 |
 | 223 | [Wonderful](https://open.spotify.com/track/2St9phLphjLD3e0tpZV4tH) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Phases](https://open.spotify.com/album/5dAuovYBdntbFoq6xFScts) | 3:12 |
 | 224 | [Snowman \(feat\. Belinda\)](https://open.spotify.com/track/7tQ5cliSQxT7kv2OAxgy7s) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Snowman](https://open.spotify.com/album/6ABuOE8UhKiIiG0nK0fyUb) | 2:59 |
@@ -281,8 +281,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 271 | [Sober and Unkissed](https://open.spotify.com/track/6ll48HRbmGzB5zFK6LwBnJ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:01 |
 | 272 | [I Am Sound](https://open.spotify.com/track/3EVkoL8q7HJTSTXrBuXeGe) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF) | 3:59 |
 | 273 | [Healing Is Difficult](https://open.spotify.com/track/1L5HyFVKEBVhIix8jjsnCn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 5:24 |
-| 274 | [A l'infini](https://open.spotify.com/track/7oHVGXUDXt8BzyRUQl41nN) | [TAL](https://open.spotify.com/artist/6JLwyyc3LBwRXEODjugQ4D) | [A L'Infini](https://open.spotify.com/album/3qiBmE73Lu3J8BQwUQ6rig) | 3:28 |
-| 275 | [Chakzilla](https://open.spotify.com/track/7dbkt5orbeFZD6Kx3kYtG2) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:27 |
+| 274 | [Chakzilla](https://open.spotify.com/track/7dbkt5orbeFZD6Kx3kYtG2) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:27 |
+| 275 | [A l'infini](https://open.spotify.com/track/7oHVGXUDXt8BzyRUQl41nN) | [TAL](https://open.spotify.com/artist/6JLwyyc3LBwRXEODjugQ4D) | [A L'Infini](https://open.spotify.com/album/3qiBmE73Lu3J8BQwUQ6rig) | 3:28 |
 | 276 | [ADHD](https://open.spotify.com/track/3VVE1ZkBoIgDhHHIPGQvQh) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:23 |
 | 277 | [I'm Not Important to You](https://open.spotify.com/track/3gbadh6pdgrLspW6zDHq7E) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 6:08 |
 | 278 | [Der Meister grillt](https://open.spotify.com/track/2Q1kubblCZ0uWJyAfBLN23) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [SpongeBob \- Der Meister grillt](https://open.spotify.com/album/51qkp1oYlVbW1XwFseNrYf) | 3:38 |
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 345 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 346 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcebbgAAAACi6jaM8SjKA3HPM9MvdD9M`
+Snapshot ID: `AcehDgAAAABLsyGicmhZjeN26TVLODb1`

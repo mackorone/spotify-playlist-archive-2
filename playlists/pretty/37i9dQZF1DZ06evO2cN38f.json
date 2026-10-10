@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1877,
+  "num_followers": 1880,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADlxEzTXeKSw0QgRpDpGX3F",
+  "snapshot_id": "asbdAAAAAAAoQl48ffMT+uc8sb/b6glT",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 246095,
+      "name": "Bite The Bait",
+      "url": "https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play With The Changes (Remixed)",
         "url": "https://open.spotify.com/album/26w4mlBTB8ykwRpJK3iOr1"
       },
@@ -139,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/6TSLDMY1tljUJPPiPKAZPz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Didn't Mean To Turn You On (with Rochelle Jordan)",
         "url": "https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE"
       },
@@ -155,22 +187,6 @@
       "duration_ms": 240000,
       "name": "Didn't Mean To Turn You On - with Rochelle Jordan",
       "url": "https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/6TSLDMY1tljUJPPiPKAZPz"
     },
     {
       "added_at": null,
@@ -207,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You Done",
-        "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 174048,
-      "name": "What You Done",
-      "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
@@ -239,22 +235,6 @@
       "duration_ms": 237929,
       "name": "Already",
       "url": "https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "The Boy",
-      "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
     },
     {
       "added_at": null,
@@ -275,6 +255,42 @@
       "duration_ms": 208375,
       "name": "Promises (feat. Rochelle Jordan)",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 214026,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What You Done",
+        "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "duration_ms": 174048,
+      "name": "What You Done",
+      "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
     },
     {
       "added_at": null,
@@ -320,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 246095,
-      "name": "Bite The Bait",
-      "url": "https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf"
+      "duration_ms": 223921,
+      "name": "Ladida",
+      "url": "https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI"
     },
     {
       "added_at": null,
@@ -384,29 +400,29 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 223921,
-      "name": "Ladida",
-      "url": "https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI"
+      "duration_ms": 249429,
+      "name": "Sum",
+      "url": "https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I'm Your Muse (Ron Trent Remix)",
-        "url": "https://open.spotify.com/album/2Sb9r7GIuHmpKQFhhgR3MF"
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
       "artists": [
         {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
         },
         {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 476763,
-      "name": "I'm Your Muse - Ron Trent Remix",
-      "url": "https://open.spotify.com/track/1Ibi14wy23kq9YxWu5BOUn"
+      "duration_ms": 186123,
+      "name": "Sumthin Crazy (with Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
     },
     {
       "added_at": null,
@@ -452,78 +468,6 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 249429,
-      "name": "Sum",
-      "url": "https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Around (Shanti Celeste Remix)",
-        "url": "https://open.spotify.com/album/4dDEMNSFNSbRaxM78VQGOB"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
-        }
-      ],
-      "duration_ms": 390426,
-      "name": "Around - Shanti Celeste Remix",
-      "url": "https://open.spotify.com/track/4ZdbTHeya4bV0fAPi36lm0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "never worry",
-        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Sumthin Crazy (with Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 253462,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
       "duration_ms": 240099,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj"
@@ -543,6 +487,38 @@
       "duration_ms": 210266,
       "name": "Losing",
       "url": "https://open.spotify.com/track/2nZALEvdQ3n3tIP84kneP3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Sidiooo, Vol. 1",
+        "url": "https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 119443,
+      "name": "Tour Bus",
+      "url": "https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 253462,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv"
     },
     {
       "added_at": null,
@@ -567,22 +543,6 @@
       "duration_ms": 266402,
       "name": "Raven - TYGAPAW Remix feat. Rochelle Jordan",
       "url": "https://open.spotify.com/track/7fvqv5Ou098lxPlVGrwuAG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Sidiooo, Vol. 1",
-        "url": "https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 119443,
-      "name": "Tour Bus",
-      "url": "https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD"
     },
     {
       "added_at": null,
@@ -619,26 +579,6 @@
       "duration_ms": 222344,
       "name": "Slow",
       "url": "https://open.spotify.com/track/19F8OeoZrLMg1O2X3KwyE4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DREAMZ COME TRUE",
-        "url": "https://open.spotify.com/album/5RNcA6ZV7lznodJcCEhfWA"
-      },
-      "artists": [
-        {
-          "name": "JIMMY EDGAR",
-          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 224027,
-      "name": "DREAMZ COME TRUE",
-      "url": "https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey"
     }
   ],
   "unique_name": "This Is Rochelle Jordan",

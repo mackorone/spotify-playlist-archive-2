@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,510 likes - 73 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,513 likes - 73 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 | 64 | [Rain Dance \(Barsan Laagi\)](https://open.spotify.com/track/5tpbNwiHBY3HocFQGLGH7s) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Haritha Raj](https://open.spotify.com/artist/2dVodnLDTczyG2msjEqrqA) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:16 |
 | 65 | [Aisi Woh Baarish](https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aisi Woh Baarish](https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG) | 3:07 |
 | 66 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
-| 67 | [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 |
+| 67 | [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 |
 | 68 | [Baarish Aayi Hai](https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Baarish Aayi Hai](https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc) | 3:17 |
 | 69 | [Main Aur Tum](https://open.spotify.com/track/5DdwOYaO8qF9wEphjjmFM0) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Main Aur Tum \- Single](https://open.spotify.com/album/1OWIwIqD7d8dq9oRSYczJD) | 3:45 |
 | 70 | [Ja Tujhko](https://open.spotify.com/track/4oZyNzIZYJ6EpKDqfXdIL9) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko](https://open.spotify.com/album/7x7egjskigZhb8AkhxB3t0) | 6:05 |

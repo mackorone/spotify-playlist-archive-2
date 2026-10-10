@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Brothers. The essential tracks, all in one playlist.",
-  "num_followers": 423378,
+  "num_followers": 423424,
   "original_name": "This Is Jonas Brothers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABmJdnNpJ3TMljHg7IZvjPs",
+  "snapshot_id": "asbdAAAAAACDhwkHxP4HYHdOB0KQ4hmI",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Name Chapter: FREEFALL",
-        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
       },
       "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
         {
           "name": "Jonas Brothers",
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 145065,
-      "name": "Do It Like That",
-      "url": "https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX"
+      "duration_ms": 228506,
+      "name": "Shelf",
+      "url": "https://open.spotify.com/track/6JClrE2ZWWIysR4052PGO1"
     },
     {
       "added_at": null,
@@ -387,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happen To Me (feat. Jonas Brothers)",
-        "url": "https://open.spotify.com/album/5N1V6vJk94GiTmjuM5ZXID"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
       },
       "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        },
         {
           "name": "Jonas Brothers",
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 183615,
-      "name": "Happen To Me (feat. Jonas Brothers)",
-      "url": "https://open.spotify.com/track/6XxFrC6s8An9ZZ52uAN4AV"
+      "duration_ms": 126444,
+      "name": "Celebrate!",
+      "url": "https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf"
     },
     {
       "added_at": null,
@@ -423,34 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
       },
       "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
         {
           "name": "Jonas Brothers",
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Shelf",
-      "url": "https://open.spotify.com/track/6JClrE2ZWWIysR4052PGO1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 126444,
-      "name": "Celebrate!",
-      "url": "https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf"
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX"
     },
     {
       "added_at": null,
@@ -471,6 +451,26 @@
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happen To Me (feat. Jonas Brothers)",
+        "url": "https://open.spotify.com/album/5N1V6vJk94GiTmjuM5ZXID"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183615,
+      "name": "Happen To Me (feat. Jonas Brothers)",
+      "url": "https://open.spotify.com/track/6XxFrC6s8An9ZZ52uAN4AV"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greetings From Your Hometown",
+        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183284,
+      "name": "I Can\u2019t Lose",
+      "url": "https://open.spotify.com/track/4zU91gu5GRDKMuEbd8623Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/0PijZTpKNGUvL12y7w4tZF"
       },
@@ -539,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greetings From Your Hometown",
-        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
+        "name": "Jonas Brothers",
+        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
       },
       "artists": [
         {
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 183284,
-      "name": "I Can\u2019t Lose",
-      "url": "https://open.spotify.com/track/4zU91gu5GRDKMuEbd8623Z"
+      "duration_ms": 190413,
+      "name": "Still In Love With You",
+      "url": "https://open.spotify.com/track/0iNby3PysK5uPEOAA5SOz1"
     },
     {
       "added_at": null,
@@ -571,38 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 169061,
-      "name": "Montana Sky",
-      "url": "https://open.spotify.com/track/2jpVAeVwDtvOwdyUYH3NxN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jonas Brothers",
-        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Still In Love With You",
-      "url": "https://open.spotify.com/track/0iNby3PysK5uPEOAA5SOz1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greetings From Your Hometown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 170083,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
+      "duration_ms": 169061,
+      "name": "Montana Sky",
+      "url": "https://open.spotify.com/track/2jpVAeVwDtvOwdyUYH3NxN"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 176373,
       "name": "BB Good",
       "url": "https://open.spotify.com/track/2GmZfhcsYz3BselkzN2nAX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greetings From Your Hometown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "Video Girl",
+      "url": "https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 162051,
       "name": "Healing (Shattered Heart)",
       "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 173920,
-      "name": "Video Girl",
-      "url": "https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 118993,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7DVcgqaCDXtwZIjRTPb8bm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Little Bit Longer",
         "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 209706,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5UA49g3Va5ERaf2DHAY9Zu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 118993,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/7DVcgqaCDXtwZIjRTPb8bm"
     },
     {
       "added_at": null,

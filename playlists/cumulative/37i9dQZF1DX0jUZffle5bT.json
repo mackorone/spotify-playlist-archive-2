@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 200666,
       "name": "Morado",
       "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
@@ -2246,6 +2246,28 @@
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+    },
+    {
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0jUZffle5bT"

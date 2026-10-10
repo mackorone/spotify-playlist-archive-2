@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A collection of beautiful songs by Indigenous artists\. Cover: Elisapie
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,100 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,125 likes - 47 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 46 | [Waiting on the River](https://open.spotify.com/track/2yC5zUYKmBNckZVqziWsrA) | [Richard Inman](https://open.spotify.com/artist/0eha96FtThymbm5svvfopg) | [Come Back Through](https://open.spotify.com/album/4wi7mHjnb1Pf4JwaUpqt9D) | 3:20 |
 | 47 | [Double Barrel Blues](https://open.spotify.com/track/5ENjX7EFTnKdMG6OeeEImy) | [Blue Moon Marquee](https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1) | [Gypsy Blues](https://open.spotify.com/album/3QrMkRlHBBIaJJdwzoLZEP) | 3:41 |
 
-Snapshot ID: `AAAAAFUH5NQXfvS3asmHXUctKyaO1Ery`
+Snapshot ID: `AAAAAEYsqFgOsVtwKvImSGRbrZAN2DO8`

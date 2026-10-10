@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,527 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,579 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 42 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 43 | [Karibu](https://open.spotify.com/track/4oBXxS2vGRFQkAJCtDOhFI) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/0q7npq36aBv8f5C2SZzhbJ) | 4:02 |
 | 44 | [Imvula](https://open.spotify.com/track/3ARs1fCLhABEhNUvfKtARl) | [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Imvula](https://open.spotify.com/album/6umAcziJrSVyBsr50QqUZ9) | 4:32 |
-| 45 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
-| 46 | [Wish I Didn't Miss You](https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB) | [Sonny Noto](https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu) | [Wish I Didn't Miss You](https://open.spotify.com/album/0wZkE50QdGCprRvzaP8Oam) | 3:12 |
+| 45 | [Wish I Didn't Miss You](https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB) | [Sonny Noto](https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu) | [Wish I Didn't Miss You](https://open.spotify.com/album/0wZkE50QdGCprRvzaP8Oam) | 3:12 |
+| 46 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
 | 47 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
 | 48 | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY) | 3:05 |
-| 49 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
-| 50 | [Sisters and Brothers](https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Sisters and Brothers](https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN) | 4:07 |
+| 49 | [Sisters and Brothers](https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Sisters and Brothers](https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN) | 4:07 |
+| 50 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 
 Snapshot ID: `AAAAAOuw58B5gk3QOaMK4icrfECqB2Uu`

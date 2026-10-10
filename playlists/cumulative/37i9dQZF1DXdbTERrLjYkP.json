@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Be My Home",
+        "url": "https://open.spotify.com/album/0Wp9ZgwTj6VvYO9eCx6bMh"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/38rAJOuFC1fBHislB0Lm8c"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349830,
+      "name": "Be My Home",
+      "url": "https://open.spotify.com/track/6BsOKKIkRN2O22fvyoFklh"
+    },
+    {
+      "album": {
         "name": "You Make Me Feel Alright",
         "url": "https://open.spotify.com/album/3BDzqGbPFnSceUIqzX2jQp"
       },
@@ -3424,7 +3442,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 194020,
       "name": "chaotic",
       "url": "https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G"
@@ -7956,7 +7974,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 247875,
       "name": "Hold",
       "url": "https://open.spotify.com/track/5GNXPlVDtvk0lnmak8HSaL"
@@ -8734,6 +8752,24 @@
       "duration_ms": 278388,
       "name": "I Can Be Your Mother",
       "url": "https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP"
+    },
+    {
+      "album": {
+        "name": "I Cried a River Through Palm Springs",
+        "url": "https://open.spotify.com/album/6wahiN4pbPXfmsI9jFA3aH"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206517,
+      "name": "I Cried a River Through Palm Springs",
+      "url": "https://open.spotify.com/track/6DLuIYuFrlRfxwNOAVT33Z"
     },
     {
       "album": {
@@ -12771,6 +12807,24 @@
     },
     {
       "album": {
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/1ACLHbVTa3xv8OTlQumhHO"
+      },
+      "artists": [
+        {
+          "name": "Rafa and Meelo",
+          "url": "https://open.spotify.com/artist/7EpyWnf8Oiy3zmrG4tPgKd"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121894,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/1ZbNK6bnHOhHxae8HeNuyN"
+    },
+    {
+      "album": {
         "name": "My Baby Loves Me for Free (demo)",
         "url": "https://open.spotify.com/album/7pn4oUMpRiHNvVPc9b6cBd"
       },
@@ -15170,7 +15224,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 208920,
       "name": "rom com",
       "url": "https://open.spotify.com/track/621v7nXYzhMpRZwshVB0ZV"
@@ -15332,7 +15386,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 192174,
       "name": "Sad Porn",
       "url": "https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX"
@@ -15458,7 +15512,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 252590,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/2BppK8Nvb3GS3kMCJq567w"
@@ -16981,6 +17035,24 @@
     },
     {
       "album": {
+        "name": "stick around",
+        "url": "https://open.spotify.com/album/41KQpZ3zFeQPasTrCb49qO"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171066,
+      "name": "stick around",
+      "url": "https://open.spotify.com/track/6IlTd37lZeRsz4rSQ02PPv"
+    },
+    {
+      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/4QGuaJoRjdOw326Ex7xzwp"
       },
@@ -17118,7 +17190,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 204374,
       "name": "Stop Sign",
       "url": "https://open.spotify.com/track/1zMO1PasBwfuGEQhWe7Ydf"
@@ -17342,7 +17414,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 190787,
       "name": "Superstar Syndrome",
       "url": "https://open.spotify.com/track/2wJhQccf0olvXdFFS8n7Ay"
@@ -18726,6 +18798,24 @@
       "duration_ms": 179133,
       "name": "touch tank",
       "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
+    },
+    {
+      "album": {
+        "name": "The Fear That This Is Real",
+        "url": "https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232903,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE"
     },
     {
       "album": {
@@ -20141,6 +20231,24 @@
     },
     {
       "album": {
+        "name": "windowsill",
+        "url": "https://open.spotify.com/album/53Bt6mhHpzWxLM44wyW95b"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207071,
+      "name": "windowsill",
+      "url": "https://open.spotify.com/track/2YeBTRYPC4bh9Nsr51IVii"
+    },
+    {
+      "album": {
         "name": "winter",
         "url": "https://open.spotify.com/album/2RWtkN2zZCPl9VuMVBye6x"
       },
@@ -20858,6 +20966,24 @@
       "duration_ms": 205965,
       "name": "Your World",
       "url": "https://open.spotify.com/track/55tJrxAsKjmkFK1PMSY5Uh"
+    },
+    {
+      "album": {
+        "name": "Zeppelin",
+        "url": "https://open.spotify.com/album/6OBRm5wtQ45ywu2oy0Y44E"
+      },
+      "artists": [
+        {
+          "name": "Petra",
+          "url": "https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227453,
+      "name": "Zeppelin",
+      "url": "https://open.spotify.com/track/5GskDjVo667ql2CNZA2GbJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP"

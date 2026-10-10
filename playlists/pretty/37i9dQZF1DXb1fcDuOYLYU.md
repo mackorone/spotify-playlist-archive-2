@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > These are the talented women of Latin music\. Cover: AKRIILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,434 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,457 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 30 | [Todos Me Miran](https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [La Trayectoria](https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ) | 3:24 |
 | 31 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 | 32 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 |
-| 33 | [La Vida Es Un Carnaval](https://open.spotify.com/track/7rWOuBzhjHdiR7RPz9YH7L) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Vida Es Cantar](https://open.spotify.com/album/4WNp803MnuN5yhH2NuyA35) | 4:35 |
-| 34 | [Como La Flor](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
+| 33 | [Como La Flor](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
+| 34 | [La Vida Es Un Carnaval](https://open.spotify.com/track/7rWOuBzhjHdiR7RPz9YH7L) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Vida Es Cantar](https://open.spotify.com/album/4WNp803MnuN5yhH2NuyA35) | 4:35 |
 | 35 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 |
 | 36 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
 | 37 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 62 | [si la ves](https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [si la ves](https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R) | 2:57 |
 | 63 | [Todavia](https://open.spotify.com/track/56GdtA7PRUT4YRAtjSs4D3) | [La Factoria](https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3), [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5) | [Todavia](https://open.spotify.com/album/1Td517a9y1xQJITOrZqfm2) | 3:23 |
 | 64 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
-| 65 | [Down](https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Down](https://open.spotify.com/album/1LXrs32NNDd5M1EqFP0IbW) | 3:15 |
-| 66 | [BESITO](https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [BESITO](https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa) | 2:59 |
+| 65 | [BESITO](https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [BESITO](https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa) | 2:59 |
+| 66 | [Down](https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Down](https://open.spotify.com/album/1LXrs32NNDd5M1EqFP0IbW) | 3:15 |
 | 67 | [Genio Atrapado](https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:37 |
 | 68 | [Sin Llorar](https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE) | 3:42 |
 | 69 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/3MhdQkxCOkM41Q7oPFIABJ) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:37 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 81 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 |
 | 82 | [Mentirasmentiras](https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Mentirasmentiras](https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef) | 4:08 |
 | 83 | [CRACK](https://open.spotify.com/track/4N9GQEezDsNG5tYJfNqyCK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ante el Umbral del Peligro No Siento Temor](https://open.spotify.com/album/73s0yQJIP64mS3dnvPBxU8) | 3:13 |
-| 84 | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj) | 3:01 |
-| 85 | [Baila Conmigo](https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Baila Conmigo](https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6) | 2:42 |
-| 86 | [Easy Love](https://open.spotify.com/track/40XRlswBO92cdV7jS7VqIA) | [ISADORA](https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C) | [Easy Love](https://open.spotify.com/album/3XLOBz1zhjbYgY5HQgQXum) | 2:59 |
+| 84 | [Easy Love](https://open.spotify.com/track/40XRlswBO92cdV7jS7VqIA) | [ISADORA](https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C) | [Easy Love](https://open.spotify.com/album/3XLOBz1zhjbYgY5HQgQXum) | 2:59 |
+| 85 | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj) | 3:01 |
+| 86 | [Baila Conmigo](https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Baila Conmigo](https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6) | 2:42 |
 | 87 | [Cuando Te Encuentre](https://open.spotify.com/track/1rIezJH3NQpbKJBAxZlIKQ) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:56 |
 | 88 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
 | 89 | [Pies Descalzos, Sueños Blancos \- Spotify Anniversary Version](https://open.spotify.com/track/6ehebXUTI8jx1kodxfE11a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:04 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 97 | [LUNA](https://open.spotify.com/track/4rejyzjiLkT53w4NWC0Sct) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:35 |
 | 98 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
 | 99 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
-| 100 | [Mentira](https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Mentira](https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M) | 2:11 |
+| 100 | [la nena de un gang$ter](https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [la nena de un gang$ter](https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9) | 3:26 |
 
 Snapshot ID: `AAAAAEyol0XS+9ctM1RF0t0//GgB33qK`

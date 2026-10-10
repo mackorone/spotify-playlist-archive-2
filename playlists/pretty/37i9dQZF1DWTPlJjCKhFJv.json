@@ -1,6 +1,6 @@
 {
   "description": "If the music is loud enough, maybe the house will clean itself",
-  "num_followers": 34163,
+  "num_followers": 34164,
   "original_name": "Spring Clean",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 244880,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 219413,
       "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
       "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 244880,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
     },
     {
       "added_at": "2026-03-13 10:59:50",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "All In a Night's Work (Expanded Version)",
-        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 253673,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 221874,
       "name": "Perfect Places",
       "url": "https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
+        "name": "All In a Night's Work (Expanded Version)",
+        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 253673,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
     },
     {
       "added_at": "2026-03-13 10:59:50",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
         "name": "Big Ideas",
         "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 213116,
       "name": "Soup",
       "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2026-03-13 10:59:50",

@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-361 songs - 20 hr 36 min
+362 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 | 2025-12-26 |  |
 | [まなざしは光](https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [まなざしは光](https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC) | 3:27 | 2026-04-27 |  |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-10-12 | 2026-04-25 |
-| [アプローズ](https://open.spotify.com/track/1XDwra3xIpNDtiFK9Dgxhf) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [人生](https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY) | 3:31 | 2026-06-25 |  |
+| [アプローズ](https://open.spotify.com/track/1XDwra3xIpNDtiFK9Dgxhf) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [人生](https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY) | 3:31 | 2026-06-25 | 2026-10-10 |
 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 | 2024-12-14 | 2025-02-21 |
 | [アンリミテッド](https://open.spotify.com/track/0QduF3T8Sree7EtCzdcqQF) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [アンリミテッド](https://open.spotify.com/album/2gOUmm49oqLJEFpR14VxyU) | 3:33 | 2026-07-16 |  |
 | [イチブトゼンブ](https://open.spotify.com/track/3IYcbagYZ9z1Svaw8B33Pd) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [MAGIC](https://open.spotify.com/album/5VbMiMMnFcLAI64OY6kxJC) | 4:09 | 2026-04-27 |  |
@@ -330,6 +330,7 @@
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2024-12-14 |  |
 | [君のそば](https://open.spotify.com/track/3ENZ9t8yvPfD1fNK4T3Lli) | [東京、君がいない街](https://open.spotify.com/artist/2f6Qo8o3wF0ZEpHaMt6Cal) | [23春](https://open.spotify.com/album/1KGEUbiIrHnuN18SQ9LKOF) | 2:50 | 2024-04-12 | 2024-09-06 |
 | [夜的平成浪漫](https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [夜的平成浪漫](https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y) | 3:27 | 2024-09-06 | 2024-12-15 |
+| [常緑](https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [you](https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw) | 2:51 | 2026-04-27 |  |
 | [後光](https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [後光](https://open.spotify.com/album/1EXCMLzeMlfD6RvMDbn5Rg) | 3:24 | 2023-10-12 | 2024-01-26 |
 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-21 |  |
 | [悪夢のような](https://open.spotify.com/track/57tkpJBjbHMdCD9BCA7vxL) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 4:19 | 2025-07-11 | 2025-12-03 |

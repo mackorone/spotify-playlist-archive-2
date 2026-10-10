@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Jessie Mazin",
-  "num_followers": 219466,
+  "num_followers": 219455,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB98r0sNGI1g0ahzKfFn1cjp2ctH",
+  "snapshot_id": "AAAAAFW3jiCFgJLu1MikOzsYQ3dpNKn3",
   "tracks": [
     {
       "added_at": "2026-09-25 04:02:41",
@@ -25,6 +25,70 @@
       "url": "https://open.spotify.com/track/0zU5b6zRZZk4l8FVimCtcu"
     },
     {
+      "added_at": "2026-10-09 19:51:23",
+      "album": {
+        "name": "stick around",
+        "url": "https://open.spotify.com/album/41KQpZ3zFeQPasTrCb49qO"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "stick around",
+      "url": "https://open.spotify.com/track/6IlTd37lZeRsz4rSQ02PPv"
+    },
+    {
+      "added_at": "2026-10-09 19:51:23",
+      "album": {
+        "name": "I Cried a River Through Palm Springs",
+        "url": "https://open.spotify.com/album/6wahiN4pbPXfmsI9jFA3aH"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 206517,
+      "name": "I Cried a River Through Palm Springs",
+      "url": "https://open.spotify.com/track/6DLuIYuFrlRfxwNOAVT33Z"
+    },
+    {
+      "added_at": "2026-10-09 19:51:23",
+      "album": {
+        "name": "Zeppelin",
+        "url": "https://open.spotify.com/album/6OBRm5wtQ45ywu2oy0Y44E"
+      },
+      "artists": [
+        {
+          "name": "Petra",
+          "url": "https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd"
+        }
+      ],
+      "duration_ms": 227453,
+      "name": "Zeppelin",
+      "url": "https://open.spotify.com/track/5GskDjVo667ql2CNZA2GbJ"
+    },
+    {
+      "added_at": "2026-10-09 20:01:36",
+      "album": {
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/1ACLHbVTa3xv8OTlQumhHO"
+      },
+      "artists": [
+        {
+          "name": "Rafa and Meelo",
+          "url": "https://open.spotify.com/artist/7EpyWnf8Oiy3zmrG4tPgKd"
+        }
+      ],
+      "duration_ms": 121894,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/1ZbNK6bnHOhHxae8HeNuyN"
+    },
+    {
       "added_at": "2026-09-27 02:49:04",
       "album": {
         "name": "I HATE YOU DON'T LEAVE ME !",
@@ -39,6 +103,54 @@
       "duration_ms": 230000,
       "name": "I HATE YOU DON'T LEAVE ME !",
       "url": "https://open.spotify.com/track/0sU6ZDMp8HZaW4StcO61pN"
+    },
+    {
+      "added_at": "2026-10-09 19:51:23",
+      "album": {
+        "name": "The Fear That This Is Real",
+        "url": "https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 232903,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE"
+    },
+    {
+      "added_at": "2026-10-09 19:51:23",
+      "album": {
+        "name": "windowsill",
+        "url": "https://open.spotify.com/album/53Bt6mhHpzWxLM44wyW95b"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 207071,
+      "name": "windowsill",
+      "url": "https://open.spotify.com/track/2YeBTRYPC4bh9Nsr51IVii"
+    },
+    {
+      "added_at": "2026-10-09 19:51:23",
+      "album": {
+        "name": "Be My Home",
+        "url": "https://open.spotify.com/album/0Wp9ZgwTj6VvYO9eCx6bMh"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/38rAJOuFC1fBHislB0Lm8c"
+        }
+      ],
+      "duration_ms": 349830,
+      "name": "Be My Home",
+      "url": "https://open.spotify.com/track/6BsOKKIkRN2O22fvyoFklh"
     },
     {
       "added_at": "2026-09-25 04:02:41",
@@ -215,22 +327,6 @@
       "duration_ms": 196069,
       "name": "one good thing",
       "url": "https://open.spotify.com/track/35YsfwRJ3rC5atc0RZE8HV"
-    },
-    {
-      "added_at": "2026-09-04 04:02:29",
-      "album": {
-        "name": "Sad Porn",
-        "url": "https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 192174,
-      "name": "Sad Porn",
-      "url": "https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX"
     },
     {
       "added_at": "2026-08-28 04:03:00",
@@ -973,22 +1069,6 @@
       "url": "https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b"
     },
     {
-      "added_at": "2026-06-19 04:00:32",
-      "album": {
-        "name": "rom com",
-        "url": "https://open.spotify.com/album/3EwJ3FzBGDRElfF1aqLdLE"
-      },
-      "artists": [
-        {
-          "name": "Sara Baroni",
-          "url": "https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "rom com",
-      "url": "https://open.spotify.com/track/621v7nXYzhMpRZwshVB0ZV"
-    },
-    {
       "added_at": "2026-06-12 04:56:00",
       "album": {
         "name": "Small Philosophies",
@@ -1037,38 +1117,6 @@
       "url": "https://open.spotify.com/track/3N7cmRE1ZUKfp4ZmMVJuuc"
     },
     {
-      "added_at": "2026-06-12 04:56:00",
-      "album": {
-        "name": "Superstar Syndrome",
-        "url": "https://open.spotify.com/album/1wwM9eYBxOYVwvLWMONppa"
-      },
-      "artists": [
-        {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
-        }
-      ],
-      "duration_ms": 190787,
-      "name": "Superstar Syndrome",
-      "url": "https://open.spotify.com/track/2wJhQccf0olvXdFFS8n7Ay"
-    },
-    {
-      "added_at": "2026-05-29 04:02:57",
-      "album": {
-        "name": "scars to prove it",
-        "url": "https://open.spotify.com/album/73Sgh6sfNyy8ZA3RZLJmKS"
-      },
-      "artists": [
-        {
-          "name": "Hailey Picardi",
-          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G"
-    },
-    {
       "added_at": "2026-05-26 19:15:06",
       "album": {
         "name": "Good Ones",
@@ -1083,38 +1131,6 @@
       "duration_ms": 199933,
       "name": "Good Ones",
       "url": "https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb"
-    },
-    {
-      "added_at": "2026-05-22 04:49:40",
-      "album": {
-        "name": "Hold",
-        "url": "https://open.spotify.com/album/2Ba4aUbtKS8a1IYhBDDLqB"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Sterling",
-          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
-        }
-      ],
-      "duration_ms": 247875,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/5GNXPlVDtvk0lnmak8HSaL"
-    },
-    {
-      "added_at": "2026-05-22 04:49:40",
-      "album": {
-        "name": "Same Old Song",
-        "url": "https://open.spotify.com/album/443TzyhYSpLd2UpEtQXCCN"
-      },
-      "artists": [
-        {
-          "name": "Lila Drew",
-          "url": "https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F"
-        }
-      ],
-      "duration_ms": 252590,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/2BppK8Nvb3GS3kMCJq567w"
     },
     {
       "added_at": "2026-05-22 04:49:40",
@@ -1163,22 +1179,6 @@
       "duration_ms": 174945,
       "name": "Birthday Makeup",
       "url": "https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd"
-    },
-    {
-      "added_at": "2026-04-24 04:00:14",
-      "album": {
-        "name": "Stop Sign",
-        "url": "https://open.spotify.com/album/4gJAiI1dfpAaE9rnZ5PEkg"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "Stop Sign",
-      "url": "https://open.spotify.com/track/1zMO1PasBwfuGEQhWe7Ydf"
     },
     {
       "added_at": "2026-04-24 04:00:14",

@@ -1,6 +1,6 @@
 {
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: NiziU) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 565099,
+  "num_followers": 565083,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-10-06 08:13:42",
       "album": {
+        "name": "THE THIRD SINGLE CATALLENA",
+        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
+      },
+      "artists": [
+        {
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+        }
+      ],
+      "duration_ms": 193153,
+      "name": "Catallena",
+      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
+    },
+    {
+      "added_at": "2026-10-06 08:13:42",
+      "album": {
         "name": "LIL FANTASY vol.1",
         "url": "https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 168531,
       "name": "SHOOT (Firecracker)",
       "url": "https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx"
-    },
-    {
-      "added_at": "2026-10-06 08:13:42",
-      "album": {
-        "name": "Off The Record",
-        "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 188733,
-      "name": "Off The Record",
-      "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
     }
   ],
   "unique_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",

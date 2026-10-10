@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 476955,
+  "num_followers": 477082,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-09-30 22:17:36",
       "album": {
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
+      },
+      "artists": [
+        {
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+        }
+      ],
+      "duration_ms": 448947,
+      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+    },
+    {
+      "added_at": "2026-09-30 22:17:36",
+      "album": {
         "name": "AIO (Bosq Remix)",
         "url": "https://open.spotify.com/album/398yIs7sB6fNFJkpbMJcAg"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 193542,
       "name": "AIO - Bosq Remix",
       "url": "https://open.spotify.com/track/185ggbhnpTgHC5E5yEqYTE"
-    },
-    {
-      "added_at": "2026-09-30 22:17:36",
-      "album": {
-        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
-      },
-      "artists": [
-        {
-          "name": "kujipy",
-          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
-        }
-      ],
-      "duration_ms": 448947,
-      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
     },
     {
       "added_at": "2026-09-30 22:17:36",
@@ -623,8 +623,8 @@
     {
       "added_at": "2026-09-30 22:17:36",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
+        "name": "Amor Entre Mujer",
+        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
       },
       "artists": [
         {
@@ -632,17 +632,17 @@
           "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         },
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
         },
         {
-          "name": "Los Miranda",
-          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 188368,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
+      "duration_ms": 272799,
+      "name": "Amor Entre Mujer",
+      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
     },
     {
       "added_at": "2026-09-30 22:17:36",
@@ -715,8 +715,8 @@
     {
       "added_at": "2026-09-30 22:17:36",
       "album": {
-        "name": "Amor Entre Mujer",
-        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
       },
       "artists": [
         {
@@ -724,17 +724,17 @@
           "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         },
         {
-          "name": "Polocorp",
-          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
         },
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Los Miranda",
+          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
         }
       ],
-      "duration_ms": 272799,
-      "name": "Amor Entre Mujer",
-      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
+      "duration_ms": 188368,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
     },
     {
       "added_at": "2026-09-30 22:17:36",

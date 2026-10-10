@@ -2,7 +2,7 @@
 
 ### [Proto\-](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: OAKK
+> ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: femtanyl
 
 2,071 songs - 4 day 16 hr 2 min
 

@@ -4,7 +4,7 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Feid
 
-285 songs - 14 hr 52 min
+286 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [D U R O](https://open.spotify.com/track/713U89JR8j30nXdf1q0WaG) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [D U R O](https://open.spotify.com/album/5tnjiUY7dh6f61Ahge2XS1) | 3:03 | 2025-10-24 | 2026-04-14 |
 | [De buena que sí \(feat\. Luny Tunes\)](https://open.spotify.com/track/7lhXlBVugxlamnCmWR8uW1) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK) | [Loco X Volver](https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy) | 3:00 | 2026-05-15 |  |
 | [De Remate](https://open.spotify.com/track/5rMALMMFDPpW411Pp3oGNO) | [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w), [Ocoyaje](https://open.spotify.com/artist/3IVmRbZDbvK2wFkXpLOQZD) | [History](https://open.spotify.com/album/39TV17NEBwu6Y0VgWgVa9p) | 3:45 | 2025-12-25 | 2026-01-15 |
+| [Dejarte Ir](https://open.spotify.com/track/16vfIvWt0Gw8z2Kj3CE3qt) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Vallenatico pa la Disco](https://open.spotify.com/album/2NIdcHU9Bs37j9a7WHtUMH) | 2:36 | 2026-10-09 |  |
 | [Dejarte Ir](https://open.spotify.com/track/14z0nJOFTKfWAODgtq5RiJ) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Dejarte Ir](https://open.spotify.com/album/2X1owjKL4rFAqmzrtvIFjf) | 2:56 | 2024-02-09 | 2024-05-11 |
 | [DELI](https://open.spotify.com/track/6a9pfdLPL95dqzGki5RGiT) | [Lorduy](https://open.spotify.com/artist/69W4dBFtMrTWYHEHwbpHhC) | [FUEGO EN EL 22](https://open.spotify.com/album/2HTnoURcBMHXI7tzsrO4fZ) | 2:48 | 2025-10-03 | 2026-01-24 |
 | [Demasiado](https://open.spotify.com/track/29bjrg0oCg69lUOVN7NLLT) | [Asmed](https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Demasiado](https://open.spotify.com/album/3ktp3oCNrvg07DzfK7Ti3l) | 2:48 | 2026-05-01 | 2026-06-20 |
@@ -194,7 +195,7 @@
 | [OJOS AZULES](https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojos Azules](https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0) | 3:08 | 2023-09-30 | 2025-08-09 |
 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 | 2023-09-30 | 2024-05-25 |
 | [Orgullo](https://open.spotify.com/track/6VyecylqfNDlKQGCLYA7TK) | [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Orgullo](https://open.spotify.com/album/3w3CWE6op6O3h7rgmNN1gC) | 2:42 | 2025-03-21 |  |
-| [Otra Vida](https://open.spotify.com/track/0Q2fGgApg3XMNRNnjQU6wX) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Otra Vida](https://open.spotify.com/album/34hnyjteFa5wiLROaR4Ch1) | 2:33 | 2025-03-21 |  |
+| [Otra Vida](https://open.spotify.com/track/0Q2fGgApg3XMNRNnjQU6wX) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Otra Vida](https://open.spotify.com/album/34hnyjteFa5wiLROaR4Ch1) | 2:33 | 2025-03-21 | 2026-10-10 |
 | [Pa Casa](https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Pa Casa](https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4) | 3:28 | 2023-09-30 | 2023-11-25 |
 | [PA QUE LA BC](https://open.spotify.com/track/5TZ8QutXyJcMMCRgMAoUFo) | [fedesttar](https://open.spotify.com/artist/4F72CuIcolrKN0s5FTxoTy) | [LCPUCR](https://open.spotify.com/album/1dMUoEEycgxB4s1ySFNab7) | 2:54 | 2025-09-18 | 2025-10-25 |
 | [Pa que ya no estés triste](https://open.spotify.com/track/10BnshPthqGBqcTUoS5fLV) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [PA QUE YA NO ESTÉS TRISTE](https://open.spotify.com/album/6Kh5EHDQ7hgtRsnVF5jt0Q) | 3:05 | 2025-11-14 | 2026-03-28 |

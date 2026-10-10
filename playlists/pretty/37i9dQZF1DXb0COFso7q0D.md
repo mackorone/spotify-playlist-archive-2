@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > LOS DOS DE TAMAULIPAS poniendo la Música Mexicana en alto en la playlist sin fronteras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,137,053 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,135,112 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:22 |
+| 1 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:23 |
 | 2 | [La Formula](https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Formula](https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF) | 2:38 |
 | 3 | [Soy Un Joven](https://open.spotify.com/track/2FlYT9gGYsfeRp3x6R1sdn) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 2:36 |
 | 4 | [Amor De Antes](https://open.spotify.com/track/2YyYPBsc4aBgtTTWZka90i) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Amor De Antes](https://open.spotify.com/album/6QvRIL67RYsbP5ZOsED6rD) | 3:02 |

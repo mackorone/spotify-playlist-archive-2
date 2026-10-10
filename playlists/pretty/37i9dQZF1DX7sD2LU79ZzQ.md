@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Christie
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,016 likes - 95 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,038 likes - 95 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

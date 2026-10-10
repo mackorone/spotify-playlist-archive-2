@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 272004,
+  "num_followers": 272045,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
@@ -1255,6 +1255,46 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
+        "name": "Dile A \u00c9L (Remix)",
+        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 220189,
+      "name": "Dile A \u00c9L - Remix",
+      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
         "name": "1 of 1",
         "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
       },
@@ -1303,46 +1343,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "Dile A \u00c9L (Remix)",
-        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 220189,
-      "name": "Dile A \u00c9L - Remix",
-      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "Los Dioses",
         "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 206586,
       "name": "Antes",
       "url": "https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1435,6 +1419,22 @@
       "duration_ms": 277693,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
+        "name": "BYAK",
+        "url": "https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "BYAK",
+      "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
         "name": "Sexxo",
         "url": "https://open.spotify.com/album/7Dc90FL2Odr90iQiQ7z8hg"
       },
@@ -2063,26 +2083,6 @@
       "duration_ms": 218633,
       "name": "Sexxo",
       "url": "https://open.spotify.com/track/3oqIWPMwGYRaQDowdVcjR8"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "BYAK",
-        "url": "https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "BYAK",
-      "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
     }
   ],
   "unique_name": "Perrea en tu Cuarto",

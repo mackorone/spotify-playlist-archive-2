@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 24426,
+  "num_followers": 24443,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,26 @@
     {
       "added_at": "2026-10-09 00:02:05",
       "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
+      "added_at": "2026-10-09 00:02:05",
+      "album": {
         "name": "Liquor Store",
         "url": "https://open.spotify.com/album/3f7yVbV4DWziHiUBzcD0Pq"
       },
@@ -103,26 +123,6 @@
       "duration_ms": 177692,
       "name": "Dada (feat. Davido) [Remix]",
       "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
-    },
-    {
-      "added_at": "2026-10-09 00:02:05",
-      "album": {
-        "name": "Comfort",
-        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 146054,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
     },
     {
       "added_at": "2026-10-09 00:02:05",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-09 00:02:05",
       "album": {
-        "name": "This Is Not the Tape III",
-        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Fefe Ne Fe",
-      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
-    },
-    {
-      "added_at": "2026-10-09 00:02:05",
-      "album": {
         "name": "BALENCIAGA II",
         "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2026-10-09 00:02:05",
       "album": {
-        "name": "YBTM",
-        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
+        "name": "This Is Not the Tape III",
+        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 176727,
-      "name": "YBTM",
-      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
+      "duration_ms": 168346,
+      "name": "Fefe Ne Fe",
+      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
     },
     {
       "added_at": "2026-10-09 00:02:05",
@@ -755,6 +739,22 @@
       "duration_ms": 143119,
       "name": "IDK (with Sarkodie)",
       "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
+    },
+    {
+      "added_at": "2026-10-09 00:02:05",
+      "album": {
+        "name": "YBTM",
+        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "YBTM",
+      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
     },
     {
       "added_at": "2026-10-09 00:02:05",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-10-09 00:02:05",
       "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
-    },
-    {
-      "added_at": "2026-10-09 00:02:05",
-      "album": {
         "name": "Catching Glory",
         "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 106997,
       "name": "Catching Glory",
       "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
+    },
+    {
+      "added_at": "2026-10-09 00:02:05",
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
     },
     {
       "added_at": "2026-10-09 00:02:05",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-10-09 00:02:05",
       "album": {
+        "name": "We Go",
+        "url": "https://open.spotify.com/album/1HDGklOmSeGoVIVO4MQ8Ba"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 173846,
+      "name": "We Go",
+      "url": "https://open.spotify.com/track/7y5fQjHVccTNRHnWiWUhwT"
+    },
+    {
+      "added_at": "2026-10-09 00:02:05",
+      "album": {
         "name": "No Issues",
         "url": "https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn"
       },
@@ -907,18 +923,22 @@
     {
       "added_at": "2026-10-09 00:02:05",
       "album": {
-        "name": "We Go",
-        "url": "https://open.spotify.com/album/1HDGklOmSeGoVIVO4MQ8Ba"
+        "name": "SEXY & BAD",
+        "url": "https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3"
       },
       "artists": [
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 173846,
-      "name": "We Go",
-      "url": "https://open.spotify.com/track/7y5fQjHVccTNRHnWiWUhwT"
+      "duration_ms": 217959,
+      "name": "SEXY & BAD",
+      "url": "https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV"
     },
     {
       "added_at": "2026-10-09 00:02:05",
@@ -947,26 +967,6 @@
       "duration_ms": 163837,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
-    },
-    {
-      "added_at": "2026-10-09 00:02:05",
-      "album": {
-        "name": "SEXY & BAD",
-        "url": "https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "SEXY & BAD",
-      "url": "https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV"
     }
   ],
   "unique_name": "Soloku ",

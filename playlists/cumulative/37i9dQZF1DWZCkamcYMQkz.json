@@ -227,6 +227,36 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        },
+        {
+          "name": "Monty Alexander",
+          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Steve Jordan",
+          "url": "https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325652,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI"
+    },
+    {
+      "album": {
         "name": "Rhythm, Melody and Harmony",
         "url": "https://open.spotify.com/album/76iISZ0E026WTuARiTsbKL"
       },
@@ -2230,7 +2260,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
@@ -2302,7 +2332,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 249666,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
@@ -3088,7 +3118,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 111319,
       "name": "table for two",
       "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"

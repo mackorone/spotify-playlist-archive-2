@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59505,
+  "num_followers": 59492,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
+        "name": "Miks menit unohtaa",
+        "url": "https://open.spotify.com/album/4cve0eOlBaBDJNAusEbjPT"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "duration_ms": 168376,
+      "name": "Miks menit unohtaa",
+      "url": "https://open.spotify.com/track/7hA3nyf76gmBJOE4x6oWMK"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
         "name": "Yksin",
         "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 203409,
       "name": "Yksin",
       "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
-        "name": "Miks menit unohtaa",
-        "url": "https://open.spotify.com/album/4cve0eOlBaBDJNAusEbjPT"
-      },
-      "artists": [
-        {
-          "name": "Diogi",
-          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
-        }
-      ],
-      "duration_ms": 168376,
-      "name": "Miks menit unohtaa",
-      "url": "https://open.spotify.com/track/7hA3nyf76gmBJOE4x6oWMK"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Mun syd\u00e4n on mun",
-        "url": "https://open.spotify.com/album/5DyuYlKIlU6bDfsX2ApRcr"
-      },
-      "artists": [
-        {
-          "name": "Vilma Alina",
-          "url": "https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19"
-        }
-      ],
-      "duration_ms": 205900,
-      "name": "Mun syd\u00e4n on mun",
-      "url": "https://open.spotify.com/track/6fGac27NbECNcEjGsMOuMM"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Parasta ja paskinta",
         "url": "https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 142329,
       "name": "Joutsenet",
       "url": "https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "Mun syd\u00e4n on mun",
+        "url": "https://open.spotify.com/album/5DyuYlKIlU6bDfsX2ApRcr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Alina",
+          "url": "https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19"
+        }
+      ],
+      "duration_ms": 205900,
+      "name": "Mun syd\u00e4n on mun",
+      "url": "https://open.spotify.com/track/6fGac27NbECNcEjGsMOuMM"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
+        "name": "V\u00e4rit",
+        "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
+      },
+      "artists": [
+        {
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "V\u00e4rit",
+      "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
         "name": "Liian nuorii kuolinilmotuksiin",
         "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 213961,
       "name": "Mustikkamaa",
       "url": "https://open.spotify.com/track/3T0WQKTqMhe7RnA3m0im20"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
-        "name": "V\u00e4rit",
-        "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
-      },
-      "artists": [
-        {
-          "name": "BENI",
-          "url": "https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "V\u00e4rit",
-      "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
+        "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
+        "url": "https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d"
+      },
+      "artists": [
+        {
+          "name": "yaya",
+          "url": "https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z"
+        },
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "duration_ms": 175108,
+      "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
+      "url": "https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
         "name": "Lohtulauluja",
         "url": "https://open.spotify.com/album/17ennUwc9eY9ZsNEuSlez5"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 188186,
       "name": "Yhteiset askeleet (feat. Bahamo)",
       "url": "https://open.spotify.com/track/6Tl8Ke5x96Mep4w2I2PMXA"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
-        "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
-        "url": "https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d"
-      },
-      "artists": [
-        {
-          "name": "yaya",
-          "url": "https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z"
-        },
-        {
-          "name": "Asla Jo",
-          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
-        }
-      ],
-      "duration_ms": 175108,
-      "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
-      "url": "https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Sori t\u00e4ti",
-        "url": "https://open.spotify.com/album/4v6Im6iFdS0C82jOSYvmCl"
-      },
-      "artists": [
-        {
-          "name": "TINA",
-          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
-        }
-      ],
-      "duration_ms": 186052,
-      "name": "Sori t\u00e4ti",
-      "url": "https://open.spotify.com/track/0S7JHKWm7M11juyTnaIHcb"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Tyhm\u00e4",
         "url": "https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 147254,
       "name": "Tyhm\u00e4",
       "url": "https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "Sori t\u00e4ti",
+        "url": "https://open.spotify.com/album/4v6Im6iFdS0C82jOSYvmCl"
+      },
+      "artists": [
+        {
+          "name": "TINA",
+          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "Sori t\u00e4ti",
+      "url": "https://open.spotify.com/track/0S7JHKWm7M11juyTnaIHcb"
     }
   ],
   "unique_name": "Nousussa",

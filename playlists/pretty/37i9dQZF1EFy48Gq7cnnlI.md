@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029 likes - 122 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030 likes - 122 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 42 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 |
 | 43 | [Recovery](https://open.spotify.com/track/5Tzum6abyRqlGk0dElTwoL) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:58 |
 | 44 | [Howl](https://open.spotify.com/track/3u1w9G4MYMG5EnfoOjaM3j) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:53 |
-| 45 | [No More Suckers](https://open.spotify.com/track/19w92goxgjCj0uSdcu7541) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Love + Fear](https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3) | 3:14 |
-| 46 | [Lose You](https://open.spotify.com/track/41t5aM7gKXMPZINqLtLw6F) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [I'm What You Get](https://open.spotify.com/album/7FwqgiTS3tXBQg573FBOeX) | 2:54 |
+| 45 | [Lose You](https://open.spotify.com/track/41t5aM7gKXMPZINqLtLw6F) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [I'm What You Get](https://open.spotify.com/album/7FwqgiTS3tXBQg573FBOeX) | 2:54 |
+| 46 | [No More Suckers](https://open.spotify.com/track/19w92goxgjCj0uSdcu7541) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Love + Fear](https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3) | 3:14 |
 | 47 | [The Other POV](https://open.spotify.com/track/6AVhXOdYBKNcdRyjAFSYCL) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/21aE1LtpqO4s48QPnomkIk) | 2:59 |
 | 48 | [Right Words Wrong Time](https://open.spotify.com/track/0pn8Vl8oFmIp0r21Zwpb76) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:20 |
 | 49 | [Your Eyes](https://open.spotify.com/track/38E4VJoyNGh2sBQFXLGl7X) | [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [Jai Waetford EP](https://open.spotify.com/album/57JXo4mMPYyKL31qorxv70) | 3:52 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 121 | [Safe](https://open.spotify.com/track/6ccK3PiZhFrhwGMlZn5jjR) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Cycle Breaker](https://open.spotify.com/album/4qen7S5V6CK9YQcKqAgT38) | 3:13 |
 | 122 | [Look On](https://open.spotify.com/track/5j8txL4kkBL71lbHFfdPX0) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:03 |
 
-Snapshot ID: `AcebqgAAAABQpiVqgPlAiDOrfYfxXuQC`
+Snapshot ID: `AcehLAAAAAAaFS8Mdd+TkAsqg3+bChC5`

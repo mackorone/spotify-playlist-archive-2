@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > The Indie highlights of 2016\. Cover: AURORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,284 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,307 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 24 | [I Can't Go on Without You](https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 6:17 |
 | 25 | [Familiar](https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 3:55 |
 | 26 | [Daydreaming](https://open.spotify.com/track/1Rd5OVjqDAr5xC96MHt448) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 6:24 |
-| 27 | [Life Itself](https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:41 |
-| 28 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
+| 27 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
+| 28 | [Life Itself](https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:41 |
 | 29 | [Hot Blood](https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:38 |
 | 30 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 |
 | 31 | [Something to Believe In](https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:48 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 75 | [Low](https://open.spotify.com/track/4mxNpTSvmKCaQKdWhWnkCz) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Low](https://open.spotify.com/album/2Fs5beqHCsq6eCrtMiBOWu) | 3:26 |
 | 76 | [WHERE THE HELL ARE MY FRIENDS](https://open.spotify.com/track/0b8mGZFzNge8J9PsgGdudT) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [WHERE THE HELL ARE MY FRIENDS](https://open.spotify.com/album/64xUD4qC1fHeidCNlv2UGC) | 3:36 |
 | 77 | [Take It or Leave It](https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Take It or Leave It](https://open.spotify.com/album/73MbtLT9YW5OjklHAOg9a9) | 3:03 |
-| 78 | [Gone](https://open.spotify.com/track/6OJMVcgJYX3rJrjN6txUOI) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Gone](https://open.spotify.com/album/1lVGIXjXpaPw2qoeYqBQjM) | 3:41 |
-| 79 | [The Wheel](https://open.spotify.com/track/5RcKZnXma5ZZq8PWFsn06v) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 5:38 |
+| 78 | [The Wheel](https://open.spotify.com/track/5RcKZnXma5ZZq8PWFsn06v) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 5:38 |
+| 79 | [Gone](https://open.spotify.com/track/6OJMVcgJYX3rJrjN6txUOI) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Gone](https://open.spotify.com/album/1lVGIXjXpaPw2qoeYqBQjM) | 3:41 |
 | 80 | [Winterbreak](https://open.spotify.com/track/7EsTdhH4PD6MugpLXJGZLW) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Winterbreak](https://open.spotify.com/album/59HB72GnzCfr9q0OKrMUfV) | 4:56 |
 | 81 | [Three Thirty](https://open.spotify.com/track/3QEXz3VrVDYXko90MtCcHE) | [Eighty Ninety](https://open.spotify.com/artist/3Fg3y3Gx6hwdzb9sEOWHEW) | [Three Thirty](https://open.spotify.com/album/3iZw6T8vhKhTNBScHYoPFd) | 3:35 |
 | 82 | [Stars](https://open.spotify.com/track/3cV7urlavfJPXy4GXs7iTJ) | [Future Generations](https://open.spotify.com/artist/3wKj5PmSpnrtz9n9hG2QCA) | [Stars](https://open.spotify.com/album/3WEJC9bZbWxCE4em6tpCtX) | 3:53 |
@@ -95,16 +95,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 85 | [Ophelia](https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 2:40 |
 | 86 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 |
 | 87 | [Go Fuck Yourself](https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv) | 2:09 |
-| 88 | [Lover Is a Day](https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [wannabewithu](https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW) | 7:36 |
-| 89 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 |
+| 88 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 |
+| 89 | [Lover Is a Day](https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [wannabewithu](https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW) | 7:36 |
 | 90 | [Cleopatra](https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:21 |
 | 91 | [Not Allowed](https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 2:47 |
 | 92 | [Doubt \(Summer Edit\)](https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Doubt \(Summer Edit\)](https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ) | 3:46 |
-| 93 | [Your Best American Girl](https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 3:32 |
-| 94 | [Drunk Drivers/Killer Whales](https://open.spotify.com/track/2os0aK782bakCPmjow0SU0) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teens of Denial](https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj) | 6:14 |
+| 93 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 |
+| 94 | [Your Best American Girl](https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 3:32 |
 | 95 | [Sleep On The Floor](https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:31 |
-| 96 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 |
-| 97 | [8 \(circle\)](https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 5:09 |
+| 96 | [8 \(circle\)](https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 5:09 |
+| 97 | [Drunk Drivers/Killer Whales](https://open.spotify.com/track/2os0aK782bakCPmjow0SU0) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teens of Denial](https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj) | 6:14 |
 | 98 | [Somebody Else](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Somebody Else](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | 3:53 |
 | 99 | [Old Friends](https://open.spotify.com/track/66q3yNMEO2tOsiFny1IPQW) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal](https://open.spotify.com/album/2SmrUzUMMOYQqoPuOhlhjw) | 3:27 |
 | 100 | [Flame](https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje) | 3:47 |

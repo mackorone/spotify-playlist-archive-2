@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,952 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,982 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 25 | [Vamos a Reír un Poco \- Remastered 2024](https://open.spotify.com/track/6cXCkEgFfXZEEAxqmCAcnm) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende \(Remastered 2024\)](https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb) | 7:34 |
 | 26 | [Un Amor De La Calle](https://open.spotify.com/track/6zfdqSCVV0e5Pbmsc2wyao) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 3:24 |
 | 27 | [Juana Peña](https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 5:38 |
-| 28 | [Déjala Que Siga](https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 6:27 |
-| 29 | [Siento \- Remastered 2026](https://open.spotify.com/track/1nlNv6fPpWRuegVl57jdiK) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboleo \(Remastered 2026\)](https://open.spotify.com/album/7eTcy9a3IYmwTCwArFZaDU) | 6:35 |
+| 28 | [Siento \- Remastered 2026](https://open.spotify.com/track/1nlNv6fPpWRuegVl57jdiK) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboleo \(Remastered 2026\)](https://open.spotify.com/album/7eTcy9a3IYmwTCwArFZaDU) | 6:35 |
+| 29 | [Déjala Que Siga](https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 6:27 |
 | 30 | [Soñando Despierto](https://open.spotify.com/track/5T33s7r9ZphwekRhavpbmA) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 4:06 |
 | 31 | [Qué Lío](https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 4:37 |
 | 32 | [Aléjate](https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio](https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze) | 7:07 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 41 | [Tus Ojos](https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 3:35 |
 | 42 | [Güaracha](https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [The Good, The Bad, And The Ugly](https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn) | 5:08 |
 | 43 | [Mentira \- Remastered 2024](https://open.spotify.com/track/7ygq3AB87X2t0UwXIVuFIc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende \(Remastered 2024\)](https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb) | 6:40 |
-| 44 | [El Malo](https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 4:02 |
+| 44 | [Soy Vagabundo](https://open.spotify.com/track/5jQimaqP3GwhdvIDKAQZor) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 5:58 |
 | 45 | [De Ti Depende](https://open.spotify.com/track/6uM3cqVSU6yzhkkXIvMGfs) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 4:35 |
-| 46 | [Soy Vagabundo](https://open.spotify.com/track/5jQimaqP3GwhdvIDKAQZor) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 5:58 |
+| 46 | [El Malo](https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 4:02 |
 | 47 | [No Me Llores Más](https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:37 |
 | 48 | [Ublabadú](https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 5:51 |
 | 49 | [Bandolera](https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 9:34 |
 | 50 | [Consejo De Oro](https://open.spotify.com/track/7DlwfBB4NQDQEn88FefveR) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 2:45 |
 
-Snapshot ID: `asLogAAAAAAzLvfqOffhC8ABdZyjg/4z`
+Snapshot ID: `asbdAAAAAAAttXlGodK1DeWd28Ox8PAF`

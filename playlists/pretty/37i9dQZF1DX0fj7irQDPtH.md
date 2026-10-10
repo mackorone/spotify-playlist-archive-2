@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 
 > The biggest songs in Latin America in 2014\. Cover: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,255 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,279 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 6 | [Odio \(feat\. Drake\)](https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:45 |
 | 7 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 |
 | 8 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |
-| 9 | [Si Te Vienen a Contar](https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:39 |
-| 10 | [Lo Aprendí de Ti \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/3xrpI0GqWNMjMDOdXUOnK3) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:17 |
+| 9 | [Lo Aprendí de Ti \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/3xrpI0GqWNMjMDOdXUOnK3) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:17 |
+| 10 | [Si Te Vienen a Contar](https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:39 |
 | 11 | [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 |
 | 12 | [Pierdo la Cabeza](https://open.spotify.com/track/53LxOQIcSZe71SF9IS0Z7b) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Pierdo la Cabeza](https://open.spotify.com/album/112XtnaLZmod0pVVaYJWwG) | 3:42 |
 | 13 | [Choca](https://open.spotify.com/track/5E0gsHgrsCwG4FxTit0ltJ) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love and Sex](https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8) | 3:40 |
-| 14 | [Los Mensajes del Whatsapp](https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:33 |
-| 15 | [Perdón](https://open.spotify.com/track/2LgGkK27qwPG4ls3OsNmuj) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Elypse](https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC) | 4:24 |
+| 14 | [Perdón](https://open.spotify.com/track/2LgGkK27qwPG4ls3OsNmuj) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Elypse](https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC) | 4:24 |
+| 15 | [Los Mensajes del Whatsapp](https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:33 |
 | 16 | [Hilito](https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:54 |
 | 17 | [Humanos a Marte](https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 3:45 |
 | 18 | [Perdón, Perdón \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:46 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 37 | [Por fin](https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:01 |
 | 38 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 |
 | 39 | [Vamo a Busal](https://open.spotify.com/track/0ySExWMtzlVKO70rPYEz84) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Vamo a Busal](https://open.spotify.com/album/2Te8t6pWaQhGxeYJeOFGLV) | 4:00 |
-| 40 | [El Aguante](https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:48 |
-| 41 | [Diez Mil Maneras](https://open.spotify.com/track/0bozYJjedwJwsvg7WWrWnX) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Y Yo](https://open.spotify.com/album/2R7m2KEpz551kzsoayID3S) | 3:33 |
+| 40 | [Diez Mil Maneras](https://open.spotify.com/track/0bozYJjedwJwsvg7WWrWnX) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Y Yo](https://open.spotify.com/album/2R7m2KEpz551kzsoayID3S) | 3:33 |
+| 41 | [El Aguante](https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:48 |
 | 42 | [Tú Me Quemas](https://open.spotify.com/track/1dnJrxNtaS0fCPRDooTqBM) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Los Cadillac's](https://open.spotify.com/artist/44clbgZfF4GkBAyduMPE2W) | [Radio Universo](https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1) | 4:29 |
 | 43 | [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 |
 | 44 | [Entre la espada y la pared](https://open.spotify.com/track/7djk6VYALvdcRqPJKq5xXx) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Huyendo conmigo de mí](https://open.spotify.com/album/5OlfTqv9K5yzd2nvgPdpmj) | 4:52 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 46 | [El Mar de Sus Ojos \(feat\. ChocQuibTown\)](https://open.spotify.com/track/0HRMIu0FgBAkY0r8XGzExe) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 3:53 |
 | 47 | [Orgullo \- Remix](https://open.spotify.com/track/71XBAAd0QPBq3vTgARLh8O) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Orgullo \(Remix\)](https://open.spotify.com/album/1EuXZnb0shsqFPzQvb2g0q) | 3:34 |
 | 48 | [No Me Olvides](https://open.spotify.com/track/7LDUiraavMZ6mb8hK3mXkj) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 3:25 |
-| 49 | [Quiereme](https://open.spotify.com/track/3zLZzw2t5mbsLaNQURufkB) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 4:00 |
-| 50 | [Adentro](https://open.spotify.com/track/5NOtC9vnvCuEy6IaNflffX) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:52 |
+| 49 | [Adentro](https://open.spotify.com/track/5NOtC9vnvCuEy6IaNflffX) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:52 |
+| 50 | [Quiereme](https://open.spotify.com/track/3zLZzw2t5mbsLaNQURufkB) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 4:00 |
 
 Snapshot ID: `AAAAAKmXPzunE6nXvhH7RCWu7JE4kXwT`

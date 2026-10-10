@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,513 likes - 37 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,516 likes - 37 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 11 | [Kana Kassy](https://open.spotify.com/track/0s3hLSHmF9JBS7bNrx1jRd) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 4:10 |
 | 12 | [I Go Ka](https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 3:59 |
 | 13 | [Hawa Dolo](https://open.spotify.com/track/3fHV9JUITZcOUvmoVzr3gK) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk) | 5:00 |
-| 14 | [Diaraby \- with Ry Cooder](https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:26 |
-| 15 | [Samba Geladio](https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 3:17 |
+| 14 | [Gomni \- with Ry Cooder](https://open.spotify.com/track/1Rh5IPkuSCl17yPs9UiTtt) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:00 |
+| 15 | [Warbé](https://open.spotify.com/track/4fb7CtOq5pb3gNcC6ebfQF) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 4:51 |
 | 16 | [Ai Bine](https://open.spotify.com/track/0dtl6YQbvXjBQ0I18270zR) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O) | 6:20 |
 | 17 | [Cinquante six](https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 5:31 |
-| 18 | [Gomni \- with Ry Cooder](https://open.spotify.com/track/1Rh5IPkuSCl17yPs9UiTtt) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:00 |
-| 19 | [Warbé](https://open.spotify.com/track/4fb7CtOq5pb3gNcC6ebfQF) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 4:51 |
+| 18 | [Diaraby \- with Ry Cooder](https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:26 |
+| 19 | [Samba Geladio](https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 3:17 |
 | 20 | [Debe](https://open.spotify.com/track/6V38ujp28AfvPkHV10xi1s) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk) | 4:55 |
 | 21 | [Heygana](https://open.spotify.com/track/3Oip7ZTE83W11hcHLqyrWS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O) | 5:58 |
 | 22 | [Amandrai \- with Ry Cooder](https://open.spotify.com/track/5zHFoLDuJDgHv8rgsvWXfl) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 9:23 |
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 30 | [Safari](https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 5:48 |
 | 31 | [Soya \- 2019 Remaster](https://open.spotify.com/track/2mRUFnV4bo5F8JKLniCenA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane \(2019 Remaster\)](https://open.spotify.com/album/2ru8ZK0F2CyHfJm7th1wpv) | 4:39 |
 | 32 | [Dofana](https://open.spotify.com/track/5j7YPAa4Dbn0RBTNxiuGRo) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 7:31 |
-| 33 | [Beto](https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO) | 4:49 |
+| 33 | [Goydiotodam](https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O) | 6:24 |
 | 34 | [Kombo Galia](https://open.spotify.com/track/0OZENqfFTW8YSuirwg8Fvm) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 4:27 |
-| 35 | [Soko](https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r) | 5:08 |
+| 35 | [Beto](https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO) | 4:49 |
 | 36 | [Roucky \- feat.Taj Mahal](https://open.spotify.com/track/0M8IIFrmeUonCdKb7WN9lm) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 8:18 |
-| 37 | [Goydiotodam](https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O) | 6:24 |
+| 37 | [Soko](https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r) | 5:08 |
 
-Snapshot ID: `asLogAAAAACENA/1PA63wq/85hdXQF6H`
+Snapshot ID: `asbdAAAAAACvk+qSBqxv6e+fAYq0kqgu`

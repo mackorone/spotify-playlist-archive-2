@@ -10628,7 +10628,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 230581,
       "name": "Let go",
       "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
@@ -20594,7 +20594,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -22542,7 +22542,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 237733,
       "name": "\u4f60\u779e\u6211\u779e",
       "url": "https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX"
@@ -23278,7 +23278,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 228819,
       "name": "\u53cd\u5c0d\u7121\u6548",
       "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
@@ -24446,7 +24446,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 259133,
       "name": "\u5bcc\u58eb\u5c71\u4e0b",
       "url": "https://open.spotify.com/track/3cthRwQ2X0SNTaauD7tjn5"
@@ -24814,7 +24814,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 205933,
       "name": "\u601d\u89ba\u5931\u8abf",
       "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
@@ -25446,7 +25446,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 257013,
       "name": "\u6211\u672c\u4eba",
       "url": "https://open.spotify.com/track/55z4ZnZNJEJBn9hPrekE4f"
@@ -26662,6 +26662,24 @@
       "duration_ms": 300000,
       "name": "\u672a\u4f86\u898b",
       "url": "https://open.spotify.com/track/5OPqZ5dEqrdPGatJgnZ8xG"
+    },
+    {
+      "album": {
+        "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
+        "url": "https://open.spotify.com/album/6ccMGTUqbYc5ouYsS9wYjv"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181619,
+      "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
+      "url": "https://open.spotify.com/track/0r0VLsvWv7jo2HGfvlt5xh"
     },
     {
       "album": {

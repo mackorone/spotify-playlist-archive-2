@@ -5147,6 +5147,28 @@
     },
     {
       "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"
+    },
+    {
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
       },

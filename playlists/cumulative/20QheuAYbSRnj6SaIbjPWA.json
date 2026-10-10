@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Luck and Strange",
+        "url": "https://open.spotify.com/album/2j2jOwKnbrXv5UpEU5fWrn"
+      },
+      "artists": [
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        },
+        {
+          "name": "Romany Gilmour",
+          "url": "https://open.spotify.com/artist/3zWa7Jgzsv63hObXVRTRJD"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346986,
+      "name": "Between Two Points",
+      "url": "https://open.spotify.com/track/1xQ4BNf4nXPWtBFdJPknYJ"
+    },
+    {
+      "album": {
         "name": "The Beatles (Remastered 2009)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },

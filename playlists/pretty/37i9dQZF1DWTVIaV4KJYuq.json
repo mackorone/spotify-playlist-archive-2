@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 709824,
+  "num_followers": 709799,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 257941,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
         "name": "Rocket Man",
         "url": "https://open.spotify.com/album/2ybfxBbMNc3lyY3ekDuDy4"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 174127,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/5ujvc1IFzGeBn2hsDX2n6w"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 257941,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Dreams (Lanie's Version)",
-        "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
+        "name": "Without Fear (The Complete Edition)",
+        "url": "https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq"
       },
       "artists": [
         {
-          "name": "Lanie Gardner",
-          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Dreams - Lanie's Version",
-      "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
+      "duration_ms": 149803,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1807,6 +1807,22 @@
       "duration_ms": 290767,
       "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
       "url": "https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Dreams (Lanie's Version)",
+        "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
+      },
+      "artists": [
+        {
+          "name": "Lanie Gardner",
+          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Dreams - Lanie's Version",
+      "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1839,22 +1855,6 @@
       "duration_ms": 206896,
       "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
       "url": "https://open.spotify.com/track/0udJrKQOgJz6TwZXuhi7IM"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
-        "name": "Without Fear (The Complete Edition)",
-        "url": "https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 149803,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA"
     }
   ],
   "unique_name": "Classic Covers",

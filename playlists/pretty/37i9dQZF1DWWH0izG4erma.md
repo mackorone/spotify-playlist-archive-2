@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,920 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,033 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 87 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 |
 | 88 | [Made For This](https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Made For This](https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T) | 3:43 |
 | 89 | [TOMBSTONE TOWN \(feat\. Slash\)](https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [TOMBSTONE TOWN \(feat\. Slash\)](https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO) | 3:14 |
-| 90 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
-| 91 | [Found](https://open.spotify.com/track/10jUv8AkCnxNcCc4NkxGu1) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Found](https://open.spotify.com/album/20nlZ26QvDjhtwKSkbyM03) | 3:46 |
+| 90 | [Found](https://open.spotify.com/track/10jUv8AkCnxNcCc4NkxGu1) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Found](https://open.spotify.com/album/20nlZ26QvDjhtwKSkbyM03) | 3:46 |
+| 91 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
 | 92 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
 | 93 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 |
 | 94 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 97 | [I Met This Girl](https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [I Met This Girl](https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz) | 3:19 |
 | 98 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
 | 99 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
-| 100 | [Demon or Ghost \(feat\. Underoath\)](https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Demon or Ghost \(feat\. Underoath\)](https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb) | 3:35 |
+| 100 | [Blackout Betty](https://open.spotify.com/track/3D71o5wgyMshda5rzaBa1d) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 4:01 |
 
 Snapshot ID: `AAAAAOPVAiLUWqkS11USvGVvdN+Rkfm+`

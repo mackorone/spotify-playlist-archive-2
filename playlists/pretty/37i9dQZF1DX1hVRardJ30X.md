@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Carín León & Ryan Castro, Judeline, Fuerza Regida, Ralphie Choo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,804 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,039 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 5 | [Afr1n](https://open.spotify.com/track/1dBEe0uyZ2Bszwc49xaIlg) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [$HUPE](https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3) | [Afr1n](https://open.spotify.com/album/2xQgu93rXVVOH83sHcAc2E) | 3:06 |
 | 6 | [que seas tú \-\-](https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [que seas tú \-\- & amor herido \. \. .](https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1) | 3:13 |
 | 7 | [Amarillo nena](https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Amarillo nena](https://open.spotify.com/album/3mpTkXPLbbNRsjGMbo06dr) | 2:28 |
-| 8 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:22 |
+| 8 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:23 |
 | 9 | [PECADO](https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PECADO](https://open.spotify.com/album/6HdWXqAuMdCKcgmBfk5p7S) | 3:05 |
 | 10 | [VAMOS PALLÁ](https://open.spotify.com/track/4knOtGLKWSM0Nzcr0StpuK) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [SORDO DE UN PIE](https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir) | 2:54 |
 | 11 | [Off The Planet](https://open.spotify.com/track/2bIQLFtJVGjNQ2ti5P1SMi) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Off The Planet](https://open.spotify.com/album/5eQCto2v7SsMmEnwBxbSSg) | 2:47 |

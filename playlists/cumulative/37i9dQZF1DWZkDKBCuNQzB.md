@@ -4,7 +4,7 @@
 
 > Canciones de mujeres fuertes e increíbles.
 
-55 songs - 3 hr 5 min
+57 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Better When I'm Dancin'](https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Better When I'm Dancin'](https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH) | 2:56 | 2021-04-21 |  |
 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 | 2021-04-21 |  |
 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 | 2021-04-21 |  |
-| [Cero Tolerancia](https://open.spotify.com/track/2oQ4b2PClVb9R7MVMlNOng) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cero Tolerancia](https://open.spotify.com/album/6G1JFQvH9oGYNsjjeySVWF) | 3:05 | 2026-09-11 |  |
+| [Cero Tolerancia](https://open.spotify.com/track/2oQ4b2PClVb9R7MVMlNOng) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cero Tolerancia](https://open.spotify.com/album/6G1JFQvH9oGYNsjjeySVWF) | 3:05 | 2026-09-11 | 2026-10-10 |
 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 | 2021-04-21 |  |
 | [Como La Flor](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 | 2021-04-21 |  |
 | [Desde Esa Noche \(feat\. Maluma\)](https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Latina](https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox) | 3:47 | 2021-04-21 |  |
@@ -37,10 +37,11 @@
 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 | 2021-04-21 |  |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:52 | 2021-04-21 |  |
 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 | 2021-04-21 |  |
+| [Intensamente](https://open.spotify.com/track/5OaP93ux2WhLGR2ElP6ga8) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Angel](https://open.spotify.com/artist/6yB30YN6Hjo4auuVUzXhVR), [Armando Gomez](https://open.spotify.com/artist/2dplSKaTG3Rdk6M1rrVCuy) | [Intensamente](https://open.spotify.com/album/1AJwSW7Y6OpY1reCFqI6Dt) | 3:29 | 2026-10-09 |  |
 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 | 2021-04-21 |  |
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 | 2021-04-21 |  |
 | [Mala Fama](https://open.spotify.com/track/6m9qNGeOq3Nvq7Qhal4t83) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Mala Fama](https://open.spotify.com/album/5mgy0xQOowhLe6LIKbkVFi) | 3:02 | 2021-04-21 |  |
-| [Malas Mañas](https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Malas Mañas](https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh) | 2:56 | 2026-09-11 |  |
+| [Malas Mañas](https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Malas Mañas](https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh) | 2:56 | 2026-09-11 | 2026-10-10 |
 | [Mamma Mia](https://open.spotify.com/track/1IYfJ5FEmyQe3N57BE5P8x) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Dancing Queen](https://open.spotify.com/album/5EM2ZGVQ4MZOA1iICy9vDc) | 3:33 | 2021-04-21 |  |
 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 | 2021-04-21 |  |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/4Sib57MmYGJzSvkW84jTwh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) | [ME!](https://open.spotify.com/album/0WGakTFs8cnggcYsHjIhgy) | 3:13 | 2021-04-21 |  |
@@ -49,6 +50,7 @@
 | [One Way Or Another](https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:37 | 2021-04-21 |  |
 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 | 2021-04-21 |  |
 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 | 2021-04-21 |  |
+| [piercing girl](https://open.spotify.com/track/2RqCgqA7LqrfxaE0jbAWqz) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [piercing girl](https://open.spotify.com/album/5kr0Zwkw3fyeyKtamrLIM0) | 3:01 | 2026-10-09 |  |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2021-04-21 |  |
 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Respiro \(Cap\. 8\)](https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo) | 3:41 | 2021-04-21 |  |
 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 | 2021-04-21 | 2024-04-19 |

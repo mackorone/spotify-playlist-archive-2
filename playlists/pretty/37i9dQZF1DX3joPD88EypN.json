@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 101887,
+  "num_followers": 101904,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,30 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "At the Movies",
+        "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
+      },
+      "artists": [
+        {
+          "name": "Nikolaj Hess",
+          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        },
+        {
+          "name": "Mikkel Hess",
+          "url": "https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq"
+        }
+      ],
+      "duration_ms": 240903,
+      "name": "End Music",
+      "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "Dwell Time",
         "url": "https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc"
       },
@@ -263,30 +287,6 @@
       "duration_ms": 290013,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "At the Movies",
-        "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
-      },
-      "artists": [
-        {
-          "name": "Nikolaj Hess",
-          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
-        },
-        {
-          "name": "Anders Christensen",
-          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
-        },
-        {
-          "name": "Mikkel Hess",
-          "url": "https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq"
-        }
-      ],
-      "duration_ms": 240903,
-      "name": "End Music",
-      "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
         "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
       },
@@ -1091,38 +1107,6 @@
       "duration_ms": 514933,
       "name": "Red Hook - Live",
       "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
-      },
-      "artists": [
-        {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Who Do You Love the Most?",
-        "url": "https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "Remembering",
-      "url": "https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1159,22 +1143,34 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Cirkel",
-        "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
+        "name": "Who Do You Love the Most?",
+        "url": "https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR"
       },
       "artists": [
         {
-          "name": "Jakob S\u00f8rensen",
-          "url": "https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq"
-        },
-        {
-          "name": "Bagland",
-          "url": "https://open.spotify.com/artist/2keQ0ZJ8qgOTJte7PPBRzn"
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
         }
       ],
-      "duration_ms": 269258,
-      "name": "I Kirken",
-      "url": "https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF"
+      "duration_ms": 283346,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 307356,
+      "name": "Winx",
+      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1199,18 +1195,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+        "name": "Cirkel",
+        "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
       },
       "artists": [
         {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+          "name": "Jakob S\u00f8rensen",
+          "url": "https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq"
+        },
+        {
+          "name": "Bagland",
+          "url": "https://open.spotify.com/artist/2keQ0ZJ8qgOTJte7PPBRzn"
         }
       ],
-      "duration_ms": 307356,
-      "name": "Winx",
-      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
+      "duration_ms": 269258,
+      "name": "I Kirken",
+      "url": "https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Tree House",
-        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
-      },
-      "artists": [
-        {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
-        },
-        {
-          "name": "Albatrosh",
-          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
-        }
-      ],
-      "duration_ms": 449893,
-      "name": "Seaweed",
-      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1379,6 +1359,42 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Tree House",
+        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
+      },
+      "artists": [
+        {
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Albatrosh",
+          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
+        }
+      ],
+      "duration_ms": 449893,
+      "name": "Seaweed",
+      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Komposition VII",
+        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
+      },
+      "artists": [
+        {
+          "name": "Max Agnas",
+          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
+        }
+      ],
+      "duration_ms": 473721,
+      "name": "L\u00e5ngsamt",
+      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1407,22 +1423,6 @@
       "duration_ms": 528100,
       "name": "Point of no return",
       "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Komposition VII",
-        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
-      },
-      "artists": [
-        {
-          "name": "Max Agnas",
-          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
-        }
-      ],
-      "duration_ms": 473721,
-      "name": "L\u00e5ngsamt",
-      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "One Kiss Too Many",
+        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
+      },
+      "artists": [
+        {
+          "name": "Jakob Dinesen",
+          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "Slaraffenland",
+      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "Funeral Dance",
         "url": "https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 320534,
       "name": "S\u00e6velid",
       "url": "https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "One Kiss Too Many",
-        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
-      },
-      "artists": [
-        {
-          "name": "Jakob Dinesen",
-          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "Slaraffenland",
-      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "We Seem to Be Drifting Apart",
+        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Richter Sonntag",
+      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "Rainbow Session",
         "url": "https://open.spotify.com/album/5MHtrcpYvw5zqwOGBvYe9p"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 294760,
       "name": "Slow Fox",
       "url": "https://open.spotify.com/track/3SfRQdSlVB3hIppPaALL1I"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "We Seem to Be Drifting Apart",
-        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
-      },
-      "artists": [
-        {
-          "name": "Nils Berg Cinemascope",
-          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Richter Sonntag",
-      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
     },
     {
       "added_at": "2026-01-30 09:24:24",

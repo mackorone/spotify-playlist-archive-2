@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 150802,
       "name": "DISGUISE",
       "url": "https://open.spotify.com/track/70NwUUeK2J8Y55QRUn8uM3"
@@ -2774,6 +2774,36 @@
       "duration_ms": 136333,
       "name": "Ever Since U Left Me (I Went Deaf)",
       "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
+    },
+    {
+      "album": {
+        "name": "Ever Since U Left Me (UK Remix)",
+        "url": "https://open.spotify.com/album/47iPizzGjyu09MpJvKu8wh"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136306,
+      "name": "Ever Since U Left Me - UK Remix",
+      "url": "https://open.spotify.com/track/5bpcleC2yygNAYvY0wCWda"
     },
     {
       "album": {
@@ -7021,6 +7051,24 @@
     },
     {
       "album": {
+        "name": "pop it",
+        "url": "https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138866,
+      "name": "pop it",
+      "url": "https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM"
+    },
+    {
+      "album": {
         "name": "Pop It Off",
         "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
       },
@@ -7788,7 +7836,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 256179,
       "name": "Say What (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/0aHM1klz6sGAmpjRPXkjMq"
@@ -9595,6 +9643,24 @@
     },
     {
       "album": {
+        "name": "Tulsa, OK",
+        "url": "https://open.spotify.com/album/6X5KWLkivJQ7F89na1AoQC"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181025,
+      "name": "Tulsa, OK",
+      "url": "https://open.spotify.com/track/4lyK8sT0dLpxSBv14wtVet"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
@@ -10670,7 +10736,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 205011,
       "name": "You See What We On",
       "url": "https://open.spotify.com/track/4bz9cqkDPA4RpfBuX9LrPa"

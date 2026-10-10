@@ -1,6 +1,6 @@
 {
   "description": "100% cl\u00e1ssicos.",
-  "num_followers": 551707,
+  "num_followers": 551943,
   "original_name": "EDM Hits",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Wild Ones (feat. Sia)",
-      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "Me 4 U",
         "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 180565,
       "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -603,26 +603,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
-      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "THIS IS... ICONA POP",
         "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Heroes (we could be)",
-      "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "Hear Me Now (feat. Zeeba)",
         "url": "https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o"
       },
@@ -807,26 +787,22 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "Sorry For Party Rocking",
-        "url": "https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
       },
       "artists": [
         {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Lauren Bennett",
-          "url": "https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP"
-        },
-        {
-          "name": "GoonRock",
-          "url": "https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 262146,
-      "name": "Party Rock Anthem",
-      "url": "https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI"
+      "duration_ms": 210013,
+      "name": "Heroes (we could be)",
+      "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -847,6 +823,30 @@
       "duration_ms": 184560,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "Sorry For Party Rocking",
+        "url": "https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R"
+      },
+      "artists": [
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        },
+        {
+          "name": "Lauren Bennett",
+          "url": "https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP"
+        },
+        {
+          "name": "GoonRock",
+          "url": "https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh"
+        }
+      ],
+      "duration_ms": 262146,
+      "name": "Party Rock Anthem",
+      "url": "https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI"
     },
     {
       "added_at": "2025-01-16 12:30:53",

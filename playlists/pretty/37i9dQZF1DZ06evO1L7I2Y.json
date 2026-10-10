@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3707,
+  "num_followers": 3709,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABohzpyTGgIdgInN8tPGXJn",
+  "snapshot_id": "asbdAAAAAABbE78qtI19NAkpzXakP7Su",
   "tracks": [
     {
       "added_at": null,
@@ -314,11 +314,15 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Ferve",
-      "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
+      "duration_ms": 160000,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/6UmJjde5JUyvqMm2lqvPyD"
     },
     {
       "added_at": null,
@@ -347,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOVA ERA",
-        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POSTURADA",
         "url": "https://open.spotify.com/album/5819BDcxcehDVMAN0Ztke2"
       },
@@ -387,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NOVA ERA",
+        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -402,15 +406,11 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/6UmJjde5JUyvqMm2lqvPyD"
+      "duration_ms": 197142,
+      "name": "Ferve",
+      "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Chefe",
-        "url": "https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 140220,
-      "name": "Mo Parada",
-      "url": "https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Campo",
         "url": "https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 210461,
       "name": "No Campo",
       "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Chefe",
+        "url": "https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 140220,
+      "name": "Mo Parada",
+      "url": "https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA"
     },
     {
       "added_at": null,
@@ -835,30 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 127443,
-      "name": "Levantando a Ta\u00e7a",
-      "url": "https://open.spotify.com/track/2Y8Ln12OBjHksmqE5mYH4u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
       },
@@ -879,34 +855,6 @@
       "duration_ms": 199860,
       "name": "Fases",
       "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
-        }
-      ],
-      "duration_ms": 156442,
-      "name": "Lux\u00faria",
-      "url": "https://open.spotify.com/track/37W8TBDB1z5rhQPEUP1Bhz"
     },
     {
       "added_at": null,
@@ -947,30 +895,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00fasicas Para Marolar",
-        "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
       },
       "artists": [
-        {
-          "name": "KING Saints",
-          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
-        },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
         },
         {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 171008,
-      "name": "Gostoso esse Pretinho",
-      "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
+      "duration_ms": 156442,
+      "name": "Lux\u00faria",
+      "url": "https://open.spotify.com/track/37W8TBDB1z5rhQPEUP1Bhz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 127443,
+      "name": "Levantando a Ta\u00e7a",
+      "url": "https://open.spotify.com/track/2Y8Ln12OBjHksmqE5mYH4u"
     },
     {
       "added_at": null,
@@ -1023,6 +995,34 @@
       "duration_ms": 161896,
       "name": "Paz Terr\u00edvel",
       "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00fasicas Para Marolar",
+        "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
+      },
+      "artists": [
+        {
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 171008,
+      "name": "Gostoso esse Pretinho",
+      "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
     },
     {
       "added_at": null,
@@ -1123,6 +1123,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "PLASMA",
+        "url": "https://open.spotify.com/album/3WJttvkL7ss7DwkYz43JkQ"
+      },
+      "artists": [
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "PG 400",
+          "url": "https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz"
+        }
+      ],
+      "duration_ms": 174861,
+      "name": "MEC",
+      "url": "https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Copy",
         "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
       },
@@ -1155,30 +1179,6 @@
       "duration_ms": 181778,
       "name": "Copy",
       "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PLASMA",
-        "url": "https://open.spotify.com/album/3WJttvkL7ss7DwkYz43JkQ"
-      },
-      "artists": [
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "PG 400",
-          "url": "https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz"
-        }
-      ],
-      "duration_ms": 174861,
-      "name": "MEC",
-      "url": "https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0"
     },
     {
       "added_at": null,

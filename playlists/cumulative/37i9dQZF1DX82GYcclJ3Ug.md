@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Florence Road
 
-4,067 songs - 9 day 8 hr 38 min
+4,068 songs - 9 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2693,6 +2693,7 @@
 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 | 2024-03-15 | 2024-05-25 |
 | [Poison or Patience \(feat\. OSTON\)](https://open.spotify.com/track/6MYZ8x04XIEdFNg3rKAD5v) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY), [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [I LOVE YOU, ROBOT SUPERSTAR!](https://open.spotify.com/album/6H1bdNIAmVXS5s4FZfDEJf) | 2:57 | 2022-11-04 | 2023-02-11 |
 | [Politix](https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Politix](https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy) | 4:32 | 2025-08-22 | 2025-10-04 |
+| [Ponder Neek](https://open.spotify.com/track/3FQwEFzzf40iVo0xA6SjBb) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [Ponder Neek](https://open.spotify.com/album/0qoSNEhxEAQCgMg9p65AEq) | 2:35 | 2026-10-09 |  |
 | [POP POP POP](https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:16 | 2024-02-16 | 2024-04-06 |
 | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/track/5gGHRgEQ2wfgjKRyPaOG2P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/album/3GAHv86Yo9P3KCPmxYP8IO) | 3:20 | 2024-12-20 | 2025-02-01 |
 | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/track/2gaY4NhYEGJvxKbur1GKJE) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/album/1yo6Z11R4lcfGB938jqazC) | 3:50 | 2025-09-12 | 2026-02-07 |

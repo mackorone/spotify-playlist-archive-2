@@ -4,7 +4,7 @@
 
 > 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes!
 
-426 songs - 23 hr 26 min
+428 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [First Love Song](https://open.spotify.com/track/3vCVIcXgMwj5PdpSFgoVxa) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [First Love Song](https://open.spotify.com/album/2ygtFwFxHv24w6GWITZkkX) | 2:44 | 2023-08-28 | 2024-01-20 |
 | [flatline](https://open.spotify.com/track/0MwF1mt4fB7ZAjAWIpCnG8) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [flatline](https://open.spotify.com/album/4t9MJiVOy6KeOI3EjLgssB) | 2:42 | 2024-12-13 |  |
 | [Florida](https://open.spotify.com/track/34pOJWcmlxBUDkHaoqG1K2) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Florida](https://open.spotify.com/album/3tUZTMKsWtJZbs55y1tnm7) | 2:27 | 2023-08-28 | 2024-06-15 |
+| [Follow Me](https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Follow Me](https://open.spotify.com/album/1doYTnF0SbpTuRQqm8FE8R) | 2:51 | 2026-10-09 |  |
 | [foresight](https://open.spotify.com/track/2kl1dpcvE9PSKPHGPMdxkZ) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [the sugar machine \(deluxe\)](https://open.spotify.com/album/23d5T7FhFdQr7RtrvgcLPm) | 2:14 | 2025-01-24 | 2026-08-01 |
 | [Forget](https://open.spotify.com/track/4P02fYUDA6IzpVKElRnAcq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/3YwwkGzEWWOOqZBkBeGPx8) | 3:30 | 2021-12-06 | 2023-08-16 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/6dODwocEuGzHAavXqTbwHv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:48 | 2024-04-26 | 2024-06-08 |
@@ -374,6 +375,7 @@
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-11 |  |
 | [the 1](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:30 | 2023-08-15 | 2023-08-29 |
 | [The Blue](https://open.spotify.com/track/4LAeAtcbEAFYTRsZRpua6Z) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 4:05 | 2024-03-08 | 2025-02-18 |
+| [The Brightest](https://open.spotify.com/track/76kuiwPVPJLlw2glwy5RvR) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [The Brightest](https://open.spotify.com/album/26zzLxnYQtJY6D7ORYCH8d) | 4:09 | 2026-10-09 |  |
 | [The Dead Ones](https://open.spotify.com/track/4SY4oS0sRxMErvCxo9xdsk) | [Lydia Kenny](https://open.spotify.com/artist/6qT8Z4I9qTAxpJkvPLM0Fa) | [The Dead Ones](https://open.spotify.com/album/6EYV72DNd5VFhaOXThRcAi) | 3:07 | 2026-09-25 |  |
 | [the dog](https://open.spotify.com/track/5HUW7EfyjG6sy6AnYUDGiA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [best of corook \(so far\)](https://open.spotify.com/album/6fsVvwHc566EXvlryeSp7N) | 2:46 | 2023-08-28 | 2024-06-15 |
 | [The Greatest](https://open.spotify.com/track/1urIUOKFTYggmfqAjh2xyz) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [The Greatest](https://open.spotify.com/album/4fLmfcdQ4ydEA5M5UxNRzZ) | 3:13 | 2024-06-14 | 2026-07-11 |

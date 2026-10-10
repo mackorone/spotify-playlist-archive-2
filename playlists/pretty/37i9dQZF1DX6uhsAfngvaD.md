@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,336 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,351 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 34 | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8) | 3:10 |
 | 35 | [Our Past Lives](https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Ways To Get Out](https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI) | 3:45 |
 | 36 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
-| 37 | [I've Been Dreaming of You](https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [I've Been Dreaming Of You](https://open.spotify.com/album/5JBMkxhLl4894CjX2O9jEO) | 2:28 |
-| 38 | [Tell Me How](https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Tell Me How](https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv) | 3:17 |
+| 37 | [Tell Me How](https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Tell Me How](https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv) | 3:17 |
+| 38 | [I've Been Dreaming of You](https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [I've Been Dreaming Of You](https://open.spotify.com/album/5JBMkxhLl4894CjX2O9jEO) | 2:28 |
 | 39 | [Quite Like You](https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Quite Like You](https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X) | 2:59 |
 | 40 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
 | 41 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
 | 42 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
-| 43 | [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 |
-| 44 | [baby’s out of luck again](https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby's out of luck again](https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs) | 2:29 |
-| 45 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 |
-| 46 | [Lucky Clover](https://open.spotify.com/track/6GevokAd21692eviYc1O0I) | [Whisper Doll](https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU) | [Lucky Clover](https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6) | 2:16 |
+| 43 | [Lucky Clover](https://open.spotify.com/track/6GevokAd21692eviYc1O0I) | [Whisper Doll](https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU) | [Lucky Clover](https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6) | 2:16 |
+| 44 | [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 |
+| 45 | [baby’s out of luck again](https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby's out of luck again](https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs) | 2:29 |
+| 46 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 |
 | 47 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 |
 | 48 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
 | 49 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 74 | [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 |
 | 75 | [Cricket Songs](https://open.spotify.com/track/1X6YvgGzWH9t6io3ZBZ7JP) | [Phantom Handshakes](https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo) | [Cricket Songs](https://open.spotify.com/album/26bo5J4lnlEcCV1LygSfGM) | 3:50 |
 | 76 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |
-| 77 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
+| 77 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
 | 78 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
-| 79 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
+| 79 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
 | 80 | [Blue Arcade](https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr) | [Blue Arcade](https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd) | 3:37 |
 
 Snapshot ID: `AAAAAPsFbCmX8ANIE9mD2f8Kna8nwbCr`

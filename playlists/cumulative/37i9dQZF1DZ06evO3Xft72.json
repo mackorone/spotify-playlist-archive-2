@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 206680,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic"
@@ -470,6 +470,24 @@
       "duration_ms": 213848,
       "name": "Heaven Is",
       "url": "https://open.spotify.com/track/7d3boHf9Ko0tqqMBRHvIrJ"
+    },
+    {
+      "album": {
+        "name": "Heroes (2026 Mix)",
+        "url": "https://open.spotify.com/album/1Fbi1jCqM5EXud9xBGer1K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "Heroes - 2026 Mix",
+      "url": "https://open.spotify.com/track/6WLXTE0f4ohzfXTF33cNYZ"
     },
     {
       "album": {

@@ -732,7 +732,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 186894,
       "name": "BINGO",
       "url": "https://open.spotify.com/track/2wGVE0g9O1W0y5qn1dhxWc"
@@ -8278,6 +8278,24 @@
       "duration_ms": 250235,
       "name": "\u015arubka",
       "url": "https://open.spotify.com/track/42HCLyg66bqYWCPU3wqyMS"
+    },
+    {
+      "album": {
+        "name": "Plamy",
+        "url": "https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211705,
+      "name": "\u017bebro",
+      "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"
     },
     {
       "album": {

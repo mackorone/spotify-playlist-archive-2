@@ -4,7 +4,7 @@
 
 > Playlist
 
-661 songs - 1 day 15 hr 7 min
+662 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [Solo](https://open.spotify.com/track/4H2rViMies1GbJ3Fw851PL) | [Dook Walt Jr.](https://open.spotify.com/artist/3FdI5s1SLRNYNNS7yO3vMV) | [Solo](https://open.spotify.com/album/2jt3hqpAwYaJJf3eAg0bUE) | 4:37 | 2023-10-25 |  |
 | [Some Kind of Confidence](https://open.spotify.com/track/3tj39aa2qwlJMiL9lrUoJG) | [Dad Bod](https://open.spotify.com/artist/1f3XFmBNO92iugGTYWGRn8) | [Some Kind of Confidence](https://open.spotify.com/album/4Jdt0PPdVDOKtgMoYxJvkw) | 2:49 | 2023-10-25 |  |
 | [Somebody Cares](https://open.spotify.com/track/354FFaAjr1AtChzTWPrkTx) | [Better Person](https://open.spotify.com/artist/0PbRHFtbXsxQfOHl6m86dd) | [It's Only You](https://open.spotify.com/album/5PJh0LBSeH0DrRpqTzSW8F) | 4:17 | 2023-10-25 |  |
+| [Someone's Alibi](https://open.spotify.com/track/2dpLg4IEt83P49573MuvkO) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Someone's Alibi](https://open.spotify.com/album/2m0IXGivQFZwsnBsRVESLy) | 4:18 | 2026-10-09 |  |
 | [Something Else](https://open.spotify.com/track/55j9bIHUiLBReWWakC3Uts) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [Something Else](https://open.spotify.com/album/6vocuwAKeG6yTZAchgV2oq) | 3:56 | 2023-10-25 |  |
 | [Something I Love](https://open.spotify.com/track/1ExGxzs2pMYfq4kACepm1I) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [However Many Days](https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy) | 5:57 | 2023-10-25 |  |
 | [Something to Lose](https://open.spotify.com/track/3e1rj79KcnO9h2TMJJTYfN) | [Better Person](https://open.spotify.com/artist/0PbRHFtbXsxQfOHl6m86dd) | [Something to Lose](https://open.spotify.com/album/6tJnsbq2C5zamibnV59MMe) | 3:38 | 2023-10-25 |  |

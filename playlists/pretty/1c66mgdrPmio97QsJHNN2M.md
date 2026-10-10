@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,035 likes - 243 songs - 12 hr 31 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,037 likes - 262 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,5 +251,24 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 241 | [Basquiat's Crown](https://open.spotify.com/track/1iJILtpiM8fM3MkOtIeOmJ) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Basquiat's Crown](https://open.spotify.com/album/4NDM3WS0NHHBqk5kVvwxED) | 3:02 |
 | 242 | [Melancholia](https://open.spotify.com/track/5lWTJx0HNfNvQoYrGNY1YU) | [fakethemoonlanding](https://open.spotify.com/artist/0DaC63rNxzYGnaIMfAcU9u) | [Melancholia](https://open.spotify.com/album/3HmsopgO3Nc2ohlHEhjIjs) | 3:07 |
 | 243 | [Bhole \- Extended Mix](https://open.spotify.com/track/5KVAaLLKtp9UQutdEhi3a1) | [Indiaanksh](https://open.spotify.com/artist/3x0FiSfPsnzpGBQ4wik8v1) | [Bhole \(Extended Mix\)](https://open.spotify.com/album/2Iu7MJXqYCdAJ4DBG2MNdW) | 4:29 |
+| 244 | [Holding On](https://open.spotify.com/track/7FpMrMdE5taPLYb3SvMgwD) | [Sunset Sounds](https://open.spotify.com/artist/3HvnlskA0Py4QCyOQ2OumK) | [Writing Briefs](https://open.spotify.com/album/7knTj60KlXbk0zC7P6RP2c) | 2:10 |
+| 245 | [Sun Goes Down](https://open.spotify.com/track/4zzX2oAPZ038kIB7Baxe9h) | [IDLE COAST](https://open.spotify.com/artist/0G71MmiKVuY8TuZIaZp5uz) | [Sun Goes Down](https://open.spotify.com/album/1FuzmGxdVKLzulWJLwcE1S) | 3:18 |
+| 246 | [Glowing Cactus](https://open.spotify.com/track/22hpgnYXuwVD913Z6pqjm7) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Glowing Cactus](https://open.spotify.com/album/2nl2fjbG6SyUp8QOqGPU0w) | 3:17 |
+| 247 | [Pressure](https://open.spotify.com/track/1QP5Owx2dkCar0oPyRTPbr) | [Adalfuns Dornelas](https://open.spotify.com/artist/2mwxQoUmUF7VnUqZLLQkJw) | [Pressure](https://open.spotify.com/album/2orgTNe37W1pJpUSaeJvkG) | 3:40 |
+| 248 | [Outta Control](https://open.spotify.com/track/0X7sIwkQiRRQvVN0iUdSwq) | [LuumixX](https://open.spotify.com/artist/0YM7PRuqPpBZUzqnD5Wh6n) | [Outta Control](https://open.spotify.com/album/7g63EIFNbfwUww2vSDNLqO) | 4:02 |
+| 249 | [Pulse](https://open.spotify.com/track/3LGodVrHalgiwNLbCCodFB) | [Des December](https://open.spotify.com/artist/0j9oTBtPJAItYMEtAr6YEo), [Quinetik](https://open.spotify.com/artist/6EO6ylV2xQJI2AAgJQM3PS) | [Descontrol](https://open.spotify.com/album/3JgCqhfruEkeWLU7CEgAeQ) | 4:24 |
+| 250 | [Meantime](https://open.spotify.com/track/0dkceYu8VUCgVCdLIw6Lfc) | [killseph](https://open.spotify.com/artist/6RMBuNtyBYW5cTokyc8pXx) | [Blue Moon](https://open.spotify.com/album/7DkkbD3NAskubzJCalQRA9) | 2:21 |
+| 251 | [EVERYTHING ALL AT ONCE](https://open.spotify.com/track/3kAfwy0huymz4kFJE5paZN) | [lowkeylindsay](https://open.spotify.com/artist/2DArB2xJDcVk2MQPfgeWiH) | [EVERYTHING ALL AT ONCE](https://open.spotify.com/album/54TZOr9pmJImSrb5VADXoR) | 2:53 |
+| 252 | [Run The Game](https://open.spotify.com/track/2V84JaxK5ruDp8toALcNTS) | [Crispy Sounds](https://open.spotify.com/artist/2Mwu0Y0JYSk8ZrQBnXSifl) | [Run The Game](https://open.spotify.com/album/4qU6ZweO8OxcUdG60mqov6) | 2:48 |
+| 253 | [CHAMPION](https://open.spotify.com/track/5FF0UUOOcrgkeKgIiVjGv4) | [Crispy Sounds](https://open.spotify.com/artist/2Mwu0Y0JYSk8ZrQBnXSifl) | [CHAMPION](https://open.spotify.com/album/27iC11LUGr75pSp9p3A0VJ) | 2:44 |
+| 254 | [Dreamer](https://open.spotify.com/track/2OCUzzbgocZbw5LZko0yem) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Dreamer](https://open.spotify.com/album/48iou1ov15CjMYZ7FxIKBx) | 3:28 |
+| 255 | [100% Me](https://open.spotify.com/track/0I61ESoIOexANVVJ6AsCXC) | [Souel Quercia](https://open.spotify.com/artist/2gCEsF7KodPih0r1Ib8CZs) | [100% Me](https://open.spotify.com/album/7ruPBGdi1cegGG9H6t6AvP) | 2:52 |
+| 256 | [Headcheese](https://open.spotify.com/track/0W4CtI85j6NAPWtlyx0DET) | [Soft as Hell](https://open.spotify.com/artist/2Ro037iWqMn7YrfqclV974) | [Headcheese](https://open.spotify.com/album/5l3uMfK8YXRkyBGBQeN3Vo) | 6:02 |
+| 257 | [El Abismo \- Relax Remix](https://open.spotify.com/track/6Jhi7gO45l9lu4UWGoGi6C) | [RCN](https://open.spotify.com/artist/6fgNKyVoYkhEkBWReaMsFO) | [El Abismo \- The Remixes](https://open.spotify.com/album/2aHLnKfr045Yotj2Bo7nvE) | 4:09 |
+| 258 | [Leave this all behind](https://open.spotify.com/track/2CYjl4qs1hmdXnZviU9FQs) | [ilzworld](https://open.spotify.com/artist/2I9yuzxB5QtGRHA5TJl0wh) | [Leave this all behind](https://open.spotify.com/album/6Yi8Dloi2iH9OkcrQaaF7W) | 2:46 |
+| 259 | [Breaking Everyday](https://open.spotify.com/track/0R2HuZhM5fOGbFgJLiQapW) | [SaltyCap](https://open.spotify.com/artist/7bwgpa6vjZ8qtwuWKBsz3G) | [Breaking Everyday](https://open.spotify.com/album/7icfo6JC31i8LbxPqz2Cfi) | 3:26 |
+| 260 | [Movin\* \(Single Version\)](https://open.spotify.com/track/19CPicFXm1wfWEGaqcg5Zi) | [Nova Tymes](https://open.spotify.com/artist/2OfAXvMc4nCxAKXTwVvqTZ) | [Movin\*](https://open.spotify.com/album/0GAfh7SX7uhNMi8G8kj7uT) | 2:42 |
+| 261 | [Not Falling](https://open.spotify.com/track/5Xno1RceyZa1xBUG5l3gJr) | [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Emily Gray](https://open.spotify.com/artist/02s2pHJ0TIns6EsWRw2YM3) | [Not Falling](https://open.spotify.com/album/1duQa8W6JPnOFnzNyl3ukR) | 2:39 |
+| 262 | [TRAPDOOR](https://open.spotify.com/track/3iLcHvJGiSQfmclyLuiK8t) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [BLUEPRINT AVALANCHE](https://open.spotify.com/album/5Y2WEDRwCyzvJIcPzoVJWE) | 2:46 |
 
-Snapshot ID: `AAA89XoRBK+XPtP/P72pu9cX3ySo2FwP`
+Snapshot ID: `AAA9CLLdT3WF6uW+JYmpQQLux00OXq4y`

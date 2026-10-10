@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 224785,
       "name": "29:11",
       "url": "https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV"
@@ -2277,6 +2277,28 @@
     },
     {
       "album": {
+        "name": "MudaH",
+        "url": "https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175909,
+      "name": "Atte El Insuperable",
+      "url": "https://open.spotify.com/track/0tgYhNMHWBIkJgW9xg8Vzi"
+    },
+    {
+      "album": {
         "name": "awitado :(",
         "url": "https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad"
       },
@@ -2516,6 +2538,24 @@
       "duration_ms": 208216,
       "name": "Baja Beach (feat. Fuerza Regida)",
       "url": "https://open.spotify.com/track/14tg6YVfdbWngTlk09UzJt"
+    },
+    {
+      "album": {
+        "name": "Baj\u00f3n Emocional",
+        "url": "https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Baj\u00f3n Emocional",
+      "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
     },
     {
       "album": {
@@ -3510,7 +3550,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 206250,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/4K7aJc4N6Ju2YE21e2YX5e"
@@ -3980,7 +4020,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 154835,
       "name": "China De Los Ojos Negros",
       "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
@@ -4630,7 +4670,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 179917,
       "name": "Con Una, Dos o Tres",
       "url": "https://open.spotify.com/track/59VMTSGfODLpmLRjBZrXLi"
@@ -5791,6 +5831,24 @@
     },
     {
       "album": {
+        "name": "deliveryfood1000",
+        "url": "https://open.spotify.com/album/56CwYTlSuxirw66u6QlTGD"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134193,
+      "name": "deliveryfood1000",
+      "url": "https://open.spotify.com/track/7CO9KDkC67xseaQVHX0bhj"
+    },
+    {
+      "album": {
         "name": "DELTAS",
         "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
       },
@@ -6854,7 +6912,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 232755,
       "name": "EL FEO",
       "url": "https://open.spotify.com/track/1mN3jlQ8zXZvGAaSW8hCAq"
@@ -10295,6 +10353,24 @@
     },
     {
       "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1cQYDKSDaJDOzgD8jlYSos"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kachimba",
+          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282250,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/3DhDblpfWrDHqSKiC6QfTn"
+    },
+    {
+      "album": {
         "name": "La Casita De La Selva",
         "url": "https://open.spotify.com/album/4Xhraf36zfM780liskyM6d"
       },
@@ -13500,6 +13576,28 @@
       "duration_ms": 267268,
       "name": "Mejores Jordans 2",
       "url": "https://open.spotify.com/track/6RYsDCdeXeWK2bsCtYXLgy"
+    },
+    {
+      "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194180,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
     },
     {
       "album": {
@@ -21218,7 +21316,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 174656,
       "name": "Tipo Tren",
       "url": "https://open.spotify.com/track/2FPmtKyOMBJUZ9CwF47ODS"
@@ -22393,6 +22491,28 @@
     },
     {
       "album": {
+        "name": "Uncertain, TX (feat. Intocable) [Spanish Version]",
+        "url": "https://open.spotify.com/album/7rWbojvauIqKj6PHESW6YB"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213382,
+      "name": "Uncertain, TX (feat. Intocable) - Spanish Version",
+      "url": "https://open.spotify.com/track/3CF6hmINIcPUh0wfxN0ft3"
+    },
+    {
+      "album": {
         "name": "Uno Pal Otro",
         "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
       },
@@ -23366,7 +23486,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 159791,
       "name": "Yo Quisiera",
       "url": "https://open.spotify.com/track/7dG0TMDhWaeHR61gxoXYCw"
@@ -23428,6 +23548,28 @@
       "duration_ms": 209565,
       "name": "Yo Ya Sabia Pa' Donde Iba - En Vivo",
       "url": "https://open.spotify.com/track/7fbN1oIzqmdNmotd0GhpPv"
+    },
+    {
+      "album": {
+        "name": "Zona de Mamboteo",
+        "url": "https://open.spotify.com/album/4fPgW765a0rCBlPHv2Dbr9"
+      },
+      "artists": [
+        {
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124588,
+      "name": "Zona de mamboteo",
+      "url": "https://open.spotify.com/track/0ts008BYOdnBe1ZOcVabvJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6o1HvE0HE1CZJSBIVyNcKg">Natalia Grosiak</a>
 
-3,112 songs - 6 day 19 hr 28 min
+3,113 songs - 6 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1917,7 +1917,7 @@
 | [Ostatni Raz](https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Ostatni Raz](https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ) | 2:57 | 2025-05-06 | 2025-06-04 |
 | [Ostatni tramwaj](https://open.spotify.com/track/1WussQ5WGuVdO4Hln5uBwo) | [SAMARA](https://open.spotify.com/artist/0H96zZshfKV7mq25xuyAWD) | [Ostatni tramwaj](https://open.spotify.com/album/0N1T3M2IFBeIiVBxB1nNeN) | 2:35 | 2024-01-09 | 2024-02-07 |
 | [Ostatni Walczyk](https://open.spotify.com/track/3eC6K5T59fD0cdpRsyV6GQ) | [Sara Chmiel](https://open.spotify.com/artist/57HF3clFmobnP0FmKb4leY), [Gromee](https://open.spotify.com/artist/2oRTLExi1ct74cVtfAwfhV) | [Ostatni Walczyk](https://open.spotify.com/album/7zxZ3N33PC2ukp3OYMF5UY) | 3:28 | 2022-11-08 | 2022-12-01 |
-| [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 | 2026-10-07 |  |
+| [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 | 2026-10-07 | 2026-10-10 |
 | [oszukał mnie disney](https://open.spotify.com/track/3GzJteZHgvrL8cEtuCm6Y5) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [oszukał mnie disney](https://open.spotify.com/album/5nrWnHA2vcpm477GjiI8ul) | 1:54 | 2023-07-04 | 2023-08-02 |
 | [Oszukuj](https://open.spotify.com/track/4WOw59R0IufBsFyQqTbE8V) | [Brzózka](https://open.spotify.com/artist/2EQOrvdE8VhKrUfxsVNAMw) | [Oszukuj](https://open.spotify.com/album/7IinRQIQWRkSxvIJEwCvd4) | 3:55 | 2022-02-01 | 2022-03-08 |
 | [OT TAK](https://open.spotify.com/track/2EtkA2qhUktymMFl1Sh7YR) | [Guest Julka](https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ) | [OT TAK](https://open.spotify.com/album/6hHEgvhnEUM9lo9bbeD0gK) | 2:43 | 2023-08-01 | 2024-01-10 |
@@ -2546,6 +2546,7 @@
 | [Terapia](https://open.spotify.com/track/4dh38kQTGqFHVZ4bxumzL6) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Terapia](https://open.spotify.com/album/0w2xxlhCdrzE2GWCIC2iMU) | 2:56 | 2023-02-28 | 2023-04-05 |
 | [teraz i tu](https://open.spotify.com/track/5cFB0j0bn5TxjTeJbdARMJ) | [adi](https://open.spotify.com/artist/0jt2f5aZJ4HskYRg6mYMPz) | [teraz i tu](https://open.spotify.com/album/4rT3VhmyPGIDJjXqvNAHto) | 3:38 | 2024-06-04 | 2024-07-03 |
 | [TERAZ I TU](https://open.spotify.com/track/3ujyKuklJdY00BLAqz0jiA) | [IMI](https://open.spotify.com/artist/3u4cVaeeRXjComKa6guF0I) | [TERAZ I TU](https://open.spotify.com/album/6B6zZBjJDQCUWr52MpFtxy) | 2:44 | 2024-09-03 | 2024-10-02 |
+| [Teraz mam serce](https://open.spotify.com/track/5WTN8q8J0IbkwWmobgEvsR) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Tamtej dziewczyny już nie ma](https://open.spotify.com/album/6l7Huc1Zk00By4v0QnAUJ1) | 3:17 | 2026-10-09 |  |
 | [Teraz się baw](https://open.spotify.com/track/2kXTuttSImQMSAAn9kEImN) | [Natalia Hodurek](https://open.spotify.com/artist/3tX6B5jKMag8bF2BM2EhNp) | [WIZJE](https://open.spotify.com/album/40gf7NsNeA3Q9zJEJUz8fn) | 3:32 | 2022-10-04 | 2022-11-09 |
 | [Termowizja](https://open.spotify.com/track/6njdnR6sNITmB7oUpEcjyd) | [MONGIRD](https://open.spotify.com/artist/41sW1tNUQ6QgKOonv2sIez) | [Termowizja](https://open.spotify.com/album/7AsYHxWunromkzM9cDZ4J4) | 3:48 | 2023-11-07 | 2023-11-30 |
 | [Też To Znasz](https://open.spotify.com/track/4u1uEusBj1J68p5MI1bjN5) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE) | [Też To Znasz](https://open.spotify.com/album/1dYCfJ1JDIsuqZhLKifUlU) | 4:01 | 2023-11-07 | 2023-11-30 |

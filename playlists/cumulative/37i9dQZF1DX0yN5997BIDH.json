@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la m\u00fasica tropical no se crea ni se destruye solo se transforma. A bailar con Ervin River",
+  "description": "la m\u00fasica tropical no se crea ni se destruye solo se transforma. A bailar con Jorge Cuellar",
   "name": "tropic_ALT",
   "tracks": [
     {
@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "AMOR FATI",
+        "url": "https://open.spotify.com/album/25rco5l7GSs8Da0X4eABQw"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181999,
+      "name": "AMOR FATI",
+      "url": "https://open.spotify.com/track/6FfN4fFMsiBK2pgP9mLqxL"
+    },
+    {
+      "album": {
         "name": "Amor Maicero",
         "url": "https://open.spotify.com/album/5OfcYbOJn31RKd3ncfPnoT"
       },
@@ -396,6 +414,28 @@
       "duration_ms": 240000,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5WxYU8RRzy5X0kC6Fx9SpI"
+    },
+    {
+      "album": {
+        "name": "AURA CUMBIERA 2",
+        "url": "https://open.spotify.com/album/74FELxfmSPaC6SGohc4dX7"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "AURA CUMBIERA 2",
+      "url": "https://open.spotify.com/track/48ZHI2OkCwD3dry3nNirXd"
     },
     {
       "album": {
@@ -1159,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Curandera",
+        "url": "https://open.spotify.com/album/3ljmEsgdsSPnlUbx6lBKky"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224167,
+      "name": "Curandera",
+      "url": "https://open.spotify.com/track/2iifySRjvU5xnBX3aQ484K"
+    },
+    {
+      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY"
       },
@@ -1460,7 +1518,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 142774,
       "name": "El Protagonista",
       "url": "https://open.spotify.com/track/31r1EkfFd1Jbw7bTyje3JM"
@@ -2685,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "Me hicieron un amarre pero nunca me soltaron",
+        "url": "https://open.spotify.com/album/6aQNqWN7d2ErF3iHlggnWh"
+      },
+      "artists": [
+        {
+          "name": "Herbolaria",
+          "url": "https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205250,
+      "name": "LA CUMBIA DEL DOLOR",
+      "url": "https://open.spotify.com/track/38V4kQu04tvGNWeUzMkEi8"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -3380,6 +3456,24 @@
       "duration_ms": 210000,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
+    },
+    {
+      "album": {
+        "name": "Bestiaria",
+        "url": "https://open.spotify.com/album/4cQ5WqF9GVCml16yQZP4gx"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211136,
+      "name": "Mayahuel",
+      "url": "https://open.spotify.com/track/0wN8nSkvBGlZNNzw2Lb0sL"
     },
     {
       "album": {
@@ -4097,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "PescandOoO",
+        "url": "https://open.spotify.com/album/3FLOGJYQvzqMPOdHdueSDM"
+      },
+      "artists": [
+        {
+          "name": "Treezs",
+          "url": "https://open.spotify.com/artist/1ta4o2R4GJlJutqwfHCKHP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163808,
+      "name": "PescandOoO",
+      "url": "https://open.spotify.com/track/7nVK8Q34d7KLz7w0PiI6rF"
+    },
+    {
+      "album": {
         "name": "Physical (Acoustic)",
         "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
       },
@@ -4600,6 +4712,44 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Sentimiento De Un Gangster",
+        "url": "https://open.spotify.com/album/1NBJ647hO6LAxkp74KiM64"
+      },
+      "artists": [
+        {
+          "name": "Awesome Pierre",
+          "url": "https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh"
+        },
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Blagh",
+          "url": "https://open.spotify.com/artist/7LNIbiKKGIMlw7GjgJlR0w"
+        },
+        {
+          "name": "JuicyNise",
+          "url": "https://open.spotify.com/artist/0MSw8gYA4pujLZst10Zve8"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253653,
+      "name": "Sentimiento De Un Gangster",
+      "url": "https://open.spotify.com/track/2DaQtwU1gZAic4QspM0Teq"
     },
     {
       "album": {
@@ -5925,6 +6075,28 @@
     },
     {
       "album": {
+        "name": "LO \u00daLTIMO EN MORIR",
+        "url": "https://open.spotify.com/album/6CHR0SSvyJUQKXeg4NWpjT"
+      },
+      "artists": [
+        {
+          "name": "Brau",
+          "url": "https://open.spotify.com/artist/6Q9umJZCIygtlkVvPJuymB"
+        },
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "yaestoybien",
+      "url": "https://open.spotify.com/track/5pZMzBSzMWIlyq3wyVJnkl"
+    },
+    {
+      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -6096,6 +6268,28 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/6IzH7ucSwoenS89CQtfLWk"
+    },
+    {
+      "album": {
+        "name": "Zona de Mamboteo",
+        "url": "https://open.spotify.com/album/4fPgW765a0rCBlPHv2Dbr9"
+      },
+      "artists": [
+        {
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124588,
+      "name": "Zona de mamboteo",
+      "url": "https://open.spotify.com/track/0ts008BYOdnBe1ZOcVabvJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0yN5997BIDH"

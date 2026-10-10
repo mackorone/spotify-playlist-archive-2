@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-198 songs - 13 hr 19 min
+199 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Swing Low Sweet Chariot](https://open.spotify.com/track/5BujScz3tYp115DoioZUCs) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [CHINA BLACK](https://open.spotify.com/artist/2alEr1xfOACV589q7XCv7A) | [The Star and the Wiseman](https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng) | 3:52 | 2022-10-24 | 2025-10-19 |
 | [Thandiwe Wami](https://open.spotify.com/track/2dsDkaeatIyTbda5gr6iIF) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Isitimela](https://open.spotify.com/album/2sQk0d0DJltKIbsyAmYhC2) | 4:00 | 2025-10-12 |  |
 | [Thandiwe Wami](https://open.spotify.com/track/5UZFdcIvMIdCaNajKHBJIJ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Isitimela](https://open.spotify.com/album/6wVhMiTP7jYVZC7W44Z3bK) | 4:00 | 2024-05-05 | 2025-10-08 |
-| [The Honeyeater’s Song](https://open.spotify.com/track/2hH2xGkD9AxL7fZQTy7avE) | [Stornoway](https://open.spotify.com/artist/1UzKSuyOqKgUupcNNEtnF1), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Honeyeater’s Song](https://open.spotify.com/album/5X3ksxWPGMs450naH43i2P) | 3:46 | 2026-08-18 |  |
+| [The Honeyeater’s Song](https://open.spotify.com/track/2hH2xGkD9AxL7fZQTy7avE) | [Stornoway](https://open.spotify.com/artist/1UzKSuyOqKgUupcNNEtnF1), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Honeyeater’s Song](https://open.spotify.com/album/5X3ksxWPGMs450naH43i2P) | 3:46 | 2026-08-18 | 2026-10-10 |
+| [The Honeyeater’s Song](https://open.spotify.com/track/3PtHOfHx0PhIIavCC81rdo) | [Stornoway](https://open.spotify.com/artist/1UzKSuyOqKgUupcNNEtnF1), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Beyonder](https://open.spotify.com/album/2AQSVRQXllHAelTZU3wh4I) | 3:46 | 2026-10-10 |  |
 | [There Come Our Mothers](https://open.spotify.com/track/1KRI6lKwEbd6u410wkagfv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [World Travels: World Music For Kids](https://open.spotify.com/album/11RNYbvO9tW4SDpzjGD3lT) | 2:06 | 2023-05-19 | 2023-05-26 |
 | [This Little Light of Mine \(Bonus Track\)](https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu Revisited: 30th Anniversary Celebration](https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X) | 3:41 | 2021-12-28 |  |
 | [This Town](https://open.spotify.com/track/4JJct5QXjrrAVw05RN5oQt) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:53 | 2022-09-10 |  |

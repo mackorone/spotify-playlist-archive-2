@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 66547,
+  "num_followers": 66556,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAGAy2xW/ewfzHy6YPzHV6F",
+  "snapshot_id": "asbdAAAAAADmsWQhoc84fWPKM+q0cJQd",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Vidas Paralelas",
-      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 214527,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Vidas Paralelas",
+      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mamita Santa",
+        "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Mamita Santa",
+      "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pel\u00edcula (Intervenida por Ximena Sari\u00f1ana)",
         "url": "https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 195213,
       "name": "El Quelite - De la serie \"Mal De Amores\"",
       "url": "https://open.spotify.com/track/1LgNJvrcdqy8GqM6AnsgTP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mamita Santa",
-        "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Mamita Santa",
-      "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 282146,
-      "name": "Poquito A Poquito",
-      "url": "https://open.spotify.com/track/5cCCk44zy1XwmxIxwHjNAE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feliz Breakup",
         "url": "https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 207185,
       "name": "Feliz Breakup",
       "url": "https://open.spotify.com/track/4VzzMRP8dhR7I5wK79oAWC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 282146,
+      "name": "Poquito A Poquito",
+      "url": "https://open.spotify.com/track/5cCCk44zy1XwmxIxwHjNAE"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 173450,
-      "name": "Lo Bailado",
-      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Adolescente",
         "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 49081,
       "name": "Sophia",
       "url": "https://open.spotify.com/track/0MQJCeRaKenhuEN1r6rO2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 173450,
+      "name": "Lo Bailado",
+      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217168,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diosa",
         "url": "https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 175113,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217168,
-      "name": "Las Cosas Simples",
-      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
     },
     {
       "added_at": null,

@@ -5595,6 +5595,24 @@
     },
     {
       "album": {
+        "name": "DANCE DISRUPTOR",
+        "url": "https://open.spotify.com/album/5gAqwyRmPxLBwIgiYE2zza"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181589,
+      "name": "DANCE DISRUPTOR",
+      "url": "https://open.spotify.com/track/2Ur0OhXVahAdjNQICgr2ed"
+    },
+    {
+      "album": {
         "name": "Dancing Through It All",
         "url": "https://open.spotify.com/album/0sBFTmC0IfoBN9zAiXmsVb"
       },

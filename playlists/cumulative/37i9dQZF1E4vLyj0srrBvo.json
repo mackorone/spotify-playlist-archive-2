@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 223750,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 218560,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 181640,
       "name": "Bang Bang Bang Bang",
       "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 147441,
       "name": "Bloom For Me",
       "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
@@ -5004,7 +5004,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Brian is the Most Beautiful",
       "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX"
@@ -6062,7 +6062,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
@@ -8094,10 +8094,28 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 184626,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+    },
+    {
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/4AbrXRuNjXImA8KNhQxT2S"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/7G2SvLZUD4XMQESH97KsPs"
     },
     {
       "album": {
@@ -12042,7 +12060,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 212736,
       "name": "Gilded Lily",
       "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
@@ -14868,7 +14886,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 246777,
       "name": "I Love My Boyfriend",
       "url": "https://open.spotify.com/track/6Sb49DdwbBrVEEtG8OGpGT"
@@ -18108,7 +18126,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 299933,
       "name": "Little Dark Age",
       "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
@@ -21678,7 +21696,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 199183,
       "name": "Nothing Lasts Forever (with Grimes)",
       "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
@@ -24080,7 +24098,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 224343,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe"
@@ -26362,7 +26380,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 208624,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2"
@@ -26796,7 +26814,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 239999,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH"
@@ -29062,7 +29080,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 217651,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0"
@@ -29380,7 +29398,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 292506,
       "name": "Symphonia IX (My Wait Is U)",
       "url": "https://open.spotify.com/track/76iqrqfj4k7Igq2WoKuTlS"
@@ -32452,7 +32470,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 118853,
       "name": "Visiting Statue",
       "url": "https://open.spotify.com/track/2p8RITtRYMtk3RkpgLYe5M"

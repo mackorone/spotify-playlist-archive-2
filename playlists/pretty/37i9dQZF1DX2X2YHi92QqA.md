@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Спокійна музика для повільних ранків і затишних вечорів 🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,083 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,093 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 33 | [По Колу](https://open.spotify.com/track/3H77MNMQJBotRTXc3AaQyb) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [По Колу](https://open.spotify.com/album/1uqLQIRZOGnXxVX1wTc4EU) | 3:17 |
 | 34 | [Забудь мене](https://open.spotify.com/track/38GSd0ICt6kGMJlBaVYdPf) | [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ), [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Забудь мене](https://open.spotify.com/album/7qOH8jaMcqpIFa3ktnEbKw) | 2:33 |
 | 35 | [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 |
-| 36 | [Шум](https://open.spotify.com/track/2WG39mZr5DbeOEKT9OPatF) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Шум](https://open.spotify.com/album/4oIy3k705p30Y3MH69VesH) | 3:01 |
-| 37 | [Тихо тихо](https://open.spotify.com/track/0oLYBXATXB2eLkJA24A0nr) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [ГУРМА](https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC) | 2:21 |
-| 38 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
+| 36 | [Тихо тихо](https://open.spotify.com/track/0oLYBXATXB2eLkJA24A0nr) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [ГУРМА](https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC) | 2:21 |
+| 37 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
+| 38 | [Шум](https://open.spotify.com/track/2WG39mZr5DbeOEKT9OPatF) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Шум](https://open.spotify.com/album/4oIy3k705p30Y3MH69VesH) | 3:01 |
 | 39 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 |
-| 40 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
-| 41 | [Нелюбов](https://open.spotify.com/track/7JDV04QvvqeufuidNtrPxW) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz), [MOISHE](https://open.spotify.com/artist/6pcvAwBZmKzwCFYeCSo3eh) | [Нелюбов](https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f) | 2:41 |
-| 42 | [Станемо тишею](https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Станемо тишею](https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG) | 3:09 |
+| 40 | [Станемо тишею](https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Станемо тишею](https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG) | 3:09 |
+| 41 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
+| 42 | [Нелюбов](https://open.spotify.com/track/7JDV04QvvqeufuidNtrPxW) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz), [MOISHE](https://open.spotify.com/artist/6pcvAwBZmKzwCFYeCSo3eh) | [Нелюбов](https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f) | 2:41 |
 | 43 | [Сон](https://open.spotify.com/track/7yfAArTAxMY5Vl7u3CCRAE) | [сервант](https://open.spotify.com/artist/21THXOs8Q1gAAS95grxylx) | [Сон](https://open.spotify.com/album/6Uyf3S4PbtSO30lSPnu9Hh) | 2:51 |
 | 44 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
 | 45 | [Злови мене](https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc) | [Вояж](https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr) | 2:16 |
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 48 | [ellipsis](https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [ellipsis](https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ) | 4:03 |
 | 49 | [Про тебе, звісно](https://open.spotify.com/track/7IOexzgQGFToaiXIeQibSt) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he), [Targan](https://open.spotify.com/artist/7lnWKp3xbQcXqu2bgwMEVs) | [Про тебе, звісно](https://open.spotify.com/album/4b4bnSXcYx3WyYmhZt3wco) | 3:27 |
 | 50 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 |
-| 51 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 |
-| 52 | [Спірічуал](https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Найдорожчі речі у світі](https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF) | 4:15 |
+| 51 | [Спірічуал](https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Найдорожчі речі у світі](https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF) | 4:15 |
+| 52 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
 | 53 | [бути оптимістом](https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [бути оптимістом](https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es) | 3:00 |
-| 54 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
+| 54 | [Пісне моя](https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Пісне моя](https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os) | 3:15 |
 | 55 | [Останній раз](https://open.spotify.com/track/0VmvJ7BE6iXwiFNJGF00IT) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [ТИ.](https://open.spotify.com/album/5m4Hr1lqxhY4SmwH9tBAZd) | 2:58 |
-| 56 | [Пісне моя](https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Пісне моя](https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os) | 3:15 |
+| 56 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 |
 | 57 | [Світ повен любві](https://open.spotify.com/track/3WxE8ZoW9BYxfWFEVMJuGR) | [Artistka Chuprynenko](https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi) | [Екскурсії по городу](https://open.spotify.com/album/1orSqMtnDMqO5QEXN4FaVd) | 4:18 |
 | 58 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 |
 | 59 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 |

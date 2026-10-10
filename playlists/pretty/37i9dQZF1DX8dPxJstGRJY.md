@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,959 likes - 87 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,079 likes - 87 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 73 | [We Will Meet Once Again \(with Andrea Bocelli\)](https://open.spotify.com/track/28hIO3sitQKgRPbQ61x6bS) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Bridges \(Deluxe\)](https://open.spotify.com/album/70406c1Pa2F3BQscpLiUME) | 3:55 |
 | 74 | [Hasta mi final](https://open.spotify.com/track/1fZDEjhNs6zyqKzMC7HjyZ) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI) | 3:36 |
 | 75 | [The Voice](https://open.spotify.com/track/2E3y6X63fbZCYJGELwRAWQ) | [Celtic Woman](https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x) | [A New Journey](https://open.spotify.com/album/1og5dt9eliYqKQG8eBH9jf) | 3:05 |
-| 76 | [Caruso](https://open.spotify.com/track/0tTbk9bpoFRDa19eVghS4d) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Unknown Artist](https://open.spotify.com/artist/3POLGp1PDjloqIXcgfJZZl), [Orchestra del Teatro Comunale di Bologna](https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg) | [Pavarotti Forever](https://open.spotify.com/album/4uqcr1BXoigCnQ9POw0YYP) | 5:18 |
+| 76 | [Caruso](https://open.spotify.com/track/0tTbk9bpoFRDa19eVghS4d) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Orchestra del Teatro Comunale di Bologna](https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg) | [Pavarotti Forever](https://open.spotify.com/album/4uqcr1BXoigCnQ9POw0YYP) | 5:18 |
 | 77 | [Never Say Goodbye \(Adapted from Ravel's Pavane, M\. 19\)](https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6), [Ian Dean](https://open.spotify.com/artist/5a06Tw8O8XuZ5ACLKxVXp6), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Pure \(Includes Bonus Tracks and Exclusive Track\)](https://open.spotify.com/album/4F4cYsACedydHGyvpZCXN5) | 3:13 |
 | 78 | [Volare](https://open.spotify.com/track/7r3YaTG6mKqouTw09iCNnZ) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [In Harmony](https://open.spotify.com/album/2QjdcIMXEny95djxh7lEN8) | 3:29 |
 | 79 | [White Christmas \(feat\. Sofia Carson\)](https://open.spotify.com/track/7BsPghb8l6oQq0tXzFfTNV) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [White Christmas \(feat\. Sofia Carson\)](https://open.spotify.com/album/2bZ93x1Mm5INldKT3aLPk8) | 3:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > no me arrastré más porque me faltó suelo 🥺💔🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,039 likes - 90 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,131 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 89 | [Te Amo](https://open.spotify.com/track/3EMEDF8iBEGeiR4ZEPRrFs) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n) | [Te Amo](https://open.spotify.com/album/3GVsiC0rnhSEFID1RUBzPw) | 3:21 |
 | 90 | [Me Canse De Morir Por Tu Amor](https://open.spotify.com/track/7gFDY4Dce0ZIiNeWbXNxk9) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Padre e Hijo](https://open.spotify.com/album/6yTtdxZpn9uuBCHm5OSWyl) | 3:32 |
 
-Snapshot ID: `AAAAAG1hXeY7PBC66Lztst8jY3u9ceW9`
+Snapshot ID: `AAAAAD/hyRDRSeHUBzrST9rm8RQ8UhGb`

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122582,
+  "num_followers": 122561,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV0oAaOsIO7I30Trdhpdo76JONgFXq",
+  "snapshot_id": "AAAV00lEDaPs9QIriE8cD/FmDOndpFSh",
   "tracks": [
+    {
+      "added_at": "2026-10-09 13:50:23",
+      "album": {
+        "name": "DANCE DISRUPTOR",
+        "url": "https://open.spotify.com/album/5gAqwyRmPxLBwIgiYE2zza"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "duration_ms": 181589,
+      "name": "DANCE DISRUPTOR",
+      "url": "https://open.spotify.com/track/2Ur0OhXVahAdjNQICgr2ed"
+    },
     {
       "added_at": "2026-10-08 13:47:52",
       "album": {

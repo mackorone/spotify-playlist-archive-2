@@ -1,6 +1,6 @@
 {
   "description": "Lancez la playlist et jetez vous \u00e0 l'eau !",
-  "num_followers": 512652,
+  "num_followers": 512592,
   "original_name": "Sous la douche",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
+    },
+    {
+      "added_at": "2026-04-10 14:59:17",
+      "album": {
         "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 209720,
       "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-04-10 14:59:17",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
     },
     {
       "added_at": "2026-04-10 14:59:17",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2026-04-10 14:59:17",
-      "album": {
         "name": "Mini World",
         "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 213493,
       "name": "Derni\u00e8re danse",
       "url": "https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT"
+    },
+    {
+      "added_at": "2026-04-10 14:59:17",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-04-10 14:59:17",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-    },
-    {
-      "added_at": "2026-04-10 14:59:17",
-      "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "added_at": "2026-04-10 14:59:17",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2026-04-10 14:59:17",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "Queen Of The Clouds",
-        "url": "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Habits (Stay High)",
-      "url": "https://open.spotify.com/track/18AJRdgUoO9EYn11N7xzaT"
-    },
-    {
-      "added_at": "2026-04-10 14:59:17",
-      "album": {
         "name": "Gone Gone Gone",
         "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 198004,
       "name": "Gone Gone Gone",
       "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
+    },
+    {
+      "added_at": "2026-04-10 14:59:17",
+      "album": {
+        "name": "Queen Of The Clouds",
+        "url": "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Habits (Stay High)",
+      "url": "https://open.spotify.com/track/18AJRdgUoO9EYn11N7xzaT"
     },
     {
       "added_at": "2026-04-10 14:59:17",

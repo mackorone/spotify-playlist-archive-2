@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485 likes - 192 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488 likes - 192 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 91 | [Take You Back](https://open.spotify.com/track/1NF9ux53nctr5Rjb3c8i7D) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:49 |
 | 92 | [Closure](https://open.spotify.com/track/4qRWEdbVRXDeqLzH4KP6vw) | [Hayley Warner](https://open.spotify.com/artist/1xrvnT8IPYpS6iOkAq8tLt) | [Closure](https://open.spotify.com/album/11slq6pHVpFYtRQ7XyjQPc) | 4:00 |
 | 93 | [Legendary](https://open.spotify.com/track/4HHwFNJgxjZjCYCxQcNoMa) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:24 |
-| 94 | [Old Habits Die Hard](https://open.spotify.com/track/4H6pQsTQaY1ozwamsS1RJt) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:41 |
-| 95 | [Ghost](https://open.spotify.com/track/3XeyI07raWwr8wbnaJeaVl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 4:15 |
+| 94 | [Ghost](https://open.spotify.com/track/3XeyI07raWwr8wbnaJeaVl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 4:15 |
+| 95 | [Old Habits Die Hard](https://open.spotify.com/track/4H6pQsTQaY1ozwamsS1RJt) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:41 |
 | 96 | [Man Up](https://open.spotify.com/track/1YKOm06nQc83UXXG4ubrjo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 2:48 |
 | 97 | [Science](https://open.spotify.com/track/4E5BoPxABSbi6Tkhaz2uzi) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:55 |
 | 98 | [Love of My Life](https://open.spotify.com/track/3o6dtVImjXolMR9EVwzJOG) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:11 |
@@ -153,9 +153,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 143 | [Middle Of A Heartbreak](https://open.spotify.com/track/2vY90tGYEHzIjKGjI48smn) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Middle Of A Heartbreak](https://open.spotify.com/album/6xGcBv3u3XthHduAxBkpvc) | 2:45 |
 | 144 | [Sweet Life](https://open.spotify.com/track/2RgQe6vRrjuaAG2MPPzNDd) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Leland](https://open.spotify.com/artist/3Jd0EP1mzaP2Gn2bzyd6Ug) | [Transatlantic](https://open.spotify.com/album/4bG1aFuQ4674YWGpfRTzUI) | 3:21 |
 | 145 | [Hungover](https://open.spotify.com/track/75g7UV5B1ndLGsDvfjC489) | [Emmalyn](https://open.spotify.com/artist/75y1eTkF9JFAO2MIR2EXtg) | [Hungover](https://open.spotify.com/album/464LmfCz1lP28qe5ndSj6s) | 3:14 |
-| 146 | [All The Money](https://open.spotify.com/track/4In7ngnXHyZieF5HCmoGqi) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:26 |
-| 147 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
-| 148 | [Corsetry](https://open.spotify.com/track/3d73BWUcr64uukiqb5Rjjq) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:33 |
+| 146 | [Corsetry](https://open.spotify.com/track/3d73BWUcr64uukiqb5Rjjq) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:33 |
+| 147 | [All The Money](https://open.spotify.com/track/4In7ngnXHyZieF5HCmoGqi) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:26 |
+| 148 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
 | 149 | [Middle of Love](https://open.spotify.com/track/4JjjhFFQ3Spgnl2BrXfKtN) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:15 |
 | 150 | [Rest In Peace](https://open.spotify.com/track/6LiBrstA5KyGCOuO7PH8Km) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/3zwVhRR9amRs0gBU2mEZ6a) | 2:55 |
 | 151 | [The Phone Call](https://open.spotify.com/track/6j4IgCOt3BfxkTf5KKreml) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 2:29 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 191 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 192 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcebbgAAAAA8wK+58EKjcXSMFYLBTFRR`
+Snapshot ID: `AcehDgAAAAB/JrkqtANJVcRd1LJl0kVY`

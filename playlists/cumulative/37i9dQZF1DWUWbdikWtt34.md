@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang dangdut ngetop Tanah Air\. Cover: Maulana Ardiansyah
+> Dendang dangdut ngetop Tanah Air\. Cover: Tasya DA7
 
-311 songs - 1 day 0 hr 36 min
+312 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Rela Demi Cinta](https://open.spotify.com/track/1mlJzleUYpAdtSRfXFliE9) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz) | [Rela Demi Cinta](https://open.spotify.com/album/2x19JpufFs12UgYHcC74z3) | 5:20 | 2024-11-28 |  |
 | [Relakan Aku](https://open.spotify.com/track/2oudNyS77rnCUY7VH7SjDb) | [RaRa](https://open.spotify.com/artist/3zjsGks8xVJdz2E1UzYFxy) | [Relakan Aku](https://open.spotify.com/album/1M5l4O7tap4khAsaLDX6XX) | 4:26 | 2025-02-21 | 2025-12-12 |
 | [Relaku Mengalah \- Live](https://open.spotify.com/track/0t7GMC628aMYDhOnAVmsas) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Relaku Mengalah \(Live\)](https://open.spotify.com/album/78gyY18tDPGuIW6e1lO3ET) | 5:05 | 2025-05-15 |  |
+| [Rembulan Bersinar Lagi](https://open.spotify.com/track/7o6Dk4fGVMN2mSbTpSQiDy) | [Tasya DA7](https://open.spotify.com/artist/7BAEsxawOS60evJOHo87QD) | [Rembulan Bersinar Lagi](https://open.spotify.com/album/0okhmduLV16katZBZbgNS2) | 4:22 | 2026-10-09 |  |
 | [Rindu](https://open.spotify.com/track/3cKgKjurexHC1BTtcWzrGo) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Rindu](https://open.spotify.com/album/4xkXqRUixRjHEdTAF2aZUL) | 5:12 | 2024-08-08 |  |
 | [Rindu Padamu Nabi](https://open.spotify.com/track/5djmMiZ3iu8kdszWUWEUIW) | [Muhammad Hadi Assegaf](https://open.spotify.com/artist/63tkeCL4mJVCNFUI3Q2q5J) | [Rindu Padamu Nabi](https://open.spotify.com/album/1FlJ2X0atWjH9LBtD38OUd) | 5:16 | 2024-03-22 | 2025-02-21 |
 | [Rindu Tapi Jauh \- Live Ska Reggae](https://open.spotify.com/track/4wxu9KzFOFifxJAh3V8iTj) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Rindu Tapi Jauh \(Live Ska Reggae\)](https://open.spotify.com/album/20lrZtjVOwF9jeLq6eyx5S) | 4:47 | 2024-10-17 | 2024-12-13 |

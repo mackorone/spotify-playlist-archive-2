@@ -1636,10 +1636,32 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 491232,
       "name": "Mi Libertador",
       "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
+    },
+    {
+      "album": {
+        "name": "Mi Libertador",
+        "url": "https://open.spotify.com/album/5lee8oItPqkCd0AjD64jdA"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491232,
+      "name": "Mi Libertador",
+      "url": "https://open.spotify.com/track/6Mw27sYvigmxp0zDMGD2YN"
     },
     {
       "album": {
@@ -2494,6 +2516,28 @@
     {
       "album": {
         "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 612133,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/5IYKwuRkJ0xiorPxu0PBqV"
+    },
+    {
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
       },
       "artists": [
@@ -2508,7 +2552,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 612133,
       "name": "Todo Lo Haces Nuevo",
       "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"

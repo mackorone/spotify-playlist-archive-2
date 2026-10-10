@@ -1,6 +1,6 @@
 {
   "description": "S\u00f3 pra quem usa a colher de pau como microfone.",
-  "num_followers": 196658,
+  "num_followers": 196655,
   "original_name": "Cantando na Cozinha",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-06-28 03:29:18",
       "album": {
-        "name": "G I R L",
-        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "Happy - From \"Despicable Me 2\"",
-      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
-    },
-    {
-      "added_at": "2024-06-28 03:29:18",
-      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -179,18 +163,34 @@
     {
       "added_at": "2024-06-28 03:29:18",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+      "duration_ms": 233306,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "added_at": "2024-06-28 03:29:18",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
     },
     {
       "added_at": "2024-06-28 03:29:18",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-06-28 03:29:18",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
       "artists": [
         {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
     },
     {
       "added_at": "2024-06-28 03:29:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-28 03:29:18",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 252355,
-      "name": "Waiting for Your Love",
-      "url": "https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz"
-    },
-    {
-      "added_at": "2024-06-28 03:29:18",
-      "album": {
         "name": "Mind Body & Soul (Special Edition)",
         "url": "https://open.spotify.com/album/6rEYIfMefUM2leNQNoBdu2"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 280960,
       "name": "Right To Be Wrong",
       "url": "https://open.spotify.com/track/37Mo71lImyolPIzhuvNLef"
+    },
+    {
+      "added_at": "2024-06-28 03:29:18",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 252355,
+      "name": "Waiting for Your Love",
+      "url": "https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz"
     },
     {
       "added_at": "2024-06-28 03:29:18",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-06-28 03:29:18",
       "album": {
-        "name": "The Very Best Of Diana Krall",
-        "url": "https://open.spotify.com/album/1tv8v6dIknJrDN2tZYJygI"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 300293,
-      "name": "Frim Fram Sauce",
-      "url": "https://open.spotify.com/track/5CPMSCcWKvVt5TV63Jw8bp"
-    },
-    {
-      "added_at": "2024-06-28 03:29:18",
-      "album": {
         "name": "Saturday Night Fever [The Original Movie Soundtrack]",
         "url": "https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 285373,
       "name": "Stayin' Alive - 2007 Remastered Version Saturday Night Fever",
       "url": "https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq"
+    },
+    {
+      "added_at": "2024-06-28 03:29:18",
+      "album": {
+        "name": "The Very Best Of Diana Krall",
+        "url": "https://open.spotify.com/album/1tv8v6dIknJrDN2tZYJygI"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 300293,
+      "name": "Frim Fram Sauce",
+      "url": "https://open.spotify.com/track/5CPMSCcWKvVt5TV63Jw8bp"
     }
   ],
   "unique_name": "Cantando na Cozinha",

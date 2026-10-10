@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Coasters",
-  "num_followers": 28731,
+  "num_followers": 28735,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/7cxgyzxC9ZfL5KepeaE3qO"
     },
     {
-      "added_at": "2026-08-27 22:01:29",
+      "added_at": "2026-09-24 22:01:39",
       "album": {
-        "name": "Nagmerries (Bye Bye Baby)",
-        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
+        "name": "Sweef",
+        "url": "https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
         }
       ],
-      "duration_ms": 172985,
-      "name": "Nagmerries (Bye Bye Baby)",
-      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
+      "duration_ms": 205032,
+      "name": "Sweef",
+      "url": "https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24"
     },
     {
       "added_at": "2026-09-17 22:02:32",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
+        "name": "Nagmerries (Bye Bye Baby)",
+        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 172985,
+      "name": "Nagmerries (Bye Bye Baby)",
+      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
         "name": "KLEUR",
         "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 201420,
       "name": "KLEUR",
       "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -531,38 +563,6 @@
       "duration_ms": 207397,
       "name": "Stadig",
       "url": "https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu"
-    },
-    {
-      "added_at": "2026-09-24 22:01:39",
-      "album": {
-        "name": "Sweef",
-        "url": "https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        }
-      ],
-      "duration_ms": 205032,
-      "name": "Sweef",
-      "url": "https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
       "added_at": "2026-08-27 22:01:29",

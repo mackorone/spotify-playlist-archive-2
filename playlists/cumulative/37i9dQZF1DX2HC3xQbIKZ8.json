@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 270344,
       "name": "Do That To Me One More Time",
       "url": "https://open.spotify.com/track/0fDcWl8ApNhQlqVk7aQNg0"
@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 209950,
       "name": "Long White Cloud",
       "url": "https://open.spotify.com/track/5GoOe77gWuqjzp8ESNFdZ9"
@@ -3414,6 +3414,24 @@
       "duration_ms": 188712,
       "name": "Night Night",
       "url": "https://open.spotify.com/track/0skNFEVeT49k1oCeuRqT2k"
+    },
+    {
+      "album": {
+        "name": "Not I",
+        "url": "https://open.spotify.com/album/3drszSw8bafZ36LNQNmpQY"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Not I",
+      "url": "https://open.spotify.com/track/5pAvjWVO2PhST6csDrU4fN"
     },
     {
       "album": {
@@ -4164,7 +4182,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 196689,
       "name": "ROLLIN ON",
       "url": "https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D"

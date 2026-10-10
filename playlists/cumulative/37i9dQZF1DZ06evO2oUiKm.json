@@ -50,7 +50,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 220972,
       "name": "A Window",
       "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 259900,
       "name": "I Don't Know How to Love Him",
       "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "Synonym",
+        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286306,
+      "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/1dg1PxkqjvP16OU6VCr1sd"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Look Any Further",
         "url": "https://open.spotify.com/album/68PIvWtu6dy9Omn8XPBu4L"
       },
@@ -912,7 +934,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 286306,
       "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
       "url": "https://open.spotify.com/track/6odkxZJ4TeAGV0D39z7PMr"

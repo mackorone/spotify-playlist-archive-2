@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,700 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,698 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 29 | [Você não vive sem](https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:17 |
 | 30 | [100 por Hora](https://open.spotify.com/track/6UKVh2rVOOTcMI9Hsh8jX2) | [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [100 por Hora](https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA) | 3:16 |
 | 31 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 |
-| 32 | [Poema Sujo](https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Poema Sujo](https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy) | 3:02 |
-| 33 | [Meia Noite](https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [VemK](https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N) | 3:05 |
+| 32 | [Meia Noite](https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [VemK](https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N) | 3:05 |
+| 33 | [Poema Sujo](https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Poema Sujo](https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy) | 3:02 |
 | 34 | [todo lugar \- faixa bônus](https://open.spotify.com/track/4j9KOMG49WEL8qY9hs5jpa) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Busco Romance Love Show \(Deluxe\)](https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT) | 3:15 |
 | 35 | [De Manhã](https://open.spotify.com/track/7qrObZooLB7H3QWYTLyvqG) | [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf), [CASULO](https://open.spotify.com/artist/1NHLTrZk6hOi5H6InEbztY) | [De Manhã](https://open.spotify.com/album/6WVfY0VWusgX3TqeNeVKhr) | 2:35 |
 | 36 | [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 |

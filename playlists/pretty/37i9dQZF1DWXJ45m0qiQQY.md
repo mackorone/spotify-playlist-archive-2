@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 
 > chilling beats for haunted halloween vibes 👻 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,790 likes - 99 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,855 likes - 99 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 | 98 | [Trick or Treats](https://open.spotify.com/track/090ynlUUvHNeUFv1oOGwp3) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l), [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.1](https://open.spotify.com/album/1r0SImrof5Zpc3RoFwO5vu) | 1:53 |
 | 99 | [Haunted Train](https://open.spotify.com/track/10zvdrESuXdTmm02pAZxvA) | [Lucie Cravero](https://open.spotify.com/artist/2e0eTUckm1xVdKFHmjSlrT), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Haunted Train](https://open.spotify.com/album/5Y7zWn3cKaVUOucUF3pmHG) | 1:55 |
 
-Snapshot ID: `AAAAAMyqEpBiSEua33lxnUaMdpOMvkys`
+Snapshot ID: `AAAAACvyZtTLeM25AXC5Y8u1fOLX0+GB`

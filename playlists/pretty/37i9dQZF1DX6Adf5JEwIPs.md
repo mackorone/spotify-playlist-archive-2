@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Ilusion Eterno 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,416 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,427 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Noche](https://open.spotify.com/track/2ZOdl0lyaeEztkcjXcTPjQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Mi Casi Todo](https://open.spotify.com/album/3RiDHLmz1pij7udfvyTiSc) | 2:53 |
 | 2 | [Melancolía](https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Melancolía](https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j) | 3:14 |
-| 3 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:22 |
+| 3 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:23 |
 | 4 | [Atte El Insuperable](https://open.spotify.com/track/0tgYhNMHWBIkJgW9xg8Vzi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MudaH](https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ) | 2:55 |
 | 5 | [Uncertain, TX \(feat\. Intocable\) \- Spanish Version](https://open.spotify.com/track/3CF6hmINIcPUh0wfxN0ft3) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Uncertain, TX \(feat\. Intocable\) \[Spanish Version\]](https://open.spotify.com/album/7rWbojvauIqKj6PHESW6YB) | 3:33 |
 | 6 | [Bajón Emocional](https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Bajón Emocional](https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm) | 3:17 |

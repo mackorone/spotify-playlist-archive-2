@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "upbeat indie en alternative voor onderweg, van roadtrip tot treinrit.",
+  "description": "upbeat indie en alternative voor onderweg: van fietsrit tot een lange roadtrip of treinreis.",
   "name": "indie onderweg",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 180520,
       "name": "Back of the Bus",
       "url": "https://open.spotify.com/track/7Gwyr1Ri1gV5WpgIdmrp2o"
+    },
+    {
+      "album": {
+        "name": "BedHead",
+        "url": "https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302800,
+      "name": "BedHead",
+      "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
     },
     {
       "album": {
@@ -420,7 +438,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 209773,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5tdS0ZR30mNjJKGS6YU8kA"
@@ -629,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Heart of Darkness",
+        "url": "https://open.spotify.com/album/3x9DfNi4Tmn81AI2Db7buQ"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206910,
+      "name": "Heart of Darkness",
+      "url": "https://open.spotify.com/track/24zbHhoxY7EKcijv98EWL7"
+    },
+    {
+      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -738,7 +774,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 165230,
       "name": "Hot!",
       "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"

@@ -1098,8 +1098,8 @@
       },
       "artists": [
         {
-          "name": "Anjali Nair",
-          "url": "https://open.spotify.com/artist/3ydC0ZME7rTzkbatIXXY01"
+          "name": "Anjali Ajaikumar Nair",
+          "url": "https://open.spotify.com/artist/6KKksEEj0TU87BtwYj0xFC"
         },
         {
           "name": "Kala Bhairava",
@@ -8956,7 +8956,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 205714,
       "name": "Bum Baa Diga Diga (From \"DC\")",
       "url": "https://open.spotify.com/track/11RCy54poO2EO6FWxQ4do2"
@@ -55096,7 +55096,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 140806,
       "name": "Thaalam Trip - Instrumental",
       "url": "https://open.spotify.com/track/0JSvcsAbGElf7TqcsATZwe"
@@ -60320,6 +60320,32 @@
       "duration_ms": 192212,
       "name": "Ulagam Nee (From \"Pattu\")",
       "url": "https://open.spotify.com/track/1cexQZLJEf4xr3kjMP5kcx"
+    },
+    {
+      "album": {
+        "name": "Ulagam Oru Urunda (From \"Pulavar\")",
+        "url": "https://open.spotify.com/album/4q8IWuYkhljhvA0Lxb8YEC"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Ajmal Khan",
+          "url": "https://open.spotify.com/artist/0apJT5ZU5OQnkxFcgbtvuR"
+        },
+        {
+          "name": "Ravi Murukaiyah",
+          "url": "https://open.spotify.com/artist/3ABuiHL9T4Ih3N3LxPxwF5"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259793,
+      "name": "Ulagam Oru Urunda (From \"Pulavar\")",
+      "url": "https://open.spotify.com/track/3FM03MA2Tn1NkOjIYn2kmR"
     },
     {
       "album": {
@@ -65848,7 +65874,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 157013,
       "name": "Vetta Karuppu Game Begins",
       "url": "https://open.spotify.com/track/1lGh7Np4yXwHlqYKYgWfEV"

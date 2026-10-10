@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Chell en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con BALTHVS en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 145161,
       "name": "250cc",
       "url": "https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU"
@@ -2633,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/5MOTbRL1bEJWdBJQOpEiTl"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334458,
+      "name": "In-N-Out (Downtown)",
+      "url": "https://open.spotify.com/track/2NpkgzXemh3JXfH8bswgT8"
+    },
+    {
+      "album": {
         "name": "IND 2 JFK",
         "url": "https://open.spotify.com/album/0FqTf8CVWS4j9qfXryaqS7"
       },
@@ -2812,6 +2830,24 @@
       "duration_ms": 170500,
       "name": "La Catalana",
       "url": "https://open.spotify.com/track/6lgcR5isFaGD5XnRsogEWm"
+    },
+    {
+      "album": {
+        "name": "La Falda",
+        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "La Falda",
+      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
     },
     {
       "album": {
@@ -3450,7 +3486,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 152164,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/3vghaAmejoL6hQz1Hb4sRB"
@@ -3752,6 +3788,24 @@
       "duration_ms": 200002,
       "name": "Mosca",
       "url": "https://open.spotify.com/track/2QvmIDZgbqD2COGN204Xak"
+    },
+    {
+      "album": {
+        "name": "Mujer me estas matando",
+        "url": "https://open.spotify.com/album/3CyVwbAOlkLESikxgGQqVH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163217,
+      "name": "Mujer me estas matando",
+      "url": "https://open.spotify.com/track/3yRZpzvjJjj4b9lXqiSf7G"
     },
     {
       "album": {
@@ -4146,7 +4200,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 207388,
       "name": "noquieroquemequieras",
       "url": "https://open.spotify.com/track/56pZj00RITsiBK8A8X9xWP"
@@ -4368,7 +4422,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 170370,
       "name": "OMG",
       "url": "https://open.spotify.com/track/2wb2YziVNTYR5D00fJTHPn"
@@ -4520,7 +4574,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 298123,
       "name": "Pale Blue Dot",
       "url": "https://open.spotify.com/track/1kc6oH8sALakFCsoWIPcm9"
@@ -4564,6 +4618,28 @@
       "duration_ms": 233042,
       "name": "Paradisco",
       "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
+    },
+    {
+      "album": {
+        "name": "PECADO",
+        "url": "https://open.spotify.com/album/6HdWXqAuMdCKcgmBfk5p7S"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "PECADO",
+      "url": "https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu"
     },
     {
       "album": {
@@ -4960,6 +5036,24 @@
       "duration_ms": 278933,
       "name": "Punto de Comparaci\u00f3n",
       "url": "https://open.spotify.com/track/1BoaSrCDKj8S7ggRnWaBm4"
+    },
+    {
+      "album": {
+        "name": "que seas t\u00fa -- & amor herido . . .",
+        "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "que seas t\u00fa --",
+      "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
     },
     {
       "album": {
@@ -5450,7 +5544,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 193333,
       "name": "Soda Con Tequila",
       "url": "https://open.spotify.com/track/1FzrBHvyxnjwbxUDhDdLH0"
@@ -6210,6 +6304,28 @@
       "duration_ms": 207370,
       "name": "Yo no pas\u00e9 por aqu\u00ed",
       "url": "https://open.spotify.com/track/1Hr8MRlGfi8JR1VbtmWk8s"
+    },
+    {
+      "album": {
+        "name": "audio c\u00e1mara flash",
+        "url": "https://open.spotify.com/album/4aCgaAk5Etw04smccyarhM"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        },
+        {
+          "name": "Lunal\u00e9",
+          "url": "https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145915,
+      "name": "yourmovie",
+      "url": "https://open.spotify.com/track/58i2W3ysfBLyeBqOWdlqI1"
     },
     {
       "album": {

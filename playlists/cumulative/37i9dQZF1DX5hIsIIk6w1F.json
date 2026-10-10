@@ -601,6 +601,32 @@
     },
     {
       "album": {
+        "name": "7 Maravillas",
+        "url": "https://open.spotify.com/album/3TCSXg7cOrbeLk5OIz39Yy"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Ag Daddy",
+          "url": "https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198638,
+      "name": "7 Maravillas",
+      "url": "https://open.spotify.com/track/2ui8tettqXzQRLJyNQmV44"
+    },
+    {
+      "album": {
         "name": "7 Trompetas",
         "url": "https://open.spotify.com/album/5X1KeQjQuhuSdZz0FyxcGg"
       },
@@ -27052,7 +27078,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 150303,
       "name": "XXXINGARTE",
       "url": "https://open.spotify.com/track/2ofKjfajyqUc6RI06j7Qd4"

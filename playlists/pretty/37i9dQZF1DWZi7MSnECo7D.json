@@ -1,31 +1,31 @@
 {
-  "description": "M\u00fasica brasileira fora da curva. Foto: CACO/CONCHA",
-  "num_followers": 747634,
+  "description": "M\u00fasica brasileira fora da curva. Foto: In\u00eas \u00e9 Morta",
+  "num_followers": 747297,
   "original_name": "alt BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJSNIiJZWmN5d1AHO7drNpFH2fRw",
+  "snapshot_id": "AAAAAK1TR6OOI4AhDw3dMUwwcDy/4/TO",
   "tracks": [
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
-        "name": "Cinderela / Noite Nubente",
-        "url": "https://open.spotify.com/album/4b8FpLcP06K1R2hsrlMACg"
+        "name": "Dias de um Futuro Esquecido",
+        "url": "https://open.spotify.com/album/2MjO6BArq6radVbFCNNp4i"
       },
       "artists": [
         {
-          "name": "CACO/CONCHA",
-          "url": "https://open.spotify.com/artist/4PGfbcmKIgDuemM5mqQ6xa"
+          "name": "In\u00eas \u00e9 Morta",
+          "url": "https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG"
         }
       ],
-      "duration_ms": 254867,
-      "name": "Noite Nubente",
-      "url": "https://open.spotify.com/track/28RKRx7KSYLLnVnaU3Jd4V"
+      "duration_ms": 165066,
+      "name": "Dias de um Futuro Esquecido",
+      "url": "https://open.spotify.com/track/3VUXWwiXwRe0rtZVkDbtkN"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "torpor",
         "url": "https://open.spotify.com/album/66fazQeAe8A0EN4GdwSton"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/12ZJ9GRgNQiBR9hWI4PmNQ"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "bras\u00edlia",
         "url": "https://open.spotify.com/album/2L6FzI4ykdSTUmtwYcOXVU"
@@ -65,7 +65,39 @@
       "url": "https://open.spotify.com/track/5pcZk2e3IQew3Zk6P7XcNH"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "Cinderela / Noite Nubente",
+        "url": "https://open.spotify.com/album/4b8FpLcP06K1R2hsrlMACg"
+      },
+      "artists": [
+        {
+          "name": "CACO/CONCHA",
+          "url": "https://open.spotify.com/artist/4PGfbcmKIgDuemM5mqQ6xa"
+        }
+      ],
+      "duration_ms": 254867,
+      "name": "Noite Nubente",
+      "url": "https://open.spotify.com/track/28RKRx7KSYLLnVnaU3Jd4V"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "Voc\u00ea Se Passa",
+        "url": "https://open.spotify.com/album/3WGOa1Y7z4Uj8ReVij8HUH"
+      },
+      "artists": [
+        {
+          "name": "Caxabaxa",
+          "url": "https://open.spotify.com/artist/4WEL2trKGv2zV3aBnHpiEu"
+        }
+      ],
+      "duration_ms": 279700,
+      "name": "Voc\u00ea Se Passa",
+      "url": "https://open.spotify.com/track/1lT6VwrOBbR4Qak8QcNfg4"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Conversa de Elevador",
         "url": "https://open.spotify.com/album/1QKWjUxejgRAyRYzUAwZIq"
@@ -85,7 +117,31 @@
       "url": "https://open.spotify.com/track/0QPio1Fioo04TE8UM1Zgit"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "Beb\u00ea Chor\u00e3o",
+        "url": "https://open.spotify.com/album/3HJtr9uqW7ayOqSy3ZZ4q7"
+      },
+      "artists": [
+        {
+          "name": "Clube Dezenove",
+          "url": "https://open.spotify.com/artist/719qMl6Gpbyr3h56RZ7RQT"
+        },
+        {
+          "name": "Plumasdecera",
+          "url": "https://open.spotify.com/artist/2ieNjZISvOxzjA4N5o3z4D"
+        },
+        {
+          "name": "Kelly Clube",
+          "url": "https://open.spotify.com/artist/3jw11GBeoNQCmpD4rr831J"
+        }
+      ],
+      "duration_ms": 218192,
+      "name": "Beb\u00ea Chor\u00e3o",
+      "url": "https://open.spotify.com/track/4abiTuOkFIhymiVAAS8Rws"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/1gK3ivmAo3kVaXJLFjx2zS"
@@ -101,27 +157,7 @@
       "url": "https://open.spotify.com/track/78j3VPcWdDZq7SjhDQccTF"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
-      "album": {
-        "name": "Que Poderia Ser",
-        "url": "https://open.spotify.com/album/7EEhP7rk6ONdGmbEQwhTEF"
-      },
-      "artists": [
-        {
-          "name": "Mariana Mapa",
-          "url": "https://open.spotify.com/artist/0GKtAijf1t26Z4COSOe8lJ"
-        },
-        {
-          "name": "Maria Classe",
-          "url": "https://open.spotify.com/artist/1DZtWMcb3D3UhCuPf6vhLR"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "Que Poderia Ser",
-      "url": "https://open.spotify.com/track/3yFeCb9m6ZRuNadjkev9x3"
-    },
-    {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "A GENTE PODE SE PERDER",
         "url": "https://open.spotify.com/album/0DRSsbM6o3qEnU7UVVFf2C"
@@ -137,7 +173,23 @@
       "url": "https://open.spotify.com/track/3ccj7sA769T6RNE1J3APdq"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "at\u00e9 aqui.",
+        "url": "https://open.spotify.com/album/25lS3jvYOWib0dSasc2ygH"
+      },
+      "artists": [
+        {
+          "name": "esportes individuais",
+          "url": "https://open.spotify.com/artist/2cFIymfFzJp5vtINMXRnZS"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "tanto faz",
+      "url": "https://open.spotify.com/track/2I0FjIDFu2fbf9X0T4W7px"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Guerreires do J\u00f3quei",
         "url": "https://open.spotify.com/album/7C6gB1R2AY25BikiLFwyKV"
@@ -153,7 +205,7 @@
       "url": "https://open.spotify.com/track/2lR2DokeGHyq1SjCVyM8Ta"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Azucrim",
         "url": "https://open.spotify.com/album/7sCpoEWTQ17p1ITTzFZBQV"
@@ -169,7 +221,23 @@
       "url": "https://open.spotify.com/track/4cdmGjiDAU3wNiNyj0WZcZ"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "Cigarro",
+        "url": "https://open.spotify.com/album/1xvjc2y5hTvjFbUBMA3Qxd"
+      },
+      "artists": [
+        {
+          "name": "Fuma\u00e7a Urbana",
+          "url": "https://open.spotify.com/artist/3zQOGDpQ0B6nWvvdplQXMm"
+        }
+      ],
+      "duration_ms": 185286,
+      "name": "cigarro",
+      "url": "https://open.spotify.com/track/1vEsCUDo16h1bW9kmuEfTv"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "N\u00e3o Havia Paz para o Alquimista",
         "url": "https://open.spotify.com/album/2scE2LxrKSmASz4J9eseQg"
@@ -189,43 +257,43 @@
       "url": "https://open.spotify.com/track/4VkvIhXRE8q6YTYmdKrwo3"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/1XPNKWG8eT4n7f9Q5zUuRA"
+        "name": "Que Poderia Ser",
+        "url": "https://open.spotify.com/album/7EEhP7rk6ONdGmbEQwhTEF"
       },
       "artists": [
         {
-          "name": "Kiko Dinucci",
-          "url": "https://open.spotify.com/artist/5TJgNKOEi4e4i8RL77wQ80"
+          "name": "Mariana Mapa",
+          "url": "https://open.spotify.com/artist/0GKtAijf1t26Z4COSOe8lJ"
         },
         {
-          "name": "Podeserdesligado",
-          "url": "https://open.spotify.com/artist/3UiYxofVeRJ0fFkYbdljwG"
+          "name": "Maria Classe",
+          "url": "https://open.spotify.com/artist/1DZtWMcb3D3UhCuPf6vhLR"
         }
       ],
-      "duration_ms": 184253,
-      "name": "\u00c1gua Viva",
-      "url": "https://open.spotify.com/track/4AmJDMwYbhuPeID8fl2LB6"
+      "duration_ms": 199357,
+      "name": "Que Poderia Ser",
+      "url": "https://open.spotify.com/track/3yFeCb9m6ZRuNadjkev9x3"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
-        "name": "n\u00e3o d\u00e1 tempo",
-        "url": "https://open.spotify.com/album/4iOlk9WZOSfEQEUWNrJ9uH"
+        "name": "Duas Palavras",
+        "url": "https://open.spotify.com/album/3t6wKGalQmYmhgpLd007MR"
       },
       "artists": [
         {
-          "name": "Breno Branches",
-          "url": "https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj"
+          "name": "Monza",
+          "url": "https://open.spotify.com/artist/6ObFhfPgXL9AfJufWk8BfP"
         }
       ],
-      "duration_ms": 142500,
-      "name": "n\u00e3o d\u00e1 tempo",
-      "url": "https://open.spotify.com/track/4ORuj7og3tiEu3pV28Ek53"
+      "duration_ms": 216015,
+      "name": "Duas Palavras",
+      "url": "https://open.spotify.com/track/2CtBFttRMH8k2BD5D0b6EJ"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Cidade do Suor",
         "url": "https://open.spotify.com/album/4Y1dpm2SZfbdFIdrh4KDBL"
@@ -241,7 +309,7 @@
       "url": "https://open.spotify.com/track/0UWDrDvjdZRee5lSRicMBC"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "OCC (Ao Vivo)",
         "url": "https://open.spotify.com/album/3eqcYhnoiDFnoxu26Z5p9r"
@@ -257,7 +325,7 @@
       "url": "https://open.spotify.com/track/37ERnN0mgHNHWLyHOzzlYu"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Sinto Tudo, Sinto Nada",
         "url": "https://open.spotify.com/album/6W9wjmfZEuTsMqGNpcxwim"
@@ -273,7 +341,7 @@
       "url": "https://open.spotify.com/track/1pSHAHiVlh6UKBUnMEMsm5"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Infinito V\u00e3o",
         "url": "https://open.spotify.com/album/5qOJCc99DLPFtqmWDsGhpQ"
@@ -297,7 +365,7 @@
       "url": "https://open.spotify.com/track/1R8Yv6VpNW9hTsStzqyjVD"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "fantasmas, vol. 1",
         "url": "https://open.spotify.com/album/0IppfFqvq22EKb8IFuA9Rl"
@@ -313,7 +381,27 @@
       "url": "https://open.spotify.com/track/4Bp3rrqZXgc239gvs1PraO"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/1XPNKWG8eT4n7f9Q5zUuRA"
+      },
+      "artists": [
+        {
+          "name": "Kiko Dinucci",
+          "url": "https://open.spotify.com/artist/5TJgNKOEi4e4i8RL77wQ80"
+        },
+        {
+          "name": "Podeserdesligado",
+          "url": "https://open.spotify.com/artist/3UiYxofVeRJ0fFkYbdljwG"
+        }
+      ],
+      "duration_ms": 184253,
+      "name": "\u00c1gua Viva",
+      "url": "https://open.spotify.com/track/4AmJDMwYbhuPeID8fl2LB6"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "White Elephant",
         "url": "https://open.spotify.com/album/7wbNnaR5gOhzjyMQCyQcZI"
@@ -329,23 +417,7 @@
       "url": "https://open.spotify.com/track/2zDhk1TVLzqSpEsCuuMafP"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
-      "album": {
-        "name": "Nova Luz",
-        "url": "https://open.spotify.com/album/7rUxIltzBxoTdX1oTGzNES"
-      },
-      "artists": [
-        {
-          "name": "Dani Bessa",
-          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
-        }
-      ],
-      "duration_ms": 214449,
-      "name": "Nova Luz",
-      "url": "https://open.spotify.com/track/6D7TAd2nmbZQkT984ENFaF"
-    },
-    {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "VERAS II",
         "url": "https://open.spotify.com/album/6ocmtLBiqPFcEG1i2oLiX2"
@@ -361,43 +433,7 @@
       "url": "https://open.spotify.com/track/5NrMukASd1cr5GOnh600Ir"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
-      "album": {
-        "name": "Mob\u00edlia",
-        "url": "https://open.spotify.com/album/2zMrHGwKpCdNZvqpxkszJs"
-      },
-      "artists": [
-        {
-          "name": "Enrico Vaz",
-          "url": "https://open.spotify.com/artist/6CqnqfLgMfw3ht2ftU8I3a"
-        },
-        {
-          "name": "Pablo Vermell",
-          "url": "https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Mobilia",
-      "url": "https://open.spotify.com/track/64lHVdsmLSRy1vne98YLbp"
-    },
-    {
-      "added_at": "2026-09-25 10:12:23",
-      "album": {
-        "name": "Lembran\u00e7a",
-        "url": "https://open.spotify.com/album/3HHNW4eT76YYBJiJVrlw5N"
-      },
-      "artists": [
-        {
-          "name": "E A Terra Nunca Me Pareceu T\u00e3o Distante",
-          "url": "https://open.spotify.com/artist/218I9kMt3PFXsTsEMOhASh"
-        }
-      ],
-      "duration_ms": 316384,
-      "name": "Sem margem",
-      "url": "https://open.spotify.com/track/3gzbTYpYZU7IesqO6KKf7F"
-    },
-    {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "cada passo \u00e9 uma montanha",
         "url": "https://open.spotify.com/album/4XlxVZSprpMYILR6mGwjMY"
@@ -413,27 +449,7 @@
       "url": "https://open.spotify.com/track/6rdZNdCX3c1bCTJKMeY0AN"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
-      "album": {
-        "name": "voc\u00ea flutua?",
-        "url": "https://open.spotify.com/album/3TSmJYVVVEa7WKeoIahNNd"
-      },
-      "artists": [
-        {
-          "name": "Cecilia j\u00e1 n\u00e3o \u00e9 + a mesma",
-          "url": "https://open.spotify.com/artist/6VW3jkSMQuIxnWOiUkXrmQ"
-        },
-        {
-          "name": "Niery",
-          "url": "https://open.spotify.com/artist/6lHHStJk0BXXjCUZQ4kGM6"
-        }
-      ],
-      "duration_ms": 251371,
-      "name": "voc\u00ea flutua?",
-      "url": "https://open.spotify.com/track/0aG28IoMrqCTZv9Santu0R"
-    },
-    {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "disforia",
         "url": "https://open.spotify.com/album/215JU8rg3iDaPgnnuoVZ3D"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/6JwPPF0uTEbu2nDZFUQbAL"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Deixa o Sol Me Queimar",
         "url": "https://open.spotify.com/album/3BfVinoeFz0BaTflmvGLfj"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/4nNdpTQnf6edG2D1uRr61S"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "\u00e0s vezes um sonho...",
         "url": "https://open.spotify.com/album/1HYCyIvuDV1fjOLZnuNKNl"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/5LyuWdINlSY1fiXv6GaKsr"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "V\u00e1rios Formatos",
         "url": "https://open.spotify.com/album/1ovgbBuXWSGGfG5qqJn0KH"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/2jq9budNrLlppXBiFUAHVh"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Enquanto o Mundo Dorme",
         "url": "https://open.spotify.com/album/4nh8zz4n025C1gpk8mEYNe"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/1Aizc7h1FQLvanoAM9j1Fx"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "FANTASIA",
         "url": "https://open.spotify.com/album/4uFtvAoDXSBY1pHebZoilt"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/0jFexMkukDKBsFUO04luUs"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Fluxo Natural",
         "url": "https://open.spotify.com/album/1zRauBTmrTgG4jY5dJaJql"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/4xyyxpwegsww8tccaPiFrN"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Quest\u00e3o de Fogo",
         "url": "https://open.spotify.com/album/5BuGSUi3pj8sKWXeuJuWEe"
@@ -561,23 +577,7 @@
       "url": "https://open.spotify.com/track/2mdj9TC43xFLyKJj4jhW7B"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
-      "album": {
-        "name": "Psychedelic Friend",
-        "url": "https://open.spotify.com/album/030kePcAtg6EjVtZFtaISH"
-      },
-      "artists": [
-        {
-          "name": "Glue Trip",
-          "url": "https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY"
-        }
-      ],
-      "duration_ms": 236127,
-      "name": "Psychedelic Friend",
-      "url": "https://open.spotify.com/track/0qd4LaU8q4K129DLFtS6vx"
-    },
-    {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "toda vez que ele sai / correntes",
         "url": "https://open.spotify.com/album/6WjNusLEmLzXDj2wW2YmkQ"
@@ -593,39 +593,7 @@
       "url": "https://open.spotify.com/track/5BGaDsUQ3Ita2NE0WXDtZV"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
-      "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/0zRBBc9pFNp01FGZU5QLOf"
-      },
-      "artists": [
-        {
-          "name": "Chico e o Mar",
-          "url": "https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ"
-        },
-        {
-          "name": "Dani Moreira",
-          "url": "https://open.spotify.com/artist/0YerJYEEjFvkA4QolzhvVa"
-        },
-        {
-          "name": "Thales Siqueira",
-          "url": "https://open.spotify.com/artist/31KbZX4ariVrEsA2g50GeT"
-        },
-        {
-          "name": "dereco",
-          "url": "https://open.spotify.com/artist/6rFTJ13LrX7GY9wsvRRIw0"
-        },
-        {
-          "name": "GUI HOPE",
-          "url": "https://open.spotify.com/artist/0oEm2Z7kGNSuDVXCpIniC9"
-        }
-      ],
-      "duration_ms": 162919,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/2JpJZNS3cMAU9FyfbYjYpZ"
-    },
-    {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "ArraiasC\u00e9us",
         "url": "https://open.spotify.com/album/5KvR2wjynbwE6wNFhOgJI8"
@@ -641,7 +609,7 @@
       "url": "https://open.spotify.com/track/25SyQEKU8l9STVG5mvJSJt"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "P\u00e9gaso",
         "url": "https://open.spotify.com/album/2WLLocXOrTbqRvCKpxMPRh"
@@ -657,7 +625,23 @@
       "url": "https://open.spotify.com/track/6Tz4qXP09rIOhYFhht69xy"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "n\u00e3o d\u00e1 tempo",
+        "url": "https://open.spotify.com/album/4iOlk9WZOSfEQEUWNrJ9uH"
+      },
+      "artists": [
+        {
+          "name": "Breno Branches",
+          "url": "https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "n\u00e3o d\u00e1 tempo",
+      "url": "https://open.spotify.com/track/4ORuj7og3tiEu3pV28Ek53"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Ru\u00eddo Colateral Cr\u00f4nico",
         "url": "https://open.spotify.com/album/10dM9er6UzDhqCySCBpleb"
@@ -673,7 +657,7 @@
       "url": "https://open.spotify.com/track/5Pm8kpf3taJKSP7jOIIIb3"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "desculpa eu ser um trem desgovernado",
         "url": "https://open.spotify.com/album/1Ybn4BCcUGKV0W05xoEnQ4"
@@ -689,7 +673,7 @@
       "url": "https://open.spotify.com/track/1zeDwHNgcA5tE8eouovhmw"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "UMAMI",
         "url": "https://open.spotify.com/album/1KNC3Oj6A70WB5uDGa35uU"
@@ -709,7 +693,7 @@
       "url": "https://open.spotify.com/track/2RUf15kN7815fWhKHpCfxm"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Anjo de Papel",
         "url": "https://open.spotify.com/album/0gbWq0EYkoBXZZL1bvGGL3"
@@ -725,7 +709,7 @@
       "url": "https://open.spotify.com/track/4IWq7dAMdbLAjWPAAPrW5X"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "v\u00e9spera",
         "url": "https://open.spotify.com/album/6EJi3irsbiLg6xZ2XojYX7"
@@ -741,7 +725,7 @@
       "url": "https://open.spotify.com/track/73H1LR2JBpreJKv9TiqZH7"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "S\u00e3o Crist\u00f3v\u00e3o",
         "url": "https://open.spotify.com/album/6xZT6qAx7O2AWwcl8U00fb"
@@ -761,7 +745,43 @@
       "url": "https://open.spotify.com/track/4wgELCYGyESgEn9vOkD7kr"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "Nova Luz",
+        "url": "https://open.spotify.com/album/7rUxIltzBxoTdX1oTGzNES"
+      },
+      "artists": [
+        {
+          "name": "Dani Bessa",
+          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
+        }
+      ],
+      "duration_ms": 214449,
+      "name": "Nova Luz",
+      "url": "https://open.spotify.com/track/6D7TAd2nmbZQkT984ENFaF"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "Mob\u00edlia",
+        "url": "https://open.spotify.com/album/2zMrHGwKpCdNZvqpxkszJs"
+      },
+      "artists": [
+        {
+          "name": "Enrico Vaz",
+          "url": "https://open.spotify.com/artist/6CqnqfLgMfw3ht2ftU8I3a"
+        },
+        {
+          "name": "Pablo Vermell",
+          "url": "https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Mobilia",
+      "url": "https://open.spotify.com/track/64lHVdsmLSRy1vne98YLbp"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "quero ir pra casa",
         "url": "https://open.spotify.com/album/6q4od1wo4vEx4ykGSTJpHu"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/0Q5HcBX5eqM6ciNMdIxlP3"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Amiga do Tempo",
         "url": "https://open.spotify.com/album/2pO6Ut3Xva2Dx7tlVcL36S"
@@ -793,7 +813,7 @@
       "url": "https://open.spotify.com/track/24lyQ8f2VScw0E36XDtxjO"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "A \u00daltima Polka",
         "url": "https://open.spotify.com/album/2qOjsrYwLJNUK7JYy2caED"
@@ -809,7 +829,7 @@
       "url": "https://open.spotify.com/track/2WjfSuQJnJBgZ47zbgeVde"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "das coisas que eu sei",
         "url": "https://open.spotify.com/album/56Sj9QYDX6RrLghxY89WCC"
@@ -825,7 +845,27 @@
       "url": "https://open.spotify.com/track/21ijXASKHnoTfgHzgdZH96"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "voc\u00ea flutua?",
+        "url": "https://open.spotify.com/album/3TSmJYVVVEa7WKeoIahNNd"
+      },
+      "artists": [
+        {
+          "name": "Cecilia j\u00e1 n\u00e3o \u00e9 + a mesma",
+          "url": "https://open.spotify.com/artist/6VW3jkSMQuIxnWOiUkXrmQ"
+        },
+        {
+          "name": "Niery",
+          "url": "https://open.spotify.com/artist/6lHHStJk0BXXjCUZQ4kGM6"
+        }
+      ],
+      "duration_ms": 251371,
+      "name": "voc\u00ea flutua?",
+      "url": "https://open.spotify.com/track/0aG28IoMrqCTZv9Santu0R"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Slowdancing",
         "url": "https://open.spotify.com/album/2esz0fEXPbuLkodnlHPkbU"
@@ -841,7 +881,7 @@
       "url": "https://open.spotify.com/track/1KQpLRKz2pFNcW321SMrXK"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Medidas (Mais de Mil Km)",
         "url": "https://open.spotify.com/album/1cN9mfVjY19pyvqAA3BbPJ"
@@ -861,7 +901,7 @@
       "url": "https://open.spotify.com/track/054Xb4S02LGVMGZctZhkeZ"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "SESS\u00c3O DE HORROR ft. Fernanda Takai (Original)",
         "url": "https://open.spotify.com/album/5r9jtNz7NBtrGwUZq3GO4J"
@@ -881,7 +921,7 @@
       "url": "https://open.spotify.com/track/0ZuAeAWRf9YEc55YsZf9ez"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "PERIGO! (DJ Guaran\u00e1 Jesus Remix)",
         "url": "https://open.spotify.com/album/3G7y3cMVEi0syxknCk7X3e"
@@ -901,27 +941,7 @@
       "url": "https://open.spotify.com/track/2MI7avy81CZ8d9iHUwupXv"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
-      "album": {
-        "name": "Calcinha Gozada",
-        "url": "https://open.spotify.com/album/32RR9IHvFagKml6R0W2xjQ"
-      },
-      "artists": [
-        {
-          "name": "Vera Fischer Era Clubber",
-          "url": "https://open.spotify.com/artist/7eWL16fgUCmADbKpHNQZom"
-        },
-        {
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        }
-      ],
-      "duration_ms": 216201,
-      "name": "Calcinha Gozada",
-      "url": "https://open.spotify.com/track/7M4whIIPukvE5RSgn27o83"
-    },
-    {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Cinema B\u00e9lico?",
         "url": "https://open.spotify.com/album/7HTM8l0ms2UGoIGOSbtnKD"
@@ -941,7 +961,23 @@
       "url": "https://open.spotify.com/track/4X6ahvTtoxqt99uFNvzmVb"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "Psychedelic Friend",
+        "url": "https://open.spotify.com/album/030kePcAtg6EjVtZFtaISH"
+      },
+      "artists": [
+        {
+          "name": "Glue Trip",
+          "url": "https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY"
+        }
+      ],
+      "duration_ms": 236127,
+      "name": "Psychedelic Friend",
+      "url": "https://open.spotify.com/track/0qd4LaU8q4K129DLFtS6vx"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Ainda nem doeu",
         "url": "https://open.spotify.com/album/5MI0ed8NiGXQwDD9VXxYJU"
@@ -957,7 +993,7 @@
       "url": "https://open.spotify.com/track/3JCJGvNlAFnUhN11qbqptG"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Por Baixo da M\u00e1scara Pasma",
         "url": "https://open.spotify.com/album/1RvpBHzbKlb5HHASgAP1Gd"
@@ -973,7 +1009,7 @@
       "url": "https://open.spotify.com/track/09XK69PoAIBoPyA6d03htx"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Y",
         "url": "https://open.spotify.com/album/3qn8ps9vNqRIuTG2t5Xk5p"
@@ -993,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4hZFY1eyaSAKegAOZMc8r0"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Sorte",
         "url": "https://open.spotify.com/album/2J3fxjRFm72vEqLCUXp0Z1"
@@ -1009,7 +1045,7 @@
       "url": "https://open.spotify.com/track/0o0Us6CWewUXI5zD2COfyx"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "PEDAGIOS Y CARONAS",
         "url": "https://open.spotify.com/album/1ADyzZnYO53coeiJT79BtK"
@@ -1025,7 +1061,7 @@
       "url": "https://open.spotify.com/track/2qtSDKYyQVr1ef0XgIfPcw"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Colch\u00e3o",
         "url": "https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ"
@@ -1041,7 +1077,7 @@
       "url": "https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Musa (Batata Boy Remix)",
         "url": "https://open.spotify.com/album/2CVTnZrHsasXfskzbk3d08"
@@ -1061,7 +1097,7 @@
       "url": "https://open.spotify.com/track/17zjbTc884pSYpiqlz263q"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Lendas e Sol",
         "url": "https://open.spotify.com/album/6Wnk6h19k5JXof0qu0LxjC"
@@ -1077,7 +1113,7 @@
       "url": "https://open.spotify.com/track/4q7bIdBEYSFpt3xsK63Kkn"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Luneta Azul",
         "url": "https://open.spotify.com/album/3BDzguosvNEg5WMNVqyqr0"
@@ -1093,7 +1129,27 @@
       "url": "https://open.spotify.com/track/1BZddqkm7MPfw2mYUhd8An"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
+      "album": {
+        "name": "Calcinha Gozada",
+        "url": "https://open.spotify.com/album/32RR9IHvFagKml6R0W2xjQ"
+      },
+      "artists": [
+        {
+          "name": "Vera Fischer Era Clubber",
+          "url": "https://open.spotify.com/artist/7eWL16fgUCmADbKpHNQZom"
+        },
+        {
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        }
+      ],
+      "duration_ms": 216201,
+      "name": "Calcinha Gozada",
+      "url": "https://open.spotify.com/track/7M4whIIPukvE5RSgn27o83"
+    },
+    {
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "NOVA BOSSA: aquele abra\u00e7o aos ratos vivos",
         "url": "https://open.spotify.com/album/1Rgcijony0Ve3tp7VlrI2h"
@@ -1109,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0FKiqBavvrUq9csPKGQxEY"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Bicicleta",
         "url": "https://open.spotify.com/album/5mAxGGwUUdtykGZLCIz4zd"
@@ -1125,7 +1181,7 @@
       "url": "https://open.spotify.com/track/5R6QiRpQDGoWsdjj1Q0pfs"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "fasc\u00ednio diamantino",
         "url": "https://open.spotify.com/album/4vAdtBPHjmQFJFOOprPmmh"
@@ -1141,7 +1197,7 @@
       "url": "https://open.spotify.com/track/49unruR1AIczXADwmD2ZNO"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Memor\u00e1vel / Nuvens Espirais (Larara)",
         "url": "https://open.spotify.com/album/0HB0IUE7Fiey3kZwvwz1Mm"
@@ -1157,7 +1213,7 @@
       "url": "https://open.spotify.com/track/52L4iJdJcqRtmpk9K1KPe1"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "SETOR",
         "url": "https://open.spotify.com/album/0VSmput9OOKMRScDdAd96N"
@@ -1173,7 +1229,7 @@
       "url": "https://open.spotify.com/track/2E7kMm2RIUzeFxuVVM11FV"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Ainda Aqui",
         "url": "https://open.spotify.com/album/14sjEivdUvcT0kdBzRRYDC"
@@ -1189,7 +1245,7 @@
       "url": "https://open.spotify.com/track/2eZWmLAuzWgNTJZlQV2E6p"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Trailers do futuro",
         "url": "https://open.spotify.com/album/4bLafK72fi1C4KIXfYHEi0"
@@ -1209,7 +1265,7 @@
       "url": "https://open.spotify.com/track/5fXO4FNwekuKXWjpaxhuEP"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Desculpa",
         "url": "https://open.spotify.com/album/7bypvt3AG7P0zibqWQzudA"
@@ -1225,7 +1281,7 @@
       "url": "https://open.spotify.com/track/0eYhsqk8WYzwjI5EEiKHL8"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Faz Tanto Tempo",
         "url": "https://open.spotify.com/album/1y0esu7IlufE8X2d0mLVRz"
@@ -1241,7 +1297,7 @@
       "url": "https://open.spotify.com/track/4QLHR9sNJDPwNX0pAjkPp0"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Julieta",
         "url": "https://open.spotify.com/album/4Q1FAQU7FMaX5QnjHxQHkX"
@@ -1257,7 +1313,7 @@
       "url": "https://open.spotify.com/track/7iVdVEANzcCXpYpLRzsd6w"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "O Que Fazem Os Adultos?",
         "url": "https://open.spotify.com/album/0oIrkLblF8M5gMINtQItma"
@@ -1277,7 +1333,7 @@
       "url": "https://open.spotify.com/track/2wtMnf9LHAuLOKJiU9GE8G"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "No Lugar",
         "url": "https://open.spotify.com/album/1k6CBaapU4uoa4f1RgARjz"
@@ -1293,7 +1349,7 @@
       "url": "https://open.spotify.com/track/1vhNRQZLL0PtdpkzLucwK0"
     },
     {
-      "added_at": "2026-09-25 10:12:23",
+      "added_at": "2026-10-09 13:55:19",
       "album": {
         "name": "Palavra de Amigo",
         "url": "https://open.spotify.com/album/0nrRXmFg1ez4pjIWaEhVlv"

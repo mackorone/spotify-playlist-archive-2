@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: LEGO
 
-1,002 songs - 2 day 10 hr 44 min
+1,003 songs - 2 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [ambulance](https://open.spotify.com/track/0mMT09W4GI0c374hAHoRKg) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [ambulance](https://open.spotify.com/album/2TJb5ZrRwdPjo0GzDCJeo2) | 3:29 | 2022-09-29 | 2022-10-13 |
 | [APE](https://open.spotify.com/track/02TrL37a5FQ5PqxG5cmov7) | [THX](https://open.spotify.com/artist/37IoruZVv6afp3q77AFYwB) | [APE](https://open.spotify.com/album/5k4t8Cx6mgZf3gqGDt1PD7) | 3:31 | 2026-07-02 | 2026-07-10 |
 | [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 | 2023-12-27 | 2024-01-04 |
+| [Baby Girl](https://open.spotify.com/track/1waM1iX8oDT7PnR5Abr5IZ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Girl](https://open.spotify.com/album/7cZJQRTTktip0yQx3t8sSs) | 2:35 | 2026-10-09 |  |
 | [Bad Shawty](https://open.spotify.com/track/4O3J4WqPNqZP9Fib5ztyvj) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Bad Shawty](https://open.spotify.com/album/3OXNYJD05Ze2PBHOnUS1zA) | 3:30 | 2025-04-14 | 2025-05-13 |
 | [BADLY](https://open.spotify.com/track/4BDW3yQgmhQDLHLvaxzZtd) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BADLY](https://open.spotify.com/album/3L7hKLf8saWSccgsuExpqt) | 3:30 | 2025-08-14 | 2025-09-12 |
 | [BANG!](https://open.spotify.com/track/3xTAnualQLXQTPXCY8fDQn) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [BANG!](https://open.spotify.com/album/5mPMtvMVqTKpYVdfqJPmOp) | 3:34 | 2025-03-20 | 2025-04-04 |
@@ -349,7 +350,7 @@
 | [การจากลาที่ไม่มีวันจากไป](https://open.spotify.com/track/0u2y71Xe1vkQ9TKZUvdyWb) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [การจากลาที่ไม่มีวันจากไป \(Still With You\)](https://open.spotify.com/album/3vBS6G22v9QwWqMkkRi6Ws) | 3:41 | 2023-11-09 | 2023-12-01 |
 | [การเดินทางที่สวยงาม](https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [การเดินทางที่สวยงาม \(A Beautiful Ride\)](https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os) | 3:33 | 2023-05-25 | 2024-06-28 |
 | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \- From กี่หมื่นฟ้า Your Sky Series](https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj) | [MARCKRIS OF BUS](https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM) | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \[From กี่หมื่นฟ้า Your Sky Series\]](https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI) | 3:23 | 2024-12-12 | 2026-03-28 |
-| [กุญแจพระจันทร์ \(Moonkey\)](https://open.spotify.com/track/2oGqFbBPEhmIBsdfi3KOwl) | [Emi Thasorn](https://open.spotify.com/artist/3L0pX41yQ7PT7yB3ZfWfgk), [Bonnie Pattraphus](https://open.spotify.com/artist/0coSKlgl5qpnMwtLajRHO1) | [กุญแจพระจันทร์ \(Moonkey\)](https://open.spotify.com/album/5r233KoYTvzsA85uTJKXaR) | 3:23 | 2026-10-02 |  |
+| [กุญแจพระจันทร์ \(Moonkey\)](https://open.spotify.com/track/2oGqFbBPEhmIBsdfi3KOwl) | [Emi Thasorn](https://open.spotify.com/artist/3L0pX41yQ7PT7yB3ZfWfgk), [Bonnie Pattraphus](https://open.spotify.com/artist/0coSKlgl5qpnMwtLajRHO1) | [กุญแจพระจันทร์ \(Moonkey\)](https://open.spotify.com/album/5r233KoYTvzsA85uTJKXaR) | 3:23 | 2026-10-02 | 2026-10-10 |
 | [ก็ฉันน่ะแอบชอบ \(For a while\)](https://open.spotify.com/track/4LJlTY8XrrrcNpfdExSF5C) | [MINDCLAZZ](https://open.spotify.com/artist/03QoOnekzBDpx7QbLatRwz) | [ก็ฉันน่ะแอบชอบ \(For a while\)](https://open.spotify.com/album/0qCrf2o0g0OMdYRC2fmexj) | 4:14 | 2022-06-02 | 2022-06-10 |
 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 | 2023-06-30 | 2023-07-17 |
 | [ก่อนจบเพลงนี้ \(get to know me\)](https://open.spotify.com/track/32mVnNcR1wfjYRK7wJIN5w) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [ก่อนจบเพลงนี้ \(get to know me\)](https://open.spotify.com/album/4OuPswIcm3xRnQlB06J7mN) | 3:52 | 2023-10-19 | 2024-02-16 |

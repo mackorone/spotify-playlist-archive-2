@@ -1,6 +1,6 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 174155,
+  "num_followers": 174209,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "When I Think of You",
-      "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 309386,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "When I Think of You",
+      "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Sweet Thing",
-        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 276400,
       "name": "Now 'Til Forever",
       "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Sweet Thing",
+        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Face To Face (US Version)",
-        "url": "https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8"
-      },
-      "artists": [
-        {
-          "name": "Wayman Tisdale",
-          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Brazilia",
-      "url": "https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "For The Love",
         "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 280868,
       "name": "I Just Can't Let Go",
       "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Face To Face (US Version)",
+        "url": "https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8"
+      },
+      "artists": [
+        {
+          "name": "Wayman Tisdale",
+          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Brazilia",
+      "url": "https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
       },
       "artists": [
         {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
         }
       ],
-      "duration_ms": 283866,
-      "name": "Twice in a Lifetime",
-      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
+      "duration_ms": 246237,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -395,34 +395,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
       },
       "artists": [
         {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
         }
       ],
-      "duration_ms": 246237,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
+      "duration_ms": 283866,
+      "name": "Twice in a Lifetime",
+      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -439,6 +423,22 @@
       "duration_ms": 266693,
       "name": "The Closer I Get To You",
       "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 238293,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
         "name": "Najee's Theme",
         "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 312226,
       "name": "Angel In Paris",
       "url": "https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 238293,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 253760,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
+      "duration_ms": 271880,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -603,34 +603,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 271880,
-      "name": "Nightlife",
-      "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
+      "duration_ms": 253760,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -651,22 +635,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Full Stride",
-        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 260706,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "In Joy",
         "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
       },
@@ -679,6 +647,38 @@
       "duration_ms": 305680,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Full Stride",
+        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 260706,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ"
-      },
-      "artists": [
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Anywhere Near You",
-      "url": "https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Jazzmasters 4",
         "url": "https://open.spotify.com/album/59EZIGuewk99mkPphgvBRS"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Kisses In The Rain",
-        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ"
       },
       "artists": [
         {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
         }
       ],
-      "duration_ms": 280240,
-      "name": "Grover's Groove",
-      "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
+      "duration_ms": 285666,
+      "name": "Anywhere Near You",
+      "url": "https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -903,6 +887,22 @@
       "duration_ms": 286093,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Kisses In The Rain",
+        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 280240,
+      "name": "Grover's Groove",
+      "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Livin' Large",
         "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 178933,
       "name": "Don't Let Me Be Lonely Tonight",
       "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
     },
     {
       "added_at": "2026-02-09 08:21:39",

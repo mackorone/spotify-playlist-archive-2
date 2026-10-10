@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-12-11",
-  "description": "The best videos from the world of pop! Cover: AD\u00c9LA",
+  "description": "The best videos from the world of pop! Cover: Ayra Starr & ZAYN",
   "name": "Pop Music Videos",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 192946,
       "name": "Average Joe",
       "url": "https://open.spotify.com/track/7rC6j8fRo2Sov5GX099XVv"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 217749,
       "name": "Be Her",
       "url": "https://open.spotify.com/track/1kltf0u3dVgbFzxYtBE0cp"
@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "CATastrophe",
+        "url": "https://open.spotify.com/album/143CgCeRXOHN5w8SZZjEeF"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137814,
+      "name": "CATastrophe",
+      "url": "https://open.spotify.com/track/0xSTDHbnDl5Gw40TRphtoN"
+    },
+    {
+      "album": {
         "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
         "url": "https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS"
       },
@@ -854,7 +872,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 199696,
       "name": "crank 2",
       "url": "https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE"
@@ -1319,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "FF",
+        "url": "https://open.spotify.com/album/0HMNjjBWIwKNj7hnHcMcdC"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291507,
+      "name": "FF",
+      "url": "https://open.spotify.com/track/2ISzqctPoR4XKAY9e1sIeb"
+    },
+    {
+      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/7E7ldaTtHThRPsE6uQaPqR"
       },
@@ -1612,6 +1648,28 @@
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158792,
+      "name": "Heaven Baby (feat. ZAYN)",
+      "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
     },
     {
       "album": {
@@ -1943,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "i think he's got a girl",
+        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214559,
+      "name": "i think he's got a girl",
+      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
+    },
+    {
+      "album": {
         "name": "ICONIC BY MISTAKE",
         "url": "https://open.spotify.com/album/0gjfMkpsH1y95M4wfe7WUJ"
       },
@@ -2154,6 +2230,24 @@
       "duration_ms": 192480,
       "name": "Just One",
       "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
+    },
+    {
+      "album": {
+        "name": "Kiss The Ring",
+        "url": "https://open.spotify.com/album/3jhhlghXYx4hPeWRaptUXm"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191904,
+      "name": "Kiss The Ring",
+      "url": "https://open.spotify.com/track/3uiUQodPW2SoJkzg7J6Bfd"
     },
     {
       "album": {
@@ -2442,10 +2536,28 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 239333,
       "name": "Madwoman",
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+    },
+    {
+      "album": {
+        "name": "Man Ain't Me",
+        "url": "https://open.spotify.com/album/12nbHzk4sOY7vaPIybMuMQ"
+      },
+      "artists": [
+        {
+          "name": "Soulidified",
+          "url": "https://open.spotify.com/artist/3nE9FhhwfDdyuObjky2v55"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168475,
+      "name": "Man Ain't Me",
+      "url": "https://open.spotify.com/track/7FsaprUAMWDYV6V0fdMSze"
     },
     {
       "album": {
@@ -2608,7 +2720,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 163000,
       "name": "Meryl",
       "url": "https://open.spotify.com/track/6gHhrK2BL0cqlGUxTtyjaT"
@@ -2752,7 +2864,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 132696,
       "name": "nan peng you",
       "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
@@ -2922,7 +3034,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 184788,
       "name": "Night at the Opera",
       "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
@@ -3214,7 +3326,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 192458,
       "name": "Petty Crimes",
       "url": "https://open.spotify.com/track/2fwZYbWNMaepcGjmHTA3lJ"
@@ -3478,7 +3590,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 150615,
       "name": "rwm",
       "url": "https://open.spotify.com/track/5KuDuzCVDZqtFz83HMZsLP"
@@ -3504,6 +3616,24 @@
       "duration_ms": 168771,
       "name": "Sad Girls",
       "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
+    },
+    {
+      "album": {
+        "name": "My Midwest Best",
+        "url": "https://open.spotify.com/album/7dk59UXUbGolU6WYsNz1N9"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/5MrsWtJVzVfMQ5hWCt4BzZ"
     },
     {
       "album": {
@@ -3652,7 +3782,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 270383,
       "name": "She\u2019s the Best",
       "url": "https://open.spotify.com/track/1qCU9eAIJeVfkhIYTcG4r1"
@@ -4103,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "Take A Video",
+        "url": "https://open.spotify.com/album/056xtyjduIvd1wt98OIRjH"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179981,
+      "name": "Take A Video",
+      "url": "https://open.spotify.com/track/5yieRaZS2kd0XLGMkcYcpP"
+    },
+    {
+      "album": {
         "name": "FUNNY little FEARS (DREAMS)",
         "url": "https://open.spotify.com/album/77YroeAWQJO7OkQsx3GfCz"
       },
@@ -4260,6 +4408,24 @@
       "duration_ms": 126511,
       "name": "The Proof",
       "url": "https://open.spotify.com/track/5tvROhytDeoFs32EkgHBsA"
+    },
+    {
+      "album": {
+        "name": "The Rage",
+        "url": "https://open.spotify.com/album/3rATpXb10GsrrKV2Gzfavk"
+      },
+      "artists": [
+        {
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220198,
+      "name": "The Rage",
+      "url": "https://open.spotify.com/track/3WT7mTie7v1QxBmzJjOYzc"
     },
     {
       "album": {
@@ -4652,7 +4818,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 169548,
       "name": "will you be coming around?",
       "url": "https://open.spotify.com/track/1nsj01MrKqdLb0dVPUqTG2"
@@ -4674,6 +4840,42 @@
       "duration_ms": 122685,
       "name": "Wink Wink",
       "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
+    },
+    {
+      "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
+    },
+    {
+      "album": {
+        "name": "worst case",
+        "url": "https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193301,
+      "name": "worst case",
+      "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
     },
     {
       "album": {

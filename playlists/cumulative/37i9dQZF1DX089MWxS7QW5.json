@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: DPR CREAM)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Tabber)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -256,6 +256,24 @@
       "duration_ms": 187133,
       "name": "55 (Feat. Yerin Baek, WENDY)",
       "url": "https://open.spotify.com/track/1is7aJgbVS67fEMTAjh4mX"
+    },
+    {
+      "album": {
+        "name": "7 Days",
+        "url": "https://open.spotify.com/album/0MiENDfENgESR8Ueoox0Yw"
+      },
+      "artists": [
+        {
+          "name": "LEY(\ub798\uc774)",
+          "url": "https://open.spotify.com/artist/0EkRudDAaSZ1T7WNlgpZVD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142886,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/6KMovXuSUB5emp8sumQzgk"
     },
     {
       "album": {
@@ -2750,6 +2768,28 @@
       "duration_ms": 231877,
       "name": "daily routine",
       "url": "https://open.spotify.com/track/6geEUOolvgqId1vwTJgm4p"
+    },
+    {
+      "album": {
+        "name": "ARCHIVE A-SIDE",
+        "url": "https://open.spotify.com/album/5WmRArJdAJl6PBuEntlFeO"
+      },
+      "artists": [
+        {
+          "name": "Lotian",
+          "url": "https://open.spotify.com/artist/3xO1Av6jufEhkA7HBe0CNq"
+        },
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192706,
+      "name": "DANCE DANCE",
+      "url": "https://open.spotify.com/track/1wTFjzwVs2UzdZgXJggASa"
     },
     {
       "album": {
@@ -7969,6 +8009,24 @@
     },
     {
       "album": {
+        "name": "Modern Goth",
+        "url": "https://open.spotify.com/album/7nFjSyyFYuQXwHg8QgUuBr"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/5INGwCiLwh6amw2qomyyNt"
+    },
+    {
+      "album": {
         "name": "Next Door",
         "url": "https://open.spotify.com/album/0TaAh5f5eAFwJDsxRCpuBW"
       },
@@ -11808,7 +11866,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 172941,
       "name": "UNTITLED",
       "url": "https://open.spotify.com/track/6NdhdnucTvZUXN1Pjs8AGe"
@@ -11950,7 +12008,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
@@ -12414,7 +12472,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 190000,
       "name": "who is this woman?",
       "url": "https://open.spotify.com/track/6tirHqOUs1n3C9gCIhS28f"

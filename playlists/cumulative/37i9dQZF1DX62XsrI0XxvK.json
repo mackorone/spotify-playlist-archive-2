@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Gavendri",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Kaleb J",
   "name": "JIVVA",
   "tracks": [
     {
@@ -4333,6 +4333,32 @@
     },
     {
       "album": {
+        "name": "Safe Space",
+        "url": "https://open.spotify.com/album/5IloQPVPdXfpjMca2azS43"
+      },
+      "artists": [
+        {
+          "name": "Jakarta Soul System",
+          "url": "https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP"
+        },
+        {
+          "name": "Bryan Renaldo",
+          "url": "https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR"
+        },
+        {
+          "name": "NADI",
+          "url": "https://open.spotify.com/artist/3lDdNlDuMRyFbCTWplIrOq"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Safe Space",
+      "url": "https://open.spotify.com/track/7kgsoaN1hlyrWp86yjOccu"
+    },
+    {
+      "album": {
         "name": "Safe Spot",
         "url": "https://open.spotify.com/album/55Xq0PeZm8bR3Aimi8xayS"
       },
@@ -5172,6 +5198,24 @@
       "duration_ms": 184500,
       "name": "Talk To Ya",
       "url": "https://open.spotify.com/track/3MSyncAHpVp8qwbcvNNVLH"
+    },
+    {
+      "album": {
+        "name": "Tanda Cinta",
+        "url": "https://open.spotify.com/album/0Oc1MACglKTcDBVus3HE7J"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274430,
+      "name": "Tanda Cinta",
+      "url": "https://open.spotify.com/track/0ln5g8IxH6IQMx5CmeBZen"
     },
     {
       "album": {

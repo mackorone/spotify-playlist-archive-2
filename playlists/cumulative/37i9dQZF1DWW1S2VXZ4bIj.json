@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Season Five, MAIYARAP",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: atom chanakan",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 219427,
       "name": "Obsessica",
       "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
@@ -3928,7 +3928,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -5806,6 +5806,24 @@
       "duration_ms": 244915,
       "name": "Vanish Into You",
       "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+    },
+    {
+      "album": {
+        "name": "Viva (\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c)",
+        "url": "https://open.spotify.com/album/2FCxb9Ibmejtk2HapqugCw"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185686,
+      "name": "Viva (\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c)",
+      "url": "https://open.spotify.com/track/0TiRqRymaTwwqfvZPlL9TS"
     },
     {
       "album": {
@@ -8786,7 +8804,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 293831,
       "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (happy)",
       "url": "https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk"
@@ -10983,6 +11001,28 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e2d SIS (TER)",
+        "url": "https://open.spotify.com/album/3FPSENJW4gkgLHKSe2j28K"
+      },
+      "artists": [
+        {
+          "name": "DICEBLUE",
+          "url": "https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv"
+        },
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240461,
+      "name": "\u0e23\u0e2d SIS (TER)",
+      "url": "https://open.spotify.com/track/0jJ4i5wVYz6ENRrJqDWfz6"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
         "url": "https://open.spotify.com/album/1pZSegpCKVMmIrPUtYcWQq"
       },
@@ -11028,6 +11068,24 @@
       "duration_ms": 210337,
       "name": "\u0e23\u0e31\u0e01 \u0e40\u0e28\u0e23\u0e49\u0e32 \u0e40\u0e2b\u0e07\u0e32 \u0e0b\u0e36\u0e21",
       "url": "https://open.spotify.com/track/568nWRjM9cZztz8Vabw7Y9"
+    },
+    {
+      "album": {
+        "name": "DUST",
+        "url": "https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232175,
+      "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19 (Too Late)",
+      "url": "https://open.spotify.com/track/3J06uWLDn8bNnnQznle5V6"
     },
     {
       "album": {
@@ -12901,6 +12959,28 @@
     },
     {
       "album": {
+        "name": "IN MY ROOM SESSION",
+        "url": "https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228493,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e01\u0e47\u0e1e\u0e2d (Jealous)",
+      "url": "https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e22\u0e48\u0e32\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32\u0e40\u0e25\u0e22\u0e40\u0e18\u0e2d (Someone Who Cares)",
         "url": "https://open.spotify.com/album/6gE0dUKN6dQcAggDrblEbR"
       },
@@ -12930,7 +13010,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 307840,
       "name": "\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e47\u0e22\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/6mGIzdCMlkuvBpZ8LhXmJS"
@@ -13162,6 +13242,28 @@
       "duration_ms": 175588,
       "name": "\u0e40\u0e01\u0e48\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e2d GOOD (not) ENOUGH",
       "url": "https://open.spotify.com/track/4JM1bfniKXEiI4QHtfbBDE"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
+        "url": "https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        },
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
+      "url": "https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5"
     },
     {
       "album": {
@@ -14156,7 +14258,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 207580,
       "name": "\u0e40\u0e2b\u0e07\u0e32...\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08",
       "url": "https://open.spotify.com/track/1HDARi635fpU4mHpzKtFYs"
@@ -14398,7 +14500,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 243750,
       "name": "\u0e41\u0e04\u0e48...\u0e2b\u0e32\u0e22\u0e44\u0e1b (Gone)",
       "url": "https://open.spotify.com/track/3rsMVOw61uhP7Ub96xsK3o"
@@ -15212,6 +15314,28 @@
       "duration_ms": 180465,
       "name": "\u0e44\u0e1b\u0e15\u0e35\u0e49 (Roll With Me) - From 'GELTY (GELBOYS VARIETY)'",
       "url": "https://open.spotify.com/track/71iFacnDkpVGUzqDxjfo5w"
+    },
+    {
+      "album": {
+        "name": "NO FILTER",
+        "url": "https://open.spotify.com/album/4BGJcL9RyfCFBk725IctYB"
+      },
+      "artists": [
+        {
+          "name": "BENZKHAOKHWAN",
+          "url": "https://open.spotify.com/artist/7yH4XTziOEA3lmES4RExCy"
+        },
+        {
+          "name": "HYE",
+          "url": "https://open.spotify.com/artist/0WLEN3JwlwpYYmM8Hu0IUO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "\u0e44\u0e1b\u0e15\u0e48\u0e2d\u0e44\u0e2b\u0e27 \u0e44\u0e1b\u0e15\u0e48\u0e2d\u0e44\u0e2b\u0e21 (GO ON)",
+      "url": "https://open.spotify.com/track/6nEJGG2R9j6XP2bQeOHOJ7"
     },
     {
       "album": {

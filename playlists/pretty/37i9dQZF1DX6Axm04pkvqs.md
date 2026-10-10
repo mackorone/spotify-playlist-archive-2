@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,243 likes - 80 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,303 likes - 80 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 16 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 |
 | 17 | [Sound of Revival](https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 7:24 |
 | 18 | [Odogwu](https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Odogwu](https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC) | 4:50 |
-| 19 | [Chants of Ascension](https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N) | [JOSHUA BANJO](https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E) | [Chants of Ascension](https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV) | 9:30 |
-| 20 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 |
+| 19 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 |
+| 20 | [Chants of Ascension](https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N) | [JOSHUA BANJO](https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E) | [Chants of Ascension](https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV) | 9:30 |
 | 21 | [Ah Eh Eh Eh Ah Ah Ah \(Chant\)](https://open.spotify.com/track/2pkRtgefK3gkFM8I06MCLa) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Ah Eh Eh Eh Ah Ah Ah \(Chant\)](https://open.spotify.com/album/7zoquBJfRRJ9CDJ7YYaGtr) | 9:55 |
 | 22 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 |
 | 23 | [Iwo Loba](https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Iwo Loba](https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp) | 14:53 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 50 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 |
 | 51 | [Joy Chant](https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH) | [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Joy Chant](https://open.spotify.com/album/5vL8tCAa5HZmg5SsXQziPN) | 8:51 |
 | 52 | [Holy Ghost](https://open.spotify.com/track/62iIcfToRxBNTZ1qstamVC) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:23 |
-| 53 | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 |
-| 54 | [Midnight Cry, Vol\. 2](https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 2](https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo) | 24:02 |
+| 53 | [Midnight Cry, Vol\. 2](https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 2](https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo) | 24:02 |
+| 54 | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 |
 | 55 | [Ruach Hakodesh](https://open.spotify.com/track/62QpDTmSK8QctvbxEdBPrG) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Ruach Hakodesh](https://open.spotify.com/album/60kUZ9PqK6MlCKpN4tL44d) | 11:31 |
 | 56 | [Burning with the Holy Ghost](https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 5:29 |
 | 57 | [Fire](https://open.spotify.com/track/6HGO5S83wWMNxszS28zx8x) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB), [Sandra Boakye Duah](https://open.spotify.com/artist/1z6oSSdmYsJgwFjI7Br1A0) | [Revelation Album](https://open.spotify.com/album/3UfVHu4IjvLbkyVljDTNy4) | 9:55 |

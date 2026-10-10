@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 110 | [Infinity](https://open.spotify.com/track/4arU96wjVUSEb4r2q4Iswf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:44 |
 | 111 | [Men's Tears](https://open.spotify.com/track/2Jz4siKCBDZcA1EykilC9B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:35 |
 | 112 | [Ladylike](https://open.spotify.com/track/6aLk4X17PjPpmmFeAqbM7t) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 3:01 |
-| 113 | [Stay Young](https://open.spotify.com/track/3rUevPDCsGVbgJW2dOYnHj) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:30 |
-| 114 | [Toy With Me](https://open.spotify.com/track/18Ft1rojG9WPgffWLOT0o3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 2:14 |
+| 113 | [Toy With Me](https://open.spotify.com/track/18Ft1rojG9WPgffWLOT0o3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 2:14 |
+| 114 | [Stay Young](https://open.spotify.com/track/3rUevPDCsGVbgJW2dOYnHj) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:30 |
 | 115 | [Cry Baby](https://open.spotify.com/track/46h8BCqA1ilPNxdzc9Pp6p) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:36 |
 | 116 | [Theme Song](https://open.spotify.com/track/58s7LrJsoMfmFkqYV3yD6L) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me \(Deluxe\)](https://open.spotify.com/album/18JIUrWc9SN596q2Km9KSJ) | 2:19 |
 | 117 | [Receipts](https://open.spotify.com/track/2QQZbCza6I5gejQFL7QYrT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me \(Deluxe\)](https://open.spotify.com/album/18JIUrWc9SN596q2Km9KSJ) | 3:08 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 125 | [nice to meet ya](https://open.spotify.com/track/2JPXij4tkRfMpOqc9YnjRb) | [Evan McLain](https://open.spotify.com/artist/5SNX2JP4ie5GuSweaPbA3Z), [Aleri](https://open.spotify.com/artist/0JOXL3w9yvATW3MM42cYQM) | [nice to meet ya](https://open.spotify.com/album/1xMewPd8OsoI8MKjud3DKh) | 3:16 |
 | 126 | [Underwater](https://open.spotify.com/track/5dpihukY5xlCzf4OoqKp9w) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Meghan Trainor](https://open.spotify.com/album/6ikGcT6PGehsnatISZFOK9) | 4:17 |
 
-Snapshot ID: `AcebjAAAAACRCSVFCP9CYo1podgrq2ek`
+Snapshot ID: `AcehLAAAAACb4DWVYjZLwG9Yp1dNwiT3`

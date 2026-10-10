@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀  ICEKIID på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,477 likes - 64 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,480 likes - 64 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 2 | [Push It](https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:33 |
 | 3 | [Alias](https://open.spotify.com/track/4Y6rOZhHbvgNcRpbcanmFG) | [Forty](https://open.spotify.com/artist/3KoqqxDnw3bcWJi0JAJZVl), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Alias](https://open.spotify.com/album/689u8RbLH1Ih7MbIbCc7IA) | 2:22 |
 | 4 | [Blackjack](https://open.spotify.com/track/5jUGkXx4UEwl22L6Q8YxBc) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Blackjack](https://open.spotify.com/album/1uirwIlgXZAwVLKkT1sWQv) | 1:55 |
-| 5 | [Ude Fra Indre](https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Freyy](https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:49 |
+| 5 | [Ude Fra Indre \(feat\. Freyy\)](https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Freyy](https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:49 |
 | 6 | [Engangskamera](https://open.spotify.com/track/3hWZz7kjK0IfQ8jVlWZoGq) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [Engangskamera](https://open.spotify.com/album/1JGF3FgfpfNntNwc6vlRUo) | 2:17 |
 | 7 | [Gassed?](https://open.spotify.com/track/2bWqBBlDD80BkVmaei16lR) | [Luko](https://open.spotify.com/artist/0uGKxIisbdsSto48OwAa7I) | [Gassed?](https://open.spotify.com/album/0EsXzeeSNWZUXmaD44vGdH) | 2:38 |
 | 8 | [FAME](https://open.spotify.com/track/5kEAdlOALTxWTamWoeq6bv) | [AMRO](https://open.spotify.com/artist/3xEIG6DRJgC5iuCcAW0rTZ) | [Maskerede Tider](https://open.spotify.com/album/2eteos5l7KdEPNlV602A88) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Natalia Grosiak
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,521 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,527 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 10 | [Mirafiori](https://open.spotify.com/track/2ypGq1U1VIrFZCdy1IBFz9) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Mirafiori](https://open.spotify.com/album/0l6bmzWH6Fxc84e3AZ8LMx) | 2:46 |
 | 11 | [śniło mi się, że się nie zakochałam](https://open.spotify.com/track/1XUeJd5kGm6k7qRix6mWqg) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [śniło mi się, że się nie zakochałam](https://open.spotify.com/album/2cR7zPwNhEopnGOvmsxQDn) | 2:53 |
 | 12 | [Dłoń trzymam w laysach](https://open.spotify.com/track/13epEQaevgVluo5VW66M9t) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Dłoń trzymam w laysach](https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg) | 2:26 |
-| 13 | [15 południk \- Radio edit](https://open.spotify.com/track/629edP6cuya9MTCu6n0OpP) | [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu), [Jan Borysewicz](https://open.spotify.com/artist/3aOdQc0HYtG1ZJoU5eyv8P) | [15 południk \(Radio edit\)](https://open.spotify.com/album/12oec9bMx9gp3oI0hTpPrE) | 3:06 |
+| 13 | [15\. południk \- Radio edit](https://open.spotify.com/track/629edP6cuya9MTCu6n0OpP) | [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu), [Jan Borysewicz](https://open.spotify.com/artist/3aOdQc0HYtG1ZJoU5eyv8P) | [15\. południk \(Radio edit\)](https://open.spotify.com/album/12oec9bMx9gp3oI0hTpPrE) | 3:06 |
 | 14 | [Nie masz sił to płacz](https://open.spotify.com/track/5NIc6PrM1pmEiRCTRdUSgp) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Halo\. Co jest grane?](https://open.spotify.com/album/3erv5YTUmv5AvVTqnJTEjP) | 3:52 |
 | 15 | [PRZEZ PRZYPADEK](https://open.spotify.com/track/23BvVrhz0PtNYyIx1dd5MD) | [HELA](https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj) | [PRZEZ PRZYPADEK](https://open.spotify.com/album/0p6HbDKQrGV3MpypC2sm4a) | 3:03 |
 | 16 | [Pokochaj Mnie Ponownie](https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Pokochaj Mnie Ponownie](https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6) | 3:15 |

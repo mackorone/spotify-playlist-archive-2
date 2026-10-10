@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 170500,
       "name": "dance & giggle",
       "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
@@ -518,6 +518,28 @@
       "duration_ms": 403787,
       "name": "Dissolve",
       "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
+    },
+    {
+      "album": {
+        "name": "22 Durnham Dew",
+        "url": "https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195532,
+      "name": "Do No Harm (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v"
     },
     {
       "album": {
@@ -723,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189519,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH"
+    },
+    {
+      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB"
       },
@@ -814,6 +854,24 @@
       "duration_ms": 195999,
       "name": "Gown",
       "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
+    },
+    {
+      "album": {
+        "name": "Grandma Song",
+        "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Grandma Song",
+      "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
     },
     {
       "album": {
@@ -1390,7 +1448,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 218701,
       "name": "My Hands",
       "url": "https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P"
@@ -2192,7 +2250,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 138413,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/6QwgdzRdTNWnaeDNEDWYBT"
@@ -2463,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "Whale Call",
+        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259503,
+      "name": "Whale Call",
+      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
+    },
+    {
+      "album": {
         "name": "What Takes You Back",
         "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
       },
@@ -2492,7 +2568,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 198806,
       "name": "When Everything Was Right",
       "url": "https://open.spotify.com/track/5NYG2qj2ohCYhHykzBhPRK"

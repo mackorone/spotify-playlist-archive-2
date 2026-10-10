@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1218366,
+  "num_followers": 1218373,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAXi/x+yd8ffDkjkSZC5dhw",
+  "snapshot_id": "asbdAAAAAAAXJ6ZpxPWvrqd+N1v+YD7n",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Tucked",
-      "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 198461,
       "name": "I'M HIS, HE'S MINE (feat. Doechii)",
       "url": "https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Tucked",
+      "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161962,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 195692,
       "name": "ALL THE LOVE",
       "url": "https://open.spotify.com/track/69VB7MiNVwwDkl5sgRBYod"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161962,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO"
     },
     {
       "added_at": null,

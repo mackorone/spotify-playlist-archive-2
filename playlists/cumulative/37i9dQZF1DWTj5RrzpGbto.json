@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: AD\u00c9LA",
+  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Troye Sivan",
   "name": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c Inner Inter",
   "tracks": [
     {
@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210665,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
+    },
+    {
+      "album": {
         "name": "CHANEL",
         "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
       },
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 230503,
       "name": "Danceteria Afterhours",
       "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
@@ -3258,6 +3276,28 @@
       "duration_ms": 210048,
       "name": "Don't Say That",
       "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Chart (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Don\u2019t Chart (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
     },
     {
       "album": {
@@ -4263,6 +4303,24 @@
     },
     {
       "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5iTekfXxLiU55JUINVxeeQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262896,
+      "name": "FF",
+      "url": "https://open.spotify.com/track/2tTsOuRT1QUS9pNJ2vXgEK"
+    },
+    {
+      "album": {
         "name": "FINE PLACE TO DIE",
         "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
       },
@@ -4296,7 +4354,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 182833,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/18ZScFhFloaJJxJcnrLezb"
@@ -4412,6 +4470,24 @@
       "duration_ms": 200000,
       "name": "folding chairs on the moon",
       "url": "https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/1doYTnF0SbpTuRQqm8FE8R"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171352,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV"
     },
     {
       "album": {
@@ -5168,7 +5244,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 183000,
       "name": "Grandma Song",
       "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
@@ -8033,6 +8109,24 @@
     },
     {
       "album": {
+        "name": "Day and Night (Continued)",
+        "url": "https://open.spotify.com/album/4mu0jAPhEFU1f8KYltS3g0"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180686,
+      "name": "Love Depressed",
+      "url": "https://open.spotify.com/track/7dob6HYh8OhMqUXdklI9l5"
+    },
+    {
+      "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
@@ -9574,7 +9668,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 140520,
       "name": "Nobody Wanna Dance Anymore",
       "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
@@ -16012,7 +16106,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 230104,
       "name": "World's Greatest!",
       "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"

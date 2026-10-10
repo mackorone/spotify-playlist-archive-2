@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKdYJHx66a64MATC0tRHqBSFDkCqn/",
+  "snapshot_id": "AAAKd1FJYOdmGsaXctVd8YBJVn+KPkoN",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -80283,6 +80283,38 @@
       "duration_ms": 236415,
       "name": "Light Air",
       "url": "https://open.spotify.com/track/46xsmhel32WEYMPdHl63Lu"
+    },
+    {
+      "added_at": "2026-10-09 16:14:26",
+      "album": {
+        "name": "Goodbye, Goodnight",
+        "url": "https://open.spotify.com/album/5MRudKcvra04AYy0kOi30u"
+      },
+      "artists": [
+        {
+          "name": "Destroy the Moon",
+          "url": "https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt"
+        }
+      ],
+      "duration_ms": 231243,
+      "name": "Goodbye, Goodnight",
+      "url": "https://open.spotify.com/track/4Zd2ElhotZnoMwJg5NA6jP"
+    },
+    {
+      "added_at": "2026-10-09 23:08:46",
+      "album": {
+        "name": "DOE DAN",
+        "url": "https://open.spotify.com/album/62ngumopXDkWWiA1Nrk96e"
+      },
+      "artists": [
+        {
+          "name": "Meester Do",
+          "url": "https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT"
+        }
+      ],
+      "duration_ms": 150520,
+      "name": "DOE DAN",
+      "url": "https://open.spotify.com/track/0k6moj6JXKY0r7g7jDo2oF"
     }
   ],
   "unique_name": "playlist spotify free",

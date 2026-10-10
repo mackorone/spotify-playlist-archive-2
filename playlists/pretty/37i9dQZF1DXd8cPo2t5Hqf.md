@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,887 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,913 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 53 | [ぽっぴっぽー \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/5ghOdH6CnAEfu8LaJriOwd) | [LamazeP](https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 1:51 |
 | 54 | [二次元ドリームフィーバー](https://open.spotify.com/track/4WfgfyCeXhyitWzm1dUzWZ) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [二次元ドリームフィーバー](https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea) | 3:08 |
 | 55 | [深海シティアンダーグラウンド](https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS) | [tanaka B](https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO) | [深海シティアンダーグラウンド](https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc) | 4:37 |
-| 56 | [リモコン](https://open.spotify.com/track/4ZaoxEyujcMzowX3WgPY0w) | [Wonderful★opportunity!](https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B) | [ワン☆オポ！vol.04](https://open.spotify.com/album/0PTi0Gqs5rzHlH4rH2TqBq) | 5:11 |
-| 57 | [天樂](https://open.spotify.com/track/79HcrcBQ6s2gDpetLznvAt) | [Yuuyu](https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:34 |
+| 56 | [天樂](https://open.spotify.com/track/79HcrcBQ6s2gDpetLznvAt) | [Yuuyu](https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:34 |
+| 57 | [リモコン](https://open.spotify.com/track/4ZaoxEyujcMzowX3WgPY0w) | [Wonderful★opportunity!](https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B) | [ワン☆オポ！vol.04](https://open.spotify.com/album/0PTi0Gqs5rzHlH4rH2TqBq) | 5:11 |
 | 58 | [パラジクロロベンゼン](https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH) | [ガルナ\(オワタP\)](https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:36 |
 | 59 | [erase or zero](https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2) | [HzEdge\(crystal P\)](https://open.spotify.com/artist/0idqlrYbdTP772SjNOX18T) | [crystaL](https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu) | 3:50 |
 | 60 | [Sweet Devil \- Eight Mix](https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:54 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 85 | [忘却心中](https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg) | [0\-9](https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn) | [忘却心中](https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG) | 4:13 |
 | 86 | [愛言葉](https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [相愛性理論](https://open.spotify.com/album/6Gp6rgebq9fGJtIOgDAiLe) | 4:24 |
 | 87 | [ありふれたせかいせいふく feat.初音ミク](https://open.spotify.com/track/6Cxzd8UyB28Grofsy17tfF) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Obscure Questions\(オブスキュア クエスチョンズ\) \[feat\. Hatsune Miku\]](https://open.spotify.com/album/62tr8ONXURBl4kxqLGjbMO) | 3:20 |
-| 88 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
-| 89 | [Lol \(Lots of Laugh\)](https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj) | [Mikumix](https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH) | [Lots of Love \(feat\. 初音ミク\)](https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn) | 3:35 |
+| 88 | [Lol \(Lots of Laugh\)](https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj) | [Mikumix](https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH) | [Lots of Love \(feat\. 初音ミク\)](https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn) | 3:35 |
+| 89 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
 | 90 | [アカツキアライヴァル](https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1) | [Last Note.](https://open.spotify.com/artist/2LMMds4dvScJB1JGwY42SJ) | [アカツキアライヴァル](https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU) | 4:42 |
 | 91 | [ストリーミングハート \(feat\. 初音ミク\)](https://open.spotify.com/track/3NgUFrDBCFaALlH0wRVWV9) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Conti New](https://open.spotify.com/album/1XoKyOWzKCe40zGmSjNpqt) | 2:58 |
 | 92 | [壊セ壊セ](https://open.spotify.com/track/06AJbMq7KMewWZmJuzuPgS) | [E.L.V.N](https://open.spotify.com/artist/219XzPMmtHGUDe8bJeWo6M) | [壊セ壊セ](https://open.spotify.com/album/1K6bz5XZya2k1t21LAUk5F) | 3:37 |

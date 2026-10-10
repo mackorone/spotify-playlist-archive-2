@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour prendre la route.",
-  "num_followers": 547361,
+  "num_followers": 547357,
   "original_name": "Sur la route",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-05-17 20:39:48",
       "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
+    },
+    {
+      "added_at": "2026-05-17 20:39:48",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
-    },
-    {
-      "added_at": "2026-05-17 20:39:48",
-      "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 263560,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
     },
     {
       "added_at": "2026-05-17 20:39:48",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-05-17 20:39:48",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
-    },
-    {
-      "added_at": "2026-05-17 20:39:48",
-      "album": {
         "name": "Beautiful Trauma",
         "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 269595,
       "name": "What About Us",
       "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
+    },
+    {
+      "added_at": "2026-05-17 20:39:48",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
     },
     {
       "added_at": "2026-05-17 20:39:48",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-05-17 20:39:48",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 256946,
-      "name": "You Know I'm No Good",
-      "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2026-05-17 20:39:48",

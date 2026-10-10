@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Dudamel. The essential tracks, all in one playlist.",
-  "num_followers": 2323,
+  "num_followers": 2327,
   "original_name": "This Is Gustavo Dudamel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABLgr7aQQQVzfOWl8wdhMYd",
+  "snapshot_id": "asbdAAAAAACektjkA/AycnfgRPosn8LM",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 166640,
-      "name": "Rhapsody on a Theme of Paganini, Op. 43: Var. 18. Andante cantabile",
-      "url": "https://open.spotify.com/track/1xiQiHZjcVGQwBhUo61tvY"
+      "duration_ms": 660626,
+      "name": "Piano Concerto No. 2 in C Minor, Op. 18: I. Moderato",
+      "url": "https://open.spotify.com/track/27AoYpkVfkIkFS7kLGrR2P"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 660626,
-      "name": "Piano Concerto No. 2 in C Minor, Op. 18: I. Moderato",
-      "url": "https://open.spotify.com/track/27AoYpkVfkIkFS7kLGrR2P"
+      "duration_ms": 166640,
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Var. 18. Andante cantabile",
+      "url": "https://open.spotify.com/track/1xiQiHZjcVGQwBhUo61tvY"
     },
     {
       "added_at": null,
@@ -667,30 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
-        "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
-      },
-      "artists": [
-        {
-          "name": "Johann Strauss II",
-          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Tik-Tak Polka, Polka schnell, Op. 365",
-      "url": "https://open.spotify.com/track/5VfUlaZXibyCocOEJsSnl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 293173,
       "name": "Conga del Fuego - Live",
       "url": "https://open.spotify.com/track/0UbyYfjUgbB4baKWTlKTvK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
+        "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
+      },
+      "artists": [
+        {
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Tik-Tak Polka, Polka schnell, Op. 365",
+      "url": "https://open.spotify.com/track/5VfUlaZXibyCocOEJsSnl4"
     },
     {
       "added_at": null,
@@ -767,58 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homage to Heifetz",
-        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
-      },
-      "artists": [
-        {
-          "name": "Erich Wolfgang Korngold",
-          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
-        },
-        {
-          "name": "Mar\u00eda Due\u00f1as",
-          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 583613,
-      "name": "Violin Concerto in D Major, Op. 35: I. Moderato nobile",
-      "url": "https://open.spotify.com/track/2CozG9JJ2FH84TqFXGXuJm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tritsch-Tratsch-Polka, Op. 214 \"Triqui Traqui\"",
-        "url": "https://open.spotify.com/album/6bxVKiT5GkchJ8sb3xzRE6"
-      },
-      "artists": [
-        {
-          "name": "Johann Strauss II",
-          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 274148,
-      "name": "Tritsch-Tratsch-Polka, Op. 214 \"Triqui Traqui\" - Arr. by Paul Desenne",
-      "url": "https://open.spotify.com/track/5Zn1qOBVyzL0DSD57sQ80G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sommernachtskonzert 2019 / Summer Night Concert 2019",
         "url": "https://open.spotify.com/album/7k1nb2LBIDwS1WdNNQnzqA"
       },
@@ -843,17 +791,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homage to Heifetz",
-        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
+        "name": "Tritsch-Tratsch-Polka, Op. 214 \"Triqui Traqui\"",
+        "url": "https://open.spotify.com/album/6bxVKiT5GkchJ8sb3xzRE6"
       },
       "artists": [
         {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
-          "name": "Mar\u00eda Due\u00f1as",
-          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
         },
         {
           "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
@@ -864,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 389426,
-      "name": "Symphonie espagnole, Op. 21: III. Intermezzo. Allegretto non troppo",
-      "url": "https://open.spotify.com/track/3magwCnlgPD9jlK7VYbtBG"
+      "duration_ms": 274148,
+      "name": "Tritsch-Tratsch-Polka, Op. 214 \"Triqui Traqui\" - Arr. by Paul Desenne",
+      "url": "https://open.spotify.com/track/5Zn1qOBVyzL0DSD57sQ80G"
     },
     {
       "added_at": null,
@@ -920,9 +864,37 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 514573,
-      "name": "Symphonie espagnole, Op. 21: V. Rondo. Allegro",
-      "url": "https://open.spotify.com/track/4I7I8TH5BoVgdcrsLE5Adu"
+      "duration_ms": 389426,
+      "name": "Symphonie espagnole, Op. 21: III. Intermezzo. Allegretto non troppo",
+      "url": "https://open.spotify.com/track/3magwCnlgPD9jlK7VYbtBG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homage to Heifetz",
+        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
+      },
+      "artists": [
+        {
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 583613,
+      "name": "Violin Concerto in D Major, Op. 35: I. Moderato nobile",
+      "url": "https://open.spotify.com/track/2CozG9JJ2FH84TqFXGXuJm"
     }
   ],
   "unique_name": "This Is Gustavo Dudamel",

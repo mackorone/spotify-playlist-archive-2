@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Beracah
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,063 likes - 97 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,185 likes - 97 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 69 | [Tongues of Fire](https://open.spotify.com/track/7xkV7H2o71LZAEBec7Kuy3) | [Rejoice Obasa](https://open.spotify.com/artist/1Ec5jxDetxeq20lsNsYbag) | [Tongues of Fire](https://open.spotify.com/album/0wwSAU8zgZcRwAatxlisgb) | 3:21 |
 | 70 | [More](https://open.spotify.com/track/4UKJwzbUpJY7HlYT1Qtn99) | [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca) | [More](https://open.spotify.com/album/2cOXO12RGB2WrFxOIJc3Fl) | 2:41 |
 | 71 | [Oloruko Aperire \(The God whose name brings good tidings\)](https://open.spotify.com/track/03jto4VJ7fBUXCkYKyN43t) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Oloruko Aperire \(The God whose name brings good tidings\)](https://open.spotify.com/album/6QajJ7qolBeiNWvYAD44EP) | 12:42 |
-| 72 | [The Encounter](https://open.spotify.com/track/0xFt1AzLRXhRsAmkCBgRzB) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Just Moses](https://open.spotify.com/artist/3sjd0ByxRRpvpgZR1Z3aX5) | [The Encounter](https://open.spotify.com/album/1j8l1HI8dWUy2NVmRhdj39) | 2:48 |
+| 72 | [The Encounter](https://open.spotify.com/track/0xFt1AzLRXhRsAmkCBgRzB) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Just Moses](https://open.spotify.com/artist/3sjd0ByxRRpvpgZR1Z3aX5), [Shegzmuzik](https://open.spotify.com/artist/2KUq2VzFPTRpfdV1n83K9K) | [The Encounter](https://open.spotify.com/album/1j8l1HI8dWUy2NVmRhdj39) | 2:48 |
 | 73 | [March Am](https://open.spotify.com/track/2XTwnblaNm5osayUWLMj4F) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V) | [March Am](https://open.spotify.com/album/3hM0FsQq05hC1TR0jlUVsC) | 2:30 |
 | 74 | [Think of you](https://open.spotify.com/track/7bx5Zl1f7LfbEF4v7TQOrK) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Think of you](https://open.spotify.com/album/5ssTAZQBlCRsrAps2bXPpr) | 3:05 |
 | 75 | [Oluwa](https://open.spotify.com/track/4Ddz3TuMx5Dskl5Iwerq2p) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [Oluwa](https://open.spotify.com/album/1SvXIKOLK1n27YNGPMD20o) | 8:24 |

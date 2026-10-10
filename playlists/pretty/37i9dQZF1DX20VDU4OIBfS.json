@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3008007,
+  "num_followers": 3007730,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "La Cima del Cielo",
+      "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "La Cima del Cielo",
-      "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Fuiste M\u00eda un Verano",
         "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 199013,
       "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
       "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 210906,
-      "name": "Piel de Angel",
-      "url": "https://open.spotify.com/track/20PRqcym0a7bvokISwu3d6"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Thalia",
         "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 269120,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 210906,
+      "name": "Piel de Angel",
+      "url": "https://open.spotify.com/track/20PRqcym0a7bvokISwu3d6"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Un Angel",
+        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Orgullosa Nena",
+      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 130066,
       "name": "Amor de Estudiante",
       "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Canci\u00f3n de Oto\u00f1o",
-      "url": "https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Canci\u00f3n de Oto\u00f1o",
+      "url": "https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Un Angel",
-        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Orgullosa Nena",
-      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Digan lo que digan",
+      "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Exitos Con Trio",
         "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 242693,
       "name": "Enamorandonos (Just Like Starting Over)",
       "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Digan lo que digan",
-      "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Un Angel",
+        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Cachetada",
+      "url": "https://open.spotify.com/track/034ZPIOtdd5zO0Cka0Sdt5"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Porque te vas",
         "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 182826,
       "name": "Marinero de Luces",
       "url": "https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Un Angel",
-        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Cachetada",
-      "url": "https://open.spotify.com/track/034ZPIOtdd5zO0Cka0Sdt5"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Yo Mismo",
+        "url": "https://open.spotify.com/album/29DAJADvZkzgHfYTPpZijS"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel",
+          "url": "https://open.spotify.com/artist/3aqaaRdFCbVBCZnexkE0sC"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/2zYa7zc0g0AbMUjEzYiI2r"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Antologia (Volumen 2)",
         "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 252666,
       "name": "Un Ramito de Violetas",
       "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Yo Mismo",
-        "url": "https://open.spotify.com/album/29DAJADvZkzgHfYTPpZijS"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel",
-          "url": "https://open.spotify.com/artist/3aqaaRdFCbVBCZnexkE0sC"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/2zYa7zc0g0AbMUjEzYiI2r"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "My Life: The Greatest Hits",
-        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
-      "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Ave F\u00e9nix",
         "url": "https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 304853,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "My Life: The Greatest Hits",
+        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
+      "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Las Ma\u00f1anitas con Pedro Infante",
-        "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Las ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 183933,
       "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
       "url": "https://open.spotify.com/track/4tOpQs1UNniDYeVAc9Ck8u"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Las Ma\u00f1anitas con Pedro Infante",
+        "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Las ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Coleccion Original: Rocio Jurado",
-        "url": "https://open.spotify.com/album/2z7fXV5xBlpkmfnqe5b7D4"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Jurado",
-          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
-        }
-      ],
-      "duration_ms": 256093,
-      "name": "Como una Ola",
-      "url": "https://open.spotify.com/track/1gNXYvLc14OmqK6gSJKLUM"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "El Ultimo Beso",
         "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 162186,
       "name": "El \u00faltimo beso - The Last Kiss",
       "url": "https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Coleccion Original: Rocio Jurado",
+        "url": "https://open.spotify.com/album/2z7fXV5xBlpkmfnqe5b7D4"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Jurado",
+          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
+        }
+      ],
+      "duration_ms": 256093,
+      "name": "Como una Ola",
+      "url": "https://open.spotify.com/track/1gNXYvLc14OmqK6gSJKLUM"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Amar A Muerte",
         "url": "https://open.spotify.com/album/10e1egk25WgesgUH8hFZCn"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 430960,
       "name": "Dicen Que Dicen / Un Amor Como El Mio",
       "url": "https://open.spotify.com/track/4zNIBIIXQhpPB9MIi9VHEy"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
     },
     {
       "added_at": "2026-07-28 20:14:40",

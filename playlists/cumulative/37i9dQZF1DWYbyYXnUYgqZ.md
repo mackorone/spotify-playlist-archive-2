@@ -2,9 +2,9 @@
 
 ### [K\-Pop Gaming](https://open.spotify.com/playlist/37i9dQZF1DWYbyYXnUYgqZ)
 
-> Enjoy fantastic gameplay with k\-pop music! \(Cover: HEARTSTEEL\)
+> Enjoy fantastic gameplay with k\-pop music! \(Cover: True Damage\)
 
-402 songs - 20 hr 16 min
+403 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-03-29 | 2023-10-23 |
 | [Knife](https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH](https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3) | 2:19 | 2026-01-23 |  |
 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 | 2025-04-30 |  |
+| [Know My Name](https://open.spotify.com/track/3s2YCL5LHLzXWbw7ezQru3) | [True Damage](https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Know My Name](https://open.spotify.com/album/5CfKcRzU4j7AyZ5CwyJ2Ut) | 3:32 | 2026-10-09 |  |
 | [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-11-24 | 2023-08-26 |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-10 |  |
 | [LALISA](https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/4ASxFYWyk2216OloHoaSh8) | 3:20 | 2024-04-04 | 2024-09-15 |
@@ -388,7 +389,7 @@
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-02-28 | 2023-05-01 |
 | [Virtual Angel](https://open.spotify.com/track/1iGNZerzZHm2GLu7k1OS3J) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS) | 2:53 | 2024-06-05 | 2024-07-27 |
 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 | 2022-11-24 | 2022-12-03 |
-| [Vitamin ME](https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Glow ME](https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29) | 3:10 | 2026-07-29 |  |
+| [Vitamin ME](https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Glow ME](https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29) | 3:10 | 2026-07-29 | 2026-10-10 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-11-24 | 2023-08-26 |
 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 | 2025-02-07 | 2026-03-12 |
 | [Way Back Home](https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:34 | 2022-11-24 | 2026-04-26 |

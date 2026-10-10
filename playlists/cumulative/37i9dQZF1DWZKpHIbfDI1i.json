@@ -1407,6 +1407,32 @@
     },
     {
       "album": {
+        "name": "Afr1n",
+        "url": "https://open.spotify.com/album/2xQgu93rXVVOH83sHcAc2E"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186501,
+      "name": "Afr1n",
+      "url": "https://open.spotify.com/track/1dBEe0uyZ2Bszwc49xaIlg"
+    },
+    {
+      "album": {
         "name": "AFTERLIFE",
         "url": "https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC"
       },
@@ -1982,6 +2008,24 @@
       "duration_ms": 144260,
       "name": "ALMA</3",
       "url": "https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t"
+    },
+    {
+      "album": {
+        "name": "Almohada",
+        "url": "https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222120,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8"
     },
     {
       "album": {
@@ -2858,7 +2902,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 135652,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/7ivfeI1loBTruF2nDSu5UP"
@@ -3866,6 +3910,24 @@
       "duration_ms": 155061,
       "name": "Bailo Sola",
       "url": "https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk"
+    },
+    {
+      "album": {
+        "name": "Baj\u00f3n Emocional",
+        "url": "https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Baj\u00f3n Emocional",
+      "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
     },
     {
       "album": {
@@ -10363,6 +10425,28 @@
     },
     {
       "album": {
+        "name": "Dr. Doctor",
+        "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
+      },
+      "artists": [
+        {
+          "name": "Emi Blue",
+          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Dr. Doctor",
+      "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
+    },
+    {
+      "album": {
         "name": "Dueles",
         "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
       },
@@ -15818,7 +15902,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 219715,
       "name": "Intocable",
       "url": "https://open.spotify.com/track/1AAjTcCp9v9g8bQM4fJDiF"
@@ -17604,7 +17688,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 213103,
       "name": "La Misi\u00f3n",
       "url": "https://open.spotify.com/track/5cCa5ALttVFieHY2jCm89o"
@@ -21455,6 +21539,28 @@
     },
     {
       "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194180,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
+    },
+    {
+      "album": {
         "name": "MELANCOL\u00cdA",
         "url": "https://open.spotify.com/album/59hsT0IGncAPHWmuhoDetX"
       },
@@ -22492,7 +22598,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 266150,
       "name": "MIS L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/3nBTjrgTyKW7hQwBTfa63J"
@@ -25408,7 +25514,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 203000,
       "name": "Nostalgia .0017 Tu Vanidad",
       "url": "https://open.spotify.com/track/3o6AV5LvXGR8ts05F8j4NY"
@@ -26006,6 +26112,28 @@
       "duration_ms": 207804,
       "name": "ONTAS BB",
       "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
+    },
+    {
+      "album": {
+        "name": "Ooh Laka Laka La",
+        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134797,
+      "name": "Ooh Laka Laka La",
+      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
     },
     {
       "album": {
@@ -32898,7 +33026,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 189047,
       "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT"

@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJy/vv2Z5FiQ9u1hAqNVwrqDTl0xN5",
+  "snapshot_id": "AAAJzg8A8pDCnB0DMDK7RRlHsCwBKlFr",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -13179,6 +13179,54 @@
       "duration_ms": 95354,
       "name": "Mesh",
       "url": "https://open.spotify.com/track/6q434zzWBD7culnGqk7rc3"
+    },
+    {
+      "added_at": "2026-10-09 15:49:32",
+      "album": {
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "duration_ms": 270076,
+      "name": "It All Fell in the River - Live at Carnegie Hall",
+      "url": "https://open.spotify.com/track/6QoOy0hBf3GnUyZiEVCHol"
+    },
+    {
+      "added_at": "2026-10-09 15:49:41",
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/0j0Xae7CpwZHoC1QFhIpFb"
+    },
+    {
+      "added_at": "2026-10-09 15:52:43",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/60JHe6LKotHykqgenefBV2"
     }
   ],
   "unique_name": "Zacklog",

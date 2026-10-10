@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 36558,
+  "num_followers": 36569,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAFut9EfHSNj0WDMnuF/gvO",
+  "snapshot_id": "asbdAAAAAABr7i1xyHm/sYon8dcs7ydj",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Defense of Drinking",
-        "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
       "artists": [
-        {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221578,
-      "name": "Beer Garden Baby",
-      "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
+      "duration_ms": 205173,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
     },
     {
       "added_at": null,
@@ -519,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+        "name": "In Defense of Drinking",
+        "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
       },
       "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 205173,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
+      "duration_ms": 221578,
+      "name": "Beer Garden Baby",
+      "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/1fOzume25bwRCzghPIWm2i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Postcards From Texas",
         "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 183242,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/1fOzume25bwRCzghPIWm2i"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "Hallie Ray Light",
+      "url": "https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Limestone Kid",
         "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
       },
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+        "name": "Parker McCollum (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
       },
       "artists": [
         {
@@ -644,9 +660,25 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221986,
-      "name": "Hallie Ray Light",
-      "url": "https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty"
+      "duration_ms": 220240,
+      "name": "The One Before The One",
+      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 210053,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/0B2kWR9V7Z4JZOtXgWG8Qr"
     },
     {
       "added_at": null,
@@ -671,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 210053,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/0B2kWR9V7Z4JZOtXgWG8Qr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Limestone Kid",
         "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 226453,
       "name": "All Day",
       "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parker McCollum (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "The One Before The One",
-      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
-        "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
-      "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parker McCollum (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 257866,
       "name": "Wind My Friend",
       "url": "https://open.spotify.com/track/0ZEvHwX30aXeG4mSp1Hm7b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
+        "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
+      "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
     },
     {
       "added_at": null,

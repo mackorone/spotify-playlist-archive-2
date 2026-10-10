@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 12010,
+  "num_followers": 12012,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAD4igLot+ouYdReBMfEq0Ym",
+  "snapshot_id": "asbdAAAAAACC0HhqSFEb04C7lNj16jr8",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Matilda No More",
+      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 205346,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Matilda No More",
-      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good People",
         "url": "https://open.spotify.com/album/5O1JpWoLxXK3IgxtxTYBmR"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 263714,
       "name": "Good People",
       "url": "https://open.spotify.com/track/5kS79rn0ol9Ha8zyxCz8Z4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
     },
     {
       "added_at": null,
@@ -407,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Like A River",
-      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
+      "duration_ms": 155693,
+      "name": "The Quiet Life",
+      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
     },
     {
       "added_at": null,
@@ -475,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wreck & Ruin",
-        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 155693,
-      "name": "The Quiet Life",
-      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
+      "duration_ms": 236666,
+      "name": "Like A River",
+      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
-        "url": "https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 494360,
-      "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
-      "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 178200,
       "name": "The Divorce Song",
       "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
+        "url": "https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 494360,
+      "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
+      "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "Beautiful Mess",
+      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU"
       },
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 194186,
-      "name": "Beautiful Mess",
-      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
+      "duration_ms": 220813,
+      "name": "A Love Like Springsteen",
+      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 322053,
-      "name": "A New Day Has Come",
-      "url": "https://open.spotify.com/track/5OKOAdVF5dI77baGK4U4H6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Storybook",
         "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 322053,
+      "name": "A New Day Has Come",
+      "url": "https://open.spotify.com/track/5OKOAdVF5dI77baGK4U4H6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wayward Angel",
         "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 300333,
       "name": "Wayward Angel",
       "url": "https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "A Love Like Springsteen",
-      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
     }
   ],
   "unique_name": "This Is Kasey Chambers",

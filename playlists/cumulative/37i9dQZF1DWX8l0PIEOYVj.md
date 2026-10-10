@@ -2,7 +2,7 @@
 
 ### [Bass Lounge](https://open.spotify.com/playlist/37i9dQZF1DWX8l0PIEOYVj)
 
-> Future & melodic bass  🛸  featuring Andrew Bayer
+> Future & melodic bass  🛸  featuring San Holo
 
 917 songs - 2 day 6 hr 39 min
 
@@ -407,7 +407,7 @@
 | [Hysteria](https://open.spotify.com/track/45PDrg2UUXCCDBTihLbvX2) | [KDrew](https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ) | [Hysteria](https://open.spotify.com/album/5vfssDdkPeC0AAXkOvsKNa) | 2:27 | 2024-06-28 | 2024-08-22 |
 | [I Am Not My Body](https://open.spotify.com/track/5ibkAu0ZTsHYhJtNK3xm7v) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Am Not My Body](https://open.spotify.com/album/2xeVGOuUdFsNJJZIZ7pTHt) | 2:18 | 2025-09-05 | 2026-08-29 |
 | [I Can Feel](https://open.spotify.com/track/6vAghAitNFHoGUEbhJPI6n) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel) | [I Can Feel](https://open.spotify.com/album/57l0rDfB4jXEepSeuuE56H) | 2:31 | 2022-07-08 | 2022-09-03 |
-| [I Don't Want Anyone](https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Don't Want Anyone](https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL) | 3:54 | 2025-04-04 | 2026-10-09 |
+| [I Don't Want Anyone](https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Don't Want Anyone](https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL) | 3:54 | 2025-04-04 |  |
 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [create together vol\. 3](https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2) | 4:01 | 2022-07-08 | 2023-03-01 |
 | [I Feel Alive](https://open.spotify.com/track/42yauBSK4hCNL88yMHM5dV) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [The Lie Within Callie](https://open.spotify.com/artist/32YAQiSabpBR3DYM5xBlUX) | [I Feel Alive](https://open.spotify.com/album/3cKs83Pz9RlNILp4JZen07) | 3:39 | 2024-12-20 |  |
 | [I Know](https://open.spotify.com/track/0fSEQCnHfXZIu5j7qJMjZD) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 3:44 | 2022-07-29 | 2022-09-10 |
@@ -629,7 +629,7 @@
 | [Phantoms](https://open.spotify.com/track/0WUVe3Nkd1BMuGecBkGGLr) | [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [Allie Crystal](https://open.spotify.com/artist/5cUCYy2DOOdTsCNI2GnLnz) | [Phantoms](https://open.spotify.com/album/5TuRd84g8N14luBq3Jbwkg) | 3:19 | 2023-06-16 | 2023-11-08 |
 | [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 | 2022-07-18 | 2023-10-14 |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-08 | 2022-09-05 |
-| [Places We Know](https://open.spotify.com/track/03nvc8cz9PTGHxomurnHC5) | [KYDIN](https://open.spotify.com/artist/5Bvt7Fcg2IWsWqRbEvZKIa), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Places We Know](https://open.spotify.com/album/59AAwi8qUIPLOJuQnTKh6z) | 3:07 | 2025-09-05 |  |
+| [Places We Know](https://open.spotify.com/track/03nvc8cz9PTGHxomurnHC5) | [KYDIN](https://open.spotify.com/artist/5Bvt7Fcg2IWsWqRbEvZKIa), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Places We Know](https://open.spotify.com/album/59AAwi8qUIPLOJuQnTKh6z) | 3:07 | 2025-09-05 | 2026-10-10 |
 | [Play With You](https://open.spotify.com/track/6DU55Vc6ZIGYgGC9t5g56t) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Play With You](https://open.spotify.com/album/55rXKa79HyEaM9gYapnZiy) | 2:25 | 2023-08-04 | 2023-09-02 |
 | [Poetry](https://open.spotify.com/track/5Ly8NZO3ReTncvgY56Aj91) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Liam Geddes](https://open.spotify.com/artist/3tpTg64MFkufAStvUlU7B2) | [Poetry](https://open.spotify.com/album/0hitqATQZLJqEnkn5zwQyV) | 3:58 | 2024-03-01 | 2024-09-07 |
 | [Pretty](https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Pretty](https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ) | 3:41 | 2023-08-11 | 2024-11-06 |

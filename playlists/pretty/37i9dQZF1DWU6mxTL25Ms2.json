@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 65323,
+  "num_followers": 65324,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -1695,6 +1695,58 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 18",
+        "url": "https://open.spotify.com/album/6TMSJI8m4ywrvBtLSrCTO2"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u30b8\u30ed\u30e9\u30a4\u30a2\u30f3 (CV. \u571f\u5e2b\u4e9c\u6587)",
+          "url": "https://open.spotify.com/artist/1OQUYszJKFHB1F9KzqWBBz"
+        },
+        {
+          "name": "\u30a2\u30a4\u30cd\u30b9\u30d5\u30a6\u30b8\u30f3 (CV. \u9577\u6c5f\u91cc\u52a0)",
+          "url": "https://open.spotify.com/artist/74HGGgznzM4JjHcadNKQlp"
+        },
+        {
+          "name": "\u30a6\u30a4\u30cb\u30f3\u30b0\u30c1\u30b1\u30c3\u30c8 (CV. \u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/1yKC4cmXl1vP0XRoPtOCCl"
+        },
+        {
+          "name": "\u30c8\u30fc\u30bb\u30f3\u30b8\u30e7\u30fc\u30c0\u30f3 (CV. \u9234\u6728\u7d75\u7406)",
+          "url": "https://open.spotify.com/artist/2YYXD2CWn0xfZzAIlxYdtY"
+        },
+        {
+          "name": "\u30d3\u30b3\u30fc\u30da\u30ac\u30b5\u30b9 (CV. \u7530\u4e2d\u3042\u3044\u307f)",
+          "url": "https://open.spotify.com/artist/785RrfSa8VWIBbfX9CQ3Hq"
+        },
+        {
+          "name": "\u30a4\u30af\u30ce\u30c7\u30a3\u30af\u30bf\u30b9 (CV. \u7530\u6fa4\u8309\u7d14)",
+          "url": "https://open.spotify.com/artist/7jMk2qUPWUHNPtz95NYxz1"
+        },
+        {
+          "name": "\u30e4\u30a8\u30ce\u30e0\u30c6\u30ad (CV. \u65e5\u539f\u3042\u3086\u307f)",
+          "url": "https://open.spotify.com/artist/6Bm8nnruZk1A84SbLmP1Hv"
+        },
+        {
+          "name": "\u30ca\u30ea\u30bf\u30c8\u30c3\u30d7\u30ed\u30fc\u30c9 (CV. \u4e2d\u6751\u30ab\u30f3\u30ca)",
+          "url": "https://open.spotify.com/artist/4qARhZ8LYPvzrBeqpvref3"
+        },
+        {
+          "name": "\u30ef\u30f3\u30c0\u30fc\u30a2\u30ad\u30e5\u30fc\u30c8 (CV. \u9808\u85e4\u53f6\u5e0c)",
+          "url": "https://open.spotify.com/artist/0WPVIA1LNAPGh1rjU3dVk0"
+        },
+        {
+          "name": "\u30c9\u30a5\u30e9\u30e1\u30f3\u30c6 (CV. \u79cb\u5948)",
+          "url": "https://open.spotify.com/artist/4lTTjcjh8UlGSJEKskZnoF"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "\u7206\u71b1\u30de\u30a4\u30bd\u30a6\u30eb",
+      "url": "https://open.spotify.com/track/5yJHbWKYH88q6sDq210NPq"
+    },
+    {
+      "added_at": "2026-09-08 16:35:28",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 08",
         "url": "https://open.spotify.com/album/6kbBJpvOhVgoE9j9VxhmjN"
       },
@@ -1755,58 +1807,6 @@
       "duration_ms": 243773,
       "name": "Gaze on Me!",
       "url": "https://open.spotify.com/track/57Dc2XN2JleYtmzHgCjsZz"
-    },
-    {
-      "added_at": "2026-09-08 16:35:28",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 18",
-        "url": "https://open.spotify.com/album/6TMSJI8m4ywrvBtLSrCTO2"
-      },
-      "artists": [
-        {
-          "name": "\u30e1\u30b8\u30ed\u30e9\u30a4\u30a2\u30f3 (CV. \u571f\u5e2b\u4e9c\u6587)",
-          "url": "https://open.spotify.com/artist/1OQUYszJKFHB1F9KzqWBBz"
-        },
-        {
-          "name": "\u30a2\u30a4\u30cd\u30b9\u30d5\u30a6\u30b8\u30f3 (CV. \u9577\u6c5f\u91cc\u52a0)",
-          "url": "https://open.spotify.com/artist/74HGGgznzM4JjHcadNKQlp"
-        },
-        {
-          "name": "\u30a6\u30a4\u30cb\u30f3\u30b0\u30c1\u30b1\u30c3\u30c8 (CV. \u6e21\u90e8\u512a\u8863)",
-          "url": "https://open.spotify.com/artist/1yKC4cmXl1vP0XRoPtOCCl"
-        },
-        {
-          "name": "\u30c8\u30fc\u30bb\u30f3\u30b8\u30e7\u30fc\u30c0\u30f3 (CV. \u9234\u6728\u7d75\u7406)",
-          "url": "https://open.spotify.com/artist/2YYXD2CWn0xfZzAIlxYdtY"
-        },
-        {
-          "name": "\u30d3\u30b3\u30fc\u30da\u30ac\u30b5\u30b9 (CV. \u7530\u4e2d\u3042\u3044\u307f)",
-          "url": "https://open.spotify.com/artist/785RrfSa8VWIBbfX9CQ3Hq"
-        },
-        {
-          "name": "\u30a4\u30af\u30ce\u30c7\u30a3\u30af\u30bf\u30b9 (CV. \u7530\u6fa4\u8309\u7d14)",
-          "url": "https://open.spotify.com/artist/7jMk2qUPWUHNPtz95NYxz1"
-        },
-        {
-          "name": "\u30e4\u30a8\u30ce\u30e0\u30c6\u30ad (CV. \u65e5\u539f\u3042\u3086\u307f)",
-          "url": "https://open.spotify.com/artist/6Bm8nnruZk1A84SbLmP1Hv"
-        },
-        {
-          "name": "\u30ca\u30ea\u30bf\u30c8\u30c3\u30d7\u30ed\u30fc\u30c9 (CV. \u4e2d\u6751\u30ab\u30f3\u30ca)",
-          "url": "https://open.spotify.com/artist/4qARhZ8LYPvzrBeqpvref3"
-        },
-        {
-          "name": "\u30ef\u30f3\u30c0\u30fc\u30a2\u30ad\u30e5\u30fc\u30c8 (CV. \u9808\u85e4\u53f6\u5e0c)",
-          "url": "https://open.spotify.com/artist/0WPVIA1LNAPGh1rjU3dVk0"
-        },
-        {
-          "name": "\u30c9\u30a5\u30e9\u30e1\u30f3\u30c6 (CV. \u79cb\u5948)",
-          "url": "https://open.spotify.com/artist/4lTTjcjh8UlGSJEKskZnoF"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "\u7206\u71b1\u30de\u30a4\u30bd\u30a6\u30eb",
-      "url": "https://open.spotify.com/track/5yJHbWKYH88q6sDq210NPq"
     },
     {
       "added_at": "2026-09-08 16:35:28",

@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 508679,
+  "num_followers": 508727,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "T\u00f4 de F\u00e9rias",
+        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 168449,
+      "name": "T\u00f4 de F\u00e9rias",
+      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "T\u00f4 de F\u00e9rias",
-        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 168449,
-      "name": "T\u00f4 de F\u00e9rias",
-      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -843,38 +843,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
-        "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
-      },
-      "artists": [
-        {
-          "name": "SOMETHING ELSE",
-          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
-        },
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Kawz",
-          "url": "https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
-      "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Carla (Remix)",
         "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 194767,
       "name": "When In Rome",
       "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
+        "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
+      },
+      "artists": [
+        {
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Kawz",
+          "url": "https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
+      "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 158824,
       "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
       "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     },
     {
       "added_at": "2026-09-25 15:56:07",

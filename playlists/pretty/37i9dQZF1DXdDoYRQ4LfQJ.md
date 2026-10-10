@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > Bien Chaka con Eley Romero, Kane Rodriguez & the hottest Corridos in the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,692 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,726 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 36 | [3](https://open.spotify.com/track/44tGQHHdm4JhCbMugPr2Vd) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 2:54 |
 | 37 | [El Mayor de los Ranas \- En Vivo](https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7) | 2:54 |
 | 38 | [dopamina](https://open.spotify.com/track/5t2uZtcH5UyXkCWYy5oxGo) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [dopamina](https://open.spotify.com/album/2xsxnqTNzAwnfhl5ETlmfg) | 3:05 |
-| 39 | [Igualito a Mi Apá](https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:46 |
-| 40 | [ROSONES](https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ROSONES](https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen) | 2:58 |
+| 39 | [ROSONES](https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ROSONES](https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen) | 2:58 |
+| 40 | [Igualito a Mi Apá](https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:46 |
 | 41 | [PUES QUE LE HAGO ?](https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [PUES QUE LE HAGO ?](https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT) | 2:21 |
 | 42 | [Amapola](https://open.spotify.com/track/43558Td2trz7O0chZYohEE) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Amapola](https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr) | 3:00 |
 | 43 | [GAVILÁN II](https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:45 |

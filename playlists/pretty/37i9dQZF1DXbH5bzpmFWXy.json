@@ -1,754 +1,690 @@
 {
-  "description": "T\u00fa eliges que canta el Bogueto. \n#BoguetoChakal ",
-  "num_followers": 313180,
-  "original_name": "Pa' Los OG's",
+  "description": "El barrio bufa y mambotea en compa\u00f1\u00eda de Dulz\u00f3n ",
+  "num_followers": 313204,
+  "original_name": "El Barrio MP3 x Dulz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABrUjU9XNpmlK6XgVoPVbEA2jelj",
+  "snapshot_id": "AAAAAAzIOhixlL5tiJ2mw/M2ByuQafY5",
   "tracks": [
     {
-      "added_at": "2026-08-26 23:42:16",
+      "added_at": "2026-10-09 18:04:24",
       "album": {
-        "name": "Piripituchy",
-        "url": "https://open.spotify.com/album/0b23oLvQkvzoh9GgINrpNM"
+        "name": "Zona de Mamboteo",
+        "url": "https://open.spotify.com/album/4fPgW765a0rCBlPHv2Dbr9"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Piripituchy",
-      "url": "https://open.spotify.com/track/6D4oV8jHSIduIvHnknZxVR"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Brand Randall",
-          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Si La Mami",
-      "url": "https://open.spotify.com/track/4Afv3wew6OaQur3pbuvRTF"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Reggaeto\u00f1erito",
-        "url": "https://open.spotify.com/album/0qxfppXkQz8k6CRrERCJQL"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "DJ Antena",
-          "url": "https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dale Bogueto",
-      "url": "https://open.spotify.com/track/3GFKzOLdgdd819VPziGy76"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Eso Si Es De Gangster",
-        "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Mi Barrio",
-      "url": "https://open.spotify.com/track/2rgmXUwVvGaW5cbodwyWBx"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Jordan Flight",
-        "url": "https://open.spotify.com/album/1QGqACdZEIL4eibKtQbJvF"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 159923,
-      "name": "Jordan Flight",
-      "url": "https://open.spotify.com/track/1E3MPPfzi6xlewFuKZloeh"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Eso Si Es De Gangster",
-        "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 206485,
-      "name": "Callate y Besame",
-      "url": "https://open.spotify.com/track/2HyiD5iWkqbWSCMAu8lRG1"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "LATIGAZO",
-        "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "LATIGAZO",
-      "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "G Low Kitty",
-        "url": "https://open.spotify.com/album/2a1BBTlZbR4X8ZsujEDtvH"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        }
-      ],
-      "duration_ms": 214942,
-      "name": "G Low Kitty",
-      "url": "https://open.spotify.com/track/57NPvtmmFskcqgjTXMdhxG"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Otro Show",
-        "url": "https://open.spotify.com/album/072QtKlYhXZndrtmHMq4SS"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Otro Show",
-      "url": "https://open.spotify.com/track/77pNk3KexfpecDmKLxJdue"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Espantan (Remix)",
-        "url": "https://open.spotify.com/album/6LURB1IWrZefbCgBpK5Pxg"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Alnz G",
-          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 218019,
-      "name": "Espantan - Remix",
-      "url": "https://open.spotify.com/track/62LkodO6TbBA13ZtRUymJY"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "MARTILLAZO",
-        "url": "https://open.spotify.com/album/6U2le2zSjg9R3nU73Dg6fo"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 158331,
-      "name": "MARTILLAZO",
-      "url": "https://open.spotify.com/track/6VxaSoGBJM6pmJ3fLZrMHP"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Reggaeto\u00f1erito",
-        "url": "https://open.spotify.com/album/0qxfppXkQz8k6CRrERCJQL"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Pri",
-      "url": "https://open.spotify.com/track/18KuCFyuWbFpjrRiF8fl5D"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "\u00d1ero Session 23",
-        "url": "https://open.spotify.com/album/6qN493Dqvx508buRITESb6"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 164455,
-      "name": "\u00d1ero Session 23",
-      "url": "https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 159182,
-      "name": "La Mariconera",
-      "url": "https://open.spotify.com/track/3GXo14rTopxeVRqD2jeol0"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "PA\u00b4 TI",
-        "url": "https://open.spotify.com/album/5P21TXzQCbyAM5MchJHWNi"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Bbyboy 100k",
-          "url": "https://open.spotify.com/artist/12523oWu2Tgbcy89mJJhHi"
-        }
-      ],
-      "duration_ms": 160850,
-      "name": "PA\u00b4 TI",
-      "url": "https://open.spotify.com/track/6q0ui2F0MiStSkmt5J5XYV"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "BARRIO VERDE",
-          "url": "https://open.spotify.com/artist/559w53NeE0TLcEkzSjTZy0"
-        }
-      ],
-      "duration_ms": 182447,
-      "name": "Somos \u00d1eros",
-      "url": "https://open.spotify.com/track/1ayHvq7JuUeuIpfAPkCEd0"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Nes",
-          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Can Am",
-      "url": "https://open.spotify.com/track/0B8fHvO6GbvXGHez1ZX3eO"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Reggaeto\u00f1erito",
-        "url": "https://open.spotify.com/album/0qxfppXkQz8k6CRrERCJQL"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Tendo",
-      "url": "https://open.spotify.com/track/1GXlpaQzRJInxcdIUUPMEb"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 225456,
-      "name": "Reggaeton Chakalon",
-      "url": "https://open.spotify.com/track/2ZjWAOt7mpzdOYobjoEt8L"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Eso Si Es De Gangster",
-        "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 247930,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/22XuCJLRSW3Xt2SPBAykzx"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Desnudate - Remix",
-        "url": "https://open.spotify.com/album/53ncI589RsW51zBpgL8iMk"
-      },
-      "artists": [
-        {
-          "name": "Big Metra",
-          "url": "https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "VV Brujo",
-          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
-        }
-      ],
-      "duration_ms": 243999,
-      "name": "Desnudate - Remix",
-      "url": "https://open.spotify.com/track/1kQhwc7ZTVJ9fKk1ECl4dL"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "duration_ms": 211084,
-      "name": "Cuando No Era Cantante",
-      "url": "https://open.spotify.com/track/1WkYhJMWhofw1XgVWfdMWE"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Eso Si Es De Gangster",
-        "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 163913,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/1E4n3ii5OyBgya466v5IGK"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 167139,
-      "name": "Bandidaje y Malandreo",
-      "url": "https://open.spotify.com/track/1gD2Lq4wupzluj4y8WZD7w"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Moto Loca",
-        "url": "https://open.spotify.com/album/3c67R131MP2zXgwuVCmDF4"
-      },
-      "artists": [
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 170611,
-      "name": "Moto Loca",
-      "url": "https://open.spotify.com/track/6S2x73tpcgpJF97a7FotfE"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Gato \u00d1ero",
-        "url": "https://open.spotify.com/album/37XH1vdoSH1dFANWW2U5oT"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "Gato \u00d1ero",
-      "url": "https://open.spotify.com/track/3izYUtIPdSpKgmsJMsOxLl"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Uii (Remix)",
-        "url": "https://open.spotify.com/album/2Bdk7y5zw1JdzUiWcZq4Me"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
         },
         {
           "name": "Fuentes Prod",
           "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
         }
       ],
-      "duration_ms": 178204,
-      "name": "Uii - Remix",
-      "url": "https://open.spotify.com/track/57tl0pTeaJcWAjxJHI1sxB"
+      "duration_ms": 124588,
+      "name": "Zona de mamboteo",
+      "url": "https://open.spotify.com/track/0ts008BYOdnBe1ZOcVabvJ"
     },
     {
-      "added_at": "2026-08-26 23:42:16",
+      "added_at": "2026-10-09 18:04:24",
       "album": {
-        "name": "Eso Si Es De Gangster",
-        "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
+        "name": "Revolucionando",
+        "url": "https://open.spotify.com/album/1knbmksOm6FgaUqiYFDGif"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Zona Rika",
+          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
+        }
+      ],
+      "duration_ms": 280120,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/5mDJBbTaPLfWhkRNSc04ek"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 260946,
+      "name": "Chambonea - Studio Version",
+      "url": "https://open.spotify.com/track/22gBiqBaMlFHVvpkM6j1Ap"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Zona de Mamboteo",
+        "url": "https://open.spotify.com/album/4fPgW765a0rCBlPHv2Dbr9"
+      },
+      "artists": [
+        {
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
         },
         {
-          "name": "QueHicisteBella",
-          "url": "https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv"
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
         }
       ],
-      "duration_ms": 197531,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/4TVRvmPitWmNXIzmZXTyfb"
+      "duration_ms": 150127,
+      "name": "Na' m\u00e1s que perder",
+      "url": "https://open.spotify.com/track/2QLJVqONqOK6CfswqleGBP"
     },
     {
-      "added_at": "2026-08-26 23:42:16",
+      "added_at": "2026-10-09 18:04:24",
       "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/36gbETWFHYOhKagApK6spF"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "La Vaca",
+        "url": "https://open.spotify.com/album/362VvoXxnrHRg6FLhwRdHC"
+      },
+      "artists": [
+        {
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "Tra Tra",
+      "url": "https://open.spotify.com/track/7m8n9cq3ooZiZbLSv7MFx5"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Zona de Mamboteo",
+        "url": "https://open.spotify.com/album/4fPgW765a0rCBlPHv2Dbr9"
+      },
+      "artists": [
+        {
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
         },
         {
-          "name": "Rey Pirin",
-          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "Cura pal dolor",
+      "url": "https://open.spotify.com/track/0PbAYunJGE9a6mlD5TK59L"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Mundial (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1KvWjARMNg4QmqyLLb0zp1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/0fqrZVSenCW6vD2eFMx5pt"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Pa' Gozar - Zona Rika",
+        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
+      },
+      "artists": [
+        {
+          "name": "Zona Rika",
+          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
+        }
+      ],
+      "duration_ms": 235821,
+      "name": "Spanish Girl",
+      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Zona de Mamboteo",
+        "url": "https://open.spotify.com/album/4fPgW765a0rCBlPHv2Dbr9"
+      },
+      "artists": [
+        {
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
         },
         {
-          "name": "Dj Esli",
-          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
         }
       ],
-      "duration_ms": 186120,
-      "name": "Le Mete",
-      "url": "https://open.spotify.com/track/62nzG1Pz00QXKbR7soF3zz"
+      "duration_ms": 134769,
+      "name": "La cloaka",
+      "url": "https://open.spotify.com/track/7LWNesO7tyZttKdzQ1derE"
     },
     {
-      "added_at": "2026-08-26 23:42:16",
+      "added_at": "2026-10-09 18:04:24",
       "album": {
-        "name": "Pal Pi",
-        "url": "https://open.spotify.com/album/35NuYcJ80ABPNpsn6FEIGF"
+        "name": "Mi Pecadora",
+        "url": "https://open.spotify.com/album/03t60M2efBm7Lt3M84sdgv"
       },
       "artists": [
         {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 277420,
+      "name": "Mi Pecadora",
+      "url": "https://open.spotify.com/track/0RwvSRjZLcgav1TNYZK97y"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Hace Calor",
+        "url": "https://open.spotify.com/album/0kdmxka8MfuFJSiy2RylCz"
+      },
+      "artists": [
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        }
+      ],
+      "duration_ms": 237506,
+      "name": "Hace Calor",
+      "url": "https://open.spotify.com/track/3YWly900kvaf7mf2vDg3Zo"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Con Su Loquera",
+        "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
+      },
+      "artists": [
+        {
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+        }
+      ],
+      "duration_ms": 255533,
+      "name": "La Vaca",
+      "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "El Aut\u00e9ntico Meren-Mex",
+        "url": "https://open.spotify.com/album/00KRgn6ITfjjHlGqAxaDQJ"
+      },
+      "artists": [
+        {
+          "name": "Kartel Del Mambo",
+          "url": "https://open.spotify.com/artist/5hZFVaho8wFY572LGA8rZ5"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "El Polvor\u00f3n",
+      "url": "https://open.spotify.com/track/2bv9rXCh90zGIMs1xXjGMu"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Titanio y Sus Amigos Presenta a Black Mambo y la Rolex Band",
+        "url": "https://open.spotify.com/album/0kJyD1xbIehNdRs7sqToTk"
+      },
+      "artists": [
+        {
+          "name": "Black Mambo y la Rolex Band",
+          "url": "https://open.spotify.com/artist/7y4BFJKidq5JaRmNCR86G6"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Agua de Coco",
+      "url": "https://open.spotify.com/track/4bf33HFBEQLjfpKbSNXtN9"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Quien Diablos Es Watatah? (Reloaded)",
+        "url": "https://open.spotify.com/album/00RjSdab1sB4CbuX0EhfGD"
+      },
+      "artists": [
+        {
+          "name": "Watatah",
+          "url": "https://open.spotify.com/artist/1L9EmiRSULlEZY8x9rsnuX"
+        }
+      ],
+      "duration_ms": 257175,
+      "name": "Palo",
+      "url": "https://open.spotify.com/track/67lmwrf1KPOyAtaoMPC9PG"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Yo Entendi",
+        "url": "https://open.spotify.com/album/2oshTRXHiCBEdwNsDJjzh9"
+      },
+      "artists": [
+        {
+          "name": "Tony Haze",
+          "url": "https://open.spotify.com/artist/3DyNylrm5pg2WlxnrYX2qW"
+        }
+      ],
+      "duration_ms": 234923,
+      "name": "Yo Entendi",
+      "url": "https://open.spotify.com/track/0KdoBgE0hRi0yk5uv3wBTP"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Merengue Latino 100 Hits 2",
+        "url": "https://open.spotify.com/album/71171uuEk0HuAHxjVK9QEC"
+      },
+      "artists": [
+        {
+          "name": "Merengue Latin Band",
+          "url": "https://open.spotify.com/artist/6CfAyHRZimRXEFeC7Tcseo"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Fresa Salvaje",
+      "url": "https://open.spotify.com/track/4Zg5z0K92Q24afNHBRk0qV"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/4YMXUopXUfjbqWoUkvsWLc"
+      },
+      "artists": [
+        {
+          "name": "Amarfis y La Banda De Atakke",
+          "url": "https://open.spotify.com/artist/2xkpXmyV2GO5tX3AMdS5zl"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Yemaya",
+      "url": "https://open.spotify.com/track/4IcwfoydbC6mCXZ28Di31v"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Sale el Sol",
+        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "El Cata",
+          "url": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Pal Pi",
-      "url": "https://open.spotify.com/track/40WAmuMa00xGvCiiGNEIwu"
+      "duration_ms": 183693,
+      "name": "Loca (feat. El Cata)",
+      "url": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC"
     },
     {
-      "added_at": "2026-08-26 23:42:16",
+      "added_at": "2026-10-09 18:04:24",
       "album": {
-        "name": "Panas",
-        "url": "https://open.spotify.com/album/5HETiPl8SfoMxsQLRFoI1C"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 267160,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7JIjUx3GsL0upxmNJacmtz"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Pa' Gozar - Zona Rika",
+        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
+      },
+      "artists": [
+        {
+          "name": "Zona Rika",
+          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
+        }
+      ],
+      "duration_ms": 261742,
+      "name": "El Bacalao",
+      "url": "https://open.spotify.com/track/7tPV2NvibVJSm9SCrVlAPX"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Ando En La Versace",
+        "url": "https://open.spotify.com/album/3x1sTi6yjdftLtwsV3d2eO"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 364199,
+      "name": "Ando En La Versace",
+      "url": "https://open.spotify.com/track/5e1ctDWngCXUonlWrvtcAg"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "El Combo Que No Se Deja- Volumen 1",
+        "url": "https://open.spotify.com/album/7cpIsbHmsl3m6ULqB6Nbxi"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Sigue Bailando",
+      "url": "https://open.spotify.com/track/0XaWSU9onOBUVh302CK0bl"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Super Estrella (feat. Omega)",
+        "url": "https://open.spotify.com/album/7KZd1FBnxpm9kHMcfHopUz"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Super Estrella (Feat. Omega)",
+      "url": "https://open.spotify.com/track/21Bx5SwsMLHNJYPFyudPsB"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Pa' Sofoca",
+        "url": "https://open.spotify.com/album/4xVwaHyLQ3P33BlL3xzsrv"
+      },
+      "artists": [
+        {
+          "name": "Nelson De La Olla Y Su Banda Chula",
+          "url": "https://open.spotify.com/artist/0gEMILdd0fLnrgnpElvON9"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Pirulo",
+      "url": "https://open.spotify.com/track/1kCzi7EeltiXQ4lCVo3HDX"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "El Que Sabe, Sabe",
+        "url": "https://open.spotify.com/album/7eiKw0GmYqIuTa0J0n5r6k"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         },
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 247637,
-      "name": "Panas",
-      "url": "https://open.spotify.com/track/1ce0KvZOhRL0O6x1YYQPS8"
+      "duration_ms": 238106,
+      "name": "Pastillita (feat. Don Omar)",
+      "url": "https://open.spotify.com/track/5pYJOXjEW7VUomyVo1apAn"
     },
     {
-      "added_at": "2026-08-26 23:42:16",
+      "added_at": "2026-10-09 18:04:24",
       "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
+        "name": "Lleg\u00f3 Pap\u00e1",
+        "url": "https://open.spotify.com/album/15YHNPd2uDk4YtW6rl5hl5"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Merenglass Grupo",
+          "url": "https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA"
         }
       ],
-      "duration_ms": 223634,
-      "name": "V Boutique",
-      "url": "https://open.spotify.com/track/2gs3Aj5HlIFbiksXxZMNMg"
+      "duration_ms": 198635,
+      "name": "La Mujer del Pelotero",
+      "url": "https://open.spotify.com/track/3jQR5izFqwWIp0SWlUwQJO"
     },
     {
-      "added_at": "2026-08-26 23:42:16",
+      "added_at": "2026-10-09 18:04:24",
       "album": {
-        "name": "Reggaeto\u00f1erito",
-        "url": "https://open.spotify.com/album/0qxfppXkQz8k6CRrERCJQL"
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "El Poder de New York",
+        "url": "https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 279893,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "El Due\u00f1o del Flow (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0grvsiw3RNgOpAqI4fkJVv"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 235403,
+      "name": "Merengue Electronico - Rompe Consola",
+      "url": "https://open.spotify.com/track/34A9YrWl8XG6CU6FOkfPRL"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Los Due\u00f1os del Swing",
+        "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "La Due\u00f1a del Swing",
+      "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "The Royalty",
+        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Te Regalo Amores",
+      "url": "https://open.spotify.com/track/5gJ47Ia89XREGtlCprzAe2"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "El Matat\u00e1n",
+        "url": "https://open.spotify.com/album/6iPe8mEQXw3pgCIFIW83dI"
+      },
+      "artists": [
+        {
+          "name": "Rimambo",
+          "url": "https://open.spotify.com/artist/5H0nALjHUZg9BfHHa1Kd34"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "El Motoconcho",
+      "url": "https://open.spotify.com/track/7r8zPmrzfQXEXQWGrQO9pa"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "The King Is Back",
+        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         },
         {
-          "name": "DJ Antena",
-          "url": "https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "La Pistola",
-      "url": "https://open.spotify.com/track/4SiAYPb2h0eTJxCVf3Blb1"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 147941,
-      "name": "Rolex",
-      "url": "https://open.spotify.com/track/6HvXKqyUycghBZjaTtytdt"
-    },
-    {
-      "added_at": "2026-08-26 23:42:16",
-      "album": {
-        "name": "Te Rezo",
-        "url": "https://open.spotify.com/album/2OK8xHmJ2wLyRxrotUAV2o"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
         }
       ],
-      "duration_ms": 223432,
-      "name": "Te Rezo",
-      "url": "https://open.spotify.com/track/1nAy9vRqzangodrDsvy9kv"
+      "duration_ms": 185480,
+      "name": "Si No Te Quisiera",
+      "url": "https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz"
+    },
+    {
+      "added_at": "2026-10-09 18:04:24",
+      "album": {
+        "name": "Exitos Del Pasado (En Vivo)",
+        "url": "https://open.spotify.com/album/7h5s4G6MQMFZeqCjVoNyrp"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        },
+        {
+          "name": "Omega & Mambo Violento",
+          "url": "https://open.spotify.com/artist/6rJUtZpvTY3iuCsWIO6IYg"
+        }
+      ],
+      "duration_ms": 220682,
+      "name": "Son Tan Solo - En Vivo",
+      "url": "https://open.spotify.com/track/7fLTm7s2DxtnJQLNSDCFo1"
     }
   ],
-  "unique_name": "Pa' Los OG's",
+  "unique_name": "El Barrio MP3 x Dulz\u00f3n",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbH5bzpmFWXy"
 }

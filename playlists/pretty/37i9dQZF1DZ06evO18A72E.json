@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 778079,
+  "num_followers": 778082,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABIhprd22niZXUJjGtslV6A",
+  "snapshot_id": "asbdAAAAAACaUAEJsKDpqVpsYpbW+ABW",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 247773,
-      "name": "Northern Downpour",
-      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 213520,
       "name": "Let's Kill Tonight",
       "url": "https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "Northern Downpour",
+      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "That Green Gentleman (Things Have Changed)",
-      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 213320,
       "name": "Sarah Smiles",
       "url": "https://open.spotify.com/track/00h6syYCxPKVsInPHXhdZ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "That Green Gentleman (Things Have Changed)",
+      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "She Had the World",
-      "url": "https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "She Had the World",
+      "url": "https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live In Denver",
         "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 205320,
       "name": "Karma Police - Live In Denver",
       "url": "https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Do You Know What I'm Seeing?",
-      "url": "https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Do You Know What I'm Seeing?",
+      "url": "https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live In Denver",
         "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 246413,
       "name": "Tonight, Tonight - Live In Denver",
       "url": "https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Hopes (White Panda Remix)",
-        "url": "https://open.spotify.com/album/1b5e5xUCsIua9I2YzhDL8q"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        },
-        {
-          "name": "White Panda",
-          "url": "https://open.spotify.com/artist/1mOUOvOOaoTF2b3kDjrety"
-        }
-      ],
-      "duration_ms": 176343,
-      "name": "High Hopes - White Panda Remix",
-      "url": "https://open.spotify.com/track/1wR8ATQr0sxSfp6jGJ5Oe6"
     },
     {
       "added_at": null,
@@ -763,6 +743,26 @@
       "duration_ms": 207297,
       "name": "Viva Las Vengeance",
       "url": "https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Hopes (White Panda Remix)",
+        "url": "https://open.spotify.com/album/1b5e5xUCsIua9I2YzhDL8q"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "White Panda",
+          "url": "https://open.spotify.com/artist/1mOUOvOOaoTF2b3kDjrety"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "High Hopes - White Panda Remix",
+      "url": "https://open.spotify.com/track/1wR8ATQr0sxSfp6jGJ5Oe6"
     }
   ],
   "unique_name": "This Is Panic! At The Disco",

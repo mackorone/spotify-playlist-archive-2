@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 209712,
+  "num_followers": 209754,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAB2YMPN37taBRfmNQCrEEwd",
+  "snapshot_id": "asbdAAAAAAD1seIz57Eq7LLPF7FAcBjo",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEN",
+        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Sarah Barthel",
+          "url": "https://open.spotify.com/artist/7AVY1bJuRTZrbYW3soi1Js"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 192813,
+      "name": "DAY YOU DIE (feat. Sarah Barthel of Phantogram)",
+      "url": "https://open.spotify.com/track/1e2jQhHijtvLCNUTZ1MKbC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 251196,
       "name": "Starting Over (feat. Ben Bridwell)",
       "url": "https://open.spotify.com/track/7gSyfcCtcnlHDbA8O3Lnls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEN",
-        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Sarah Barthel",
-          "url": "https://open.spotify.com/artist/7AVY1bJuRTZrbYW3soi1Js"
-        },
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 192813,
-      "name": "DAY YOU DIE (feat. Sarah Barthel of Phantogram)",
-      "url": "https://open.spotify.com/track/1e2jQhHijtvLCNUTZ1MKbC"
     },
     {
       "added_at": null,

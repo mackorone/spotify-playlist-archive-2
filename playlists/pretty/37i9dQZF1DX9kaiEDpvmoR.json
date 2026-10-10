@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93774,
+  "num_followers": 93780,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-10-08 22:00:38",
       "album": {
-        "name": "Mirakel",
-        "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "Mirakel",
-      "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
-    },
-    {
-      "added_at": "2026-10-08 22:00:38",
-      "album": {
         "name": "Easter Lily EP",
         "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 273906,
       "name": "In A Life",
       "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "added_at": "2026-10-08 22:00:38",
+      "album": {
+        "name": "Mirakel",
+        "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "Mirakel",
+      "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
     },
     {
       "added_at": "2026-10-08 22:00:38",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-10-08 22:00:38",
       "album": {
+        "name": "Streets of Minneapolis (Radio Mix)",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 270825,
+      "name": "Streets of Minneapolis - Radio Mix",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
+    },
+    {
+      "added_at": "2026-10-08 22:00:38",
+      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/1WeMx6SIhFCKkjSG2kVxVR"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 156357,
       "name": "Alien",
       "url": "https://open.spotify.com/track/1Tsr6x9gUkkggXgLRtnO0f"
-    },
-    {
-      "added_at": "2026-10-08 22:00:38",
-      "album": {
-        "name": "Streets of Minneapolis (Radio Mix)",
-        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 270825,
-      "name": "Streets of Minneapolis - Radio Mix",
-      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
       "added_at": "2026-10-08 22:00:38",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-10-08 22:00:38",
       "album": {
-        "name": "Scandinavian Eyes",
-        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 291197,
-      "name": "Scandinavian Eyes",
-      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
-    },
-    {
-      "added_at": "2026-10-08 22:00:38",
-      "album": {
         "name": "Moderna tider",
         "url": "https://open.spotify.com/album/1d3a5sjYx3iiaDffKC1BJl"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 191635,
       "name": "MITT HJ\u00c4RTA EN REBELL",
       "url": "https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj"
+    },
+    {
+      "added_at": "2026-10-08 22:00:38",
+      "album": {
+        "name": "Scandinavian Eyes",
+        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 291197,
+      "name": "Scandinavian Eyes",
+      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
     },
     {
       "added_at": "2026-10-08 22:00:38",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-10-08 22:00:38",
       "album": {
-        "name": "In your bed",
-        "url": "https://open.spotify.com/album/1KLwNzhTlwED7ErQ5aMcqN"
-      },
-      "artists": [
-        {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
-        }
-      ],
-      "duration_ms": 206325,
-      "name": "In your bed",
-      "url": "https://open.spotify.com/track/0gRWM06ZFk93KLPctCOAu8"
-    },
-    {
-      "added_at": "2026-10-08 22:00:38",
-      "album": {
         "name": "En s\u00e5ng till modet",
         "url": "https://open.spotify.com/album/0phUs84n1MODY1e3lxUNJg"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 295784,
       "name": "En s\u00e5ng till modet",
       "url": "https://open.spotify.com/track/5dmgYzNxEx0iNfGLMTbTyc"
+    },
+    {
+      "added_at": "2026-10-08 22:00:38",
+      "album": {
+        "name": "In your bed",
+        "url": "https://open.spotify.com/album/1KLwNzhTlwED7ErQ5aMcqN"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "duration_ms": 206325,
+      "name": "In your bed",
+      "url": "https://open.spotify.com/track/0gRWM06ZFk93KLPctCOAu8"
     },
     {
       "added_at": "2026-10-08 22:00:38",
@@ -775,6 +775,30 @@
     {
       "added_at": "2026-10-08 22:00:38",
       "album": {
+        "name": "Inte h\u00e4r",
+        "url": "https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        },
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Inte h\u00e4r",
+      "url": "https://open.spotify.com/track/1073oo70if3Yfs18iB1Zzz"
+    },
+    {
+      "added_at": "2026-10-08 22:00:38",
+      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
       },
@@ -819,30 +843,6 @@
       "duration_ms": 237019,
       "name": "25k",
       "url": "https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a"
-    },
-    {
-      "added_at": "2026-10-08 22:00:38",
-      "album": {
-        "name": "Inte h\u00e4r",
-        "url": "https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN"
-      },
-      "artists": [
-        {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        },
-        {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
-        },
-        {
-          "name": "Tasha17k",
-          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Inte h\u00e4r",
-      "url": "https://open.spotify.com/track/1073oo70if3Yfs18iB1Zzz"
     },
     {
       "added_at": "2026-10-08 22:00:38",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-08 22:00:38",
       "album": {
-        "name": "Liten o stor",
-        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 312103,
-      "name": "Liten o stor",
-      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
-    },
-    {
-      "added_at": "2026-10-08 22:00:38",
-      "album": {
         "name": "Fast Lane",
         "url": "https://open.spotify.com/album/2vMgit0PMLiycYbYeu1Zas"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 174347,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/0KraHSiibM4cJR5pgfbI97"
+    },
+    {
+      "added_at": "2026-10-08 22:00:38",
+      "album": {
+        "name": "Liten o stor",
+        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 312103,
+      "name": "Liten o stor",
+      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
     },
     {
       "added_at": "2026-10-08 22:00:38",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-10-08 22:00:38",
       "album": {
-        "name": "One on One",
-        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 221623,
-      "name": "One on One",
-      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
-    },
-    {
-      "added_at": "2026-10-08 22:00:38",
-      "album": {
         "name": "Sciura",
         "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 171706,
       "name": "Inte bra i grupp",
       "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
+    },
+    {
+      "added_at": "2026-10-08 22:00:38",
+      "album": {
+        "name": "One on One",
+        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 221623,
+      "name": "One on One",
+      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
     },
     {
       "added_at": "2026-10-08 22:00:38",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-08 22:00:38",
       "album": {
-        "name": "Revalution Club",
-        "url": "https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D"
-      },
-      "artists": [
-        {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
-        }
-      ],
-      "duration_ms": 269250,
-      "name": "Musiken som h\u00f6rs fr\u00e5n Rival",
-      "url": "https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM"
-    },
-    {
-      "added_at": "2026-10-08 22:00:38",
-      "album": {
         "name": "Can't Frame the Moonlight",
         "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 205896,
       "name": "Can't Frame the Moonlight",
       "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+    },
+    {
+      "added_at": "2026-10-08 22:00:38",
+      "album": {
+        "name": "Revalution Club",
+        "url": "https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D"
+      },
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
+        }
+      ],
+      "duration_ms": 269250,
+      "name": "Musiken som h\u00f6rs fr\u00e5n Rival",
+      "url": "https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM"
     },
     {
       "added_at": "2026-10-08 22:00:38",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-10-08 22:00:38",
       "album": {
-        "name": "Still Believe In God",
-        "url": "https://open.spotify.com/album/1JeUxjD1s08zAGsGnIZiKc"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 183296,
-      "name": "Still Believe In God",
-      "url": "https://open.spotify.com/track/6Ql3VIyE3WVVglp5j1KigT"
-    },
-    {
-      "added_at": "2026-10-08 22:00:38",
-      "album": {
         "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
         "url": "https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182746,
       "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
       "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
+    },
+    {
+      "added_at": "2026-10-08 22:00:38",
+      "album": {
+        "name": "Still Believe In God",
+        "url": "https://open.spotify.com/album/1JeUxjD1s08zAGsGnIZiKc"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 183296,
+      "name": "Still Believe In God",
+      "url": "https://open.spotify.com/track/6Ql3VIyE3WVVglp5j1KigT"
     },
     {
       "added_at": "2026-10-08 22:00:38",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-10-08 22:00:38",
       "album": {
-        "name": "More!",
-        "url": "https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 178499,
-      "name": "More!",
-      "url": "https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk"
-    },
-    {
-      "added_at": "2026-10-08 22:00:38",
-      "album": {
         "name": "Heaven Is a Place on Earth",
         "url": "https://open.spotify.com/album/4GkrL5O3cTCsp9aTk0j288"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 183658,
       "name": "Heaven Is a Place on Earth",
       "url": "https://open.spotify.com/track/443kWGstgFfJM2x1LcBGUg"
+    },
+    {
+      "added_at": "2026-10-08 22:00:38",
+      "album": {
+        "name": "More!",
+        "url": "https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 178499,
+      "name": "More!",
+      "url": "https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk"
     },
     {
       "added_at": "2026-10-08 22:00:38",

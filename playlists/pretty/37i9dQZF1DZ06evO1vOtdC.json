@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 463479,
+  "num_followers": 463390,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAB4captMzWL5PqPk/BqEwAs",
+  "snapshot_id": "asbdAAAAAAB0cdAiAnKneRhDwf44/q2K",
   "tracks": [
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 165692,
-      "name": "Everything's Fine (PM)",
-      "url": "https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ultimo Adi\u00f3s",
         "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
       },
@@ -355,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 165692,
+      "name": "Everything's Fine (PM)",
+      "url": "https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Regreso del Sobreviviente (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO"
       },
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 200133,
       "name": "I'm Into You",
       "url": "https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "If You Had My Love",
-      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel The Light (From The \"Home\" Soundtrack)",
-        "url": "https://open.spotify.com/album/4M3KMVcGDPrJvSXn37r54K"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 291546,
-      "name": "Feel The Light - From The \"Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/26Zco2DqGMnDIjOX0aIqER"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 211493,
       "name": "Play",
       "url": "https://open.spotify.com/track/7fFCnttacpotkyhTOxKv14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel The Light (From The \"Home\" Soundtrack)",
+        "url": "https://open.spotify.com/album/4M3KMVcGDPrJvSXn37r54K"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 291546,
+      "name": "Feel The Light - From The \"Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/26Zco2DqGMnDIjOX0aIqER"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambia el Paso",
-        "url": "https://open.spotify.com/album/5qSmLWlPnrhF2rgt54Y7GC"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 245755,
-      "name": "Cambia el Paso",
-      "url": "https://open.spotify.com/track/6w0hTf98ZNQm5GpfWeuoAk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Double Vision (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 200922,
       "name": "Back It Up (feat. Jennifer Lopez & Pitbull) - Video Version",
       "url": "https://open.spotify.com/track/6Y0mJNAcx8CDBOhSy6icFP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cambia el Paso",
+        "url": "https://open.spotify.com/album/5qSmLWlPnrhF2rgt54Y7GC"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 245755,
+      "name": "Cambia el Paso",
+      "url": "https://open.spotify.com/track/6w0hTf98ZNQm5GpfWeuoAk"
     },
     {
       "added_at": null,
@@ -1043,22 +1043,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La \u00daltima Misi\u00f3n",
-        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+        "name": "Kiss of the Spider Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/11q2atn1ZVm6LJO5Efljz6"
       },
       "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 174708,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY"
+      "duration_ms": 150830,
+      "name": "Her Name Is Aurora (Gala)",
+      "url": "https://open.spotify.com/track/7FDqhG8CjZMhy3XeHGtvYI"
     }
   ],
   "unique_name": "This Is Jennifer Lopez",

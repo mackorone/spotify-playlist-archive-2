@@ -442,7 +442,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 135419,
       "name": "ATTENTION",
       "url": "https://open.spotify.com/track/6JcMLSSUp3TO5bnTMLxOAj"
@@ -2824,6 +2824,24 @@
       "duration_ms": 275040,
       "name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/3XbNseJrIK8LzoTh4eA0Xf"
+    },
+    {
+      "album": {
+        "name": "LOST IN LUST",
+        "url": "https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143148,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/2w4pcPdQNzCoDpOLrPyeCL"
     },
     {
       "album": {

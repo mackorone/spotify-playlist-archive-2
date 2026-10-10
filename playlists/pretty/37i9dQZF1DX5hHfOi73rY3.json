@@ -1,6 +1,6 @@
 {
   "description": "Dance anthems from the club to your ears! ",
-  "num_followers": 327772,
+  "num_followers": 327809,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-08-27 23:00:41",
       "album": {
-        "name": "Chica",
-        "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
-      },
-      "artists": [
-        {
-          "name": "Ben Evers",
-          "url": "https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43"
-        },
-        {
-          "name": "Najeh",
-          "url": "https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Chica",
-      "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
-    },
-    {
-      "added_at": "2026-08-27 23:00:41",
-      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
+    },
+    {
+      "added_at": "2026-08-27 23:00:41",
+      "album": {
+        "name": "Chica",
+        "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
+      },
+      "artists": [
+        {
+          "name": "Ben Evers",
+          "url": "https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43"
+        },
+        {
+          "name": "Najeh",
+          "url": "https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
     },
     {
       "added_at": "2026-08-27 23:00:41",

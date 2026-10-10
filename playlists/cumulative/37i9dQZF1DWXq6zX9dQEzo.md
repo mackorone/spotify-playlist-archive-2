@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-1,028 songs - 2 day 0 hr 27 min
+1,029 songs - 2 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -864,7 +864,7 @@
 | [Take The Squad](https://open.spotify.com/track/3NYmNSJMWwZLhRaPpN3aUS) | [Dante' pride](https://open.spotify.com/artist/3KF3FfIlybRWFHZNhLKi4G) | [Take The Squad](https://open.spotify.com/album/6Iwh0Za8sQlla95qsU7AUX) | 1:58 | 2025-12-12 | 2026-05-30 |
 | [take the wheel](https://open.spotify.com/track/2H6Xw9IKbZirY1camQHot3) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [take the wheel](https://open.spotify.com/album/7sWUex3pzMhcKIvx5Kx3Ig) | 2:17 | 2025-05-09 | 2025-09-20 |
 | [Take Your Time](https://open.spotify.com/track/7EvHpaw8rCjbSpUp4qfu3F) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Take Your Time](https://open.spotify.com/album/0fyB1lP54sr5PHXzFwWVqt) | 3:19 | 2022-10-01 | 2023-08-12 |
-| [TALK SPICY](https://open.spotify.com/track/2nuQeMvwn2uiiCm3w5vCzB) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [TALK SPICY](https://open.spotify.com/album/3EJphzwiHE5sC4GFSLHntd) | 1:52 | 2025-05-09 |  |
+| [TALK SPICY](https://open.spotify.com/track/2nuQeMvwn2uiiCm3w5vCzB) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [TALK SPICY](https://open.spotify.com/album/3EJphzwiHE5sC4GFSLHntd) | 1:52 | 2025-05-09 | 2026-10-10 |
 | [Tap In](https://open.spotify.com/track/1m6DoxPK75pRVThUXNaUr6) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi), [IG Chat](https://open.spotify.com/artist/1YmlzdqvEpaNO4wQ0zFVYw) | [Tap In](https://open.spotify.com/album/6W1hT7lFHBzi2GxGQ6nBBV) | 2:33 | 2023-08-11 | 2024-06-08 |
 | [TAPPED](https://open.spotify.com/track/0tj5Q3TeKqT82NykN7BThU) | [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [TAPPED](https://open.spotify.com/album/3AWnOc58LjirvzfjLsCUUU) | 2:51 | 2025-03-07 | 2026-06-09 |
 | [Technique](https://open.spotify.com/track/0v0Z4a89ervhNOK9IiofkT) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Disciple Theory](https://open.spotify.com/artist/7963a7BIGR9VOUXhGQrC2p) | [Technique](https://open.spotify.com/album/1b4ugxBznYn1NLwBaaH2Di) | 3:15 | 2024-06-07 | 2024-10-05 |
@@ -1017,6 +1017,7 @@
 | [YAH](https://open.spotify.com/track/1fhejtrdVabCphXSxMNyi9) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V) | [Fifth Hour Fire](https://open.spotify.com/album/7HG2JYQuaQKBfXC6Rq8uOW) | 2:34 | 2025-11-07 |  |
 | [YAHWEH](https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Anike](https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf) | 2:49 | 2024-09-03 | 2025-01-15 |
 | [Yahweh](https://open.spotify.com/track/6vnAweL3Sru9mBBopAmwox) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Yahweh](https://open.spotify.com/album/5NEWjHTiU00vk8242TLXca) | 3:23 | 2026-04-03 | 2026-08-08 |
+| [YEAH YEAH](https://open.spotify.com/track/4eN1ChRskzmDrd6oxlrWUv) | [RESEY](https://open.spotify.com/artist/6BRWEbW6MMdKL4xLIDQ304), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Jah Heer](https://open.spotify.com/artist/7t7c2HsZbePsrHjo7uZhmg) | [YEAH YEAH](https://open.spotify.com/album/5pKCqRogkGjiV0sY9XC6Sy) | 3:18 | 2026-10-02 |  |
 | [YEAH YEAH YEAH YEAH](https://open.spotify.com/track/5lpJAo9tPInczwunJaZfs0) | [Dante' pride](https://open.spotify.com/artist/3KF3FfIlybRWFHZNhLKi4G), [Lisa Page Brooks](https://open.spotify.com/artist/6mc3x5eqTyPPz5ydCnnlyB) | [YEAH YEAH YEAH YEAH](https://open.spotify.com/album/1aCtBRqvZD3z2VpZbfm8ZP) | 2:19 | 2024-10-04 | 2025-09-20 |
 | [YEAH!](https://open.spotify.com/track/56Tm9usuyAG6vLR6Emb9f1) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [YEAH!](https://open.spotify.com/album/4sfEfpRd0WaJKX7LRjrKVJ) | 2:31 | 2026-08-07 |  |
 | [Yes](https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Yes](https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms) | 2:59 | 2025-07-18 | 2025-08-08 |

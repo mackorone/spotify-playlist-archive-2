@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,396 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,426 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,9 +131,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 121 | [Sh\-Boom \- Life Could Be A Dream \- Sh\-Boom](https://open.spotify.com/track/6dAG4jFPsR4zb2kRhYq3IA) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [Life Could Be A Dream](https://open.spotify.com/album/2I97y4jn4OWdDYYo2J0eo7) | 2:48 |
 | 122 | [I Done Told You](https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm) | [Gene Simmons](https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD) | [Sun Records Yearbook \- 1958 part 2](https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq) | 2:21 |
 | 123 | [The Hucklebuck](https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [The Rhythm and The Blues\- Sun Records](https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR) | 3:08 |
-| 124 | [Bop With Me Baby](https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Sun Records Recording Artist \- Rosco Gordon](https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH) | 2:36 |
-| 125 | [Ugly Woman](https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ) | [Johnny O'Neal](https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2) | [Sun Records\- Boogie BBQ](https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT) | 2:37 |
-| 126 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 |
+| 124 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 |
+| 125 | [Bop With Me Baby](https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Sun Records Recording Artist \- Rosco Gordon](https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH) | 2:36 |
+| 126 | [Ugly Woman](https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ) | [Johnny O'Neal](https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2) | [Sun Records\- Boogie BBQ](https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT) | 2:37 |
 | 127 | [\(‘Til\) I Kissed You](https://open.spotify.com/track/1vVY5vd4kowd70TdTuEjfV) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Top 100 Hits \- Rock And Roll](https://open.spotify.com/album/2YVKgCKM0IgHxxmLzWutm3) | 2:27 |
 | 128 | [Chantilly Lace \- Single Version](https://open.spotify.com/track/6h7QjxbS5XbfGIe0Oxij61) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Dreamboats And Petticoats](https://open.spotify.com/album/5X76bfwHrnIcl0tJicbjTK) | 2:23 |
 | 129 | [That's All Right](https://open.spotify.com/track/1mKhiITXCIpves7QbT4xo7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [A Boy From Tupelo: The Complete 1953\-1955 Recordings](https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI) | 1:59 |

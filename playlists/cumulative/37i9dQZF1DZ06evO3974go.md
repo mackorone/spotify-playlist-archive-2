@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 8 min
+88 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [I Just Might](https://open.spotify.com/track/5rcHN0ApxrVS6F6nq3uyGc) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [No Label Vol\. 2](https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj) | 3:44 | 2026-05-12 |  |
 | [I Know \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/22BwaoGHQOTfFhHTndm7DQ) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Am](https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74) | 4:19 | 2024-09-07 |  |
 | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp) | 3:22 | 2024-09-07 |  |
-| [Imma Ride](https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:47 | 2024-09-07 |  |
+| [Imma Ride](https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:47 | 2024-09-07 | 2026-10-10 |
 | [Intro](https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 4:12 | 2024-10-08 | 2025-05-19 |
 | [Investment](https://open.spotify.com/track/45qBK268Mjy6JnOE6mx179) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In](https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9) | 3:40 | 2024-09-09 | 2026-08-15 |
 | [Keep It Goin](https://open.spotify.com/track/1XYOVvfSbn1Ez4p6pwUsia) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:23 | 2026-07-29 |  |
@@ -66,6 +66,7 @@
 | [One of Quan](https://open.spotify.com/track/6p6pqAuoA9xDuyenxpzojG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/41w5rKjLxKI735hBuQ8RAs) | 3:08 | 2025-08-25 | 2025-10-05 |
 | [One of Quan](https://open.spotify.com/track/70SqOG5NhnhH5HJQCgqTUO) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:08 | 2024-10-09 | 2025-04-21 |
 | [Perfect Flower](https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich As In Spirit](https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7) | 3:34 | 2025-09-26 |  |
+| [Posture](https://open.spotify.com/track/6wFeNkWs0d65x46Xcgv8iL) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [GIA : Going In Afterlife](https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask) | 2:14 | 2026-10-10 |  |
 | [Private Room](https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Private Room \(feat\. Rich Homie Quan\) \- Single](https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ) | 3:17 | 2024-09-07 |  |
 | [RedBone](https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 4:13 | 2024-10-03 |  |
 | [Reloaded](https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Legacy of Hits](https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL) | 3:08 | 2025-10-12 |  |

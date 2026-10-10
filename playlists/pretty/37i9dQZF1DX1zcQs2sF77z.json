@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 301405,
+  "num_followers": 301482,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "GIGI D'AGOSTINO",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
         "name": "Sorry For Party Rocking",
         "url": "https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 262146,
       "name": "Party Rock Anthem",
       "url": "https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "GIGI D'AGOSTINO",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2025-12-19 16:17:24",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
         "name": "Hypnotica (Benny Benassi Presents The Biz)",
         "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 285570,
       "name": "Satisfaction - Isak Original Extended",
       "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
       "added_at": "2025-12-19 16:17:24",

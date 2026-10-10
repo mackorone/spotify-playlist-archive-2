@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303914,
+  "num_followers": 303929,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADpDdBs+oPLf3/D9ZJyUWUW",
+  "snapshot_id": "asbdAAAAAADQNXKBGRHqB8NQ3Wy2sqGg",
   "tracks": [
     {
       "added_at": null,
@@ -619,54 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "Lay Down, Stay Down - Remastered 2004",
-      "url": "https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "Nobody's Home",
-      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The House Of Blue Light",
-        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 286733,
-      "name": "Bad Attitude",
-      "url": "https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -692,15 +644,15 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 280466,
-      "name": "Might Just Take Your Life - Remastered 2004",
-      "url": "https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8"
+      "duration_ms": 260466,
+      "name": "Lay Down, Stay Down - Remastered 2004",
+      "url": "https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Now What ?!",
-        "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
+        "name": "The House Of Blue Light",
+        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
       },
       "artists": [
         {
@@ -708,15 +660,15 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 261493,
-      "name": "All the Time in the World",
-      "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
+      "duration_ms": 286733,
+      "name": "Bad Attitude",
+      "url": "https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple",
-        "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
       "artists": [
         {
@@ -724,9 +676,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 305773,
-      "name": "Lalena - 2000 Remaster",
-      "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
+      "duration_ms": 240026,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
     },
     {
       "added_at": null,
@@ -747,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stormbringer (Remastered)",
-        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -756,9 +708,25 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 245400,
-      "name": "The Gypsy - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
+      "duration_ms": 280466,
+      "name": "Might Just Take Your Life - Remastered 2004",
+      "url": "https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple",
+        "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 305773,
+      "name": "Lalena - 2000 Remaster",
+      "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
     },
     {
       "added_at": null,
@@ -772,9 +740,25 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 420320,
-      "name": "Uncommon Man",
-      "url": "https://open.spotify.com/track/7t49MeETMEZ3QaFM0oXw0C"
+      "duration_ms": 261493,
+      "name": "All the Time in the World",
+      "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "The Gypsy - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple - the Best Ballade",
-        "url": "https://open.spotify.com/album/2apUG0HQEvU167BcPBdG5n"
+        "name": "The Book of Taliesyn",
+        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
       },
       "artists": [
         {
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 418609,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/6REUf1JrrLP0FgoigOtc39"
+      "duration_ms": 391866,
+      "name": "Anthem - 2000 Remaster",
+      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now What ?!",
+        "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 420320,
+      "name": "Uncommon Man",
+      "url": "https://open.spotify.com/track/7t49MeETMEZ3QaFM0oXw0C"
     }
   ],
   "unique_name": "This Is Deep Purple",

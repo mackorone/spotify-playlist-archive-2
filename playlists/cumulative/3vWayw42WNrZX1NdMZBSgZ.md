@@ -4,7 +4,7 @@
 
 > The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Camilo
 
-1,043 songs - 2 day 7 hr 29 min
+1,044 songs - 2 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [Pídeme a las 11:11](https://open.spotify.com/track/7Ei5wxIxs9uxuCLH7Mj8R6) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Lo que escribí mientras no estabas :\)](https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc) | 2:56 | 2024-09-13 | 2025-11-22 |
 | [Q'lona](https://open.spotify.com/track/18qAAYXV9LmnLgO81cscAQ) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Q'lona](https://open.spotify.com/album/44rOSsMvLYhd9PL1TFcbOq) | 3:48 | 2022-02-25 | 2023-05-26 |
 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 | 2025-05-09 | 2026-08-07 |
+| [QUE TALENTO](https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [QUE TALENTO](https://open.spotify.com/album/41ecYQc92iH9qjtiFfv8tk) | 2:59 | 2026-10-09 |  |
 | [que te vaya bien](https://open.spotify.com/track/58LiAJyT6hMMUzW0npHfzY) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [que te vaya bien](https://open.spotify.com/album/1vlompiT1FQLKGUnUTKHme) | 3:14 | 2026-07-24 |  |
 | [Que Todo Sea Probar](https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:50 | 2022-10-31 | 2023-05-26 |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2022-12-09 | 2023-06-01 |

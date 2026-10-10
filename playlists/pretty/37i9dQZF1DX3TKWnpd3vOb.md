@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Fother Muckers
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,912 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,872 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 17 | [Claroscuro](https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Claroscuro](https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn) | 3:17 |
 | 18 | [Calles de Talcahuano](https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Calles de Talcahuano](https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE) | 3:46 |
 | 19 | [A veces \- Remezclado 2025](https://open.spotify.com/track/3Zyt4DluEHhTCZMflBUvj9) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [1988 \(Remezclado 2025\)](https://open.spotify.com/album/6h2ssxozeNzivGcrvdu5CF) | 3:18 |
-| 20 | [De Volver a Comenzar](https://open.spotify.com/track/7aUCXhB4HReQZxJbpJoqAt) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Respira: Vol 1](https://open.spotify.com/album/2WsFttKsztYbXLVD8Qtc03) | 3:27 |
+| 20 | [¡Respira!](https://open.spotify.com/track/6sOOUEkE4AF4BIdC7U1Hqv) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [¡Respira!](https://open.spotify.com/album/4s2waJJMAp7DCJrJ50GudD) | 4:02 |
 | 21 | [Tú y yo](https://open.spotify.com/track/2ZQmqMw6HnLY7qYvpGpqQ6) | [Flangr](https://open.spotify.com/artist/1tUjulrz0ekNbpxrStQDPG) | [Tú y yo](https://open.spotify.com/album/5a7sLXe6QboFGrKJZ955qg) | 2:50 |
 | 22 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/6OiBMIN8nDABlTUSSLGgVj), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 |
 | 23 | [Infiel](https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Infiel](https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb) | 4:13 |
 | 24 | [He barrido el sol \(Revuelta en vivo\)](https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 4:36 |
-| 25 | [¡Respira!](https://open.spotify.com/track/6sOOUEkE4AF4BIdC7U1Hqv) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [¡Respira!](https://open.spotify.com/album/4s2waJJMAp7DCJrJ50GudD) | 4:02 |
+| 25 | [De Volver a Comenzar](https://open.spotify.com/track/7aUCXhB4HReQZxJbpJoqAt) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Respira: Vol 1](https://open.spotify.com/album/2WsFttKsztYbXLVD8Qtc03) | 3:27 |
 | 26 | [A las Nueve](https://open.spotify.com/track/798CtkUHeziOJ3vdbQEWrw) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [SE ARRIENDA](https://open.spotify.com/album/2BRGgzEPWoyZU7JnUPXXQz) | 3:28 |
 | 27 | [Ella es de Ella](https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Ella es de Ella](https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp) | 4:32 |
 | 28 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 |

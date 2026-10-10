@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "Aakhiri Cigarette",
+        "url": "https://open.spotify.com/album/6FH6cvNzyrnMnBEklwfker"
+      },
+      "artists": [
+        {
+          "name": "THE 9TEEN",
+          "url": "https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Aakhiri Cigarette",
+      "url": "https://open.spotify.com/track/54i5SSy7yRHGfKhkMGmqzN"
+    },
+    {
+      "album": {
         "name": "Aakhri Saans",
         "url": "https://open.spotify.com/album/6FUkumfogCFUNL6gZhd2Mm"
       },
@@ -790,7 +808,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 167662,
       "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
       "url": "https://open.spotify.com/track/39bbIastYmH17y5FGfjB1d"
@@ -4576,7 +4594,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 242727,
       "name": "Chand",
       "url": "https://open.spotify.com/track/5g1Yvb733wgWFW9xLsOy9g"
@@ -12133,6 +12151,32 @@
     },
     {
       "album": {
+        "name": "Kaali Raat",
+        "url": "https://open.spotify.com/album/1QG5T9RZDFpGnWJKW4QDzd"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Samyak Prasana",
+          "url": "https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY"
+        },
+        {
+          "name": "Snipr",
+          "url": "https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219718,
+      "name": "Kaali Raat",
+      "url": "https://open.spotify.com/track/3Cp1EgGfWx4STEeipgMlGO"
+    },
+    {
+      "album": {
         "name": "Kaali Raatein (From \"Nikita Roy\")",
         "url": "https://open.spotify.com/album/2bZUCQPes9L8YPFKZc3auW"
       },
@@ -14914,7 +14958,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 228240,
       "name": "Main Hoon Butterfly",
       "url": "https://open.spotify.com/track/0kE1GxiCU9KlezofHFvLOx"
@@ -17967,6 +18011,40 @@
     },
     {
       "album": {
+        "name": "One Name (From \"Rajini The Jailer 2\")",
+        "url": "https://open.spotify.com/album/4ozLDcJr1VbnHuNgUPa8AE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Saatvik G Rao",
+          "url": "https://open.spotify.com/artist/5Fgnpse5iLW3pcocaxZThz"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
+        },
+        {
+          "name": "J.V. Sudhanshu",
+          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204130,
+      "name": "One Name (From \"Rajini The Jailer 2\")",
+      "url": "https://open.spotify.com/track/7oiSJDOwRvdkYb18oDo436"
+    },
+    {
+      "album": {
         "name": "Only Mine",
         "url": "https://open.spotify.com/album/48kqvgSfWWEnIxG0WZK9W8"
       },
@@ -20520,6 +20598,32 @@
       "duration_ms": 198613,
       "name": "Rukk Jao Na - I-Popstar: Vol. 1",
       "url": "https://open.spotify.com/track/3oJpGYviR3aBJwKdXnG1et"
+    },
+    {
+      "album": {
+        "name": "Ruswa",
+        "url": "https://open.spotify.com/album/68OWPNkrffCLS475DblVcn"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Inayat Kaur Bajaj",
+          "url": "https://open.spotify.com/artist/3tUsiQAwzswWX1pTflob0o"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "Ruswa",
+      "url": "https://open.spotify.com/track/4wZupOMgj8NHad5ooySxZg"
     },
     {
       "album": {
@@ -26228,7 +26332,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 248031,
       "name": "Waade Saare",
       "url": "https://open.spotify.com/track/08FVpRamuYXLrh2zcU2ogi"

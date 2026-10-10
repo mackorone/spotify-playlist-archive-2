@@ -4,7 +4,7 @@
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-128 songs - 8 hr 25 min
+129 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Cannonball](https://open.spotify.com/track/0oUiLHEXHX0bbESKHVZ7xo) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:52 | 2025-07-31 | 2025-10-26 |
 | [Carried Me With You](https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 3:33 | 2022-09-16 |  |
 | [Church & State](https://open.spotify.com/track/7qPMj3byKOvzXbWECLViNP) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Church & State](https://open.spotify.com/album/4mSxlj7I4IMesbwpS28EU0) | 4:18 | 2025-10-19 | 2025-11-16 |
-| [Church & State \- Sad Gay Version](https://open.spotify.com/track/2J7DE0FvovLhz64va1qWzz) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Church & State \(Sad Gay Version\)](https://open.spotify.com/album/6mTWD8HWph5F6PZlfy4hpc) | 4:36 | 2026-09-06 |  |
+| [Church & State \- Sad Gay Version](https://open.spotify.com/track/2J7DE0FvovLhz64va1qWzz) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Church & State \(Sad Gay Version\)](https://open.spotify.com/album/6mTWD8HWph5F6PZlfy4hpc) | 4:36 | 2026-09-06 | 2026-10-10 |
 | [Cleanup Hitter](https://open.spotify.com/track/0RQT5rs8uElx7yrvhj6GMU) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Busted Jukebox Volume 2](https://open.spotify.com/album/4cJyMkeK2D0fRaFZXFGK14) | 3:53 | 2022-09-19 | 2023-07-27 |
 | [Closer To Fine \(From Barbie The Album\)](https://open.spotify.com/track/1v9iJFBaJCxBCdBNdvXeMd) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Catherine Carlile](https://open.spotify.com/artist/6AYTFdGwtMZiuHhmTMO4Ig) | [Closer To Fine \(From Barbie The Album\)](https://open.spotify.com/album/0xmn6GY7CCPi7qYV0sZJ7p) | 5:52 | 2023-07-23 | 2025-04-06 |
 | [Cocktail And A Song](https://open.spotify.com/track/6sXLDERR5PP1aQlWVlaaNl) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:37 | 2022-10-11 | 2022-10-13 |
@@ -46,6 +46,7 @@
 | [Forever Young \- Live at Benaroya Hall, Seattle, WA \- November 2010](https://open.spotify.com/track/4o8k0A5ZB6WybwgCnn77ox) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Seattle Symphony Orchestra](https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb) | [Live At Benaroya Hall with The Seattle Symphony](https://open.spotify.com/album/7jKJ68WplsoCCnbpKUXiV8) | 4:46 | 2022-09-16 | 2026-05-24 |
 | [Fulton County Jane Doe](https://open.spotify.com/track/67QNn7OMBtCRnLPG8ZUv62) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:43 | 2025-09-16 | 2025-10-03 |
 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 | 2026-07-28 |  |
+| [Golden Ring \(with Brandi Carlile\)](https://open.spotify.com/track/1UAJwjjgG7ebRcmE5qqtiF) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Synonym](https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ) | 3:18 | 2026-10-10 |  |
 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 | 2022-09-16 | 2024-07-24 |
 | [Happy](https://open.spotify.com/track/3SbQ1N1d9hNqTG4d4PeyvW) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandi Carlile](https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD) | 2:31 | 2023-07-24 | 2024-07-21 |
 | [Hard Way Home](https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:21 | 2022-09-16 |  |

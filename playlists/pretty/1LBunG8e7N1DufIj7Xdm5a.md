@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,921 songs - 11 day 2 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,923 songs - 11 day 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4929,5 +4929,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4919 | [Estrelas me Seguem](https://open.spotify.com/track/73bNgajn2fdmaOehmhl5OX) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [A Short Message To You](https://open.spotify.com/album/1eLX1dezUn6SmU0MUUYG5j) | 2:07 |
 | 4920 | [I BE ME](https://open.spotify.com/track/0TwWsBOMgc9G7tlsNnDdvU) | [boardwalkmuscle](https://open.spotify.com/artist/68IuRxKkIWIQ19PjJhKupR), [NBA YoungBoy](https://open.spotify.com/artist/1Dy7HmdCDvaHZOOCO5mJsu) | [I BE ME](https://open.spotify.com/album/3q1NRW0EqYlvOhwHIjalDG) | 4:28 |
 | 4921 | [Light Air](https://open.spotify.com/track/46xsmhel32WEYMPdHl63Lu) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [1994](https://open.spotify.com/album/2wfuupUkYaanOecKigtulu) | 3:56 |
+| 4922 | [Goodbye, Goodnight](https://open.spotify.com/track/4Zd2ElhotZnoMwJg5NA6jP) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Goodbye, Goodnight](https://open.spotify.com/album/5MRudKcvra04AYy0kOi30u) | 3:51 |
+| 4923 | [DOE DAN](https://open.spotify.com/track/0k6moj6JXKY0r7g7jDo2oF) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [DOE DAN](https://open.spotify.com/album/62ngumopXDkWWiA1Nrk96e) | 2:30 |
 
-Snapshot ID: `AAAKdYJHx66a64MATC0tRHqBSFDkCqn/`
+Snapshot ID: `AAAKd1FJYOdmGsaXctVd8YBJVn+KPkoN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2TvuFmg5Ep8sodlGHVo1DI">Daniel Nigro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,630 likes - 199 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,629 likes - 199 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 | 24 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 |
 | 25 | [hope ur ok](https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:29 |
 | 26 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 |
-| 27 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 |
-| 28 | [stupid song](https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:29 |
+| 27 | [stupid song](https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:29 |
+| 28 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 |
 | 29 | [My Kink Is Karma](https://open.spotify.com/track/3bFC4mJkgF9HvTU1mncW7x) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:42 |
 | 30 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 |
 | 31 | [making the bed](https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:18 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 | 198 | [True Colors](https://open.spotify.com/track/47ICNqdMooisXYDY9063pY) | [Emi Secrest](https://open.spotify.com/artist/1bDakkWepyTf2HyB4ePueW) | [Blue](https://open.spotify.com/album/1WP3BlwTyHkhTCgEiTrrWt) | 2:38 |
 | 199 | [Room Full of Mirrors](https://open.spotify.com/track/575owOjbSHWq3uMcDNGGWa) | [Erick Serna and The Killing Floor](https://open.spotify.com/artist/2JfFx5R68c7Sv8d0DE3tpZ) | [Room Full of Mirrors](https://open.spotify.com/album/0glMPgDt0hUuMU3pE042BN) | 2:59 |
 
-Snapshot ID: `AceblgAAAAA1sOfoicOzlHnrHsPb03gS`
+Snapshot ID: `Aceg+gAAAAD8stzm97YUzcyIu4P82N/u`

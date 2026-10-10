@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Chase & Status, Troye Sivan, Cloonee, Slayyyter and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,892 likes - 99 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,515 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 31 | [Should've Known Better](https://open.spotify.com/track/1x4o2B74wHid523W5UZVf5) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Grace Barton](https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx) | [The Holy Grail](https://open.spotify.com/album/5hmHlwHuijw6zSeJCw4pTD) | 3:42 |
 | 32 | [Prince Of The Park](https://open.spotify.com/track/6Fh06IwS6hPWqoW35rd4JJ) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [The Whole Thing Was Very Very Emotional](https://open.spotify.com/album/6vyg9gvVq284SNBTMZtYj4) | 4:10 |
 | 33 | [Frequency](https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Frequency](https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm) | 3:25 |
-| 34 | [Days We Left Behind](https://open.spotify.com/track/4RXpKIi7xLqX8BPanSwXCE) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:18 |
+| 34 | [Chelsea Boots \- \(Bonus Track\)](https://open.spotify.com/track/4bvgMMJ5J2lo0zANPc1SFS) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane \(Special Edition\)](https://open.spotify.com/album/6MZekMcxDFuqd1yXXzliwu) | 2:57 |
 | 35 | [Wishing Well](https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Wishing Well](https://open.spotify.com/album/73agEe7EOBj973yHVERdiX) | 3:53 |
 | 36 | [2am in toronto](https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [9](https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm) | 3:04 |
 | 37 | [FUN](https://open.spotify.com/track/0CwsKDeErwN4J8RFq6wL14) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [FUN](https://open.spotify.com/album/4DdmB1nAzqjtBSp97tzLus) | 3:33 |
@@ -102,10 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 92 | [Apathy](https://open.spotify.com/track/1v1UL3d1bxmrptBJa8JcX3) | [Arno Sacco](https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx) | [Apathy](https://open.spotify.com/album/4uAPULYQhc6m1oQf8yrXLc) | 2:39 |
 | 93 | [haunted](https://open.spotify.com/track/70gWe4I2nBmb5zo0Wa5Uv0) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [we are unpeople](https://open.spotify.com/album/3wiGXFOSEkkNOtxBJJG56Q) | 4:15 |
 | 94 | [Nothing Here Worth Taking](https://open.spotify.com/track/4xDTcWuqbKdkrK47RyKiSR) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Nothing Here Worth Taking](https://open.spotify.com/album/5VZaTtv2an84E2UHlAK2T0) | 3:34 |
-| 95 | [Overload](https://open.spotify.com/track/7fS5w1KmDQov0ifAl7VyIs) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Overload](https://open.spotify.com/album/6hCzdAFvu49n2bwowwrjjy) | 3:07 |
-| 96 | [Sunshine](https://open.spotify.com/track/4LNNDH29X4ks2mxrFGfDFz) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Sunshine](https://open.spotify.com/album/1AWewpb8hFbHPJmOrS9Owx) | 3:15 |
-| 97 | [Lighter](https://open.spotify.com/track/54nbpgiyNwFh6uG5EfZbqM) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Lighter](https://open.spotify.com/album/5DIKYxgZ1Js1zpjZmL4n6c) | 3:24 |
-| 98 | [Oblivion](https://open.spotify.com/track/1lpOHHOroR14aSuJIPTSd5) | [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Oblivion](https://open.spotify.com/album/3gb5oPPQojvrcvvKSXEyAD) | 5:01 |
-| 99 | [closer to you](https://open.spotify.com/track/4gnhdrSod9R26IMJfDoRZD) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [goodbye, see u soon](https://open.spotify.com/album/5LilhMj1ajsekY93R6SYIi) | 3:16 |
+| 95 | [Oh My \(\#SaveSoil\)](https://open.spotify.com/track/49uZxYCiKkF6rEDz1mztQC) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX), [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0) | [Oh My \(\#SaveSoil\)](https://open.spotify.com/album/5VCO3v7958v34OQSbt19yy) | 3:43 |
+| 96 | [Overload](https://open.spotify.com/track/7fS5w1KmDQov0ifAl7VyIs) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Overload](https://open.spotify.com/album/6hCzdAFvu49n2bwowwrjjy) | 3:07 |
+| 97 | [Sunshine](https://open.spotify.com/track/4LNNDH29X4ks2mxrFGfDFz) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Sunshine](https://open.spotify.com/album/1AWewpb8hFbHPJmOrS9Owx) | 3:15 |
+| 98 | [Lighter](https://open.spotify.com/track/54nbpgiyNwFh6uG5EfZbqM) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Lighter](https://open.spotify.com/album/5DIKYxgZ1Js1zpjZmL4n6c) | 3:24 |
+| 99 | [Oblivion](https://open.spotify.com/track/1lpOHHOroR14aSuJIPTSd5) | [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Oblivion](https://open.spotify.com/album/3gb5oPPQojvrcvvKSXEyAD) | 5:01 |
+| 100 | [closer to you](https://open.spotify.com/track/4gnhdrSod9R26IMJfDoRZD) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [goodbye, see u soon](https://open.spotify.com/album/5LilhMj1ajsekY93R6SYIi) | 3:16 |
 
-Snapshot ID: `AAAAAFNr1+0r0poBBBZrIE/kPyBhhcP+`
+Snapshot ID: `AAAAAF/9z3o8hdsGaCLziWYpNIn4Oe72`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Millonario y Asmed bufando",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Fuerza Regida bufando",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -100,6 +100,28 @@
       "duration_ms": 196744,
       "name": "14",
       "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
+    },
+    {
+      "album": {
+        "name": "1DOSTRES4",
+        "url": "https://open.spotify.com/album/7MHU6NbPrXVspiuW3r78Ml"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175578,
+      "name": "1DOSTRES4",
+      "url": "https://open.spotify.com/track/2oOGgqVQDA9cvkFb04B3T8"
     },
     {
       "album": {
@@ -1136,6 +1158,24 @@
       "duration_ms": 188888,
       "name": "ALO",
       "url": "https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran"
+    },
+    {
+      "album": {
+        "name": "Alta Gama",
+        "url": "https://open.spotify.com/album/7wDLrkAn7B7X46dxCfuJV9"
+      },
+      "artists": [
+        {
+          "name": "Luis Carrillo",
+          "url": "https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157263,
+      "name": "Alta Gama",
+      "url": "https://open.spotify.com/track/5aOwGVeHdEUcnfiCyHwLjK"
     },
     {
       "album": {
@@ -2723,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "bicho eterno",
+        "url": "https://open.spotify.com/album/2N2cnMRLJn5fqHgOSd78V2"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148030,
+      "name": "bicho eterno",
+      "url": "https://open.spotify.com/track/5LRGIa3wHjMH7Bjzcf1GRg"
+    },
+    {
+      "album": {
         "name": "Bichote",
         "url": "https://open.spotify.com/album/70ByIxtRNpExmsfyT3MFXu"
       },
@@ -3020,7 +3078,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 169490,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/4UGKcid6TWRJfApERq0HQ0"
@@ -3042,7 +3100,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 168000,
       "name": "Bonnie & Clyde (Sin enamorarse)",
       "url": "https://open.spotify.com/track/0sRoQ9DZ7bLehsDYtkRiKM"
@@ -5294,7 +5352,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 131642,
       "name": "CRITIC\u00d3N",
       "url": "https://open.spotify.com/track/4joe8hhA3EPA7pZH5nLyu5"
@@ -5816,7 +5874,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 164886,
       "name": "Darte",
       "url": "https://open.spotify.com/track/4PXp4jAUqZ9NhRsmSWUHhM"
@@ -6002,6 +6060,24 @@
       "duration_ms": 197351,
       "name": "Del Calent\u00f3n",
       "url": "https://open.spotify.com/track/31eIRKr5BbbugXOKNnpPXK"
+    },
+    {
+      "album": {
+        "name": "deliveryfood1000",
+        "url": "https://open.spotify.com/album/56CwYTlSuxirw66u6QlTGD"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134193,
+      "name": "deliveryfood1000",
+      "url": "https://open.spotify.com/track/7CO9KDkC67xseaQVHX0bhj"
     },
     {
       "album": {
@@ -12672,12 +12748,12 @@
       },
       "artists": [
         {
-          "name": "Cael Roldan",
-          "url": "https://open.spotify.com/artist/33hFgg3zqijh4EA4IkUzw3"
-        },
-        {
           "name": "Bayriton",
           "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Cael Roldan",
+          "url": "https://open.spotify.com/artist/33hFgg3zqijh4EA4IkUzw3"
         },
         {
           "name": "Bryan Camen",
@@ -16708,7 +16784,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 143400,
       "name": "Obvi",
       "url": "https://open.spotify.com/track/5J5w38Nz6WmwHshtQKWJZM"
@@ -17923,6 +17999,40 @@
     },
     {
       "album": {
+        "name": "Pasito de Cumbia",
+        "url": "https://open.spotify.com/album/1cAtCVB4g5JchF4FZa4MK5"
+      },
+      "artists": [
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt"
+        },
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Salon Sandunga",
+          "url": "https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo"
+        },
+        {
+          "name": "KINGKONG MX",
+          "url": "https://open.spotify.com/artist/6o94dnXg6z5igF5THQLC8a"
+        },
+        {
+          "name": "Mexasound",
+          "url": "https://open.spotify.com/artist/4c8GDhllGb8dyp2SWn6Sv1"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Pasito de Cumbia",
+      "url": "https://open.spotify.com/track/0CvVqqGlXGCuLupYhJDKnq"
+    },
+    {
+      "album": {
         "name": "Pasti",
         "url": "https://open.spotify.com/album/2BdOgLlZjzbD2Pdc8DeRIL"
       },
@@ -17964,7 +18074,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 208370,
       "name": "Pastillitas De Color",
       "url": "https://open.spotify.com/track/4UuQQZByT87tFl5k7BMBcZ"
@@ -19052,7 +19162,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 161739,
       "name": "Ponte",
       "url": "https://open.spotify.com/track/3UceAWztKeghzo6ni26N8v"
@@ -19288,6 +19398,40 @@
       "duration_ms": 180000,
       "name": "Pre\u00f1ala Bailando",
       "url": "https://open.spotify.com/track/3zBoRTalAPbR8VdLbTwAxm"
+    },
+    {
+      "album": {
+        "name": "PRE\u00d1EO",
+        "url": "https://open.spotify.com/album/0JAbnUCQpvPmpa3xS3ZVcV"
+      },
+      "artists": [
+        {
+          "name": "Ivy Wavy",
+          "url": "https://open.spotify.com/artist/0f1hBCKMEIIvZ5TNgChNuC"
+        },
+        {
+          "name": "Nasty Vato",
+          "url": "https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD"
+        },
+        {
+          "name": "Emex",
+          "url": "https://open.spotify.com/artist/6nmmRJCDNKGX7HMRwwAV6h"
+        },
+        {
+          "name": "Tunenegoga",
+          "url": "https://open.spotify.com/artist/3GkPSttICET2yApg0lJdrA"
+        },
+        {
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173922,
+      "name": "PRE\u00d1EO",
+      "url": "https://open.spotify.com/track/7pNs3Eikt5p3Ax5mEJCaLp"
     },
     {
       "album": {
@@ -19642,6 +19786,32 @@
       "duration_ms": 154285,
       "name": "Pushaina",
       "url": "https://open.spotify.com/track/2lXkGFQ17envF8BVmTZqZx"
+    },
+    {
+      "album": {
+        "name": "UNDISPUTED QUEEN I: BELLAQUEEN",
+        "url": "https://open.spotify.com/album/2gCGSlhpnAKsa6YYZZazfy"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        },
+        {
+          "name": "DJ FOXY",
+          "url": "https://open.spotify.com/artist/0q80frU0PULB8gSA5Q0siK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146728,
+      "name": "PUSSYBELLA",
+      "url": "https://open.spotify.com/track/3JqWCnxigYFC50N7stbfcF"
     },
     {
       "album": {
@@ -20200,7 +20370,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 138207,
       "name": "QUIERE UN WINIPU",
       "url": "https://open.spotify.com/track/4Y75DVO6fvdwrzAgNOraEj"
@@ -20260,6 +20430,28 @@
       "duration_ms": 221346,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/58BUlorkbBEPLOmTZkXKr7"
+    },
+    {
+      "album": {
+        "name": "QUIERO VERTE BB",
+        "url": "https://open.spotify.com/album/3t8KZGEwCtrrOTA5kaNwIe"
+      },
+      "artists": [
+        {
+          "name": "Leo Torrez",
+          "url": "https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH"
+        },
+        {
+          "name": "DimeloooLexx",
+          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167710,
+      "name": "QUIERO VERTE BB",
+      "url": "https://open.spotify.com/track/6Ann7GvjERtZYYsxmTclK0"
     },
     {
       "album": {
@@ -22878,6 +23070,28 @@
       "duration_ms": 115000,
       "name": "Suzuki",
       "url": "https://open.spotify.com/track/0N6PYie3VfI0xUySosxs0j"
+    },
+    {
+      "album": {
+        "name": "Suzuki (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111655,
+      "name": "Suzuki (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
     },
     {
       "album": {
@@ -26580,7 +26794,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 172997,
       "name": "\u00bfSER\u00c1 EL ALCOHOL?",
       "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"

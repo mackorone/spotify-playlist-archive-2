@@ -4,7 +4,7 @@
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-92 songs - 6 hr 38 min
+93 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Blood Runs Cold](https://open.spotify.com/track/4CobZvJtESkkrHcC0QUVlx) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 4:27 | 2024-05-24 | 2026-08-27 |
 | [Bringin' On The Heartbreak](https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:33 | 2022-11-04 |  |
 | [Comin' Under Fire](https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:14 | 2022-11-04 |  |
-| [Dangerous](https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Def Leppard](https://open.spotify.com/album/68zsPqS53fVtv9jUU2GZPz) | 3:26 | 2022-11-26 |  |
+| [Dangerous](https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Def Leppard](https://open.spotify.com/album/68zsPqS53fVtv9jUU2GZPz) | 3:26 | 2022-11-26 | 2026-10-10 |
 | [Dangerous](https://open.spotify.com/track/3o49Lb4VSVmuT0yzLYuxHo) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Def Leppard](https://open.spotify.com/album/2GpOJTgMzlHlqIREzGh7he) | 3:26 | 2024-07-08 | 2025-09-11 |
 | [Die Hard The Hunter](https://open.spotify.com/track/7KLg11Zw7jmxRC7CpGKEAR) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 6:15 | 2024-05-25 |  |
 | [Don't Shoot Shot Gun](https://open.spotify.com/track/4IB9c8FQ2VNutSWdgkw0Ys) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:26 | 2022-11-04 | 2026-09-16 |
@@ -32,6 +32,7 @@
 | [Goodbye For Good This Time](https://open.spotify.com/track/76CPp0CZcANwffiytgzrUQ) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR) | 4:26 | 2023-05-24 | 2023-09-22 |
 | [Have You Ever Needed Someone So Bad](https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 5:24 | 2022-11-04 |  |
 | [Heaven Is](https://open.spotify.com/track/7d3boHf9Ko0tqqMBRHvIrJ) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 3:33 | 2022-11-04 |  |
+| [Heroes \- 2026 Mix](https://open.spotify.com/track/6WLXTE0f4ohzfXTF33cNYZ) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Heroes \(2026 Mix\)](https://open.spotify.com/album/1Fbi1jCqM5EXud9xBGer1K) | 3:33 | 2026-10-10 |  |
 | [High 'N' Dry \(Saturday Night\)](https://open.spotify.com/track/7CZYW6EnHdzOjZROlXeWyi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 3:26 | 2022-11-04 |  |
 | [Hysteria](https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 5:54 | 2022-11-04 |  |
 | [Hysteria](https://open.spotify.com/track/3Qmd2CaJzPkqZEh2Tc50Bl) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/1mUwxZgyoD795awXthjCSu) | 5:54 | 2023-05-07 | 2023-06-01 |

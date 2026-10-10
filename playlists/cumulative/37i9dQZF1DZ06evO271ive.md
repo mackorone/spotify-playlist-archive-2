@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-147 songs - 6 hr 47 min
+148 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Hood Bitch](https://open.spotify.com/track/6ExguHzcEThPS1PC4wah38) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/6lbPCqEJgVNcsxjwFZKwtc) | 2:37 | 2024-05-24 | 2024-05-26 |
 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Rats \(with Sukihana\)](https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx) | 2:55 | 2023-11-10 | 2024-03-17 |
 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 | 2024-03-16 |  |
-| [Hurrr Nor Thurr \(feat\. Sexyy Red\)](https://open.spotify.com/track/3raBR3SY78nNv4uGEv3CNY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 3:08 | 2026-05-17 |  |
+| [Hurrr Nor Thurr \(feat\. Sexyy Red\)](https://open.spotify.com/track/2bPrEAsc7qDz5Y8YDhnutq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 3:08 | 2026-10-10 |  |
+| [Hurrr Nor Thurr \(feat\. Sexyy Red\)](https://open.spotify.com/track/3raBR3SY78nNv4uGEv3CNY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 3:08 | 2026-05-17 | 2026-10-10 |
 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 | 2023-12-13 |  |
 | [I Like It \(feat\. Sexyy Red\)](https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:32 | 2025-11-17 |  |
 | [I Like It \(feat\. Sexyy Red\)](https://open.spotify.com/track/41MFBsrwAGyY3NZq1Kxqj4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:32 | 2025-08-17 | 2025-11-17 |

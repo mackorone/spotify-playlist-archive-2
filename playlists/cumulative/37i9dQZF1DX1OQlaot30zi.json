@@ -88394,6 +88394,10 @@
         {
           "name": "Metho",
           "url": "https://open.spotify.com/artist/3lFwsdtTwF0eucUiMZM8Oe"
+        },
+        {
+          "name": "\u00ebllesse",
+          "url": "https://open.spotify.com/artist/7cjhRQ2E7XqktxIbEyC1RA"
         }
       ],
       "date_added": "2026-09-24",
@@ -129726,6 +129730,24 @@
       "duration_ms": 140000,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/1knvI3BNYSR0xOrQEyHqPn"
+    },
+    {
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/0aC8g1rSmbygMtmKnSD4uw"
+      },
+      "artists": [
+        {
+          "name": "Joka Diablo",
+          "url": "https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129012,
+      "name": "ROLEX",
+      "url": "https://open.spotify.com/track/3UMsmat6dEfLBjtL92xYof"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 42520,
+  "num_followers": 42529,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADCy7YfK72oC5cMO+OtBo/W",
+  "snapshot_id": "asbdAAAAAAA+TZl3DQ0JNn6f6b9IekCh",
   "tracks": [
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aeropuerto",
-        "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
       "artists": [
         {
@@ -374,23 +374,27 @@
       ],
       "duration_ms": 212313,
       "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
+      "url": "https://open.spotify.com/track/5avHXwcL4H9qqpcRMzvF8m"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+        "name": "El Observador",
+        "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
       },
       "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 168706,
-      "name": "Hasta Morir",
-      "url": "https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv"
+      "duration_ms": 155179,
+      "name": "El Observador",
+      "url": "https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep"
     },
     {
       "added_at": null,
@@ -415,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Observador",
-        "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
       "artists": [
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 155179,
-      "name": "El Observador",
-      "url": "https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep"
+      "duration_ms": 168706,
+      "name": "Hasta Morir",
+      "url": "https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor\u00edo",
-        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 164151,
-      "name": "Llorando en el avi\u00f3n",
-      "url": "https://open.spotify.com/track/1io59pmyuTfVEnIsFjbL5I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piensa en m\u00ed",
         "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
       },
@@ -639,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Ha Acabado El Show",
-        "url": "https://open.spotify.com/album/47J0MUBkFuXodl1OEXrUtc"
-      },
-      "artists": [
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 176639,
-      "name": "Problemas de Conversaci\u00f3n",
-      "url": "https://open.spotify.com/track/0pJCbl4k3pOj5Ld0356kny"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
@@ -675,6 +635,26 @@
       "duration_ms": 238508,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Ha Acabado El Show",
+        "url": "https://open.spotify.com/album/47J0MUBkFuXodl1OEXrUtc"
+      },
+      "artists": [
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 176639,
+      "name": "Problemas de Conversaci\u00f3n",
+      "url": "https://open.spotify.com/track/0pJCbl4k3pOj5Ld0356kny"
     },
     {
       "added_at": null,
@@ -903,6 +883,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        }
+      ],
+      "duration_ms": 195913,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Noa Noa (Remix)",
+        "url": "https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        },
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "El Noa Noa - Remix",
+      "url": "https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -995,54 +1027,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desconocidos",
-        "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
+        "name": "DUALIDAD",
+        "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 195913,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Noa Noa (Remix)",
-        "url": "https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q"
-      },
-      "artists": [
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        },
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
         }
       ],
-      "duration_ms": 204400,
-      "name": "El Noa Noa - Remix",
-      "url": "https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu"
+      "duration_ms": 201499,
+      "name": "DUALIDAD - feat. Esteman",
+      "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
     }
   ],
   "unique_name": "This Is Esteman",

@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: NAO",
-  "num_followers": 1007424,
+  "num_followers": 1007342,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Gossip in the Grain",
-        "url": "https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are The Best Thing",
-      "url": "https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Beautifully Human: Words and Sounds Vol. 2",
         "url": "https://open.spotify.com/album/2w9BYQcL8keWGjEHSJRwa9"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 231560,
       "name": "Golden",
       "url": "https://open.spotify.com/track/28EL5veTZtx38TqxIZwFyQ"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Gossip in the Grain",
+        "url": "https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are The Best Thing",
+      "url": "https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
     },
     {
-      "added_at": "2026-04-24 04:33:57",
-      "album": {
-        "name": "Chase Your Tail",
-        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 193915,
-      "name": "Chase Your Tail",
-      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "New Magic",
@@ -1447,6 +1431,22 @@
       "duration_ms": 172863,
       "name": "O Me O My",
       "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
+    },
+    {
+      "added_at": "2026-04-24 04:33:57",
+      "album": {
+        "name": "Chase Your Tail",
+        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 193915,
+      "name": "Chase Your Tail",
+      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
     },
     {
       "added_at": "2025-12-12 05:00:38",

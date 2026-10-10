@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16730,
+  "num_followers": 16735,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAD6ABz6jXBCstp5TI9oa2zj",
+  "snapshot_id": "asbdAAAAAACLVudg5rsEXQsXOmuok3P/",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spit XXV",
-        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 177946,
-      "name": "Brackish XXV",
-      "url": "https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7"
+      "duration_ms": 218386,
+      "name": "Into The Darkness",
+      "url": "https://open.spotify.com/track/2ymrItKzFrLfw2Nn8lFP7n"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+        "name": "Spit XXV",
+        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 218386,
-      "name": "Into The Darkness",
-      "url": "https://open.spotify.com/track/2ymrItKzFrLfw2Nn8lFP7n"
+      "duration_ms": 177946,
+      "name": "Brackish XXV",
+      "url": "https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 329506,
-      "name": "Look So Pretty",
-      "url": "https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU"
+      "duration_ms": 235933,
+      "name": "Career Suicide",
+      "url": "https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 235933,
-      "name": "Career Suicide",
-      "url": "https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0"
+      "duration_ms": 329506,
+      "name": "Look So Pretty",
+      "url": "https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Forgive And Forget",
-      "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
+      "duration_ms": 197146,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     },
     {
       "added_at": null,
@@ -660,6 +660,38 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
+      "duration_ms": 221773,
+      "name": "Empires (Part 2)",
+      "url": "https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Forgive And Forget",
+      "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
       "duration_ms": 177000,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ"
@@ -679,38 +711,6 @@
       "duration_ms": 210160,
       "name": "Sorrow I Know",
       "url": "https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "Empires (Part 2)",
-      "url": "https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     },
     {
       "added_at": null,

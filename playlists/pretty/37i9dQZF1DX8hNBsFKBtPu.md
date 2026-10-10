@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her\. Karoline Mousing på cover 🪭
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,759 likes - 156 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,769 likes - 156 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAABMfp8psC6L2OF6trBrvJ/nrTSYCPB",
+  "snapshot_id": "AAABMjPXS0oXIfAbcYoSYgncgPFiNv2P",
   "tracks": [
     {
       "added_at": "2023-02-27 21:53:34",
@@ -2963,6 +2963,26 @@
       "duration_ms": 196863,
       "name": "Soon",
       "url": "https://open.spotify.com/track/4bYtMO7J56StUfIEEAQSPH"
+    },
+    {
+      "added_at": "2026-10-10 00:43:25",
+      "album": {
+        "name": "Luck and Strange",
+        "url": "https://open.spotify.com/album/2j2jOwKnbrXv5UpEU5fWrn"
+      },
+      "artists": [
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        },
+        {
+          "name": "Romany Gilmour",
+          "url": "https://open.spotify.com/artist/3zWa7Jgzsv63hObXVRTRJD"
+        }
+      ],
+      "duration_ms": 346986,
+      "name": "Between Two Points",
+      "url": "https://open.spotify.com/track/1xQ4BNf4nXPWtBFdJPknYJ"
     }
   ],
   "unique_name": "20QheuAYbSRnj6SaIbjPWA",

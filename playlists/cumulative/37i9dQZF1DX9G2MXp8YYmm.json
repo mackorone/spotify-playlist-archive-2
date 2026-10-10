@@ -7327,6 +7327,28 @@
     },
     {
       "album": {
+        "name": "Karars\u0131z\u0131m (Akustik)",
+        "url": "https://open.spotify.com/album/6Gzz0WIVCd6pPYVvBtGg4l"
+      },
+      "artists": [
+        {
+          "name": "Ebru Ya\u015far",
+          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
+        },
+        {
+          "name": "Mela Bedel",
+          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253124,
+      "name": "Karars\u0131z\u0131m - Akustik",
+      "url": "https://open.spotify.com/track/6PCx7zUXAsPJFNXqe30dsf"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/6yWY1X3IAyi6IIuTY5Li3v"
       },
@@ -9282,7 +9304,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 190593,
       "name": "NERDEYD\u0130N DE",
       "url": "https://open.spotify.com/track/60y3mXqJxzdUzeBxTdujnb"
@@ -9460,7 +9482,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 267750,
       "name": "O Beni S\u0131rt\u0131mdan Vurdu - Akustik",
       "url": "https://open.spotify.com/track/7FCvpTxPxUFQjCxpUgoOb5"
@@ -10880,7 +10902,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 178666,
       "name": "Sev Seveceksen",
       "url": "https://open.spotify.com/track/6WUrBOSZKPjtTU1DWCkUwn"

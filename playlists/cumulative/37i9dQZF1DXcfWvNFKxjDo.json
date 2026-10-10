@@ -61245,6 +61245,28 @@
     },
     {
       "album": {
+        "name": "Hyperfocused",
+        "url": "https://open.spotify.com/album/6dI1WUAn7dvkIsyspE9ZGO"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136202,
+      "name": "Hyperfocused",
+      "url": "https://open.spotify.com/track/2TZHX4W3Bmy4h2VHls9x84"
+    },
+    {
+      "album": {
         "name": "Hyperreal (Middle of the Night)",
         "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
@@ -146654,7 +146676,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 206884,
       "name": "Welcome To St. Tropez",
       "url": "https://open.spotify.com/track/65FpelHd3wyArWZUfPmPKY"

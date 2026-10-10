@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
+| 1 | [Christmas Lights](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
 | 2 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx) | 3:55 |
 | 3 | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL) | 3:00 |
 | 4 | [old fashioned christmas](https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 3:25 |

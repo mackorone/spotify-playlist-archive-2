@@ -4,7 +4,7 @@
 
 > Best of  the pop girl era!  Listen to all your favourite Gammy\- and BRIT  Awards nominated female artists here.
 
-190 songs - 10 hr 15 min
+192 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-07-17 |  |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-07-17 |  |
 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 | 2026-02-20 |  |
+| [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 | 2026-10-09 |  |
 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 | 2025-08-29 | 2025-11-08 |
 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 | 2025-10-24 |  |
 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2025-07-17 | 2025-12-12 |
@@ -119,6 +120,7 @@
 | [maman](https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo](https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f) | 3:00 | 2025-07-17 | 2025-10-18 |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-21 |  |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-07-17 |  |
+| [Manic](https://open.spotify.com/track/2AeNxclEw1gqrZJH7ED34W) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ars Valendi](https://open.spotify.com/album/5LxbIjaNQZvvtWUFj2GOrh) | 2:50 | 2026-10-09 |  |
 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 | 2026-07-27 |  |
 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-05-08 |  |
 | [MOVE](https://open.spotify.com/track/0IvqXoHkxZsFODTN3JmlLc) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [MOVE](https://open.spotify.com/album/13ZYzsHW9WyBs9gYrLoSdc) | 2:24 | 2026-05-22 | 2026-06-13 |

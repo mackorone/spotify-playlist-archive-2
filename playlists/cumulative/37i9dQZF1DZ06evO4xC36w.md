@@ -4,7 +4,7 @@
 
 > This is Joan Sebastian\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 39 min
+90 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 | 2023-08-08 |  |
 | [Mayra \- Remastered 2025](https://open.spotify.com/track/1sBcf6iQ9I4O6B8MeJv9S7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2 \(Remastered 2025\)](https://open.spotify.com/album/0XMxElPeWBWUhYgY60oW0P) | 2:51 | 2025-03-02 | 2025-03-30 |
 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 | 2023-08-08 |  |
-| [Me La Escondieron Sus Padres](https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:23 | 2024-05-10 |  |
+| [Me La Escondieron Sus Padres](https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:23 | 2024-05-10 | 2026-10-10 |
 | [Melodía Para Dos](https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:06 | 2023-08-08 |  |
 | [Mi Cómplice](https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Lo Mejor De Joan Sebastian](https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte) | 3:07 | 2023-08-08 | 2026-03-20 |
 | [Mi Cómplice](https://open.spotify.com/track/61HrsOIuBD36ERPk77792M) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mi Mexico Querido](https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa) | 3:07 | 2026-06-22 |  |
@@ -88,6 +88,7 @@
 | [Tiernas Mentiras](https://open.spotify.com/track/1elLceQ9yD7ZQwhJsSxjXb) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Alza El Vuelo](https://open.spotify.com/album/6UShlJGWod3wfFwauvmF1t) | 2:52 | 2024-10-21 |  |
 | [Tiernas Mentiras \- Remastered 2026](https://open.spotify.com/track/11OouuYKaA2YFlEz2SPSFQ) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian \(Remastered 2026\)](https://open.spotify.com/album/5szjQcOqruXOH4bp9WU8eJ) | 2:56 | 2026-04-26 | 2026-05-23 |
 | [Torera](https://open.spotify.com/track/2285jfU1YCDJKNeoaDWanQ) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:02 | 2024-10-03 | 2024-10-07 |
+| [Traficante De Besos](https://open.spotify.com/track/6F1VmuzOgcOxaj4idJKU9i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:29 | 2026-10-10 |  |
 | [Tú Sabes Quien](https://open.spotify.com/track/6vap3d2mFX3mmWq1tNd0uH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [13 Celebrando El 13](https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5) | 3:17 | 2025-01-27 |  |
 | [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 | 2023-08-08 |  |
 | [Un Idiota \- Te Perdí](https://open.spotify.com/track/1oe42GaLCuxepZNDc6Hl27) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Un Idiota \(Te Perdí\)](https://open.spotify.com/album/2790I5a0CbIcGf9HBnJ6UF) | 5:00 | 2025-07-20 | 2025-08-17 |

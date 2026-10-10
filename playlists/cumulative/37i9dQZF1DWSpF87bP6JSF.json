@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Los \u00e9xitos del pop latino, con Maluma y Shakira en portada.",
+  "description": "Los \u00e9xitos del pop latino, con Ingratax en portada.",
   "name": "La Lista Pop",
   "tracks": [
     {
@@ -2534,6 +2534,24 @@
       "duration_ms": 250082,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
+    },
+    {
+      "album": {
+        "name": "BONSAI",
+        "url": "https://open.spotify.com/album/3Iax81L8R4DIwP0EtkLNEi"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "BONSAI",
+      "url": "https://open.spotify.com/track/5UFIoYQw6P0qUVjz8zFele"
     },
     {
       "album": {
@@ -9364,7 +9382,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 138839,
       "name": "Las Cosas Que Solo Se Hacen En La Noche (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/0z59N9OGE9pCeN9c0yMZHq"
@@ -10710,6 +10728,24 @@
       "duration_ms": 203456,
       "name": "Me Gustas M\u00e1s Que Salir a Fumar",
       "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
+    },
+    {
+      "album": {
+        "name": "Me Mata",
+        "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186611,
+      "name": "Me Mata",
+      "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
     },
     {
       "album": {
@@ -12098,7 +12134,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 224630,
       "name": "No Necesito",
       "url": "https://open.spotify.com/track/2qwtFxrZTHnLdZTV1aXjfd"
@@ -13106,7 +13142,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 276150,
       "name": "PA'LL\u00c1 YA YO VOY - Spotify Sessions",
       "url": "https://open.spotify.com/track/3aqfORIhgV3wNxpzJx9vZe"
@@ -13416,6 +13452,28 @@
       "duration_ms": 192167,
       "name": "Pa\u2019 Qu\u00e9 Volviste?",
       "url": "https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV"
+    },
+    {
+      "album": {
+        "name": "PECADO",
+        "url": "https://open.spotify.com/album/6HdWXqAuMdCKcgmBfk5p7S"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "PECADO",
+      "url": "https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu"
     },
     {
       "album": {
@@ -18029,6 +18087,28 @@
     },
     {
       "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "VAMOS PALL\u00c1",
+      "url": "https://open.spotify.com/track/4knOtGLKWSM0Nzcr0StpuK"
+    },
+    {
+      "album": {
         "name": "Vas a Destrozarme",
         "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
       },
@@ -18112,7 +18192,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 212727,
       "name": "verano en la ciudad",
       "url": "https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo"

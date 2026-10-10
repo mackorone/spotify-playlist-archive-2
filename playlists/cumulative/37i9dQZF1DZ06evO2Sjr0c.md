@@ -4,7 +4,7 @@
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-65 songs - 5 hr 51 min
+66 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,13 +44,14 @@
 | [Keep On Growing \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Merriweather 6/30/85 \(Live\)](https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn) | 4:37 | 2026-09-27 |  |
 | [Loose Lucy \- 2013 Remaster](https://open.spotify.com/track/2zRiNcLBVh0K6A1VL3zeg6) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 3:25 | 2026-01-15 |  |
 | [Mama Tried \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/6h7RCPkZvG7T4Rp02Xa0sE) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 3:11 | 2026-01-15 |  |
+| [Mexicali Blues \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/3LZFM0DpHUpg3pZ0zlv2vZ) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Merriweather 6/30/85 \(Live\)](https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn) | 5:16 | 2026-10-10 |  |
 | [Mississippi Half\-Step Uptown Toodeloo \- 2013 Remaster](https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:44 | 2026-01-15 | 2026-09-28 |
 | [New Minglewood Blues \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/27nasmd5S8eIvIkAa7wnSo) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 5:34 | 2026-01-15 |  |
 | [New Speedway Boogie \- 2013 Remaster](https://open.spotify.com/track/3YPBV5DacTbhgh7vharn6w) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 4:06 | 2026-01-15 |  |
 | [Not Fade Away / Goin' down the Road Feeling Bad \- Live at Manhattan Center, New York, NY, April 5, 1971](https://open.spotify.com/track/3JZeVTm20lmT0wTui4oWh9) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 9:12 | 2026-01-15 |  |
 | [Ramble on Rose \(Live at the Strand Lyceum, London, England, 5/26/72\) \- 2001 Remaster](https://open.spotify.com/track/24ei2BLeVEpGWLZ2qfLXJO) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 6:01 | 2026-01-15 |  |
 | [Ripple \- 2013 Remaster](https://open.spotify.com/track/1OE5l6sedVcIFELMuxQOPI) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 4:09 | 2026-01-15 |  |
-| [Row Jimmy \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/1m6rWZAK4vVLPbEGq59eT2) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 11:14 | 2026-09-12 |  |
+| [Row Jimmy \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/1m6rWZAK4vVLPbEGq59eT2) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 11:14 | 2026-09-12 | 2026-10-10 |
 | [Scarlet Begonias \- 2013 Remaster](https://open.spotify.com/track/3euDGpS2R0NC2Xssqxohva) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 4:19 | 2026-01-15 |  |
 | [Shakedown Street \- 2013 Remaster](https://open.spotify.com/track/1lNRVjK8MukRZpeurYssIx) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street](https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6) | 5:00 | 2026-01-15 |  |
 | [Shakedown Street \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/4pfpE9qnEGXTgYUDqf0cqe) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street \(Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985\)](https://open.spotify.com/album/13tHrJ57GNh8ZoXJLHwqcX) | 15:13 | 2026-08-22 | 2026-09-18 |

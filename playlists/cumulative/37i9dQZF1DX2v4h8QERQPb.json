@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 174399,
       "name": "1 y 1",
       "url": "https://open.spotify.com/track/5KhrajdQ7kr63kt9FedMT1"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 190017,
       "name": "Aquella Noche",
       "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
@@ -1792,6 +1792,28 @@
       "duration_ms": 82424,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/2aG5jnSGJVLrutTzGfk0US"
+    },
+    {
+      "album": {
+        "name": "NIUNCARGO",
+        "url": "https://open.spotify.com/album/63E16eMffdbmyQGtzlMOue"
+      },
+      "artists": [
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        },
+        {
+          "name": "NIUNCARGO",
+          "url": "https://open.spotify.com/artist/4gprglH8xTdBtNYb4xTw1L"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202605,
+      "name": "CASTIGO",
+      "url": "https://open.spotify.com/track/3uN9goHZmRORvr33zXRNL5"
     },
     {
       "album": {
@@ -3029,6 +3051,66 @@
     },
     {
       "album": {
+        "name": "Tierras Raras",
+        "url": "https://open.spotify.com/album/62dItn8rl79P5mkC39G60z"
+      },
+      "artists": [
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        },
+        {
+          "name": "Mir Nicolas",
+          "url": "https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT"
+        },
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        },
+        {
+          "name": "H de Perra",
+          "url": "https://open.spotify.com/artist/58IwebpCTUds8Ricp3zbTU"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278980,
+      "name": "Doc P\u00e1jaros Free",
+      "url": "https://open.spotify.com/track/4dVjvmHRLFTyyE6nyDBRBT"
+    },
+    {
+      "album": {
+        "name": "Tierras Raras (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MRYzZzcefozrJIF37uvhM"
+      },
+      "artists": [
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        },
+        {
+          "name": "Mir Nicolas",
+          "url": "https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT"
+        },
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        },
+        {
+          "name": "H de Perra",
+          "url": "https://open.spotify.com/artist/58IwebpCTUds8Ricp3zbTU"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269164,
+      "name": "Doc P\u00e1jaros Free - Dano Remix",
+      "url": "https://open.spotify.com/track/7htrZTY76eF1nt7vy7IGgI"
+    },
+    {
+      "album": {
         "name": "Bad Week",
         "url": "https://open.spotify.com/album/4njk6awCFJyapgmgL4Qm4R"
       },
@@ -3990,7 +4072,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 141901,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/74kLIWUGkBj9fvGAevAhZS"
@@ -4372,7 +4454,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 145609,
       "name": "GARDEL EN EL AVI\u00d3N",
       "url": "https://open.spotify.com/track/7bMZF2sGTEAvZC0lIHAPAA"
@@ -4530,6 +4612,28 @@
       "duration_ms": 231016,
       "name": "GRAVEDAD DE BUENOS AIRES",
       "url": "https://open.spotify.com/track/223wMDUpl18BhffYN5dlcL"
+    },
+    {
+      "album": {
+        "name": "NIUNCARGO",
+        "url": "https://open.spotify.com/album/63E16eMffdbmyQGtzlMOue"
+      },
+      "artists": [
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        },
+        {
+          "name": "NIUNCARGO",
+          "url": "https://open.spotify.com/artist/4gprglH8xTdBtNYb4xTw1L"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "HADA",
+      "url": "https://open.spotify.com/track/0PVt75vMnHGMKxPlSzPZoL"
     },
     {
       "album": {
@@ -5448,7 +5552,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 148790,
       "name": "LA TORTURA",
       "url": "https://open.spotify.com/track/1vKXtNEKU9fegCsHt9LQPD"
@@ -5470,6 +5574,28 @@
       "duration_ms": 195146,
       "name": "La Vibe",
       "url": "https://open.spotify.com/track/3YCMLVzfHHZIcuQTjoeVGg"
+    },
+    {
+      "album": {
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/5wbBeoJQePKpxGwxxdQLEj"
+      },
+      "artists": [
+        {
+          "name": "Kris Alaniz",
+          "url": "https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB"
+        },
+        {
+          "name": "808god",
+          "url": "https://open.spotify.com/artist/746Q2CaUN4Rfttp6D8rZc8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131566,
+      "name": "Latina",
+      "url": "https://open.spotify.com/track/2CcTgxYfmRDzak6qpdm6MR"
     },
     {
       "album": {
@@ -5532,6 +5658,32 @@
       "duration_ms": 162609,
       "name": "Lejan\u00eda",
       "url": "https://open.spotify.com/track/7yubQGBbiYwQqeOCAEmOdL"
+    },
+    {
+      "album": {
+        "name": "Leucemia",
+        "url": "https://open.spotify.com/album/3BJLRYGYOOsDtwAi3NELae"
+      },
+      "artists": [
+        {
+          "name": "H de Perra",
+          "url": "https://open.spotify.com/artist/58IwebpCTUds8Ricp3zbTU"
+        },
+        {
+          "name": "MALEBO",
+          "url": "https://open.spotify.com/artist/2S65E8yhw1Qbw0fc196FFW"
+        },
+        {
+          "name": "Urbanse",
+          "url": "https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "Leucemia",
+      "url": "https://open.spotify.com/track/47fmHuSuTvPcPbIdr3xwkl"
     },
     {
       "album": {
@@ -5870,6 +6022,32 @@
       "duration_ms": 121008,
       "name": "LUNES PM",
       "url": "https://open.spotify.com/track/5ZMVoeESUk5zl0sfENea0O"
+    },
+    {
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/4xTP3vpfl84jKJq2ZdQawf"
+      },
+      "artists": [
+        {
+          "name": "Ema",
+          "url": "https://open.spotify.com/artist/2VMrsKQA1BucJPWoyHf7UO"
+        },
+        {
+          "name": "Sosa 66s",
+          "url": "https://open.spotify.com/artist/7wGpe3AhCyQVeSiD7XLaNF"
+        },
+        {
+          "name": "Evan Bitz",
+          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252291,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/1pSmStYre30E0thufjenfx"
     },
     {
       "album": {
@@ -6346,7 +6524,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 179193,
       "name": "Me Pregunto",
       "url": "https://open.spotify.com/track/1SlIo8Mu0Q28mGyicWCmAL"
@@ -7349,6 +7527,28 @@
     },
     {
       "album": {
+        "name": "Los Perros con los Perros",
+        "url": "https://open.spotify.com/album/3KHeko13XZGOxCyipdr4ry"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Pa que no llore mi Mama",
+      "url": "https://open.spotify.com/track/7mIT76kRgacdihipUCM2cn"
+    },
+    {
+      "album": {
         "name": "PULSI\u00d3N",
         "url": "https://open.spotify.com/album/2SOH8upnFGSOjXh44qHi4E"
       },
@@ -7400,6 +7600,32 @@
       "duration_ms": 171266,
       "name": "Paquetes",
       "url": "https://open.spotify.com/track/63iJSDSeiTbJhDbo60jVOe"
+    },
+    {
+      "album": {
+        "name": "VICTORIA BOICOT",
+        "url": "https://open.spotify.com/album/4oARj8z6VjuXx6aAvh3gTl"
+      },
+      "artists": [
+        {
+          "name": "La Prima",
+          "url": "https://open.spotify.com/artist/0FG7hPVoLgNv0DqiNJhAec"
+        },
+        {
+          "name": "Canterbeat",
+          "url": "https://open.spotify.com/artist/3iOQmoPed4ILfxIBr7s51E"
+        },
+        {
+          "name": "Lausus",
+          "url": "https://open.spotify.com/artist/2nqe0d8xPiOtIO6h5JOUHd"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223714,
+      "name": "PARA\u00cdSO TERCERMUNDISTA",
+      "url": "https://open.spotify.com/track/4b0AC3KyXlBcEdIaU4LGJG"
     },
     {
       "album": {
@@ -8758,7 +8984,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 154956,
       "name": "Sangr\u00eda - con WOS",
       "url": "https://open.spotify.com/track/1fJjC8C0BdgUHlKIP2ODQf"
@@ -8938,7 +9164,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 180753,
       "name": "Si te hace feliz...",
       "url": "https://open.spotify.com/track/4CdsmQm1zctM9xlL8PeABJ"
@@ -10520,7 +10746,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 156000,
       "name": "Zica // Round 14",
       "url": "https://open.spotify.com/track/7ERFRZkhcy59BFyv3Uhp3k"

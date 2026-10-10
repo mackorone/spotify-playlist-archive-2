@@ -905,6 +905,28 @@
     },
     {
       "album": {
+        "name": "\u6731\u685c \u53f8\u300cEscort You\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/6z5rOLQq0fOoVcUeYzSORm"
+      },
+      "artists": [
+        {
+          "name": "\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)",
+          "url": "https://open.spotify.com/artist/1r0MP4iYcIJegetAIgXlrd"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225964,
+      "name": "Escort You",
+      "url": "https://open.spotify.com/track/5z0VtEalgw7n64DwEdO8ru"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
         "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
       },
@@ -934,7 +956,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 230680,
       "name": "EXCEED",
       "url": "https://open.spotify.com/track/38GxLG5AHziQ9ho4Qel0Vg"
@@ -3954,7 +3976,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 280626,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/0Pmja2vH52EzqkJyxQltM7"
@@ -4898,6 +4920,32 @@
       "duration_ms": 215431,
       "name": "\u71b1\u8996\u7ddaDAZZLING\u2606",
       "url": "https://open.spotify.com/track/1NF0zoOOcwhCoppaCCWZST"
+    },
+    {
+      "album": {
+        "name": "MaM VS fine\u300c\u72c2\u602a\u30ce\u6028\u9ed9-\u30ad\u30e7\u30a6\u30ab\u30a4\u30ce\u30a8\u30f3\u30e2\u30af-\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01World Tour Series",
+        "url": "https://open.spotify.com/album/0dJBhU7FCR0tvpw7cx0KMz"
+      },
+      "artists": [
+        {
+          "name": "MaM",
+          "url": "https://open.spotify.com/artist/5haPsx8AiGH7BAgWdWKl74"
+        },
+        {
+          "name": "fine",
+          "url": "https://open.spotify.com/artist/2HITkH8f0R5lC0uR1QgyI9"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228300,
+      "name": "\u72c2\u602a\u30ce\u6028\u9ed9-\u30ad\u30e7\u30a6\u30ab\u30a4\u30ce\u30a8\u30f3\u30e2\u30af-",
+      "url": "https://open.spotify.com/track/7grGSUYt7FSc75AmjTxWc0"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Valesca Mayssa",
-  "num_followers": 1221716,
+  "num_followers": 1221736,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPsBIcJJxEEpd0x9W6Pt9vscLCEX",
+  "snapshot_id": "AAAAAJiW4S1ivkLNqhKzmxX8vcMJE6KO",
   "tracks": [
     {
       "added_at": "2026-10-02 19:18:52",
@@ -295,22 +295,18 @@
     {
       "added_at": "2026-10-02 19:18:52",
       "album": {
-        "name": "IMPERFEITO",
-        "url": "https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo"
+        "name": "Eu Te Entrego o Meu Dia",
+        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
       },
       "artists": [
         {
-          "name": "Seven Plus",
-          "url": "https://open.spotify.com/artist/1xjoyxyvGl817VTGtwMPz9"
-        },
-        {
-          "name": "Rayssa Andreoli",
-          "url": "https://open.spotify.com/artist/0kG8pKY5RTBapy54Id9nd9"
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
         }
       ],
-      "duration_ms": 314736,
-      "name": "IMPERFEITO",
-      "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
+      "duration_ms": 199259,
+      "name": "Eu Te Entrego o Meu Dia",
+      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
     },
     {
       "added_at": "2026-10-02 19:18:52",
@@ -331,18 +327,22 @@
     {
       "added_at": "2026-10-02 19:18:52",
       "album": {
-        "name": "Eu Te Entrego o Meu Dia",
-        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
+        "name": "IMPERFEITO",
+        "url": "https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo"
       },
       "artists": [
         {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+          "name": "Seven Plus",
+          "url": "https://open.spotify.com/artist/1xjoyxyvGl817VTGtwMPz9"
+        },
+        {
+          "name": "Rayssa Andreoli",
+          "url": "https://open.spotify.com/artist/0kG8pKY5RTBapy54Id9nd9"
         }
       ],
-      "duration_ms": 199259,
-      "name": "Eu Te Entrego o Meu Dia",
-      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
+      "duration_ms": 314736,
+      "name": "IMPERFEITO",
+      "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
     },
     {
       "added_at": "2026-10-02 19:18:52",

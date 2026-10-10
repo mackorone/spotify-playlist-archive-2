@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: Alex Zurdo",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: Madiel Lara & Alex Zurdo",
   "name": "Todas Novedades Cristianas",
   "tracks": [
     {
@@ -2812,6 +2812,24 @@
       "duration_ms": 337279,
       "name": "Agua En Mi Desierto",
       "url": "https://open.spotify.com/track/5HMwlzAvcBwlUKrpMmQspe"
+    },
+    {
+      "album": {
+        "name": "Agua Pal Sediento",
+        "url": "https://open.spotify.com/album/1zgFyQWTxZ3JxsgpFTAujN"
+      },
+      "artists": [
+        {
+          "name": "Martin Alonso",
+          "url": "https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239291,
+      "name": "Agua Pal Sediento",
+      "url": "https://open.spotify.com/track/0iIwX1uK6PzPEuwQCWOnku"
     },
     {
       "album": {
@@ -9791,6 +9809,24 @@
     },
     {
       "album": {
+        "name": "Buen Siervo Fiel",
+        "url": "https://open.spotify.com/album/2o7uAuV74qH8g9xfCNSY1D"
+      },
+      "artists": [
+        {
+          "name": "Pedro G\u00f3mez",
+          "url": "https://open.spotify.com/artist/7KPwITRBXOJdscT1ktIwlx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Buen Siervo Fiel",
+      "url": "https://open.spotify.com/track/41OHWmq0ROTeeDhqXMOluZ"
+    },
+    {
+      "album": {
         "name": "Buena Conducta",
         "url": "https://open.spotify.com/album/7Kk9Kf9LTNxHafMqol6dqT"
       },
@@ -14436,7 +14472,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 391226,
       "name": "Contempladle",
       "url": "https://open.spotify.com/track/4xFs85rIODRA6Rq9G83uBg"
@@ -25996,7 +26032,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 261093,
       "name": "En Tu Lugar",
       "url": "https://open.spotify.com/track/6ZJfqvdlUn2sr9Gm6lBg7r"
@@ -26332,6 +26368,28 @@
       "duration_ms": 173008,
       "name": "ENMUS\u00c9",
       "url": "https://open.spotify.com/track/5gSgoFRdBNmP5zZRkyRM7Y"
+    },
+    {
+      "album": {
+        "name": "Ensayo",
+        "url": "https://open.spotify.com/album/0CGHsFmxSqxs434zc7sAI8"
+      },
+      "artists": [
+        {
+          "name": "Carlito Codigo",
+          "url": "https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR"
+        },
+        {
+          "name": "Dexter Music",
+          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "Ensayo",
+      "url": "https://open.spotify.com/track/7tQXhPQSEkRIfFlmz90Eqc"
     },
     {
       "album": {
@@ -27984,7 +28042,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 259600,
       "name": "Esperar\u00e9 - Live Session",
       "url": "https://open.spotify.com/track/7vfJXTiwjIHQJp3ynlujVA"
@@ -41252,7 +41310,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 261176,
       "name": "La Oveja",
       "url": "https://open.spotify.com/track/04lt1XqYHhSsXBSfmCQ4ak"
@@ -44979,6 +45037,32 @@
     },
     {
       "album": {
+        "name": "Lujo & Detalle",
+        "url": "https://open.spotify.com/album/7IZUTH83HJsvrQxZAOvpw5"
+      },
+      "artists": [
+        {
+          "name": "Isaac Vera",
+          "url": "https://open.spotify.com/artist/3EkiPneGVhBmVQ3AL6wnoY"
+        },
+        {
+          "name": "Redil Worship",
+          "url": "https://open.spotify.com/artist/2wl3olBaPUMGQg7g7Ol49i"
+        },
+        {
+          "name": "Luis Vera",
+          "url": "https://open.spotify.com/artist/7nVZ9Ht6uPbE6ZGfVbygrY"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "Lujo & Detalle",
+      "url": "https://open.spotify.com/track/320MYOR1a2v8x3NoI11Iny"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/6jLDlv6qLUjwVgvcq8h3NB"
       },
@@ -45886,7 +45970,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 434821,
       "name": "Maravilloso",
       "url": "https://open.spotify.com/track/7I2cn8wLgRXv20EDiCH9Ix"
@@ -46002,6 +46086,28 @@
       "duration_ms": 205625,
       "name": "Marta",
       "url": "https://open.spotify.com/track/75OFJwQq8f7KvIICQKsoST"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5pRUJ1GjYHqe8lpEe2dd4D"
+      },
+      "artists": [
+        {
+          "name": "Santiago Ardila",
+          "url": "https://open.spotify.com/artist/01Qj4FIZsyfxQkwXwEwwom"
+        },
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/0xMuEjGKxa6Ro42AX9xCoZ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/2f0yROQFWKK0if38XtUo9n"
     },
     {
       "album": {
@@ -65341,6 +65447,24 @@
     },
     {
       "album": {
+        "name": "Rendido",
+        "url": "https://open.spotify.com/album/6gG0KbCkWri4wuwtgYewmi"
+      },
+      "artists": [
+        {
+          "name": "Jhex",
+          "url": "https://open.spotify.com/artist/4xVN5eUUxtTH7iGqwOoDQ2"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Rendido",
+      "url": "https://open.spotify.com/track/2ysVjURAVKWXW6qOVVlZYg"
+    },
+    {
+      "album": {
         "name": "Rendir\u00e9 Mi Corona",
         "url": "https://open.spotify.com/album/2WgP0cA723G4w4FxWvYrGH"
       },
@@ -71356,7 +71480,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 384867,
       "name": "Sobre Todo - En Vivo",
       "url": "https://open.spotify.com/track/29KwUz88JYQDACyUDA7bdx"
@@ -74078,7 +74202,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 214869,
       "name": "S\u00e1name (Desde la Torre Colpatria)",
       "url": "https://open.spotify.com/track/3XjWups93RKPeHzv3OxCph"
@@ -80347,6 +80471,28 @@
     },
     {
       "album": {
+        "name": "Tu Tienes El Control",
+        "url": "https://open.spotify.com/album/5e9RVLQG26t646CLBGblk4"
+      },
+      "artists": [
+        {
+          "name": "Wubeat",
+          "url": "https://open.spotify.com/artist/1f93uZU90Q2DQMPkjdUgpw"
+        },
+        {
+          "name": "Diego Lu",
+          "url": "https://open.spotify.com/artist/62W11XBTmMK67bpD4bzQbA"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182181,
+      "name": "Tu Tienes El Control",
+      "url": "https://open.spotify.com/track/6NrwCYoxQWG8b932QdnBas"
+    },
+    {
+      "album": {
         "name": "Tu Voluntad",
         "url": "https://open.spotify.com/album/6tYq7CSAk2XK2N8DA98Dqt"
       },
@@ -80838,6 +80984,24 @@
       "duration_ms": 183050,
       "name": "Tuyaiia",
       "url": "https://open.spotify.com/track/4Mv2w5KEXVFbdYnedgdsDz"
+    },
+    {
+      "album": {
+        "name": "TuYo",
+        "url": "https://open.spotify.com/album/6A9E5yDtGuWkYCzRwMUNMZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Morales",
+          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "TuYo",
+      "url": "https://open.spotify.com/track/1USbSbVqGa2YNs0szXYlPZ"
     },
     {
       "album": {
@@ -81674,7 +81838,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 273461,
       "name": "UN DESPERTAR",
       "url": "https://open.spotify.com/track/0pGPipHB0BVHIQhu0uX2sF"
@@ -84473,6 +84637,32 @@
     },
     {
       "album": {
+        "name": "ViAje",
+        "url": "https://open.spotify.com/album/2USXf7XhLUclsUESoA0Qhk"
+      },
+      "artists": [
+        {
+          "name": "Barajas",
+          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
+        },
+        {
+          "name": "Yeniell",
+          "url": "https://open.spotify.com/artist/0NfUDepBHPTyQBKWBmop91"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186204,
+      "name": "ViAje",
+      "url": "https://open.spotify.com/track/4tV81DTCrtpVGo3OKiPbbX"
+    },
+    {
+      "album": {
         "name": "Viaje de Regreso",
         "url": "https://open.spotify.com/album/6nKol6K0KxJKyZufebEtFl"
       },
@@ -84794,7 +84984,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 322052,
       "name": "Vida En Abundancia",
       "url": "https://open.spotify.com/track/6JTq31wESI6Nnnewu7tSZ6"

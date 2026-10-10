@@ -472,10 +472,32 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 182988,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0whPfP5Sh4eBJFAV1HcRUB"
+    },
+    {
+      "album": {
+        "name": "Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/3rI7umsbNEVE4BdbDdEnAf"
+      },
+      "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182988,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4W4Pb104Pi3vJCbA5T2s0u"
     },
     {
       "album": {
@@ -2480,10 +2502,36 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 124368,
       "name": "Sata",
       "url": "https://open.spotify.com/track/4BuMXTg1nCzv5ubPhG1hd2"
+    },
+    {
+      "album": {
+        "name": "Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/3rI7umsbNEVE4BdbDdEnAf"
+      },
+      "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Ciganda",
+          "url": "https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124368,
+      "name": "Sata",
+      "url": "https://open.spotify.com/track/6sBT09k5i2QFSZrlA7buUe"
     },
     {
       "album": {

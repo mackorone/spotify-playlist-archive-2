@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
@@ -5054,7 +5054,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 172751,
       "name": "Dois Enganados",
       "url": "https://open.spotify.com/track/38jMHjnOAJDR4QUdk3IXsw"
@@ -6700,7 +6700,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 157184,
       "name": "Flash - Ao Vivo",
       "url": "https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS"
@@ -9874,7 +9874,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 141692,
       "name": "MTG Pra Ficar Legal",
       "url": "https://open.spotify.com/track/3crEG7LMmze2X3JVAuVRE9"
@@ -12644,7 +12644,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 162461,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4tYCyoSpv0Ujpfwcneb02l"
@@ -12666,10 +12666,32 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 143371,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em Goi\u00e2nia - Ep.2",
+        "url": "https://open.spotify.com/album/5cW3Mva0Gob5jJEbG157FF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143371,
+      "name": "Postinho de Gasolina",
+      "url": "https://open.spotify.com/track/4RuRAwMmuBxw4QsKeFVhxh"
     },
     {
       "album": {
@@ -12688,6 +12710,36 @@
       "duration_ms": 187562,
       "name": "Posturado E Calmo",
       "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
+    },
+    {
+      "album": {
+        "name": "Modesto \u00c0 Parte",
+        "url": "https://open.spotify.com/album/12dkHVUGbR3XlC7NWUmwB6"
+      },
+      "artists": [
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "Pra N\u00e3o Esquecer de Mim",
+      "url": "https://open.spotify.com/track/5HVOe4orbKxUZJtEBKcQRR"
     },
     {
       "album": {
@@ -12714,7 +12766,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 192755,
       "name": "Pra N\u00e3o Esquecer De Mim",
       "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
@@ -13410,7 +13462,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 306000,
       "name": "Reliquia do 2T",
       "url": "https://open.spotify.com/track/6n9JMoXkXu4lDOu1k6MRpy"
@@ -14895,7 +14947,7 @@
     },
     {
       "album": {
-        "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & DJ Glenner)",
+        "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & Dj Daltin no Beat)",
         "url": "https://open.spotify.com/album/2L2HIKhijLbqTOHNGLIw2b"
       },
       "artists": [
@@ -14912,8 +14964,8 @@
           "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
-          "name": "Dj Daltin no Beat",
-          "url": "https://open.spotify.com/artist/2lFKqFqItmkHQB8jKilc44"
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
         },
         {
           "name": "MC Jvila",
@@ -14932,16 +14984,86 @@
           "url": "https://open.spotify.com/artist/7579yDSrhA6ZAArOo7m6UT"
         },
         {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+          "name": "Dj Daltin no Beat",
+          "url": "https://open.spotify.com/artist/2lFKqFqItmkHQB8jKilc44"
         }
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 431219,
-      "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & DJ Glenner)",
+      "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & Dj Daltin no Beat)",
       "url": "https://open.spotify.com/track/7By1xSEpnisnvOK6CvrEk1"
+    },
+    {
+      "album": {
+        "name": "Set Dj Gm 6.0",
+        "url": "https://open.spotify.com/album/3PJWTYXjCCatdpiSKNUY9N"
+      },
+      "artists": [
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 624000,
+      "name": "Set Dj Gm 6.0",
+      "url": "https://open.spotify.com/track/4WXVqLSRHF4ypdiBngbcqU"
     },
     {
       "album": {
@@ -16000,6 +16122,24 @@
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "album": {
+        "name": "Mari no Barzinho (Ao Vivo em Fortaleza)",
+        "url": "https://open.spotify.com/album/6P4kv2DgtMn2d9YnxZYBrX"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167692,
+      "name": "Telefone Sem Fio - Ao Vivo",
+      "url": "https://open.spotify.com/track/0mo4IFJlaejAEzwUmyOyTD"
     },
     {
       "album": {

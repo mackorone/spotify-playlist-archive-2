@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 186226,
       "name": "Felic\u00edtalo",
       "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
@@ -730,6 +730,24 @@
       "duration_ms": 234320,
       "name": "Lo Que Son las Cosas",
       "url": "https://open.spotify.com/track/7GprMlRqZpBd6LYqar2hBv"
+    },
+    {
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242213,
+      "name": "Lo Siento Mi Amor",
+      "url": "https://open.spotify.com/track/3336v3uxCP78aPN2wetZjx"
     },
     {
       "album": {

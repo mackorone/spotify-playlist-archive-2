@@ -1,6 +1,6 @@
 {
   "description": "Discover the latest Korean classical & new age music! (Cover: \uc724\ud55c(YOONHAN)) \ucd5c\uc2e0 \ud55c\uad6d \ud074\ub798\uc2dd\uacfc \ub274\uc5d0\uc774\uc9c0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5870,
+  "num_followers": 5874,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
+        "name": "Liszt",
+        "url": "https://open.spotify.com/album/1g7DvLBKh0JPu7A7j10KF6"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Yekwon Sunwoo",
+          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Liebeslied \"Widmung\", S. 566 (After Schumann, Op. 25/1)",
+      "url": "https://open.spotify.com/track/3l3vkxPKru1XSRv101vQIq"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
         "name": "On Chesil Beach (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1IhkhMZO8R0X2tHuFGTOvK"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 96986,
       "name": "Solemn Love",
       "url": "https://open.spotify.com/track/7qyC8gWlincOcob4wDOrZc"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Liszt",
-        "url": "https://open.spotify.com/album/1g7DvLBKh0JPu7A7j10KF6"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Yekwon Sunwoo",
-          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Liebeslied \"Widmung\", S. 566 (After Schumann, Op. 25/1)",
-      "url": "https://open.spotify.com/track/3l3vkxPKru1XSRv101vQIq"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1343,6 +1343,34 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
+        "name": "Mozart Collection",
+        "url": "https://open.spotify.com/album/1j4ex40BEDd4jWIKPkg69n"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
+      "url": "https://open.spotify.com/track/1LS8z44ljIsRXJCDcIKVsg"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
         "name": "Pure Opera Vol. 2",
         "url": "https://open.spotify.com/album/3ebREGFHsjpJCD0wx4ghvO"
       },
@@ -1423,34 +1451,6 @@
       "duration_ms": 319866,
       "name": "Die Walk\u00fcre - Ride of the Valkyries",
       "url": "https://open.spotify.com/track/0R9F6cHIutznEPD5AD5EFH"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Mozart Collection",
-        "url": "https://open.spotify.com/album/1j4ex40BEDd4jWIKPkg69n"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Sumi Jo",
-          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
-      "url": "https://open.spotify.com/track/1LS8z44ljIsRXJCDcIKVsg"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1599,8 +1599,8 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI"
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
       },
       "artists": [
         {
@@ -1608,9 +1608,9 @@
           "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
         }
       ],
-      "duration_ms": 401026,
-      "name": "Listen",
-      "url": "https://open.spotify.com/track/4RFNTlSZ5P3H6gFhFkr994"
+      "duration_ms": 209186,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1687,8 +1687,8 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI"
       },
       "artists": [
         {
@@ -1696,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
         }
       ],
-      "duration_ms": 209186,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"
+      "duration_ms": 401026,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/4RFNTlSZ5P3H6gFhFkr994"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "Rachmaninoff, A Reflection",
         "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
       },
@@ -1775,58 +1759,18 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "Remembering That Time",
-        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
       },
       "artists": [
         {
-          "name": "Jung Hwan Ho",
-          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
-        },
-        {
-          "name": "Jisoo Sohn",
-          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
         }
       ],
-      "duration_ms": 267986,
-      "name": "Remembering That Time",
-      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "MOZART: Piano Works 1",
-        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Kun-Woo Paik",
-          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
-        }
-      ],
-      "duration_ms": 433986,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
-      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Esthesia",
-        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
-      },
-      "artists": [
-        {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
-        }
-      ],
-      "duration_ms": 243640,
-      "name": "Esthesia",
-      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
+      "duration_ms": 216333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1855,6 +1799,62 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
+        "name": "MOZART: Piano Works 1",
+        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 433986,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
+      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Remembering That Time",
+        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+      },
+      "artists": [
+        {
+          "name": "Jung Hwan Ho",
+          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
+        },
+        {
+          "name": "Jisoo Sohn",
+          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+        }
+      ],
+      "duration_ms": 267986,
+      "name": "Remembering That Time",
+      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Esthesia",
+        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "Esthesia",
+      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
         "name": "Connected",
         "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
       },
@@ -1875,6 +1875,30 @@
       "duration_ms": 314573,
       "name": "8 Humoresques, Op.101: No.7, Poco lento e grazioso (Arr. for Violin, Vibraphone and Piano by Cho Yoonseung)",
       "url": "https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Beethoven: Variations for violoncello and piano",
+        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jungin Huh",
+          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "duration_ms": 40906,
+      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation VII",
+      "url": "https://open.spotify.com/track/0mvx2tj7RIztJmOcL4TZlR"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1935,78 +1959,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "Beethoven: Variations for violoncello and piano",
-        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Jungin Huh",
-          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
-        },
-        {
-          "name": "Ilya Rashkovskiy",
-          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
-        }
-      ],
-      "duration_ms": 40906,
-      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation VII",
-      "url": "https://open.spotify.com/track/0mvx2tj7RIztJmOcL4TZlR"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Lost In Memory",
-        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
-      },
-      "artists": [
-        {
-          "name": "Hyungjoo Lim",
-          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "The Red String",
-      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
-      },
-      "artists": [
-        {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        }
-      ],
-      "duration_ms": 195283,
-      "name": "When We Meet Again",
-      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676"
-      },
-      "artists": [
-        {
-          "name": "Fort\u00e9na",
-          "url": "https://open.spotify.com/artist/3k1X3vt1Oa9c0zqMzYXpF5"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "Timepass",
         "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
       },
@@ -2047,6 +1999,54 @@
       "duration_ms": 329653,
       "name": "Adelaide from Lieder, Op. 46 (arr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/6EcYdrzLVl1etzZi1ZQmaL"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        }
+      ],
+      "duration_ms": 195283,
+      "name": "When We Meet Again",
+      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Lost In Memory",
+        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
+      },
+      "artists": [
+        {
+          "name": "Hyungjoo Lim",
+          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "The Red String",
+      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676"
+      },
+      "artists": [
+        {
+          "name": "Fort\u00e9na",
+          "url": "https://open.spotify.com/artist/3k1X3vt1Oa9c0zqMzYXpF5"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
     }
   ],
   "unique_name": "Classics Korea",

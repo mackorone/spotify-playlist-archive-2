@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo: Stanislas.
 
-599 songs - 1 day 6 hr 44 min
+600 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [ON EST LES MÊMES](https://open.spotify.com/track/4yWpqptuVmPra8Ua8Huwg8) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [ON EST LES MÊMES](https://open.spotify.com/album/4R937d2jBEIEij9ANYh7go) | 3:38 | 2023-11-23 | 2024-09-06 |
 | [On Fait du Rock](https://open.spotify.com/track/3Y6MKj7jBrXqPve2DyoWqO) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [On Fait du Rock](https://open.spotify.com/album/2vAq1Kmv81GC3GfkSg9neE) | 4:13 | 2023-09-28 | 2023-10-06 |
 | [ON TRAÎNE!](https://open.spotify.com/track/51q8Y8fPdifFD5tFC5cV3m) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ON TRAÎNE!](https://open.spotify.com/album/4pzM7XQTTktoK05OJ2xP1A) | 2:40 | 2026-01-15 | 2026-04-10 |
-| [One way \(le mode automatique\)](https://open.spotify.com/track/2UAOU0vF5l8WYuFN5Bkajs) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [One way \(le mode automatique\)](https://open.spotify.com/album/0e4Wow8ArKaqBsao2ytLyx) | 2:36 | 2026-07-09 |  |
+| [One way \(le mode automatique\)](https://open.spotify.com/track/2UAOU0vF5l8WYuFN5Bkajs) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [One way \(le mode automatique\)](https://open.spotify.com/album/0e4Wow8ArKaqBsao2ytLyx) | 2:36 | 2026-07-09 | 2026-10-10 |
 | [Opening](https://open.spotify.com/track/6JlZNJP7EKJIxXPaeDQcrz) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Opening](https://open.spotify.com/album/03BSJyijRZPzlCiPbTcHFC) | 2:04 | 2023-11-02 | 2024-01-19 |
 | [Oublie\-Moi](https://open.spotify.com/track/7rnsq8BtFBiuELlMWQGlKS) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Oublie\-Moi](https://open.spotify.com/album/3rhRAIOOkEk15CpMQU1CYl) | 2:32 | 2026-08-27 | 2026-10-02 |
 | [Oui mais non](https://open.spotify.com/track/07f9dfX1Uo0p7dz6yncTZE) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Oui mais non](https://open.spotify.com/album/46pQc12udycYO6upatq9qf) | 3:34 | 2026-06-04 | 2026-07-10 |
@@ -451,6 +451,7 @@
 | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/album/4rRoWGVgwlIX75hKwLdtOg) | 2:10 | 2023-09-28 | 2023-11-10 |
 | [Polaroïds](https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Polaroïds](https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl) | 3:13 | 2026-10-08 |  |
 | [Pollen](https://open.spotify.com/track/4DlYbKx9n2tyRyqaavWbYQ) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Pollen](https://open.spotify.com/album/2D88YSSmZgwqyClOORleb0) | 2:21 | 2026-05-15 | 2026-06-26 |
+| [Pop Song](https://open.spotify.com/track/7qBHFgVyYJl3bARSplq4Hl) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Pop Song](https://open.spotify.com/album/64sj6X7CIIqpN9w89vlkRX) | 3:27 | 2026-10-09 |  |
 | [Pornstar](https://open.spotify.com/track/3R7fcy9r7uIj6dl6VL6eAT) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Pornstar](https://open.spotify.com/album/10i2f4W4eRzNUHvudx6Qyc) | 2:50 | 2025-11-06 | 2026-01-24 |
 | [Premier Baiser](https://open.spotify.com/track/6zKP5wtxXNpzDWxcHA9LRa) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Premier Baiser](https://open.spotify.com/album/3pEJyWEz9kGVYzXE9j9MZt) | 2:50 | 2024-06-20 | 2024-11-29 |
 | [Presque Punk](https://open.spotify.com/track/75HY55DJoZNg8lK1IZ2i4m) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/7Ismclfo1TZYljMc8FGfAj) | 3:53 | 2025-08-28 | 2025-11-28 |

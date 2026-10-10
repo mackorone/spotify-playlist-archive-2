@@ -2349,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "pop it",
+        "url": "https://open.spotify.com/album/7DtLXYT2f2FT95xcYDgnSD"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138866,
+      "name": "pop it",
+      "url": "https://open.spotify.com/track/31LTblYkfjcYNo8VcDIalJ"
+    },
+    {
+      "album": {
         "name": "POSSESSION",
         "url": "https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip"
       },

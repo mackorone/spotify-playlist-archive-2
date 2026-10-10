@@ -1395,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "El Regreso",
+        "url": "https://open.spotify.com/album/5qXGEEfjISmUrpo8LQu1Z1"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154411,
+      "name": "Besame",
+      "url": "https://open.spotify.com/track/3VlRPRxPMJTL7wCHYB3j0X"
+    },
+    {
+      "album": {
         "name": "Con Sabor A Lim\u00f3n, Volumen 2",
         "url": "https://open.spotify.com/album/75eFixvrDXcxe1BLKOfLwG"
       },
@@ -9670,7 +9688,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 198548,
       "name": "No Se Diga M\u00e1s",
       "url": "https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9"
@@ -9760,7 +9778,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 177009,
       "name": "Nuestro Secreto",
       "url": "https://open.spotify.com/track/79B1TGLROtJmq2VtEwn7FL"
@@ -15034,6 +15052,28 @@
       "duration_ms": 145936,
       "name": "Vivo La Vida A Mi Modo",
       "url": "https://open.spotify.com/track/5WTdMhl8dAOj8g2rsrR6f5"
+    },
+    {
+      "album": {
+        "name": "Volumen 42",
+        "url": "https://open.spotify.com/album/3ANpi9g8pHYq3TuvD93uGW"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161938,
+      "name": "Volumen 42",
+      "url": "https://open.spotify.com/track/1KMHVSUyJofqIbt2HWT6qE"
     },
     {
       "album": {

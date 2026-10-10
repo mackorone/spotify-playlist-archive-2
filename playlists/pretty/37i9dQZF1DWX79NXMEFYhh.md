@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > gusto ko lang naman ng kayakap
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,204 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,789 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 2 | [Kahit Na Umulan](https://open.spotify.com/track/43AjF7Xceu7Jr8hH2vriS1) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Kahit Na Umulan](https://open.spotify.com/album/3ox7wTdG2LreH3lsq8rSnG) | 4:02 |
 | 3 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
 | 4 | [Too Cute To Be Lonely](https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Too Cute To Be Lonely](https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY) | 3:16 |
-| 5 | [Silip](https://open.spotify.com/track/3nHfwCmcwmt1eJX3rqn8xC) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Silip](https://open.spotify.com/album/2IZRTt70Ri8I5G9clDfJEO) | 3:01 |
+| 5 | [Silip](https://open.spotify.com/track/3nHfwCmcwmt1eJX3rqn8xC) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Silip](https://open.spotify.com/album/2IZRTt70Ri8I5G9clDfJEO) | 3:02 |
 | 6 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 7 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 8 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 |

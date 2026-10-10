@@ -368,7 +368,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 155760,
       "name": "Ac\u00e9rcate Mija",
       "url": "https://open.spotify.com/track/1V83qbHspRnEptdprl8ybq"
@@ -4744,6 +4744,24 @@
       "duration_ms": 228893,
       "name": "La Ni\u00f1a Del Instagram",
       "url": "https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG"
+    },
+    {
+      "album": {
+        "name": "Mi Casi Todo",
+        "url": "https://open.spotify.com/album/3RiDHLmz1pij7udfvyTiSc"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173185,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2ZOdl0lyaeEztkcjXcTPjQ"
     },
     {
       "album": {

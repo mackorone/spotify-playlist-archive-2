@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 145555,
       "name": "Alma",
       "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 164131,
       "name": "AyMami",
       "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
@@ -1536,6 +1536,24 @@
       "duration_ms": 204981,
       "name": "BORRACHA",
       "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
+    },
+    {
+      "album": {
+        "name": "BOTZ",
+        "url": "https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178466,
+      "name": "BOTZ",
+      "url": "https://open.spotify.com/track/4tpT01PRHuLZI1tAvrJfRf"
     },
     {
       "album": {
@@ -4166,7 +4184,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 188132,
       "name": "ENTR\u00c9GAME",
       "url": "https://open.spotify.com/track/3rkzQE7dyRH6UlbFgoqbWf"
@@ -6483,6 +6501,32 @@
     },
     {
       "album": {
+        "name": "MALIB\u00da",
+        "url": "https://open.spotify.com/album/6317v4hnpchTv8Xe2v5Wzp"
+      },
+      "artists": [
+        {
+          "name": "DeMasters",
+          "url": "https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179301,
+      "name": "MALIB\u00da",
+      "url": "https://open.spotify.com/track/57IIRATtcJhbRvomaszbQS"
+    },
+    {
+      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -8082,7 +8126,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 240964,
       "name": "ori\u00f3N",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
@@ -9225,6 +9269,24 @@
     },
     {
       "album": {
+        "name": "QUE TALENTO",
+        "url": "https://open.spotify.com/album/41ecYQc92iH9qjtiFfv8tk"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179428,
+      "name": "QUE TALENTO",
+      "url": "https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc"
+    },
+    {
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
       },
@@ -9578,7 +9640,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 181451,
       "name": "Ruca",
       "url": "https://open.spotify.com/track/73Iis0jeK8GvqybSakXRHd"
@@ -9918,6 +9980,24 @@
       "duration_ms": 248653,
       "name": "SHOFAR",
       "url": "https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp"
+    },
+    {
+      "album": {
+        "name": "si",
+        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151624,
+      "name": "si",
+      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
     },
     {
       "album": {
@@ -11740,6 +11820,24 @@
       "duration_ms": 289131,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
+    },
+    {
+      "album": {
+        "name": "T\u00fa T\u00fa T\u00fa",
+        "url": "https://open.spotify.com/album/7gRCYad8LdWlXQhjoUWRFp"
+      },
+      "artists": [
+        {
+          "name": "Mar Sol\u00eds",
+          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188480,
+      "name": "T\u00fa T\u00fa T\u00fa",
+      "url": "https://open.spotify.com/track/0Yr8jtiKe4M4WoLyK5UxCf"
     },
     {
       "album": {

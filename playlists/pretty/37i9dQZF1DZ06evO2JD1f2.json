@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAC7gH5e79Z/aYLGso3v36MJ",
+  "snapshot_id": "asbdAAAAAAD76RFbp4plD5PJWO7Uf0h7",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
       "duration_ms": 226362,
       "name": "Thump Shit",
       "url": "https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIGGER THAN THE DEVIL",
-        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 154074,
-      "name": "WAY MORE",
-      "url": "https://open.spotify.com/track/6bMLLlQdaYKinJy2ZnFaR3"
     },
     {
       "added_at": null,
@@ -115,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL SPITTA",
-        "url": "https://open.spotify.com/album/4frPXwvy0rTi87gzlfBzt6"
+        "name": "BIGGER THAN THE DEVIL",
+        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
       },
       "artists": [
         {
@@ -124,9 +108,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 145116,
-      "name": "CALL SPITTA",
-      "url": "https://open.spotify.com/track/6TSbyVtg9vgSiJEHct8wOF"
+      "duration_ms": 154074,
+      "name": "WAY MORE",
+      "url": "https://open.spotify.com/track/6bMLLlQdaYKinJy2ZnFaR3"
     },
     {
       "added_at": null,
@@ -147,6 +131,26 @@
       "duration_ms": 192804,
       "name": "Real As It Gets (feat. EST Gee)",
       "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 121479,
+      "name": "Back and Forth (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK"
     },
     {
       "added_at": null,
@@ -179,26 +183,6 @@
       "duration_ms": 108147,
       "name": "I GOT IT LIT",
       "url": "https://open.spotify.com/track/5TKOFhT7FmAh7hb5xX03Lg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 121479,
-      "name": "Back and Forth (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK"
     },
     {
       "added_at": null,
@@ -243,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGGER THAN THE DEVIL",
-        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "HALL OF FAME",
-      "url": "https://open.spotify.com/track/2TVXBs5CNJWADfJwq9OUaz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Gangsta\u2019s Pain: Reloaded",
         "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
       },
@@ -283,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIGGER THAN THE DEVIL",
+        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "CALL SPITTA",
+      "url": "https://open.spotify.com/track/6pz0xCL2lbwxO8JXenfyyg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
       },
@@ -295,22 +279,6 @@
       "duration_ms": 146959,
       "name": "Opinion Base",
       "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIGGER THAN THE DEVIL",
-        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 99259,
-      "name": "BIRTH OF A ROYAL CHILD",
-      "url": "https://open.spotify.com/track/3Pctmz9EYtQVDYp2JSd0q1"
     },
     {
       "added_at": null,
@@ -331,6 +299,22 @@
       "duration_ms": 195298,
       "name": "The Realest (feat. Jeezy)",
       "url": "https://open.spotify.com/track/4NMsGNHtpsNJVmKVCkKrnc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGGER THAN THE DEVIL",
+        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "HALL OF FAME",
+      "url": "https://open.spotify.com/track/2TVXBs5CNJWADfJwq9OUaz"
     },
     {
       "added_at": null,
@@ -375,30 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGGER THAN THE DEVIL",
-        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": ". SKRT",
-          "url": "https://open.spotify.com/artist/6rIKLls6jB4KrKvPMCUXUq"
-        }
-      ],
-      "duration_ms": 143355,
-      "name": "TRANQUILIZER (feat. YFN Lucci & . SKRT)",
-      "url": "https://open.spotify.com/track/45VmoozdduwbmYZ9ft9UEO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
       },
@@ -411,6 +371,22 @@
       "duration_ms": 155413,
       "name": "Young Shiners",
       "url": "https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGGER THAN THE DEVIL",
+        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 99259,
+      "name": "BIRTH OF A ROYAL CHILD",
+      "url": "https://open.spotify.com/track/3Pctmz9EYtQVDYp2JSd0q1"
     },
     {
       "added_at": null,
@@ -455,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGGER THAN THE DEVIL",
-        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 122181,
-      "name": "SKRRT",
-      "url": "https://open.spotify.com/track/62lwDv1LnPfME9csGoHY7E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
       },
@@ -487,6 +447,30 @@
       "duration_ms": 151956,
       "name": "Members Only (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/3pygdjgdMt04N8R6Mar0wF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGGER THAN THE DEVIL",
+        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": ". SKRT",
+          "url": "https://open.spotify.com/artist/6rIKLls6jB4KrKvPMCUXUq"
+        }
+      ],
+      "duration_ms": 143355,
+      "name": "TRANQUILIZER (feat. YFN Lucci & . SKRT)",
+      "url": "https://open.spotify.com/track/45VmoozdduwbmYZ9ft9UEO"
     },
     {
       "added_at": null,
@@ -535,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed III: The Soundtrack",
-        "url": "https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 125885,
-      "name": "Anthem (with Big Sean & EST Gee) - Soundtrack Version",
-      "url": "https://open.spotify.com/track/7CeNOTM3asX0zt6pAi9a6W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
       },
@@ -599,6 +559,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creed III: The Soundtrack",
+        "url": "https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 125885,
+      "name": "Anthem (with Big Sean & EST Gee) - Soundtrack Version",
+      "url": "https://open.spotify.com/track/7CeNOTM3asX0zt6pAi9a6W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL TORO 2",
         "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
       },
@@ -615,6 +599,38 @@
       "duration_ms": 145317,
       "name": "I THINK (FEAT. LIL BABY)",
       "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 141015,
+      "name": "Ball Forever",
+      "url": "https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 149807,
+      "name": "Make It Even",
+      "url": "https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8"
     },
     {
       "added_at": null,
@@ -659,38 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 141015,
-      "name": "Ball Forever",
-      "url": "https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 149807,
-      "name": "Make It Even",
-      "url": "https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death (Deluxe)",
         "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
@@ -707,26 +691,6 @@
       "duration_ms": 156981,
       "name": "Balloons (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
-        }
-      ],
-      "duration_ms": 199203,
-      "name": "Taught Different",
-      "url": "https://open.spotify.com/track/4lIfzjd5r3KuGMIxVWUHqs"
     },
     {
       "added_at": null,
@@ -771,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "duration_ms": 199203,
+      "name": "Taught Different",
+      "url": "https://open.spotify.com/track/4lIfzjd5r3KuGMIxVWUHqs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
       },
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
       },
       "artists": [
         {
@@ -796,29 +780,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 106904,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REAL INSIDE COLD OUTSIDE",
-        "url": "https://open.spotify.com/album/4GgpQcfbyYZvPaSoDlXQXV"
-      },
-      "artists": [
-        {
-          "name": "Tsu Surf",
-          "url": "https://open.spotify.com/artist/6tYVXU1sKSsk6SIdkfIWGu"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 176564,
-      "name": "Niggas Win",
-      "url": "https://open.spotify.com/track/0NOkPlPKrAvfg5b2hiX8Cw"
+      "duration_ms": 165972,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
     },
     {
       "added_at": null,
@@ -839,6 +803,22 @@
       "duration_ms": 132501,
       "name": "All I Know (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 106904,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
     },
     {
       "added_at": null,
@@ -883,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+        "name": "REAL INSIDE COLD OUTSIDE",
+        "url": "https://open.spotify.com/album/4GgpQcfbyYZvPaSoDlXQXV"
       },
       "artists": [
+        {
+          "name": "Tsu Surf",
+          "url": "https://open.spotify.com/artist/6tYVXU1sKSsk6SIdkfIWGu"
+        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 165972,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
+      "duration_ms": 176564,
+      "name": "Niggas Win",
+      "url": "https://open.spotify.com/track/0NOkPlPKrAvfg5b2hiX8Cw"
     },
     {
       "added_at": null,
@@ -948,9 +932,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 126467,
-      "name": "RICH PROBLEMS",
-      "url": "https://open.spotify.com/track/6rpwtMSVd51Uev03tDDvax"
+      "duration_ms": 122181,
+      "name": "SKRRT",
+      "url": "https://open.spotify.com/track/62lwDv1LnPfME9csGoHY7E"
     }
   ],
   "unique_name": "This Is EST Gee",

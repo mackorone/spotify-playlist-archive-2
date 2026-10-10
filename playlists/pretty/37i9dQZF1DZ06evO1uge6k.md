@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,451 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,472 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,28 +22,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 12 | [Brown Sugar](https://open.spotify.com/track/1DtPmLMwBEa0fugJRhzwzn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 5:24 |
 | 13 | [A Fool for Your Stockings](https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:14 |
 | 14 | [Got Me Under Pressure \(2008 Remaster\)](https://open.spotify.com/track/7lz578ML4nWrDL3uOLyQoR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:03 |
-| 15 | [My Head's in Mississippi](https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 4:21 |
-| 16 | [Beer Drinkers & Hell Raisers \(2006 Remaster\)](https://open.spotify.com/track/3Oeuxw27oYmLF3jflwVK4F) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 3:25 |
-| 17 | [Can't Stop Rockin'](https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:01 |
+| 15 | [Beer Drinkers & Hell Raisers \(2006 Remaster\)](https://open.spotify.com/track/3Oeuxw27oYmLF3jflwVK4F) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 3:25 |
+| 16 | [My Head's in Mississippi](https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 4:21 |
+| 17 | [I'm Bad, I'm Nationwide](https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:46 |
 | 18 | [I Got the Six \(2008 Remaster\)](https://open.spotify.com/track/3yYe6csPthNTUCcg6PVGjs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 2:54 |
-| 19 | [I'm Bad, I'm Nationwide](https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:46 |
+| 19 | [Can't Stop Rockin'](https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:01 |
 | 20 | [La Grange](https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \(‘That Little Ol' Band From Texas’ Original Soundtrack\)](https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw) | 4:41 |
-| 21 | [Tube Snake Boogie](https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [El Loco](https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY) | 3:03 |
+| 21 | [Cheap Sunglasses](https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:48 |
 | 22 | [I Need You Tonight \(2008 Remaster\)](https://open.spotify.com/track/52Iro1e1FR4w59jyOLawDh) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 6:18 |
-| 23 | [Cheap Sunglasses](https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:48 |
+| 23 | [Tube Snake Boogie](https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [El Loco](https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY) | 3:03 |
 | 24 | [Arrested for Driving While Blind](https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 3:06 |
 | 25 | [I Gotsta Get Paid](https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura](https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L) | 4:03 |
-| 26 | [Sleeping Bag](https://open.spotify.com/track/2i14DjGjf1UQ9VwvB2vRZP) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:02 |
-| 27 | [I Thank You](https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 3:24 |
+| 26 | [I Thank You](https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 3:24 |
+| 27 | [Sleeping Bag](https://open.spotify.com/track/2i14DjGjf1UQ9VwvB2vRZP) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:02 |
 | 28 | [Just Got Back from Baby's](https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 4:10 |
 | 29 | [Doubleback](https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:56 |
 | 30 | [Heard It on the X \(2005 Remaster\)](https://open.spotify.com/track/1zYDw55mtTWD6kGOlFxIz8) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:24 |
 | 31 | [Stages](https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:32 |
 | 32 | [Chartreuse](https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 2:57 |
-| 33 | [Pearl Necklace](https://open.spotify.com/track/5ZgnPqNvtMFeLpahZUuLf3) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [El Loco](https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY) | 4:04 |
+| 33 | [Give It Up](https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:29 |
 | 34 | [Nasty Dogs and Funky Kings \(2005 Remaster\)](https://open.spotify.com/track/3yyTDQYVGLWn5J4UHBE4qj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:42 |
-| 35 | [Give It Up](https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:29 |
-| 36 | [Planet of Women](https://open.spotify.com/track/7y2Vvk7wXRQg9fq9PXUVHG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:02 |
+| 35 | [Planet of Women](https://open.spotify.com/track/7y2Vvk7wXRQg9fq9PXUVHG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:02 |
+| 36 | [Pearl Necklace](https://open.spotify.com/track/5ZgnPqNvtMFeLpahZUuLf3) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [El Loco](https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY) | 4:04 |
 | 37 | [Precious and Grace \(2005 Remaster\)](https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 3:09 |
 | 38 | [Balinese \(2005 Remaster\)](https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:36 |
 | 39 | [Viva Las Vegas \(2019 Remaster\)](https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Goin' 50](https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Lowdown in the Street](https://open.spotify.com/track/3sl0JX0AkvcfLMLlTnt9jJ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 2:49 |
 | 50 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
 
-Snapshot ID: `asLogAAAAADeV2pQeCHHVQPJU8AqprfS`
+Snapshot ID: `asbdAAAAAAC2bb2aOgmFfs6VES7F4zmI`

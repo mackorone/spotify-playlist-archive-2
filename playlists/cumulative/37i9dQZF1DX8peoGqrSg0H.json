@@ -443,6 +443,28 @@
     },
     {
       "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/7cZJQRTTktip0yQx3t8sSs"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        },
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155529,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/1waM1iX8oDT7PnR5Abr5IZ"
+    },
+    {
+      "album": {
         "name": "Bad Shawty",
         "url": "https://open.spotify.com/album/3OXNYJD05Ze2PBHOnUS1zA"
       },
@@ -6418,7 +6440,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 203825,
       "name": "\u0e01\u0e38\u0e0d\u0e41\u0e08\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c (Moonkey)",
       "url": "https://open.spotify.com/track/2oGqFbBPEhmIBsdfi3KOwl"

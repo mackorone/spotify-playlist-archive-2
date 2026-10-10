@@ -20449,6 +20449,28 @@
     },
     {
       "album": {
+        "name": "Sto Liknisma Sou",
+        "url": "https://open.spotify.com/album/6AFTdy6dDBn0UBHqbzdePd"
+      },
+      "artists": [
+        {
+          "name": "Nefeli Fasouli",
+          "url": "https://open.spotify.com/artist/0JygyrBVyE7APBHSMsxjtp"
+        },
+        {
+          "name": "Panos Papadopoulos",
+          "url": "https://open.spotify.com/artist/6g4RHd0tWK3g6sd0jcOnUM"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232616,
+      "name": "Sto Liknisma Sou",
+      "url": "https://open.spotify.com/track/0QYH7HTck1ERncYeCdWB95"
+    },
+    {
+      "album": {
         "name": "Stohos",
         "url": "https://open.spotify.com/album/1ybwL2H1oZ5odU8Achjkfk"
       },

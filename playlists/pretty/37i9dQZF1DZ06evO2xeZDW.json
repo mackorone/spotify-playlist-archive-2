@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18631,
+  "num_followers": 18632,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADEJPm23tTLxSBldWredkFj",
+  "snapshot_id": "asbdAAAAAAAtFe7KStyE4LtuC62/YjXA",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 374066,
-      "name": "Suite New Day - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/2IE9mgjkkk7Lfj9wgzz8MT"
+      "duration_ms": 156466,
+      "name": "Say Hero to My Little Friend - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/4CLeBGmCkGgLptLmO5r0ne"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Say Hero to My Little Friend - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/4CLeBGmCkGgLptLmO5r0ne"
+      "duration_ms": 374066,
+      "name": "Suite New Day - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/2IE9mgjkkk7Lfj9wgzz8MT"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+        "name": "Star Trek (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 244573,
-      "name": "Can't Fight City Halloween",
-      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
+      "duration_ms": 159653,
+      "name": "Enterprising Young Men",
+      "url": "https://open.spotify.com/track/0NGVyXhUkqE3MRN6TmSzuG"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Trek (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 159653,
-      "name": "Enterprising Young Men",
-      "url": "https://open.spotify.com/track/0NGVyXhUkqE3MRN6TmSzuG"
+      "duration_ms": 244573,
+      "name": "Can't Fight City Halloween",
+      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+        "name": "Star Trek Into Darkness (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 183733,
-      "name": "Catwoman",
-      "url": "https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si"
+      "duration_ms": 130613,
+      "name": "London Calling",
+      "url": "https://open.spotify.com/track/4JSmTtaYAmKcHhadidacFi"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
       "duration_ms": 212133,
       "name": "The Glory Days",
       "url": "https://open.spotify.com/track/59Djq0zGIu8HDZ8QXs2oiz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Catwoman",
+      "url": "https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si"
     },
     {
       "added_at": null,
@@ -607,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Trek (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 61160,
+      "name": "Star Trek",
+      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Batman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
@@ -619,22 +651,6 @@
       "duration_ms": 105746,
       "name": "Funeral and Far Between",
       "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Trek Into Darkness (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 130613,
-      "name": "London Calling",
-      "url": "https://open.spotify.com/track/4JSmTtaYAmKcHhadidacFi"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Trek (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 61160,
-      "name": "Star Trek",
-      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
@@ -683,26 +683,6 @@
       "duration_ms": 149760,
       "name": "The Imperial Suite",
       "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 55093,
-      "name": "Zootopening",
-      "url": "https://open.spotify.com/track/38cxPonZ8DehreKbDEGctW"
     },
     {
       "added_at": null,
@@ -739,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Incredibles (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 119280,
-      "name": "Off to Work",
-      "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Trek Into Darkness (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
       },
@@ -767,6 +731,42 @@
       "duration_ms": 144720,
       "name": "Sub Prime Directive",
       "url": "https://open.spotify.com/track/0vgkEeiULt4ow0B4zjKkfI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 55093,
+      "name": "Zootopening",
+      "url": "https://open.spotify.com/track/38cxPonZ8DehreKbDEGctW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 119280,
+      "name": "Off to Work",
+      "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
     },
     {
       "added_at": null,

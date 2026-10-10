@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,474 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,451 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 72 | [Used To Be](https://open.spotify.com/track/54L6mqCQlX9zKu62LDafiR) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Djomood](https://open.spotify.com/artist/7L8n726TCOKfUKF4bVOxsO) | [Used To Be](https://open.spotify.com/album/4OUivhe1yXMMFjA4KCbdyW) | 2:34 |
 | 73 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 |
 | 74 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 |
-| 75 | [Karibu](https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd) | 4:02 |
-| 76 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
+| 75 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
+| 76 | [Karibu](https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd) | 4:02 |
 | 77 | [Move On Up \(Mark Knight Remix\)](https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [Move On Up \(Mark Knight Remix\)](https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq) | 2:29 |
 | 78 | [Good Life \(Remastered\)](https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life \(Remastered\)](https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK) | 3:16 |
 | 79 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |

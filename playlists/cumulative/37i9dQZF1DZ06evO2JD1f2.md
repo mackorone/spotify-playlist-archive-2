@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-188 songs - 8 hr 19 min
+189 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [BRING IT BACK \(with EST Gee\)](https://open.spotify.com/track/6avqvDaNE05hHOSxISXbBW) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [HEAVY IS THE HEAD](https://open.spotify.com/album/5JiiyLyGI5LSP0N0bcu6wy) | 2:49 | 2022-11-12 | 2023-01-29 |
 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 | 2022-10-28 |  |
 | [CALL SPITTA](https://open.spotify.com/track/0PpZgdIh1NFUkxHBROLS5n) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CALL SPITTA](https://open.spotify.com/album/2OyxR9rPNGIXMHhq0L0i3a) | 2:25 | 2026-07-12 | 2026-08-08 |
-| [CALL SPITTA](https://open.spotify.com/track/6TSbyVtg9vgSiJEHct8wOF) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CALL SPITTA](https://open.spotify.com/album/4frPXwvy0rTi87gzlfBzt6) | 2:25 | 2026-08-08 |  |
+| [CALL SPITTA](https://open.spotify.com/track/6TSbyVtg9vgSiJEHct8wOF) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CALL SPITTA](https://open.spotify.com/album/4frPXwvy0rTi87gzlfBzt6) | 2:25 | 2026-08-08 | 2026-10-10 |
+| [CALL SPITTA](https://open.spotify.com/track/6pz0xCL2lbwxO8JXenfyyg) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BIGGER THAN THE DEVIL](https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE) | 2:25 | 2026-10-10 |  |
 | [Can't Be Fucked With](https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 1:46 | 2022-10-28 |  |
 | [Capitol 1](https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:21 | 2024-01-24 | 2025-10-16 |
 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 | 2022-10-28 |  |
@@ -124,7 +125,7 @@
 | [Plug Motivation](https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:08 | 2025-02-02 | 2026-01-26 |
 | [PRAY YOU DIE IN SURGERY](https://open.spotify.com/track/2AvNHy4uWeLEoCwBgQNDvS) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 3:19 | 2023-03-19 | 2024-10-03 |
 | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/album/0SO86DCFiwaTqchBpujace) | 3:12 | 2022-10-28 |  |
-| [RICH PROBLEMS](https://open.spotify.com/track/6rpwtMSVd51Uev03tDDvax) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BIGGER THAN THE DEVIL](https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE) | 2:06 | 2026-09-14 |  |
+| [RICH PROBLEMS](https://open.spotify.com/track/6rpwtMSVd51Uev03tDDvax) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BIGGER THAN THE DEVIL](https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE) | 2:06 | 2026-09-14 | 2026-10-10 |
 | [Right Now](https://open.spotify.com/track/0j7d0CqZOkGPwAYloJTz79) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:25 | 2025-02-02 | 2025-04-10 |
 | [RIP LU MIKE](https://open.spotify.com/track/03uziM8djjbeijRpcXKTEJ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [RIP LU MIKE](https://open.spotify.com/album/58sqfVSb7XhyNB91p4c4cE) | 2:48 | 2024-12-15 | 2025-01-11 |
 | [RIP LU MIKE](https://open.spotify.com/track/0vGUa6VvIh3enBdBQ8unAh) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [RIP LU MIKE](https://open.spotify.com/album/5dWIZDSMwpXnmo7h2I1l1s) | 2:48 | 2025-01-11 | 2025-02-07 |

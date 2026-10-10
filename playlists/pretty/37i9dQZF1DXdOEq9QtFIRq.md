@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOEq9QtFIRq.md) - [plain]
 
 > One of rock & metal's biggest festivals is almost here! Press play on  <a href="https://louderthanlifefestival.com/">Louder Than Life's</a> incredible lineup of artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,175 likes - 195 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,243 likes - 195 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOEq9QtFIRq.md) - [plain]
 | 106 | [When Everything Falls](https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV) | [Haste The Day](https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w) | [When Everything Falls](https://open.spotify.com/album/1XC7lsDtcACzGCujtTcGLp) | 4:11 |
 | 107 | [nail polish](https://open.spotify.com/track/5UtL2WBVPySPhiNsmrBbTv) | [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [nail polish](https://open.spotify.com/album/2LyLtyiyURMTqx0C4wFOE7) | 3:46 |
 | 108 | [Steel Spine](https://open.spotify.com/track/58HbBWCXjsG3BMqgvyL71R) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [The New Chaos](https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi) | 2:26 |
-| 109 | [Relax / Divide \(Explicit\)](https://open.spotify.com/track/5ILewgXP1xv1Ssyt9tc4TR) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Wake](https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB) | 3:18 |
+| 109 | [Relax / Divide](https://open.spotify.com/track/5ILewgXP1xv1Ssyt9tc4TR) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Wake](https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB) | 3:18 |
 | 110 | [Set It Off](https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 3:26 |
 | 111 | [Ten Thousand Feet](https://open.spotify.com/track/2B9b6f9fd4vSd3XYanioO5) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [New Demons](https://open.spotify.com/album/4LydF92UP78JzXPffb5HA8) | 5:44 |
 | 112 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |

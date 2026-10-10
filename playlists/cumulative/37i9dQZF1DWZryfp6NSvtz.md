@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: The Interrupters
 
-12,217 songs - 29 day 1 hr 33 min
+12,218 songs - 29 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8165,6 +8165,7 @@
 | [Politix](https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Politix](https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy) | 4:32 | 2025-08-22 | 2025-09-20 |
 | [politix](https://open.spotify.com/track/4hZYlamBpLerJCoFjJ6BBq) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [politix](https://open.spotify.com/album/3siWh7rJo3ncwWHq8SjnFq) | 2:45 | 2025-06-05 | 2025-06-28 |
 | [POMPEII STATUES](https://open.spotify.com/track/3AHlUiM2WCueDUqBrO5Oe2) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [LOWER](https://open.spotify.com/album/01UBvt33eTksshPiwljpBn) | 3:53 | 2025-01-24 | 2025-02-01 |
+| [Ponder Neek](https://open.spotify.com/track/3FQwEFzzf40iVo0xA6SjBb) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [Ponder Neek](https://open.spotify.com/album/0qoSNEhxEAQCgMg9p65AEq) | 2:35 | 2026-10-09 |  |
 | [Poor Advice](https://open.spotify.com/track/2TyulpJQppDMPYgUd9F8PO) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Poor Advice](https://open.spotify.com/album/3ThL2DprG4nlpYk1V10xxB) | 3:34 | 2026-10-09 |  |
 | [Pop Off!](https://open.spotify.com/track/6egCRoFoyITQsNDmZPzq1q) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Pop Off!](https://open.spotify.com/album/3tV7Af0i1nTxUZYcSUnjQf) | 3:08 | 2022-05-05 | 2022-05-13 |
 | [Pop Out](https://open.spotify.com/track/4tJP37H4IBwmajRzyzLiNc) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Pop Out](https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn) | 2:29 | 2025-03-07 | 2025-03-15 |

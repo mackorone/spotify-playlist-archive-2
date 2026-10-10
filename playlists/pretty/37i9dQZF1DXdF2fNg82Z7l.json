@@ -1,6 +1,6 @@
 {
   "description": "a strictly smooth mood...",
-  "num_followers": 207760,
+  "num_followers": 207743,
   "original_name": "Raw Silk ",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
-        "name": "Dreamin",
-        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 147146,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
-    },
-    {
-      "added_at": "2026-03-06 05:47:45",
-      "album": {
         "name": "Folded",
         "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
+    },
+    {
+      "added_at": "2026-03-06 05:47:45",
+      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -419,22 +419,6 @@
       "duration_ms": 168783,
       "name": "Location",
       "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf"
-    },
-    {
-      "added_at": "2026-08-20 14:00:43",
-      "album": {
-        "name": "HABIBTI",
-        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 178082,
-      "name": "WNBA",
-      "url": "https://open.spotify.com/track/6zZvy88xp6FIjJKhqwnJeQ"
     },
     {
       "added_at": "2026-03-06 05:47:45",
@@ -451,6 +435,22 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "added_at": "2026-08-20 14:00:43",
+      "album": {
+        "name": "HABIBTI",
+        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 178082,
+      "name": "WNBA",
+      "url": "https://open.spotify.com/track/6zZvy88xp6FIjJKhqwnJeQ"
     },
     {
       "added_at": "2026-03-06 05:47:45",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 278277,
-      "name": "30 For 30 (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
-    },
-    {
-      "added_at": "2026-03-06 05:47:45",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -551,6 +531,26 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "added_at": "2026-03-06 05:47:45",
+      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2026-03-06 05:47:45",
+      "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2026-03-06 05:47:45",
@@ -583,22 +599,6 @@
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
-    },
-    {
-      "added_at": "2026-03-06 05:47:45",
-      "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2026-08-20 14:00:43",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd"
     },
     {
-      "added_at": "2026-08-20 14:00:43",
-      "album": {
-        "name": "Crash Out",
-        "url": "https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 190894,
-      "name": "Crash Out",
-      "url": "https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM"
-    },
-    {
       "added_at": "2026-03-06 05:47:45",
       "album": {
         "name": "Alfredo 2",
@@ -821,6 +805,22 @@
       "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
     },
     {
+      "added_at": "2026-08-20 14:00:43",
+      "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 190894,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM"
+    },
+    {
       "added_at": "2026-03-06 05:47:45",
       "album": {
         "name": "Late Nights: The Album",
@@ -839,22 +839,6 @@
       "duration_ms": 245520,
       "name": "Impatient",
       "url": "https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ"
-    },
-    {
-      "added_at": "2026-06-11 14:00:36",
-      "album": {
-        "name": "Drop The Lo",
-        "url": "https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161470,
-      "name": "Drop The Lo",
-      "url": "https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh"
     },
     {
       "added_at": "2026-08-27 20:00:12",
@@ -879,6 +863,22 @@
       "duration_ms": 167666,
       "name": "How To Pray",
       "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
+    },
+    {
+      "added_at": "2026-06-11 14:00:36",
+      "album": {
+        "name": "Drop The Lo",
+        "url": "https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 161470,
+      "name": "Drop The Lo",
+      "url": "https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh"
     },
     {
       "added_at": "2026-06-11 14:00:36",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
-      "added_at": "2026-03-06 05:47:45",
-      "album": {
         "name": "MUTT (CB REMIX)",
         "url": "https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 199786,
       "name": "MUTT (feat. Chris Brown) [CB REMIX]",
       "url": "https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv"
+    },
+    {
+      "added_at": "2026-03-06 05:47:45",
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2026-03-06 05:47:45",
@@ -1219,42 +1219,6 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
-      "added_at": "2026-08-20 14:00:43",
-      "album": {
-        "name": "MORNING DEW (DONK) REMIX PACK",
-        "url": "https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 217215,
-      "name": "MORNING DEW (DONK) REMIX FEAT JA\u0178-Z",
-      "url": "https://open.spotify.com/track/5sTOQbZvUnrX7lFfLRmpFw"
-    },
-    {
-      "added_at": "2026-03-06 05:47:45",
-      "album": {
         "name": "The Celestial Suite",
         "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
       },
@@ -1285,6 +1249,42 @@
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
+      "added_at": "2026-08-20 14:00:43",
+      "album": {
+        "name": "MORNING DEW (DONK) REMIX PACK",
+        "url": "https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 217215,
+      "name": "MORNING DEW (DONK) REMIX FEAT JA\u0178-Z",
+      "url": "https://open.spotify.com/track/5sTOQbZvUnrX7lFfLRmpFw"
+    },
+    {
+      "added_at": "2026-03-06 05:47:45",
+      "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
       "added_at": "2026-03-06 05:47:45",
       "album": {
         "name": "Love Me JeJe",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
         }
       ],
-      "duration_ms": 163481,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2026-03-06 05:47:45",

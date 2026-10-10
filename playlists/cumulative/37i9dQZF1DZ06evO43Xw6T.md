@@ -4,7 +4,7 @@
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-157 songs - 7 hr 58 min
+158 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [A Puro Dolor](https://open.spotify.com/track/64bkq8hlgf0zTtBxQvXIrn) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:48 | 2025-01-20 |  |
 | [Abeja Reina](https://open.spotify.com/track/7C0xpS2Dt5pRVPmGjaZout) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:53 | 2024-01-29 | 2024-05-26 |
 | [AFTERLIFE](https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AFTERLIFE](https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC) | 2:48 | 2025-12-11 | 2026-04-08 |
-| [Amarre](https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Amarre](https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14) | 2:59 | 2025-08-31 |  |
+| [Amarre](https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Amarre](https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14) | 2:59 | 2025-08-31 | 2026-10-10 |
+| [Amarre](https://open.spotify.com/track/5kzNCgtaEUUHt61LoSWpkC) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 2:59 | 2026-10-10 |  |
 | [AMG](https://open.spotify.com/track/0FxtC8uFapbpDBliAU3sd6) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:54 | 2024-05-26 |  |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2024-01-29 | 2025-12-08 |
 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 | 2024-01-29 | 2025-02-23 |

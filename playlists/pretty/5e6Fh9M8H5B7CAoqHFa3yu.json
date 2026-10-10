@@ -1,37 +1,13 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 358,
+  "num_followers": 357,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALtLoOQuzGIsHoMLcqvbA9sDniNeGT",
+  "snapshot_id": "AAALuFB1JEzBE7LqRc7liTBgSRThCXjS",
   "tracks": [
-    {
-      "added_at": "2026-09-20 13:23:29",
-      "album": {
-        "name": "Sweet Lullabies",
-        "url": "https://open.spotify.com/album/2pSGR0hbEJ3NU6PDcGoRIH"
-      },
-      "artists": [
-        {
-          "name": "Sw33t Tea",
-          "url": "https://open.spotify.com/artist/0VIRme1Ou51Ja9BKAbXRIj"
-        },
-        {
-          "name": "Brandon Wolf Hill",
-          "url": "https://open.spotify.com/artist/7EYYR9anlJRktScur5Jbsd"
-        },
-        {
-          "name": "Sam Spah",
-          "url": "https://open.spotify.com/artist/27K6xUNvwRtArV6AvngeVC"
-        }
-      ],
-      "duration_ms": 158440,
-      "name": "Sweet Lullabies",
-      "url": "https://open.spotify.com/track/4UR50vuN8TOdyXGguSUUgy"
-    },
     {
       "added_at": "2022-08-16 09:32:19",
       "album": {
@@ -46363,6 +46339,98 @@
       "duration_ms": 193095,
       "name": "KIMBIA FREE",
       "url": "https://open.spotify.com/track/4Oq3UwrfcyOYqCj8TFv1H6"
+    },
+    {
+      "added_at": "2026-10-09 07:26:23",
+      "album": {
+        "name": "Let The Sky",
+        "url": "https://open.spotify.com/album/1u1MDV1JJvZ1vsqnNctOmk"
+      },
+      "artists": [
+        {
+          "name": "Big Reunion",
+          "url": "https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls"
+        }
+      ],
+      "duration_ms": 133080,
+      "name": "Let The Sky - Radio Edit",
+      "url": "https://open.spotify.com/track/4K4Z2DcBrWrCeEXRYKGb8h"
+    },
+    {
+      "added_at": "2026-10-09 09:42:13",
+      "album": {
+        "name": "Colombian Landscapes",
+        "url": "https://open.spotify.com/album/7I3zRLDboF5ZILrNA9rims"
+      },
+      "artists": [
+        {
+          "name": "Dub Idren",
+          "url": "https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed"
+        },
+        {
+          "name": "Zoonra",
+          "url": "https://open.spotify.com/artist/4QOkHLv4zUND1r3PC0TLVh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "First Lights Of The Day",
+      "url": "https://open.spotify.com/track/6KlUajigsUhm6Lqfy06HfD"
+    },
+    {
+      "added_at": "2026-10-09 09:42:13",
+      "album": {
+        "name": "Colombian Landscapes",
+        "url": "https://open.spotify.com/album/7I3zRLDboF5ZILrNA9rims"
+      },
+      "artists": [
+        {
+          "name": "Dub Idren",
+          "url": "https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed"
+        },
+        {
+          "name": "Zoonra",
+          "url": "https://open.spotify.com/artist/4QOkHLv4zUND1r3PC0TLVh"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Espiritual Dub",
+      "url": "https://open.spotify.com/track/4LSJQ9VtyMb2Io6JMDVDxN"
+    },
+    {
+      "added_at": "2026-10-09 09:42:13",
+      "album": {
+        "name": "Colombian Landscapes",
+        "url": "https://open.spotify.com/album/7I3zRLDboF5ZILrNA9rims"
+      },
+      "artists": [
+        {
+          "name": "Dub Idren",
+          "url": "https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed"
+        },
+        {
+          "name": "Zoonra",
+          "url": "https://open.spotify.com/artist/4QOkHLv4zUND1r3PC0TLVh"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Colombian Landscapes",
+      "url": "https://open.spotify.com/track/55xy6AmYZKo3aEF7xwol5g"
+    },
+    {
+      "added_at": "2026-10-09 22:44:11",
+      "album": {
+        "name": "Let The Sky",
+        "url": "https://open.spotify.com/album/1u1MDV1JJvZ1vsqnNctOmk"
+      },
+      "artists": [
+        {
+          "name": "Big Reunion",
+          "url": "https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Let The Sky - Extended Mix",
+      "url": "https://open.spotify.com/track/51lsgNmxCynPK7nn4sk9zp"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

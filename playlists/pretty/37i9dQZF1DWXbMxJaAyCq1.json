@@ -1,6 +1,6 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Kybba, Ryan Castro, Busy Signal",
-  "num_followers": 1966,
+  "num_followers": 2030,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,30 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
+        "name": "MIRAME REMIX",
+        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "MIRAME REMIX",
+      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
         "name": "ETA (RMX)",
         "url": "https://open.spotify.com/album/3gRImh7Qfr9rspysznv2Jr"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/6ir1I4ZtHzJfdV8TjIbLEY"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
-        "name": "MIRAME REMIX",
-        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "MIRAME REMIX",
-      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1367,6 +1367,34 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
+        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
+        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
+      },
+      "artists": [
+        {
+          "name": "BANDIDO",
+          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 280274,
+      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
+      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -1395,34 +1423,6 @@
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
-        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
-        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
-      },
-      "artists": [
-        {
-          "name": "BANDIDO",
-          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 280274,
-      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
-      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1711,42 +1711,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Bellaquita (Remix)",
-        "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 304733,
-      "name": "Bellaquita - Remix",
-      "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "Travesuras (Remix)",
         "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
       },
@@ -1779,6 +1743,42 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Bellaquita (Remix)",
+        "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 304733,
+      "name": "Bellaquita - Remix",
+      "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1839,6 +1839,30 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
+        "name": "Diosa (Remix)",
+        "url": "https://open.spotify.com/album/4UgYvPP8XhEXbr8ZpZI6em"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 259242,
+      "name": "Diosa - Remix",
+      "url": "https://open.spotify.com/track/1kIWef5hc2uAqkNxOTakzP"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
         "name": "No Te Quieren Conmigo (Remix) (Gaby Music, Anuel AA, Luar LA L)",
         "url": "https://open.spotify.com/album/1x93pMZOGUQpYudoU2h40Z"
       },
@@ -1867,30 +1891,6 @@
       "duration_ms": 328226,
       "name": "No Te Quieren Conmigo - Remix",
       "url": "https://open.spotify.com/track/3XhOu0IolGPGcz6VbxEQSk"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
-        "name": "Diosa (Remix)",
-        "url": "https://open.spotify.com/album/4UgYvPP8XhEXbr8ZpZI6em"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 259242,
-      "name": "Diosa - Remix",
-      "url": "https://open.spotify.com/track/1kIWef5hc2uAqkNxOTakzP"
     },
     {
       "added_at": "2025-07-31 00:00:34",

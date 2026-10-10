@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: LIA LIA",
-  "num_followers": 51516,
+  "num_followers": 51626,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
+        "name": "Fous!",
+        "url": "https://open.spotify.com/album/7r9AubIxGLReZWAyNYExck"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 126136,
+      "name": "Fous!",
+      "url": "https://open.spotify.com/track/5TjBYNNSQD5djlxGOwilDo"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
         "name": "Der einzige Ort",
         "url": "https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 88506,
       "name": "hot girl",
       "url": "https://open.spotify.com/track/52nPmTmfUBQGqjWAtzsW52"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
-        "name": "Fous!",
-        "url": "https://open.spotify.com/album/7r9AubIxGLReZWAyNYExck"
-      },
-      "artists": [
-        {
-          "name": "SOFFIE",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 126136,
-      "name": "Fous!",
-      "url": "https://open.spotify.com/track/5TjBYNNSQD5djlxGOwilDo"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Leiser",
-        "url": "https://open.spotify.com/album/70xvlvuhKUmzJoFxNjt0yY"
-      },
-      "artists": [
-        {
-          "name": "LIYO",
-          "url": "https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk"
-        }
-      ],
-      "duration_ms": 180419,
-      "name": "Leiser",
-      "url": "https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "Enter Ecstasy",
         "url": "https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "H\u00fcbsche M\u00e4nner",
-        "url": "https://open.spotify.com/album/6WW83esKtgVmttusi4AVpG"
+        "name": "Leiser",
+        "url": "https://open.spotify.com/album/70xvlvuhKUmzJoFxNjt0yY"
       },
       "artists": [
         {
-          "name": "Mariybu",
-          "url": "https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG"
+          "name": "LIYO",
+          "url": "https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk"
         }
       ],
-      "duration_ms": 108145,
-      "name": "H\u00fcbsche M\u00e4nner",
-      "url": "https://open.spotify.com/track/1ceWR2v9LDAu2KmEEo9Eob"
+      "duration_ms": 180419,
+      "name": "Leiser",
+      "url": "https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -343,6 +327,22 @@
       "duration_ms": 143130,
       "name": "Fotzeigemutter",
       "url": "https://open.spotify.com/track/3EetiB98Gm5t8Lq6jlYtYU"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "H\u00fcbsche M\u00e4nner",
+        "url": "https://open.spotify.com/album/6WW83esKtgVmttusi4AVpG"
+      },
+      "artists": [
+        {
+          "name": "Mariybu",
+          "url": "https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG"
+        }
+      ],
+      "duration_ms": 108145,
+      "name": "H\u00fcbsche M\u00e4nner",
+      "url": "https://open.spotify.com/track/1ceWR2v9LDAu2KmEEo9Eob"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Ich und Ich Selbst",
-        "url": "https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace"
-      },
-      "artists": [
-        {
-          "name": "Malina",
-          "url": "https://open.spotify.com/artist/0hRqnbeTBvO22nkNeVVuGF"
-        }
-      ],
-      "duration_ms": 156050,
-      "name": "Ich und Ich Selbst",
-      "url": "https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/1f1cgIxZCWi855mvJUDkcv"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 193980,
       "name": "New Era",
       "url": "https://open.spotify.com/track/0sF1TJMDGYxKvu9pp1JQkQ"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Ich und Ich Selbst",
+        "url": "https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace"
+      },
+      "artists": [
+        {
+          "name": "Malina",
+          "url": "https://open.spotify.com/artist/0hRqnbeTBvO22nkNeVVuGF"
+        }
+      ],
+      "duration_ms": 156050,
+      "name": "Ich und Ich Selbst",
+      "url": "https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/02Gp8gQ0QBXh6Fa2BVCosy"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3xsZ4lrQu8mzzFy6sv50aS"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
         "name": "Typologie eines Lebens",
         "url": "https://open.spotify.com/album/03TXUJcq5aC52Eusx5g6VB"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 181546,
       "name": "Neues Leben",
       "url": "https://open.spotify.com/track/0ur7C1YPpvtcrUMTQD9Zq5"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/02Gp8gQ0QBXh6Fa2BVCosy"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 157025,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3xsZ4lrQu8mzzFy6sv50aS"
     },
     {
       "added_at": "2026-10-07 22:00:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,136 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,138 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 9 | [Somewhere over the Rainbow](https://open.spotify.com/track/5TFRWQT4v6LVQluDYoIcpe) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Ameriqué: The American Songbook](https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY) | 2:43 |
 | 10 | [The Electrical Life of Louis Wain](https://open.spotify.com/track/3OIr1z2lkcHFukhBUJlYsl) | [Arthur Sharpe](https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H) | [The Electrical Life of Louis Wain \(Original Motional Picture Soundtrack\)](https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH) | 2:56 |
 | 11 | [Oakunar Lynntuja \(Strange Birds\)](https://open.spotify.com/track/7ns1CAe4jXKSlJ0lz5AZsr) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [American Contemporary Music Ensemble](https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO) | [Fantasias for Theremin and String Quartet](https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF) | 3:36 |
-| 12 | [Overture \(Reprise\)](https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:15 |
-| 13 | [Berlin Ghost Opera](https://open.spotify.com/track/707014S3juTp8VeyuI5t2C) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:07 |
+| 12 | [Berlin Ghost Opera](https://open.spotify.com/track/707014S3juTp8VeyuI5t2C) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:07 |
+| 13 | [Overture \(Reprise\)](https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:15 |
 | 14 | [O Mio Babbino Caro](https://open.spotify.com/track/2yIjx5dyMvHv7l4VpxpAcI) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Discmorphia](https://open.spotify.com/album/1ba187ocIN64czJt2OD5li) | 4:04 |
 | 15 | [O Cease Thy Singing, Maiden Fair, Op\. 4: No\. 4](https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Erick Friedman](https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 4:57 |
 | 16 | [Cantilena No\. 3 \(Arr\. for Theremin, Cello Quartet and Double Bass\)](https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Rebekka Markowski](https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc), [Roman Eyck](https://open.spotify.com/artist/7rZPR5skCsBsl5FaKqdX5s) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 3:10 |

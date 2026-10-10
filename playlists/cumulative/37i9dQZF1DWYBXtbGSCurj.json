@@ -34265,6 +34265,32 @@
     },
     {
       "album": {
+        "name": "ODEIO SHOW PARADO",
+        "url": "https://open.spotify.com/album/3cYT0k8gOTEpLGX6lkh2sg"
+      },
+      "artists": [
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        },
+        {
+          "name": "Thalin",
+          "url": "https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd"
+        },
+        {
+          "name": "MKULTRA",
+          "url": "https://open.spotify.com/artist/62q4VhTETdekmQYoyws6Dl"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199793,
+      "name": "ODEIO SHOW PARADO",
+      "url": "https://open.spotify.com/track/2nv5UkE1FoFrqwwO1DY7PH"
+    },
+    {
+      "album": {
         "name": "Odisseia",
         "url": "https://open.spotify.com/album/7boBqgtZPsVLsh2JUIMoyT"
       },

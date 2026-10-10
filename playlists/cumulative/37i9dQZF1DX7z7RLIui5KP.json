@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Genes1s",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Wendy Kimani",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -94,6 +94,28 @@
       "duration_ms": 223000,
       "name": "Ahere",
       "url": "https://open.spotify.com/track/0Ffyk7vaTAxKIgLMmwRcMq"
+    },
+    {
+      "album": {
+        "name": "AIBU",
+        "url": "https://open.spotify.com/album/7vHRpS2xbDkXPfAoycorKG"
+      },
+      "artists": [
+        {
+          "name": "Wendy Kimani",
+          "url": "https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT"
+        },
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220909,
+      "name": "AIBU",
+      "url": "https://open.spotify.com/track/0F4cIQyKeExJYLMrOk8OVT"
     },
     {
       "album": {
@@ -1220,7 +1242,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 162000,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/1FlYF71tkG6UeMSPPBgiVQ"
@@ -2425,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Okay",
+        "url": "https://open.spotify.com/album/4FRm1vre15Rj6NwZnf9qmj"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199591,
+      "name": "I'll Be Okay",
+      "url": "https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW"
+    },
+    {
+      "album": {
         "name": "Ilomba",
         "url": "https://open.spotify.com/album/4kE7lbafVfIw6sE1jROXQK"
       },
@@ -2466,6 +2506,28 @@
       "duration_ms": 324000,
       "name": "Ilomba",
       "url": "https://open.spotify.com/track/7AgSNKgxbZng5O3YbvlsFc"
+    },
+    {
+      "album": {
+        "name": "Ipepete (Remix)",
+        "url": "https://open.spotify.com/album/0WgLX4lp76pRihbWRnKIIs"
+      },
+      "artists": [
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        },
+        {
+          "name": "Iyanii",
+          "url": "https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Ipepete - Remix",
+      "url": "https://open.spotify.com/track/7wrfhwbOVqlzMUvl8Us5uu"
     },
     {
       "album": {
@@ -3497,6 +3559,28 @@
     },
     {
       "album": {
+        "name": "Mariwana",
+        "url": "https://open.spotify.com/album/3FZfBxvfWuGrCDdMtSpHvU"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192972,
+      "name": "Mariwana",
+      "url": "https://open.spotify.com/track/7JMCJErV8qBEuBCLtEbnE6"
+    },
+    {
+      "album": {
         "name": "Massage",
         "url": "https://open.spotify.com/album/2WKXzYoy2LgVc0IKi1wwxR"
       },
@@ -3596,6 +3680,24 @@
       "duration_ms": 407288,
       "name": "Mei Muche",
       "url": "https://open.spotify.com/track/6GuPCJcIpuRoiPHzYoWsxE"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/4xxcNupkxrbjbHFcjFosrN"
+      },
+      "artists": [
+        {
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/7tFWfxjtb0Rk2FYgTASHgL"
     },
     {
       "album": {
@@ -3982,7 +4084,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 210000,
       "name": "NaEnjoy",
       "url": "https://open.spotify.com/track/5HYDoscfBYwQhLxkMY2dXs"
@@ -4308,7 +4410,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 204000,
       "name": "Ni Sisi Tuliowachagua",
       "url": "https://open.spotify.com/track/3q8ilRtjOS0mLYCWkDR98K"
@@ -4392,6 +4494,28 @@
       "duration_ms": 240106,
       "name": "Nimeonja",
       "url": "https://open.spotify.com/track/6wilhQg99EaCpF1UDRFcX0"
+    },
+    {
+      "album": {
+        "name": "Give Me Love",
+        "url": "https://open.spotify.com/album/5z58ZjN8fl5hrLtKvyF8E1"
+      },
+      "artists": [
+        {
+          "name": "Partraw KE",
+          "url": "https://open.spotify.com/artist/4jUS1tyLx7c6zgT5dlCMtw"
+        },
+        {
+          "name": "Lisa Oduor Noah",
+          "url": "https://open.spotify.com/artist/4TvajrZD4cJdAx2jO4yO5e"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411428,
+      "name": "Nini Ni Kupe",
+      "url": "https://open.spotify.com/track/5OwlkTKMueq8wsW70upS6m"
     },
     {
       "album": {
@@ -4746,7 +4870,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 210619,
       "name": "One By One",
       "url": "https://open.spotify.com/track/1WBhqy3hTte6U9tAo5qe3N"
@@ -5028,7 +5152,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 172580,
       "name": "Pole Pole",
       "url": "https://open.spotify.com/track/5e8vMUSUiMuM7QmsEE6roD"
@@ -6546,7 +6670,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 192579,
       "name": "Unanipa",
       "url": "https://open.spotify.com/track/263NrbGTVJI5draas4VOnY"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADNsU7CXP11h0gtLxRX1mow",
+  "snapshot_id": "asbdAAAAAABMV9TL+VWk0TrJUMaNAl/t",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u00f1ana Dios Dir\u00e1",
-        "url": "https://open.spotify.com/album/14N6OcoSlMHWsSI8Txg12H"
+        "name": "LUCES ROJAS",
+        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
       },
       "artists": [
-        {
-          "name": "Ayudantes del Rancho",
-          "url": "https://open.spotify.com/artist/5Mps52nzzy3mXMFzzai1JM"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 129692,
-      "name": "Ma\u00f1ana Dios Dir\u00e1",
-      "url": "https://open.spotify.com/track/3qhRSwff1wlO9Ihd95tYP9"
+      "duration_ms": 174089,
+      "name": "LUCES ROJAS",
+      "url": "https://open.spotify.com/track/32VUH1c2xPjccfAEM8VwtP"
     },
     {
       "added_at": null,
@@ -235,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUCES ROJAS",
-        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+        "name": "Ma\u00f1ana Dios Dir\u00e1",
+        "url": "https://open.spotify.com/album/14N6OcoSlMHWsSI8Txg12H"
       },
       "artists": [
+        {
+          "name": "Ayudantes del Rancho",
+          "url": "https://open.spotify.com/artist/5Mps52nzzy3mXMFzzai1JM"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 174089,
-      "name": "LUCES ROJAS",
-      "url": "https://open.spotify.com/track/32VUH1c2xPjccfAEM8VwtP"
+      "duration_ms": 129692,
+      "name": "Ma\u00f1ana Dios Dir\u00e1",
+      "url": "https://open.spotify.com/track/3qhRSwff1wlO9Ihd95tYP9"
     },
     {
       "added_at": null,
@@ -411,30 +411,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os De La Calle (Vol. 1)",
-        "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
+        "name": "El Lunar",
+        "url": "https://open.spotify.com/album/5D6JdOEKLfQNWSu4xBI1hK"
       },
       "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+          "name": "C\u00f3dice",
+          "url": "https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ"
         },
         {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+          "name": "Voces Del Rancho",
+          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
         }
       ],
-      "duration_ms": 143189,
-      "name": "Sue\u00f1os De La Calle: Sue\u00f1os De La Calle",
-      "url": "https://open.spotify.com/track/0UFOcVbGpZw4Xl58wJoDZ9"
+      "duration_ms": 257655,
+      "name": "El Lunar",
+      "url": "https://open.spotify.com/track/5bQO212Zuy5C0dZetIB6BB"
     },
     {
       "added_at": null,
@@ -491,26 +487,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Lunar",
-        "url": "https://open.spotify.com/album/5D6JdOEKLfQNWSu4xBI1hK"
+        "name": "Sue\u00f1os De La Calle (Vol. 1)",
+        "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
       },
       "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "C\u00f3dice",
-          "url": "https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ"
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
         },
         {
-          "name": "Voces Del Rancho",
-          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         }
       ],
-      "duration_ms": 257655,
-      "name": "El Lunar",
-      "url": "https://open.spotify.com/track/5bQO212Zuy5C0dZetIB6BB"
+      "duration_ms": 143189,
+      "name": "Sue\u00f1os De La Calle: Sue\u00f1os De La Calle",
+      "url": "https://open.spotify.com/track/0UFOcVbGpZw4Xl58wJoDZ9"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 286032,
+      "name": "El Caballero (Live)",
+      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sue\u00f1os De La Calle (Vol. 1)",
         "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 183502,
       "name": "Sue\u00f1os De La Calle: La Del Proceso",
       "url": "https://open.spotify.com/track/7D3u7IOnBWocHCzcOtvTv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 286032,
-      "name": "El Caballero (Live)",
-      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Viene la Subida",
-        "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 255923,
-      "name": "Hora de Abordar",
-      "url": "https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Ranchito (En Vivo)",
         "url": "https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 281840,
       "name": "Mi Ranchito (En Vivo)",
       "url": "https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ah\u00ed Viene la Subida",
+        "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 255923,
+      "name": "Hora de Abordar",
+      "url": "https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Lilo Bermudez",
+          "url": "https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa"
+        }
+      ],
+      "duration_ms": 218623,
+      "name": "VENGO A VER UNOS OJOS - En Vivo",
+      "url": "https://open.spotify.com/track/6IoSW6YT3ZUuO1H9ofvoVU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LVR",
         "url": "https://open.spotify.com/album/55eQK3OCkiOuEWyKczz1xQ"
       },
@@ -791,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+        "name": "CATALOGADO",
+        "url": "https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB"
       },
       "artists": [
         {
@@ -800,13 +820,29 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Lilo Bermudez",
-          "url": "https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa"
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
         }
       ],
-      "duration_ms": 218623,
-      "name": "VENGO A VER UNOS OJOS - En Vivo",
-      "url": "https://open.spotify.com/track/6IoSW6YT3ZUuO1H9ofvoVU"
+      "duration_ms": 127481,
+      "name": "CATALOGADO",
+      "url": "https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUCES ROJAS",
+        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 192209,
+      "name": "HARLEY DAVIDSON",
+      "url": "https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP"
     },
     {
       "added_at": null,
@@ -831,42 +867,6 @@
       "duration_ms": 133309,
       "name": "Cupido Loco",
       "url": "https://open.spotify.com/track/4a1J8YDX879u2KNNvXT7HW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUCES ROJAS",
-        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 192209,
-      "name": "HARLEY DAVIDSON",
-      "url": "https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CATALOGADO",
-        "url": "https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
-        }
-      ],
-      "duration_ms": 127481,
-      "name": "CATALOGADO",
-      "url": "https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM"
     },
     {
       "added_at": null,

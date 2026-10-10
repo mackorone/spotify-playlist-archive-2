@@ -1,12 +1,12 @@
 {
   "description": "The sound of the underground. Cover: Overgrown",
-  "num_followers": 487799,
+  "num_followers": 487715,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJaqgAQQglHOhnImXwvBn9TzWVi0",
+  "snapshot_id": "AAAAAF2WlSgnVl17O9hAXrt0pDEZ8R1Y",
   "tracks": [
     {
       "added_at": "2026-10-09 00:00:15",
@@ -93,6 +93,38 @@
       "url": "https://open.spotify.com/track/6n6Do5uW0RcMXFHkPX6oqm"
     },
     {
+      "added_at": "2026-10-09 08:07:07",
+      "album": {
+        "name": "At Work In The Fields Of The Bomb",
+        "url": "https://open.spotify.com/album/7tIVbLtTqWrlTnoPiLLA1R"
+      },
+      "artists": [
+        {
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+        }
+      ],
+      "duration_ms": 436850,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0"
+    },
+    {
+      "added_at": "2026-10-09 00:00:15",
+      "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/2lMWLzBdhNZ6asnZRLsitT"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 226796,
+      "name": "The Sword That Never Bends",
+      "url": "https://open.spotify.com/track/7mBYmdiG36atwh62cCUAIn"
+    },
+    {
       "added_at": "2026-10-09 00:00:15",
       "album": {
         "name": "Absolute Onslaught",
@@ -111,22 +143,6 @@
       "duration_ms": 258853,
       "name": "Absolute Onslaught",
       "url": "https://open.spotify.com/track/7JVhRqijN2r77tsNaHDMhL"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/2lMWLzBdhNZ6asnZRLsitT"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 226796,
-      "name": "The Sword That Never Bends",
-      "url": "https://open.spotify.com/track/7mBYmdiG36atwh62cCUAIn"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -643,6 +659,22 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
+        "name": "An Ending In Itself",
+        "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 181018,
+      "name": "House Of Matches",
+      "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
+    },
+    {
+      "added_at": "2026-10-09 00:00:15",
+      "album": {
         "name": "b2tm \u25cb",
         "url": "https://open.spotify.com/album/2wu9Oj5NnvVvqCuvsSICEM"
       },
@@ -659,22 +691,6 @@
       "duration_ms": 226341,
       "name": "b2tm \u25cb",
       "url": "https://open.spotify.com/track/1iXJOdAkkH0afXnhkI2d6N"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
-        "name": "An Ending In Itself",
-        "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 181018,
-      "name": "House Of Matches",
-      "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -775,22 +791,6 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/1ajCrm0hlOeWhH6nmGM7FK"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/1aGYzwZLYK0Bb4GyUZC5k8"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
         "name": "Bang Bang Bang",
         "url": "https://open.spotify.com/album/2OQAMmezHYf03fpDoJngrN"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 198118,
       "name": "Song Of The Swamp",
       "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
+    },
+    {
+      "added_at": "2026-10-09 00:00:15",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/1ajCrm0hlOeWhH6nmGM7FK"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/1aGYzwZLYK0Bb4GyUZC5k8"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -887,22 +903,6 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5ALmIZchDuwnbsOAbmhADv"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
         "name": "Nerv(e)",
         "url": "https://open.spotify.com/album/4PTPoytSPlZZSwWTlXwFLF"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 159000,
       "name": "Nerv(e)",
       "url": "https://open.spotify.com/track/37SHR6iwSXTQ6zPtQluxDD"
+    },
+    {
+      "added_at": "2026-10-09 00:00:15",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5ALmIZchDuwnbsOAbmhADv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -951,6 +967,22 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
+        "name": "Last One Here",
+        "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
+      },
+      "artists": [
+        {
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Last One Here",
+      "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
+    },
+    {
+      "added_at": "2026-10-09 00:00:15",
+      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
       },
@@ -963,22 +995,6 @@
       "duration_ms": 208615,
       "name": "Far",
       "url": "https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -999,18 +1015,18 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
-        "name": "Last One Here",
-        "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
       },
       "artists": [
         {
-          "name": "Rev3rent",
-          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Last One Here",
-      "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
+      "duration_ms": 215384,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 188062,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
         "name": "\u2060Lucid Love",
         "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 245148,
       "name": "Without You",
       "url": "https://open.spotify.com/track/70ylRIQ5Hkz8CUPd0gfnLi"
+    },
+    {
+      "added_at": "2026-10-09 00:00:15",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -1143,6 +1159,30 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
+        "name": "Growing Different Limbs",
+        "url": "https://open.spotify.com/album/7i41p72B1O46TVAit3eZB0"
+      },
+      "artists": [
+        {
+          "name": "Lady Radiator",
+          "url": "https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov"
+        },
+        {
+          "name": "Donovan Melero",
+          "url": "https://open.spotify.com/artist/6Q3ralMRVqEqQKwnML65w4"
+        },
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "duration_ms": 200287,
+      "name": "Growing Different Limbs",
+      "url": "https://open.spotify.com/track/2Kh9Wt5b0rMjTfX0JSARGA"
+    },
+    {
+      "added_at": "2026-10-09 00:00:15",
+      "album": {
         "name": "Pure Ecstasy",
         "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
       },
@@ -1187,30 +1227,6 @@
       "duration_ms": 205636,
       "name": "Cry",
       "url": "https://open.spotify.com/track/4Ps8tS8Npo0426o7w3zN3i"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
-        "name": "Growing Different Limbs",
-        "url": "https://open.spotify.com/album/7i41p72B1O46TVAit3eZB0"
-      },
-      "artists": [
-        {
-          "name": "Lady Radiator",
-          "url": "https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov"
-        },
-        {
-          "name": "Donovan Melero",
-          "url": "https://open.spotify.com/artist/6Q3ralMRVqEqQKwnML65w4"
-        },
-        {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
-        }
-      ],
-      "duration_ms": 200287,
-      "name": "Growing Different Limbs",
-      "url": "https://open.spotify.com/track/2Kh9Wt5b0rMjTfX0JSARGA"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 223941,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 194693,
       "name": "Your Name In Red Ink",
       "url": "https://open.spotify.com/track/2Wuq5insP2K1DiQZrfGhGn"
+    },
+    {
+      "added_at": "2026-10-09 00:00:15",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 223941,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
-        "name": "Chosen Hell",
-        "url": "https://open.spotify.com/album/5Rf79vAFPsJgSqmZnxWHV7"
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
       },
       "artists": [
         {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 158413,
-      "name": "Chosen Hell",
-      "url": "https://open.spotify.com/track/2KpZs2PLyA2ZA3Rea2SqzJ"
+      "duration_ms": 245350,
+      "name": "St. Catherine's Wheel",
+      "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
-        "name": "Into Oblivion",
-        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
+        "name": "Chosen Hell",
+        "url": "https://open.spotify.com/album/5Rf79vAFPsJgSqmZnxWHV7"
       },
       "artists": [
         {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
         }
       ],
-      "duration_ms": 245350,
-      "name": "St. Catherine's Wheel",
-      "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
+      "duration_ms": 158413,
+      "name": "Chosen Hell",
+      "url": "https://open.spotify.com/track/2KpZs2PLyA2ZA3Rea2SqzJ"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -1479,6 +1495,22 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
+        "name": "friends",
+        "url": "https://open.spotify.com/album/6VL4apqN4gqucDL8RvsVEs"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "duration_ms": 222331,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/5zjKlYgbGLwulwd3PSw6sH"
+    },
+    {
+      "added_at": "2026-10-09 00:00:15",
+      "album": {
         "name": "Death Threat",
         "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
       },
@@ -1507,22 +1539,6 @@
       "duration_ms": 215124,
       "name": "GREY",
       "url": "https://open.spotify.com/track/6hRWQS48H0n7MIaOoxVe33"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
-        "name": "friends",
-        "url": "https://open.spotify.com/album/6VL4apqN4gqucDL8RvsVEs"
-      },
-      "artists": [
-        {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
-        }
-      ],
-      "duration_ms": 222331,
-      "name": "friends",
-      "url": "https://open.spotify.com/track/5zjKlYgbGLwulwd3PSw6sH"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2026-10-09 00:00:15",
       "album": {
-        "name": "May this pain never leave",
-        "url": "https://open.spotify.com/album/4LJ6GrSBOuG5cez5VrWnXa"
-      },
-      "artists": [
-        {
-          "name": "Boundaries",
-          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "May this pain never leave",
-      "url": "https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
         "name": "Nightmare Tripping (Feat. Nickelback)",
         "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 321106,
       "name": "Nightmare Tripping (Feat. Nickelback)",
       "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
+    },
+    {
+      "added_at": "2026-10-09 00:00:15",
+      "album": {
+        "name": "May this pain never leave",
+        "url": "https://open.spotify.com/album/4LJ6GrSBOuG5cez5VrWnXa"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "May this pain never leave",
+      "url": "https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp"
     },
     {
       "added_at": "2026-10-09 00:00:15",
@@ -1639,22 +1655,6 @@
       "duration_ms": 263921,
       "name": "dull blade disguise",
       "url": "https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL"
-    },
-    {
-      "added_at": "2026-10-09 00:00:15",
-      "album": {
-        "name": "Love Is Not Enough",
-        "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
-      },
-      "artists": [
-        {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
-        }
-      ],
-      "duration_ms": 168323,
-      "name": "Bad Faith",
-      "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
     }
   ],
   "unique_name": "The Pit",

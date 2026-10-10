@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,799 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,806 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,17 +42,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 32 | [Bad News](https://open.spotify.com/track/6uT65JquCWSWdvMfhqwsW8) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Bad News](https://open.spotify.com/album/5zOQmE12kFoBvhBeUGPj6P) | 2:54 |
 | 33 | [Alright, alright](https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD) | [646yf4t](https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF), [Rowena Fysx](https://open.spotify.com/artist/3kaAPw6xYzlmBhp3aQYuC9) | [Alright, alright](https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo) | 2:31 |
 | 34 | [cool](https://open.spotify.com/track/2JcMAbURj7oQ9krdqPMW3z) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [cool](https://open.spotify.com/album/6NdrJfXmCBgolsEN8KzNdf) | 3:42 |
-| 35 | [SIRENS](https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [SIRENS](https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm) | 2:38 |
-| 36 | [Put It Down](https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Unstoppable](https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9) | 3:18 |
+| 35 | [Put It Down](https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Unstoppable](https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9) | 3:18 |
+| 36 | [SIRENS](https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [SIRENS](https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm) | 2:38 |
 | 37 | [Touch Down](https://open.spotify.com/track/2XKZ5W59VSHtEVWJ4XOQXZ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Touch Down](https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e) | 2:13 |
 | 38 | [Girls Like Us](https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Girls Like Us](https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3) | 3:06 |
 | 39 | [Bite the bullet](https://open.spotify.com/track/2bNKOjlCAiglIC0nNSQJmk) | [Natek](https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh) | [Bite the bullet](https://open.spotify.com/album/4za6fKrD5xBuAul38W8UXc) | 2:28 |
-| 40 | [Piercing](https://open.spotify.com/track/5VZB077RvEuzU4XCiaSQGl) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity Remix Mixtape](https://open.spotify.com/album/1OWCTCHAS0DmzqVqiraCfw) | 3:17 |
-| 41 | [\(+44\)](https://open.spotify.com/track/4CpCjWAFFlH0piLysyzoQh) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [\(+44\)](https://open.spotify.com/album/6GUop2qCRSCzAwHQD2a9Ex) | 3:30 |
+| 40 | [\(+44\)](https://open.spotify.com/track/4CpCjWAFFlH0piLysyzoQh) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [\(+44\)](https://open.spotify.com/album/6GUop2qCRSCzAwHQD2a9Ex) | 3:30 |
+| 41 | [Piercing](https://open.spotify.com/track/5VZB077RvEuzU4XCiaSQGl) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity Remix Mixtape](https://open.spotify.com/album/1OWCTCHAS0DmzqVqiraCfw) | 3:17 |
 | 42 | [4:44](https://open.spotify.com/track/6cPSRhOAYUD8CFkucVW6IA) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [4:44](https://open.spotify.com/album/73CQVp8JBQ4RnhOTL21TZf) | 3:47 |
 | 43 | [ON THE ROCKS](https://open.spotify.com/track/67TqmQxiwHPa9sUJiJS35o) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [ON THE ROCKS](https://open.spotify.com/album/6ZeIAeFaKbRrtTCVSusibO) | 2:52 |
-| 44 | [Hurt You](https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Hurt You](https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH) | 3:34 |
-| 45 | [I Want It Easy](https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [I Want It Easy](https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG) | 4:01 |
+| 44 | [I Want It Easy](https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [I Want It Easy](https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG) | 4:01 |
+| 45 | [Hurt You](https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Hurt You](https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH) | 3:34 |
 | 46 | [Play the Game](https://open.spotify.com/track/1YXXsCZDTuam99s7ft00ub) | [Virgo Rising](https://open.spotify.com/artist/4mGuBsyykVd7HxpBZH6zyf) | [Play the Game](https://open.spotify.com/album/7rEMmvHwIAICGcz3Mdnzya) | 4:28 |
 | 47 | [Quand](https://open.spotify.com/track/3x6v20yvhAte43kAa8Aynl) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Dolbeau\-Mistassini](https://open.spotify.com/album/2TnuA0032unv7gbitwMNB0) | 3:09 |
 | 48 | [J'en sais rien](https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [J'en sais rien](https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA) | 3:34 |

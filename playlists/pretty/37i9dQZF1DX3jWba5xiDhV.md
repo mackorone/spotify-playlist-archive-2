@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,682 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,803 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 18 | [Vamos a la Playa](https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:37 |
 | 19 | [I Need You Tonight](https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx) | [Punkin Machine](https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK) | [I Need You Tonite / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 5:38 |
 | 20 | [Call Me](https://open.spotify.com/track/6WmXgESlCVqsj7IrVPMEhm) | [Ivana Spagna](https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno) | [Dedicated To The Moon](https://open.spotify.com/album/7yph4dnSdjHs2ke5ZZU2Lu) | 4:05 |
-| 21 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 |
-| 22 | [Dolce Vita](https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Ryan Paris](https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t) | 3:49 |
+| 21 | [Dolce Vita](https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Ryan Paris](https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t) | 3:49 |
+| 22 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 |
 | 23 | [Rock The Disco](https://open.spotify.com/track/3MPfuV2xM6U6lm6VD9tsX3) | [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF), [LOVSKI](https://open.spotify.com/artist/63U6dCPAjZ04nAaJSKLGmG) | [West Hill Music: Collected Works](https://open.spotify.com/album/7ABJm1lCnfKBpPPDVdOE4c) | 4:13 |
 | 24 | [Hypnotic Tango \- Original 12" Version](https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID) | [My Mine](https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o) | [Hypnotic Tango](https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C) | 6:09 |
 | 25 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |

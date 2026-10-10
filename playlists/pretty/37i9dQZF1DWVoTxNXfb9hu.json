@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 183711,
+  "num_followers": 183751,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,26 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Raabta",
         "url": "https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 245099,
       "name": "Mauja Hi Mauja",
       "url": "https://open.spotify.com/track/2iXVckhPy7tP0wV9DvlrjZ"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Jugnu",
-        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Jugnu",
-      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1024,38 +1024,6 @@
       },
       "artists": [
         {
-          "name": "Bappi Lahiri",
-          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
-        },
-        {
-          "name": "Anuradha Paudwal",
-          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Indeevar",
-          "url": "https://open.spotify.com/artist/72JrtarVilyjpFdwa3qgpF"
-        }
-      ],
-      "duration_ms": 199264,
-      "name": "Tamma Tamma Again",
-      "url": "https://open.spotify.com/track/5sqPE9h98DkO5ms20NUiUg"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Badrinath Ki Dulhania",
-        "url": "https://open.spotify.com/album/26ska1StQhwbWADLTg2hky"
-      },
-      "artists": [
-        {
           "name": "Dev Negi",
           "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
         },
@@ -1115,6 +1083,38 @@
       "duration_ms": 252631,
       "name": "The Breakup Song",
       "url": "https://open.spotify.com/track/5FihcmME7NlwW8KbYOaHVH"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Badrinath Ki Dulhania",
+        "url": "https://open.spotify.com/album/26ska1StQhwbWADLTg2hky"
+      },
+      "artists": [
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        },
+        {
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Indeevar",
+          "url": "https://open.spotify.com/artist/72JrtarVilyjpFdwa3qgpF"
+        }
+      ],
+      "duration_ms": 199264,
+      "name": "Tamma Tamma Again",
+      "url": "https://open.spotify.com/track/5sqPE9h98DkO5ms20NUiUg"
     },
     {
       "added_at": "2026-03-19 09:40:44",

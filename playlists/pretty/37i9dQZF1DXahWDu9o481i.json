@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Mackeeper",
-  "num_followers": 118861,
+  "num_followers": 119596,
   "original_name": "Editors' Picks: Best Songs of September",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOULFXUrJL54MgH3onlCrYUf1CSp",
+  "snapshot_id": "AAAAAHEKOmRrRH5bBDFqYPyLwWzBWc3d",
   "tracks": [
     {
       "added_at": "2026-10-01 14:03:25",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "WpointM",
         "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 222493,
       "name": "Best",
       "url": "https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "I Won't Cry",
-        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 296285,
-      "name": "\u2060Wildfire",
-      "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/0eNoVhh3gT8bc67J72EQLF"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 237586,
       "name": "Shut Out",
       "url": "https://open.spotify.com/track/5zGTcOcS7yjmJlZi47XiGU"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 296285,
+      "name": "\u2060Wildfire",
+      "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Perderte",
         "url": "https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Call It What You Want",
-        "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 170726,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "My Forte",
         "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
       },
@@ -707,18 +707,34 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+        "name": "Call It What You Want",
+        "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
       },
       "artists": [
         {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
         }
       ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+      "duration_ms": 170726,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "The Gem",
+        "url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 221215,
+      "name": "Angel Vision",
+      "url": "https://open.spotify.com/track/3bstintYmtTAA8fbjoUerL"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -751,22 +767,6 @@
       "duration_ms": 220295,
       "name": "Kid",
       "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "The Gem",
-        "url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 221215,
-      "name": "Angel Vision",
-      "url": "https://open.spotify.com/track/3bstintYmtTAA8fbjoUerL"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "San Francisco, 2005",
-        "url": "https://open.spotify.com/album/4xgaE609AqfGfez8IXiyiy"
-      },
-      "artists": [
-        {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
-        }
-      ],
-      "duration_ms": 247364,
-      "name": "San Francisco, 2005",
-      "url": "https://open.spotify.com/track/5Ev1zhaO6hi5eCLGYE0WKT"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "THIS IS SPA TOWN!",
         "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "San Francisco, 2005",
+        "url": "https://open.spotify.com/album/4xgaE609AqfGfez8IXiyiy"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 247364,
+      "name": "San Francisco, 2005",
+      "url": "https://open.spotify.com/track/5Ev1zhaO6hi5eCLGYE0WKT"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Stylish",
         "url": "https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 147326,
       "name": "To Me",
       "url": "https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Devout",
-        "url": "https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS"
-      },
-      "artists": [
-        {
-          "name": "Working Men's Club",
-          "url": "https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc"
-        }
-      ],
-      "duration_ms": 217206,
-      "name": "Devout",
-      "url": "https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "BLUNTS & BLADES",
         "url": "https://open.spotify.com/album/0Gl1uDfVFpR19tdgbov1N4"
       },
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
+        "name": "Devout",
+        "url": "https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS"
       },
       "artists": [
         {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+          "name": "Working Men's Club",
+          "url": "https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc"
         }
       ],
-      "duration_ms": 191786,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
+      "duration_ms": 217206,
+      "name": "Devout",
+      "url": "https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs"
     },
     {
       "added_at": "2026-10-01 14:03:25",

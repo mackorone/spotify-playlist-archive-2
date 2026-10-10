@@ -4,7 +4,7 @@
 
 > Dramatic, theatrical pop: Grace Power it's your moment!
 
-620 songs - 1 day 9 hr 44 min
+621 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2022-05-17 | 2022-12-10 |
 | [I'm a never forgive kinda girl](https://open.spotify.com/track/2ukT0tGixZxC0rYwsG9b3J) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FABLES](https://open.spotify.com/album/6oHz1CC0PuNSGgRzAOZowX) | 2:05 | 2025-01-10 | 2025-08-18 |
 | [I'm in Love With an E\-Girl](https://open.spotify.com/track/44wBlg3Y1KSAEmaze5BXe7) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [I'm in Love With an E\-Girl](https://open.spotify.com/album/2IrovQloj4bX8iUnCd0Usp) | 3:59 | 2022-05-17 | 2022-06-17 |
+| [I'M IN THE BAND](https://open.spotify.com/track/4kDpQhtAarLjq35TOG9K63) | [Max Rickun](https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl) | [I'M IN THE BAND](https://open.spotify.com/album/4RYbnY33qSKP55guw0EsxI) | 3:19 | 2026-10-09 |  |
 | [I've Had Enough](https://open.spotify.com/track/534P1wgOzlgSogu8At0B6b) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [I've Had Enough](https://open.spotify.com/album/2iUmotCQAv7gJVmBKZGKwo) | 3:30 | 2022-08-04 | 2023-05-27 |
 | [If Chaos killed the dinosaurs](https://open.spotify.com/track/1JKqnaGU8yuUCVWPb17YMW) | [Gilanares](https://open.spotify.com/artist/0knbJmRwh0ENYJGvZL9whc) | [If Chaos killed the dinosaurs](https://open.spotify.com/album/5YeJ8ne5fbvw5P6Ej1FjuP) | 4:00 | 2025-02-14 | 2025-03-15 |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-04-28 | 2024-05-28 |
@@ -523,7 +524,7 @@
 | [The Bird Song](https://open.spotify.com/track/5DEpOV9no5cf22c5Lj198g) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [The Bird Song](https://open.spotify.com/album/7oxKk85crBUxMYZM19LeRN) | 3:53 | 2024-09-06 | 2024-12-14 |
 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 | 2024-12-13 | 2026-01-31 |
 | [The Challenge](https://open.spotify.com/track/2MfEPa673rIPzBUdwfqd0P) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:21 | 2024-12-27 | 2025-07-26 |
-| [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 | 2026-07-06 |  |
+| [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 | 2026-07-06 | 2026-10-10 |
 | [The DJ Is Crying For Help](https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The DJ Is Crying For Help](https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB) | 3:40 | 2022-11-18 | 2023-01-28 |
 | [The Doll People](https://open.spotify.com/track/0UueyZtX0ogyXQWhg6Xkpz) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 3:26 | 2025-06-13 | 2025-12-06 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-28 | 2023-05-23 |

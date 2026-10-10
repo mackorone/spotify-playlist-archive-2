@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La tierra del Rap de oro puro. Natanael Cano, Tito Double P, Victor Mendivil y Ovi dominando.",
+  "description": "La tierra del Rap de oro puro. Victor Mendivil, Omar Camacho y $HUPE.",
   "name": "Hip-Hop MX 24k",
   "tracks": [
     {
@@ -154,6 +154,32 @@
       "duration_ms": 291314,
       "name": "A Toda Hora",
       "url": "https://open.spotify.com/track/7AApA6u8jKnrQwhOtZ8EvF"
+    },
+    {
+      "album": {
+        "name": "Afr1n",
+        "url": "https://open.spotify.com/album/2xQgu93rXVVOH83sHcAc2E"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186501,
+      "name": "Afr1n",
+      "url": "https://open.spotify.com/track/1dBEe0uyZ2Bszwc49xaIlg"
     },
     {
       "album": {
@@ -1060,7 +1086,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 193421,
       "name": "Desde Cero (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/56dwc4Rm7t00qpsQzefuVi"
@@ -2532,7 +2558,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 197000,
       "name": "Nunca Te Pude Alcanzar",
       "url": "https://open.spotify.com/track/7fdGqeuvSLVNMwFb6mDbXp"
@@ -2640,6 +2666,28 @@
       "duration_ms": 185935,
       "name": "Orula",
       "url": "https://open.spotify.com/track/0ejwu6GH5TeXx82YvO6XSN"
+    },
+    {
+      "album": {
+        "name": "MONOPOLY",
+        "url": "https://open.spotify.com/album/1EQZmTJCdezRC8KFNHDlPV"
+      },
+      "artists": [
+        {
+          "name": "LOBO66",
+          "url": "https://open.spotify.com/artist/3Zaq4wjYJCghs8zn0CXYeo"
+        },
+        {
+          "name": "DBLEE",
+          "url": "https://open.spotify.com/artist/2cnLKaN8HK3pRFx31ilcL5"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158372,
+      "name": "PANAMERA",
+      "url": "https://open.spotify.com/track/28Kzk38AYUUN7ihfCrk5xB"
     },
     {
       "album": {
@@ -3515,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "SR FROGS",
+        "url": "https://open.spotify.com/album/1xxU73Nrs8eYUsZSErEPdv"
+      },
+      "artists": [
+        {
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "SR FROGS",
+      "url": "https://open.spotify.com/track/0BBt11GGCfoJxzL26WCgY1"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os Grandes",
         "url": "https://open.spotify.com/album/3Y3OKaEqo8DkxtmD4CWEdt"
       },
@@ -3674,7 +3740,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 218045,
       "name": "Te Ire a Buscar",
       "url": "https://open.spotify.com/track/5NEIEghTIfcIIOKuLlaKPc"

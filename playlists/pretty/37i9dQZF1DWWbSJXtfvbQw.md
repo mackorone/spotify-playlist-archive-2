@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 
 > The biggest songs in Latin America in 2016\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,080 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,104 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 | 5 | [Hasta el Amanecer](https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:18 |
 | 6 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
 | 7 | [Otra Vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 |
-| 8 | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/album/0bXEsNAuMFPap5TjtUzvK8) | 4:38 |
-| 9 | [La Carretera](https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:58 |
+| 8 | [La Carretera](https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:58 |
+| 9 | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/album/0bXEsNAuMFPap5TjtUzvK8) | 4:38 |
 | 10 | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn) | 4:24 |
 | 11 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 |
 | 12 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |

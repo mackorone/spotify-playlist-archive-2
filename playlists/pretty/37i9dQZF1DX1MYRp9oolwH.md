@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Emo Emo Idi
+> Bringing out the best of latest love tracks<br/>Cover : Itlu Arjuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,085 likes - 51 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,118 likes - 51 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Emo Emo Idi \(From "Emo Emo Idi"\)](https://open.spotify.com/track/5xLWhJbkmFsvkKn7FVtT93) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Emo Emo Idi \(From "Emo Emo Idi"\)](https://open.spotify.com/album/3RY1PEs7TFZ2ZQMQViU2MV) | 4:04 |
-| 2 | [Yellow Chunni \(From "Itllu Arjuna"\)](https://open.spotify.com/track/4DTpJMZmQwdMx3ujuUKjgK) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Sreejo](https://open.spotify.com/artist/0h6zdOSfThWV5s4fx44Hoc) | [Yellow Chunni \(From "Itllu Arjuna"\)](https://open.spotify.com/album/2SBZSmQ39wh6T6F2WleSzR) | 3:31 |
+| 1 | [Yellow Chunni \(From "Itllu Arjuna"\)](https://open.spotify.com/track/4DTpJMZmQwdMx3ujuUKjgK) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Sreejo](https://open.spotify.com/artist/0h6zdOSfThWV5s4fx44Hoc) | [Yellow Chunni \(From "Itllu Arjuna"\)](https://open.spotify.com/album/2SBZSmQ39wh6T6F2WleSzR) | 3:31 |
+| 2 | [Emo Emo Idi \(From "Emo Emo Idi"\)](https://open.spotify.com/track/5xLWhJbkmFsvkKn7FVtT93) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Emo Emo Idi \(From "Emo Emo Idi"\)](https://open.spotify.com/album/3RY1PEs7TFZ2ZQMQViU2MV) | 4:04 |
 | 3 | [Anjaana Anjaani \(From "The Paradise"\) \(Telugu\)](https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Anjaana Anjaani \(From "The Paradise"\) \(Telugu\)](https://open.spotify.com/album/3SBWD56siGLfTGGm40Zsre) | 3:50 |
 | 4 | [Chinni Chinni \(From "Itllu Arjuna"\)](https://open.spotify.com/track/7BS4pIh5jmj89BEf7hmW5Z) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Kalyan Chakravarthy](https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO) | [Chinni Chinni \(From "Itllu Arjuna"\)](https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg) | 4:10 |
 | 5 | [Srilatha \(From "Idupu Kayitham"\)](https://open.spotify.com/track/5sbq5ARh8V37zGVmbTRwAo) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Shankarr Babu Kandukoori](https://open.spotify.com/artist/3R0xS0BSkHcPybg9cqWUhB), [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Srilatha \(From "Idupu Kayitham"\)](https://open.spotify.com/album/6xnXMrlhtnrHR8pY5hw1hT) | 4:02 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 50 | [Hey Pilla](https://open.spotify.com/track/7EmqaDmoj8sB8SzvSMjbmo) | [Raghavendra Saraswathula](https://open.spotify.com/artist/1zf5Oa5fPRUDqPPfacUv8m), [Sri Murali Karthikeya](https://open.spotify.com/artist/5hdDhVRtAtygssJd84hv06) | [Kalyanam Kamaneeyam Jeevitham](https://open.spotify.com/album/6KThYPI4OHPI0Y0qkGzdOt) | 4:07 |
 | 51 | [Ukkiri Bikkiri \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/track/1B3i3liP0OMAVvNoeO2K3c) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Ukkiri Bikkiri \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/album/3QDgq2ARIfqHDv64VKHVKz) | 5:10 |
 
-Snapshot ID: `AAAAAMTJvVkG6nZ6Z1jMNm8pMCLNjmTZ`
+Snapshot ID: `AAAAAFqm0acvn7R18A5o379sGvx2GDpB`

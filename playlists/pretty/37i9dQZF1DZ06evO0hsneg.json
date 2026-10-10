@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABKZ6nuSqmlrwe3wu26XVa2",
+  "snapshot_id": "asbdAAAAAAAR/YdrmhB+C3bbb0+Y8+fj",
   "tracks": [
     {
       "added_at": null,
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOMBAE",
-        "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        }
-      ],
-      "duration_ms": 146184,
-      "name": "BOMBAE",
-      "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GERCEP (feat. Mamang Kesbor, A. Nayaka, Kenz, Soren Kai)",
         "url": "https://open.spotify.com/album/4arXtb34VDRQv9lbliNAvJ"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 276800,
       "name": "GERCEP (feat. Mamang Kesbor, A. Nayaka, Kenz, Soren Kai)",
       "url": "https://open.spotify.com/track/4FYLiDAXdcYAS99Bnl2MK1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOMBAE",
+        "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 146184,
+      "name": "BOMBAE",
+      "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
     },
     {
       "added_at": null,
@@ -311,30 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gue Gak Mau Kawin",
-        "url": "https://open.spotify.com/album/66K4RpnoJl4auky5Uii8oK"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "toxicdev!",
-          "url": "https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev"
-        },
-        {
-          "name": "Young Lex",
-          "url": "https://open.spotify.com/artist/2GP0U8IbD2C8CeVbtuyDaX"
-        }
-      ],
-      "duration_ms": 229870,
-      "name": "Gue Gak Mau Kawin",
-      "url": "https://open.spotify.com/track/71EvzawCJqi1b0D5ItB9SE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Holy Bassgod EP",
         "url": "https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA"
       },
@@ -355,6 +331,30 @@
       "duration_ms": 166263,
       "name": "Kawaii 808",
       "url": "https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gue Gak Mau Kawin",
+        "url": "https://open.spotify.com/album/66K4RpnoJl4auky5Uii8oK"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "toxicdev!",
+          "url": "https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev"
+        },
+        {
+          "name": "Young Lex",
+          "url": "https://open.spotify.com/artist/2GP0U8IbD2C8CeVbtuyDaX"
+        }
+      ],
+      "duration_ms": 229870,
+      "name": "Gue Gak Mau Kawin",
+      "url": "https://open.spotify.com/track/71EvzawCJqi1b0D5ItB9SE"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't No MF (feat. pH-1)",
-        "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 149783,
-      "name": "Ain't No MF (feat. pH-1)",
-      "url": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4COT!",
         "url": "https://open.spotify.com/album/6YZh5vyvUWTxf84PHQXnqw"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 214109,
       "name": "Onto The Next",
       "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't No MF (feat. pH-1)",
+        "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 149783,
+      "name": "Ain't No MF (feat. pH-1)",
+      "url": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 152695,
-      "name": "Go Get That B",
-      "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musikal Polarisasi",
         "url": "https://open.spotify.com/album/4frxq3cCVeuUkqdvrcCHvv"
       },
@@ -735,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Da Man",
+        "url": "https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 184663,
+      "name": "I'm Da Man",
+      "url": "https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "no bethany",
         "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
@@ -751,6 +747,26 @@
       "duration_ms": 212675,
       "name": "bad minah (feat. Hullera)",
       "url": "https://open.spotify.com/track/2XdPqdiH87qb1101BEbfGL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 152695,
+      "name": "Go Get That B",
+      "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Da Man",
-        "url": "https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 184663,
-      "name": "I'm Da Man",
-      "url": "https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FACTS",
         "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 147928,
       "name": "FACTS",
       "url": "https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lit in Shanghai",
-        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "PSY.P",
-          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
-        }
-      ],
-      "duration_ms": 179277,
-      "name": "Lit in Shanghai",
-      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lit in Shanghai",
+        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "PSY.P",
+          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
+        }
+      ],
+      "duration_ms": 179277,
+      "name": "Lit in Shanghai",
+      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 154583,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Ted Park",
-          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
-        }
-      ],
-      "duration_ms": 169796,
-      "name": "Look At Me Now",
-      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
     },
     {
       "added_at": null,
@@ -927,6 +907,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Ted Park",
+          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
+        }
+      ],
+      "duration_ms": 169796,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Give Up",
+        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "Ain't Gonna Give Up",
+      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FASHION",
         "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
       },
@@ -939,38 +959,6 @@
       "duration_ms": 193853,
       "name": "FASHION",
       "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Ugly",
-        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 142018,
-      "name": "I'm Ugly",
-      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd"
     },
     {
       "added_at": null,
@@ -991,6 +979,38 @@
       "duration_ms": 181185,
       "name": "out of control (feat. Rayi Putra)",
       "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Ugly",
+        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 142018,
+      "name": "I'm Ugly",
+      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
     },
     {
       "added_at": null,
@@ -1023,26 +1043,6 @@
       "duration_ms": 214159,
       "name": "WHACHU MEAN",
       "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't Gonna Give Up",
-        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 233170,
-      "name": "Ain't Gonna Give Up",
-      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
     },
     {
       "added_at": null,

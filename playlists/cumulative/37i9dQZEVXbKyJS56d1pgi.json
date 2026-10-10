@@ -31326,10 +31326,32 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 143371,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em Goi\u00e2nia - Ep.2",
+        "url": "https://open.spotify.com/album/5cW3Mva0Gob5jJEbG157FF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143371,
+      "name": "Postinho de Gasolina",
+      "url": "https://open.spotify.com/track/4RuRAwMmuBxw4QsKeFVhxh"
     },
     {
       "album": {

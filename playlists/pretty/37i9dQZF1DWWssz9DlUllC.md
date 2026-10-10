@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWssz9DlUllC.md) - [plain]
 
 > Where afrobeats meets amapiano.<br/>Cover:  NO11
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,699 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,801 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWssz9DlUllC.md) - [plain]
 | 4 | [Online](https://open.spotify.com/track/5ljTDsyyDKI2xbJOqwOdVU) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Online](https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765) | 2:52 |
 | 5 | [Shuperu](https://open.spotify.com/track/1OQsbva3p2g1ycxCVPC2gc) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:49 |
 | 6 | [Tap Am](https://open.spotify.com/track/547Gs3aRtCBJFW7SdPD33x) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:47 |
-| 7 | [Melanin](https://open.spotify.com/track/4nTBa40V8ccRMzUHPyOAxk) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:32 |
-| 8 | [MONEY CONSTANT](https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [SOUTH GIDI](https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ) | 6:15 |
+| 7 | [MONEY CONSTANT](https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [SOUTH GIDI](https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ) | 6:15 |
+| 8 | [Melanin](https://open.spotify.com/track/4nTBa40V8ccRMzUHPyOAxk) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:32 |
 | 9 | [attention!](https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [attention!](https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4) | 2:35 |
 | 10 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 |
 | 11 | [Akube](https://open.spotify.com/track/4OAtzMeRzHT7Ns6PEFJHKR) | [D£JAVU](https://open.spotify.com/artist/1Ig25E3GH7TovSosx5Gf4F), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Akube](https://open.spotify.com/album/7JYM4nzVM01kKolPIprB8s) | 2:16 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWssz9DlUllC.md) - [plain]
 | 71 | [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 |
 | 72 | [Wuru Manya](https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Wellness Package](https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV) | 3:17 |
 | 73 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 |
-| 74 | [MAMACITA](https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm) | [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [MAMACITA](https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR) | 2:57 |
-| 75 | [God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [God is working](https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT) | 2:14 |
+| 74 | [God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [God is working](https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT) | 2:14 |
+| 75 | [MAMACITA](https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm) | [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [MAMACITA](https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR) | 2:57 |
 | 76 | [eko](https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [eko](https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N) | 2:54 |
 | 77 | [For You](https://open.spotify.com/track/0Cn0RxpysoQYWvjHmoR1Px) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [For You](https://open.spotify.com/album/5gu7XDn325yHFlVxAGZJlP) | 2:46 |
 | 78 | [Mr Caesar](https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Big Fearless](https://open.spotify.com/artist/6HBrHz0msvztD26a6R4qaO) | [Mr Caesar](https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1) | 2:19 |
 | 79 | [Stack](https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Jenerall](https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [ROAD TO PARATI](https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f) | 2:52 |
-| 80 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 |
+| 80 | [Kupe](https://open.spotify.com/track/3DrxLfaqMuFOF1txHcmN9F) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [Kupe](https://open.spotify.com/album/0RuXzoq19CsSoT6VEqsfrW) | 2:32 |
 
 Snapshot ID: `AAAAABhs5zQOncDvIc1ZYW9wAbx0LsRo`

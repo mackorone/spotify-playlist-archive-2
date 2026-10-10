@@ -1,12 +1,12 @@
 {
-  "description": "Judeline, Lucho RK, Anuel, Dani Mart\u00edn, Morat y m\u00e1s novedades de la semana.",
-  "num_followers": 415408,
+  "description": "Judeline, Lucho RK, Dani Mart\u00edn, Morat y m\u00e1s novedades de la semana.",
+  "num_followers": 416045,
   "original_name": "Novedades Viernes Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG9v8dSwwdCDY/Lso6bzItlrUlYj",
+  "snapshot_id": "AAAAAHKS2rMPFcTfmYCkhZ+CicPiYqtS",
   "tracks": [
     {
       "added_at": "2026-10-08 22:03:16",
@@ -39,6 +39,22 @@
       "duration_ms": 202200,
       "name": "RETRICA",
       "url": "https://open.spotify.com/track/7AZ2LheRr13nDXyVrXKKMQ"
+    },
+    {
+      "added_at": "2026-10-08 22:03:16",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 290372,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
     },
     {
       "added_at": "2026-10-08 22:03:16",
@@ -415,6 +431,22 @@
       "duration_ms": 262896,
       "name": "FF",
       "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
+    },
+    {
+      "added_at": "2026-10-09 08:37:34",
+      "album": {
+        "name": "i think he's got a girl",
+        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 214559,
+      "name": "i think he's got a girl",
+      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
     },
     {
       "added_at": "2026-10-08 22:03:16",
@@ -898,6 +930,10 @@
         {
           "name": "1joakin",
           "url": "https://open.spotify.com/artist/3wvT4uRjFb0W2NCCbv8bMK"
+        },
+        {
+          "name": "Saint Cairo",
+          "url": "https://open.spotify.com/artist/7p9VgsKSP07XUJdo8Oj7pz"
         }
       ],
       "duration_ms": 209361,
@@ -1399,26 +1435,6 @@
       "duration_ms": 185760,
       "name": "PECADO",
       "url": "https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu"
-    },
-    {
-      "added_at": "2026-10-08 22:03:16",
-      "album": {
-        "name": "La Vibra",
-        "url": "https://open.spotify.com/album/6325pn0Xzc4q2DvrKP4Yv3"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        },
-        {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "La Vibra",
-      "url": "https://open.spotify.com/track/5kgcbTlykPL6k9M1KZxuDs"
     },
     {
       "added_at": "2026-10-08 22:03:16",

@@ -458,10 +458,28 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 193444,
       "name": "Bleach Blonde Bottle Blues",
       "url": "https://open.spotify.com/track/3cRhk3aGHPTe4aptRyQAJW"
+    },
+    {
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/6zAalDHGqtEJZK8M8rI9ak"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193444,
+      "name": "Bleach Blonde Bottle Blues",
+      "url": "https://open.spotify.com/track/59VfeuDC5ZulEYkVJYFkFR"
     },
     {
       "album": {

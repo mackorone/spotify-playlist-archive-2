@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Coasters
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,731 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,735 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 24 | [Run](https://open.spotify.com/track/2L7pQAlDVp4nrpDb8s37bk) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Run](https://open.spotify.com/album/0tL973RQ3VFXGYf0gCnm13) | 4:00 |
 | 25 | [SELFBEWUS](https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SELFBEWUS](https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam) | 3:12 |
 | 26 | [Chuck](https://open.spotify.com/track/7cxgyzxC9ZfL5KepeaE3qO) | [Die Kêrels](https://open.spotify.com/artist/2ZTTYLsTxiItT682ghpsIh), [Theo](https://open.spotify.com/artist/7GV4lMBoBmWpQ9fgCiBU0R), [Arri Opperman](https://open.spotify.com/artist/1sjAH0qjLwFm8gQxjU8tar) | [Chuck](https://open.spotify.com/album/0EMeDmJQLsESMq6pHeLrQ2) | 2:31 |
-| 27 | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF) | 2:52 |
+| 27 | [Sweef](https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Sweef](https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1) | 3:25 |
 | 28 | [Self Respect](https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ) | [Mercury's in the Microwave](https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h) | [Lazerbeams of Love](https://open.spotify.com/album/30t5ggA4ETnIqn0mqkkkOT) | 3:24 |
-| 29 | [KLEUR](https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH) | [MOEGOE](https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ) | [KLEUR](https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0) | 3:21 |
-| 30 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
-| 31 | [Sweef](https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Sweef](https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1) | 3:25 |
-| 32 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
+| 29 | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF) | 2:52 |
+| 30 | [KLEUR](https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH) | [MOEGOE](https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ) | [KLEUR](https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0) | 3:21 |
+| 31 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
+| 32 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
 | 33 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
 | 34 | [Gatvol](https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Gatvol](https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI) | 2:46 |
 | 35 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |

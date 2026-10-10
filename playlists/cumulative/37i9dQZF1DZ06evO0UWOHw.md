@@ -4,7 +4,7 @@
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 18 min
+87 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [No Other](https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:48 | 2025-07-19 | 2026-05-10 |
 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 | 2025-07-19 | 2025-10-12 |
 | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/track/7ts6aJpWYYtzUjhcTsK1Q7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/album/5wcDmzuswQ31gyhCgTC7hH) | 3:25 | 2025-07-19 |  |
+| [Old School Love](https://open.spotify.com/track/3efQODwjIfMi9NAl3p7lTI) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Old School Love](https://open.spotify.com/album/6f2DZKdpDMpENF1n0dFnIF) | 2:51 | 2026-10-10 |  |
 | [Ordinary Things](https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:04 | 2025-11-23 |  |
 | [Outlaw](https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:17 | 2025-07-19 | 2026-08-23 |
 | [Pier 46](https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:38 | 2025-07-19 |  |
@@ -74,7 +75,7 @@
 | [Pray](https://open.spotify.com/track/5GNDZaBc7yHUp7003hPPDw) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dark Times](https://open.spotify.com/album/6bCbQPwKbD0NRVlN22s7Kt) | 2:46 | 2025-07-19 |  |
 | [Psycho](https://open.spotify.com/track/1WZI9KoHg61cChCLEGi2Gn) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:48 | 2025-07-19 | 2026-01-25 |
 | [Risk](https://open.spotify.com/track/7ElIoXjT2p1bcDzsUL3X89) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:22 | 2025-07-19 |  |
-| [Rosemary](https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Utopia](https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut) | 3:08 | 2025-07-19 |  |
+| [Rosemary](https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Utopia](https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut) | 3:08 | 2025-07-19 | 2026-10-10 |
 | [Saint Tropez](https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 3:02 | 2025-07-19 | 2025-11-09 |
 | [Sawa](https://open.spotify.com/track/7lrCHLEPnEs8E1lfxbjrmk) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:44 | 2025-10-12 | 2026-03-06 |
 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/4etb2MbOkYa90Rvf08kMVf) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp) | 5:31 | 2025-07-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2026 (previous playlists archived on my profile)",
-  "num_followers": 24662,
+  "num_followers": 24667,
   "original_name": "sometimes i",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOzJAONNflgW+fz1hP9+OcfG7JXt65",
+  "snapshot_id": "AAAO0EBFPJ4ahz1r3Im1Z/Q5i7ZqmkZb",
   "tracks": [
     {
       "added_at": "2026-10-04 20:21:14",
@@ -427,6 +427,42 @@
       "duration_ms": 77333,
       "name": "O How I Miss You",
       "url": "https://open.spotify.com/track/3IGByygKHzqdaP2m8277IC"
+    },
+    {
+      "added_at": "2026-10-09 16:20:40",
+      "album": {
+        "name": "The Compact XTC",
+        "url": "https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        },
+        {
+          "name": "Alex Sadkin",
+          "url": "https://open.spotify.com/artist/6rObMYPGYuDJKyd305PKoH"
+        }
+      ],
+      "duration_ms": 243298,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/6OKmpT84dcGIr2iyeMFjZE"
+    },
+    {
+      "added_at": "2026-10-09 19:36:24",
+      "album": {
+        "name": "Put Rings On All My Fingers To Weigh Down My Hands",
+        "url": "https://open.spotify.com/album/3eTvTiRjlO02MbHqXL5oyc"
+      },
+      "artists": [
+        {
+          "name": "Curbside Lambsear",
+          "url": "https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Avril",
+      "url": "https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy"
     }
   ],
   "unique_name": "sometimes i",

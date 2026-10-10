@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 154020,
       "name": "Gimidi",
       "url": "https://open.spotify.com/track/6wX0Jmo6ojeMXhFNTrzYuH"
@@ -2541,6 +2541,28 @@
     },
     {
       "album": {
+        "name": "NEED YOU",
+        "url": "https://open.spotify.com/album/3gQ85Ruy47gQS8Ouzo6Tb5"
+      },
+      "artists": [
+        {
+          "name": "Chela",
+          "url": "https://open.spotify.com/artist/6hZpNk9z7528toR33pm6xm"
+        },
+        {
+          "name": "10 QUI",
+          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "NEED YOU",
+      "url": "https://open.spotify.com/track/7qfylXOwztCv7Eq3FoIJVe"
+    },
+    {
+      "album": {
         "name": "Nene",
         "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
       },
@@ -3330,6 +3352,28 @@
       "duration_ms": 218000,
       "name": "Qui\u00e9n Lo Dir\u00eda?",
       "url": "https://open.spotify.com/track/452m5ztdx9eWHArqp7Bg5Z"
+    },
+    {
+      "album": {
+        "name": "RAYAO",
+        "url": "https://open.spotify.com/album/4gu2saLiu6ONiVDdUqh05y"
+      },
+      "artists": [
+        {
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        },
+        {
+          "name": "Mr. Saik",
+          "url": "https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195272,
+      "name": "RAYAO",
+      "url": "https://open.spotify.com/track/7yLbPwEb8X7QC63MiJ8ojq"
     },
     {
       "album": {

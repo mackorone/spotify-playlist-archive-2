@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The newest in Ambient music and the sounds it explores beyond\. <br/>On the cover: Passa Tempo
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,502 likes - 99 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,654 likes - 99 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

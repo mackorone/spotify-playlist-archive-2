@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Lalah Hathaway",
-  "num_followers": 786317,
+  "num_followers": 786213,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1717,22 +1717,6 @@
       "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
     },
     {
-      "added_at": "2026-05-15 07:39:31",
-      "album": {
-        "name": "But, Nvm",
-        "url": "https://open.spotify.com/album/2YZZlQUGlQgf2xIiimUGlN"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "But, Nvm",
-      "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
-    },
-    {
       "added_at": "2025-05-16 04:52:04",
       "album": {
         "name": "RATHER BE",
@@ -1747,6 +1731,22 @@
       "duration_ms": 171873,
       "name": "RATHER BE",
       "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
+    },
+    {
+      "added_at": "2026-05-15 07:39:31",
+      "album": {
+        "name": "But, Nvm",
+        "url": "https://open.spotify.com/album/2YZZlQUGlQgf2xIiimUGlN"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "But, Nvm",
+      "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
     },
     {
       "added_at": "2026-04-18 17:35:25",
@@ -1905,22 +1905,6 @@
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     },
     {
-      "added_at": "2026-04-18 17:35:25",
-      "album": {
-        "name": "wHIMSY!",
-        "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 195279,
-      "name": "DIAMOND GOLD",
-      "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
-    },
-    {
       "added_at": "2025-11-21 11:03:13",
       "album": {
         "name": "Be Your Girl - A COLORS SHOW",
@@ -1939,6 +1923,22 @@
       "duration_ms": 249489,
       "name": "Be Your Girl - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
+    },
+    {
+      "added_at": "2026-04-18 17:35:25",
+      "album": {
+        "name": "wHIMSY!",
+        "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 195279,
+      "name": "DIAMOND GOLD",
+      "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
     },
     {
       "added_at": "2024-06-07 12:35:37",
@@ -2113,22 +2113,6 @@
       "url": "https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Can I Call You Rose? (Cover)",
-        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Can I Call You Rose? - Cover",
-      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
-    },
-    {
       "added_at": "2025-06-27 04:00:47",
       "album": {
         "name": "Flowers",
@@ -2147,6 +2131,22 @@
       "duration_ms": 271573,
       "name": "Really Wanna Be With You",
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Can I Call You Rose? (Cover)",
+        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Can I Call You Rose? - Cover",
+      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
     },
     {
       "added_at": "2025-11-07 07:43:36",
@@ -2181,6 +2181,26 @@
       "url": "https://open.spotify.com/track/22fjiuuHawoPEnh9f0zL68"
     },
     {
+      "added_at": "2026-09-25 08:27:30",
+      "album": {
+        "name": "Chameleon (feat. Chloe George)",
+        "url": "https://open.spotify.com/album/7JxAACwKeGZiH6wYZaBWJN"
+      },
+      "artists": [
+        {
+          "name": "Mai Anna",
+          "url": "https://open.spotify.com/artist/2fTXlJF6M8NKBXu5FBWdDT"
+        },
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "duration_ms": 214661,
+      "name": "Chameleon (feat. Chloe George)",
+      "url": "https://open.spotify.com/track/6p9rNCjeJkFymFH25pytGU"
+    },
+    {
       "added_at": "2025-12-05 07:50:19",
       "album": {
         "name": "Silver Lining",
@@ -2195,6 +2215,22 @@
       "duration_ms": 219862,
       "name": "Stuck In My Head",
       "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
+    },
+    {
+      "added_at": "2024-10-18 16:11:48",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 178891,
+      "name": "If The Love Goes",
+      "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
     },
     {
       "added_at": "2025-09-26 04:57:19",
@@ -2215,22 +2251,6 @@
       "duration_ms": 224788,
       "name": "Play This Song (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
-    },
-    {
-      "added_at": "2024-10-18 16:11:48",
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
-      },
-      "artists": [
-        {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
-        }
-      ],
-      "duration_ms": 178891,
-      "name": "If The Love Goes",
-      "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
     },
     {
       "added_at": "2024-11-08 14:48:31",
@@ -2287,26 +2307,6 @@
       "duration_ms": 162038,
       "name": "Good Morning (feat. Susan Carol)",
       "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
-    },
-    {
-      "added_at": "2026-09-25 08:27:30",
-      "album": {
-        "name": "Chameleon (feat. Chloe George)",
-        "url": "https://open.spotify.com/album/7JxAACwKeGZiH6wYZaBWJN"
-      },
-      "artists": [
-        {
-          "name": "Mai Anna",
-          "url": "https://open.spotify.com/artist/2fTXlJF6M8NKBXu5FBWdDT"
-        },
-        {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
-        }
-      ],
-      "duration_ms": 214661,
-      "name": "Chameleon (feat. Chloe George)",
-      "url": "https://open.spotify.com/track/6p9rNCjeJkFymFH25pytGU"
     },
     {
       "added_at": "2026-03-13 07:29:17",
@@ -2477,22 +2477,6 @@
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
     },
     {
-      "added_at": "2024-09-13 09:22:53",
-      "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
-      },
-      "artists": [
-        {
-          "name": "MAYOR",
-          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
-        }
-      ],
-      "duration_ms": 129707,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
-    },
-    {
       "added_at": "2025-02-14 09:04:21",
       "album": {
         "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
@@ -2529,6 +2513,22 @@
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
+      },
+      "artists": [
+        {
+          "name": "MAYOR",
+          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
+        }
+      ],
+      "duration_ms": 129707,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
+    },
+    {
       "added_at": "2025-08-15 19:53:41",
       "album": {
         "name": "The Present",
@@ -2557,22 +2557,6 @@
       "url": "https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO"
     },
     {
-      "added_at": "2026-05-08 07:01:11",
-      "album": {
-        "name": "Chakzilla",
-        "url": "https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "Chakzilla",
-      "url": "https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW"
-    },
-    {
       "added_at": "2025-02-21 07:53:52",
       "album": {
         "name": "BLOOM",
@@ -2591,6 +2575,22 @@
       "duration_ms": 317966,
       "name": "No Business",
       "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
+    },
+    {
+      "added_at": "2026-05-08 07:01:11",
+      "album": {
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Chakzilla",
+      "url": "https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW"
     },
     {
       "added_at": "2025-12-12 18:54:21",

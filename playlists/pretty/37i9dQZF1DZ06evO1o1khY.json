@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 45797,
+  "num_followers": 45803,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAB/SWENcxL8x5gZinzJX5Px",
+  "snapshot_id": "asbdAAAAAABtQHCnVYSDUmFMWqeGASTC",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 188348,
+      "name": "In My Bag (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BROWN",
         "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 271333,
       "name": "Call Your Name (feat. Sexyy Red & GloRilla)",
       "url": "https://open.spotify.com/track/484opyiuSN7OTv4Au8sv2p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 188348,
-      "name": "In My Bag (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Finesse Da Glo (feat. Finesse2Tymes)",
-      "url": "https://open.spotify.com/track/1nKgk560ybSt7eZLtFAa9p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLORIOUS (BONUS TRACK EDITION)",
         "url": "https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 169600,
       "name": "NEVER FIND (feat. K Carbon)",
       "url": "https://open.spotify.com/track/059ND5uzljir164IZK7yHa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Finesse Da Glo (feat. Finesse2Tymes)",
+      "url": "https://open.spotify.com/track/1nKgk560ybSt7eZLtFAa9p"
     },
     {
       "added_at": null,
@@ -999,22 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watch This",
-        "url": "https://open.spotify.com/album/5AXR7X4eT1HTI0P5NoAsnk"
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
       },
       "artists": [
         {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 190693,
-      "name": "Hell Woods 2",
-      "url": "https://open.spotify.com/track/0vJyvI6FzFIOU08H99xFZR"
+      "duration_ms": 196040,
+      "name": "Leave My Baby Tonight (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
     }
   ],
   "unique_name": "This Is GloRilla",

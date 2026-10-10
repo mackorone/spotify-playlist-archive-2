@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik fr\u00e5n Bolaget, Elise Elvira och Sunnan med flera. Happy New Music Friday!",
-  "num_followers": 236480,
+  "num_followers": 236607,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJmRrXH6kPrTsizpanvvn+QYxoK",
+  "snapshot_id": "AAAAAK8DGjPSXXA2eJSFOkzQDktlybIp",
   "tracks": [
     {
       "added_at": "2026-10-08 22:00:30",
@@ -472,7 +472,7 @@
           "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
         }
       ],
-      "duration_ms": 164411,
+      "duration_ms": 136041,
       "name": "ST\u00d6RD",
       "url": "https://open.spotify.com/track/5vYeSHa82PMlSSfl3Q8vho"
     },
@@ -603,7 +603,7 @@
     {
       "added_at": "2026-10-08 22:00:30",
       "album": {
-        "name": "Inte Nationella",
+        "name": "inte nationella",
         "url": "https://open.spotify.com/album/4KDvAViDvy8IlNEDuBvbqB"
       },
       "artists": [
@@ -613,7 +613,7 @@
         }
       ],
       "duration_ms": 153669,
-      "name": "Inte Nationella",
+      "name": "inte nationella",
       "url": "https://open.spotify.com/track/03aThtYW92qG0J75deOfQB"
     },
     {
@@ -669,6 +669,30 @@
       "url": "https://open.spotify.com/track/50xmCBsJYrHYKLT2WVrnDc"
     },
     {
+      "added_at": "2026-10-09 06:37:55",
+      "album": {
+        "name": "Bully The Scene",
+        "url": "https://open.spotify.com/album/5jz5iFQk5VlizmeozaMwZ3"
+      },
+      "artists": [
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        },
+        {
+          "name": "Harrison First",
+          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
+        },
+        {
+          "name": "BGZ",
+          "url": "https://open.spotify.com/artist/6OZkAwjblI61i9DPx7NdvJ"
+        }
+      ],
+      "duration_ms": 190383,
+      "name": "Bully The Scene",
+      "url": "https://open.spotify.com/track/3onz30mMPm0aDPpJBPfcs2"
+    },
+    {
       "added_at": "2026-10-08 22:00:30",
       "album": {
         "name": "Seams",
@@ -683,6 +707,26 @@
       "duration_ms": 172874,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1ZLkOviK8LeDvS2MHUvGNu"
+    },
+    {
+      "added_at": "2026-10-08 22:00:30",
+      "album": {
+        "name": "People Are Strange",
+        "url": "https://open.spotify.com/album/37B2AwmrlgNri7euIfsAe8"
+      },
+      "artists": [
+        {
+          "name": "Yttling Jazz",
+          "url": "https://open.spotify.com/artist/0sHY32geV56IzTbEEomMFG"
+        },
+        {
+          "name": "Chrissie Hynde",
+          "url": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
+        }
+      ],
+      "duration_ms": 141124,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/5Quh5WCV0UUKJdJUaQlHu7"
     },
     {
       "added_at": "2026-10-08 22:00:30",
@@ -1169,6 +1213,22 @@
       "url": "https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV"
     },
     {
+      "added_at": "2026-10-09 08:34:05",
+      "album": {
+        "name": "Piaggio",
+        "url": "https://open.spotify.com/album/1KFwtUIURcb8rZgdrGWRgI"
+      },
+      "artists": [
+        {
+          "name": "Henning",
+          "url": "https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn"
+        }
+      ],
+      "duration_ms": 182482,
+      "name": "Piaggio",
+      "url": "https://open.spotify.com/track/2WwssE1jxBTzt2HgwfU2TT"
+    },
+    {
       "added_at": "2026-10-08 22:00:30",
       "album": {
         "name": "BRY DIG OM DIG SJ\u00c4LV",
@@ -1634,10 +1694,6 @@
         {
           "name": "tetteris",
           "url": "https://open.spotify.com/artist/1ESDypoYXnCyOoQrItdFwr"
-        },
-        {
-          "name": "Elias Tetteris",
-          "url": "https://open.spotify.com/artist/533Xxy1cwWiSDnX2ZcVyv9"
         }
       ],
       "duration_ms": 193000,

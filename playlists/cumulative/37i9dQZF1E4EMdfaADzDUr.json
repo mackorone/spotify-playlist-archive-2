@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With After Cooking, winterburn, Douran and more",
+  "description": "With After Cooking, Douran, GONE and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 166617,
       "name": "17 Virages",
       "url": "https://open.spotify.com/track/5aZKMNDFRNu9CIKh1C1ChH"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 231346,
       "name": "Asymptote - Steven Weston Remix",
       "url": "https://open.spotify.com/track/1a3YgkZ1SGh0gSPD5M8IJ6"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 248893,
       "name": "Beyond My Mind",
       "url": "https://open.spotify.com/track/0seMnOYkb3jSGaiAWoOAPs"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 242705,
       "name": "Blind Sun",
       "url": "https://open.spotify.com/track/2Yd4m4c0ZlKrFYfJ1wUxMX"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/2e1xmCupvnz5XvyYJxVPnn"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 302400,
       "name": "Fairytale of Berlin",
       "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Gravity Chase",
+        "url": "https://open.spotify.com/album/4zl1jCmGJ1e49O5Qw24th4"
+      },
+      "artists": [
+        {
+          "name": "Douran",
+          "url": "https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229785,
+      "name": "Gravity Chase",
+      "url": "https://open.spotify.com/track/2ABTK7DsVhZHlveIxHra9F"
+    },
+    {
+      "album": {
         "name": "Songs to Try",
         "url": "https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX"
       },
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 438900,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/2BUcGUp1TUAOllgxRg6u2Z"
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 334000,
       "name": "Imelda",
       "url": "https://open.spotify.com/track/70o1QpxVB9tXoROZW2llMa"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 170625,
       "name": "in pursuit of connection",
       "url": "https://open.spotify.com/track/0kPBcaY5fjP1KHu903DECC"
@@ -2606,7 +2624,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 339760,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/4r4eTvYnjzyQnMpWei7Qgb"
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 335250,
       "name": "Lueur",
       "url": "https://open.spotify.com/track/4zgjUwITPoDoy7xZ2Keco1"
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 348966,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/5snv2IQBp1rpeVkzKcf0aY"
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 203779,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/4UAxmiriWgNyu40rePrrsn"
@@ -3486,10 +3504,28 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 187781,
       "name": "Morning Bliss",
       "url": "https://open.spotify.com/track/6WPR6Rmjta2KD6ZfmXDMaX"
+    },
+    {
+      "album": {
+        "name": "From one blink to another",
+        "url": "https://open.spotify.com/album/4pK2FjFAdOnexU0t06RlXX"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282883,
+      "name": "Morning Bliss - Extended",
+      "url": "https://open.spotify.com/track/0JHcM6w1xP4TKy2tH6Ayei"
     },
     {
       "album": {
@@ -3616,7 +3652,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 160350,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/6xhPA7A3DkKodKHBiD6KKm"
@@ -3746,7 +3782,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "Nuclear Fission",
       "url": "https://open.spotify.com/track/7MEcVIZxNQOxRmaafMVvId"
@@ -3984,7 +4020,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 282701,
       "name": "Passing Days",
       "url": "https://open.spotify.com/track/7sdwHdRvLJMAWbJyrJTOto"
@@ -4082,7 +4118,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 210491,
       "name": "PEOPLE//PLEASER",
       "url": "https://open.spotify.com/track/1Tczrcus38dWH0Y54zaJmQ"
@@ -4620,7 +4656,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
@@ -4700,7 +4736,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 246955,
       "name": "Serpens",
       "url": "https://open.spotify.com/track/5ObdBofAI0Kzb9kSeLoU5I"
@@ -4924,7 +4960,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 240173,
       "name": "SOMETHING",
       "url": "https://open.spotify.com/track/7FdO1lDAmz7efem5vDWDVs"
@@ -4982,7 +5018,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 184320,
       "name": "Space",
       "url": "https://open.spotify.com/track/3Sc1sXkHQeGgs5125wLfqD"
@@ -5036,7 +5072,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 282464,
       "name": "Space Race",
       "url": "https://open.spotify.com/track/0xwdddgB2jZ93gUE2MmLQY"
@@ -5130,6 +5166,24 @@
       "duration_ms": 201724,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/6TxEWIET8CrZAtN6VAdsAR"
+    },
+    {
+      "album": {
+        "name": "Station Rave",
+        "url": "https://open.spotify.com/album/29oGpw887zd23mk2hWQCiL"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210795,
+      "name": "Station Rave",
+      "url": "https://open.spotify.com/track/0g5tRs99QFwXFf7hm7PNlm"
     },
     {
       "album": {
@@ -5332,7 +5386,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 402437,
       "name": "Taikotim",
       "url": "https://open.spotify.com/track/7rDbgts7AB7TBmby1VHljJ"
@@ -5654,7 +5708,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 282253,
       "name": "The Robot Test",
       "url": "https://open.spotify.com/track/0KtVXCT33wA7kuD3wajwG0"
@@ -5730,7 +5784,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 283520,
       "name": "Things",
       "url": "https://open.spotify.com/track/1HfZcA8qWGZZF4sWcP575R"
@@ -6207,6 +6261,28 @@
     },
     {
       "album": {
+        "name": "We Are Falling",
+        "url": "https://open.spotify.com/album/19mCr6EJNzwlXdnj2XG1cM"
+      },
+      "artists": [
+        {
+          "name": "Avis Vox",
+          "url": "https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc"
+        },
+        {
+          "name": "PARAFRAME",
+          "url": "https://open.spotify.com/artist/2MDR7nMS7lOrQsyZ5FZznk"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221249,
+      "name": "We Are Falling",
+      "url": "https://open.spotify.com/track/3XhP7Ng6JpEbqcQa58bKsT"
+    },
+    {
+      "album": {
         "name": "We Will Be Memories",
         "url": "https://open.spotify.com/album/1ePFUgCdT8liljXrkiFx9n"
       },
@@ -6398,7 +6474,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 429760,
       "name": "White Flower",
       "url": "https://open.spotify.com/track/4p4DDw6j5D14J8OOnalkqj"
@@ -6474,7 +6550,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 251612,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/4ubbyOgrDNCxvBJ0r9G9RL"
@@ -6496,7 +6572,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 417000,
       "name": "You and Me (We Owned It)",
       "url": "https://open.spotify.com/track/1U9zvD8HJ7zLmTPUbrosGf"
@@ -6554,7 +6630,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"

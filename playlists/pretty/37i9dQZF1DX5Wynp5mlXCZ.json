@@ -1,6 +1,6 @@
 {
   "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: The Curly",
-  "num_followers": 45442,
+  "num_followers": 45467,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "SaWaDiKa",
-        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 188531,
-      "name": "SaWaDiKa",
-      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
-        "name": "My Body Isn't Ready",
-        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 217380,
-      "name": "My Body Isn't Ready",
-      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
       "added_at": "2026-10-08 21:00:29",

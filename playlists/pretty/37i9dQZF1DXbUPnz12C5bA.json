@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 231958,
+  "num_followers": 232120,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,18 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Una Leyenda - Los Chiches Vallenatos",
-        "url": "https://open.spotify.com/album/03XL7CFgk3mkfzwvJm6Wlw"
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
       },
       "artists": [
         {
-          "name": "Osmar P\u00e9rez",
-          "url": "https://open.spotify.com/artist/1UJF2zIrXPQIdoc7169icD"
-        },
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 259473,
-      "name": "Me Toc\u00f3 Perderte",
-      "url": "https://open.spotify.com/track/6nmqpo8xhxYF6ILwsWIbaV"
+      "duration_ms": 317760,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -787,18 +783,22 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+        "name": "Una Leyenda - Los Chiches Vallenatos",
+        "url": "https://open.spotify.com/album/03XL7CFgk3mkfzwvJm6Wlw"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "Osmar P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1UJF2zIrXPQIdoc7169icD"
+        },
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 317760,
-      "name": "Entregame Tu Amor",
-      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+      "duration_ms": 259473,
+      "name": "Me Toc\u00f3 Perderte",
+      "url": "https://open.spotify.com/track/6nmqpo8xhxYF6ILwsWIbaV"
     },
     {
       "added_at": "2026-05-04 04:59:11",

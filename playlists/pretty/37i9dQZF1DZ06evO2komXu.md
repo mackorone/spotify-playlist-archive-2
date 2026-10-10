@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 
 > This is Ayra Starr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,262 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,280 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 | 8 | [Colorado](https://open.spotify.com/track/3XOb28yG4xKwuUYlV8eKmS) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Before The Morning Light](https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr) | 3:42 |
 | 9 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
 | 10 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
-| 11 | [Who's Dat Girl \(feat\. Rema\)](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |
-| 12 | [Love Don't Cost A Dime \- Re\-Up](https://open.spotify.com/track/7mOQnTNnEGVAjI0OF49GMj) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/52085LvRgtzPvV4wWps54A) | 2:27 |
+| 11 | [Love Don't Cost A Dime \- Re\-Up](https://open.spotify.com/track/7mOQnTNnEGVAjI0OF49GMj) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/52085LvRgtzPvV4wWps54A) | 2:27 |
+| 12 | [Who's Dat Girl \(feat\. Rema\)](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |
 | 13 | [Dangerous](https://open.spotify.com/track/7dk2sVgiQzXyEp0VjlQbQS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:06 |
 | 14 | [Wo, man \- Edit](https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Wo, man \(Edit\)](https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax) | 3:20 |
 | 15 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 | 48 | [My Baby \(feat\. Ayra Starr\)](https://open.spotify.com/track/3riCAuMBWoWzNdfToamrue) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 3:10 |
 | 49 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
 
-Snapshot ID: `asLogAAAAADLa3hW3WOiWk2OFDVlPmWp`
+Snapshot ID: `asbdAAAAAABETkBH2HrOoKcUTfMxb9j0`

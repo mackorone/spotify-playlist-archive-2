@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Richie Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,341 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,356 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 29 | [Lisabona](https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Lisabona](https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN) | 3:12 |
 | 30 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
 | 31 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 |
-| 32 | [Papaia](https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:02 |
+| 32 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
 | 33 | [Estrada \(feat\. Slow J & ProfJam\)](https://open.spotify.com/track/7EUmkQTk9tt93C5J746OzL) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:57 |
-| 34 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
+| 34 | [Papaia](https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:02 |
 | 35 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 |
 | 36 | [UUUUHH](https://open.spotify.com/track/1Jk03rMQGTjdkjNtCGgkPd) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:30 |
 | 37 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 |
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 42 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 43 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
 | 44 | [Senti Tanto](https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:42 |
-| 45 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
-| 46 | [Já Entendi](https://open.spotify.com/track/7FLWucanZJBBCLeWNRDTv9) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Já Entendi](https://open.spotify.com/album/0Ahs6WqVuKBfZb8cnMHAI6) | 2:36 |
+| 45 | [Já Entendi](https://open.spotify.com/track/7FLWucanZJBBCLeWNRDTv9) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Já Entendi](https://open.spotify.com/album/0Ahs6WqVuKBfZb8cnMHAI6) | 2:36 |
+| 46 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 47 | [CARO](https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CARO](https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP) | 3:57 |
 | 48 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 |
 | 49 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
-| 50 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
-| 51 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
+| 50 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
+| 51 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
 | 52 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 | 53 | [Stunka](https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Stunka](https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf) | 3:08 |
 | 54 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |

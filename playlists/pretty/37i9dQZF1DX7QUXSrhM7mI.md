@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > A dreamy, beautiful musical companion to your time for rest and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,961 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,973 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 54 | [Make Up](https://open.spotify.com/track/25fgqMC5JX8A9du5YeqREN) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make Up](https://open.spotify.com/album/7h7oXkx5EOMYh2cfmu3Gq1) | 3:46 |
 | 55 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
 | 56 | [Anemone \- \(Live\) \| Spotify RADAR](https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Fcukers \- Spotify RADAR](https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR) | 4:55 |
-| 57 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
-| 58 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 |
+| 57 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 |
+| 58 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
 | 59 | [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 |
 | 60 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
 | 61 | [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 |

@@ -2,38 +2,38 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: SHERRY
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: HAPPILY
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,218 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,218 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [สิ่งที่รั้ง \(Chained\)](https://open.spotify.com/track/5fKpbXBJxUEtPV089LTrc6) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [สิ่งที่รั้ง \(Chained\)](https://open.spotify.com/album/5GL5wDZB4aXlB6RvWMw359) | 3:35 |
-| 2 | [หมดเวลา \(Stay\)](https://open.spotify.com/track/5ZxoZpykxw62H7w1pSBGiV) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [หมดเวลา \(Stay\)](https://open.spotify.com/album/6Dr42qjdQRiWfLQ9eyeB0j) | 4:07 |
-| 3 | [ปลายเส้นขอบฟ้า \(Oath To Romance\)](https://open.spotify.com/track/62bBrZb27BfRxPG8JyG5Yz) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [ปลายเส้นขอบฟ้า \(Oath To Romance\)](https://open.spotify.com/album/0cuNQ5xAjy7Zp6JTp1sfB0) | 5:07 |
-| 4 | [แค่หมดเวลาให้เราได้รักกันแค่นั้นเอง](https://open.spotify.com/track/22I65GZOUg73SCRVEdQoMe) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [แค่หมดเวลาให้เราได้รักกันแค่นั้นเอง](https://open.spotify.com/album/1HsLNxmSuVlcQsKAi75YpN) | 4:10 |
-| 5 | [ม่านฝัน](https://open.spotify.com/track/2gbv0d4OJY48pFOFMAqgRF) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ม่านฝัน](https://open.spotify.com/album/66w1Q7KxRBuevsgFvzNm2Y) | 4:10 |
-| 6 | [ทุกสิ่งทุกอย่าง](https://open.spotify.com/track/2paY7mj6P33pglb6KnkCcN) | [SOK](https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa) | [ทุกสิ่งทุกอย่าง](https://open.spotify.com/album/3R3jLpnRRFQVmAm6hTwJ3N) | 5:26 |
-| 7 | [ก่อนอาทิตย์จะจางหายไป \(Sunset\)](https://open.spotify.com/track/754lhqCrSQJp3XHQ7LgooJ) | [PENFINS](https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l) | [ก่อนอาทิตย์จะจางหายไป \(Sunset\)](https://open.spotify.com/album/5rmWc3FFAAUT3YhaGcLqqQ) | 5:18 |
-| 8 | [จากคนเคยข้างเคียง](https://open.spotify.com/track/5p9rgRvvwpfMk2DotftY6y) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [จากคนเคยข้างเคียง](https://open.spotify.com/album/5OrweJYa7a1YS5ruZi86Kz) | 3:26 |
-| 9 | [เมิน](https://open.spotify.com/track/3N9j3mTPPaHCoXmJbFb6cM) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [สองสี่สอง](https://open.spotify.com/album/4RbzkhG4HyYOmLUYiAgts3) | 2:49 |
-| 10 | [Something Something](https://open.spotify.com/track/1Anr3uwSDbh1hOFSaw25lb) | [TIMER](https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR) | [Something Something](https://open.spotify.com/album/2AIYYmfVUvitubFr9j8dlK) | 2:59 |
-| 11 | [ดี๊ดี \(DD\)](https://open.spotify.com/track/4j6JZUAvDWhx7aKVU1EKuy) | [PANPAN YEEYEE](https://open.spotify.com/artist/5xIZlZMfqO1ooXVB6RdVky) | [ดี๊ดี \(DD\)](https://open.spotify.com/album/2VYxxc6TT0XRkiAcnD04Xq) | 3:34 |
-| 12 | [Time](https://open.spotify.com/track/486H0daZXOovyj1wYCNsfk) | [murrph.](https://open.spotify.com/artist/6xBGYET3V8U4pUSYncnqRR) | [วันนั้น \(Time\)](https://open.spotify.com/album/6MZ9liYLd2eykOmvaJFY0Q) | 4:33 |
-| 13 | [จม](https://open.spotify.com/track/0DBRXsa1X2J88kdXVdwt2C) | [PLERNG](https://open.spotify.com/artist/4rPqckx0SX15z8IzFBpfUe) | [จม](https://open.spotify.com/album/0jH7gDsbpsbizv6aO4B0Tb) | 3:51 |
-| 14 | [จะไปเมื่อไร \(Chasm\)](https://open.spotify.com/track/5vDdfdhmgHSSnqa7wHz6bF) | [MACHINE.](https://open.spotify.com/artist/5R2xpBIDKtXym5pNc9WTVc) | [จะไปเมื่อไร \(Chasm\)](https://open.spotify.com/album/1lbUFCHXmDLU9MxyXGZvEy) | 4:10 |
-| 15 | [Rock And Love](https://open.spotify.com/track/1o0jz3THUdBsKHN9mnCXnQ) | [TIMER](https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR) | [Rock And Love](https://open.spotify.com/album/4KDDUaF1hrbDka0jIgTGCg) | 3:19 |
-| 16 | [ไม่อาจเปลี่ยนใจ \(MAPJ\)](https://open.spotify.com/track/6YxKkTXbeTOZlM0DfKWdpP) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [ไม่อาจเปลี่ยนใจ \(MAPJ\)](https://open.spotify.com/album/4CztIB9X1onagNUjQkaNNw) | 3:46 |
-| 17 | [Baby Bye Bye](https://open.spotify.com/track/7D8QbOudfxxdt5Zi20tQso) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ), [Ant LANDOKMAI](https://open.spotify.com/artist/1d4UYb5mZPmdJQLQME6Bw8) | [Baby Bye Bye](https://open.spotify.com/album/63XEQ2qaHtEfrrG1Prk1GG) | 3:26 |
-| 18 | [อยากฟัง \(Listen\)](https://open.spotify.com/track/65ahqc2iKM2Uqs5c6YmvYo) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [อยากฟัง \(Listen\)](https://open.spotify.com/album/59z3FrfcRGNLRgao6siGfY) | 4:24 |
-| 19 | [ปลายฝัน](https://open.spotify.com/track/3FpuOReYrDxGs1DKML1CkX) | [Fortunekeiths](https://open.spotify.com/artist/2bV9h8ZuhxhzzsaEb8wITO) | [ปลายฝัน](https://open.spotify.com/album/03Nuwrvo7xkhGyILgtrgTc) | 4:26 |
-| 20 | [ไม่หายไป](https://open.spotify.com/track/2ytXVa9o3jBmXUHWB5nOW6) | [reu](https://open.spotify.com/artist/73jWtoYEh1OYEnsF7cnVEQ) | [ไม่หายไป](https://open.spotify.com/album/5MXFBR1ZKETyK4rjjMgN4G) | 4:44 |
-| 21 | [จากลา](https://open.spotify.com/track/2ihD2x6goZtf7HFILAYAqT) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [จากลา](https://open.spotify.com/album/05VCaZvpBwUVVe23A4nqET) | 4:24 |
-| 22 | [แข่งกันไหม V.S.](https://open.spotify.com/track/3usJfu75VE0yv8sAipCX3K) | [Fauvis](https://open.spotify.com/artist/0aiODLUBw3OMFGa48Xf9E4) | [แข่งกันไหม V.S.](https://open.spotify.com/album/5drOgVdpCJN41TQDIcvBXV) | 4:07 |
-| 23 | [เป็นเเค่เพียง](https://open.spotify.com/track/7CgkWPR2Lnzyg5eBJExrec) | [Zeedox](https://open.spotify.com/artist/5uBJqxXpz3npN0V85h9P5D) | [เป็นเเค่เพียง](https://open.spotify.com/album/6MBCKRrzJNR4er2tWPrBW5) | 2:56 |
-| 24 | [สุขสันต์วันเลิกรา \(Farewell\)](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา \(Farewell\)](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
-| 25 | [ไม่มีใครจะเหมือนเดิม](https://open.spotify.com/track/1eDKn007lhgouhCkc628SB) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [ไม่มีใครจะเหมือนเดิม](https://open.spotify.com/album/4Ul8pxBAmv4RMRXGLZoWES) | 4:07 |
-| 26 | [ย้อน](https://open.spotify.com/track/3xd3G6dwfBYP2Ui5hNdzDx) | [reu](https://open.spotify.com/artist/73jWtoYEh1OYEnsF7cnVEQ) | [ย้อน](https://open.spotify.com/album/3AnO1SEz5z3Vr7vBaInDcR) | 5:12 |
+| 1 | [ทุกสิ่งทุกอย่าง](https://open.spotify.com/track/2paY7mj6P33pglb6KnkCcN) | [SOK](https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa) | [ทุกสิ่งทุกอย่าง](https://open.spotify.com/album/3R3jLpnRRFQVmAm6hTwJ3N) | 5:26 |
+| 2 | [แค่หมดเวลาให้เราได้รักกันแค่นั้นเอง](https://open.spotify.com/track/22I65GZOUg73SCRVEdQoMe) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [แค่หมดเวลาให้เราได้รักกันแค่นั้นเอง](https://open.spotify.com/album/1HsLNxmSuVlcQsKAi75YpN) | 4:10 |
+| 3 | [ฤดูที่สี่](https://open.spotify.com/track/7j2PkyP7bJ1Uc2VjlePMg6) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [SO HAPPY](https://open.spotify.com/album/2FYF9Hg1GwNQjTuSeykW79) | 4:47 |
+| 4 | [ม่านฝัน](https://open.spotify.com/track/2gbv0d4OJY48pFOFMAqgRF) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ม่านฝัน](https://open.spotify.com/album/66w1Q7KxRBuevsgFvzNm2Y) | 4:10 |
+| 5 | [Hug](https://open.spotify.com/track/4b9feL0VtukPm7aG4DTFGf) | [TIMER](https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR) | [Hug](https://open.spotify.com/album/7uUdTGu5klek5EZEw0vG4v) | 3:19 |
+| 6 | [Baby Bye Bye](https://open.spotify.com/track/7D8QbOudfxxdt5Zi20tQso) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ), [Ant LANDOKMAI](https://open.spotify.com/artist/1d4UYb5mZPmdJQLQME6Bw8) | [Baby Bye Bye](https://open.spotify.com/album/63XEQ2qaHtEfrrG1Prk1GG) | 3:26 |
+| 7 | [ไม่อาจเปลี่ยนใจ \(MAPJ\)](https://open.spotify.com/track/6YxKkTXbeTOZlM0DfKWdpP) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [ไม่อาจเปลี่ยนใจ \(MAPJ\)](https://open.spotify.com/album/4CztIB9X1onagNUjQkaNNw) | 3:46 |
+| 8 | [สิ่งที่รั้ง \(Chained\)](https://open.spotify.com/track/5fKpbXBJxUEtPV089LTrc6) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [สิ่งที่รั้ง \(Chained\)](https://open.spotify.com/album/5GL5wDZB4aXlB6RvWMw359) | 3:35 |
+| 9 | [หมดเวลา \(Stay\)](https://open.spotify.com/track/5ZxoZpykxw62H7w1pSBGiV) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [หมดเวลา \(Stay\)](https://open.spotify.com/album/6Dr42qjdQRiWfLQ9eyeB0j) | 4:07 |
+| 10 | [ปลายเส้นขอบฟ้า \(Oath To Romance\)](https://open.spotify.com/track/62bBrZb27BfRxPG8JyG5Yz) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [ปลายเส้นขอบฟ้า \(Oath To Romance\)](https://open.spotify.com/album/0cuNQ5xAjy7Zp6JTp1sfB0) | 5:07 |
+| 11 | [ก่อนอาทิตย์จะจางหายไป \(Sunset\)](https://open.spotify.com/track/754lhqCrSQJp3XHQ7LgooJ) | [PENFINS](https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l) | [ก่อนอาทิตย์จะจางหายไป \(Sunset\)](https://open.spotify.com/album/5rmWc3FFAAUT3YhaGcLqqQ) | 5:18 |
+| 12 | [จากคนเคยข้างเคียง](https://open.spotify.com/track/5p9rgRvvwpfMk2DotftY6y) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [จากคนเคยข้างเคียง](https://open.spotify.com/album/5OrweJYa7a1YS5ruZi86Kz) | 3:26 |
+| 13 | [เมิน](https://open.spotify.com/track/3N9j3mTPPaHCoXmJbFb6cM) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [สองสี่สอง](https://open.spotify.com/album/4RbzkhG4HyYOmLUYiAgts3) | 2:49 |
+| 14 | [Something Something](https://open.spotify.com/track/1Anr3uwSDbh1hOFSaw25lb) | [TIMER](https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR) | [Something Something](https://open.spotify.com/album/2AIYYmfVUvitubFr9j8dlK) | 2:59 |
+| 15 | [Time](https://open.spotify.com/track/486H0daZXOovyj1wYCNsfk) | [murrph.](https://open.spotify.com/artist/6xBGYET3V8U4pUSYncnqRR) | [วันนั้น \(Time\)](https://open.spotify.com/album/6MZ9liYLd2eykOmvaJFY0Q) | 4:33 |
+| 16 | [จม](https://open.spotify.com/track/0DBRXsa1X2J88kdXVdwt2C) | [PLERNG](https://open.spotify.com/artist/4rPqckx0SX15z8IzFBpfUe) | [จม](https://open.spotify.com/album/0jH7gDsbpsbizv6aO4B0Tb) | 3:51 |
+| 17 | [จะไปเมื่อไร \(Chasm\)](https://open.spotify.com/track/5vDdfdhmgHSSnqa7wHz6bF) | [MACHINE.](https://open.spotify.com/artist/5R2xpBIDKtXym5pNc9WTVc) | [จะไปเมื่อไร \(Chasm\)](https://open.spotify.com/album/1lbUFCHXmDLU9MxyXGZvEy) | 4:10 |
+| 18 | [Rock And Love](https://open.spotify.com/track/1o0jz3THUdBsKHN9mnCXnQ) | [TIMER](https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR) | [Rock And Love](https://open.spotify.com/album/4KDDUaF1hrbDka0jIgTGCg) | 3:19 |
+| 19 | [อยากฟัง \(Listen\)](https://open.spotify.com/track/65ahqc2iKM2Uqs5c6YmvYo) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [อยากฟัง \(Listen\)](https://open.spotify.com/album/59z3FrfcRGNLRgao6siGfY) | 4:24 |
+| 20 | [ปลายฝัน](https://open.spotify.com/track/3FpuOReYrDxGs1DKML1CkX) | [Fortunekeiths](https://open.spotify.com/artist/2bV9h8ZuhxhzzsaEb8wITO) | [ปลายฝัน](https://open.spotify.com/album/03Nuwrvo7xkhGyILgtrgTc) | 4:26 |
+| 21 | [ไม่หายไป](https://open.spotify.com/track/2ytXVa9o3jBmXUHWB5nOW6) | [reu](https://open.spotify.com/artist/73jWtoYEh1OYEnsF7cnVEQ) | [ไม่หายไป](https://open.spotify.com/album/5MXFBR1ZKETyK4rjjMgN4G) | 4:44 |
+| 22 | [จากลา](https://open.spotify.com/track/2ihD2x6goZtf7HFILAYAqT) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [จากลา](https://open.spotify.com/album/05VCaZvpBwUVVe23A4nqET) | 4:24 |
+| 23 | [แข่งกันไหม V.S.](https://open.spotify.com/track/3usJfu75VE0yv8sAipCX3K) | [Fauvis](https://open.spotify.com/artist/0aiODLUBw3OMFGa48Xf9E4) | [แข่งกันไหม V.S.](https://open.spotify.com/album/5drOgVdpCJN41TQDIcvBXV) | 4:07 |
+| 24 | [เป็นเเค่เพียง](https://open.spotify.com/track/7CgkWPR2Lnzyg5eBJExrec) | [Zeedox](https://open.spotify.com/artist/5uBJqxXpz3npN0V85h9P5D) | [เป็นเเค่เพียง](https://open.spotify.com/album/6MBCKRrzJNR4er2tWPrBW5) | 2:56 |
+| 25 | [สุขสันต์วันเลิกรา \(Farewell\)](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา \(Farewell\)](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
+| 26 | [ไม่มีใครจะเหมือนเดิม](https://open.spotify.com/track/1eDKn007lhgouhCkc628SB) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [ไม่มีใครจะเหมือนเดิม](https://open.spotify.com/album/4Ul8pxBAmv4RMRXGLZoWES) | 4:07 |
 | 27 | [หากฉันได้รักใครอีกครั้ง](https://open.spotify.com/track/49RkE1kVmRI2HOL8U2Answ) | [YMY](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [YEP MAY YEP](https://open.spotify.com/album/00sYILXJKkxOVNILEgLjm7) | 4:18 |
 | 28 | [หน้ากากอนาคิน](https://open.spotify.com/track/7wbJE2SFdisXiIBKUKs35N) | [surf&turf.](https://open.spotify.com/artist/1F2DsY6G5IdKxxzxqQJSH7) | [หน้ากากอนาคิน](https://open.spotify.com/album/2RWmQm5TqJ7YdWWS5UThKv) | 4:23 |
 | 29 | [NOT SURPRISED](https://open.spotify.com/track/6nXv4KFCNeFPhZgjJjK4y6) | [memories can wait](https://open.spotify.com/artist/5JdAhInRtYmWXzOLOk2PjQ) | [NOT SURPRISED](https://open.spotify.com/album/4UpOZ3e2OrG4GIxl5f5ca2) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [ลืมยังไง? \(Hyperthymesia\)](https://open.spotify.com/track/31xpI8YYRCPxb1QQtkO2V0) | [SOK](https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa) | [ลืมยังไง? \(Hyperthymesia\)](https://open.spotify.com/album/6D3apcHYZqc5t3ZLHkqXt6) | 3:54 |
 | 50 | [เปลี่ยนฟ้า \(find.fine\)](https://open.spotify.com/track/1Xpp5yTaFEzLtPrITfIMdd) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [เปลี่ยนฟ้า \(find.fine\)](https://open.spotify.com/album/4AkJbg6p4uzfChGRwyklWd) | 7:09 |
 
-Snapshot ID: `AAAAADvWVnUIpfE5xuxiJ3uZYqkFUSa2`
+Snapshot ID: `AAAAAGZCPIXENV8RAT8AcG74fAQj9BEQ`

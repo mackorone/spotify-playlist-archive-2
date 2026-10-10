@@ -2,9 +2,9 @@
 
 ### [Starched](https://open.spotify.com/playlist/37i9dQZF1DX8IeJ8CDjZpj)
 
-> boot cut, extra heavy el almidón y el sombrero que no falte\. La Energía Norteña en portada.
+> boot cut, extra heavy el almidón y el sombrero que no falte\. Kacey Musgraves, Intocable en portada.
 
-577 songs - 1 day 9 hr 30 min
+581 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 | 2026-06-11 | 2026-07-07 |
 | [Espero Con Ansias](https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Princesa](https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ) | 3:34 | 2026-01-09 | 2026-04-25 |
 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 | 2023-01-25 | 2025-07-30 |
+| [Estrella Fugaz](https://open.spotify.com/track/409VRwJqpiTUgWLGJiNjUv) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Estrella Fugaz](https://open.spotify.com/album/2pZrnwVw54Wb9riZYIyImW) | 2:56 | 2026-10-09 |  |
 | [Eternamente](https://open.spotify.com/track/50IsM2T6YqWzxeVvdmVhGq) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [CD9](https://open.spotify.com/album/23ZoFAeexQP2AQ2wGEBKO5) | 3:14 | 2025-11-23 | 2026-01-15 |
 | [Eva Maria](https://open.spotify.com/track/78co7RoLUD80KC22tCq6of) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:47 | 2026-04-24 | 2026-06-12 |
 | [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 | 2025-07-29 | 2025-08-19 |
@@ -306,6 +307,7 @@
 | [Lío en la Cabeza](https://open.spotify.com/track/5R3bKOHr1yoqNbWbvA0GaB) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [3/4](https://open.spotify.com/album/2Sl85MmGa1Kzv9Z4jlWLSP) | 3:09 | 2025-11-23 | 2026-01-15 |
 | [Mal Necesario](https://open.spotify.com/track/2bZyFkIoXKb7OnfRQRX6x4) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW) | 2:52 | 2026-09-25 |  |
 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 | 2023-01-25 | 2025-07-30 |
+| [Mala Suerte](https://open.spotify.com/track/66YmtFy5ad1YdK0oinnZJU) | [Brian Ortega](https://open.spotify.com/artist/7nnT7yQeFZL54yTnBnMv4b), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Mala Suerte](https://open.spotify.com/album/3V7N1qDR5PrRlFtlg8rqLJ) | 3:14 | 2026-10-09 |  |
 | [Malibú](https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Malibú](https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz) | 3:40 | 2025-07-29 | 2025-08-19 |
 | [Mambo Lupita](https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 3:34 | 2026-04-24 | 2026-06-12 |
 | [Mami Tú](https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Mami Tú](https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa) | 2:43 | 2025-07-29 | 2025-08-19 |
@@ -468,6 +470,7 @@
 | [Sin Ti](https://open.spotify.com/track/4LPNlYouyfk0R2kvIiVWgB) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Sin Ti](https://open.spotify.com/album/44u0YqrJSVXucB6qs5hdkP) | 1:57 | 2026-09-25 |  |
 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 3:13 | 2023-01-25 | 2025-07-30 |
 | [Skin](https://open.spotify.com/track/62YAKv9ak7mxrNRdhe7Pe9) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) | 5:03 | 2025-08-18 | 2025-11-24 |
+| [Snakeskin Boots \(with Ella Langley\)](https://open.spotify.com/track/48bYALVRHqShR62hOLsXmi) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Snakeskin Boots](https://open.spotify.com/album/68Ar3PfqOqMbP22heuOeE7) | 4:09 | 2026-10-09 |  |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-01-25 | 2025-07-30 |
 | [Sobran Motivos](https://open.spotify.com/track/1fyqMU7H0lnxhCjAgy7OBT) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/6Xz3loQRKnqGKzq43ihYDH) | 3:05 | 2026-09-25 |  |
 | [Sofia](https://open.spotify.com/track/0za55KLGfhCOr2TC4RM6dr) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 3:08 | 2025-08-18 | 2025-11-24 |
@@ -540,6 +543,7 @@
 | [Un Beso](https://open.spotify.com/track/0slFpqEDShM7FkpvKKSGrS) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [1.0](https://open.spotify.com/album/1J5bpBQ38lc6f8UXUaUK3H) | 3:04 | 2025-11-23 | 2026-01-15 |
 | [Una Noche en Medellín](https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw) | 2:33 | 2023-01-25 | 2024-04-19 |
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2023-01-25 | 2025-07-30 |
+| [Uncertain, TX \(feat\. Intocable\) \- Spanish Version](https://open.spotify.com/track/3CF6hmINIcPUh0wfxN0ft3) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Uncertain, TX \(feat\. Intocable\) \[Spanish Version\]](https://open.spotify.com/album/7rWbojvauIqKj6PHESW6YB) | 3:33 | 2026-10-09 |  |
 | [Unravel Me](https://open.spotify.com/track/5TVlcZRCVoJVi9OaDvGxEB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 4:05 | 2025-08-18 | 2025-09-06 |
 | [Unstoppable](https://open.spotify.com/track/059ACLUOyEcdruA2m9f2jd) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ) | 3:37 | 2026-01-09 | 2026-04-25 |
 | [Vanidosa](https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Corazón](https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY) | 3:17 | 2026-04-24 | 2026-06-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 518354,
+  "num_followers": 518365,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "The Gambler",
-        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "The Gambler",
-      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 258411,
       "name": "You're So Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "The Gambler",
+        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Simple Dreams",
-        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 239399,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Escape...The Best Of",
         "url": "https://open.spotify.com/album/1DNXVmeXx7p959XvA3LtV8"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 275293,
       "name": "Escape (The Pina Colada Song)",
       "url": "https://open.spotify.com/track/5I9zIwGB6f0edpjO5oX2b9"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Simple Dreams",
+        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 239399,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Tea for the Tillerman",
         "url": "https://open.spotify.com/album/1FKScTiXaADVfAp6gTWHKj"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Honky Chateau (Remastered)",
-        "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
-      "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
+      "duration_ms": 244826,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -951,6 +935,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Honky Chateau (Remastered)",
+        "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "All Things Must Pass (Remastered)",
         "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 281226,
       "name": "My Sweet Lord",
       "url": "https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "And Then There Were Three",
+        "url": "https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 240991,
+      "name": "Follow You Follow Me - Remastered 2007",
+      "url": "https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -983,18 +999,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "And Then There Were Three",
-        "url": "https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg"
+        "name": "Even In The Quietest Moments (Remastered)",
+        "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
       },
       "artists": [
         {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 240991,
-      "name": "Follow You Follow Me - Remastered 2007",
-      "url": "https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo"
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1031,22 +1047,6 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Even In The Quietest Moments (Remastered)",
-        "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u"
     },
     {
       "added_at": "2024-06-03 14:45:23",

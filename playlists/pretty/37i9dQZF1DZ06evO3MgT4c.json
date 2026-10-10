@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 441101,
+  "num_followers": 441119,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADLzfyI8g7WvSptZIhkNEtB",
+  "snapshot_id": "asbdAAAAAADuMizLenv/3YeSTtxk1sgm",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 343150,
-      "name": "Bad and Boujee (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Davis",
         "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 233087,
       "name": "I Get the Bag (feat. Migos)",
       "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 343150,
+      "name": "Bad and Boujee (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
     },
     {
       "added_at": null,
@@ -811,6 +811,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give No Fxk",
+        "url": "https://open.spotify.com/album/5PGZpfzDkbbTvhDAuZlSQo"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 224243,
+      "name": "Give No Fxk",
+      "url": "https://open.spotify.com/track/6ZelF5APDN5r6XnFqcnvWR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ransom 2",
         "url": "https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 274846,
       "name": "Gucci On My (feat. 21 Savage, YG & Migos)",
       "url": "https://open.spotify.com/track/3IHZc2GclRu5nJpTqty7MY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give No Fxk",
-        "url": "https://open.spotify.com/album/5PGZpfzDkbbTvhDAuZlSQo"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 224243,
-      "name": "Give No Fxk",
-      "url": "https://open.spotify.com/track/6ZelF5APDN5r6XnFqcnvWR"
     },
     {
       "added_at": null,

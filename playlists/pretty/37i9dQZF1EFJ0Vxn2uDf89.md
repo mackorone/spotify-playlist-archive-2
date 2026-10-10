@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371 likes - 190 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 370 likes - 190 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 74 | [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 |
 | 75 | [Don't Need A Hero](https://open.spotify.com/track/22S4rNFZzGcpDLo0Oqnnay) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Last Legends](https://open.spotify.com/album/6v2mSLE5CO0qXmxdIEAnLq) | 2:33 |
 | 76 | [Strawberry Jam](https://open.spotify.com/track/4h6ikKsZYuiIm6j6Ii9HeS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:32 |
-| 77 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 |
-| 78 | [Often, Lately](https://open.spotify.com/track/6wpPY2tlgKSMXvuiXRU7Fk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:19 |
+| 77 | [Often, Lately](https://open.spotify.com/track/6wpPY2tlgKSMXvuiXRU7Fk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:19 |
+| 78 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 |
 | 79 | [Dressed to Kill](https://open.spotify.com/track/6j7s4efnQGF19g6Jp2HE9D) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/2YoatZbkNsBRrfmX0pq9Ay) | 2:52 |
 | 80 | [Flip Me Upside Down](https://open.spotify.com/track/3aHgTNM3PKYuTJt1zCFpJP) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not The World](https://open.spotify.com/album/50hkPbORARa25Wv8h0E1i7) | 3:13 |
 | 81 | [First High](https://open.spotify.com/track/1zDomzzT6h0Sa2BAzMxvma) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 3:07 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 98 | [Other Lives](https://open.spotify.com/track/7i4us3Bgm5MIEyBdSa8vGR) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Bury Me](https://open.spotify.com/album/5bH0uvRjdLCrxG73wayab9) | 3:12 |
 | 99 | [Breakin'](https://open.spotify.com/track/2JkbiwiIiPeQyjkQtKGf4X) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Happy To Be Here](https://open.spotify.com/album/4fhcxulBSzmg4aENyGBZNT) | 4:23 |
 | 100 | [Good Day](https://open.spotify.com/track/24QDabNf5LeeTQoTMYOACb) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 3:07 |
-| 101 | [You Don't Belong To Me](https://open.spotify.com/track/4dI7e1C5z6SNnqWI6jdLcO) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:32 |
-| 102 | [Sinner](https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:02 |
+| 101 | [Sinner](https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:02 |
+| 102 | [You Don't Belong To Me](https://open.spotify.com/track/4dI7e1C5z6SNnqWI6jdLcO) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:32 |
 | 103 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
 | 104 | [Sertraline](https://open.spotify.com/track/659flwujVevewkwxpyk7DG) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
 | 105 | [Gotta Get To Know Ya](https://open.spotify.com/track/2v8jqoNTcjzgS2W5UG9QhB) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/2gHwDJVrMGadBm6mPUnWt5) | 2:17 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 145 | [The Middle of Nowhere](https://open.spotify.com/track/6j9cbCHQgQeQMlSngzaggO) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Garrett Nash](https://open.spotify.com/artist/0rdndvV0SFiSHPRHHUNmR0) | [The Middle of Nowhere](https://open.spotify.com/album/0C1xbHunjBjfnBZIo9N54b) | 2:48 |
 | 146 | [Sensation](https://open.spotify.com/track/4tTPpyrQ0YZBOHrqPF0Vf2) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Bleed Gold, Piss Excellence](https://open.spotify.com/album/6Ax5fLV2mChF9oskFtg8Y2) | 3:23 |
 | 147 | [Ronnie Ray](https://open.spotify.com/track/4tpHsSfDNbNnIjpCM0rwQd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:44 |
-| 148 | [Everything Looks Beautiful](https://open.spotify.com/track/4Q6wWm1GyMweUtoz6PNvrr) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [E.G.O.](https://open.spotify.com/album/1VVaCcDi6CDJ86XpyGVUQ0) | 4:59 |
-| 149 | [Sing Along](https://open.spotify.com/track/7uYY9GcjZLTVvXSOtLSBVs) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:39 |
+| 148 | [Sing Along](https://open.spotify.com/track/7uYY9GcjZLTVvXSOtLSBVs) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:39 |
+| 149 | [Everything Looks Beautiful](https://open.spotify.com/track/4Q6wWm1GyMweUtoz6PNvrr) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [E.G.O.](https://open.spotify.com/album/1VVaCcDi6CDJ86XpyGVUQ0) | 4:59 |
 | 150 | [Estás Con Alguien \(feat\. Eva Ruiz\)](https://open.spotify.com/track/0kaYnO56h2Jwo1Pu3RysuF) | [Axel Muñiz](https://open.spotify.com/artist/2TwjyKRJpvRn4SpsniXJka), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Estás Con Alguien \(feat\. Eva Ruiz\)](https://open.spotify.com/album/1q2K9ybEnXEtFsvL3S2e8a) | 3:08 |
 | 151 | [Sway](https://open.spotify.com/track/6cf2GFrgq63gQUybV8xzGj) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [i hope you're happy](https://open.spotify.com/album/1kR8ROs5klKibWulbjWjxa) | 2:54 |
 | 152 | [Bloodtype](https://open.spotify.com/track/63fm2Xluo70j5rs8h5kPoq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 1:54 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 189 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 | 190 | [Happens All The Time](https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [All American Zero](https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h) | 3:03 |
 
-Snapshot ID: `AceblgAAAACf7JwSIj1p2OGEGYHnmn/H`
+Snapshot ID: `Aceg+gAAAAClqNB/oksRiavyUrLyhaDv`

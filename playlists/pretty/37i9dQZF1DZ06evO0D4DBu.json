@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 210703,
+  "num_followers": 210705,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAA0zvVBcxlvDfNmuUfF9T31",
+  "snapshot_id": "asbdAAAAAABqO3FVrJUQZ9e4/28S8Xh5",
   "tracks": [
     {
       "added_at": null,
@@ -531,34 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Unruly Mess I've Made",
-        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
-      },
-      "artists": [
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Need To Know (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -575,6 +547,30 @@
       "duration_ms": 255609,
       "name": "The Highs & The Lows (feat. Joey BadA$$)",
       "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Day",
+        "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 225923,
+      "name": "Hot Shower",
+      "url": "https://open.spotify.com/track/6TagqfYkLRIo8SPNdyaJ4f"
     },
     {
       "added_at": null,
@@ -603,26 +599,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Day",
-        "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
+        "name": "This Unruly Mess I've Made",
+        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
       "artists": [
         {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 225923,
-      "name": "Hot Shower",
-      "url": "https://open.spotify.com/track/6TagqfYkLRIo8SPNdyaJ4f"
+      "duration_ms": 232000,
+      "name": "Need To Know (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
     },
     {
       "added_at": null,
@@ -703,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "YOU CAN ALWAYS COME BACK HOME",
-        "url": "https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q"
+        "name": "Stars Out",
+        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
       },
       "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 231901,
-      "name": "YOU CAN ALWAYS COME BACK HOME",
-      "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
+      "duration_ms": 107462,
+      "name": "Stars Out",
+      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
     },
     {
       "added_at": null,
@@ -743,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stars Out",
-        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 107462,
-      "name": "Stars Out",
-      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 267692,
       "name": "Tree (feat. Lil Wayne & Smino)",
       "url": "https://open.spotify.com/track/58nLLDEP28jLGbqbGZD7OB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YOU CAN ALWAYS COME BACK HOME",
+        "url": "https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 231901,
+      "name": "YOU CAN ALWAYS COME BACK HOME",
+      "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Might Need Security",
-        "url": "https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "I Might Need Security",
-      "url": "https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Might Need Security",
+        "url": "https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "I Might Need Security",
+      "url": "https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "iiiDrops",
         "url": "https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 212950,
       "name": "Girls @ (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/5p7sELomeqtq9ypH3VeVH1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3333",
-        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "3333",
-      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
     },
     {
       "added_at": null,
@@ -955,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3333",
+        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 153648,
+      "name": "3333",
+      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Day",
-        "url": "https://open.spotify.com/album/71BfvzpZmuVgW6zdQ93bin"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "14,400 Minutes",
-      "url": "https://open.spotify.com/track/2C4qO9u7TFMm4gt5MReyAD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 293050,
       "name": "No More Old Men (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Day",
+        "url": "https://open.spotify.com/album/71BfvzpZmuVgW6zdQ93bin"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "14,400 Minutes",
+      "url": "https://open.spotify.com/track/2C4qO9u7TFMm4gt5MReyAD"
     },
     {
       "added_at": null,
@@ -1071,8 +1071,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Has Everything",
-        "url": "https://open.spotify.com/album/6uVmpm7xTaSmTraOa2ydUo"
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
       "artists": [
         {
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 218624,
-      "name": "The Man Who Has Everything",
-      "url": "https://open.spotify.com/track/7zw8liUMFv18r0FIoOXFwP"
+      "duration_ms": 223746,
+      "name": "Star Side Intro",
+      "url": "https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

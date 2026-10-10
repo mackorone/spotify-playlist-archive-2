@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1970s. Remembering Dolly Parton",
-  "num_followers": 5883873,
+  "num_followers": 5883872,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 270213,
       "name": "The Chain - 2004 Remaster",
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 219926,
-      "name": "Rock with You - Single Version",
-      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -235,22 +219,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
@@ -267,18 +235,34 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 176333,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 219926,
+      "name": "Rock with You - Single Version",
+      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -299,6 +283,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -791,22 +807,6 @@
       "duration_ms": 248360,
       "name": "Young Hearts Run Free",
       "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
       "artists": [
         {
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 341773,
-      "name": "Wild Horses - 2009 Mix",
-      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+      "duration_ms": 288666,
+      "name": "Miss You - Remastered",
+      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1339,8 +1339,8 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
       },
       "artists": [
         {
@@ -1348,9 +1348,9 @@
           "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 288666,
-      "name": "Miss You - Remastered",
-      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
+      "duration_ms": 341773,
+      "name": "Wild Horses - 2009 Mix",
+      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
         "name": "Take The Heat Off Me",
         "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 179491,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+      "duration_ms": 179491,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1627,6 +1611,22 @@
       "duration_ms": 92866,
       "name": "Stayin' Alive",
       "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Inseparable",
-        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "This Will Be (An Everlasting Love)",
-      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "The Age Of Plastic",
         "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 252773,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Inseparable",
+        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "This Will Be (An Everlasting Love)",
+      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
         "name": "Band On The Run",
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 313026,
       "name": "Band On The Run - 2010 Remaster",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Pieces Of Eight",
         "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 257226,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 211708,
-      "name": "Livin' Thing",
-      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Talking Book",
         "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 266133,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 211708,
+      "name": "Livin' Thing",
+      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Electric Warrior",
         "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 179173,
       "name": "Top Of The World",
       "url": "https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
     },
     {
       "added_at": "2026-04-29 17:39:04",

@@ -1,6 +1,6 @@
 {
   "description": "Ni\u00f1os Del Cerro en portada.",
-  "num_followers": 113887,
+  "num_followers": 113899,
   "original_name": "alt/chile",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAAQVpkUoewSqzgzMc7/uwEB4HGFq",
   "tracks": [
+    {
+      "added_at": "2026-10-09 03:00:07",
+      "album": {
+        "name": "Cuando Vas al Trabajo",
+        "url": "https://open.spotify.com/album/4ZIcax9d1AXwPRoua42q94"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Del Cerro",
+          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
+        }
+      ],
+      "duration_ms": 160554,
+      "name": "Cuando Vas al Trabajo",
+      "url": "https://open.spotify.com/track/5dQvh98O4WO4PLiUNPrCE1"
+    },
     {
       "added_at": "2026-10-09 03:00:07",
       "album": {

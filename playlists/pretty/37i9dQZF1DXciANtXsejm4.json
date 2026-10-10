@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 354839,
+  "num_followers": 354957,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "Respetando un Estilo",
         "url": "https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 241705,
       "name": "Esta Noche Quiero Brandy",
       "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 97466,
-      "name": "Conmigo Te Gust\u00f3",
-      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
+      "duration_ms": 199666,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
     },
     {
       "added_at": "2026-07-20 18:12:10",

@@ -106971,6 +106971,24 @@
     },
     {
       "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/45pdjlUca5bO7Vm5JnR1DV"
+      },
+      "artists": [
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147154,
+      "name": "Hurt Me Tonight",
+      "url": "https://open.spotify.com/track/5NDFD45qTV9gc11JLS7JlA"
+    },
+    {
+      "album": {
         "name": "Hurt My Feelings",
         "url": "https://open.spotify.com/album/3mxXFpBRDZOclvCaqFk7cO"
       },
@@ -142822,6 +142840,24 @@
       "duration_ms": 271829,
       "name": "Lowdown & Lonesome",
       "url": "https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx"
+    },
+    {
+      "album": {
+        "name": "Lower",
+        "url": "https://open.spotify.com/album/775QTB1CHUaqOxcmojybOw"
+      },
+      "artists": [
+        {
+          "name": "Jaren Johnston",
+          "url": "https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153745,
+      "name": "Lower",
+      "url": "https://open.spotify.com/track/61HUrcDGg7yBJiUQTF7whR"
     },
     {
       "album": {

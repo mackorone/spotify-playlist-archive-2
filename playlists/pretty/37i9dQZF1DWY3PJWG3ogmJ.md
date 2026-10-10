@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,039 likes - 120 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,065 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 31 | [All Pride No Pain](https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Southern Hostility](https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso) | 3:27 |
 | 32 | [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 |
 | 33 | [Human Carrying Capacity](https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:17 |
-| 34 | [Epitaph](https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Epitaph](https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9) | 3:37 |
-| 35 | [Forward!](https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [A New Kind of Horror](https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta) | 3:29 |
+| 34 | [Forward!](https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [A New Kind of Horror](https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta) | 3:29 |
+| 35 | [Epitaph](https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Epitaph](https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9) | 3:37 |
 | 36 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
 | 37 | [Divine Apprehension](https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Opening Fire: 2008\-2014](https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5) | 4:17 |
 | 38 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
 | 39 | [Lhhc](https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast](https://open.spotify.com/album/15IZ0SjrSoX6dP9OOBu8gd) | 3:09 |
 | 40 | [Childchewer](https://open.spotify.com/track/18xvWGURVYg8hUIRHpowNr) | [Infant Annihilator](https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR) | [The Battle of Yaldabaoth](https://open.spotify.com/album/3d4cxbyEmAYdr4feJ8O9ob) | 2:46 |
 | 41 | [Wake The Dead](https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs) | 3:07 |
-| 42 | [Become a Machine](https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:12 |
-| 43 | [Blood in the Sands of Time](https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 5:22 |
+| 42 | [Blood in the Sands of Time](https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 5:22 |
+| 43 | [Become a Machine](https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:12 |
 | 44 | [Black Hoodie](https://open.spotify.com/track/3W6ZJSPIe43qkbLibP0ub2) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Bloodlust](https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m) | 3:29 |
 | 45 | [Divine](https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Divine](https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA) | 3:39 |
 | 46 | [Übermacht](https://open.spotify.com/track/3CNN8lGt2bMKWylhaNnR50) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Of Truth And Sacrifice](https://open.spotify.com/album/75nIP8284NK6VM5mCQCq36) | 5:25 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 77 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
 | 78 | [Life Is Pain](https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7) | 2:54 |
 | 79 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 |
-| 80 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
-| 81 | [Chance](https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp) | [Wrong Answer](https://open.spotify.com/artist/1ojBlwQXvlKyXzXY2uNEEo) | [Circle of Blood](https://open.spotify.com/album/07ixHVVwCh3xFvuqWo8LyE) | 2:33 |
+| 80 | [Chance](https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp) | [Wrong Answer](https://open.spotify.com/artist/1ojBlwQXvlKyXzXY2uNEEo) | [Circle of Blood](https://open.spotify.com/album/07ixHVVwCh3xFvuqWo8LyE) | 2:33 |
+| 81 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
 | 82 | [Endarkenment](https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [Endarkenment](https://open.spotify.com/album/5xReWyf922gGJUHZMale2w) | 3:55 |
 | 83 | [Void Silence](https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [Into the Light](https://open.spotify.com/album/1iScqogbUIJoj1GFDHBrlf) | 3:33 |
 | 84 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 100 | [I Am No Good](https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Crook](https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr) | 2:58 |
 | 101 | [Strength to Draw the Line](https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg) | [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Strength to Draw the Line](https://open.spotify.com/album/53js4P31lZMSZlINykloRH) | 2:48 |
 | 102 | [Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes](https://open.spotify.com/track/3DeAaXxQH2jmtWLKezKqa1) | [Nile](https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE) | [Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes](https://open.spotify.com/album/1xkFCu7kOfF55Qp5uZ3qZy) | 3:50 |
-| 103 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 |
-| 104 | [No Rest No Peace](https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI) | [Katalepsy](https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w) | [No Rest No Peace](https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ) | 4:26 |
+| 103 | [No Rest No Peace](https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI) | [Katalepsy](https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w) | [No Rest No Peace](https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ) | 4:26 |
+| 104 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 |
 | 105 | [Three Bastards](https://open.spotify.com/track/1jX4MOsnVz3lnPt5PJXWfN) | [Infant Annihilator](https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR) | [Three Bastards](https://open.spotify.com/album/4omNTdi2r9MIciuJVMSJoB) | 4:17 |
 | 106 | [Army of Cops](https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [Army of Cops](https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR) | 3:18 |
 | 107 | [Narcissus](https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Narcissus](https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p) | 3:08 |
@@ -127,6 +127,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 117 | [One with You](https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9) | [Backtrack](https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl) | [Bad to My World](https://open.spotify.com/album/5ysQoh4zeljDcOwgFZnNQS) | 2:29 |
 | 118 | [Ultimate](https://open.spotify.com/track/330RnswrHmcXgIgee4ZVOU) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Ultimate](https://open.spotify.com/album/1LnDkfF4HHBYhhKsHCeGjO) | 2:31 |
 | 119 | [Suffer More](https://open.spotify.com/track/27rwFWkrEWwUVWqvIM2g6u) | [Bather](https://open.spotify.com/artist/502NaboBTzKab9HiLVk8FM) | [Suffer More](https://open.spotify.com/album/7hs4LtxbmiZB8bBKLjvI2k) | 4:14 |
-| 120 | [Hostage to the Empire](https://open.spotify.com/track/0rGYbGA2AdnCbHhB50eShj) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Hostage to the Empire](https://open.spotify.com/album/1KwrFz2iGDGIeXJN0FkWKt) | 4:16 |
+| 120 | [Cosmic Maelstrom](https://open.spotify.com/track/0qUi4EcvYS5FBJXv1AGGJn) | [Cult of Lilith](https://open.spotify.com/artist/4PFwvUhk0VluHpOCa4OKHk) | [Cosmic Maelstrom](https://open.spotify.com/album/4XuK6MYuIAbKcFDs5Tuoqa) | 5:28 |
 
 Snapshot ID: `AAAAAO+EADSqW3npmm+/wbCk+DcbSysm`

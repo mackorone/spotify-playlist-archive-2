@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Angèle \(du titre \#1 au \#14\)\. Les titres \#15 à \#40 regroupent notre sélection des meilleures nouveautés des artistes francophones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,698 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,601 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

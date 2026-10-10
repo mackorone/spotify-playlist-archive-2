@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 233100,
       "name": "Como Te Olvido",
       "url": "https://open.spotify.com/track/3UnPolWiDF49MjUr2w0gZh"
@@ -2027,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/5Rgc8Lpwc44vtzn7RR5MZx"
+      },
+      "artists": [
+        {
+          "name": "TACH",
+          "url": "https://open.spotify.com/artist/2xoC488qPVU6XiNV9vjhGZ"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240910,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/1lNYu8zwRXUwI9YtxH0vBV"
+    },
+    {
+      "album": {
         "name": "Ella Pregunto",
         "url": "https://open.spotify.com/album/6PwucgqkKxzzful4DCDxwa"
       },
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 216980,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra"
@@ -3156,10 +3174,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 137541,
       "name": "La Neta",
       "url": "https://open.spotify.com/track/6KLCHorfObfTNApurEUdAq"
+    },
+    {
+      "album": {
+        "name": "Mi Casi Todo",
+        "url": "https://open.spotify.com/album/3RiDHLmz1pij7udfvyTiSc"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173185,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2ZOdl0lyaeEztkcjXcTPjQ"
     },
     {
       "album": {
@@ -3178,6 +3214,24 @@
       "duration_ms": 216006,
       "name": "La Tarde",
       "url": "https://open.spotify.com/track/6q0NKpIwLRKy60Fal8dbTP"
+    },
+    {
+      "album": {
+        "name": "N\u00e1ufrago",
+        "url": "https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163181,
+      "name": "la tarde de un domingo",
+      "url": "https://open.spotify.com/track/2N6zjjqumNIVod4TXjqiLD"
     },
     {
       "album": {
@@ -3995,6 +4049,28 @@
     },
     {
       "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194180,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
+    },
+    {
+      "album": {
         "name": "Mi Alma",
         "url": "https://open.spotify.com/album/6xDocSqmm3ACgaRFzycJLc"
       },
@@ -4194,7 +4270,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 398466,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
@@ -4472,7 +4548,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 208843,
       "name": "MORIR TRES VECES",
       "url": "https://open.spotify.com/track/0KBNNZNzYao3kVE1qkqKNt"
@@ -4841,6 +4917,24 @@
     },
     {
       "album": {
+        "name": "Mi Casi Todo",
+        "url": "https://open.spotify.com/album/3RiDHLmz1pij7udfvyTiSc"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187702,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/3UJcSJ2ZanRUfTGmKWxO0d"
+    },
+    {
+      "album": {
         "name": "NO SE VA",
         "url": "https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4"
       },
@@ -5079,6 +5173,24 @@
     },
     {
       "album": {
+        "name": "Ojeras",
+        "url": "https://open.spotify.com/album/0VJsSzj9SaQOmFSWip3mIH"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214297,
+      "name": "Ojeras",
+      "url": "https://open.spotify.com/track/3AYhOngBjabqryZvx0wDqC"
+    },
+    {
+      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -5252,7 +5364,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 246357,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/7CdoGE5Kprr9nFiYLMivrf"
@@ -5390,6 +5502,28 @@
       "duration_ms": 239200,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe"
+    },
+    {
+      "album": {
+        "name": "Perderte",
+        "url": "https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "Perderte",
+      "url": "https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ"
     },
     {
       "album": {
@@ -6388,7 +6522,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 212836,
       "name": "SAD EYES",
       "url": "https://open.spotify.com/track/3ApV2EqK706aKHyiaq8gLY"
@@ -8290,7 +8424,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 157336,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0"
@@ -8478,7 +8612,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 178638,
       "name": "Y Que Voy Hacer",
       "url": "https://open.spotify.com/track/5VuCkeLxzPmjMfdRsHhox8"

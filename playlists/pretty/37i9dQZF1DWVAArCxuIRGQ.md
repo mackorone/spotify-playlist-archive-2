@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,745 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,683 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 53 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 54 | [Wild World](https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ) | [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [John Gallen](https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH) | [Maxi](https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1) | 3:38 |
 | 55 | [Drinking in L.A.](https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp) | 3:56 |
-| 56 | [Is This Love](https://open.spotify.com/track/4mPd1gJhgcYFRSJyoYAxE8) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv) | 3:51 |
-| 57 | [My Destiny](https://open.spotify.com/track/2rdX2dS4KfkpR31qrQanE2) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:48 |
+| 56 | [My Destiny](https://open.spotify.com/track/2rdX2dS4KfkpR31qrQanE2) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:48 |
+| 57 | [Is This Love](https://open.spotify.com/track/4mPd1gJhgcYFRSJyoYAxE8) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv) | 3:51 |
 | 58 | [Here Comes the Hotstepper](https://open.spotify.com/track/1G88BbuMts7HC0nHGoHmhv) | [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:07 |
 | 59 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 |
 | 60 | [Hold On](https://open.spotify.com/track/3zzZVLdBKRW8JH7GhFPyvu) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH) | 3:46 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 66 | [The Tide Is High](https://open.spotify.com/track/52Rp3xBJFYYdmpgzDy0Quf) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:52 |
 | 67 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Right Here](https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj) | 3:46 |
 | 68 | [Teardrops \- 7” Single Version](https://open.spotify.com/track/2eRmD96ncTEgQwJmXa6rrg) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [80s Soul \(International Version\)](https://open.spotify.com/album/6eQ7vSfXNxJWeLUFeqKt4A) | 3:48 |
-| 69 | [Welcome To Jamrock](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/6tqa7pPWXrtdGVFqZx3b1j) | 3:33 |
-| 70 | [Love Come Down \- Single Version](https://open.spotify.com/track/2RCOWNCxDIphjhqTtkwtwR) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Best Of Evelyn "Champagne" King](https://open.spotify.com/album/6W7na0F9qczswPzdb42rZO) | 3:40 |
+| 69 | [Love Come Down \- Single Version](https://open.spotify.com/track/2RCOWNCxDIphjhqTtkwtwR) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Best Of Evelyn "Champagne" King](https://open.spotify.com/album/6W7na0F9qczswPzdb42rZO) | 3:40 |
+| 70 | [Welcome To Jamrock](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/6tqa7pPWXrtdGVFqZx3b1j) | 3:33 |
 | 71 | [Pure Shores](https://open.spotify.com/track/4mjLAbsWBCuqSOqMvaPkXd) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Pure Shores](https://open.spotify.com/album/0q5pj4C8Fl8d3pzn2OH0ZV) | 4:28 |
 | 72 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI) | [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [A Little Deeper](https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn) | 3:37 |
 | 73 | [Can't Hold We Down \(feat\. Popcaan\)](https://open.spotify.com/track/78aWIBZMTcqg4mvPpUdhss) | [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Hoodies All Summer](https://open.spotify.com/album/0N6HQ1sWJTf4QJxipeEazS) | 4:27 |

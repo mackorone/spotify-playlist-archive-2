@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 19439,
+  "num_followers": 19441,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABrqhOgUdwdsr3G4PRxCsEr",
+  "snapshot_id": "asbdAAAAAACRyNHid0r00IifqY9CSv4k",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Akonuche (Remix)",
         "url": "https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s"
       },
@@ -423,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 152105,
-      "name": "PINO (feat. Babyboy AV)",
-      "url": "https://open.spotify.com/track/4a1mfq20AKj6XNEh1SXhbJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back In Office",
         "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
       },
@@ -459,6 +419,26 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 152105,
+      "name": "PINO (feat. Babyboy AV)",
+      "url": "https://open.spotify.com/track/4a1mfq20AKj6XNEh1SXhbJ"
     },
     {
       "added_at": null,
@@ -483,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "KTIZO",
-          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
-        }
-      ],
-      "duration_ms": 158833,
-      "name": "Pier 46",
-      "url": "https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tanko (feat. Terry G)",
         "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
       },
@@ -519,6 +479,26 @@
       "duration_ms": 227533,
       "name": "Tanko (feat. Terry G)",
       "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "duration_ms": 158833,
+      "name": "Pier 46",
+      "url": "https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl"
     },
     {
       "added_at": null,
@@ -559,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 212041,
-      "name": "Ludo",
-      "url": "https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jaga Jaga (with Babyboy AV)",
         "url": "https://open.spotify.com/album/6ceb9dx3TsqZBcBrt3es8n"
       },
@@ -599,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 212041,
+      "name": "Ludo",
+      "url": "https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skido (with Olamide)",
         "url": "https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6"
       },
@@ -615,6 +595,30 @@
       "duration_ms": 166375,
       "name": "Skido (with Olamide)",
       "url": "https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
+      },
+      "artists": [
+        {
+          "name": "S high",
+          "url": "https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 206821,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ"
     },
     {
       "added_at": null,
@@ -647,30 +651,6 @@
       "duration_ms": 183000,
       "name": "Sunday School",
       "url": "https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
-      },
-      "artists": [
-        {
-          "name": "S high",
-          "url": "https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 206821,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ"
     },
     {
       "added_at": null,
@@ -838,15 +818,11 @@
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shorae Moore",
-          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
         }
       ],
-      "duration_ms": 217302,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
+      "duration_ms": 174452,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
     },
     {
       "added_at": null,
@@ -922,11 +898,15 @@
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
         }
       ],
-      "duration_ms": 174452,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
+      "duration_ms": 217302,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
     },
     {
       "added_at": null,
@@ -967,6 +947,26 @@
       "duration_ms": 193250,
       "name": "Like2 - Part II (with Skillibeng & Victony)",
       "url": "https://open.spotify.com/track/2nNenfkc5uv1b9zkLZ5rOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old School Love",
+        "url": "https://open.spotify.com/album/6f2DZKdpDMpENF1n0dFnIF"
+      },
+      "artists": [
+        {
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 171070,
+      "name": "Old School Love",
+      "url": "https://open.spotify.com/track/3efQODwjIfMi9NAl3p7lTI"
     }
   ],
   "unique_name": "This Is Victony",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,301 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,336 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 29 | [Trop parler](https://open.spotify.com/track/3S1BOUUpxzHoSddKKsrg5z) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [MOOD3 \(Glish\)](https://open.spotify.com/album/1WnYvTAoJM8BfXj4DpLCYR) | 3:03 |
 | 30 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 |
 | 31 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 |
-| 32 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
+| 32 | [Aucune attache](https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aucune attache](https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI) | 2:41 |
 | 33 | [T.I.A \- A COLORS SHOW](https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [T.I.A \- A COLORS SHOW](https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B) | 3:41 |
-| 34 | [Aucune attache](https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aucune attache](https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI) | 2:41 |
+| 34 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
 | 35 | [Toxic](https://open.spotify.com/track/0HpW4Sulmcr9V6ZiS0uHhf) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Memory](https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z) | 2:31 |
 | 36 | [Doucement](https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Doucement](https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf) | 3:47 |
 | 37 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 60 | [MINIMUM \(feat\. døpelym\)](https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd) | [SK 07](https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [MÉTAMORPHOSE](https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0) | 2:42 |
 | 61 | [C Komen ?](https://open.spotify.com/track/3Ra075Q3EScqTP5xr5z0Fk) | [Kiff No Beat](https://open.spotify.com/artist/4dQxvm7YD9qOd3SdToppT8) | [C Komen ?](https://open.spotify.com/album/0vUMWwABXMTf5YBHGxB4CA) | 3:59 |
 | 62 | [Champagne](https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG) | [RJ Kanierra](https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx) | [Champagne](https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg) | 3:34 |
-| 63 | [Ma nana](https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj) | [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [Ma nana](https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba) | 3:17 |
-| 64 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
+| 63 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
+| 64 | [Ma nana](https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj) | [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [Ma nana](https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba) | 3:17 |
 | 65 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 |
 | 66 | [Posa Na Bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa Na Bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 |
 | 67 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 |

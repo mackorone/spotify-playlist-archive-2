@@ -4,7 +4,7 @@
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-422 songs - 21 hr 59 min
+423 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [El Hombre Del Equipo](https://open.spotify.com/track/0M6ubxqeWNNB6RgeobpaV2) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Blanco y Negro Vol\. 1](https://open.spotify.com/album/6LK6fOmrYEovTCldkjLR6x) | 3:43 | 2023-08-08 | 2023-11-07 |
 | [El Jami](https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO) | 2:59 | 2024-04-16 | 2024-05-22 |
 | [El Jami](https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Y Así Suena el 3030](https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7) | 2:59 | 2023-08-08 | 2024-04-19 |
+| [El Jefe de las Plazas](https://open.spotify.com/track/3CyCK4IXTHHz5ablmO72ny) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [LAS QUE SUENAN EN MI TROCA](https://open.spotify.com/album/6xdYPEZELEEsQjuXIwaShL) | 3:38 | 2026-09-11 |  |
 | [El Jelty](https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Jelty](https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE) | 3:09 | 2023-10-06 | 2024-03-16 |
 | [El Jessy](https://open.spotify.com/track/1ShS4CeMAsuTKuAbE6dMA2) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [El Jessy](https://open.spotify.com/album/1frZG7cwuuu7fgRe4EBPls) | 3:11 | 2023-10-06 | 2024-01-11 |
 | [El Jessy](https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [El Jessy](https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY) | 3:19 | 2023-12-29 | 2024-03-16 |
@@ -243,7 +244,7 @@
 | [london](https://open.spotify.com/track/6XvhcdURkbksWXvJbUWa0F) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [london](https://open.spotify.com/album/1jet2VzblKPPGhEwoBzvKX) | 3:13 | 2026-02-27 | 2026-08-08 |
 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 | 2023-08-08 |  |
 | [Los Brothers](https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Los Brothers](https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH) | 3:33 | 2024-03-01 | 2025-01-04 |
-| [Los Chiquinarcos](https://open.spotify.com/track/3hmQyfHL9Bg19bWs0eqMT1) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Los Chiquinarcos](https://open.spotify.com/album/09e4huPCFelwqiU5iKVTkl) | 3:04 | 2026-08-07 |  |
+| [Los Chiquinarcos](https://open.spotify.com/track/3hmQyfHL9Bg19bWs0eqMT1) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Los Chiquinarcos](https://open.spotify.com/album/09e4huPCFelwqiU5iKVTkl) | 3:04 | 2026-08-07 | 2026-10-10 |
 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 | 2023-08-08 |  |
 | [Los Cuadros](https://open.spotify.com/track/2aoGvpBEM1FO5ZEODi4Do5) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:40 | 2025-09-12 | 2026-01-22 |
 | [LOS CUADROS](https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [LOS CUADROS](https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz) | 2:40 | 2024-10-18 | 2026-02-28 |

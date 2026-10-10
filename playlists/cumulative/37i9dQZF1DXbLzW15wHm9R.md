@@ -4,7 +4,7 @@
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: Spider\-Man: Brand New Day.
 
-243 songs - 13 hr 42 min
+244 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/track/2EiJiEYSo7vfryttFuDuIw) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/album/080pSIFP4RIZmTbyRrwsE0) | 3:14 | 2024-07-12 | 2025-08-09 |
 | [All I Want \(from the Netflix Series "Bridgerton"\)](https://open.spotify.com/track/4uuVa7YG5n5QxdVN2XM7hx) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [All I Want \(from the Netflix Series "Bridgerton"\)](https://open.spotify.com/album/4HJ1f1jfoIzcfHTdKfbgA8) | 3:04 | 2024-06-07 | 2024-12-07 |
 | [All is Summer](https://open.spotify.com/track/3dgpYYu0fHl9jyMY3izzXc) | [Daniel Blumberg](https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj), [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u), [The Testament of Ann Lee Cast](https://open.spotify.com/artist/3smhfWwJ3vixdJGOU8b01L) | [All is Summer](https://open.spotify.com/album/51qZK00yCuVTx4Oo2ePrvk) | 2:41 | 2026-01-09 | 2026-09-27 |
-| [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2024-11-13 |  |
+| [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2024-11-13 | 2026-10-10 |
 | [Angels \(From Better Man: Original Motion Picture Soundtrack\) \(feat\. Adam Tucker\)](https://open.spotify.com/track/3qX0BTXF6zzJcfdQk3hfs8) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Adam Tucker](https://open.spotify.com/artist/6cF82Q4p0GsdVCfFdUIqgx) | [Angels \(From Better Man: Original Motion Picture Soundtrack\) \(feat\. Adam Tucker\)](https://open.spotify.com/album/1VOB4DU6GONRk6RXkgecjp) | 5:29 | 2024-12-20 | 2025-08-09 |
 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 | 2024-01-13 | 2024-05-23 |
 | [Are You with Me Now?](https://open.spotify.com/track/7JSKAwskeR9SGtwJdarODc) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Mug Museum](https://open.spotify.com/album/5xXP2gI8U35p389RggZW6O) | 4:20 | 2025-07-16 | 2025-08-30 |
@@ -173,6 +173,7 @@
 | [Red](https://open.spotify.com/track/2SIq8DBT8ezjxarFag8Sf8) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Alex Boniello](https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants: The Rise of Red \(Original Soundtrack\)](https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK) | 3:08 | 2024-07-12 | 2025-07-17 |
 | [Release \- Original Music From The Motion Picture TRAP](https://open.spotify.com/track/6c2EpAuvFIbBIWQHt4Pf8z) | [Saleka](https://open.spotify.com/artist/7ESkOK8bwqIEVwerMPuwI7) | [Release \(Original Music From The Motion Picture TRAP\)](https://open.spotify.com/album/45VZ6dWVygQVlYqonfopAf) | 3:18 | 2024-06-07 | 2025-05-10 |
 | [Ride Like the Wind \- 2019 Remaster](https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/4unLP4n9N8NB71dvSuI5Mt) | 4:30 | 2026-04-24 |  |
+| [Roads](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:03 | 2026-10-09 |  |
 | [Rockin' Robin](https://open.spotify.com/track/63gcHyuhAC8G2C0bVQUOJI) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Got To Be There](https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu) | 2:34 | 2025-12-29 | 2026-05-23 |
 | [Ruins](https://open.spotify.com/track/4OlSaHe8AxKZikrhzf8GnY) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily in Paris Season 4 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry) | 3:17 | 2024-09-16 | 2025-03-15 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2025-12-29 |  |

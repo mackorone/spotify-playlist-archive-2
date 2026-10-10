@@ -1,6 +1,6 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 127283,
+  "num_followers": 127297,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
+        "name": "Journeying",
+        "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
+      },
+      "artists": [
+        {
+          "name": "The Don Mason Trio",
+          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
+        }
+      ],
+      "duration_ms": 231130,
+      "name": "Journeying",
+      "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
         "name": "Something about him",
         "url": "https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Journeying",
-        "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
-      },
-      "artists": [
-        {
-          "name": "The Don Mason Trio",
-          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
-        }
-      ],
-      "duration_ms": 231130,
-      "name": "Journeying",
-      "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "All The Sunsets",
         "url": "https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 220650,
       "name": "All The Sunsets",
       "url": "https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
-        "name": "Dancing Shadows",
-        "url": "https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK"
-      },
-      "artists": [
-        {
-          "name": "Dries Riesen",
-          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
-        }
-      ],
-      "duration_ms": 204038,
-      "name": "Dancing Shadows",
-      "url": "https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -539,18 +523,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
+        "name": "Dancing Shadows",
+        "url": "https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK"
       },
       "artists": [
         {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+          "name": "Dries Riesen",
+          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
         }
       ],
-      "duration_ms": 291319,
-      "name": "Beautiful Sunrise",
-      "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
+      "duration_ms": 204038,
+      "name": "Dancing Shadows",
+      "url": "https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -567,6 +551,22 @@
       "duration_ms": 183544,
       "name": "Embraced by Night",
       "url": "https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "duration_ms": 291319,
+      "name": "Beautiful Sunrise",
+      "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
-      },
-      "artists": [
-        {
-          "name": "Cara Myers Trio",
-          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Lovestrung",
         "url": "https://open.spotify.com/album/7pGN97RlbphE3ap1UsWReS"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 199043,
       "name": "Lovestrung",
       "url": "https://open.spotify.com/track/57tNKYlNeknPlPFvMXsMaK"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Pearl-button",
-        "url": "https://open.spotify.com/album/2YLC9erulM0m04cnteK4lb"
-      },
-      "artists": [
-        {
-          "name": "Meadowpoints",
-          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
-        }
-      ],
-      "duration_ms": 198711,
-      "name": "Pearl-button",
-      "url": "https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Everytime We Say Goodbye",
         "url": "https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 280734,
       "name": "Everytime We Say Goodbye",
       "url": "https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Pearl-button",
+        "url": "https://open.spotify.com/album/2YLC9erulM0m04cnteK4lb"
+      },
+      "artists": [
+        {
+          "name": "Meadowpoints",
+          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
+        }
+      ],
+      "duration_ms": 198711,
+      "name": "Pearl-button",
+      "url": "https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Love To Be Happy",
-        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Love To Be Happy",
-      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Autumn Once Again",
         "url": "https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 284438,
       "name": "Autumn Once Again",
       "url": "https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Love To Be Happy",
+        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Love To Be Happy",
+      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Gentle Rain",
-        "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
+        "name": "My Midnight Velvet",
+        "url": "https://open.spotify.com/album/6tAp0HAVpCH5nCi632oXNH"
       },
       "artists": [
         {
-          "name": "Tom Francis",
-          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
         }
       ],
-      "duration_ms": 192874,
-      "name": "Gentle Rain",
-      "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
+      "duration_ms": 218336,
+      "name": "My Midnight Velvet",
+      "url": "https://open.spotify.com/track/54OUOajrkd8RLQoRqmmYD1"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
+        "name": "Gentle Rain",
+        "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "duration_ms": 192874,
+      "name": "Gentle Rain",
+      "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
         "name": "Forever Promises",
         "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 193237,
       "name": "Forever Promises",
       "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
-        "name": "My Midnight Velvet",
-        "url": "https://open.spotify.com/album/6tAp0HAVpCH5nCi632oXNH"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 218336,
-      "name": "My Midnight Velvet",
-      "url": "https://open.spotify.com/track/54OUOajrkd8RLQoRqmmYD1"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Every Time (You Say You Love Me)",
-        "url": "https://open.spotify.com/album/7nl7l03LHtzreCrMl7NRFX"
-      },
-      "artists": [
-        {
-          "name": "The Grace Smith Gang",
-          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
-        }
-      ],
-      "duration_ms": 180482,
-      "name": "Every Time (You Say You Love Me)",
-      "url": "https://open.spotify.com/track/3hrcctCLZhOnSdIYZzbVUS"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Have You Seen Me Lately",
         "url": "https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 131219,
       "name": "Have You Seen Me Lately",
       "url": "https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Every Time (You Say You Love Me)",
+        "url": "https://open.spotify.com/album/7nl7l03LHtzreCrMl7NRFX"
+      },
+      "artists": [
+        {
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+        }
+      ],
+      "duration_ms": 180482,
+      "name": "Every Time (You Say You Love Me)",
+      "url": "https://open.spotify.com/track/3hrcctCLZhOnSdIYZzbVUS"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "The Flow of Your Way",
-        "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
+        "name": "Lena",
+        "url": "https://open.spotify.com/album/4gTjYWSEJqiA0QIId5WdcU"
       },
       "artists": [
         {
-          "name": "Lachlan Wright Trio",
-          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
         }
       ],
-      "duration_ms": 206784,
-      "name": "The Flow of Your Way",
-      "url": "https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ"
+      "duration_ms": 182561,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/69T2sTQtGwNnHl1nV9hSlj"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Lena",
-        "url": "https://open.spotify.com/album/4gTjYWSEJqiA0QIId5WdcU"
+        "name": "The Flow of Your Way",
+        "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
       },
       "artists": [
         {
-          "name": "Eternal Time Trio",
-          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+          "name": "Lachlan Wright Trio",
+          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
         }
       ],
-      "duration_ms": 182561,
-      "name": "Lena",
-      "url": "https://open.spotify.com/track/69T2sTQtGwNnHl1nV9hSlj"
+      "duration_ms": 206784,
+      "name": "The Flow of Your Way",
+      "url": "https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1483,18 +1483,34 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Green Flash",
-        "url": "https://open.spotify.com/album/5ZdBepf6y7xyAORA8DQw4F"
+        "name": "Gloomy Sunday",
+        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
       },
       "artists": [
         {
-          "name": "Kristian Hart Trio",
-          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
         }
       ],
-      "duration_ms": 224403,
-      "name": "Green Flash",
-      "url": "https://open.spotify.com/track/5xvWyNc96sna64z86Fkv9d"
+      "duration_ms": 193256,
+      "name": "Gloomy Sunday",
+      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Views Of Dawn",
+        "url": "https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 293750,
+      "name": "Views Of Dawn",
+      "url": "https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1531,34 +1547,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Views Of Dawn",
-        "url": "https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM"
+        "name": "Green Flash",
+        "url": "https://open.spotify.com/album/5ZdBepf6y7xyAORA8DQw4F"
       },
       "artists": [
         {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
         }
       ],
-      "duration_ms": 293750,
-      "name": "Views Of Dawn",
-      "url": "https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
-        "name": "Gloomy Sunday",
-        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
-      },
-      "artists": [
-        {
-          "name": "Alec Taylor Trio",
-          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
-        }
-      ],
-      "duration_ms": 193256,
-      "name": "Gloomy Sunday",
-      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
+      "duration_ms": 224403,
+      "name": "Green Flash",
+      "url": "https://open.spotify.com/track/5xvWyNc96sna64z86Fkv9d"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Dreams About Change",
-        "url": "https://open.spotify.com/album/7fIIBv08dA6Nm8DSeu5whf"
-      },
-      "artists": [
-        {
-          "name": "James & LIsa",
-          "url": "https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Dreams About Change",
-      "url": "https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Blue Midnight",
         "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 189134,
       "name": "Blue Midnight",
       "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Dreams About Change",
+        "url": "https://open.spotify.com/album/7fIIBv08dA6Nm8DSeu5whf"
+      },
+      "artists": [
+        {
+          "name": "James & LIsa",
+          "url": "https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Dreams About Change",
+      "url": "https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Akaishi",
-        "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
-      },
-      "artists": [
-        {
-          "name": "Moonside Trio",
-          "url": "https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA"
-        }
-      ],
-      "duration_ms": 230192,
-      "name": "Akaishi",
-      "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Where is Jack?",
         "url": "https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 215231,
       "name": "Where is Jack?",
       "url": "https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Akaishi",
+        "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
+      },
+      "artists": [
+        {
+          "name": "Moonside Trio",
+          "url": "https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA"
+        }
+      ],
+      "duration_ms": 230192,
+      "name": "Akaishi",
+      "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Glencoe Sketches",
-        "url": "https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C"
-      },
-      "artists": [
-        {
-          "name": "Saphena Trio",
-          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
-        }
-      ],
-      "duration_ms": 261316,
-      "name": "Glencoe Sketches",
-      "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Forever and Always",
         "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
       },
@@ -1883,18 +1867,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Don't Go To Strangers",
-        "url": "https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m"
+        "name": "Glencoe Sketches",
+        "url": "https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C"
       },
       "artists": [
         {
-          "name": "Old Town Trio",
-          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
+          "name": "Saphena Trio",
+          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
         }
       ],
-      "duration_ms": 242167,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f"
+      "duration_ms": 261316,
+      "name": "Glencoe Sketches",
+      "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1911,6 +1895,22 @@
       "duration_ms": 183688,
       "name": "Love on a Lonely Street",
       "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m"
+      },
+      "artists": [
+        {
+          "name": "Old Town Trio",
+          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
+        }
+      ],
+      "duration_ms": 242167,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f"
     },
     {
       "added_at": "2026-06-09 09:45:00",

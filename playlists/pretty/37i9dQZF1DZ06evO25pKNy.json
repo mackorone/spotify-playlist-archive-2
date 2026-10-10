@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 6378,
+  "num_followers": 6379,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABM6HFVaLPuCUgWFGgJCShi",
+  "snapshot_id": "asbdAAAAAAAKycl5Lss8FeGis+kpgWid",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TROPIEZOS",
+        "url": "https://open.spotify.com/album/7KHg49ltLnNh4DRfWhVejU"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "TROPIEZOS",
+      "url": "https://open.spotify.com/track/1YnSjImuf66CsvBA4tnitg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como Debe Ser",
         "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 158973,
       "name": "The Bank Robbery",
       "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TROPIEZOS",
-        "url": "https://open.spotify.com/album/7KHg49ltLnNh4DRfWhVejU"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "TROPIEZOS",
-      "url": "https://open.spotify.com/track/1YnSjImuf66CsvBA4tnitg"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "El Tuna",
+      "url": "https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BAJITA LA TENAZA",
         "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 198598,
       "name": "EL CRESTA",
       "url": "https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "El Tuna",
-      "url": "https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 2",
-        "url": "https://open.spotify.com/album/6ZRu67zVL7LPmNxQeKziTb"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 162688,
-      "name": "Calorcito En California",
-      "url": "https://open.spotify.com/track/1ScDrnhZg0oEgWWMdiq8so"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde La 48",
         "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
       },
@@ -515,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
-        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
+        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 2",
+        "url": "https://open.spotify.com/album/6ZRu67zVL7LPmNxQeKziTb"
       },
       "artists": [
         {
@@ -524,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 169386,
-      "name": "El Buenazo",
-      "url": "https://open.spotify.com/track/1dmMTB71FFbS6HHHG6M28F"
+      "duration_ms": 162688,
+      "name": "Calorcito En California",
+      "url": "https://open.spotify.com/track/1ScDrnhZg0oEgWWMdiq8so"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
       "duration_ms": 206133,
       "name": "Vivo En Los Angeles",
       "url": "https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
+        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "El Buenazo",
+      "url": "https://open.spotify.com/track/1dmMTB71FFbS6HHHG6M28F"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 190197,
-      "name": "Quintana Roo",
-      "url": "https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos y Libras",
         "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 190197,
+      "name": "Quintana Roo",
+      "url": "https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 172554,
-      "name": "El Sobrino",
-      "url": "https://open.spotify.com/track/3I6BLpbHPGMp4bHr39Kezz"
+      "duration_ms": 171000,
+      "name": "Carta A Mi Familia",
+      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "CHALINOFEST",
-      "url": "https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "48th Piso",
         "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "CHALINOFEST",
+      "url": "https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Carta A Mi Familia",
-      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
+      "duration_ms": 172554,
+      "name": "El Sobrino",
+      "url": "https://open.spotify.com/track/3I6BLpbHPGMp4bHr39Kezz"
     },
     {
       "added_at": null,
@@ -718,15 +718,11 @@
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Soy Rencoroso",
-      "url": "https://open.spotify.com/track/50ocU9plfD2wa1j6NmClEj"
+      "duration_ms": 189789,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
     },
     {
       "added_at": null,
@@ -747,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classroom Love",
-        "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 256641,
-      "name": "Classroom Love",
-      "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -779,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
+        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
       },
       "artists": [
         {
@@ -788,9 +768,29 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 189789,
-      "name": "Cuando Me Muera",
-      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+      "duration_ms": 173354,
+      "name": "El De La Codeina",
+      "url": "https://open.spotify.com/track/6vJ7oKNUELxzWx2tZHCgNe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Soy Rencoroso",
+      "url": "https://open.spotify.com/track/50ocU9plfD2wa1j6NmClEj"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
       "duration_ms": 191994,
       "name": "Andaba En Pausa",
       "url": "https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
-        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 173354,
-      "name": "El De La Codeina",
-      "url": "https://open.spotify.com/track/6vJ7oKNUELxzWx2tZHCgNe"
     },
     {
       "added_at": null,
@@ -863,6 +847,22 @@
       "duration_ms": 226986,
       "name": "Mi Gusto Es - En Vivo",
       "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classroom Love",
+        "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 256641,
+      "name": "Classroom Love",
+      "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
     },
     {
       "added_at": null,

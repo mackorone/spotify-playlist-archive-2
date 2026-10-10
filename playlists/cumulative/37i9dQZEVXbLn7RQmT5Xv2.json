@@ -14220,7 +14220,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -19518,7 +19518,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 292097,
       "name": "\u0628\u062e\u0627\u0641 \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0633\u064a\u062f \u0627\u0644\u0646\u0627\u0633",
       "url": "https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW"
@@ -22054,7 +22054,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 182330,
       "name": "\u0639\u0645\u0643 \u0648 \u0639\u0645 \u0639\u0645\u0643",
       "url": "https://open.spotify.com/track/0LjbqLUkHL1YxVlKygcZZ9"
@@ -22162,7 +22162,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 245352,
       "name": "\u063a\u0628\u064a",
       "url": "https://open.spotify.com/track/4Xp2xAmjjGvMsmPwoz5aBR"
@@ -23326,6 +23326,28 @@
     {
       "album": {
         "name": "\u0645\u062a\u062d\u0635\u0646",
+        "url": "https://open.spotify.com/album/3x4I8IBw2pGFd2QXVtPkzK"
+      },
+      "artists": [
+        {
+          "name": "HAMO ELGALAD",
+          "url": "https://open.spotify.com/artist/1CmWZvZz4ezFl1OQDAAY3E"
+        },
+        {
+          "name": "\u0627\u0644\u062e\u0627\u0644 El khal",
+          "url": "https://open.spotify.com/artist/43tUkxTQS8pdg8AQ4SCo8L"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337200,
+      "name": "\u0645\u062a\u062d\u0635\u0646",
+      "url": "https://open.spotify.com/track/1SYcjpbPSlxsO8ytaTUaNd"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062a\u062d\u0635\u0646",
         "url": "https://open.spotify.com/album/2p1tIQLGzoVN3zHMTpvPGb"
       },
       "artists": [
@@ -23340,7 +23362,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 337212,
       "name": "\u0645\u062a\u062d\u0635\u0646",
       "url": "https://open.spotify.com/track/2l5LHTRC2l8j90YEQ10T0u"

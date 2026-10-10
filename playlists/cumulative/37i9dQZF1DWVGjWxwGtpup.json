@@ -10706,6 +10706,24 @@
     {
       "album": {
         "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290372,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
         "url": "https://open.spotify.com/album/53BSZEU1P0G9DICDS19Fdg"
       },
       "artists": [

@@ -4,7 +4,7 @@
 
 > The new wave of Latin pop 🌊 Cover: Alex Ponce
 
-1,327 songs - 2 day 18 hr 3 min
+1,328 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [Hermosa Casualidad](https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Hermosa Casualidad](https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj) | 3:25 | 2024-05-31 | 2024-08-10 |
 | [Himalaya](https://open.spotify.com/track/74KFolNpy0UwidpiCu8oT4) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Himalaya](https://open.spotify.com/album/5kMPhrT7xXXQwT13qko9WN) | 3:17 | 2022-03-21 | 2022-05-21 |
 | [Himno Nacional](https://open.spotify.com/track/3GJGNWgJgQN6xaftJQsBFd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Himno Nacional](https://open.spotify.com/album/6XIWWHP4vkWz0TFm2vekBp) | 2:24 | 2026-05-01 | 2026-08-01 |
+| [Histérica](https://open.spotify.com/track/7zVljuJTZHvl0RHi0LEDYG) | [Mimi Leclercq](https://open.spotify.com/artist/5jROvsAhZsmmETG67HIyYC) | [Histérica](https://open.spotify.com/album/3Wt9MCLYwSiQcJBSlyM9Yc) | 2:51 | 2026-10-09 |  |
 | [Home Alone](https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Home Alone](https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4) | 2:26 | 2024-07-26 | 2024-09-21 |
 | [Hora Loca](https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hora Loca](https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8) | 3:11 | 2023-09-22 | 2024-01-13 |
 | [hotel san juan](https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:19 | 2023-07-21 | 2023-09-06 |

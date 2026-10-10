@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 788 songs - 2 day 3 hr 4 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 791 songs - 2 day 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -796,5 +796,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 786 | [Son Of A Gun](https://open.spotify.com/track/5YwC6cvM1rYyzzSxsR3zbf) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 1:56 |
 | 787 | [Crystals and Herbs](https://open.spotify.com/track/2o5IIprbpqJfv9Cz18Bi7M) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [I Heard It's A Mess There Too](https://open.spotify.com/album/0FUznat4Kw5r3i8trH7ds5) | 1:31 |
 | 788 | [Mesh](https://open.spotify.com/track/6q434zzWBD7culnGqk7rc3) | [Toys From Taiwan](https://open.spotify.com/artist/2FOHOwAyJLD2RImyfPimKa) | [Shorts! Vol\. 1](https://open.spotify.com/album/07mB7TcGEStlDvLkMP7ukh) | 1:35 |
+| 789 | [It All Fell in the River \- Live at Carnegie Hall](https://open.spotify.com/track/6QoOy0hBf3GnUyZiEVCHol) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Live at Carnegie Hall](https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt) | 4:30 |
+| 790 | [Bottle](https://open.spotify.com/track/0j0Xae7CpwZHoC1QFhIpFb) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 4:18 |
+| 791 | [She’s the Best](https://open.spotify.com/track/60JHe6LKotHykqgenefBV2) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 4:14 |
 
-Snapshot ID: `AAAJy/vv2Z5FiQ9u1hAqNVwrqDTl0xN5`
+Snapshot ID: `AAAJzg8A8pDCnB0DMDK7RRlHsCwBKlFr`

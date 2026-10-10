@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 35907,
+  "num_followers": 35906,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "DIA DEL\u00cdCIA",
         "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 75461,
       "name": "DIA DEL\u00cdCIA",
       "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "I Only Smoke When I Drink",
-        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "I Only Smoke When I Drink",
-      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -275,26 +275,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "ACELERADA",
-        "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        },
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        }
-      ],
-      "duration_ms": 61269,
-      "name": "ACELERADA",
-      "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "METAMORPHOSIS",
         "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
       },
@@ -311,22 +291,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "MENTE M\u00c1",
-        "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
+        "name": "ACELERADA",
+        "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
       },
       "artists": [
         {
-          "name": "Nakama",
-          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
         },
         {
-          "name": "Mc Staff",
-          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
         }
       ],
-      "duration_ms": 75302,
-      "name": "MENTE M\u00c1",
-      "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
+      "duration_ms": 61269,
+      "name": "ACELERADA",
+      "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -355,6 +335,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "MENTE M\u00c1",
+        "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
+      },
+      "artists": [
+        {
+          "name": "Nakama",
+          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
+        },
+        {
+          "name": "Mc Staff",
+          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
+        }
+      ],
+      "duration_ms": 75302,
+      "name": "MENTE M\u00c1",
+      "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -411,6 +395,38 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -435,22 +451,6 @@
       "duration_ms": 99285,
       "name": "LOS VOLTAJE",
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "don't need u (i do)",
-        "url": "https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ"
-      },
-      "artists": [
-        {
-          "name": "blunn",
-          "url": "https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "don't need u (i do)",
-      "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Fuck My Computer",
         "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 190577,
       "name": "Fuck My Computer",
       "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "don't need u (i do)",
+        "url": "https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ"
+      },
+      "artists": [
+        {
+          "name": "blunn",
+          "url": "https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "don't need u (i do)",
+      "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Fast Money",
+        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 142529,
+      "name": "Fast Money",
+      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "SPOOKY",
         "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 96923,
       "name": "SPOOKY",
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Fast Money",
-        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 142529,
-      "name": "Fast Money",
-      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "The Basement",
-        "url": "https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr"
-      },
-      "artists": [
-        {
-          "name": "Kissimjau",
-          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
-        }
-      ],
-      "duration_ms": 136946,
-      "name": "The Basement",
-      "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Pelican",
         "url": "https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 154285,
       "name": "Pelican",
       "url": "https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "The Basement",
+        "url": "https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr"
+      },
+      "artists": [
+        {
+          "name": "Kissimjau",
+          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
+        }
+      ],
+      "duration_ms": 136946,
+      "name": "The Basement",
+      "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2627,22 +2627,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Welcome To My Crib",
-        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
-      },
-      "artists": [
-        {
-          "name": "FUCK!LACR\u00c8ME",
-          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Slam It",
-      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "SESSION_02",
         "url": "https://open.spotify.com/album/6ljtPok6A0Ca5z4w3UoGtY"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 164571,
       "name": "Baller (feat. So-ma, Karyuu & Barney Soon)",
       "url": "https://open.spotify.com/track/5hhwoBsZHsDxv2umK0d9Y0"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Welcome To My Crib",
+        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
+      },
+      "artists": [
+        {
+          "name": "FUCK!LACR\u00c8ME",
+          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Slam It",
+      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2815,6 +2815,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Slingshooters",
+        "url": "https://open.spotify.com/album/2EM4b2sdXX8SxPaJhM31SU"
+      },
+      "artists": [
+        {
+          "name": "HLRTY",
+          "url": "https://open.spotify.com/artist/3d8yEl9r4C6FKNoqZ6PykY"
+        }
+      ],
+      "duration_ms": 292012,
+      "name": "Slingshooters",
+      "url": "https://open.spotify.com/track/3e9b3CxiQ02SPSDfGWcBIY"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Escape (feat. Hayla)",
         "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
       },
@@ -2839,22 +2855,6 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Slingshooters",
-        "url": "https://open.spotify.com/album/2EM4b2sdXX8SxPaJhM31SU"
-      },
-      "artists": [
-        {
-          "name": "HLRTY",
-          "url": "https://open.spotify.com/artist/3d8yEl9r4C6FKNoqZ6PykY"
-        }
-      ],
-      "duration_ms": 292012,
-      "name": "Slingshooters",
-      "url": "https://open.spotify.com/track/3e9b3CxiQ02SPSDfGWcBIY"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2915,6 +2915,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "PHONKY TOWN",
+        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
+      },
+      "artists": [
+        {
+          "name": "PlayaPhonk",
+          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "PHONKY TOWN",
+      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "COWBELL WARRIOR!",
         "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
       },
@@ -2927,6 +2943,26 @@
       "duration_ms": 149461,
       "name": "COWBELL WARRIOR!",
       "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "When The Summer Dies",
+        "url": "https://open.spotify.com/album/1u7CRR2ketwfxA3FKGzEPK"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 329531,
+      "name": "When The Summer Dies",
+      "url": "https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2955,22 +2991,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "PHONKY TOWN",
-        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
-      },
-      "artists": [
-        {
-          "name": "PlayaPhonk",
-          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "PHONKY TOWN",
-      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Astronaut In The Ocean (Alok Remix)",
         "url": "https://open.spotify.com/album/3DMIESlogCaK0E3W0awobM"
       },
@@ -2987,26 +3007,6 @@
       "duration_ms": 128371,
       "name": "Astronaut In The Ocean - Alok Remix",
       "url": "https://open.spotify.com/track/25dOYUvTT4wyw7r3vS37ca"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "When The Summer Dies",
-        "url": "https://open.spotify.com/album/1u7CRR2ketwfxA3FKGzEPK"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 329531,
-      "name": "When The Summer Dies",
-      "url": "https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI"
     },
     {
       "added_at": "2026-04-13 15:38:24",

@@ -1,13 +1,29 @@
 {
-  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Manuel Turizo.",
-  "num_followers": 626385,
+  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Maisak\n",
+  "num_followers": 626358,
   "original_name": "Popet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALtEebCnbc2oT4pN7rh4u5mI7Kd6",
+  "snapshot_id": "AAAAAPBzqfdtKSPC2Ccqe9u+cSVPhuMK",
   "tracks": [
+    {
+      "added_at": "2026-10-09 04:59:28",
+      "album": {
+        "name": "Vallenatico pa la Disco",
+        "url": "https://open.spotify.com/album/2NIdcHU9Bs37j9a7WHtUMH"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "duration_ms": 156712,
+      "name": "Dejarte Ir",
+      "url": "https://open.spotify.com/track/16vfIvWt0Gw8z2Kj3CE3qt"
+    },
     {
       "added_at": "2026-04-10 04:59:29",
       "album": {

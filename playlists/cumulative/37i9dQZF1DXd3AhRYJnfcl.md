@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: شيرين
 
-481 songs - 1 day 4 hr 18 min
+483 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [El Fatra Di](https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:49 | 2022-04-13 | 2022-05-20 |
 | [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-09-26 | 2022-10-26 |
 | [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 | 2022-05-13 | 2022-12-07 |
-| [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 | 2025-10-05 |  |
+| [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 | 2025-10-05 | 2026-10-10 |
 | [El Kemya Rakba Men Bernameg Beit El Saad](https://open.spotify.com/track/0hlBOgHUfqBihL3y8WKEPf) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [El Kemya Rakba Men Bernameg Beit El Saad](https://open.spotify.com/album/2rXQKVtSVLPNlsZFEjFgpl) | 1:31 | 2024-07-08 | 2024-09-10 |
 | [El Mabda2](https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:38 | 2024-05-07 | 2024-09-10 |
 | [El Melouk \- الملوك](https://open.spotify.com/track/04vHPXVGnb51q13NBoW22W) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [El Melouk \- الملوك](https://open.spotify.com/album/3eMTz433EZ3pEHtszeiIL2) | 3:15 | 2022-04-13 | 2023-01-03 |
@@ -338,6 +338,7 @@
 | [العدل فوق الجميع](https://open.spotify.com/track/72MAyfGDYRcbDYV7MCXbHM) | [Badrya Elsayed](https://open.spotify.com/artist/1V31n208uyKy8sKkGkMDUw) | [العدل فوق الجميع](https://open.spotify.com/album/7yWzFC4m4zb9qFER5ARKDr) | 2:32 | 2023-09-05 | 2023-12-09 |
 | [العوض على الله](https://open.spotify.com/track/3yeRnlbwNCyMEhnsqR6RxZ) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 4:09 | 2025-07-18 | 2026-04-02 |
 | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/1x77KcxyDUitE4trltji2r) | [Eslam Shendy](https://open.spotify.com/artist/2dYNk7MJlaOMlM9oXbrlfn) | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/6Cvk4ibByAaFlzNtAbNjZv) | 3:09 | 2024-07-08 | 2025-04-15 |
+| [القلب مات](https://open.spotify.com/track/7qOqrKgoWVntdBPJGF8Fxc) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [القلب مات](https://open.spotify.com/album/0ujtOcl7FVd8ATlgAQrHXW) | 3:48 | 2026-10-09 |  |
 | [اللي جاي بتاعنا](https://open.spotify.com/track/1BNhn1lZF39HCgaO1afuE4) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [اللي جاي بتاعنا](https://open.spotify.com/album/5Qcj7F2YKWE8hWEm8ryAPR) | 2:40 | 2024-01-20 | 2024-03-19 |
 | [انا من غيرك](https://open.spotify.com/track/2nQeY3iJpE57Rnc7r8z2Qx) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [انا من غيرك](https://open.spotify.com/album/6r21z8FXZjYr4Lz1s86u2o) | 3:31 | 2024-11-22 | 2026-06-26 |
 | [انتي فاكره نفسك ايه ؟](https://open.spotify.com/track/2FFtVrD5IEy4pgY1DFz8nV) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [انتي فاكره نفسك ايه ؟](https://open.spotify.com/album/178RKaUkMIryw2QM6MHYyv) | 2:18 | 2024-12-11 | 2025-08-05 |
@@ -470,6 +471,7 @@
 | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-10-25 | 2023-01-01 |
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 | 2023-06-23 | 2024-07-09 |
 | [هنا مصر هفضل كل مرة اجيلك](https://open.spotify.com/track/6u5F7iulJgzOswzPix4riq) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Banque Misr](https://open.spotify.com/artist/52ZYmo8Rhz3Xgxr7RUJ3ql) | [هنا مصر هفضل كل مرة اجيلك](https://open.spotify.com/album/02rhbXRVnloQdLz6EycG9u) | 2:38 | 2026-04-01 |  |
+| [هو اللي ساب](https://open.spotify.com/track/10jmfwITHMI0zOetiAXqlZ) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe) | [هو اللي ساب](https://open.spotify.com/album/3gozwCElL6bilrV360208y) | 3:36 | 2026-10-09 |  |
 | [هو انت مين](https://open.spotify.com/track/1qGEGcxFCJ0LhBCBSeZmqO) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 4:41 | 2024-08-08 | 2026-02-28 |
 | [هو ده بقى!!؟](https://open.spotify.com/track/53OjKvNUqahgOdYtlQKiGJ) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [هو ده بقى!!؟](https://open.spotify.com/album/4IsZh9PAmnNWEOrTjNtCUu) | 3:16 | 2025-08-12 | 2026-06-26 |
 | [هيبدأ يتكلم](https://open.spotify.com/track/1WZj20KRIEm6EyJwbtt2kf) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [هيبدأ يتكلم](https://open.spotify.com/album/0T84o5dPeM7uRabHJVioSs) | 2:46 | 2023-09-22 | 2024-02-08 |

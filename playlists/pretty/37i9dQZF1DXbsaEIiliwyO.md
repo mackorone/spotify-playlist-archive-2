@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: Kroi
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,333 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,336 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,19 +28,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 18 | [It's Going Down Now](https://open.spotify.com/track/7ANv9zA5z0Nssv7GedrvV6) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [ペルソナ3 リロード オリジナル・サウンドトラック](https://open.spotify.com/album/61yqhb1UqGVI2TV7pO4Tb6) | 3:06 |
 | 19 | [一進](https://open.spotify.com/track/78W5EXNzK3p9Rv2pesRCiW) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [一進](https://open.spotify.com/album/67ICiWR8Rr7GwfGzzYwHEK) | 3:21 |
 | 20 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 |
-| 21 | [GO GHOST](https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [GO GHOST](https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN) | 2:50 |
+| 21 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 |
 | 22 | [TRICK STAR](https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [TRICK STAR](https://open.spotify.com/album/5OjXQWEixp2wKn6XvfcOfM) | 4:22 |
 | 23 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 |
 | 24 | [Sorrow](https://open.spotify.com/track/7pYknrWaihratiLnnlLhJx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Sorrow](https://open.spotify.com/album/1QwU4tpiSCVYS6wTR2uHv3) | 4:29 |
 | 25 | [WARNING!!](https://open.spotify.com/track/6xqdTZWgBBh9MuF9t0zEbq) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [WARNING!!](https://open.spotify.com/album/0IY5wjcw47lnqiUFEVLNri) | 3:30 |
-| 26 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 |
+| 26 | [GO GHOST](https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [GO GHOST](https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN) | 2:50 |
 | 27 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 |
 | 28 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 |
 | 29 | [LOVE & LIKE](https://open.spotify.com/track/1nkfCEYkL2DQ02V3ffrwgL) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [LOVE & LIKE](https://open.spotify.com/album/0R7Oz36rfDjxF7hzRrt4A6) | 3:32 |
 | 30 | [ピースサイン \- Peace Sign](https://open.spotify.com/track/6QpWIlT6WqmwSYpR9Tjb13) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Peace Sign \- EP](https://open.spotify.com/album/42FMdvus2YAtEp6hGHgiD6) | 3:57 |
-| 31 | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs) | 4:03 |
+| 31 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 32 | [Nicoichi](https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [Nicoichi](https://open.spotify.com/album/43XRkt6cUp8lOLtKSqjlIr) | 2:30 |
-| 33 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
+| 33 | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs) | 4:03 |
 | 34 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 |
 | 35 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
 | 36 | [コンテンポラリーダンス](https://open.spotify.com/track/0abmIa1nBnueKntVaUbGbk) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [コンテンポラリーダンス](https://open.spotify.com/album/6GTYf6MfNubPMziBRCLfAf) | 3:57 |

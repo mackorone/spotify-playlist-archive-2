@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 188058,
       "name": "ar sugeb\u0117si?",
       "url": "https://open.spotify.com/track/5SyYLI7NzRcFNhONoeFq20"
@@ -10458,7 +10458,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
@@ -13484,7 +13484,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -21160,6 +21160,28 @@
       "duration_ms": 237706,
       "name": "Just A Lil Bit",
       "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
+    },
+    {
+      "album": {
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242721,
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
       "album": {
@@ -37656,7 +37678,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 169600,
       "name": "Ruden\u012f Snaig\u0117s",
       "url": "https://open.spotify.com/track/6Td1SOr7BEqZ7Uv5aTWuE8"
@@ -42670,7 +42692,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -42688,7 +42710,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -43412,7 +43434,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 123000,
       "name": "Tarp Gelton\u0173 R\u016bt\u0173",
       "url": "https://open.spotify.com/track/7oT03aTBgEAC3MqizjLL71"

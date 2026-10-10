@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 152480,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 152480,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/6t8FYoGOh31ssc9zS4OO6u"
@@ -340,10 +340,32 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 183219,
       "name": "BELIEVE IT",
       "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE (Chopped Not Slopped)",
+        "url": "https://open.spotify.com/album/7954tDYraStpAFjS8SdPfo"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183219,
+      "name": "BELIEVE IT (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/7nSjseivdBi1yLMLvV7mMq"
     },
     {
       "album": {
@@ -884,6 +906,28 @@
     {
       "album": {
         "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241889,
+      "name": "CN TOWER",
+      "url": "https://open.spotify.com/track/0wXjZ7aSrgM2BYZaTNpjdh"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
@@ -898,7 +942,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 241889,
       "name": "CN TOWER",
       "url": "https://open.spotify.com/track/4u43I0LP2Xf85OAS85eG0R"
@@ -1102,10 +1146,28 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 172337,
       "name": "DEEPER",
       "url": "https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172337,
+      "name": "DEEPER",
+      "url": "https://open.spotify.com/track/6uiUu8lf4zPULWU3m5jh6i"
     },
     {
       "album": {
@@ -1168,10 +1230,36 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195431,
+      "name": "DIE TRYING",
+      "url": "https://open.spotify.com/track/0gIUyyegjuKZenuZKCRiAL"
     },
     {
       "album": {
@@ -1402,6 +1490,24 @@
     {
       "album": {
         "name": "Dreamin",
+        "url": "https://open.spotify.com/album/3zwWIpIcftoO61vektNSgJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/1x9QTgYhQmw8BFXMuaTnXc"
+    },
+    {
+      "album": {
+        "name": "Dreamin",
         "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
       },
       "artists": [
@@ -1412,7 +1518,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 147146,
       "name": "Dreamin",
       "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
@@ -1564,7 +1670,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 212780,
       "name": "EYE ON IT",
       "url": "https://open.spotify.com/track/146UjHtpdTeJH86EBkf1cY"
@@ -1600,7 +1706,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 212780,
       "name": "EYE ON IT",
       "url": "https://open.spotify.com/track/6N994zHEhtefaMp0mIuMrK"
@@ -1952,10 +2058,32 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 205082,
       "name": "GLORIOUS",
       "url": "https://open.spotify.com/track/1mKNJs35ede94bTPWveVOo"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205082,
+      "name": "GLORIOUS",
+      "url": "https://open.spotify.com/track/2K8JydQDSqQx6dUh4BsN2n"
     },
     {
       "album": {
@@ -2000,6 +2128,28 @@
     {
       "album": {
         "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386165,
+      "name": "GREEDY",
+      "url": "https://open.spotify.com/track/2OdAJDoTADwoBXnmoEiMc6"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt"
       },
       "artists": [
@@ -2014,7 +2164,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 386165,
       "name": "GREEDY",
       "url": "https://open.spotify.com/track/2WNUYpLeOSMSlWgOmgGURl"
@@ -2344,6 +2494,28 @@
     {
       "album": {
         "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198692,
+      "name": "LASERS",
+      "url": "https://open.spotify.com/track/2MFgWJAh52d7upIJ7kvdca"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
@@ -2358,7 +2530,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 198692,
       "name": "LASERS",
       "url": "https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik"
@@ -2586,7 +2758,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 281119,
       "name": "LOYAL (feat. Drake and Bad Bunny) - Remix",
       "url": "https://open.spotify.com/track/6Z7hDgM9iN3Hu86ZX4HauB"
@@ -2612,7 +2784,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 281119,
       "name": "LOYAL (feat. Drake and Bad Bunny) - Remix",
       "url": "https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp"
@@ -2682,10 +2854,32 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 197973,
       "name": "LOYAL (feat. Drake)",
       "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "LOYAL (feat. Drake)",
+      "url": "https://open.spotify.com/track/6wTOQUNs8XNeTsVAPYubFg"
     },
     {
       "album": {
@@ -2802,6 +2996,32 @@
     {
       "album": {
         "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271058,
+      "name": "MEET YOUR PADRE",
+      "url": "https://open.spotify.com/track/15GQGJprdI4uLMtfheNIeh"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt"
       },
       "artists": [
@@ -2820,7 +3040,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 271058,
       "name": "MEET YOUR PADRE",
       "url": "https://open.spotify.com/track/6IcD1PElC3dJof2jY3n3Yt"
@@ -2868,6 +3088,28 @@
     {
       "album": {
         "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212629,
+      "name": "MOTH BALLS",
+      "url": "https://open.spotify.com/track/4OEzhuZiS1Qy4LsxkrEb9O"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
@@ -2882,7 +3124,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 212629,
       "name": "MOTH BALLS",
       "url": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
@@ -3005,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "PARTYMOBILE (Chopped Not Slopped)",
+        "url": "https://open.spotify.com/album/7954tDYraStpAFjS8SdPfo"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232549,
+      "name": "NEVER AGAIN",
+      "url": "https://open.spotify.com/track/0mz21mL7TcFtxQuusVK8AB"
+    },
+    {
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a"
       },
@@ -3052,7 +3312,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 232549,
       "name": "NEVER AGAIN",
       "url": "https://open.spotify.com/track/4WSzt0Tdm6ziMxwfadYQk5"
@@ -3298,7 +3558,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 208789,
       "name": "NOTHING LESS",
       "url": "https://open.spotify.com/track/07wQOvUrGeUtak35xGErIj"
@@ -3316,7 +3576,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 208789,
       "name": "NOTHING LESS",
       "url": "https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le"
@@ -3368,6 +3628,28 @@
     {
       "album": {
         "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233030,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/65flV8SJ4ERLJDJACRaHcv"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
@@ -3382,7 +3664,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 233030,
       "name": "OMW",
       "url": "https://open.spotify.com/track/775a936b2Vzl3fw86FaVat"
@@ -3650,10 +3932,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 193328,
       "name": "PGT",
       "url": "https://open.spotify.com/track/0oXy3jfrkWlhw3Kklndyhn"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE (Chopped Not Slopped)",
+        "url": "https://open.spotify.com/album/7954tDYraStpAFjS8SdPfo"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193328,
+      "name": "PGT",
+      "url": "https://open.spotify.com/track/19nqFltVqECwWGKRXvCJXw"
     },
     {
       "album": {
@@ -3676,10 +3976,36 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 118153,
       "name": "PIMMIE'S DILEMMA",
       "url": "https://open.spotify.com/track/4cwyp1aL1q3LfGCteqe8tL"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "PIMMIE'S DILEMMA",
+      "url": "https://open.spotify.com/track/5b0957OUHcG5XXeFcxM0ws"
     },
     {
       "album": {
@@ -4149,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "PARTYMOBILE (Chopped Not Slopped)",
+        "url": "https://open.spotify.com/album/7954tDYraStpAFjS8SdPfo"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376061,
+      "name": "SAVAGE ANTHEM",
+      "url": "https://open.spotify.com/track/2HEXCknvxmtoj8p8Rpl8mT"
+    },
+    {
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
@@ -4160,7 +4504,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 376061,
       "name": "SAVAGE ANTHEM",
       "url": "https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76"
@@ -4346,6 +4690,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286781,
+      "name": "SHOWING YOU",
+      "url": "https://open.spotify.com/track/5I8OJIlHo4Hiq85uq0efDe"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
@@ -4356,7 +4718,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 286781,
       "name": "SHOWING YOU",
       "url": "https://open.spotify.com/track/6a5vE6GHrLSyqbbojVH1iy"
@@ -4454,10 +4816,32 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 182767,
       "name": "SOMEBODY LOVES ME",
       "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182767,
+      "name": "SOMEBODY LOVES ME",
+      "url": "https://open.spotify.com/track/5i7baMcvYkiZ711LSUhwax"
     },
     {
       "album": {
@@ -4502,10 +4886,32 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 218682,
       "name": "SOMETHING ABOUT YOU",
       "url": "https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218682,
+      "name": "SOMETHING ABOUT YOU",
+      "url": "https://open.spotify.com/track/5TO4G4gO1FWPofLe4uoyti"
     },
     {
       "album": {
@@ -4524,10 +4930,32 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 203893,
       "name": "SPIDER-MAN SUPERMAN",
       "url": "https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "SPIDER-MAN SUPERMAN",
+      "url": "https://open.spotify.com/track/6FSfKDj6xMdvoHzmkKNNQx"
     },
     {
       "album": {
@@ -4567,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "PARTYMOBILE (Chopped Not Slopped)",
+        "url": "https://open.spotify.com/album/7954tDYraStpAFjS8SdPfo"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186339,
+      "name": "SPLIT DECISION",
+      "url": "https://open.spotify.com/track/0FhKskA9cGlMy53BuM1Lyq"
+    },
+    {
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX"
       },
@@ -4596,7 +5042,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 186339,
       "name": "SPLIT DECISION",
       "url": "https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt"
@@ -4810,10 +5256,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 267384,
       "name": "THE NEWS",
       "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/5mRX4JVS1bQ0vXXmRZ0cu1"
     },
     {
       "album": {
@@ -4936,7 +5400,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 226800,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/0ynB9ywLFT4EDFO1gOz0p3"
@@ -4958,6 +5422,24 @@
       "duration_ms": 226800,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/3HE0qnw60B0KOKYmI6iNVZ"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "TOUCH ME",
+      "url": "https://open.spotify.com/track/5VHLayP457cJkxuVQReZwV"
     },
     {
       "album": {
@@ -5026,7 +5508,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 170858,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/1EwY5MatBtBEnHeyAFT8kP"
@@ -5048,6 +5530,24 @@
       "duration_ms": 170858,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/20653Ruox3oSYU9KOlTfLg"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170858,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/4ts26nYK3rEDhmPRb6RK5I"
     },
     {
       "album": {
@@ -5080,7 +5580,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 208762,
       "name": "TURN UP",
       "url": "https://open.spotify.com/track/0hzAYGvbeMwW5O6n1w9zNq"
@@ -5102,6 +5602,24 @@
       "duration_ms": 208762,
       "name": "TURN UP",
       "url": "https://open.spotify.com/track/2OsrEaBGJjORvRwLzvnSDy"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE (Chopped Not Slopped)",
+        "url": "https://open.spotify.com/album/7954tDYraStpAFjS8SdPfo"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208762,
+      "name": "TURN UP",
+      "url": "https://open.spotify.com/track/5Q6OGApyVwBtdx3iv7IZWP"
     },
     {
       "album": {
@@ -5296,6 +5814,28 @@
     {
       "album": {
         "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209836,
+      "name": "WHEN HE'S GONE",
+      "url": "https://open.spotify.com/track/1SYzYswZsL0MBFwTNN77B7"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
@@ -5310,7 +5850,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 209836,
       "name": "WHEN HE'S GONE",
       "url": "https://open.spotify.com/track/6mmPe3Y3SEtYb9HZsHTyrj"

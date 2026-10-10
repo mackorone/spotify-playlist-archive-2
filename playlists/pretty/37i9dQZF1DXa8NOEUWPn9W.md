@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring Franky Rizardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,014,991 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,015,385 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

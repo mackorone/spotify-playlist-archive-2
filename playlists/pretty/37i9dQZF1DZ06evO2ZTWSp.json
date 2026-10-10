@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 474525,
+  "num_followers": 474499,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAACpuD5LrNsnw8QKL7rfWEcg",
+  "snapshot_id": "asbdAAAAAADsJ05w4eJDTovJxlSxVEYe",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+        "name": "Fitness",
+        "url": "https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 185594,
-      "name": "Water Me",
-      "url": "https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF"
+      "duration_ms": 156284,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fitness",
-        "url": "https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR"
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 156284,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn"
+      "duration_ms": 185594,
+      "name": "Water Me",
+      "url": "https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 165689,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
+      "duration_ms": 121112,
+      "name": "Grrrls",
+      "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 121112,
-      "name": "Grrrls",
-      "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
+      "duration_ms": 165689,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 129170,
-      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 164213,
       "name": "IRL (FEAT. SZA)",
       "url": "https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 129170,
+      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 204392,
-      "name": "Scuse Me",
-      "url": "https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X"
+      "duration_ms": 177841,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 167193,
-      "name": "She Stole My Man",
-      "url": "https://open.spotify.com/track/2rO9FMoLlTZROoHrxmB2WG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
       },
@@ -799,22 +783,6 @@
       "duration_ms": 169042,
       "name": "Phone",
       "url": "https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coconut Oil",
-        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 177841,
-      "name": "Worship",
-      "url": "https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6"
     },
     {
       "added_at": null,
@@ -839,6 +807,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coconut Oil",
+        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 204392,
+      "name": "Scuse Me",
+      "url": "https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 167193,
+      "name": "She Stole My Man",
+      "url": "https://open.spotify.com/track/2rO9FMoLlTZROoHrxmB2WG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let 'em Say",
         "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
       },
@@ -859,26 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "Who Did The Body",
+        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Sasha Flute",
-          "url": "https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs"
         }
       ],
-      "duration_ms": 468590,
-      "name": "Stairway To Heaven",
-      "url": "https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB"
+      "duration_ms": 149173,
+      "name": "Freak Show",
+      "url": "https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv"
     }
   ],
   "unique_name": "This Is Lizzo",

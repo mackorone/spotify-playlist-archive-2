@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 534 likes - 50 songs - 2 hr 53 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 535 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

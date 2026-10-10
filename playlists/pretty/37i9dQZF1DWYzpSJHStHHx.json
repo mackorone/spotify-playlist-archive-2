@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483690,
+  "num_followers": 483678,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Los Ojos Del C\u00f3ndor",
-        "url": "https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 212980,
-      "name": "Los Ojos Del C\u00f3ndor",
-      "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "The Drums",
         "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 174306,
       "name": "Lets Go Surfing",
       "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Los Ojos Del C\u00f3ndor",
+        "url": "https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Los Ojos Del C\u00f3ndor",
+      "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Officially",
         "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 205144,
       "name": "Officially",
       "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
+        "name": "Mystic Braves",
+        "url": "https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck"
+      },
+      "artists": [
+        {
+          "name": "Mystic Braves",
+          "url": "https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Mystic Rabbit",
+      "url": "https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
         "name": "Things Left to Do",
         "url": "https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 151384,
       "name": "Lady",
       "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
-        "name": "Mystic Braves",
-        "url": "https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck"
-      },
-      "artists": [
-        {
-          "name": "Mystic Braves",
-          "url": "https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Mystic Rabbit",
-      "url": "https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Mushroom",
-        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 205974,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Only One I Want",
         "url": "https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 203340,
       "name": "Only One I Want",
       "url": "https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Mushroom",
+        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Reef Prince / Better",
-        "url": "https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 187527,
-      "name": "Reef Prince",
-      "url": "https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Bouquet",
         "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 171884,
       "name": "Riding the Wind",
       "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Reef Prince / Better",
+        "url": "https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 187527,
+      "name": "Reef Prince",
+      "url": "https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
+        "name": "Down In Heaven",
+        "url": "https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5"
+      },
+      "artists": [
+        {
+          "name": "Twin Peaks",
+          "url": "https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Walk To The One You Love",
+      "url": "https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
         "name": "Valley Girl",
         "url": "https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 206260,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
-        "name": "Down In Heaven",
-        "url": "https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5"
-      },
-      "artists": [
-        {
-          "name": "Twin Peaks",
-          "url": "https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Walk To The One You Love",
-      "url": "https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY"
     },
     {
       "added_at": "2026-09-17 14:00:53",

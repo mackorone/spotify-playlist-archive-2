@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "BANGKOK2025",
-        "url": "https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk"
-      },
-      "artists": [
-        {
-          "name": "Bardal",
-          "url": "https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR"
-        },
-        {
-          "name": "r\u00f3w babicze",
-          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
-        }
-      ],
-      "duration_ms": 198865,
-      "name": "BANGKOK2025",
-      "url": "https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "SOCCER KICK",
         "url": "https://open.spotify.com/album/2uT4wnK0mgsOd15OEPWR2s"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 184186,
       "name": "SOCCER KICK",
       "url": "https://open.spotify.com/track/0BfkntpqRHxU3fyue9m3rG"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "BANGKOK2025",
+        "url": "https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk"
+      },
+      "artists": [
+        {
+          "name": "Bardal",
+          "url": "https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR"
+        },
+        {
+          "name": "r\u00f3w babicze",
+          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
+        }
+      ],
+      "duration_ms": 198865,
+      "name": "BANGKOK2025",
+      "url": "https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW"
     },
     {
       "added_at": "2026-04-09 22:12:46",

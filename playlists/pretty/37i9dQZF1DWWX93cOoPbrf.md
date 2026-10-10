@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Armenta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,713 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,075 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NUMBER ONE](https://open.spotify.com/track/5ycPjGNxz5iuIKcXfBcEGs) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [NUMBER ONE](https://open.spotify.com/album/4iK80CPuM4qXIMaoNASIhd) | 2:41 |
-| 2 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:22 |
+| 2 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:23 |
 | 3 | [Cabezón](https://open.spotify.com/track/6y7YORyjqzue1YZUzc1fLn) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Clemente y su Elexion Privada](https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7) | [Cabezón](https://open.spotify.com/album/0Nyco4fXjYeSGecS7eC4QB) | 2:56 |
 | 4 | [PJM](https://open.spotify.com/track/0YopquwKvnkylezOWZmHat) | [El Randal](https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [PJM](https://open.spotify.com/album/0qKaJwbXwmZ9AmxnGsQCYK) | 2:11 |
 | 5 | [La Silverado](https://open.spotify.com/track/2FqsYzZfvWgm9UJZeFEWtv) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j), [''El Obama'' Carlos Anderson](https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1) | [Enfocado's](https://open.spotify.com/album/6KXcxx3POGHgaHYnaPYeO3) | 2:03 |

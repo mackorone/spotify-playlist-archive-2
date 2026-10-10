@@ -1,6 +1,6 @@
 {
   "description": "\"Si ma\u00f1ana yo me muero, no se pongan a llorar, mejor me pasean con banda por mi pueblito natal\" Valentin Elizalde en portada. ",
-  "num_followers": 383618,
+  "num_followers": 383627,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 186373,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
         "name": "\u00bfVan A Querer M\u00e1s?",
         "url": "https://open.spotify.com/album/5Q9g8lyBXAGZsNeCU09rMB"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 143146,
       "name": "Quem\u00e1ndose Un Gallito (El Rambo)",
       "url": "https://open.spotify.com/track/7nCRfFB9HCOHnJbmgoT8ej"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
         "name": "Cuando El Sol Salga Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 187760,
       "name": "Cuando el Sol Salga Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 179211,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "Boleros-Boleros-Bole",
-        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 131626,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200690,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/3L1zBcJiHEogFnS1iYgSU2"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "Boleros-Boleros-Bole",
+        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 131626,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -930,31 +930,11 @@
         {
           "name": "Chuy Montana",
           "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        },
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         }
       ],
-      "duration_ms": 186700,
-      "name": "De Tijuana A Paris",
-      "url": "https://open.spotify.com/track/5wXvqb0SprgiFaRbYbbIwg"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
+      "duration_ms": 142006,
+      "name": "Ramos Buchones",
+      "url": "https://open.spotify.com/track/7f4eYX1fQAAJzPLmHJ44Lj"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -975,6 +955,22 @@
       "duration_ms": 175891,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -1022,31 +1018,15 @@
         {
           "name": "Chuy Montana",
           "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        }
-      ],
-      "duration_ms": 142006,
-      "name": "Ramos Buchones",
-      "url": "https://open.spotify.com/track/7f4eYX1fQAAJzPLmHJ44Lj"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
-        "name": "La Absoluta Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         },
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         }
       ],
-      "duration_ms": 284013,
-      "name": "El Destino (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
+      "duration_ms": 186700,
+      "name": "De Tijuana A Paris",
+      "url": "https://open.spotify.com/track/5wXvqb0SprgiFaRbYbbIwg"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -1067,6 +1047,26 @@
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "La Absoluta Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 284013,
+      "name": "El Destino (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
+        "name": "Ya Despu\u00e9s De Muerto",
+        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 175101,
+      "name": "Florita Del Alma",
+      "url": "https://open.spotify.com/track/2HFV1Ag8fdvGqF28TVHtKp"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
         "name": "Haganse A Un Lado",
         "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
-        "name": "Ya Despu\u00e9s De Muerto",
-        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 175101,
-      "name": "Florita Del Alma",
-      "url": "https://open.spotify.com/track/2HFV1Ag8fdvGqF28TVHtKp"
     },
     {
       "added_at": "2025-11-25 17:51:31",

@@ -4,7 +4,7 @@
 
 > Conheça as novas vozes da música sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo
 
-449 songs - 21 hr 22 min
+450 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Estatística \- Ao Vivo](https://open.spotify.com/track/0mNUOT5kFPui5ghdqy0mAE) | [Débora & Daniela](https://open.spotify.com/artist/3O4oCrI8bsnuk5X6mrjjb7), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Encontro, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/7zc32T4pEa1YRtGtiBX04W) | 2:35 | 2025-04-04 | 2025-12-12 |
 | [Estranhos na Rua](https://open.spotify.com/track/04wD6wvICgg429Pxre0CAg) | [Melissa e Milena](https://open.spotify.com/artist/6uUfwRchop6ciRB2HxXDKw), [Cristinas](https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3) | [Estranhos na Rua](https://open.spotify.com/album/4rNlO8Mai2hG928TGcIPEf) | 3:09 | 2025-05-30 | 2025-07-19 |
 | [Estupidamente](https://open.spotify.com/track/6b3tJ8apcSvupFoynX6Roq) | [Lorena Cristine](https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln) | [Estupidamente](https://open.spotify.com/album/4w03adnLXHwOKqygDas1sE) | 3:04 | 2025-01-17 | 2025-02-07 |
+| [Eu Fico e Não Vou Embora \- Ao Vivo](https://open.spotify.com/track/584F4rmUDc04HkIEvURwyr) | [Lendas 67](https://open.spotify.com/artist/0BoqxKbuacxlZZUOh9iR3G), [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA), [Anderson Nogueira](https://open.spotify.com/artist/6CmE5uCiduPdbgzLIAa6UP) | [Eu Fico e Não Vou Embora \(Ao Vivo\)](https://open.spotify.com/album/3Fh88ovBWKcfCcxaP1GlEx) | 2:56 | 2026-10-09 |  |
 | [Eu Lembro](https://open.spotify.com/track/5phjsdS0pk8DQ1dfTtdLl2) | [Cesinha e Matheus](https://open.spotify.com/artist/6GY5MqIO1G53zbx4fhlXuf), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Eu Lembro](https://open.spotify.com/album/1ZMJJr7Nz9bGEE5cOwjQDZ) | 2:24 | 2024-06-28 | 2024-08-03 |
 | [Eu Lembro](https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [Eu Lembro](https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m) | 2:32 | 2025-09-01 | 2026-08-15 |
 | [Eu Não Vou Te Pegar \- Ao Vivo](https://open.spotify.com/track/1H4F3GB8oqJNn78mqpeZNg) | [Pedro e Rafael](https://open.spotify.com/artist/2DFCklgpKvgnjLY8CoCwVZ), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Eu Não Vou Te Pegar \(Ao Vivo\)](https://open.spotify.com/album/7w4YVfYCfDkEhYyFX7rO8N) | 3:06 | 2024-09-20 | 2025-02-14 |
@@ -406,7 +407,7 @@
 | [Só prestasse um pouquinho](https://open.spotify.com/track/5eYqWbotORpF60ujhtpT6a) | [Nauilan](https://open.spotify.com/artist/4hW6zSUVV1GeYYuojk3uSj), [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Só prestasse um pouquinho](https://open.spotify.com/album/2w1sfk9oaK4ADQ6I4fSgih) | 2:37 | 2025-02-07 | 2025-09-30 |
 | [Só Quero Sossego](https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv) | [Só Quero Sossego](https://open.spotify.com/album/7cNHP25LJRI9nN3tCarDTl) | 2:52 | 2025-10-25 | 2026-04-04 |
 | [Só Você Não Vê / Amanhã Talvez](https://open.spotify.com/track/4M05cOsYLa0xhzO4MUbMX2) | [Rick & Rangel](https://open.spotify.com/artist/1yL5nPC7Rfwdj7o9QoObS4) | [Acústico \(Vol\. 1\)](https://open.spotify.com/album/6K5olspA1ptYAUbquQrZi9) | 4:09 | 2024-09-20 | 2025-02-14 |
-| [Tampa da Silverado](https://open.spotify.com/track/3AmUBqYceSmsF7wfE3pkDa) | [May e Gabi](https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq) | [Tampa da Silverado](https://open.spotify.com/album/6KU7uc58KPi2VIXtjY0rxj) | 2:22 | 2026-04-24 |  |
+| [Tampa da Silverado](https://open.spotify.com/track/3AmUBqYceSmsF7wfE3pkDa) | [May e Gabi](https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq) | [Tampa da Silverado](https://open.spotify.com/album/6KU7uc58KPi2VIXtjY0rxj) | 2:22 | 2026-04-24 | 2026-10-10 |
 | [Tanto Faz \- Ao Vivo](https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr) | [Nando Moreno](https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t) | [Nando Moreno na Cavalgada, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ) | 2:46 | 2026-03-06 |  |
 | [Tatuagem \(Ao Vivo em São Paulo\)](https://open.spotify.com/track/4uZRf8dVBGZRGPfN0VRyxI) | [Thainara e Thatiane](https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8), [Gian & Giovani](https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb) | [Tatuagem \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2lARVUV40jZnnWXWp4I2Fv) | 4:15 | 2026-06-19 |  |
 | [Te Conheço de Onde?](https://open.spotify.com/track/20nB8sd9Foj2VFLz0834hp) | [Déborah Alves](https://open.spotify.com/artist/4yBreqlpQ3AtuH9M6wPu67), [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Te Conheço de Onde?](https://open.spotify.com/album/6Ucn1KxdT6QbSGnNORbzX9) | 2:25 | 2026-08-07 |  |

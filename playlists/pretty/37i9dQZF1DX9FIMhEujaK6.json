@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 686527,
+  "num_followers": 686579,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-10-02 11:02:32",
       "album": {
+        "name": "Wish I Didn't Miss You",
+        "url": "https://open.spotify.com/album/0wZkE50QdGCprRvzaP8Oam"
+      },
+      "artists": [
+        {
+          "name": "Sonny Noto",
+          "url": "https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu"
+        }
+      ],
+      "duration_ms": 192768,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB"
+    },
+    {
+      "added_at": "2026-10-02 11:02:32",
+      "album": {
         "name": "Howl (Chill Mix)",
         "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 197619,
       "name": "Howl - Chill Mix",
       "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
-    },
-    {
-      "added_at": "2026-10-02 11:02:32",
-      "album": {
-        "name": "Wish I Didn't Miss You",
-        "url": "https://open.spotify.com/album/0wZkE50QdGCprRvzaP8Oam"
-      },
-      "artists": [
-        {
-          "name": "Sonny Noto",
-          "url": "https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu"
-        }
-      ],
-      "duration_ms": 192768,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB"
     },
     {
       "added_at": "2026-10-02 11:02:32",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-02 11:02:32",
       "album": {
-        "name": "GLY",
-        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 220623,
-      "name": "GLY",
-      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
-    },
-    {
-      "added_at": "2026-10-02 11:02:32",
-      "album": {
         "name": "Sisters and Brothers",
         "url": "https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 247781,
       "name": "Sisters and Brothers",
       "url": "https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9"
+    },
+    {
+      "added_at": "2026-10-02 11:02:32",
+      "album": {
+        "name": "GLY",
+        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 220623,
+      "name": "GLY",
+      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
     }
   ],
   "unique_name": "Ibiza Sunset",

@@ -1,6 +1,6 @@
 {
   "description": "Sommer, Sonne, Sommerhits \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1584514,
+  "num_followers": 1584271,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "TRIPPIN",
-        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Mapei",
-          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
-        }
-      ],
-      "duration_ms": 202881,
-      "name": "TRIPPIN",
-      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "TRIPPIN",
+        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "duration_ms": 202881,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
     },
     {
       "added_at": "2026-08-06 22:01:13",

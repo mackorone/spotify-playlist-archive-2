@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 195037,
+  "num_followers": 195031,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAB7zgw2kykyLlt7NXOEZjh3",
+  "snapshot_id": "asbdAAAAAADWV/80/Xiov2WebPsVEOnb",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+        "name": "Killer (feat. Jack Harlow & Cordae) [Remix]",
+        "url": "https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar"
       },
       "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "jetsonmade",
-          "url": "https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF"
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         }
       ],
-      "duration_ms": 125302,
-      "name": "I WANNA SEE SOME ASS (feat. jetsonmade)",
-      "url": "https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi"
+      "duration_ms": 236665,
+      "name": "Killer (feat. Jack Harlow & Cordae) - Remix",
+      "url": "https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe"
     },
     {
       "added_at": null,
@@ -359,26 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killer (feat. Jack Harlow & Cordae) [Remix]",
-        "url": "https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar"
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
       "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+          "name": "jetsonmade",
+          "url": "https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF"
         }
       ],
-      "duration_ms": 236665,
-      "name": "Killer (feat. Jack Harlow & Cordae) - Remix",
-      "url": "https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe"
+      "duration_ms": 125302,
+      "name": "I WANNA SEE SOME ASS (feat. jetsonmade)",
+      "url": "https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi"
     },
     {
       "added_at": null,
@@ -446,19 +446,11 @@
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 177190,
-      "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
-      "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
+      "duration_ms": 203500,
+      "name": "Keep It Light",
+      "url": "https://open.spotify.com/track/2BUP8KOWDlCsdEV8DJPQQn"
     },
     {
       "added_at": null,
@@ -518,11 +510,19 @@
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 203500,
-      "name": "Keep It Light",
-      "url": "https://open.spotify.com/track/2BUP8KOWDlCsdEV8DJPQQn"
+      "duration_ms": 177190,
+      "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gazebo",
+        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Eastern Parkway",
+      "url": "https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful Mind",
         "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 226115,
       "name": "Yungen (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gazebo",
-        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Eastern Parkway",
-      "url": "https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc"
     },
     {
       "added_at": null,

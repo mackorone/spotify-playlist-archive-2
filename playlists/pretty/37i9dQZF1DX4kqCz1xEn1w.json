@@ -795,26 +795,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Land Of The Living (Live)",
-        "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Elyssa Figueroa",
-          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
-        }
-      ],
-      "duration_ms": 421775,
-      "name": "Oh The Cross - Live",
-      "url": "https://open.spotify.com/track/4cRltwg0L1MX78Nu8YTHDG"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "He Arose",
         "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 289972,
       "name": "He Arose",
       "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Land Of The Living (Live)",
+        "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        }
+      ],
+      "duration_ms": 421775,
+      "name": "Oh The Cross - Live",
+      "url": "https://open.spotify.com/track/4cRltwg0L1MX78Nu8YTHDG"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1343,38 +1343,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "For the Beauty of the Earth",
-        "url": "https://open.spotify.com/album/3zFVqqj3rngtfLw7tN70Wl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 262643,
-      "name": "For the Beauty of the Earth",
-      "url": "https://open.spotify.com/track/4v9XGXfQL8iB9C0qjZDp8P"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 343813,
-      "name": "This We Know - Live",
-      "url": "https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -1395,6 +1363,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 343813,
+      "name": "This We Know - Live",
+      "url": "https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 283746,
       "name": "Champion",
       "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "For the Beauty of the Earth",
+        "url": "https://open.spotify.com/album/3zFVqqj3rngtfLw7tN70Wl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 262643,
+      "name": "For the Beauty of the Earth",
+      "url": "https://open.spotify.com/track/4v9XGXfQL8iB9C0qjZDp8P"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Christ to Every Nation",
+        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
+      },
+      "artists": [
+        {
+          "name": "Stillcreek",
+          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
+        }
+      ],
+      "duration_ms": 251408,
+      "name": "Christ to Every Nation",
+      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Savior Of The World",
         "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 455362,
       "name": "Son of Suffering - Live",
       "url": "https://open.spotify.com/track/08sUixtP3khtBY7Np0uJoZ"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Christ to Every Nation",
-        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
-      },
-      "artists": [
-        {
-          "name": "Stillcreek",
-          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
-        }
-      ],
-      "duration_ms": 251408,
-      "name": "Christ to Every Nation",
-      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+      },
+      "artists": [
+        {
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+        }
+      ],
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Nothing But The Blood (Live)",
         "url": "https://open.spotify.com/album/5oc8j52aZ2nD6OzuNV2hHX"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 305454,
       "name": "Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/7DMltTS4tvWCm423u42YEr"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Jesus You Alone",
-        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
-      },
-      "artists": [
-        {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
-        }
-      ],
-      "duration_ms": 372150,
-      "name": "Jesus You Alone",
-      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+        "name": "Jesus You Alone",
+        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
       },
       "artists": [
         {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
         }
       ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+      "duration_ms": 372150,
+      "name": "Jesus You Alone",
+      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1923,22 +1923,6 @@
       "duration_ms": 254479,
       "name": "Crown Him With Many Crowns",
       "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "This Is Jesus",
-        "url": "https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks"
-      },
-      "artists": [
-        {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
-        }
-      ],
-      "duration_ms": 317415,
-      "name": "Calvary's Cross",
-      "url": "https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1987,6 +1971,22 @@
       "duration_ms": 216962,
       "name": "Kingdom Come (Live)",
       "url": "https://open.spotify.com/track/0pyV6VNIlFlJ4EEZhwUG2X"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "This Is Jesus",
+        "url": "https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks"
+      },
+      "artists": [
+        {
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+        }
+      ],
+      "duration_ms": 317415,
+      "name": "Calvary's Cross",
+      "url": "https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2268,29 +2268,33 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 401760,
-      "name": "This I Believe (The Creed) - Live",
-      "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
+      "duration_ms": 568786,
+      "name": "Broken Vessels (Amazing Grace) - Live",
+      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
     },
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Land of the Living (Live)",
-        "url": "https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx"
+        "name": "Prayers of the Saints",
+        "url": "https://open.spotify.com/album/6vx3WJiAST38dlm8NiRXQR"
       },
       "artists": [
         {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+          "name": "Integrity's Hosanna! Music",
+          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+        },
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
-      "duration_ms": 325701,
-      "name": "Rest on Us - Live",
-      "url": "https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3"
+      "duration_ms": 246066,
+      "name": "O Lord, My Rock and My Redeemer - Live",
+      "url": "https://open.spotify.com/track/5EweZzmxnku4xK98c07Fqc"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2343,6 +2347,42 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Land of the Living (Live)",
+        "url": "https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        }
+      ],
+      "duration_ms": 325701,
+      "name": "Rest on Us - Live",
+      "url": "https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "No Other Name (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 401760,
+      "name": "This I Believe (The Creed) - Live",
+      "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/2bbndQzbmvnaaiKcTPsnYO"
       },
@@ -2359,26 +2399,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 568786,
-      "name": "Broken Vessels (Amazing Grace) - Live",
-      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Kari Jobe",
         "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
       },
@@ -2391,26 +2411,6 @@
       "duration_ms": 361386,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Behold Him",
-        "url": "https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy"
-      },
-      "artists": [
-        {
-          "name": "Paul Baloche",
-          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 281413,
-      "name": "Behold Him",
-      "url": "https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2435,22 +2435,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Prayers of the Saints",
-        "url": "https://open.spotify.com/album/6vx3WJiAST38dlm8NiRXQR"
+        "name": "Behold Him",
+        "url": "https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy"
       },
       "artists": [
         {
-          "name": "Integrity's Hosanna! Music",
-          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+          "name": "Paul Baloche",
+          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
         },
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 246066,
-      "name": "O Lord, My Rock and My Redeemer - Live",
-      "url": "https://open.spotify.com/track/5EweZzmxnku4xK98c07Fqc"
+      "duration_ms": 281413,
+      "name": "Behold Him",
+      "url": "https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw"
     },
     {
       "added_at": "2026-04-04 06:11:10",

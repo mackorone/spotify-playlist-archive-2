@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Netto Brito, Luan Pereira e os maiores hits do país\. O que tá bombando tá aqui.
+> NATTAN, Zé Vaqueiro e os maiores hits do país\. O que tá bombando tá aqui.
 
 773 songs - 1 day 14 hr 55 min
 

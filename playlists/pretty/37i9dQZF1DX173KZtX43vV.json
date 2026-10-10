@@ -1,12 +1,12 @@
 {
   "description": "The newest arrivals. Cover: Gunna",
-  "num_followers": 69497,
+  "num_followers": 69506,
   "original_name": "Just Dropped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACt+9P/r6H+vAIM5+W0uC/M0CTCB",
+  "snapshot_id": "AAAAALG+SMUPE1dwWzeZc4NDd8RCI0NF",
   "tracks": [
     {
       "added_at": "2026-10-08 23:00:47",
@@ -403,6 +403,34 @@
       "duration_ms": 187872,
       "name": "Space In My Heart",
       "url": "https://open.spotify.com/track/5JVLfkggBFEKh32FoHG4Gx"
+    },
+    {
+      "added_at": "2026-10-08 23:00:47",
+      "album": {
+        "name": "Oh My (#SaveSoil)",
+        "url": "https://open.spotify.com/album/5VCO3v7958v34OQSbt19yy"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Cocoa Sarai",
+          "url": "https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX"
+        },
+        {
+          "name": "WondaGurl",
+          "url": "https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0"
+        }
+      ],
+      "duration_ms": 223552,
+      "name": "Oh My (#SaveSoil)",
+      "url": "https://open.spotify.com/track/49uZxYCiKkF6rEDz1mztQC"
     },
     {
       "added_at": "2026-10-08 23:00:47",

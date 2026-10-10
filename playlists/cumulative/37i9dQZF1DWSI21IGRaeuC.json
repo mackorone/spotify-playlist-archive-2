@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "Are You Still You?",
+        "url": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172840,
+      "name": "3:30AM",
+      "url": "https://open.spotify.com/track/7Cc9RI8QILv52X2feWAgLX"
+    },
+    {
+      "album": {
         "name": "the pharmacist ep",
         "url": "https://open.spotify.com/album/5mEpuyGgvwYXHmQAc2Mr63"
       },
@@ -572,7 +598,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 195692,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
@@ -1921,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "Be With Me",
+        "url": "https://open.spotify.com/album/3Bg6vIcIN4l36wx5OGvR4A"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177227,
+      "name": "Be With Me",
+      "url": "https://open.spotify.com/track/16MyWttTIIE8JvbyvQVMeZ"
+    },
+    {
+      "album": {
         "name": "Be Without You",
         "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
       },
@@ -2076,7 +2120,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 180923,
       "name": "Beautiful Thing",
       "url": "https://open.spotify.com/track/4aSOzY0wdTGcrqk42t6ISB"
@@ -7760,7 +7804,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 142562,
       "name": "Front, Left",
       "url": "https://open.spotify.com/track/7IP9P1jnYnvEBa2FcEDDSd"
@@ -9270,6 +9314,24 @@
       "duration_ms": 246046,
       "name": "Habanera",
       "url": "https://open.spotify.com/track/31uoONNcxhOVAipIVGK4je"
+    },
+    {
+      "album": {
+        "name": "Haha",
+        "url": "https://open.spotify.com/album/6fbx2J89Keq8EO5luWiJEo"
+      },
+      "artists": [
+        {
+          "name": "Reboot",
+          "url": "https://open.spotify.com/artist/3MUGWsOTNoR1OmZjgdQS3H"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152587,
+      "name": "Haha",
+      "url": "https://open.spotify.com/track/5XtTNpF1m7JIqGMsT22SWP"
     },
     {
       "album": {
@@ -10916,7 +10978,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 131299,
       "name": "Into My Life (feat. Joyce Sims)",
       "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
@@ -11597,6 +11659,24 @@
     },
     {
       "album": {
+        "name": "Keep Me Hype",
+        "url": "https://open.spotify.com/album/39neqJUaCaf9trF9vt9a6N"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "Keep Me Hype",
+      "url": "https://open.spotify.com/track/3J5dFmwhCWcHUWN4mgYbGc"
+    },
+    {
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/715ajWCr0NfwjnKxAWpjHE"
       },
@@ -12200,6 +12280,24 @@
       "duration_ms": 308680,
       "name": "Let You Go - Obsk\u00fcr Edit",
       "url": "https://open.spotify.com/track/6pnj8vjMQH84PUp3Km0T1Y"
+    },
+    {
+      "album": {
+        "name": "Let's Get This",
+        "url": "https://open.spotify.com/album/2XhzW3VGsoQtv0cTR5Xucu"
+      },
+      "artists": [
+        {
+          "name": "Flex (UK)",
+          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190534,
+      "name": "Let's Get This",
+      "url": "https://open.spotify.com/track/5FCtVeCG1dsTqfDHkyALR2"
     },
     {
       "album": {
@@ -13876,6 +13974,24 @@
       "duration_ms": 206769,
       "name": "Mines",
       "url": "https://open.spotify.com/track/0Z8yDbh29E0WF2j1IZEZ0R"
+    },
+    {
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3QTOck3XlXHlOMPmwUxd4i"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ssous",
+          "url": "https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/5Xe55KTe3nE8iy9ocTAT8U"
     },
     {
       "album": {
@@ -15556,7 +15672,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 172666,
       "name": "On 2nite - Dusky Remix",
       "url": "https://open.spotify.com/track/2FjcRwMtLa93kEeCtM6Iww"
@@ -15578,7 +15694,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 199384,
       "name": "On A Wave",
       "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
@@ -16234,7 +16350,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 187796,
       "name": "Passion",
       "url": "https://open.spotify.com/track/1OlS7vWAKZEeoNgIp3JvE2"
@@ -19628,7 +19744,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 212000,
       "name": "Smash",
       "url": "https://open.spotify.com/track/00mii3fmq53QiHirhoEIhy"
@@ -21395,6 +21511,24 @@
     },
     {
       "album": {
+        "name": "That's Right / I Don't Care",
+        "url": "https://open.spotify.com/album/42UheUT6no5YgKF154dYlj"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179534,
+      "name": "That's Right",
+      "url": "https://open.spotify.com/track/1YkMeZ2CAljGt1xfwXtcOj"
+    },
+    {
+      "album": {
         "name": "That's Right / The Maze",
         "url": "https://open.spotify.com/album/4Ea6xrbMghxpsECU18mqBS"
       },
@@ -22174,7 +22308,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 233579,
       "name": "Thinking 'Bout You",
       "url": "https://open.spotify.com/track/1F7cI1dYO1mxOYptPYQhYe"
@@ -22714,7 +22848,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 242790,
       "name": "Touched",
       "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
@@ -22956,7 +23090,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 184000,
       "name": "True Light",
       "url": "https://open.spotify.com/track/5uHkLz3h7DdvU0h1qI8HqX"
@@ -23836,7 +23970,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 167592,
       "name": "Was I Loved? - Dub Mix",
       "url": "https://open.spotify.com/track/4XHtyj62uFk4Tlk16WrQ30"
@@ -24068,7 +24202,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 172463,
       "name": "What I Might Do",
       "url": "https://open.spotify.com/track/2GLogZAAP1nmaqcvmgWrTX"
@@ -24112,6 +24246,28 @@
       "duration_ms": 199000,
       "name": "What We Got",
       "url": "https://open.spotify.com/track/31pjp1EzkwhmLmdKzYAbFa"
+    },
+    {
+      "album": {
+        "name": "Are You Still You?",
+        "url": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225459,
+      "name": "What Would I Do",
+      "url": "https://open.spotify.com/track/0C9gQPONf0dK64fRDP2x95"
     },
     {
       "album": {

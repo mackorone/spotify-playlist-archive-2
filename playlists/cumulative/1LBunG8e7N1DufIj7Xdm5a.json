@@ -20857,6 +20857,24 @@
     },
     {
       "album": {
+        "name": "DOE DAN",
+        "url": "https://open.spotify.com/album/62ngumopXDkWWiA1Nrk96e"
+      },
+      "artists": [
+        {
+          "name": "Meester Do",
+          "url": "https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150520,
+      "name": "DOE DAN",
+      "url": "https://open.spotify.com/track/0k6moj6JXKY0r7g7jDo2oF"
+    },
+    {
+      "album": {
         "name": "PROVAI SPRING",
         "url": "https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV"
       },
@@ -32802,6 +32820,24 @@
       "duration_ms": 196000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4ciqI4T6L5fyi2CmmT2JnS"
+    },
+    {
+      "album": {
+        "name": "Goodbye, Goodnight",
+        "url": "https://open.spotify.com/album/5MRudKcvra04AYy0kOi30u"
+      },
+      "artists": [
+        {
+          "name": "Destroy the Moon",
+          "url": "https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231243,
+      "name": "Goodbye, Goodnight",
+      "url": "https://open.spotify.com/track/4Zd2ElhotZnoMwJg5NA6jP"
     },
     {
       "album": {

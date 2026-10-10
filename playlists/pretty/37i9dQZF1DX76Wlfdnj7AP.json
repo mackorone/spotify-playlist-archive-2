@@ -1,6 +1,6 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 11069061,
+  "num_followers": 11068573,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
@@ -35,6 +35,22 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -591,22 +591,22 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Godzilla (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -635,22 +635,22 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "I Don't Wanna Wait",
-        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 149667,
-      "name": "I Don't Wanna Wait",
-      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+      "duration_ms": 210800,
+      "name": "Godzilla (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
+        "name": "Wait So Long (Why Do I Have To)",
+        "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 199479,
+      "name": "Wait So Long (Why Do I Have To)",
+      "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
         "name": "Loco Loco",
         "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
-        "name": "Wait So Long (Why Do I Have To)",
-        "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 199479,
-      "name": "Wait So Long (Why Do I Have To)",
-      "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -1863,18 +1863,22 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "Mention Me (From The Movie \"GOAT\")",
-        "url": "https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd"
+        "name": "I Wanna Go - John Summit Remix",
+        "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
       },
       "artists": [
         {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Mention Me - From The Movie \"GOAT\"",
-      "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
+      "duration_ms": 163478,
+      "name": "I Wanna Go - John Summit Remix",
+      "url": "https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -1903,22 +1907,18 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "I Wanna Go - John Summit Remix",
-        "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
+        "name": "Mention Me (From The Movie \"GOAT\")",
+        "url": "https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
         }
       ],
-      "duration_ms": 163478,
-      "name": "I Wanna Go - John Summit Remix",
-      "url": "https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"
+      "duration_ms": 180000,
+      "name": "Mention Me - From The Movie \"GOAT\"",
+      "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -1979,30 +1979,6 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 207273,
-      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
-      "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
         "name": "Astronaut In The Ocean",
         "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
       },
@@ -2031,6 +2007,30 @@
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 207273,
+      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+      "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -2275,26 +2275,6 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "That's When You Know",
-        "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "That's When You Know",
-      "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
       },
@@ -2311,6 +2291,26 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
+        "name": "That's When You Know",
+        "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "That's When You Know",
+      "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
@@ -2679,6 +2663,22 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
     },
     {
       "added_at": "2026-10-02 12:00:26",

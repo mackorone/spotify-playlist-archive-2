@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist frá Troye Sivan, girl in red & og mörgum fleirum!
 
-12,508 songs - 27 day 23 hr 58 min
+12,509 songs - 28 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1870,6 +1870,7 @@
 | [Celebration](https://open.spotify.com/track/0mVE7ho0GazVMHVyt6cFz5) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [Celebration](https://open.spotify.com/album/2B92o8NIVPpUUQ6JWutnRD) | 4:21 | 2026-09-25 | 2026-10-02 |
 | [Celeste](https://open.spotify.com/track/7Fgb9S6O2cCf8U6zbAcp0S) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Celeste](https://open.spotify.com/album/1X5ouKahVCXqTYO2GNtvv9) | 4:23 | 2024-04-26 | 2024-05-03 |
 | [Centipede](https://open.spotify.com/track/36BjBIofJXDQZ0zm3dAIO4) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Centipede](https://open.spotify.com/album/306oi8APNwiekj6ui6baLH) | 2:55 | 2026-03-27 | 2026-04-03 |
+| [Centre](https://open.spotify.com/track/0YleoLTvU6Yj3xsHnqp0RX) | [STACKS](https://open.spotify.com/artist/0C9iFe882ieknG0D0D8dSy) | [Centre](https://open.spotify.com/album/7egdFIZeaLfohzjGYNragy) | 4:23 | 2026-10-09 |  |
 | [Centrum](https://open.spotify.com/track/6UMjGy91qTTieONOqlTChs) | [Oliverz](https://open.spotify.com/artist/43Yots6ThjP8kBlbKtSSGv) | [Centrum](https://open.spotify.com/album/4E7YrshLJ7x35zDl1B9fKj) | 2:28 | 2026-02-27 | 2026-03-06 |
 | [Certain Death](https://open.spotify.com/track/41wkfkzZQ6FU8bTI2f8nH6) | [Clara Malby](https://open.spotify.com/artist/5xeHlqLDzUkefkg2hqGiRH) | [Certain Death](https://open.spotify.com/album/5DlIl8iuoAQSDk6zVXcBNe) | 3:21 | 2024-09-06 | 2024-09-13 |
 | [Certified](https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [Certified](https://open.spotify.com/album/5B20rR3NRmnSIRQm0d0zMz) | 3:36 | 2024-07-26 | 2024-08-03 |
@@ -3712,7 +3713,7 @@
 | [Flowers In The Rain](https://open.spotify.com/track/1mgjmbFmreFZbxzgVSeaiQ) | [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX), [Kimbo](https://open.spotify.com/artist/2Kb9FvBUAZE5fyXOMhxmOA), [Nessi](https://open.spotify.com/artist/2kE8IGeVPqfCUkVoKyCotA) | [Flowers In The Rain](https://open.spotify.com/album/0rIGJiL9qttyj7C2l5447m) | 2:18 | 2025-01-03 | 2025-01-10 |
 | [Fluent](https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Fluent](https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA) | 1:52 | 2026-07-10 | 2026-07-17 |
 | [Fluent](https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI) | [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Fluent](https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM) | 2:08 | 2026-01-30 | 2026-02-06 |
-| [flughermir](https://open.spotify.com/track/21ciQyjEoL3N7mnYCehvN8) | [tech x copper](https://open.spotify.com/artist/7L78uiMth5ryK2RXpLeprs) | [flughermir](https://open.spotify.com/album/6BMoG57bovFeLAFEJgfQgG) | 4:45 | 2026-10-09 |  |
+| [flughermir](https://open.spotify.com/track/21ciQyjEoL3N7mnYCehvN8) | [tech x copper](https://open.spotify.com/artist/7L78uiMth5ryK2RXpLeprs), [Ásta Fanney](https://open.spotify.com/artist/7amiFEqQUZoyKyq6GKN5Me) | [flughermir](https://open.spotify.com/album/6BMoG57bovFeLAFEJgfQgG) | 4:45 | 2026-10-09 |  |
 | [Fluorescent](https://open.spotify.com/track/1Q1Z4Ns2jnsGUFPrTnO3jP) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Fluorescent](https://open.spotify.com/album/3O7iCedzpad4jc1jJxaYDC) | 3:32 | 2025-10-31 | 2025-11-07 |
 | [flwrs](https://open.spotify.com/track/1bPojPxNJqF9I45D8c2KXv) | [pelleklund](https://open.spotify.com/artist/6Es6ICW5sEgL7nOnWam1ep) | [flwrs](https://open.spotify.com/album/2AaiZhXUfE3QWvSU98mrB3) | 2:08 | 2025-04-25 | 2025-04-29 |
 | [FLY](https://open.spotify.com/track/5boCLf0x3ieEVXBXIjRKQo) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [FLY](https://open.spotify.com/album/625XC0V9Yy5Ftclw7R1nUD) | 3:59 | 2024-08-02 | 2024-08-09 |

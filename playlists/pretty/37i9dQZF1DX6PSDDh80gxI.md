@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > come volevi essere di Lamante sta succedendo di nuovo e siamo molto felici
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,794 likes - 86 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,770 likes - 86 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

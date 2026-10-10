@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,973 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,004 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,24 +32,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 22 | [He Is](https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:13 |
 | 23 | [Guiding Lights](https://open.spotify.com/track/314wHzW2tMlNIc4Wvguu8w) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 3:24 |
 | 24 | [Kaisarion](https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:02 |
-| 25 | [Witch Image](https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:30 |
-| 26 | [Year Zero](https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 5:50 |
+| 25 | [Year Zero](https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 5:50 |
+| 26 | [Witch Image](https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:30 |
 | 27 | [If You Have Ghosts](https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 3:34 |
 | 28 | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Patrick Wilson](https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52) | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z) | 3:54 |
-| 29 | [Elizabeth](https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:01 |
-| 30 | [Monstrance Clock](https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 5:53 |
+| 29 | [Monstrance Clock](https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 5:53 |
+| 30 | [Elizabeth](https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:01 |
 | 31 | [Crucified](https://open.spotify.com/track/0PSWSiRXsxsLAEdEhaJAId) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:13 |
 | 32 | [Zenith](https://open.spotify.com/track/12OqhoWuHEzQ7AJMBS0WFJ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [13 Commandments](https://open.spotify.com/album/1jIpMY1agd8Uvd9cc9woTH) | 6:04 |
-| 33 | [Con Clavi Con Dio](https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:33 |
-| 34 | [Jigolo Har Megiddo](https://open.spotify.com/track/1nLPwEsvylaNyep39luNRw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 3:58 |
-| 35 | [Spirit \- Live from Mexico City](https://open.spotify.com/track/3tLHCRTjf7NscTAkocZ8oL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [2 Big To Rig \(Original Motion Picture Soundtrack / Live\)](https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx) | 4:56 |
-| 36 | [Faith](https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:29 |
-| 37 | [Stand by Him](https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:56 |
-| 38 | [Infestissumam](https://open.spotify.com/track/7BwScOUaIcnABifoNlK9e9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 1:42 |
+| 33 | [Jigolo Har Megiddo](https://open.spotify.com/track/1nLPwEsvylaNyep39luNRw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 3:58 |
+| 34 | [Stand by Him](https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:56 |
+| 35 | [Faith](https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:29 |
+| 36 | [Spirit \- Live from Mexico City](https://open.spotify.com/track/3tLHCRTjf7NscTAkocZ8oL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [2 Big To Rig \(Original Motion Picture Soundtrack / Live\)](https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx) | 4:56 |
+| 37 | [Infestissumam](https://open.spotify.com/track/7BwScOUaIcnABifoNlK9e9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 1:42 |
+| 38 | [Con Clavi Con Dio](https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:33 |
 | 39 | [We Don’t Need Another Hero](https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:10 |
 | 40 | [From The Pinnacle To The Pit](https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:02 |
-| 41 | [Satan Prayer](https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:38 |
-| 42 | [Per Aspera Ad Inferi](https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 4:09 |
+| 41 | [Per Aspera Ad Inferi](https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 4:09 |
+| 42 | [Satan Prayer](https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:38 |
 | 43 | [Devil Church \- Live from Mexico City](https://open.spotify.com/track/0WRIAl1b5gYX1nog5qE1Z2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [2 Big To Rig \(Original Motion Picture Soundtrack / Live\)](https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx) | 1:02 |
 | 44 | [Mummy Dust](https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:07 |
 | 45 | [Hanging Around](https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 49 | [Majesty \- Live from Mexico City](https://open.spotify.com/track/5CUNOiEwQHsihmfC9Vq37P) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [2 Big To Rig \(Original Motion Picture Soundtrack / Live\)](https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx) | 7:25 |
 | 50 | [Ghuleh / Zombie Queen](https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 7:29 |
 
-Snapshot ID: `asLogAAAAABc4wFDwo8b3e+bc+0LIbbF`
+Snapshot ID: `asbdAAAAAAB92a4zXYSzI3PhUR3Z/Om7`

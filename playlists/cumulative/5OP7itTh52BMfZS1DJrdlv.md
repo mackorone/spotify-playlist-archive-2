@@ -4,7 +4,7 @@
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2026 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-207 songs - 11 hr 1 min
+208 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [christmas dream](https://open.spotify.com/track/237RKVJSgN8PpsYbyEZMqp) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:30 | 2023-12-09 | 2025-07-02 |
 | [Christmas Eve](https://open.spotify.com/track/1p2UlA2q2zz4nL0Zxgh78g) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:00 | 2023-12-09 | 2025-07-02 |
 | [Christmas Eve / Sarajevo 12/24 \- Instrumental](https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [Christmas Eve and Other Stories](https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT) | 3:25 | 2025-07-01 |  |
+| [Christmas in New England](https://open.spotify.com/track/1EC1ZsLtwpCYtnmH5gwFnF) | [Ryan Peter Murphy](https://open.spotify.com/artist/3Mtej0J9pd8zxe4vnbZcMP) | [Christmas in New England](https://open.spotify.com/album/2lOq547LxWZumv19kK2Aw4) | 4:04 | 2026-10-09 |  |
 | [Christmas in Our Hearts](https://open.spotify.com/track/6fu6uFC8eSFWnEcZnkIUdJ) | [Jose Mari Chan](https://open.spotify.com/artist/1EHAbA1GMYOfkh9ds9eNfS) | [Christmas in Our Hearts](https://open.spotify.com/album/1M1Gi9L0gttpvARre57p7y) | 3:27 | 2025-09-04 | 2026-10-02 |
 | [Christmas Is All Around \- Acoustic](https://open.spotify.com/track/28fFuQJZxhTgA4OA8s9BJl) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Acoustic Christmas](https://open.spotify.com/album/0BoxAmnhfLOVbc1I8uPSvL) | 2:47 | 2024-11-11 | 2025-07-02 |
 | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/track/5oKGMxxBYRUdT7omkdilTx) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:51 | 2023-12-09 | 2025-07-02 |
@@ -63,7 +64,7 @@
 | [Frosty The Snowman \- Remastered 2006](https://open.spotify.com/track/35MqcEIVZ7svbBpRt4N30g) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:13 | 2025-07-01 | 2025-11-20 |
 | [Gee Whiz, It's Christmas](https://open.spotify.com/track/5hfy51JYwKaMtVYQrA48o7) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:46 | 2023-12-09 | 2025-07-02 |
 | [Give Love This Year](https://open.spotify.com/track/6SLl91xkvg78d5Lpyfj8gU) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 3:06 | 2023-12-09 | 2024-12-11 |
-| [Good All Year](https://open.spotify.com/track/7tpZbY9001r2p5ehkaYYmb) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good All Year](https://open.spotify.com/album/4iu3ExKSjlArExmwzp0Si7) | 2:13 | 2024-11-29 |  |
+| [Good All Year](https://open.spotify.com/track/7tpZbY9001r2p5ehkaYYmb) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good All Year](https://open.spotify.com/album/4iu3ExKSjlArExmwzp0Si7) | 2:13 | 2024-11-29 | 2026-10-10 |
 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 | 2025-07-01 |  |
 | [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:41 | 2025-07-01 | 2025-12-02 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Power To The People \- The Hits](https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj) | 3:33 | 2023-12-09 | 2025-07-02 |

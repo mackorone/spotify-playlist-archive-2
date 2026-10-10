@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,421,676 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,421,555 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 20 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
 | 21 | [Coming Home This Christmas \- From "A Very Jonas Christmas Movie"](https://open.spotify.com/track/5WinrM87TaUBLxOOCeACBi) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Coming Home This Christmas \(From "A Very Jonas Christmas Movie"\)](https://open.spotify.com/album/77If4wJxFyWmlucy2j1gaY) | 3:24 |
 | 22 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 |
-| 23 | [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
+| 23 | [Christmas Lights](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
 | 24 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:26 |
 | 25 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
 | 26 | [Blue Christmas](https://open.spotify.com/track/38fhq0EiSzlIwv20tHNGss) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [Blue Christmas](https://open.spotify.com/album/3DRGhm9rkjANo94CxrhsMc) | 2:30 |

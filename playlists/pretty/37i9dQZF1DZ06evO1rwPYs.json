@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107555,
+  "num_followers": 107568,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAA1agXpjRcYqMpdsbIOyoBk",
+  "snapshot_id": "asbdAAAAAABh1I+l4/E81Ps/ldD6y/W4",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Queen Of Salsa (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g"
+        "name": "Irrepetible",
+        "url": "https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 149074,
-      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s - Remastered 2025",
-      "url": "https://open.spotify.com/track/5EWAjQSjo8SZ2fbVKfCrcu"
+      "duration_ms": 232573,
+      "name": "Que Le Den Candela",
+      "url": "https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irrepetible",
-        "url": "https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS"
+        "name": "The Queen Of Salsa (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 232573,
-      "name": "Que Le Den Candela",
-      "url": "https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6"
+      "duration_ms": 149074,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s - Remastered 2025",
+      "url": "https://open.spotify.com/track/5EWAjQSjo8SZ2fbVKfCrcu"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Vasos Vacios",
-      "url": "https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celia & Johnny (Remastered 2024)",
         "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 342264,
       "name": "Toro Mata - Remastered 2024",
       "url": "https://open.spotify.com/track/07MGXxzTNfeJzZMn2OFhWX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Vasos Vacios",
+      "url": "https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Grandes Damas",
+        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 163343,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 229373,
       "name": "C\u00facala",
       "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Grandes Damas",
-        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 163343,
-      "name": "El Yerberito Moderno",
-      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "Por Si Acaso No Regreso",
+      "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Down To Miami (G\u2019harah \u201cPK\u201d Degeddingseze Remix)",
         "url": "https://open.spotify.com/album/2eH0PzDocLLTNoWOZ0wSIJ"
       },
@@ -671,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
       "artists": [
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 347666,
-      "name": "Por Si Acaso No Regreso",
-      "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,
@@ -703,26 +723,6 @@
       "duration_ms": 308933,
       "name": "La Sopa En Botella",
       "url": "https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,
@@ -771,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Etc. Etc. Etc.",
-        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
       },
       "artists": [
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 180207,
-      "name": "Az\u00facar, Az\u00facar",
-      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
+      "duration_ms": 180973,
+      "name": "En El Baj\u00edo",
+      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
     },
     {
       "added_at": null,
@@ -807,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Az\u00facar! Caliente",
-        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+        "name": "Etc. Etc. Etc.",
+        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
       },
       "artists": [
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 180973,
-      "name": "En El Baj\u00edo",
-      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
+      "duration_ms": 180207,
+      "name": "Az\u00facar, Az\u00facar",
+      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
     },
     {
       "added_at": null,
@@ -879,46 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 299133,
-      "name": "Tres D\u00edas De Carnaval",
-      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuba's Queen Of Rhythm",
-        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Pa La Paloma",
-      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
       },
@@ -943,6 +903,46 @@
       "duration_ms": 267693,
       "name": "Besito De Coco",
       "url": "https://open.spotify.com/track/0dk38kFCydem9YA2NP1RPO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Pa La Paloma",
+      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 299133,
+      "name": "Tres D\u00edas De Carnaval",
+      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "only the best tech house &amp; house music",
-  "num_followers": 16233,
+  "num_followers": 16235,
   "original_name": "tech house heaters",
   "owner": {
     "name": "tech house heaters",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAot2huBjW/i2fncDK5NA3rCw+Uu2GB",
+  "snapshot_id": "AAAowoCQW4aBgvmsNF2oXzGVt7Hh7EKy",
   "tracks": [
     {
       "added_at": "2026-10-05 21:54:21",
@@ -45,20 +45,24 @@
       "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
     },
     {
-      "added_at": "2026-09-13 23:00:55",
+      "added_at": "2026-10-09 10:20:25",
       "album": {
-        "name": "Get Up And Dance",
-        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr"
+        "name": "Never Stop",
+        "url": "https://open.spotify.com/album/6cvhugvu7B0tBi8hZKmbcb"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Joey London Style",
+          "url": "https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i"
+        },
+        {
+          "name": "Pheelo",
+          "url": "https://open.spotify.com/artist/3R2HL3PzOU2tQNeFiNhcfA"
         }
       ],
-      "duration_ms": 155081,
-      "name": "Get Up And Dance",
-      "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
+      "duration_ms": 152343,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/6UOHcOQSNBGCoHqfALH9lG"
     },
     {
       "added_at": "2026-09-13 23:00:51",
@@ -189,6 +193,46 @@
       "url": "https://open.spotify.com/track/6ntmkcTy3o2A713UVkITg5"
     },
     {
+      "added_at": "2026-10-09 10:21:10",
+      "album": {
+        "name": "Kinda Like That",
+        "url": "https://open.spotify.com/album/18gbqRJp8J7EPO0wdfiNLB"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 209076,
+      "name": "Kinda Like That",
+      "url": "https://open.spotify.com/track/5yJdhGkgX2NBL9ExGLoErW"
+    },
+    {
+      "added_at": "2026-10-09 10:19:35",
+      "album": {
+        "name": "4Get The Girl (GUDFELLA & Jackie Hollander Remix)",
+        "url": "https://open.spotify.com/album/1gmCa25tRxlInIq3chquBs"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        },
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "4Get The Girl - GUDFELLA & Jackie Hollander Remix",
+      "url": "https://open.spotify.com/track/5vv3aCayCpAU6tfOZRRJMx"
+    },
+    {
       "added_at": "2026-09-13 23:01:33",
       "album": {
         "name": "Hollup (Darius Syrossian Remix)",
@@ -235,6 +279,42 @@
       "duration_ms": 202123,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/7cRKNHHv3WvKBYzrzMvEoG"
+    },
+    {
+      "added_at": "2026-10-09 10:21:06",
+      "album": {
+        "name": "Let's Get This",
+        "url": "https://open.spotify.com/album/2XhzW3VGsoQtv0cTR5Xucu"
+      },
+      "artists": [
+        {
+          "name": "Flex (UK)",
+          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
+        }
+      ],
+      "duration_ms": 190534,
+      "name": "Let's Get This",
+      "url": "https://open.spotify.com/track/5FCtVeCG1dsTqfDHkyALR2"
+    },
+    {
+      "added_at": "2026-10-09 10:20:27",
+      "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/5KoOTiWTuiUDZ4GNlB3uXU"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "Ribguga",
+          "url": "https://open.spotify.com/artist/6r8StRO47B2qfuqtzddihP"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/42LRClvKFeJdysDNpa0x9Q"
     },
     {
       "added_at": "2026-09-25 10:52:18",

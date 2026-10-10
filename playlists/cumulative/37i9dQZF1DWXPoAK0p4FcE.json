@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: QLER",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LANDOKMAI",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 234198,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/1MFPsvn1WORn6oSbStc93A"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/50ijriMtPab2A2JLFnDhEJ"
+      },
+      "artists": [
+        {
+          "name": "Stoondio",
+          "url": "https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/40xe67pm9qIBfpCmN54dm9"
     },
     {
       "album": {
@@ -754,7 +772,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 144727,
       "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e1f\u0e49\u0e32\u0e2d\u0e27\u0e22\u0e1e\u0e23 (Dear friend)",
       "url": "https://open.spotify.com/track/0Rv76Bg0r2PSITMJyRDCWp"
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 302250,
       "name": "\u0e1e\u0e31\u0e14\u0e1e\u0e32 (When the Wind Blows)",
       "url": "https://open.spotify.com/track/4JVuvSLFnjwEi1D8Yn7rWz"
@@ -2091,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23",
+        "url": "https://open.spotify.com/album/749fRSjQx1SPmAAMlqO8vg"
+      },
+      "artists": [
+        {
+          "name": "Lower Mansion",
+          "url": "https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283299,
+      "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23",
+      "url": "https://open.spotify.com/track/7MijojlXflYBJW3gmNSC69"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e16\u0e21\u0e31\u0e19\u0e15\u0e34\u0e14 (Romantic)",
         "url": "https://open.spotify.com/album/0NbbkbliUaaqnxYRNKDY44"
       },
@@ -2160,6 +2196,24 @@
       "duration_ms": 259721,
       "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Town",
+        "url": "https://open.spotify.com/album/2M1M2ILdah6R0VsHA65ePI"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247567,
+      "name": "\u0e23\u0e31\u0e01\u0e2d\u0e22\u0e39\u0e48 (linger)",
+      "url": "https://open.spotify.com/track/5joUZVyzfFEnfDAOQCOt0X"
     },
     {
       "album": {
@@ -2412,7 +2466,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 200673,
       "name": "\u0e2a\u0e31\u0e1a\u0e2a\u0e19\u0e27\u0e38\u0e48\u0e19\u0e27\u0e32\u0e22 (Outside)",
       "url": "https://open.spotify.com/track/4OiVtlt4R0lxyvOUYk4FEs"
@@ -2722,7 +2776,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 296493,
       "name": "\u0e40\u0e01\u0e49\u0e32\u0e2d\u0e35\u0e49\u0e14\u0e19\u0e15\u0e23\u0e35",
       "url": "https://open.spotify.com/track/2iaqguz1NrcOtbeVuTkjXk"
@@ -2838,6 +2892,24 @@
       "duration_ms": 277961,
       "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e2d\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
       "url": "https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ"
+    },
+    {
+      "album": {
+        "name": "DRIVE-IN THEATER, Pt. 2",
+        "url": "https://open.spotify.com/album/2CXH90ZkZYFPp1zlX6FTDk"
+      },
+      "artists": [
+        {
+          "name": "CORNBOI",
+          "url": "https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290480,
+      "name": "\u0e40\u0e1a\u0e25\u0e2d\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e0a\u0e31\u0e14\u0e40\u0e08\u0e19",
+      "url": "https://open.spotify.com/track/1x6FUEXXdbGF8vnVlhFo85"
     },
     {
       "album": {

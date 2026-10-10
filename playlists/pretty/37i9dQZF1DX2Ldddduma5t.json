@@ -1,13 +1,213 @@
 {
   "description": "Check out the best new music videos from around the world. Music videos only available on Premium.",
-  "num_followers": 8386,
+  "num_followers": 8429,
   "original_name": "Best New Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD+j3yaBClr8mqJQYugq0uUeqvVv",
+  "snapshot_id": "AAAAAO02/OsYxP31lxYwdFSH6KLNxycB",
   "tracks": [
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "i think he's got a girl",
+        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 214559,
+      "name": "i think he's got a girl",
+      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 158792,
+      "name": "Heaven Baby (feat. ZAYN)",
+      "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 262896,
+      "name": "FF",
+      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "La Falda",
+        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "La Falda",
+      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "baby blues",
+        "url": "https://open.spotify.com/album/1t86NokDXPsXxsaAm0PMER"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "duration_ms": 194577,
+      "name": "baby blues",
+      "url": "https://open.spotify.com/track/6yBXeLGK0FqzobJjry8jdc"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "pop it",
+        "url": "https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 138866,
+      "name": "pop it",
+      "url": "https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "ACCELERANDO",
+        "url": "https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "VADAKIN",
+          "url": "https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ"
+        }
+      ],
+      "duration_ms": 242245,
+      "name": "ACCELERANDO",
+      "url": "https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 250049,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "Kinda Love It",
+        "url": "https://open.spotify.com/album/1m3Jun2PjCQAOL72bBExnT"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 207131,
+      "name": "Kinda Love It",
+      "url": "https://open.spotify.com/track/49uiGJL2F4Nj56cCLCQG4W"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "Everything Has Changed",
+        "url": "https://open.spotify.com/album/4oYqwTbEodi9DVme0ngg18"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 272998,
+      "name": "Open Windows",
+      "url": "https://open.spotify.com/track/5zbtltpZzAVm2RcdEio75t"
+    },
+    {
+      "added_at": "2026-10-09 21:24:40",
+      "album": {
+        "name": "Hundred Thousand Sunsets",
+        "url": "https://open.spotify.com/album/0SCEYebMILGk6T8QWL3BgC"
+      },
+      "artists": [
+        {
+          "name": "Max Alan",
+          "url": "https://open.spotify.com/artist/5iZ49r3ayCqsUesaetPDcr"
+        }
+      ],
+      "duration_ms": 221750,
+      "name": "Hundred Thousand Sunsets",
+      "url": "https://open.spotify.com/track/3gzdBCixNIYl2IQ1smJckR"
+    },
     {
       "added_at": "2026-10-02 21:52:13",
       "album": {
@@ -297,22 +497,6 @@
       "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
-      "added_at": "2026-09-25 19:54:05",
-      "album": {
-        "name": "If I Had The Hand Of God",
-        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 161816,
-      "name": "If I Had The Hand Of God",
-      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
-    },
-    {
       "added_at": "2026-09-30 18:43:00",
       "album": {
         "name": "Nothing Lasts Forever",
@@ -333,122 +517,6 @@
       "url": "https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt"
     },
     {
-      "added_at": "2026-09-21 14:49:48",
-      "album": {
-        "name": "new trick",
-        "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 182582,
-      "name": "new trick",
-      "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
-    },
-    {
-      "added_at": "2026-09-21 14:49:48",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
-    },
-    {
-      "added_at": "2026-09-25 19:54:05",
-      "album": {
-        "name": "I Won\u2019t Cry",
-        "url": "https://open.spotify.com/album/4LtfvOddfaRnVxtCpNOIcU"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 260310,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/4RM18ZXC2m6cHmGMjNHvzg"
-    },
-    {
-      "added_at": "2026-09-25 19:54:05",
-      "album": {
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/6ahtjSXlZpJsOxSOucSuRg"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Stone Fruit",
-      "url": "https://open.spotify.com/track/0GuYLoC2G9eXMGwwXH8xt1"
-    },
-    {
-      "added_at": "2026-09-21 14:49:48",
-      "album": {
-        "name": "Bass Persuades",
-        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Let\u2019s Get Married",
-      "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
-    },
-    {
-      "added_at": "2026-09-21 14:49:48",
-      "album": {
-        "name": "AGUA",
-        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 191107,
-      "name": "AGUA",
-      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
-    },
-    {
-      "added_at": "2026-09-21 14:49:48",
-      "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 194103,
-      "name": "Write Me A Letter",
-      "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
-    },
-    {
       "added_at": "2026-09-28 01:27:44",
       "album": {
         "name": "Tough Love",
@@ -465,38 +533,6 @@
       "url": "https://open.spotify.com/track/1qeDiZrY4LBsycOVHSlYWI"
     },
     {
-      "added_at": "2026-09-21 14:49:48",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 305875,
-      "name": "Over country",
-      "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
-    },
-    {
-      "added_at": "2026-09-25 19:54:05",
-      "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 155648,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
-    },
-    {
       "added_at": "2026-09-25 19:54:05",
       "album": {
         "name": "Leave On A Light",
@@ -511,30 +547,6 @@
       "duration_ms": 156981,
       "name": "Slow Down, Slow Down",
       "url": "https://open.spotify.com/track/6oivtFX28rYGXmritxchYv"
-    },
-    {
-      "added_at": "2026-09-21 14:49:48",
-      "album": {
-        "name": "Small Town",
-        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        },
-        {
-          "name": "Emma Ogier",
-          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
-        }
-      ],
-      "duration_ms": 169981,
-      "name": "Small Town",
-      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {
       "added_at": "2026-09-21 14:49:48",
@@ -663,22 +675,6 @@
       "duration_ms": 150928,
       "name": "2LOUD",
       "url": "https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE"
-    },
-    {
-      "added_at": "2026-09-21 14:49:48",
-      "album": {
-        "name": "gloria!",
-        "url": "https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 201202,
-      "name": "gloria!",
-      "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
     }
   ],
   "unique_name": "Best New Videos",

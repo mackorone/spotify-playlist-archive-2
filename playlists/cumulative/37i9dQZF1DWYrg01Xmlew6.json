@@ -10921,6 +10921,24 @@
     },
     {
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/0aC8g1rSmbygMtmKnSD4uw"
+      },
+      "artists": [
+        {
+          "name": "Joka Diablo",
+          "url": "https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129012,
+      "name": "ROLEX",
+      "url": "https://open.spotify.com/track/3UMsmat6dEfLBjtL92xYof"
+    },
+    {
+      "album": {
         "name": "ROLEX",
         "url": "https://open.spotify.com/album/25NDj20IXZEtA9TOHWcJfG"
       },

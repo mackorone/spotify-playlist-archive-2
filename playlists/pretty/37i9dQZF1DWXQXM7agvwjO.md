@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Kyoyoko \(China\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,058 likes - 110 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,117 likes - 110 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 52 | [Saviour Complex](https://open.spotify.com/track/6C0HqndvyBSowdnZ4m2w9Y) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Saviour Complex](https://open.spotify.com/album/4OWci34sg3gb0Fkgb0vSfn) | 3:33 |
 | 53 | [Blue Light](https://open.spotify.com/track/6bdUyGmzLg6WRUBGBgm8VM) | [Maxine](https://open.spotify.com/artist/0AVMMJYIr9MdeEYsDUPdM5) | [Blue Dream](https://open.spotify.com/album/0XISx9nBAgg95J6DBjSVSe) | 4:41 |
 | 54 | [灯り雪 \- feat.陳以恆](https://open.spotify.com/track/0zc5H3xABN3TqPjIldNlxO) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [陳以恆](https://open.spotify.com/artist/26ptiw0RrtrYZcRPPGHj5G) | [働くこと、休むこと。](https://open.spotify.com/album/6a5Cn3vSyE0faoZUoMkusM) | 3:58 |
-| 55 | [怪物](https://open.spotify.com/track/6E0xUS0eYDbE7GuOmLZQei) | [我們的日子](https://open.spotify.com/artist/2pDs6jIli6TN1v6FbHIh9R) | [怪物](https://open.spotify.com/album/4dbUEoSQDhLX0HXhPExSda) | 3:20 |
+| 55 | [怪物](https://open.spotify.com/track/6E0xUS0eYDbE7GuOmLZQei) | [我們的日子](https://open.spotify.com/artist/2pDs6jIli6TN1v6FbHIh9R) | [怪物](https://open.spotify.com/album/4dbUEoSQDhLX0HXhPExSda) | 3:22 |
 | 56 | [如果我是流浪貓](https://open.spotify.com/track/1LwlXbzmYJeEFoM33MxOti) | [SONG NING](https://open.spotify.com/artist/0HSetAKLsr5qfFODMMZUvo) | [如果我是流浪貓](https://open.spotify.com/album/3SiW9wCEzK73nxWYnaAUym) | 3:04 |
 | 57 | ["RBF"](https://open.spotify.com/track/6c1TnJhCNqGo77QjcJLFG2) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [i love u](https://open.spotify.com/album/6UlNuUeJ0j05dkPs1Hpdf4) | 2:34 |
 | 58 | [HEADLOCK](https://open.spotify.com/track/13pzuhw41c115a4PKnPVt4) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [Rolling Stone](https://open.spotify.com/album/5NI67mfx5MZ81ofN3Ejp9V) | 1:58 |

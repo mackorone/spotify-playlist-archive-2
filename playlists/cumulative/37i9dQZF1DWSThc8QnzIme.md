@@ -4,7 +4,7 @@
 
 > Breeze through your commute with these pop favorites\. Cover: Zara Larsson
 
-764 songs - 1 day 16 hr 8 min
+765 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-05-20 | 2022-08-27 |
 | [All Girls Go to Heaven](https://open.spotify.com/track/4DARCDYP7uNc0tp7ABx154) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [All Girls Go to Heaven](https://open.spotify.com/album/4APWqD1zWFke34VGBzgroW) | 2:44 | 2024-03-22 | 2024-05-09 |
 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 | 2025-04-11 | 2025-10-25 |
-| [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 | 2025-02-28 |  |
+| [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 | 2025-02-28 | 2026-10-10 |
 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-03-01 | 2024-03-23 |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-17 |  |
 | [Anger](https://open.spotify.com/track/4eZK7n4GZ1nDOzHZgSmLyt) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 2:57 | 2024-08-16 | 2024-10-19 |
@@ -110,6 +110,7 @@
 | [breakup song](https://open.spotify.com/track/0UzEXxCeUvdARQhCpbR3EI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [breakup song](https://open.spotify.com/album/4RoEOdEz9SvEmKTpJHmGoM) | 3:04 | 2022-05-20 | 2022-06-18 |
 | [Bring Your Love](https://open.spotify.com/track/4VozGoqMUNSIn4CT3T1y2c) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:42 | 2026-07-08 |  |
 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 | 2026-07-08 |  |
+| [BURN \(feat\. Ava Max\)](https://open.spotify.com/track/1alX84LuLflUU7n4ow0aSM) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [BURN \(feat\. Ava Max\)](https://open.spotify.com/album/6zNke11RgaMOoQDruAYELb) | 2:56 | 2026-10-09 |  |
 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 | 2024-09-20 | 2024-11-16 |
 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 | 2024-12-09 | 2025-03-14 |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-21 | 2025-07-12 |

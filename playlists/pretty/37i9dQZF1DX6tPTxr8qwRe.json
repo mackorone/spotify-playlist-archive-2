@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - Emei on the cover",
-  "num_followers": 522686,
+  "num_followers": 522679,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACBv4cjVweizpDs70Bh7mMCiFEeK",
+  "snapshot_id": "AAAAAPmEUIMP8VbkvUGyY3jlQfMq/EdC",
   "tracks": [
     {
       "added_at": "2026-10-02 04:00:40",
@@ -23,6 +23,38 @@
       "duration_ms": 192000,
       "name": "Molly",
       "url": "https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U"
+    },
+    {
+      "added_at": "2026-10-09 20:47:13",
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/0enyZOmCbq9QRtSJER2jYE"
+      },
+      "artists": [
+        {
+          "name": "Prestyn Smith",
+          "url": "https://open.spotify.com/artist/1J6uxKkYke0sUt5vcmy7Xi"
+        }
+      ],
+      "duration_ms": 201766,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/28jDHQ7NL0BmZK637LUQ50"
+    },
+    {
+      "added_at": "2026-10-09 20:47:13",
+      "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/2VKVQXkNFZwKSPFcrMMp4y"
+      },
+      "artists": [
+        {
+          "name": "Ella Isaacson",
+          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
+        }
+      ],
+      "duration_ms": 145088,
+      "name": "American Psycho",
+      "url": "https://open.spotify.com/track/6dZlxIGoiiQYyyJwKIVLw2"
     },
     {
       "added_at": "2026-10-02 04:00:40",
@@ -55,6 +87,22 @@
       "duration_ms": 149831,
       "name": "dumblond",
       "url": "https://open.spotify.com/track/4ULnRQJfVXPp91SOVv1D1s"
+    },
+    {
+      "added_at": "2026-10-09 20:47:13",
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/7I5xQyjHarN7HwVUR4pqZ1"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 111759,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/6R7duyVyvy7S4gNQKitgBY"
     },
     {
       "added_at": "2026-10-02 04:00:40",
@@ -103,6 +151,46 @@
       "duration_ms": 179991,
       "name": "EVIDENCE",
       "url": "https://open.spotify.com/track/6l6YEEwViDBojzFCdp5nCD"
+    },
+    {
+      "added_at": "2026-10-09 20:47:13",
+      "album": {
+        "name": "Know My Name",
+        "url": "https://open.spotify.com/album/5CfKcRzU4j7AyZ5CwyJ2Ut"
+      },
+      "artists": [
+        {
+          "name": "True Damage",
+          "url": "https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 212236,
+      "name": "Know My Name",
+      "url": "https://open.spotify.com/track/3s2YCL5LHLzXWbw7ezQru3"
     },
     {
       "added_at": "2026-09-25 04:03:24",
@@ -429,22 +517,6 @@
       "url": "https://open.spotify.com/track/7j9wdLhis4MYplephHszTI"
     },
     {
-      "added_at": "2026-08-21 04:01:23",
-      "album": {
-        "name": "SEDUCTIVE",
-        "url": "https://open.spotify.com/album/6ptfPyyIfY3Ll1VSeNx1aL"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "SEDUCTIVE",
-      "url": "https://open.spotify.com/track/1pk6Qo3Vzv4kUF81BxU4S5"
-    },
-    {
       "added_at": "2026-08-07 04:00:34",
       "album": {
         "name": "superHuman",
@@ -495,22 +567,6 @@
       "duration_ms": 182819,
       "name": "NOSTALGIA BABY",
       "url": "https://open.spotify.com/track/3lfT9Id6tVOFqSWpJEnQZA"
-    },
-    {
-      "added_at": "2026-08-14 04:00:14",
-      "album": {
-        "name": "pretty little wreck",
-        "url": "https://open.spotify.com/album/7y25EesHbjD552Aquq2Vtf"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 118026,
-      "name": "pretty little wreck",
-      "url": "https://open.spotify.com/track/5E20wifIo9SPgYSFiboExO"
     },
     {
       "added_at": "2026-08-07 04:00:34",
@@ -663,22 +719,6 @@
     {
       "added_at": "2026-06-12 04:01:54",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "my way",
-      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
-    },
-    {
-      "added_at": "2026-06-12 04:01:54",
-      "album": {
         "name": "spotless state of mind",
         "url": "https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT"
       },
@@ -803,22 +843,6 @@
       "duration_ms": 161416,
       "name": "Ponyboy",
       "url": "https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv"
-    },
-    {
-      "added_at": "2026-04-24 04:01:30",
-      "album": {
-        "name": "BLURRY",
-        "url": "https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 182383,
-      "name": "BLOODY MARY",
-      "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
     }
   ],
   "unique_name": "SALT",

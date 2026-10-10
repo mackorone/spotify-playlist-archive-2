@@ -4,7 +4,7 @@
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 22 min
+112 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,8 @@
 | [El Corrido De Everardo \- En Vivo](https://open.spotify.com/track/3rKROLx067SgcAOrZzg2v1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Corrido De Everardo \(En Vivo\)](https://open.spotify.com/album/2ckQ5uVNtddHHVofCnSPOv) | 3:31 | 2024-01-29 | 2024-03-06 |
 | [El Corrido del Viejon](https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:17 | 2024-01-29 |  |
 | [El Ejecutor \(Bonus Track\)](https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:28 | 2024-07-15 | 2025-10-06 |
-| [El Empresario](https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Empresario](https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11) | 2:34 | 2024-09-22 | 2026-08-28 |
-| [El Frisón](https://open.spotify.com/track/5q4M88fekPMbt76In9e3BR) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Frisón](https://open.spotify.com/album/5H9xLSq8TxXrkQXJ3t5v3c) | 2:52 | 2026-09-13 |  |
+| [El Empresario](https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Empresario](https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11) | 2:34 | 2024-09-22 |  |
+| [El Frisón](https://open.spotify.com/track/5q4M88fekPMbt76In9e3BR) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Frisón](https://open.spotify.com/album/5H9xLSq8TxXrkQXJ3t5v3c) | 2:52 | 2026-09-13 | 2026-10-10 |
 | [El Ganadero](https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Ganadero](https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm) | 3:42 | 2025-07-14 | 2026-02-18 |
 | [El Golden Boy](https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Golden Boy](https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS) | 2:40 | 2024-01-29 | 2025-09-27 |
 | [El Jr del Viejon](https://open.spotify.com/track/71xO7LGzgeg1GYQQjTfQlK) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:24 | 2026-09-15 |  |
@@ -118,6 +118,7 @@
 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito \(En Vivo\)](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 | 2024-01-29 | 2026-08-28 |
 | [Una Noche En Culiacán](https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Una Noche En Culiacán](https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s) | 2:53 | 2024-01-29 | 2024-07-18 |
 | [Vasito Rojo](https://open.spotify.com/track/1No7C7WcgX0xMM6qBKJMmT) | [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Vasito Rojo](https://open.spotify.com/album/16vZdfkoygFhCkYeB110nc) | 3:13 | 2026-08-19 |  |
-| [Yo Me Quiero Mas](https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Yo Me Quiero Mas](https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO) | 3:10 | 2024-01-29 |  |
+| [Yo Me Quiero Mas](https://open.spotify.com/track/0op5YhXMK2oE7H36oDL98d) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [La Corona](https://open.spotify.com/album/7qKOqhqGxc0kbjwncj5Pj1) | 3:10 | 2026-10-10 |  |
+| [Yo Me Quiero Mas](https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Yo Me Quiero Mas](https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO) | 3:10 | 2024-01-29 | 2026-10-10 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

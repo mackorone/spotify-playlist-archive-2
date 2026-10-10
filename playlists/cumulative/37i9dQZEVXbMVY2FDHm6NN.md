@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-974 songs - 2 day 7 hr 59 min
+977 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Confident \- Single Version](https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/0PZY8Rxtm8ujGlGIQISqRL) | 4:08 | 2026-04-24 | 2026-05-09 |
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-28 | 2023-09-09 |
 | [Count to Ten](https://open.spotify.com/track/7Bb2dk76u7tTQxLf1nY9Ne) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [Stay Tuned](https://open.spotify.com/album/1RQpLKsOBrEe71RYdQdsj9) | 3:52 | 2025-06-06 |  |
+| [CRASH](https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S) | 2:52 | 2026-10-09 |  |
 | [CRAZY](https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 | 2024-09-06 | 2024-11-30 |
 | [CROOKED](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 3:44 | 2025-07-18 | 2025-07-26 |
 | [Crow](https://open.spotify.com/track/4mZc0r3NFubFbe9xMOkZGJ) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Crow](https://open.spotify.com/album/5vw0oyoUojZ3C1JOiSY5hU) | 3:11 | 2026-06-26 | 2026-07-04 |
@@ -460,7 +461,7 @@
 | [Running Wild](https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:31 | 2024-11-22 | 2025-05-31 |
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-06-09 | 2023-06-17 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2022-12-30 | 2025-01-04 |
-| [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 | 2026-09-11 |  |
+| [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 | 2026-09-11 | 2026-10-10 |
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-26 | 2024-08-03 |
 | [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 | 2025-01-17 | 2025-02-01 |
 | [SET ME FREE](https://open.spotify.com/track/1Zr1SoGePJ3iKKakmmZaMR) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7MSkU2pVl6Z3QxDNMJUn1T) | 3:01 | 2023-03-17 | 2023-03-25 |
@@ -732,7 +733,7 @@
 | [夜曲](https://open.spotify.com/track/5rzlpdJ1LDX5VcARtsPKC8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek) | 3:48 | 2024-12-13 | 2024-12-17 |
 | [夢醒時分](https://open.spotify.com/track/51fGtLs5vdK2NOumVhMXru) | [Wu Bai](https://open.spotify.com/artist/5H8TJITZE1sPjVR2ACzXNS) | [單程車票](https://open.spotify.com/album/4yCaNdXDRYxUpBK9Iedhua) | 3:46 | 2025-06-20 | 2025-07-05 |
 | [大展鴻圖\(Blueprint Supreme\)](https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 3:31 | 2025-06-06 | 2025-07-05 |
-| [大船](https://open.spotify.com/track/5zpWHISV6aIIuUaYqSoAS8) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:12 | 2026-10-02 |  |
+| [大船](https://open.spotify.com/track/5zpWHISV6aIIuUaYqSoAS8) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:12 | 2026-10-02 | 2026-10-10 |
 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 | 2025-10-17 | 2025-10-25 |
 | [天后](https://open.spotify.com/track/4D0KlK4Fl8lotvsoys1bYQ) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [再愛一遍‧天后陳勢安](https://open.spotify.com/album/7EYP32Kr9V27MBMdmBkUo0) | 4:49 | 2026-08-14 | 2026-08-22 |
 | [天空沒有極限](https://open.spotify.com/track/4nivAUgvOrWdkv44kjAlxs) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [啓示錄](https://open.spotify.com/album/4uO5m2nHREvFrTeR7rOCDx) | 4:39 | 2022-10-07 | 2022-11-05 |
@@ -740,7 +741,7 @@
 | [太陽之子](https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:57 | 2026-03-27 | 2026-04-25 |
 | [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 | 2025-09-26 |  |
 | [失戀無罪](https://open.spotify.com/track/2s96YKKpfBUbQP3lJuhkfX) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [失戀無罪](https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX) | 4:06 | 2026-01-09 | 2026-01-17 |
-| [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 | 2022-09-30 | 2026-09-12 |
+| [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 | 2022-09-30 |  |
 | [女兒殿下](https://open.spotify.com/track/2JkXcH32yqklFi6mzW2TGK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:44 | 2026-04-03 | 2026-04-11 |
 | [她 \(《早春晴朗》电视剧栾念人物曲&片头曲\)](https://open.spotify.com/track/0dYusc5JF8EIs54li8G7nV) | [刘宇宁](https://open.spotify.com/artist/5k5iMDK1nWLbb0eqMnpuKl) | [早春晴朗 影视原声带](https://open.spotify.com/album/4DevME3UR6XE5EKbXLuQoC) | 3:41 | 2026-09-18 | 2026-09-26 |
 | [她已不再是那個女孩](https://open.spotify.com/track/49T3qI4iMo0lAzJq1CWjA3) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [她已不再是那個女孩](https://open.spotify.com/album/5mM9F5AFSaGB2BgODm1jxy) | 4:57 | 2026-07-24 | 2026-08-01 |
@@ -851,6 +852,7 @@
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-09-30 | 2022-10-29 |
 | [最后一页](https://open.spotify.com/track/1UdN0Q7RQedNECy1izum9N) | [王赫野](https://open.spotify.com/artist/1qkZMxvqHgNoJICJEFbgff), [姚晓棠](https://open.spotify.com/artist/0uUPgjOKvpBpxxZ4ujS2Iu) | [最后一页](https://open.spotify.com/album/1UddZWYXlhuMz7JQ0fn3mG) | 4:30 | 2024-05-31 | 2024-06-08 |
 | [最好的時光](https://open.spotify.com/track/0eFRk9wgFPxg6iXhDjvGAo) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:55 | 2023-07-07 | 2023-10-28 |
+| [最後一個謊](https://open.spotify.com/track/1jvdnSKL2KzLG5vwxrl0C6) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [偶像包袱](https://open.spotify.com/album/50zKMXgPXVzjcDPokBHy9d) | 4:08 | 2026-10-09 |  |
 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-09-30 | 2024-01-27 |
 | [最後一次心碎](https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [最後一次心碎](https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD) | 2:48 | 2022-11-25 | 2022-12-10 |
 | [最後一次心碎](https://open.spotify.com/track/5a0LiXM4FmxsR5zj8CDKLo) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [去妳的假日](https://open.spotify.com/album/0xfotxxAto1JKcCwrI0oZv) | 2:48 | 2023-12-22 | 2024-01-13 |
@@ -871,7 +873,7 @@
 | [消散对白](https://open.spotify.com/track/2u6IWBiX4p0Pl9N7gZ8iRn) | [丁禹兮](https://open.spotify.com/artist/3QsYgWFpxcaXgZLFWReamy) | [消散对白](https://open.spotify.com/album/1GCFufyEbtdsIXs84tf5Wd) | 3:31 | 2025-02-07 | 2025-03-08 |
 | [淘金小鎮](https://open.spotify.com/track/6TK8UMYTqZ4ZIqRVLa8A0a) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:10 | 2026-04-03 | 2026-04-11 |
 | [淚橋](https://open.spotify.com/track/0NAcDn6U2GB2Arhspmh38S) | [Wu Bai](https://open.spotify.com/artist/5H8TJITZE1sPjVR2ACzXNS) | [淚橋](https://open.spotify.com/album/1fftoYj9WigATga9iinkqr) | 3:45 | 2025-06-20 | 2025-07-05 |
-| [淚海](https://open.spotify.com/track/3NXr1tLoDTEjz5V13vbLXG) | [Valen Hsu](https://open.spotify.com/artist/0iW8EYj3iP2gpO5eU2Pvta) | [淚海](https://open.spotify.com/album/5wDKIJx2lZvU0sW6o4FumO) | 4:58 | 2026-10-02 |  |
+| [淚海](https://open.spotify.com/track/3NXr1tLoDTEjz5V13vbLXG) | [Valen Hsu](https://open.spotify.com/artist/0iW8EYj3iP2gpO5eU2Pvta) | [淚海](https://open.spotify.com/album/5wDKIJx2lZvU0sW6o4FumO) | 4:58 | 2026-10-02 | 2026-10-10 |
 | [湘女多情](https://open.spotify.com/track/2B8vNkGx8sXH6U9bugIEqJ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:58 | 2026-03-27 | 2026-04-18 |
 | [湘女多情](https://open.spotify.com/track/5YUQbuyl3jrunVHO2yMyMj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN) | 3:58 | 2026-03-27 | 2026-04-12 |
 | [满天星辰不及你](https://open.spotify.com/track/09io3vVKFutG8rzdjjQYfM) | [yccc](https://open.spotify.com/artist/688ekAE2qdQA7jJbmqcXGL) | [满天星辰不及你](https://open.spotify.com/album/6AvfkqnDNGX27Lz7C02mIt) | 3:36 | 2022-11-11 | 2022-11-26 |
@@ -970,8 +972,9 @@
 | [離開我的依賴](https://open.spotify.com/track/23WLgtD54AeluEPRr5muHo) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [離開我的依賴](https://open.spotify.com/album/6ymLDK67aM8l3bcG0H98OT) | 3:53 | 2026-02-27 | 2026-03-20 |
 | [離開我的依賴](https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [離開我的依賴](https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz) | 3:53 | 2025-08-22 |  |
 | [離開的一路上](https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:14 | 2023-12-01 |  |
+| [雨愛](https://open.spotify.com/track/553GNiNqcudWfsF55RBDqz) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 | 2026-10-09 |  |
 | [雪 Distance](https://open.spotify.com/track/0EpH84Gd5z9xDavnWowfaC) | [Capper](https://open.spotify.com/artist/0NWX8s7X9gtjad7sIB0uba), [羅言](https://open.spotify.com/artist/4ubrvBBuK8sxibCYU5JSUf) | [Uniconfication](https://open.spotify.com/album/7xlWrNZ5NHxhQz9hHFqgbv) | 2:45 | 2023-03-31 | 2024-05-25 |
-| [雲](https://open.spotify.com/track/0cj6Wg1zGTTpbxXk4kcu9h) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:24 | 2026-10-02 |  |
+| [雲](https://open.spotify.com/track/0cj6Wg1zGTTpbxXk4kcu9h) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:24 | 2026-10-02 | 2026-10-10 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-28 | 2023-11-04 |
 | [青花瓷](https://open.spotify.com/track/10VuSw48iPN2UK2xX9Y6P0) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/5JNrPPT60TzrqBxsY3hn0A) | 3:59 | 2024-12-13 | 2024-12-21 |
 | [青花瓷](https://open.spotify.com/track/1UdVJoZGkYbJqUXPJnvfHB) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/39PHyEjzFKafPr9EM7vQVk) | 3:59 | 2024-12-13 | 2024-12-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305 likes - 484 songs - 23 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 304 likes - 484 songs - 23 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -296,8 +296,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 286 | [Vou Rezar pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/6KFgdd6foa3k8nmZAk3EmZ) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus \(Ao Vivo\)](https://open.spotify.com/album/28UTRNOqAZr7QrowFlqQAA) | 2:46 |
 | 287 | [Nem Me Visto e Vou \- Ao Vivo](https://open.spotify.com/track/5sNjrxg4eLrSu9xfXsyNmt) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv), [Vinni e Rafa](https://open.spotify.com/artist/1Gqqv16eKzd7PHQoPeKT0U) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/0fZEVLX3kqf2fQKz5vO0I5) | 2:49 |
 | 288 | [Encerra a Conta \- Ao Vivo](https://open.spotify.com/track/3CIJ5IqA59nD5NTp5ZFR1Q) | [Mateus Ferraz e Thiago](https://open.spotify.com/artist/3LuxckbxBRl9PvTTz6oxp5) | [Na Raça \(Ao Vivo\)](https://open.spotify.com/album/6wjbRR7sb5KEkL0ojhiNBv) | 2:45 |
-| 289 | [Me Faz Esquecer Dela](https://open.spotify.com/track/6ZXGXFbwZ97fWvXZbj5gWC) | [Guilherme Torres](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/3QkYjI7ACQAYUrTmzRAOd2) | 2:48 |
-| 290 | [Caí, Chapei, Não Te Liguei \- Ao Vivo](https://open.spotify.com/track/2xk8VmAc6d29jaGQSH96td) | [Neto e JR](https://open.spotify.com/artist/6g4wXTe4ysRslkpa3z6F7C), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Caí, Chapei, Não Te Liguei \(Ao Vivo\)](https://open.spotify.com/album/6mxnQwJDLDtn3915Y4f1zX) | 2:24 |
+| 289 | [Caí, Chapei, Não Te Liguei \- Ao Vivo](https://open.spotify.com/track/2xk8VmAc6d29jaGQSH96td) | [Neto e JR](https://open.spotify.com/artist/6g4wXTe4ysRslkpa3z6F7C), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Caí, Chapei, Não Te Liguei \(Ao Vivo\)](https://open.spotify.com/album/6mxnQwJDLDtn3915Y4f1zX) | 2:24 |
+| 290 | [Me Faz Esquecer Dela](https://open.spotify.com/track/6ZXGXFbwZ97fWvXZbj5gWC) | [Guilherme Torres](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/3QkYjI7ACQAYUrTmzRAOd2) | 2:48 |
 | 291 | [Cargo de Amante](https://open.spotify.com/track/1h55CTPzCLTcGBkVUROXa9) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Mais pro Bar do Que pra Casa](https://open.spotify.com/album/3R03W6QTwqqhR8pty5tYFl) | 2:37 |
 | 292 | [Eu Queria Ser Ele](https://open.spotify.com/track/4i71ERHX6x3bVvsyX2yY2Q) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Mais pro Bar do Que pra Casa](https://open.spotify.com/album/3R03W6QTwqqhR8pty5tYFl) | 3:01 |
 | 293 | [Labiazinha \- Ao Vivo](https://open.spotify.com/track/0c0o2r5EwBTXc84J84zE5r) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior \(Ao Vivo\)](https://open.spotify.com/album/5jLLvNRvphSwtk3CjaJZFm) | 2:58 |
@@ -395,8 +395,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 385 | [Boca Solteira](https://open.spotify.com/track/4bCpWVO19Y3wnX2bLGKLuX) | [Laylla Barreto](https://open.spotify.com/artist/15TF6IkWFseh4c6Qol6BKy) | [Boca Solteira](https://open.spotify.com/album/0sydpyudY4vfeHNUJSCsxl) | 2:38 |
 | 386 | [Telefone Desligado](https://open.spotify.com/track/6SVIEOg8UFnXrqQlElyabh) | [Hugo Matta](https://open.spotify.com/artist/6Olch7A7o6ihZVv5BgGJGj) | [Trenzão](https://open.spotify.com/album/0nsEcXARPqLOHNYFY3oyx7) | 2:43 |
 | 387 | [Álcool na Mente](https://open.spotify.com/track/62gvDRVsoAvzEWo8zX6UMm) | [Karol kailler](https://open.spotify.com/artist/3Uroh9qzMYt6Qo9WsrwiXg) | [Minhas Regras](https://open.spotify.com/album/4YU2LUtO2UGKjL71MXfvmL) | 2:53 |
-| 388 | [Trenzão](https://open.spotify.com/track/4YHvKkB2sZNwQyvEybWenp) | [Hugo Matta](https://open.spotify.com/artist/6Olch7A7o6ihZVv5BgGJGj) | [Trenzão](https://open.spotify.com/album/0nsEcXARPqLOHNYFY3oyx7) | 2:31 |
-| 389 | [As Fitas do Amado Batista \- Ao Vivo](https://open.spotify.com/track/2PlohnwQixMvgu70gqsozB) | [Enzo & Thiago](https://open.spotify.com/artist/0nIcJLDRRSsTkZ3rI7l6Pm) | [As Fitas do Amado Batista / Farinha do Mesmo Saco \(Ao Vivo\)](https://open.spotify.com/album/5yo4vuiYcFqt7wsMuLc6Fk) | 2:26 |
+| 388 | [As Fitas do Amado Batista \- Ao Vivo](https://open.spotify.com/track/2PlohnwQixMvgu70gqsozB) | [Enzo & Thiago](https://open.spotify.com/artist/0nIcJLDRRSsTkZ3rI7l6Pm) | [As Fitas do Amado Batista / Farinha do Mesmo Saco \(Ao Vivo\)](https://open.spotify.com/album/5yo4vuiYcFqt7wsMuLc6Fk) | 2:26 |
+| 389 | [Trenzão](https://open.spotify.com/track/4YHvKkB2sZNwQyvEybWenp) | [Hugo Matta](https://open.spotify.com/artist/6Olch7A7o6ihZVv5BgGJGj) | [Trenzão](https://open.spotify.com/album/0nsEcXARPqLOHNYFY3oyx7) | 2:31 |
 | 390 | [Bate e Volta](https://open.spotify.com/track/0ISMIcSsiLquVWLWvRD37W) | [Bernardo Rigo](https://open.spotify.com/artist/1jwHzvpzchnUElCHR46G2Z) | [Bate e Volta](https://open.spotify.com/album/2BuKOTGLxyjAi5L2Wdj7Sl) | 2:14 |
 | 391 | [Love Night \- Ao Vivo](https://open.spotify.com/track/0ChIUVvE3dh6Pe1RJAJ6d5) | [Beto & Breno](https://open.spotify.com/artist/7iFKA14MpJ9bhPhZIUqDOS) | [Beto & Breno Entre Amigos \(Ao Vivo\)](https://open.spotify.com/album/3iaxTC0WaV4ZL7iA8jP8vB) | 2:46 |
 | 392 | [Batom de Campari \- Ao Vivo](https://open.spotify.com/track/2hqBc4HKE8iV2jxmebAst3) | [João Paulo & André](https://open.spotify.com/artist/5BkncJg4WgKJvJufm8UdbR) | [Ensine a Contar Nossos Dias \(Ao Vivo\)](https://open.spotify.com/album/0OxbKynYvso5tFt2X8sszf) | 2:22 |
@@ -483,8 +483,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 473 | [Vida Bagunçada](https://open.spotify.com/track/2oVTsCJoUFD5gUDIoEVLz2) | [Polyanna Araujo](https://open.spotify.com/artist/2fjPVchheumdmA9oeOc3hY) | [Polyanna Araujo](https://open.spotify.com/album/4aBJOKSFBD34reDc87eCtp) | 2:51 |
 | 474 | [Arrochadinha](https://open.spotify.com/track/24KfD8d7M4Ct6ZpmKNAA4i) | [Kadu Monteiro](https://open.spotify.com/artist/1kaOZ895TbXX2sv7MdwiTG) | [É Tempo de Sofrer](https://open.spotify.com/album/6cIV36ydrEVa4ZV00l0MzO) | 2:49 |
 | 475 | [Amorzinho Meia Boca](https://open.spotify.com/track/64qDlct5yxqcZQkfSm7F8Q) | [Guto e Rafael](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Ao Vivo em Goiânia](https://open.spotify.com/album/0OFyjM0idm1n0AmVRaw9q6) | 2:43 |
-| 476 | [To Indo](https://open.spotify.com/track/0GfxOemm4Tk5Cb8nvZOpHo) | [Leozinho Imperador](https://open.spotify.com/artist/6ZsRxwmi4QfJZGKxZ7iUnA) | [Seresta 3..0](https://open.spotify.com/album/2ot0sxu7VXV0gTV0qpvpeW) | 3:12 |
-| 477 | [Voz Grossa](https://open.spotify.com/track/274c2A5Yo9yo1pWDXJ4nUh) | [Brunno e Henrique](https://open.spotify.com/artist/4ua7xGTzJlYKdNqBOfflfJ) | [Voz Grossa](https://open.spotify.com/album/1MrpnclyPrz8jNpuKRsfbw) | 2:30 |
+| 476 | [Voz Grossa](https://open.spotify.com/track/274c2A5Yo9yo1pWDXJ4nUh) | [Brunno e Henrique](https://open.spotify.com/artist/4ua7xGTzJlYKdNqBOfflfJ) | [Voz Grossa](https://open.spotify.com/album/1MrpnclyPrz8jNpuKRsfbw) | 2:30 |
+| 477 | [To Indo](https://open.spotify.com/track/0GfxOemm4Tk5Cb8nvZOpHo) | [Leozinho Imperador](https://open.spotify.com/artist/6ZsRxwmi4QfJZGKxZ7iUnA) | [Seresta 3..0](https://open.spotify.com/album/2ot0sxu7VXV0gTV0qpvpeW) | 3:12 |
 | 478 | [Ex do Atual](https://open.spotify.com/track/1cggpuByVzRuAmZIDHGbva) | [Baile da Sofrência](https://open.spotify.com/artist/77JIVmVElb2R95S2rPwxwk) | [Atualizou Vei 2](https://open.spotify.com/album/13RGuRxJweYjHRYaMVYmB6) | 3:18 |
 | 479 | [Várias Línguas](https://open.spotify.com/track/4K3xTWJTHoH3CNB8h7Ms3w) | [Cristiano Resende](https://open.spotify.com/artist/0Qfr2VBuNb5rk2DxkHeQEU) | [Ouça e Se Apaixone](https://open.spotify.com/album/6ofMgRyODUmjHz23QTpHwM) | 2:19 |
 | 480 | [Insubstituível](https://open.spotify.com/track/47okPEuAduPfgjuQcztMwi) | [Rogério & Vinicius](https://open.spotify.com/artist/242npdM1FeToWKENN5PVmn) | [Fazendinha](https://open.spotify.com/album/3J2YtXqpEVUPYdOggCrKij) | 3:46 |
@@ -493,4 +493,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 483 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 | 484 | [Empatado](https://open.spotify.com/track/2R2VmRrz86KaWp8bfXFXVQ) | [João Barreto Oficial](https://open.spotify.com/artist/7bTjPVV03uXGSwNaumEmtY) | [Arrochando no São João](https://open.spotify.com/album/21yJnJ6IuFwiDLSD10CiAX) | 2:27 |
 
-Snapshot ID: `AcebbgAAAADE19SYZIjDlLb87wOOMAtj`
+Snapshot ID: `AcehDgAAAABHrFYh6ztsw/J49kP+ZELw`

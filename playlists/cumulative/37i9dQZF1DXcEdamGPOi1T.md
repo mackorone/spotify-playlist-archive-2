@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-551 songs - 1 day 5 hr 6 min
+552 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-04-07 | 2024-05-13 |
 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 | 2025-06-13 |  |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2024-03-29 | 2024-04-20 |
+| [Monaco](https://open.spotify.com/track/1p39ukFUGUDttCu71eGQS4) | [Faüna](https://open.spotify.com/artist/0lzKARKhaojkklWlFuLpBw) | [Monaco](https://open.spotify.com/album/7Bv3f1NUqlas6VNwGSI6As) | 2:43 | 2026-08-28 |  |
 | [Moneytree](https://open.spotify.com/track/0BjPVKGaC2j99Xfn9xbqBU) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Naâman](https://open.spotify.com/artist/2Gkz5N7rWiCE3jlCgsw1yp) | [Moneytree](https://open.spotify.com/album/2RSdk3HLEhbQIvRSadqxaS) | 2:36 | 2023-04-07 | 2023-04-22 |
 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 | 2022-05-27 | 2022-07-29 |
 | [Morceaux de toi](https://open.spotify.com/track/4nflihKVCtgCg55ZmVCas0) | [Malory](https://open.spotify.com/artist/4fWYaICAtJA5qKvfqOm1LZ), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Métropole Blues](https://open.spotify.com/album/4mxmu0AwWUtVYmXyoExha6) | 3:21 | 2022-05-27 | 2022-06-21 |
@@ -341,7 +342,7 @@
 | [MOTOMAMI](https://open.spotify.com/track/7mdMJNBm9Ufi2yybr49DNT) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [30º](https://open.spotify.com/album/5cQjwwloSCbzEEFh9fLAuw) | 2:03 | 2023-08-18 | 2024-01-30 |
 | [MTL me déteste](https://open.spotify.com/track/0noGq7yYjc1GXxXSJHuCfD) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [MTL me déteste](https://open.spotify.com/album/77LvEnRscXyt8QjUE5B2Zo) | 3:13 | 2022-05-27 | 2022-07-04 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-04-19 | 2024-10-02 |
-| [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/track/2JZHtLw2uT5vWEhpFCBSv9) | [DJ LEWIS](https://open.spotify.com/artist/7tcmR6KRcQZL4qnA98Fide), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/album/2S0fAWBZHxr1QG2BwGD4Yf) | 2:28 | 2026-07-17 |  |
+| [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/track/2JZHtLw2uT5vWEhpFCBSv9) | [DJ LEWIS](https://open.spotify.com/artist/7tcmR6KRcQZL4qnA98Fide), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/album/2S0fAWBZHxr1QG2BwGD4Yf) | 2:28 | 2026-07-17 | 2026-10-10 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-05-27 | 2024-03-30 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-06-04 | 2026-05-30 |
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-17 | 2022-07-29 |

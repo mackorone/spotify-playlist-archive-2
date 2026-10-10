@@ -98257,6 +98257,28 @@
     },
     {
       "album": {
+        "name": "Karak\u0131\u015f",
+        "url": "https://open.spotify.com/album/2FDPWuKEWcfIgv9JpAR6UW"
+      },
+      "artists": [
+        {
+          "name": "Mert Demir",
+          "url": "https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm"
+        },
+        {
+          "name": "Kibariye",
+          "url": "https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246944,
+      "name": "Karak\u0131\u015f",
+      "url": "https://open.spotify.com/track/1WZNBiUdfCjJ6LxKuPw1gl"
+    },
+    {
+      "album": {
         "name": "KARALANDIM",
         "url": "https://open.spotify.com/album/6O1ZYssieRY92GRNIWlL1b"
       },
@@ -138135,6 +138157,32 @@
     },
     {
       "album": {
+        "name": "Road Trippin'",
+        "url": "https://open.spotify.com/album/3Vd7wf1dD2WRui5Wr6KFMA"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Lila Swain",
+          "url": "https://open.spotify.com/artist/35D5Ojj9GVGai20x190ChK"
+        },
+        {
+          "name": "Ton Voyaj",
+          "url": "https://open.spotify.com/artist/1OfzSzI6xiSDpxdW5A3qhk"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416500,
+      "name": "Road Trippin'",
+      "url": "https://open.spotify.com/track/45gxg0YztpA1F5Sk9fvqfb"
+    },
+    {
+      "album": {
         "name": "Rock Music",
         "url": "https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w"
       },
@@ -152278,7 +152326,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 185373,
       "name": "She'll Never Be Me",
       "url": "https://open.spotify.com/track/3wgrOVBvLSjPujrxDjdWeV"
@@ -174740,7 +174788,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 178334,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
@@ -179658,6 +179706,24 @@
       "duration_ms": 145719,
       "name": "Yan Ulan Yan",
       "url": "https://open.spotify.com/track/4keyTjLtympG8GMGH2ITUM"
+    },
+    {
+      "album": {
+        "name": "Yan Yana",
+        "url": "https://open.spotify.com/album/6xfTehPJInQozkEDxI3Yog"
+      },
+      "artists": [
+        {
+          "name": "Destan",
+          "url": "https://open.spotify.com/artist/0ixqw8oRxAL4MaLA0PUOc2"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209662,
+      "name": "Yan Yana",
+      "url": "https://open.spotify.com/track/2MwxjYlH23cPtzZMc0p7iE"
     },
     {
       "album": {

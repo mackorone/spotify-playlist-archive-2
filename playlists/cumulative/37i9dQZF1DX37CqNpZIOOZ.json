@@ -736,32 +736,6 @@
     {
       "album": {
         "name": "Strauss, R.: Aus Italien / Die Liebe Der Danae",
-        "url": "https://open.spotify.com/album/2tUFuBHl8RM9J3cu9LVZHg"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Zden\u011bk Ko\u0161ler",
-          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 756000,
-      "name": "Aus Italien, Op. 16, TrV 147: Am Strande von Sorrent (On the Beach at Sorrento)",
-      "url": "https://open.spotify.com/track/25b5oPq8Liy1SecrrIH8sR"
-    },
-    {
-      "album": {
-        "name": "Strauss, R.: Aus Italien / Die Liebe Der Danae",
         "url": "https://open.spotify.com/album/7oEbgL8cKAyskzkWWq4JAG"
       },
       "artists": [
@@ -810,6 +784,32 @@
       "duration_ms": 756000,
       "name": "Aus Italien, Op. 16, TrV 147: Am Strande von Sorrent (On the Beach at Sorrento)",
       "url": "https://open.spotify.com/track/4Fx957UN2hTMnyJfQQlWlY"
+    },
+    {
+      "album": {
+        "name": "Strauss, R.: Aus Italien / Die Liebe Der Danae",
+        "url": "https://open.spotify.com/album/2tUFuBHl8RM9J3cu9LVZHg"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Slovak Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6ybPI1kBDr4UI7s3P18v1J"
+        },
+        {
+          "name": "Zden\u011bk Ko\u0161ler",
+          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 756000,
+      "name": "Aus Italien, Op. 16, TrV 147: Am Strande von Sorrent (On the Beach at Sorrento)",
+      "url": "https://open.spotify.com/track/25b5oPq8Liy1SecrrIH8sR"
     },
     {
       "album": {
@@ -2600,8 +2600,8 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+          "name": "Slovak Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6ybPI1kBDr4UI7s3P18v1J"
         },
         {
           "name": "Zden\u011bk Ko\u0161ler",

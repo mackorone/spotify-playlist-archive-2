@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Shingo Suzuki",
-  "num_followers": 51130,
+  "num_followers": 51146,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 201842,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 218880,
       "name": "BLUE GIANT - \u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
       "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 201842,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "kopfkino",
-        "url": "https://open.spotify.com/album/5E2B6rVoK14lDOjYsXQHSN"
-      },
-      "artists": [
-        {
-          "name": "\u9999\u7530 \u60a0\u771f",
-          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "kopfkino",
-      "url": "https://open.spotify.com/track/20ZQW7lVjcw1XP7LWtJLeB"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "ELECTRIC RIDER",
         "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Ooh-La-La",
-        "url": "https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU"
+        "name": "kopfkino",
+        "url": "https://open.spotify.com/album/5E2B6rVoK14lDOjYsXQHSN"
       },
       "artists": [
         {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+          "name": "\u9999\u7530 \u60a0\u771f",
+          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
         }
       ],
-      "duration_ms": 238875,
-      "name": "Curumim",
-      "url": "https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx"
+      "duration_ms": 183973,
+      "name": "kopfkino",
+      "url": "https://open.spotify.com/track/20ZQW7lVjcw1XP7LWtJLeB"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -931,6 +915,22 @@
       "duration_ms": 244986,
       "name": "Cross Again",
       "url": "https://open.spotify.com/track/2iTijsnmas6C4ezW1f5YAr"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "Ooh-La-La",
+        "url": "https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 238875,
+      "name": "Curumim",
+      "url": "https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "\u307e\u306b\u307e\u306b",
+        "url": "https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 198168,
+      "name": "Tiny Mirror",
+      "url": "https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "Asleep Above Creatures",
         "url": "https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "\u307e\u306b\u307e\u306b",
-        "url": "https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE"
+        "name": "Spark",
+        "url": "https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj"
       },
       "artists": [
         {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
         }
       ],
-      "duration_ms": 198168,
-      "name": "Tiny Mirror",
-      "url": "https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb"
+      "duration_ms": 165733,
+      "name": "Spark",
+      "url": "https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1059,22 +1075,6 @@
       "duration_ms": 362551,
       "name": "Beautiful Smile - \"Pianoman\" Album Full ver.",
       "url": "https://open.spotify.com/track/16tAecK1qfWKagmzFIYG30"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Spark",
-        "url": "https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Spark",
-      "url": "https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "SOLA no SOLO",
-        "url": "https://open.spotify.com/album/5wJnz1agDgSQUdhO9knOwU"
-      },
-      "artists": [
-        {
-          "name": "\u85e4\u4e95 \u7a7a",
-          "url": "https://open.spotify.com/artist/2AMGwrpqbwLg1tZjDgnvQt"
-        }
-      ],
-      "duration_ms": 241932,
-      "name": "\u9752\u306b\u67d3\u307e\u308b\u6a4b",
-      "url": "https://open.spotify.com/track/1GIBSgeHXVffa70A6H6x6v"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "DANSE MACABRE",
         "url": "https://open.spotify.com/album/3wiRd5fP0VKdPR7xGRTMmg"
       },
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr"
-      },
-      "artists": [
-        {
-          "name": "N.S. DANCEMBLE",
-          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
-        }
-      ],
-      "duration_ms": 241904,
-      "name": "WE ARE",
-      "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "In Black",
         "url": "https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq"
       },
@@ -1203,6 +1171,38 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr"
+      },
+      "artists": [
+        {
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
+        }
+      ],
+      "duration_ms": 241904,
+      "name": "WE ARE",
+      "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "SOLA no SOLO",
+        "url": "https://open.spotify.com/album/5wJnz1agDgSQUdhO9knOwU"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u4e95 \u7a7a",
+          "url": "https://open.spotify.com/artist/2AMGwrpqbwLg1tZjDgnvQt"
+        }
+      ],
+      "duration_ms": 241932,
+      "name": "\u9752\u306b\u67d3\u307e\u308b\u6a4b",
+      "url": "https://open.spotify.com/track/1GIBSgeHXVffa70A6H6x6v"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "John Connor",
         "url": "https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 339006,
       "name": "In a Spiral",
       "url": "https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "SS",
+        "url": "https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD"
+      },
+      "artists": [
+        {
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        }
+      ],
+      "duration_ms": 215675,
+      "name": "SS",
+      "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1235,22 +1251,6 @@
       "duration_ms": 246250,
       "name": "LUPIN THE 3RD '78\uff08\u30eb\u30d1\u30f3\u4e09\u4e16\u306e\u30c6\u30fc\u30de\u2019\uff17\uff18\uff09",
       "url": "https://open.spotify.com/track/3gwuI3dcmEs9oomvtDrqU5"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "SS",
-        "url": "https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD"
-      },
-      "artists": [
-        {
-          "name": "\u8cfd",
-          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
-        }
-      ],
-      "duration_ms": 215675,
-      "name": "SS",
-      "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "Into My System",
+        "url": "https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "duration_ms": 337173,
+      "name": "IDEA",
+      "url": "https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "Rainbow's End",
         "url": "https://open.spotify.com/album/0BpHSTSKw2IdCoMfTbKhdQ"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 272326,
       "name": "Rainbow's End",
       "url": "https://open.spotify.com/track/7wsd88N5KRB2OjSkZLcf4G"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Into My System",
-        "url": "https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        },
-        {
-          "name": "ermhoi",
-          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
-        }
-      ],
-      "duration_ms": 337173,
-      "name": "IDEA",
-      "url": "https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "URAH",
-        "url": "https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h"
-      },
-      "artists": [
-        {
-          "name": "\u30d1\u30b8\u30e3\u30de\u3067\u6d77\u306a\u3093\u304b\u3044\u304b\u306a\u3044",
-          "url": "https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "URAH",
-      "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ"
       },
@@ -1507,6 +1491,42 @@
       "duration_ms": 280626,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "URAH",
+        "url": "https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30b8\u30e3\u30de\u3067\u6d77\u306a\u3093\u304b\u3044\u304b\u306a\u3044",
+          "url": "https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "URAH",
+      "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "Egg On The Roof",
+        "url": "https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u66fd\u6839\u5553",
+          "url": "https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M"
+        },
+        {
+          "name": "Makoto Ozone",
+          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
+        }
+      ],
+      "duration_ms": 429063,
+      "name": "\u30a8\u30c3\u30b0\u30fb\u30aa\u30f3\u30fb\u30b6\u30fb\u30eb\u30fc\u30d5",
+      "url": "https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1543,26 +1563,6 @@
       "duration_ms": 251445,
       "name": "\u5076\u7136\u306e\u4e00\u81f4",
       "url": "https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Egg On The Roof",
-        "url": "https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u66fd\u6839\u5553",
-          "url": "https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M"
-        },
-        {
-          "name": "Makoto Ozone",
-          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
-        }
-      ],
-      "duration_ms": 429063,
-      "name": "\u30a8\u30c3\u30b0\u30fb\u30aa\u30f3\u30fb\u30b6\u30fb\u30eb\u30fc\u30d5",
-      "url": "https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "The Little Cycle",
-        "url": "https://open.spotify.com/album/2ysNJMEwr7AYMXH6EynqVZ"
+        "name": "Morning Bread",
+        "url": "https://open.spotify.com/album/6N2j5KkTBIEtq8IrdJa0BA"
       },
       "artists": [
         {
           "name": "Sara Wakui",
           "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "mimiko",
+          "url": "https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I"
         }
       ],
-      "duration_ms": 250279,
-      "name": "Terracotta",
-      "url": "https://open.spotify.com/track/1w5v26yZEOV1hglLvElyI0"
+      "duration_ms": 197686,
+      "name": "Morning Bread",
+      "url": "https://open.spotify.com/track/6hvdH8mYINFsY9YtbhD1DU"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1707,22 +1711,18 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Morning Bread",
-        "url": "https://open.spotify.com/album/6N2j5KkTBIEtq8IrdJa0BA"
+        "name": "The Little Cycle",
+        "url": "https://open.spotify.com/album/2ysNJMEwr7AYMXH6EynqVZ"
       },
       "artists": [
         {
           "name": "Sara Wakui",
           "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        },
-        {
-          "name": "mimiko",
-          "url": "https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I"
         }
       ],
-      "duration_ms": 197686,
-      "name": "Morning Bread",
-      "url": "https://open.spotify.com/track/6hvdH8mYINFsY9YtbhD1DU"
+      "duration_ms": 250279,
+      "name": "Terracotta",
+      "url": "https://open.spotify.com/track/1w5v26yZEOV1hglLvElyI0"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1743,6 +1743,22 @@
       "duration_ms": 282500,
       "name": "Sun Song",
       "url": "https://open.spotify.com/track/1vI6hByp1E5irhrv1w55YG"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "Kazumi Tateishi Trio meets Beautiful Standards",
+        "url": "https://open.spotify.com/album/0eEfR2lSeW2SaYZ4BEFXUH"
+      },
+      "artists": [
+        {
+          "name": "Kazumi Tateishi Trio",
+          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Raindrops Keep Fallin' On My Head",
+      "url": "https://open.spotify.com/track/2O4uIdTdn1JPC9DtnQpefK"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Kazumi Tateishi Trio meets Beautiful Standards",
-        "url": "https://open.spotify.com/album/0eEfR2lSeW2SaYZ4BEFXUH"
-      },
-      "artists": [
-        {
-          "name": "Kazumi Tateishi Trio",
-          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Raindrops Keep Fallin' On My Head",
-      "url": "https://open.spotify.com/track/2O4uIdTdn1JPC9DtnQpefK"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Blood But Blues",
         "url": "https://open.spotify.com/album/5aUhK30kDj2pXn31qT634w"
       },
@@ -1799,6 +1799,26 @@
       "duration_ms": 433586,
       "name": "Gotta Decent Shoes?",
       "url": "https://open.spotify.com/track/5QKHJtbjIt9kKGmVmVvTDq"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "My Samba (feat. Skaai)",
+        "url": "https://open.spotify.com/album/53Y6SKRMpcTFjHDavqEyV6"
+      },
+      "artists": [
+        {
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "My Samba (feat. Skaai)",
+      "url": "https://open.spotify.com/track/22vlyrI5cI6bnyCg2suFFs"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1831,50 +1851,6 @@
       "duration_ms": 362559,
       "name": "Bird Of Beauty",
       "url": "https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "My Samba (feat. Skaai)",
-        "url": "https://open.spotify.com/album/53Y6SKRMpcTFjHDavqEyV6"
-      },
-      "artists": [
-        {
-          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
-          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "My Samba (feat. Skaai)",
-      "url": "https://open.spotify.com/track/22vlyrI5cI6bnyCg2suFFs"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Trio IV: The City, It Whispers",
-        "url": "https://open.spotify.com/album/1TcfzFpZm4kmi5zMiZ3crA"
-      },
-      "artists": [
-        {
-          "name": "Marty Holoubek",
-          "url": "https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
-        },
-        {
-          "name": "\u6e21\u8fba\u7fd4\u592a",
-          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
-        }
-      ],
-      "duration_ms": 294344,
-      "name": "Disturbed Utopia",
-      "url": "https://open.spotify.com/track/6zgFQddklalR8m5YN2wi4s"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1915,22 +1891,26 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Unstoppable journey",
-        "url": "https://open.spotify.com/album/0sVwGWNZIzQm6kyWtwWHEN"
+        "name": "Trio IV: The City, It Whispers",
+        "url": "https://open.spotify.com/album/1TcfzFpZm4kmi5zMiZ3crA"
       },
       "artists": [
         {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+          "name": "Marty Holoubek",
+          "url": "https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF"
         },
         {
-          "name": "Wind Loop Case",
-          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        },
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
         }
       ],
-      "duration_ms": 241714,
-      "name": "Unstoppable journey",
-      "url": "https://open.spotify.com/track/6xsIxv84qSgqehvLu7HPhK"
+      "duration_ms": 294344,
+      "name": "Disturbed Utopia",
+      "url": "https://open.spotify.com/track/6zgFQddklalR8m5YN2wi4s"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1951,6 +1931,26 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "Unstoppable journey",
+        "url": "https://open.spotify.com/album/0sVwGWNZIzQm6kyWtwWHEN"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "Wind Loop Case",
+          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Unstoppable journey",
+      "url": "https://open.spotify.com/track/6xsIxv84qSgqehvLu7HPhK"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "Just to Cross the Night",
         "url": "https://open.spotify.com/album/45GTMxoZYY0I8VJxKTaFtV"
       },
@@ -1963,6 +1963,22 @@
       "duration_ms": 253314,
       "name": "Just to Cross the Night",
       "url": "https://open.spotify.com/track/5gmyYTTxpKg3k5KPjVJtyS"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "Mysterious Vibes / A Little Spice",
+        "url": "https://open.spotify.com/album/5684kLpfJBsGmptAyuDe7h"
+      },
+      "artists": [
+        {
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+        }
+      ],
+      "duration_ms": 267870,
+      "name": "A Little Spice",
+      "url": "https://open.spotify.com/track/3rgPvwRlxeqPYFcEvXhk0K"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1999,18 +2015,18 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Mysterious Vibes / A Little Spice",
-        "url": "https://open.spotify.com/album/5684kLpfJBsGmptAyuDe7h"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/4XB6hEAmybQedlWt8IxloQ"
       },
       "artists": [
         {
-          "name": "45trio",
-          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+          "name": "Keichan",
+          "url": "https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG"
         }
       ],
-      "duration_ms": 267870,
-      "name": "A Little Spice",
-      "url": "https://open.spotify.com/track/3rgPvwRlxeqPYFcEvXhk0K"
+      "duration_ms": 232973,
+      "name": "\u221aAdvent",
+      "url": "https://open.spotify.com/track/00XQhflJMwWY45mW6jTyfD"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -2027,22 +2043,6 @@
       "duration_ms": 451509,
       "name": "LOST AND FOUND",
       "url": "https://open.spotify.com/track/6XFmI9JrepfB54inQuA5c1"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/4XB6hEAmybQedlWt8IxloQ"
-      },
-      "artists": [
-        {
-          "name": "Keichan",
-          "url": "https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "\u221aAdvent",
-      "url": "https://open.spotify.com/track/00XQhflJMwWY45mW6jTyfD"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Chaos",
-        "url": "https://open.spotify.com/album/4mOqoMKP19bGbBdTrWRBZW"
-      },
-      "artists": [
-        {
-          "name": "Tenors In Chaos",
-          "url": "https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "BAKKI BAKI",
-      "url": "https://open.spotify.com/track/0bssc9MtiwbdN759YEqDa1"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Buchi (feat.\u5225\u6240\u548c\u6d0b)",
         "url": "https://open.spotify.com/album/5L3fJdGwv2XVXsz31QndKG"
       },
@@ -2223,18 +2207,18 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "HOPE FOR TOMORROW (LIVE)",
-        "url": "https://open.spotify.com/album/5XFMFFK0I0MArDSHcfFiM5"
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/4mOqoMKP19bGbBdTrWRBZW"
       },
       "artists": [
         {
-          "name": "Sadao Watanabe",
-          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
+          "name": "Tenors In Chaos",
+          "url": "https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT"
         }
       ],
-      "duration_ms": 413506,
-      "name": "BUTTERFLY (LIVE)",
-      "url": "https://open.spotify.com/track/6ND3US4IXyqUN1v9UQEpl0"
+      "duration_ms": 282600,
+      "name": "BAKKI BAKI",
+      "url": "https://open.spotify.com/track/0bssc9MtiwbdN759YEqDa1"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -2259,6 +2243,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "HOPE FOR TOMORROW (LIVE)",
+        "url": "https://open.spotify.com/album/5XFMFFK0I0MArDSHcfFiM5"
+      },
+      "artists": [
+        {
+          "name": "Sadao Watanabe",
+          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
+        }
+      ],
+      "duration_ms": 413506,
+      "name": "BUTTERFLY (LIVE)",
+      "url": "https://open.spotify.com/track/6ND3US4IXyqUN1v9UQEpl0"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "Zig-Zag",
         "url": "https://open.spotify.com/album/2uB686S8OuIgQ3QZHbJxyy"
       },
@@ -2271,22 +2271,6 @@
       "duration_ms": 266000,
       "name": "Zig-Zag",
       "url": "https://open.spotify.com/track/2TtrLyX6HKHCZPX0mebwEw"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "hunted",
-        "url": "https://open.spotify.com/album/5DKrm6Ilqx5hQe50J7zCPt"
-      },
-      "artists": [
-        {
-          "name": "midori jaeger",
-          "url": "https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp"
-        }
-      ],
-      "duration_ms": 176161,
-      "name": "planted",
-      "url": "https://open.spotify.com/track/6esnClfCbyWOI5PcDEgpxf"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -2327,6 +2311,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "hunted",
+        "url": "https://open.spotify.com/album/5DKrm6Ilqx5hQe50J7zCPt"
+      },
+      "artists": [
+        {
+          "name": "midori jaeger",
+          "url": "https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp"
+        }
+      ],
+      "duration_ms": 176161,
+      "name": "planted",
+      "url": "https://open.spotify.com/track/6esnClfCbyWOI5PcDEgpxf"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "GEMINI:zed",
         "url": "https://open.spotify.com/album/6nn4X6TskpT7DT1JMuLvHh"
       },
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Soy Califa",
-        "url": "https://open.spotify.com/album/4R0gpdP9V7vyK1N18KtnHF"
-      },
-      "artists": [
-        {
-          "name": "Shunosuke Ishikawa",
-          "url": "https://open.spotify.com/artist/4NHbJ9owmGLA39C8yzjvu0"
-        }
-      ],
-      "duration_ms": 312564,
-      "name": "Soy Califa",
-      "url": "https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Ray Chatani Orchestra",
         "url": "https://open.spotify.com/album/4FydYamzGtzRNIAwVcJj4p"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 337845,
       "name": "One Finger Snap",
       "url": "https://open.spotify.com/track/4AKkklT755XpgM5uPLY5PZ"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "Soy Califa",
+        "url": "https://open.spotify.com/album/4R0gpdP9V7vyK1N18KtnHF"
+      },
+      "artists": [
+        {
+          "name": "Shunosuke Ishikawa",
+          "url": "https://open.spotify.com/artist/4NHbJ9owmGLA39C8yzjvu0"
+        }
+      ],
+      "duration_ms": 312564,
+      "name": "Soy Califa",
+      "url": "https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D"
     },
     {
       "added_at": "2026-09-15 15:00:14",

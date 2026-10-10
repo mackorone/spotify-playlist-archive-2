@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2026 \(previous playlists archived on my profile\)
 
-1,095 songs - 2 day 18 hr 52 min
+1,097 songs - 2 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 | 2025-11-28 | 2026-01-15 |
 | [Auntie's Lock/Infinitum](https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Laura Darlington](https://open.spotify.com/artist/67OokTsDsLUvJI6oIxCigq) | [Los Angeles](https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu) | 2:44 | 2024-09-07 | 2024-09-11 |
 | [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 | 2026-06-24 | 2026-07-06 |
+| [Avril](https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [Put Rings On All My Fingers To Weigh Down My Hands](https://open.spotify.com/album/3eTvTiRjlO02MbHqXL5oyc) | 5:18 | 2026-10-09 |  |
 | [B](https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H) | [Lync](https://open.spotify.com/artist/31fnC8wbw2ZBITgOp6KKoY) | [These Are Not Fall Colors](https://open.spotify.com/album/3Is1zxmfs8xXPL8QnB27kd) | 4:30 | 2024-10-24 | 2024-11-14 |
 | [Baby Lef Marah](https://open.spotify.com/track/0amK3uqJKw5AJ9CgeJArTz) | [S.E\. Rogie](https://open.spotify.com/artist/1W8vgcN29v8ChWmlpZQ3Ai) | [The Sounds of S.E\. Rogie](https://open.spotify.com/album/1Ovz1OhylAnhQ2kLf65obf) | 3:10 | 2024-06-25 | 2024-07-12 |
 | [Bacara](https://open.spotify.com/track/0Nzb9xXoZ4YKmoi2TLvO9S) | [Grand Kallé](https://open.spotify.com/artist/72y2BmOygi88StwtMuQfEQ), [L'African Jazz](https://open.spotify.com/artist/0mHnv5jdaehGzv9zujVlXW) | [Merveilles du passé, Vol\. 1 \(1958 / 1959 / 1960\)](https://open.spotify.com/album/6LGIjTarpggj13sgOa0G1h) | 2:48 | 2025-12-24 | 2026-01-15 |
@@ -1068,6 +1069,7 @@
 | [With You \- Demo](https://open.spotify.com/track/0fxf9dkUc8r8AHWPx7Cdkn) | [NumbDome](https://open.spotify.com/artist/2dt0CUEEL1u22uqRoocBQP) | [Pretty Place Demos](https://open.spotify.com/album/2aSMfYhkI2RwV6ucurrWV2) | 2:03 | 2024-07-16 | 2024-09-08 |
 | [Woke Up Laughing](https://open.spotify.com/track/2bhHZqQ2TIeSC5WpJKjGDF) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Clues \(Expanded Edition\)](https://open.spotify.com/album/1pn4ocPNjqhiugDVFNFrSR) | 3:34 | 2026-04-09 | 2026-05-06 |
 | [Woman You're Gonna Pay For This](https://open.spotify.com/track/5lLJQZOGf9MvgxFTGmJSzz) | [Wicked Lester](https://open.spotify.com/artist/4mnC6BVhObGZnXtQm4hjzH) | [Local Customs: Burned At Boddie](https://open.spotify.com/album/0JbT7bYKpJ1ESB9Y5z0aCC) | 3:24 | 2025-12-02 | 2026-01-15 |
+| [Wonderland](https://open.spotify.com/track/6OKmpT84dcGIr2iyeMFjZE) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz), [Alex Sadkin](https://open.spotify.com/artist/6rObMYPGYuDJKyd305PKoH) | [The Compact XTC](https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA) | 4:03 | 2026-10-09 |  |
 | [Wood Cabin](https://open.spotify.com/track/2DvjHHtTjwlrMXyFKxPvXr) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Good Humor](https://open.spotify.com/album/35hVWd3uQFdosmj27cQIdZ) | 4:07 | 2025-03-20 | 2025-05-09 |
 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 | 2025-07-25 | 2025-08-08 |
 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 | 2024-09-07 | 2024-11-14 |

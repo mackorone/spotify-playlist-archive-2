@@ -4,7 +4,7 @@
 
 > Los mejores lentos del rock\. Foto: reybruja
 
-192 songs - 13 hr 6 min
+193 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Medalla de Oro](https://open.spotify.com/track/6AYJMjeqTFhpdZA7vhm1Wd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/3nwloOc33MQQ7meysq3KNU) | 5:40 | 2023-03-03 | 2024-05-12 |
 | [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 | 2022-07-06 |  |
 | [Melodía del Adiós](https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd) | [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [Melodía del Adiós](https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY) | 3:38 | 2024-10-04 |  |
+| [MI ESQUELETO](https://open.spotify.com/track/1rXy8BAsGR31095UBHxoSr) | [Camionero](https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc) | [Pruebas de Contacto](https://open.spotify.com/album/6UMI4aH8659Xm0U4Bg0us1) | 2:34 | 2026-10-09 |  |
 | [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 | 2022-07-06 |  |
 | [Mil Guerras](https://open.spotify.com/track/31sb8D24KYJ1tLvwL6Pdd6) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 3:16 | 2024-09-19 | 2024-12-16 |
 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 | 2022-06-03 | 2024-06-07 |
@@ -158,7 +159,7 @@
 | [Pétalo de sal](https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 2:43 | 2022-06-03 |  |
 | [Que Ves?](https://open.spotify.com/track/6TzpJImasQyQjp46Umdqav) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Divididos](https://open.spotify.com/album/6pBBwZ9fgbSNonR3F4b64w) | 5:13 | 2022-06-03 | 2024-04-22 |
 | [Roto](https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Roto](https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV) | 3:48 | 2023-10-05 | 2026-06-07 |
-| [Se Quiere Matar](https://open.spotify.com/track/77r4DCtHsLL6dJr0HxNXJq) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:47 | 2024-09-26 |  |
+| [Se Quiere Matar](https://open.spotify.com/track/77r4DCtHsLL6dJr0HxNXJq) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:47 | 2024-09-26 | 2026-10-10 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2022-06-03 |  |
 | [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 | 2024-03-07 | 2026-09-23 |
 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 | 2022-06-03 |  |

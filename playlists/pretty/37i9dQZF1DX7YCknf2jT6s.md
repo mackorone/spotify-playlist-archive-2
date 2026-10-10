@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Julian Lage
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,386 likes - 104 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,381 likes - 104 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aberdeen](https://open.spotify.com/track/3iVoB8pt8vazxR7NwvvUCL) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT), [John Medeski](https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD), [Jorge Roeder](https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x), [Kenny Wollesen](https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV) | [Aberdeen](https://open.spotify.com/album/6Djhn6LSBunJkJUZi0el1f) | 7:17 |
 | 2 | [Another Night \(It's Just\) ft\. Theo Croker, Daru Jones, Oli Rockberger](https://open.spotify.com/track/0dWT5IDit0SKvC50eKNn1w) | [China Moses](https://open.spotify.com/artist/2KqBple0Yu8pssNGNvWNmV), [Daru Jones](https://open.spotify.com/artist/3kOGIhN1mgwbrQMgY5KV9U), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Another Night \(It's Just\) ft\. Theo Croker, Daru Jones, Oli Rockberger](https://open.spotify.com/album/0DYW8xek5shDjDAla1Hv7i) | 3:50 |
-| 3 | [Abathuthu](https://open.spotify.com/track/7CdBGfruRsDm5lOlFsoH8q) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Abathuthu](https://open.spotify.com/album/0Tx7NZnfovKps11qh1mLTf) | 3:22 |
+| 3 | [Abathathu](https://open.spotify.com/track/7CdBGfruRsDm5lOlFsoH8q) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Abathathu](https://open.spotify.com/album/0Tx7NZnfovKps11qh1mLTf) | 3:22 |
 | 4 | [A Thousand Hands \(feat\. Brother Portrait\)](https://open.spotify.com/track/3LvRjfLh4N3VDr8c3LE3gi) | [Wonky Logic](https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl), [Brother Portrait](https://open.spotify.com/artist/4WRbROBubNgsRt1ARIjqEn) | [A Thousand Hands \(feat\. Brother Portrait\)](https://open.spotify.com/album/0IOEFdzphgliJHqq27piQu) | 3:28 |
 | 5 | [Don’t Stop The Music \(with Nick Hakim, Robert Glasper\)](https://open.spotify.com/track/582a1u4ziN01BgLtXDacQb) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Synonym](https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ) | 4:38 |
 | 6 | [El Corazón](https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Here Because of Hope](https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j) | 4:06 |

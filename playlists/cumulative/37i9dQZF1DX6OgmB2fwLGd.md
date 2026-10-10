@@ -4,7 +4,7 @@
 
 > algorave\_ˋˏ♡ˎˊ˗\_hyper\_sleaze.electro\_glitch\_☆▽☆\_⏻⏻⏻\_w/meatcomputer\_\[FINAL\]\_\[REAL\]\_\_coverartist.DJ\_Dave
 
-1,489 songs - 2 day 14 hr 11 min
+1,490 songs - 2 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1154,7 +1154,7 @@
 | [s3lf](https://open.spotify.com/track/59r61Bp9QribPoN9XizQhx) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [Soulpop 1](https://open.spotify.com/album/5GwaRWwu9dZMuiOlKOOZAb) | 1:22 | 2023-03-17 | 2023-04-09 |
 | [Sad & Alone](https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sad & Alone](https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q) | 2:45 | 2023-06-09 | 2023-10-07 |
 | [Sad But So Funny](https://open.spotify.com/track/4z82AjKmLtVzxmShgNCgkp) | [Eera](https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Sad But So Funny](https://open.spotify.com/album/2sZNACN1OtfS387IGeyJi9) | 3:43 | 2026-05-29 | 2026-07-11 |
-| [SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ) | [Dylan Thom](https://open.spotify.com/artist/75hZOSuF07weHxVJkg60WW) | [SAS](https://open.spotify.com/album/2RSrdATmq1N2WLji1qYMsM) | 2:51 | 2026-07-31 |  |
+| [SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ) | [Dylan Thom](https://open.spotify.com/artist/75hZOSuF07weHxVJkg60WW) | [SAS](https://open.spotify.com/album/2RSrdATmq1N2WLji1qYMsM) | 2:51 | 2026-07-31 | 2026-10-10 |
 | [sassup witcha](https://open.spotify.com/track/0u2nsmVqQmoQNxfBT1kVH0) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [sassup witcha](https://open.spotify.com/album/2T1zQxFBQcWX8kQKCkql3o) | 1:21 | 2024-08-09 | 2026-02-08 |
 | [Satellites](https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Satellites](https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU) | 3:31 | 2026-06-26 | 2026-09-26 |
 | [say it back](https://open.spotify.com/track/2NonWGENYipnBNYvBd8fbY) | [damon r.](https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD) | [say it back](https://open.spotify.com/album/6iRYSsG3cl0CtaHMLWBAdU) | 3:40 | 2026-02-20 | 2026-03-21 |
@@ -1312,6 +1312,7 @@
 | [The Assignment](https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [The Assignment](https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5) | 1:53 | 2021-10-06 | 2022-02-05 |
 | [THE BADDEST \(BADDER\) \[feat\. Ayesha Erotica\]](https://open.spotify.com/track/5tzcByvFyzRPHXrBgOaxkk) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [THE BADDEST \(BADDER\) \[feat\. Ayesha Erotica\]](https://open.spotify.com/album/1G7CTjjWqcPtHXaqLT8KSJ) | 2:23 | 2024-07-30 | 2025-02-21 |
 | [The Band](https://open.spotify.com/track/5z7rLXNooodcvsK0SQp10I) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [God Save The Three](https://open.spotify.com/album/0lwdzU4UMx8ISISDqrYDvA) | 2:57 | 2026-05-08 | 2026-06-19 |
+| [The Club](https://open.spotify.com/track/74xKOKSajGoQ1WD1XRcbdp) | [Trusselina](https://open.spotify.com/artist/06DYRh926LZdCKvDKWxsA9) | [The Point's a Truss, My Trusselina](https://open.spotify.com/album/316h93vnHKcXH7iceuMJ8p) | 2:26 | 2026-10-09 |  |
 | [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-07 | 2022-07-23 |
 | [THE FLYEST](https://open.spotify.com/track/6rPCj41IqJ6yfrftv1BbDE) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Viceroy](https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU) | 2:37 | 2024-07-31 | 2026-01-31 |
 | [THE FUTURE, YOU'LL LOVE IT](https://open.spotify.com/track/5eGisUR8gKRk1hjQUHBK2a) | [dœgægé](https://open.spotify.com/artist/1nzDJPQb3GT8kHt9ryhnIH) | [MARKETING](https://open.spotify.com/album/4Lkd6hIOC8IWpnBWl5BINY) | 4:54 | 2026-03-20 | 2026-07-04 |

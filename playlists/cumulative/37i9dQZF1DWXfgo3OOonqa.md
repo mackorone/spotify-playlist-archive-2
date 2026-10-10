@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,455 songs - 4 day 8 hr 8 min
+2,455 songs - 4 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2045,7 +2045,7 @@
 | [Stylist](https://open.spotify.com/track/1cqwaIRzT2SY3J040UPOa8) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu) | [Krasch](https://open.spotify.com/album/7kZtmp2KAffmaFblQI7Bvo) | 1:46 | 2021-12-16 | 2021-12-31 |
 | [Stänger Ner](https://open.spotify.com/track/7ucl54Fnq1UcSidY3a15ea) | [4Key](https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z), [IRMÃO](https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp) | [Mano Nella Mano](https://open.spotify.com/album/6wIQMowebCmb7qWmHtStVb) | 2:34 | 2026-07-09 |  |
 | [Stör Ej](https://open.spotify.com/track/16uSzA4x74NdxaPC8lTNJd) | [CENTI](https://open.spotify.com/artist/0nlla7bZRxb965OBsAmPEq), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Stör Ej](https://open.spotify.com/album/7LeHlppSZl8rngMzspyW8u) | 2:36 | 2024-10-31 | 2024-11-29 |
-| [STÖRD](https://open.spotify.com/track/5vYeSHa82PMlSSfl3Q8vho) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [STÖRD](https://open.spotify.com/album/4ajmLdPaFRoi2XArBa1WPr) | 2:44 | 2026-10-08 |  |
+| [STÖRD](https://open.spotify.com/track/5vYeSHa82PMlSSfl3Q8vho) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [STÖRD](https://open.spotify.com/album/4ajmLdPaFRoi2XArBa1WPr) | 2:16 | 2026-10-08 |  |
 | [STÖRDA](https://open.spotify.com/track/0y5bqc1pwZ0ptNUCbsqzYd) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew), [ProdByR1](https://open.spotify.com/artist/5U8wjIW3UWL3B7Hee3VaDQ) | [STÖRDA](https://open.spotify.com/album/0Ttzx21RWBkvzS8MFbxhZP) | 2:06 | 2025-01-16 | 2025-04-11 |
 | [SUAVEMENTE II](https://open.spotify.com/track/7eDGUFwYWtoEZe78uHdYVP) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [RUSH HOUR](https://open.spotify.com/album/47htpJ7NMqcFE71KVVwqht) | 2:06 | 2024-05-30 | 2024-09-27 |
 | [SUB ZERO](https://open.spotify.com/track/3OjbpEEaCm1Zrw1sfcQWVF) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [SUB ZERO](https://open.spotify.com/album/2mnWBHH8kLAZ8AA3S5lFDW) | 2:08 | 2024-06-20 | 2024-08-16 |

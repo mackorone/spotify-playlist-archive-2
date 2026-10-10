@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Christian Ortega & Clemente y su Elexion Privada
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,431,093 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,430,674 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 5 | [La Cazadora](https://open.spotify.com/track/5CJSOx4mGZk5jIoCv1QjR6) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [La Cazadora](https://open.spotify.com/album/03jIAWMrRp5Bra8pIMdzK1) | 3:11 |
 | 6 | [Dandy Hats](https://open.spotify.com/track/0e3T2reBHLVK9ENgEg0WmH) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Dandy Hats](https://open.spotify.com/album/2PaQhEbysv44gT3PRJ5XRs) | 2:50 |
 | 7 | [Circulo Cerrado](https://open.spotify.com/track/34RFXaIfC1lN0bwXxqKLQu) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Circulo Cerrado](https://open.spotify.com/album/43ncMPnh5MbS53QT8FTcN1) | 2:42 |
-| 8 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:22 |
+| 8 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:23 |
 | 9 | [FREESTYLE](https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LINAJE](https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy) | 5:36 |
 | 10 | [El Del Palenque](https://open.spotify.com/track/7y9W0RzHm4UvCRmI2VFrG6) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Del Palenque](https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn) | 3:12 |
 | 11 | [Muchacho Alegre](https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacho Alegre](https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G) | 3:08 |

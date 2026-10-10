@@ -31396,7 +31396,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 232040,
       "name": "Kontra",
       "url": "https://open.spotify.com/track/0dMasOoYB6bpcu35QpScjc"
@@ -51812,7 +51812,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 279133,
       "name": "San Imouna Paidi",
       "url": "https://open.spotify.com/track/2tNtc5xcZiQhGiy8dZBUzI"
@@ -62659,6 +62659,28 @@
     },
     {
       "album": {
+        "name": "VGAINO RIXNO",
+        "url": "https://open.spotify.com/album/22BmVOKqRtGWC7jOpF2wKs"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117735,
+      "name": "VGAINO RIXNO",
+      "url": "https://open.spotify.com/track/703yjsRft9WQxljrzopeuz"
+    },
+    {
+      "album": {
         "name": "Vgazeis Cafe",
         "url": "https://open.spotify.com/album/26fEd8HXmV6h9hZMiYGZbS"
       },
@@ -64392,7 +64414,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 238402,
       "name": "Xartines Agapes",
       "url": "https://open.spotify.com/track/5eXyQ14v1MmHQq58DEA8r6"

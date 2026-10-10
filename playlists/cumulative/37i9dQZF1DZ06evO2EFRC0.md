@@ -4,7 +4,7 @@
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-119 songs - 9 hr 45 min
+120 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 | 2023-04-02 | 2025-03-14 |
 | [Sobrenatural](https://open.spotify.com/track/0bYJJNIhLTPqz7SSU0Fw3V) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sobrenatural](https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL) | 5:11 | 2023-04-02 |  |
 | [Somos el pueblo de Dios](https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Homenaje a Jesús \(En Vivo\)](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 5:21 | 2023-04-02 |  |
-| [Su Poder](https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV) | 5:02 | 2023-04-02 |  |
+| [Su Poder](https://open.spotify.com/track/1Sk6TRcEAN9RsUPmD3h8wH) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/05BftsObSITEi8vDtWdkx3) | 5:02 | 2026-10-10 |  |
+| [Su Poder](https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV) | 5:02 | 2023-04-02 | 2026-10-10 |
 | [Sublime Gracia](https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 4:25 | 2026-05-27 |  |
 | [Surrounded / Rodeado \(feat\. Marcos Witt\)](https://open.spotify.com/track/6Mfamn5B8wYAkz8zFZRfVv) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Already Done](https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z) | 4:41 | 2023-04-02 | 2023-05-01 |
 | [Sánanos](https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra \(En Vivo\)](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 6:52 | 2023-04-02 | 2026-09-10 |

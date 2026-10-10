@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 327295,
+  "num_followers": 327320,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABcdD5QMo9k6BKdZqc7dVO6",
+  "snapshot_id": "asbdAAAAAACashncHTFtiWULEybMdaRl",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
       },
       "artists": [
         {
@@ -136,21 +136,17 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "IbraBeats",
+          "url": "https://open.spotify.com/artist/30Ynhg2u321yVxT0Qa8D8D"
         },
         {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "LODONI",
-          "url": "https://open.spotify.com/artist/3S2rkkMBRzNz7urXkLjb6n"
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
         }
       ],
-      "duration_ms": 121463,
-      "name": "Melhor Agora",
-      "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
+      "duration_ms": 250775,
+      "name": "Libert\u00e1rios N\u00e3o Morrem",
+      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
     },
     {
       "added_at": null,
@@ -203,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
       "artists": [
         {
@@ -212,17 +208,21 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "IbraBeats",
-          "url": "https://open.spotify.com/artist/30Ynhg2u321yVxT0Qa8D8D"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         },
         {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "LODONI",
+          "url": "https://open.spotify.com/artist/3S2rkkMBRzNz7urXkLjb6n"
         }
       ],
-      "duration_ms": 250775,
-      "name": "Libert\u00e1rios N\u00e3o Morrem",
-      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
+      "duration_ms": 121463,
+      "name": "Melhor Agora",
+      "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Amor Livre - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revel",
         "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 256997,
       "name": "Invicto",
       "url": "https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Amor Livre - Ao Vivo",
-      "url": "https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU"
     },
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 296122,
-      "name": "Isso Que \u00c9 Vida",
-      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 181818,
       "name": "Good Vibe",
       "url": "https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 296122,
+      "name": "Isso Que \u00c9 Vida",
+      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 234252,
-      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
-      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 217731,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 234252,
+      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
+      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rap da Lealdade",
-        "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Prod.MTS",
-          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Rap da Lealdade",
-      "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 228529,
       "name": "Emo\u00e7\u00f5es - Vers\u00e3o Suja",
       "url": "https://open.spotify.com/track/58EQwPY12eH9aisrgvQhGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rap da Lealdade",
+        "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Prod.MTS",
+          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Rap da Lealdade",
+      "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
     },
     {
       "added_at": null,
@@ -1119,26 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NUME",
-        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Vibe Infinita",
-      "url": "https://open.spotify.com/track/3zZzG8v295s437L9X8qjlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAL\u00c1CIO DE LONA",
         "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 189692,
       "name": "ELENCO FABULOSO",
       "url": "https://open.spotify.com/track/3v8CavKjRVaVCyFyiNz6T3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NUME",
+        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "Vibe Infinita",
+      "url": "https://open.spotify.com/track/3zZzG8v295s437L9X8qjlZ"
     },
     {
       "added_at": null,
@@ -1219,8 +1219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NUME",
-        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
       "artists": [
         {
@@ -1228,13 +1228,17 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         }
       ],
-      "duration_ms": 168957,
-      "name": "N\u00e3o Sou Daqui",
-      "url": "https://open.spotify.com/track/44ewce1oaRA9AfHPRenLCe"
+      "duration_ms": 190000,
+      "name": "7 Meiota",
+      "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
     }
   ],
   "unique_name": "This Is Filipe Ret",

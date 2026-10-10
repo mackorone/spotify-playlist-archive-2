@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 122572,
+  "num_followers": 122596,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-10-09 04:01:43",
       "album": {
-        "name": "Frikitona",
-        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 174404,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
-    },
-    {
-      "added_at": "2026-10-09 04:01:43",
-      "album": {
         "name": "Olvidarte (feat. Emilia)",
         "url": "https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 157500,
       "name": "Olvidarte (feat. Emilia)",
       "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
+    },
+    {
+      "added_at": "2026-10-09 04:01:43",
+      "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 174404,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
     },
     {
       "added_at": "2026-10-09 04:01:43",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2026-10-09 04:01:43",
       "album": {
-        "name": "La Musa (with Miluhska)",
-        "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Miluhska",
-          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
-        }
-      ],
-      "duration_ms": 183830,
-      "name": "La Musa (with Miluhska)",
-      "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
-    },
-    {
-      "added_at": "2026-10-09 04:01:43",
-      "album": {
         "name": "Rulay",
         "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 165123,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
+    },
+    {
+      "added_at": "2026-10-09 04:01:43",
+      "album": {
+        "name": "La Musa (with Miluhska)",
+        "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+        }
+      ],
+      "duration_ms": 183830,
+      "name": "La Musa (with Miluhska)",
+      "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
     },
     {
       "added_at": "2026-10-09 04:01:43",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-10-09 04:01:43",
       "album": {
+        "name": "Rave En La Favela",
+        "url": "https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "Rave En La Favela",
+      "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
+    },
+    {
+      "added_at": "2026-10-09 04:01:43",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 197862,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz"
-    },
-    {
-      "added_at": "2026-10-09 04:01:43",
-      "album": {
-        "name": "Rave En La Favela",
-        "url": "https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8"
-      },
-      "artists": [
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "Rave En La Favela",
-      "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
     },
     {
       "added_at": "2026-10-09 04:01:43",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2026-10-09 04:01:43",
       "album": {
+        "name": "Se Va (feat. Cumbiafrica)",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "added_at": "2026-10-09 04:01:43",
+      "album": {
         "name": "Piquete Cabron",
         "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
@@ -1943,26 +1963,6 @@
       "duration_ms": 162580,
       "name": "Piquete Cabron",
       "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
-    },
-    {
-      "added_at": "2026-10-09 04:01:43",
-      "album": {
-        "name": "Se Va (feat. Cumbiafrica)",
-        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Se Va (feat. Cumbiafrica)",
-      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
     },
     {
       "added_at": "2026-10-09 04:01:43",

@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 31294,
+  "num_followers": 31295,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAGvtbmMdPTuGnZRsKArKcY",
+  "snapshot_id": "asbdAAAAAAAW6dpleMxkBlOXrXGOUQ56",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 247080,
       "name": "UNSTOPPABLE",
       "url": "https://open.spotify.com/track/1XUGLL0aySzwVzHq4qUE7H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/1QwU4tpiSCVYS6wTR2uHv3"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 269626,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/7pYknrWaihratiLnnlLhJx"
     },
     {
       "added_at": null,
@@ -75,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
-        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
       },
       "artists": [
         {
@@ -84,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 218493,
-      "name": "COLORS",
-      "url": "https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM"
+      "duration_ms": 218760,
+      "name": "COLORS (Album Mix)",
+      "url": "https://open.spotify.com/track/2ZfMHhp6glYZzHEiaTT7Ga"
     },
     {
       "added_at": null,
@@ -123,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30a4\u30eb",
-        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Re:member (Album Mix)",
-      "url": "https://open.spotify.com/track/477kyluwXAByVZwEBWLBDJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden Coast",
         "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 265133,
       "name": "Days (Album Version)",
       "url": "https://open.spotify.com/track/2NDcqv37UN2zAwrMddSLac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Re:member (Album Mix)",
+      "url": "https://open.spotify.com/track/477kyluwXAByVZwEBWLBDJ"
     },
     {
       "added_at": null,
@@ -211,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\uff0bENCOUNT",
-        "url": "https://open.spotify.com/album/6WpYFMoCbOsYoQexlVpsTx"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "\uff0bENCOUNT",
-      "url": "https://open.spotify.com/track/4SLhyRuQbNqde0qs32POBf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW THE BEST \u301c\u30a2\u30cb\u30e1\u7e1b\u308a\u301c",
         "url": "https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO"
       },
@@ -243,22 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHEMY\u00d7STORY \uff08\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c\uff09",
-        "url": "https://open.spotify.com/album/0VRObf1FyBuyFYmVMTRyUh"
+        "name": "\uff0bENCOUNT",
+        "url": "https://open.spotify.com/album/6WpYFMoCbOsYoQexlVpsTx"
       },
       "artists": [
-        {
-          "name": "BACK-ON",
-          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
-        },
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 186800,
-      "name": "CHEMY\u00d7STORY - \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c",
-      "url": "https://open.spotify.com/track/2sfmn9VSdWNiXUafcjtIYV"
+      "duration_ms": 227906,
+      "name": "\uff0bENCOUNT",
+      "url": "https://open.spotify.com/track/4SLhyRuQbNqde0qs32POBf"
     },
     {
       "added_at": null,
@@ -291,6 +287,26 @@
       "duration_ms": 318045,
       "name": "Butter-Fly - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/7b80lqESPsx5ccfLQYAYrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHEMY\u00d7STORY \uff08\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c\uff09",
+        "url": "https://open.spotify.com/album/0VRObf1FyBuyFYmVMTRyUh"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "CHEMY\u00d7STORY - \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c",
+      "url": "https://open.spotify.com/track/2sfmn9VSdWNiXUafcjtIYV"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5TELLA",
-        "url": "https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "5TELLA",
-      "url": "https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
         "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 245693,
       "name": "\u30e1\u30ed\u30b9",
       "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5TELLA",
+        "url": "https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "5TELLA",
+      "url": "https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL"
     },
     {
       "added_at": null,
@@ -571,6 +587,54 @@
       "duration_ms": 195750,
       "name": "GET BACK",
       "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MICROCOSM",
+        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "CALLING",
+      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAYS",
+        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 91786,
+      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
+      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "\u9065\u304b\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
     },
     {
       "added_at": null,
@@ -611,38 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
-        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 242173,
-      "name": "\u9065\u304b\u5f7c\u65b9",
-      "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAYS",
-        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 91786,
-      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
-      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE & JUSTICE/\u8d85\u4eba",
         "url": "https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX"
       },
@@ -659,22 +691,6 @@
       "duration_ms": 267173,
       "name": "LOVE & JUSTICE",
       "url": "https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MICROCOSM",
-        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "CALLING",
-      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
     },
     {
       "added_at": null,
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 234293,
-      "name": "Hero's Come Back!!",
-      "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
+      "duration_ms": 208013,
+      "name": "\u30d3\u30d0\u2605\u30ed\u30c3\u30af",
+      "url": "https://open.spotify.com/track/7etzHG9skt5EClN1Xv0xBg"
     },
     {
       "added_at": null,
@@ -816,25 +832,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 208013,
-      "name": "\u30d3\u30d0\u2605\u30ed\u30c3\u30af",
-      "url": "https://open.spotify.com/track/7etzHG9skt5EClN1Xv0xBg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30e2\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "\u30e2\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
+      "duration_ms": 234293,
+      "name": "Hero's Come Back!!",
+      "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88 likes - 83 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 89 likes - 83 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 59 | [Go](https://open.spotify.com/track/5K66K3wXY7HRr6ikjsnChl) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Go](https://open.spotify.com/album/27P7sXxqMPDsX9fypwvIg3) | 2:55 |
 | 60 | [Hot Pink Baby](https://open.spotify.com/track/7cBadBYT0YMaWv8yA6uMZm) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX) | [Hot Pink Baby](https://open.spotify.com/album/5dvokJiAQ8BOyW67GyHlVP) | 2:43 |
 | 61 | [Meherbaan](https://open.spotify.com/track/46hWgb9J4Lf5bAnEV4dY2T) | [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Meherbaan](https://open.spotify.com/album/1lI6lP0ODvHbBzSXuzqIWy) | 2:33 |
-| 62 | [GOOD LUCK \(feat\. Goldfinger\)](https://open.spotify.com/track/7r7bRPU1Q2SKyI4r4b5GFS) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7), [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [THERE GOES THE NEIGHBORHOOD](https://open.spotify.com/album/6onXyi6tZfYoBOWKbKpThm) | 2:00 |
-| 63 | [Birthday](https://open.spotify.com/track/0ZBfAx4xLz1GoXoiDEjDFw) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 2:40 |
-| 64 | [Guilty As Charged](https://open.spotify.com/track/5B2tnGy2KmfE9LcPuc9lXf) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus](https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG) | 3:07 |
-| 65 | [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 |
+| 62 | [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 |
+| 63 | [GOOD LUCK \(feat\. Goldfinger\)](https://open.spotify.com/track/7r7bRPU1Q2SKyI4r4b5GFS) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7), [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [THERE GOES THE NEIGHBORHOOD](https://open.spotify.com/album/6onXyi6tZfYoBOWKbKpThm) | 2:00 |
+| 64 | [Birthday](https://open.spotify.com/track/0ZBfAx4xLz1GoXoiDEjDFw) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 2:40 |
+| 65 | [Guilty As Charged](https://open.spotify.com/track/5B2tnGy2KmfE9LcPuc9lXf) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus](https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG) | 3:07 |
 | 66 | [Work Of Art](https://open.spotify.com/track/1EU6rKdmudLSZJl9zJ4geL) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 2:43 |
 | 67 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 |
 | 68 | [in another life](https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj) | [Isabella Kensington](https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb) | [in another life](https://open.spotify.com/album/2F7fBEWKOpA99tw7DF8xwY) | 2:51 |
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 75 | [What Happened](https://open.spotify.com/track/6oYDesnbzrC6Hzbd9Tk17y) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [What Happened](https://open.spotify.com/album/6epAWsXHGwVc8utKHf1wmI) | 3:10 |
 | 76 | [FRENZY](https://open.spotify.com/track/2i7wAvt3J23eaFF6d2HXE8) | [ChoCo1](https://open.spotify.com/artist/48ZmNBITUcYWmWZqoaIEAi), [ChoCo2](https://open.spotify.com/artist/479LeQR94Is2uPXyljxis8) | [ChoCo La Familia](https://open.spotify.com/album/1hmIzxtNhUckTodNrNc9C8) | 2:51 |
 | 77 | [Dandelion](https://open.spotify.com/track/21ajEr2zd8s87TRnnweZZ3) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/4EA5ATYJ4DsZSOq5eRAKzE) | 3:06 |
-| 78 | [Lose Somebody](https://open.spotify.com/track/1s4Cg0FHPw8KUukkKoZMEE) | [Nick Kent](https://open.spotify.com/artist/2GrQlgROQcxhzI3JtRrTCi) | [Lose Somebody](https://open.spotify.com/album/7cTNrDpINUiWiXPDAuftJf) | 3:17 |
-| 79 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
+| 78 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
+| 79 | [Lose Somebody](https://open.spotify.com/track/1s4Cg0FHPw8KUukkKoZMEE) | [Nick Kent](https://open.spotify.com/artist/2GrQlgROQcxhzI3JtRrTCi) | [Lose Somebody](https://open.spotify.com/album/7cTNrDpINUiWiXPDAuftJf) | 3:17 |
 | 80 | [Mutual](https://open.spotify.com/track/08Nx4AFHToRhGfgPrzMlc8) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Boy From Barcelona, Baby](https://open.spotify.com/album/0TqqeYC86OzqZBPGNuVFlR) | 2:36 |
 | 81 | [CRY](https://open.spotify.com/track/0k20ciK9L9s8eOCkBnWBj2) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [CRY](https://open.spotify.com/album/6SDrfg53OSfjrxeaUKuDdp) | 2:51 |
 | 82 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 | 83 | [Girlhood](https://open.spotify.com/track/7cE4EHYaGzD2UB1U3bGGA5) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 2:23 |
 
-Snapshot ID: `AcebbgAAAAAkMj4lMeIsSAZc3ZKHoKp6`
+Snapshot ID: `AcehDgAAAADJ53zndDkaMzjc7dyUeohC`

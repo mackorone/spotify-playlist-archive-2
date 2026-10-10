@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,386 songs - 3 day 13 hr 20 min
+1,387 songs - 3 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,6 +922,7 @@
 | [Pretty Visitors](https://open.spotify.com/track/45n7uujqwmMyBMjBu9SwRu) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:40 | 2020-12-04 |  |
 | [Private Presley](https://open.spotify.com/track/40d4m1eI0erCRKLXz55RtT) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 5:39 | 2025-04-01 |  |
 | [Private Presley \- Live](https://open.spotify.com/track/4rGaffcKgGFV47SVtK7Sf7) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 7:02 | 2026-04-09 |  |
+| [Problem Child](https://open.spotify.com/track/6jpiquknSI0v7bMTYwSaqx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [Problem Child](https://open.spotify.com/album/4wKgbBsCSTmLrQXhqvlqe1) | 3:42 | 2026-10-09 |  |
 | [PROBLEMATIC](https://open.spotify.com/track/1ty0at2tUKqMGTyYbJ43eL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:14 | 2024-02-10 | 2024-05-20 |
 | [Protect My Energy](https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:08 | 2024-06-17 |  |
 | [Psychics in LA](https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends \(Deluxe\)](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w) | 3:26 | 2020-10-02 |  |

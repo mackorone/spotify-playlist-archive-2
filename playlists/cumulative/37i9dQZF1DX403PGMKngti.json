@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 203453,
       "name": "Bailame",
       "url": "https://open.spotify.com/track/4rjA7iv288p1SGuhIEYn7G"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 253125,
       "name": "Champetizate",
       "url": "https://open.spotify.com/track/0Gtel40pycY1MkjJM9RtrR"
@@ -570,6 +570,24 @@
       "duration_ms": 217959,
       "name": "Dame Un Beso",
       "url": "https://open.spotify.com/track/6D8ayHlwlcKaaGLjGNLsr7"
+    },
+    {
+      "album": {
+        "name": "El Agua",
+        "url": "https://open.spotify.com/album/6MaDaC09BevFB6ajuPmPzx"
+      },
+      "artists": [
+        {
+          "name": "Twister el Rey",
+          "url": "https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134016,
+      "name": "El Agua",
+      "url": "https://open.spotify.com/track/0U7yZEDu0HYkbhTy5d4lsX"
     },
     {
       "album": {
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 214675,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/087EgSzgdAeddUcSew9hI9"
@@ -2169,6 +2187,28 @@
     },
     {
       "album": {
+        "name": "Ozono",
+        "url": "https://open.spotify.com/album/0Yh9K0Fo5hLl92tEmP0g7y"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        },
+        {
+          "name": "maikol el insoportable",
+          "url": "https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244713,
+      "name": "Ozono",
+      "url": "https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC"
+    },
+    {
+      "album": {
         "name": "Pa la Calle Me Voy",
         "url": "https://open.spotify.com/album/53VS7laVyJPo9I73nUphiR"
       },
@@ -2422,7 +2462,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 202641,
       "name": "Rom\u00e1ntica Champeta",
       "url": "https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF"
@@ -2678,6 +2718,24 @@
       "duration_ms": 221538,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2hWgNKgTDHC9iiyojYbgwS"
+    },
+    {
+      "album": {
+        "name": "Unos Vienen Otros Van",
+        "url": "https://open.spotify.com/album/6VVAQbFvUQFReflFRFPAkF"
+      },
+      "artists": [
+        {
+          "name": "Mr Black El Presidente",
+          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177858,
+      "name": "Unos Vienen Otros Van",
+      "url": "https://open.spotify.com/track/3ea5Y2nZr3P5YyQLmQ2MHO"
     },
     {
       "album": {

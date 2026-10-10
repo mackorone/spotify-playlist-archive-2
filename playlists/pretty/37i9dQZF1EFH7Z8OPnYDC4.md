@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 710 likes - 335 songs - 19 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 711 likes - 335 songs - 19 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -344,4 +344,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 334 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 | 335 | [She Could Shake the Maracas](https://open.spotify.com/track/4pJIB4iNu8GeqjGOwZRxmw) | [George Abbott](https://open.spotify.com/artist/4pNU6xIv6pHseJVwo9Bis1) | [Too Many Girls](https://open.spotify.com/album/035x7wyVllNXrldHkXE67P) | 2:15 |
 
-Snapshot ID: `AcebbgAAAAD+eeQSBI5JKiPFurIaAKGT`
+Snapshot ID: `AcehDgAAAACWcbXHYWvcL/pGDyluBOqI`

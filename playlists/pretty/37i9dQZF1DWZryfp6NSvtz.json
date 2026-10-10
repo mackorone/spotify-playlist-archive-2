@@ -1,12 +1,12 @@
 {
   "description": "The best new rock & alternative tracks every week. Cover: The Interrupters",
-  "num_followers": 960631,
+  "num_followers": 960742,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGo1cYfl2INoBeMGw1N3h9DdPfyY",
+  "snapshot_id": "AAAAAFsAZ8Wmj9MbzetBuFkdNRS3iPIx",
   "tracks": [
     {
       "added_at": "2026-10-09 04:01:37",
@@ -199,6 +199,22 @@
       "duration_ms": 224550,
       "name": "EVERYDAY",
       "url": "https://open.spotify.com/track/0yd1SIg5rUXVU7gYrPA8uA"
+    },
+    {
+      "added_at": "2026-10-09 13:57:43",
+      "album": {
+        "name": "Ponder Neek",
+        "url": "https://open.spotify.com/album/0qoSNEhxEAQCgMg9p65AEq"
+      },
+      "artists": [
+        {
+          "name": "Louis Ottley",
+          "url": "https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5"
+        }
+      ],
+      "duration_ms": 155237,
+      "name": "Ponder Neek",
+      "url": "https://open.spotify.com/track/3FQwEFzzf40iVo0xA6SjBb"
     },
     {
       "added_at": "2026-10-09 04:01:37",

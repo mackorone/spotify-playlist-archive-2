@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 65517,
+  "num_followers": 65528,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADrdg9wUOdZet6g4xczLU3q",
+  "snapshot_id": "asbdAAAAAACaW1gaisQQ5tZbvZPPUBgX",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 271968,
-      "name": "Waist Deep",
-      "url": "https://open.spotify.com/track/39nKUjHiC7XEnkQq7jc6ub"
+      "duration_ms": 275970,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4Lm0T3gbhQ7XTGL0xTsGYr"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 275970,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/4Lm0T3gbhQ7XTGL0xTsGYr"
+      "duration_ms": 271968,
+      "name": "Waist Deep",
+      "url": "https://open.spotify.com/track/39nKUjHiC7XEnkQq7jc6ub"
     },
     {
       "added_at": null,

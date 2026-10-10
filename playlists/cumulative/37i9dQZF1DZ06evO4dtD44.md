@@ -4,7 +4,7 @@
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 6 min
+101 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Eclipse](https://open.spotify.com/track/0yErqUwr8yOFNHxVnwsG6K) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 3:04 | 2026-02-11 | 2026-02-12 |
 | [Ela e Carioca](https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Brazil 2](https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT) | 3:04 | 2025-07-20 |  |
 | [Estate](https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 6:27 | 2025-07-20 |  |
+| [Este Seu Olhar](https://open.spotify.com/track/6dnyCxtyPa6ONMtORsriBs) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 2:14 | 2026-10-10 |  |
 | [Este Seu Olhar](https://open.spotify.com/track/1dWibRWPlGgaZLzOp99EpO) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:15 | 2025-07-20 | 2026-02-17 |
 | [Eu Quero um Samba](https://open.spotify.com/track/6RODRlHqwSxfI6WmKjqPCL) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 4:46 | 2025-12-16 | 2026-08-13 |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 | 2025-07-20 |  |
@@ -63,7 +64,7 @@
 | [Ho\-ba\-la\-la](https://open.spotify.com/track/2DVv2dQLWMdTEdqAjDpEjX) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ho\-ba\-la\-la](https://open.spotify.com/album/2EYSUbGZoCTGutP2keS4ZS) | 2:17 | 2026-08-14 | 2026-08-27 |
 | [Hó\-Bá\-Lá\-Lá](https://open.spotify.com/track/2Ls8gLpf0ulxFTisaVczmK) | [João Gilberto](https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 2:17 | 2026-03-10 | 2026-08-08 |
 | [Hó\-Bá\-Lá\-Lá](https://open.spotify.com/track/5tz84YvDa00QbsNb1COTuk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Deluxe Edition\)](https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH) | 2:17 | 2025-07-20 | 2026-01-15 |
-| [Hô\-bá\-lá\-lá](https://open.spotify.com/track/69MmoNvhn68CmqoREGtqfI) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 2:15 | 2026-10-05 |  |
+| [Hô\-bá\-lá\-lá](https://open.spotify.com/track/69MmoNvhn68CmqoREGtqfI) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 2:15 | 2026-10-05 | 2026-10-10 |
 | [Insensatez](https://open.spotify.com/track/1ChBqMI5Egz20lWvsQHuAK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Vocé e Eu](https://open.spotify.com/album/3sgATVyngnXD04rREbRHQR) | 2:24 | 2026-08-08 | 2026-08-13 |
 | [Insensatez](https://open.spotify.com/track/1jHKEk6kxgS9KB78dE669J) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:25 | 2025-07-20 | 2025-08-22 |
 | [Isto Aquí O Que É](https://open.spotify.com/track/4aq5Pfvd1CRZPpK5OKz7GW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf) | 4:29 | 2026-02-02 | 2026-03-10 |

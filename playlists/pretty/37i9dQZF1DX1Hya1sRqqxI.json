@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 821665,
+  "num_followers": 821974,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Take The Money And Run",
-      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
@@ -1191,6 +1175,22 @@
       "duration_ms": 295466,
       "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
       "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Take The Money And Run",
+      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "4 Hits: Eruption",
@@ -1479,6 +1463,22 @@
       "duration_ms": 213200,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "The Ultimate Bee Gees",
         "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
         }
       ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1559,6 +1543,22 @@
       "duration_ms": 243546,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/2kUzt5LsTUR0ggquP7O3eN"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2013,22 +2013,6 @@
       "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "It Only Takes a Minute: A Lifetime with Tavares",
-        "url": "https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh"
-      },
-      "artists": [
-        {
-          "name": "Tavares",
-          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
-        }
-      ],
-      "duration_ms": 389760,
-      "name": "Heaven Must Be Missing An Angel - Pt. 1",
-      "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Back Stabbers",
@@ -2043,6 +2027,22 @@
       "duration_ms": 186093,
       "name": "Back Stabbers",
       "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "It Only Takes a Minute: A Lifetime with Tavares",
+        "url": "https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh"
+      },
+      "artists": [
+        {
+          "name": "Tavares",
+          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
+        }
+      ],
+      "duration_ms": 389760,
+      "name": "Heaven Must Be Missing An Angel - Pt. 1",
+      "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2157,6 +2157,22 @@
       "url": "https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 439866,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Nightbirds",
@@ -2191,18 +2207,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 439866,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
+      "duration_ms": 220413,
+      "name": "Loves Me Like a Rock",
+      "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2223,22 +2239,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "There Goes Rhymin' Simon",
-        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Loves Me Like a Rock",
-      "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Got To Be There",
         "url": "https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G"
       },
@@ -2251,22 +2251,6 @@
       "duration_ms": 151933,
       "name": "Rockin' Robin",
       "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Good Times: The Very Best Of Chic & Sister Sledge",
-        "url": "https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Everybody Dance",
-      "url": "https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2285,6 +2269,22 @@
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Good Times: The Very Best Of Chic & Sister Sledge",
+        "url": "https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Everybody Dance",
+      "url": "https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Destiny",
@@ -2301,22 +2301,6 @@
       "url": "https://open.spotify.com/track/7g4I3DeFlZLeqMjw0ONBqs"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Let's All Chant",
-        "url": "https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez"
-      },
-      "artists": [
-        {
-          "name": "The Michael Zager Band",
-          "url": "https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Let's All Chant",
-      "url": "https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Never Can Say Goodbye (Deluxe Edition)",
@@ -2331,6 +2315,22 @@
       "duration_ms": 179466,
       "name": "Never Can Say Goodbye - Single Version",
       "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Let's All Chant",
+        "url": "https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez"
+      },
+      "artists": [
+        {
+          "name": "The Michael Zager Band",
+          "url": "https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Let's All Chant",
+      "url": "https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw"
     },
     {
       "added_at": "2021-09-08 13:31:49",

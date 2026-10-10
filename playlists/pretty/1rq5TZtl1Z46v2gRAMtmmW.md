@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,024 likes - 97 songs - 5 hr 54 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,025 likes - 98 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 95 | [Dekki](https://open.spotify.com/track/7Egzpr24Fz9yiiwv6JOL7U) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV), [Maryama Cham](https://open.spotify.com/artist/1IgQXOB6xo098UpJplr6Lk), [Barhama](https://open.spotify.com/artist/0jTXrnQV2eR82q1EBCUwVJ), [Magatte Fall](https://open.spotify.com/artist/2TeuVsoJ6KllKdijMrqMm0) | [Dekki](https://open.spotify.com/album/3v3oKw1oLWonpsJ3obeaDT) | 4:28 |
 | 96 | [Houston](https://open.spotify.com/track/1O1cqCZMZmtxVV4C8ej03i) | [Ciarán](https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc) | [Houston](https://open.spotify.com/album/3T1BwJ9nC5UVAPXBhDtr2Q) | 3:43 |
 | 97 | [Moving at Light Speed](https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Button Masher](https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3) | [Moving at Light Speed](https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L) | 1:47 |
+| 98 | [Ironía](https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [RRRomeo](https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F) | 5:15 |
 
-Snapshot ID: `AAASMzRng/0xg4uHBXNpC6kFKMvThlF9`
+Snapshot ID: `AAASNKqe6oS8wquW12D1wcBGBqJv9Y7S`

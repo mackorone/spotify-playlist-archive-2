@@ -4,17 +4,18 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Sreeleela
 
-141 songs - 10 hr 8 min
+142 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX), [Kid Sathya](https://open.spotify.com/artist/2nzTUPkoUDOpQsQWzIUEQn) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 | 2022-10-17 |  |
+| [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX), [Kid Sathya](https://open.spotify.com/artist/2nzTUPkoUDOpQsQWzIUEQn) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 | 2022-10-17 | 2026-10-10 |
 | [Adhento Gaani Vunnapaatuga](https://open.spotify.com/track/6jR5F8G9ZzCEQo27UgUrN6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Adhento Gaani Vunnapaatuga\(Jersey\)](https://open.spotify.com/album/00S5jU14zx45cD2F6RqV22) | 3:57 | 2021-10-21 | 2022-10-14 |
 | [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 | 2023-01-30 |  |
 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Gopika Poornima](https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 | 2022-10-13 |  |
 | [Ammaye](https://open.spotify.com/track/7mSblvWeMHgj4ki1zbACZr) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Tollywood Rewind 2000](https://open.spotify.com/album/4l3w93OeJlCnic3RXPtmks) | 4:51 | 2022-10-13 | 2023-03-03 |
 | [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 | 2022-10-13 |  |
 | [Ammayi](https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 4:35 | 2025-02-10 |  |
+| [Ammo Idi Evarraa \(From "Scene \(Telugu\)"\)](https://open.spotify.com/track/4xjA0TepCDYBWVFVw78LXe) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vinayak](https://open.spotify.com/artist/2pACPxyRzWlnT4AGAv5DfN), [Rakendu Mouli](https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8) | [Ammo Idi Evarraa \[From "Scene \(Telugu\)"\]](https://open.spotify.com/album/7fZycbI0z0wqfxYSjcJl20) | 3:07 | 2026-10-08 |  |
 | [Andaala Raakshsive](https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Oke Okkadu](https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu) | 6:13 | 2022-10-13 |  |
 | [Andamaina Premarani](https://open.spotify.com/track/4eEr2PZB3WJp74qkxzQrLS) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [S.P\. Pallavi](https://open.spotify.com/artist/31zE3XsSq1gHAik8uajDFP) | [Premikudu](https://open.spotify.com/album/68k7QMGYN8eiEY1CAl5sEy) | 4:48 | 2022-10-13 | 2023-11-09 |
 | [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 | 2025-10-03 |  |

@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Brandão85
 
-2,063 songs - 4 day 4 hr 19 min
+2,064 songs - 4 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1336,6 +1336,7 @@
 | [Oakley na Face](https://open.spotify.com/track/717w66Dd57Zg6ZyZuuUc1Y) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Trxntin](https://open.spotify.com/artist/0fTGSnfNzshCCWK6tFnsbW), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Oakley na Face](https://open.spotify.com/album/3tw9FfqrnCNLaRz7f8mLbC) | 2:30 | 2023-10-13 | 2023-10-28 |
 | [Objetivo](https://open.spotify.com/track/02uMY0D8480GlUqb9NEq7X) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR) | [Objetivo](https://open.spotify.com/album/2icv9egtOTlVqg5JDGogNy) | 2:38 | 2022-09-30 | 2022-10-11 |
 | [Objetivo](https://open.spotify.com/track/16LXfGWa7r4v1TCiIifk2Y) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Objetivo](https://open.spotify.com/album/4C26C6isVhZ9Q725U4Cp83) | 3:00 | 2024-06-21 | 2024-09-21 |
+| [ODEIO SHOW PARADO](https://open.spotify.com/track/2nv5UkE1FoFrqwwO1DY7PH) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [MKULTRA](https://open.spotify.com/artist/62q4VhTETdekmQYoyws6Dl) | [ODEIO SHOW PARADO](https://open.spotify.com/album/3cYT0k8gOTEpLGX6lkh2sg) | 3:19 | 2026-10-09 |  |
 | [Odisseia](https://open.spotify.com/track/6zk2KqmVIvyKRbF50hXP5Q) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Odisseia](https://open.spotify.com/album/7boBqgtZPsVLsh2JUIMoyT) | 2:17 | 2025-05-23 | 2025-08-16 |
 | [Ofegante](https://open.spotify.com/track/6jfiPTYYQ3AUJykON7yBOE) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [vg no beat](https://open.spotify.com/artist/7FH0V464o9KfPAWLH7nZEk), [Mc Geeh](https://open.spotify.com/artist/2DbeNJM8wssRwQjz3Q64pj), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Ofegante](https://open.spotify.com/album/10ChdarBVLlyfycqZs28dy) | 2:30 | 2022-10-28 | 2022-11-12 |
 | [Oficial de Justiça No Portão](https://open.spotify.com/track/0VYc0I1vkF8q7QnJTiHYod) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR) | [Oficial de Justiça No Portão](https://open.spotify.com/album/5SbX6JklBu79kj7ANTOTIt) | 2:25 | 2022-07-01 | 2022-07-16 |

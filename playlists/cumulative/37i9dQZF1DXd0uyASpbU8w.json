@@ -4695,7 +4695,7 @@
     },
     {
       "album": {
-        "name": "Abathuthu",
+        "name": "Abathathu",
         "url": "https://open.spotify.com/album/0Tx7NZnfovKps11qh1mLTf"
       },
       "artists": [
@@ -4708,7 +4708,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202837,
-      "name": "Abathuthu",
+      "name": "Abathathu",
       "url": "https://open.spotify.com/track/7CdBGfruRsDm5lOlFsoH8q"
     },
     {
@@ -7756,7 +7756,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 266814,
       "name": "AKENA TABA (feat. Westboy & Aofishehlaga Stellenbosch)",
       "url": "https://open.spotify.com/track/2ORRo9YfP1mOStnMVEVtY4"
@@ -47302,6 +47302,28 @@
       "duration_ms": 185880,
       "name": "Control (with Joeboy & Bella Shmurda)",
       "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
+    },
+    {
+      "album": {
+        "name": "Club Controller",
+        "url": "https://open.spotify.com/album/4udTRGw8KFsfqnKZRdcnI8"
+      },
+      "artists": [
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        },
+        {
+          "name": "El.Stephano",
+          "url": "https://open.spotify.com/artist/0tY7AbZffD5QWpNNRy2XT4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484264,
+      "name": "Controller",
+      "url": "https://open.spotify.com/track/0u37crgqHPjOLpGXTUI4JF"
     },
     {
       "album": {
@@ -155467,6 +155489,32 @@
     },
     {
       "album": {
+        "name": "morwa masingilo",
+        "url": "https://open.spotify.com/album/1xpYyTTIkMs0yKge7aBDVl"
+      },
+      "artists": [
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Nelia",
+          "url": "https://open.spotify.com/artist/3pmmeqlokckkZrNrbksnBt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "morwa masingilo",
+      "url": "https://open.spotify.com/track/4q6vQCmpu7y47ChMkgJNl9"
+    },
+    {
+      "album": {
         "name": "United States Of Africa",
         "url": "https://open.spotify.com/album/6kzGVCrSNJGnnlpslGhB6x"
       },
@@ -185088,7 +185136,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 268809,
       "name": "Phakade",
       "url": "https://open.spotify.com/track/6MmPU2FrTFgJcUlwRRAZ2T"
@@ -210218,7 +210266,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 133432,
       "name": "Skelewu Skelewu (Kirikou)",
       "url": "https://open.spotify.com/track/5Q0cghqtO0klM4oduwPXt1"

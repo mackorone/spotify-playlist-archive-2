@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 946002,
+  "num_followers": 945941,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
+        "name": "O Melhor De Mim (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/58b5pvh1FcryAJOb0FAHoz"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 169566,
+      "name": "C\u00ea Perdeu (Igual Eu) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7meq91abCS4XbydTUSKn7K"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
         "name": "Na Praia 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 192410,
       "name": "Exclusividade - Ao Vivo",
       "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "Escreve A\u00ed - Ao Vivo",
-      "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "O Melhor De Mim (Ao Vivo / Vol.2)",
-        "url": "https://open.spotify.com/album/58b5pvh1FcryAJOb0FAHoz"
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
       },
       "artists": [
         {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 169566,
-      "name": "C\u00ea Perdeu (Igual Eu) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7meq91abCS4XbydTUSKn7K"
+      "duration_ms": 243813,
+      "name": "Escreve A\u00ed - Ao Vivo",
+      "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 249846,
-      "name": "\u00e1gua com a\u00e7\u00facar - ao vivo",
-      "url": "https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
         "name": "Facas (Ao Vivo)",
         "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 165621,
       "name": "At\u00e9 Ficar Velhin - Ao Vivo",
       "url": "https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 249846,
+      "name": "\u00e1gua com a\u00e7\u00facar - ao vivo",
+      "url": "https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
+        "name": "Da Minha Casa Pra Sua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 209578,
+      "name": "Flor e \u00c1gua - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
         "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 214087,
       "name": "boa mem\u00f3ria - ao vivo",
       "url": "https://open.spotify.com/track/79BHjj4YkvbpOlMvG6wf3n"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
-        "name": "Da Minha Casa Pra Sua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 209578,
-      "name": "Flor e \u00c1gua - Ao Vivo",
-      "url": "https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f"
     },
     {
       "added_at": "2026-10-09 03:00:30",

@@ -44,7 +44,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 298130,
       "name": "+57",
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
@@ -1399,6 +1399,32 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+    },
+    {
+      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -2621,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
+    },
+    {
+      "album": {
         "name": "Con Co",
         "url": "https://open.spotify.com/album/0LPf0p8XaAulD9YSp4ZFF8"
       },
@@ -3676,6 +3720,40 @@
       "duration_ms": 232222,
       "name": "Diablo, Qu\u00e9 Chimba",
       "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
+    },
+    {
+      "album": {
+        "name": "Dichavate",
+        "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
+      },
+      "artists": [
+        {
+          "name": "Ya Ice Dilan",
+          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
+        },
+        {
+          "name": "Rey Tony",
+          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
+        },
+        {
+          "name": "Helabusador",
+          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
+        },
+        {
+          "name": "JipMusic Global",
+          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246428,
+      "name": "Dichavate",
+      "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
     },
     {
       "album": {
@@ -4994,7 +5072,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 168520,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
@@ -9460,7 +9538,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
@@ -10975,6 +11053,28 @@
     },
     {
       "album": {
+        "name": "Ooh Laka Laka La",
+        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134797,
+      "name": "Ooh Laka Laka La",
+      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
+    },
+    {
+      "album": {
         "name": "ori\u00f3N",
         "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
       },
@@ -11240,6 +11340,32 @@
       "duration_ms": 208587,
       "name": "PARA SIEMPRE",
       "url": "https://open.spotify.com/track/0xvaM53zDst3zcIpcNc37M"
+    },
+    {
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342485,
+      "name": "PARADIXE",
+      "url": "https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN"
     },
     {
       "album": {
@@ -15572,7 +15698,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 152500,
       "name": "Una A La Vez",
       "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
@@ -16280,7 +16406,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"

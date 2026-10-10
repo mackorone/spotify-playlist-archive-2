@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: Caroline Rose
 
-305 songs - 17 hr 9 min
+307 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Consideration \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Spotify Singles](https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq) | 2:22 | 2023-03-07 | 2025-05-31 |
 | [Crazy Again](https://open.spotify.com/track/49eDe6Sk39RHcMtrtol9IC) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 3:17 | 2024-06-21 | 2026-09-29 |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 | 2024-06-21 |  |
-| [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 | 2022-06-01 |  |
+| [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 | 2022-06-01 | 2026-10-10 |
 | [Dance Around It](https://open.spotify.com/track/589GQwCpRYsMbid74y9U7Y) | [Dawson Fuss](https://open.spotify.com/artist/4HmXxGWmonNjO3VfrgBRVQ) | [Dance Around It](https://open.spotify.com/album/2O4HcfLbMsivECINQdfVNI) | 3:37 | 2026-07-24 |  |
 | [Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:50 | 2025-05-30 |  |
 | [Darling](https://open.spotify.com/track/1Xl7BcVmwEW6FpnnIAFGJm) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Darling](https://open.spotify.com/album/2x8RBnasrwFI2F9DS3uG3a) | 3:34 | 2026-06-15 |  |
@@ -111,7 +111,7 @@
 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7) | 2:31 | 2021-06-22 | 2022-06-01 |
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-05-30 |  |
 | [Hanger\-on](https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Just Now](https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT) | 3:28 | 2023-06-01 | 2023-07-05 |
-| [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2023-06-01 |  |
+| [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2023-06-01 | 2026-10-10 |
 | [Heavy Pour](https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:50 | 2024-06-21 | 2026-06-16 |
 | [Hello Again, Jim](https://open.spotify.com/track/4WA9XCYWwlfSZesVC2TdLy) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Calm](https://open.spotify.com/album/4KgHvvtfb8DxKJxV36gNXb) | 3:26 | 2026-09-18 |  |
 | [Help Myself](https://open.spotify.com/track/0GBgnbJII17LGSXjIjVHT7) | [Evvol](https://open.spotify.com/artist/21drkL18eajEqlnqSAphJm) | [The Power](https://open.spotify.com/album/18p9w3i4FrHnbJVteUocya) | 3:04 | 2021-06-22 | 2022-06-01 |
@@ -173,6 +173,7 @@
 | [More Than a Friend](https://open.spotify.com/track/5TIyFlLF0EfYOUZH1TYxBq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [More Than a Friend](https://open.spotify.com/album/5Gim9raGhoYvmx2bD31vJe) | 2:55 | 2021-06-22 | 2023-06-02 |
 | [My Girl](https://open.spotify.com/track/4mXQ7QWebpojVqwvLUYIMh) | [Annelle Staal](https://open.spotify.com/artist/7BnUWceEyTgiZTxBZniroo) | [My Girl](https://open.spotify.com/album/5xRNMLDrjRb9fxtYYOTvxl) | 3:06 | 2023-06-01 | 2025-05-31 |
 | [Naked In Manhattan](https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:31 | 2024-06-21 |  |
+| [Natural High](https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Natural High](https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt) | 5:45 | 2026-10-09 |  |
 | [No Love \(feat\. Clara Nowhere & Joseph Schiano di Lombo\)](https://open.spotify.com/track/74YSDKKb2dsI78UbFx3ZeH) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18), [Joseph Schiano di Lombo](https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC) | [Unmixtape](https://open.spotify.com/album/6yHSfoEj8yulskJ2Q0lNv7) | 3:05 | 2022-06-01 | 2022-11-13 |
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-06-30 |  |
 | [Not Worth Hiding](https://open.spotify.com/track/32YvcT0MYKlYRdSsWYA0Pd) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [See You Soon](https://open.spotify.com/album/0JSrRh2pX60AzMADzUmlAe) | 2:46 | 2021-06-22 | 2022-06-02 |
@@ -302,6 +303,7 @@
 | [Where the Bodies are Buried](https://open.spotify.com/track/0xG35t62RlS74P1ReAgew9) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Where The Bodies Are Buried](https://open.spotify.com/album/3nVtNC85YkvrxYWmaJJ22M) | 3:06 | 2021-06-22 | 2022-07-29 |
 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 | 2023-06-01 | 2024-09-01 |
 | [Wish You Were Gay](https://open.spotify.com/track/6fgjMZJlIACwYqC1b0yyiP) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Wish You Were Gay](https://open.spotify.com/album/0Hh5Iu5zm6nSnvjGmOM07g) | 3:11 | 2021-06-22 | 2022-06-01 |
+| [You Feel Me](https://open.spotify.com/track/05sR5BjeSAvvq4inZZ7H2Y) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [You Feel Me](https://open.spotify.com/album/3wtZIu80biIckrUYUaj0nj) | 2:49 | 2026-10-09 |  |
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-05-22 | 2026-07-24 |
 | [You Might Not Like Her](https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF) | 3:22 | 2022-06-24 | 2023-06-02 |
 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-24 | 2022-10-13 |

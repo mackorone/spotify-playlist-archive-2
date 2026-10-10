@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 38 | [Lost Your Faith](https://open.spotify.com/track/0woU394Kw2pKlrkQy1JdZQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 3:14 |
 | 39 | [Champagne](https://open.spotify.com/track/4n1oum6u8Usfs9YSEwXZb8) | [Lia Marie Johnson](https://open.spotify.com/artist/4GaA53bqvMoSs2WzEFGiLe) | [Champagne](https://open.spotify.com/album/7JYzocpan2uUTtoZgMaQ3K) | 3:53 |
 | 40 | [Destiny](https://open.spotify.com/track/29ovbgjQ0pnjA7wE5tWeqs) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Watch The World](https://open.spotify.com/album/1f6kyzMUyeVkp7si9VGNVo) | 3:47 |
-| 41 | [Aww](https://open.spotify.com/track/2ScqDQj39xCVINvUwT5oqk) | [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe) | [Aww](https://open.spotify.com/album/5a4Vx9H8AezpyQxqs2Gywr) | 2:40 |
-| 42 | [Almost Forgot](https://open.spotify.com/track/0htezQjIT0FNJQoZb6EJql) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Past Lives](https://open.spotify.com/album/2OmHMlPVPmSWV77JxiDaYA) | 3:28 |
+| 41 | [Almost Forgot](https://open.spotify.com/track/0htezQjIT0FNJQoZb6EJql) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Past Lives](https://open.spotify.com/album/2OmHMlPVPmSWV77JxiDaYA) | 3:28 |
+| 42 | [Aww](https://open.spotify.com/track/2ScqDQj39xCVINvUwT5oqk) | [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe) | [Aww](https://open.spotify.com/album/5a4Vx9H8AezpyQxqs2Gywr) | 2:40 |
 | 43 | [Even When I’m Not](https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Wild Robot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i) | 3:05 |
 | 44 | [My Man](https://open.spotify.com/track/5T2N2zNtnspdHNKe4badyR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:23 |
 | 45 | [That Feeling When](https://open.spotify.com/track/3Va1sFKlIYxo36JTdWDg6I) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [That Feeling When](https://open.spotify.com/album/4yfNr3vVl5nDjhkE0xzK55) | 3:22 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 127 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 128 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 
-Snapshot ID: `AcebbgAAAAAk1l35VXxBk0Boy74qnC8G`
+Snapshot ID: `Aceg+gAAAAB730IkxXBwC/G38SNNIbQP`

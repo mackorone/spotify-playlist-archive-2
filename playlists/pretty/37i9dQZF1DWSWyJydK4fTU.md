@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,226 likes - 59 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,117 likes - 59 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 4 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 5 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 6 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
-| 7 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
-| 8 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
+| 7 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
+| 8 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 9 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
 | 10 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 11 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 38 | [New Heart](https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [New Heart](https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ) | 3:04 |
 | 39 | [Kinda Love It](https://open.spotify.com/track/49uiGJL2F4Nj56cCLCQG4W) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Kinda Love It](https://open.spotify.com/album/1m3Jun2PjCQAOL72bBExnT) | 3:27 |
 | 40 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
-| 41 | [Sommerregen](https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:26 |
-| 42 | [You Will Never Know It](https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [You Will Never Know It](https://open.spotify.com/album/18l8bWUsNQdXl6pXQOK5lw) | 2:48 |
-| 43 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
-| 44 | [Memo](https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Memo](https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H) | 3:11 |
+| 41 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
+| 42 | [Sommerregen](https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:26 |
+| 43 | [Memo](https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Memo](https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H) | 3:11 |
+| 44 | [You Will Never Know It](https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [You Will Never Know It](https://open.spotify.com/album/18l8bWUsNQdXl6pXQOK5lw) | 2:48 |
 | 45 | [Nur ein Wort](https://open.spotify.com/track/0dIb1x3ilFtfprAfbfOEKm) | [Noah Kraus](https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME), [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Nur ein Wort](https://open.spotify.com/album/6n4MQhGhEBzZt9xFuXIdib) | 1:55 |
 | 46 | [4 Life](https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 1:56 |
 | 47 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |

@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 450054,
+  "num_followers": 450073,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADI4tomTgwndzziounpBNfk",
+  "snapshot_id": "asbdAAAAAACvYztFWJDNjlL4ajQLhUSC",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 137323,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 137323,
-      "name": "El Circo",
-      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Kilates (Con Norte\u00f1o)",
+        "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167282,
+      "name": "El Perseverante",
+      "url": "https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Llamo Mujeriego",
         "url": "https://open.spotify.com/album/5ZY2v5CtJKIF9c9yhhYz1i"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 141094,
       "name": "Me Llamo Mujeriego",
       "url": "https://open.spotify.com/track/080yQbCS3z0n0vPvhtE9VW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Kilates (Con Norte\u00f1o)",
-        "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 167282,
-      "name": "El Perseverante",
-      "url": "https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni"
     },
     {
       "added_at": null,
@@ -476,25 +476,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 158442,
-      "name": "Cuanto Me Gusta Este Rancho",
-      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 183057,
-      "name": "De Mi Viejo",
-      "url": "https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko"
+      "duration_ms": 104746,
+      "name": "Ser\u00e9 un Borracho",
+      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
     },
     {
       "added_at": null,
@@ -515,6 +499,54 @@
       "duration_ms": 205049,
       "name": "El Muchachon",
       "url": "https://open.spotify.com/track/5qndgRQs86gXNnFX4PGxao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 183057,
+      "name": "De Mi Viejo",
+      "url": "https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167338,
+      "name": "El Mes de Mayo",
+      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 158442,
+      "name": "Cuanto Me Gusta Este Rancho",
+      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
     },
     {
       "added_at": null,
@@ -543,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 104746,
-      "name": "Ser\u00e9 un Borracho",
-      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El Camino",
         "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 153428,
       "name": "En Esta Vida",
       "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 167338,
-      "name": "El Mes de Mayo",
-      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
     },
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tatuado",
+        "url": "https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "El Tatuado",
+      "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tatuado",
-        "url": "https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "El Tatuado",
-      "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 143010,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Consejos del Viejo",
         "url": "https://open.spotify.com/album/6vVuJ52tDtEE0ZDYb2cBkX"
       },
@@ -899,22 +879,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheando en la Ciudad con El Fantasma y Los Huracanes del Norte",
-        "url": "https://open.spotify.com/album/1MeCLnpe9RWOz5KU4cgwkV"
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         },
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 183400,
-      "name": "Que Bonito",
-      "url": "https://open.spotify.com/track/6rlEimbr93IVM54XKgCE4M"
+      "duration_ms": 143010,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coronas Doradas",
+        "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167470,
+      "name": "Los Cuervos",
+      "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
     }
   ],
   "unique_name": "This Is El Fantasma",

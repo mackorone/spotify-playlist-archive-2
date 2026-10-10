@@ -4,7 +4,7 @@
 
 > Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...
 
-458 songs - 1 day 1 hr 10 min
+460 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 | 2026-09-02 |  |
 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-15 | 2026-09-10 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2026-01-23 | 2026-02-21 |
+| [before you hit the water.](https://open.spotify.com/track/2V1sCdp5P2uLVjPiPY9GMI) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [before you hit the water.](https://open.spotify.com/album/6bSls2Yh63Ei5G0VQ5or8l) | 3:03 | 2026-10-09 |  |
 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 | 2025-11-07 | 2026-02-14 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-09-22 | 2025-11-22 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2025-09-22 |  |
@@ -49,6 +50,7 @@
 | [Bones](https://open.spotify.com/track/2iy3Qsydsu8slAoZV2BGOu) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Bones](https://open.spotify.com/album/3IMp2eLKnPqzMkE2P6IIOu) | 2:51 | 2025-11-07 | 2026-03-25 |
 | [Born For You](https://open.spotify.com/track/6P4KOxSNS12SAa0zYExbwZ) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Born For You](https://open.spotify.com/album/5mCXq7JbA0KKtXNJXe5I5r) | 2:35 | 2026-10-02 |  |
 | [Brazilian Walk](https://open.spotify.com/track/4i55bEPbGZSWt3r2zZ7Mbp) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Summer Walk](https://open.spotify.com/album/6sYA2m1M0NNXMoHzHXu2f3) | 5:12 | 2026-07-27 | 2026-09-03 |
+| [Brother](https://open.spotify.com/track/3JSNvRfLyEk2JzJgira7rP) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [I: Keep The Fire On](https://open.spotify.com/album/73PTFhVbYlekS974F7GmSG) | 6:23 | 2026-10-09 |  |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-07-17 | 2026-09-10 |
 | [California](https://open.spotify.com/track/6Fu81TIuJn4rYleNUctqOx) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [California](https://open.spotify.com/album/08Dvx4JDDAICQr0Vzeu0ve) | 2:16 | 2026-01-23 | 2026-02-03 |
 | [California](https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [California](https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO) | 4:24 | 2025-10-31 | 2026-05-19 |

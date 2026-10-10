@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Almohada",
+        "url": "https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222120,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8"
+    },
+    {
+      "album": {
         "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/4Xjf9chXOeW3SNxnARpMNT"
       },
@@ -1128,6 +1146,24 @@
       "duration_ms": 164315,
       "name": "Baby You Already Know",
       "url": "https://open.spotify.com/track/2KqhiKIOo47WRZMBY30vLy"
+    },
+    {
+      "album": {
+        "name": "Baj\u00f3n Emocional",
+        "url": "https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Baj\u00f3n Emocional",
+      "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
     },
     {
       "album": {
@@ -6704,6 +6740,24 @@
       "duration_ms": 257000,
       "name": "Luz de D\u00eda",
       "url": "https://open.spotify.com/track/2jBsr5oNW2x6qpJvPbtKwZ"
+    },
+    {
+      "album": {
+        "name": "L\u00f3gica",
+        "url": "https://open.spotify.com/album/3oHngRBxbxjYe9iOTOXpqz"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "L\u00f3gica",
+      "url": "https://open.spotify.com/track/0fRXgcoGXC7a6VLAZMNk3z"
     },
     {
       "album": {

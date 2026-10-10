@@ -11708,7 +11708,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 90192,
       "name": "GET BUCK",
       "url": "https://open.spotify.com/track/4jFcc445MlREVKxAMJQnrR"
@@ -24506,6 +24506,24 @@
       "duration_ms": 243336,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/7tYTL5VTShsYu8cQRnilSK"
+    },
+    {
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/0Odlvd4ADl5JiOxxi26s5W"
+      },
+      "artists": [
+        {
+          "name": "Glass Bridges",
+          "url": "https://open.spotify.com/artist/62pDENyREDEFFkgkkOn1zv"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238189,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/4vngYf7elXAPZNc91vBTvy"
     },
     {
       "album": {

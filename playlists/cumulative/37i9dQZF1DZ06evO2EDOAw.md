@@ -4,7 +4,7 @@
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-108 songs - 8 hr 25 min
+109 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Praise Through](https://open.spotify.com/track/3qh8F96Y1HVLlOdOY3k1em) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Praise Through](https://open.spotify.com/album/7fxipbdMsE7qHTbvWv3irw) | 7:23 | 2023-03-04 | 2023-03-25 |
 | [Put A Praise On It \- Live](https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 6:16 | 2023-03-04 |  |
 | [Rain](https://open.spotify.com/track/09ltlFkyREif6QKiKXJDvW) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rain](https://open.spotify.com/album/3Oa1Fsz90HH7dZgxPQ5qGZ) | 5:15 | 2025-05-11 |  |
-| [RAIN DOWN ON ME \(feat\. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore\)](https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 3:48 | 2024-10-13 |  |
+| [RAIN DOWN ON ME \(feat\. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore\)](https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 3:48 | 2024-10-13 | 2026-10-10 |
+| [RAIN DOWN ON ME \(feat\. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore\)](https://open.spotify.com/track/7B7kpLpdgSTluPOUEStmgV) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [GLORIOUS](https://open.spotify.com/album/4rGd4QTextzBZmB9G8yHyk) | 3:48 | 2026-10-10 |  |
 | [Repin My God](https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Canton Jones](https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 4:24 | 2023-03-04 |  |
 | [Shine](https://open.spotify.com/track/3c4MBlHdGeDQgpbzk6glMG) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Shine](https://open.spotify.com/album/79sl7pH8FhvSRfazOKQdOI) | 3:14 | 2026-06-21 |  |
 | [show up](https://open.spotify.com/track/24r9GoSCLpbtJSMgTp3LWm) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [show up](https://open.spotify.com/album/4IUI8izNFkodEqbGYz1ynZ) | 3:56 | 2026-04-06 |  |

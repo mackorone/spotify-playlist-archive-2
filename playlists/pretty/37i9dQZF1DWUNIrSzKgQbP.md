@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631,728 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,631,299 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 23 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
 | 24 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/26NtL6qvVuRqFrpimqxSwx) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [JVC](https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry) | 4:53 |
 | 25 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
-| 26 | [Billy Came Back](https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Billy Came Back](https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe) | 3:09 |
-| 27 | [What Would I Do Without You](https://open.spotify.com/track/11TK5KLtLZUdKr1C549bAw) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Good Light](https://open.spotify.com/album/4WXwjwVrr6TFi0HpE5QXq4) | 2:52 |
+| 26 | [What Would I Do Without You](https://open.spotify.com/track/11TK5KLtLZUdKr1C549bAw) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Good Light](https://open.spotify.com/album/4WXwjwVrr6TFi0HpE5QXq4) | 2:52 |
+| 27 | [Billy Came Back](https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Billy Came Back](https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe) | 3:09 |
 | 28 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
 | 29 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 |
 | 30 | [Fine \(feat\. Paul Kelly\)](https://open.spotify.com/track/6MQ2BFdh2Rtn6uYX4NWffi) | [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Fine \(feat\. Paul Kelly\)](https://open.spotify.com/album/1ZmehdFS3WXShPPt2WMztb) | 4:22 |

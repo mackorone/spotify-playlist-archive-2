@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Maribou State",
-  "num_followers": 44036,
+  "num_followers": 44039,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,22 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Talk to Me",
-        "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
+        "name": "1+1+1",
+        "url": "https://open.spotify.com/album/1TNi8B4kLbNAwnXmjK8NDM"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         },
         {
-          "name": "Nicole Miglis",
-          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
+          "name": "ZEP",
+          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
         }
       ],
-      "duration_ms": 222768,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY"
+      "duration_ms": 176958,
+      "name": "1+1+1",
+      "url": "https://open.spotify.com/track/5HH66Sx5PCkl4xw8TwZq3g"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -707,22 +707,22 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "1+1+1",
-        "url": "https://open.spotify.com/album/1TNi8B4kLbNAwnXmjK8NDM"
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
       },
       "artists": [
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         },
         {
-          "name": "ZEP",
-          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+          "name": "Nicole Miglis",
+          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
         }
       ],
-      "duration_ms": 176958,
-      "name": "1+1+1",
-      "url": "https://open.spotify.com/track/5HH66Sx5PCkl4xw8TwZq3g"
+      "duration_ms": 222768,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 229475,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "Ambiguous Desire",
         "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 160000,
       "name": "Blue Shadows (feat. Karen O)",
       "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 229475,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "Confirmation!",
         "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
         "name": "Till It's Over",
         "url": "https://open.spotify.com/album/1Mv3WX31GSgaYiZO1y5hps"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Joy Without Sound",
-        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM"
       },
       "artists": [
         {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
         }
       ],
-      "duration_ms": 195480,
-      "name": "Joy Without Sound",
-      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+      "duration_ms": 133761,
+      "name": "Tell Your Friends You Love Them",
+      "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -1063,18 +1063,34 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "When The Rain Begins To Fall",
-        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
+        "name": "Joy Without Sound",
+        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
       },
       "artists": [
         {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 214016,
-      "name": "When The Rain Begins To Fall",
-      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
+      "duration_ms": 195480,
+      "name": "Joy Without Sound",
+      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "I LUV IT",
+        "url": "https://open.spotify.com/album/5oEIprEr2NPtmVt60Ajahw"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "I LUV IT",
+      "url": "https://open.spotify.com/track/4uhOF6xbnELupVcp4wqnfT"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -1091,6 +1107,22 @@
       "duration_ms": 212500,
       "name": "Elation",
       "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "When The Rain Begins To Fall",
+        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 214016,
+      "name": "When The Rain Begins To Fall",
+      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -1123,22 +1155,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "I LUV IT",
-        "url": "https://open.spotify.com/album/5oEIprEr2NPtmVt60Ajahw"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "I LUV IT",
-      "url": "https://open.spotify.com/track/4uhOF6xbnELupVcp4wqnfT"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "Bad Bara",
         "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 245571,
       "name": "Bad Bara",
       "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM"
-      },
-      "artists": [
-        {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 133761,
-      "name": "Tell Your Friends You Love Them",
-      "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Sd-3",
-        "url": "https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 160263,
-      "name": "Pink Bape Lighter",
-      "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 151763,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "Sd-3",
+        "url": "https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 160263,
+      "name": "Pink Bape Lighter",
+      "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
     },
     {
       "added_at": "2026-10-02 10:25:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,425 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,430 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,14 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 47 | [Döden ut](https://open.spotify.com/track/7ELcAhaKTQc95IiXS2A742) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Döden ut](https://open.spotify.com/album/5GiH51ivtO7V5v7cqvsWdJ) | 3:39 |
 | 48 | [Hurricane](https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Hurricane](https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO) | 3:25 |
 | 49 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
-| 50 | [Tiden läker alla sår](https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tiden läker alla sår](https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q) | 3:03 |
-| 51 | [Hollow](https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hollow](https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up) | 2:56 |
-| 52 | [Allt jag har](https://open.spotify.com/track/0LDw8mHf4tJcYbf5PvInGu) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 2:52 |
+| 50 | [Hollow](https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hollow](https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up) | 2:56 |
+| 51 | [Allt jag har](https://open.spotify.com/track/0LDw8mHf4tJcYbf5PvInGu) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 2:52 |
+| 52 | [Tiden läker alla sår](https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tiden läker alla sår](https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q) | 3:03 |
 | 53 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
 | 54 | [Göteborg](https://open.spotify.com/track/7pFOZqgnaKfwxcPnGTEWXw) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 3:48 |
 | 55 | [Ta Mig Aldrig Härifrån](https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Ta Mig Aldrig Härifrån](https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ) | 3:07 |
-| 56 | [Berusade ord](https://open.spotify.com/track/0RxBz475eVWbDQQwcY7DNa) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Berusade ord](https://open.spotify.com/album/74tRAatbdPLCLyq22KQYSi) | 2:55 |
-| 57 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
+| 56 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
+| 57 | [Berusade ord](https://open.spotify.com/track/0RxBz475eVWbDQQwcY7DNa) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Berusade ord](https://open.spotify.com/album/74tRAatbdPLCLyq22KQYSi) | 2:55 |
 | 58 | [Väntat](https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Väntat](https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q) | 3:02 |
 | 59 | [Iris](https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Iris](https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd) | 3:00 |
 | 60 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 |

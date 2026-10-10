@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Diffrent
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,007 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,030 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 51 | [Pull Up](https://open.spotify.com/track/1MMFFS8ddSQbYVBclBZTZN) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [ODF](https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Pull Up](https://open.spotify.com/album/6bBot7gb3Uu3sqDiiusSDu) | 3:16 |
 | 52 | [Twizted](https://open.spotify.com/track/4hZ17ryjXAq6OjpoH3CSke) | [ATW](https://open.spotify.com/artist/69Nx0ikrUq0IMY7aJMt4V6), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [Twizted](https://open.spotify.com/album/6trB3dbxRummr0pcx1dUpz) | 4:44 |
 | 53 | [Ur Way](https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Ur Way](https://open.spotify.com/album/3uXixh1r8lizDG33DgUUUu) | 3:18 |
-| 54 | [WARNING](https://open.spotify.com/track/5coJwd09YfDIbyQdr99dyN) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB), [MAMI](https://open.spotify.com/artist/0HbvIwq1mKjgFSVo6j5HSk) | [WARNING](https://open.spotify.com/album/3EQzXa98IJwsQGTqpZyhnO) | 2:18 |
-| 55 | [Pingers](https://open.spotify.com/track/4NnHBVMaaNLXJ9oZKGK08k) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [CASISDEAD](https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs) | [Pingers](https://open.spotify.com/album/48Gg8EbVBCsBpQAgfHl7ek) | 3:13 |
-| 56 | [Sunset](https://open.spotify.com/track/5XmEceDuVQqzR9kINPTBvP) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Sunset](https://open.spotify.com/album/6HFWbYaXiwvKFewZ5D2Cik) | 3:16 |
-| 57 | [Closer \- Edit](https://open.spotify.com/track/6VtwaoZE98xcL80dSCKnLF) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [ADMNTi](https://open.spotify.com/artist/6OwHQoalPXIQtpqjzG4IgY) | [Closer \(Edit\)](https://open.spotify.com/album/1sNPmXsSDjuvgJgPPFi9iE) | 3:47 |
-| 58 | [Pull Up](https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Pull Up](https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW) | 3:13 |
-| 59 | [No Tomorrow](https://open.spotify.com/track/5EMkQjEd9ITYi1Pf2WfDZw) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [No Tomorrow](https://open.spotify.com/album/7GY2i0VlmrKs8XJLHac4ZL) | 3:54 |
+| 54 | [Pingers](https://open.spotify.com/track/4NnHBVMaaNLXJ9oZKGK08k) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [CASISDEAD](https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs) | [Pingers](https://open.spotify.com/album/48Gg8EbVBCsBpQAgfHl7ek) | 3:13 |
+| 55 | [WARNING](https://open.spotify.com/track/5coJwd09YfDIbyQdr99dyN) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB), [MAMI](https://open.spotify.com/artist/0HbvIwq1mKjgFSVo6j5HSk) | [WARNING](https://open.spotify.com/album/3EQzXa98IJwsQGTqpZyhnO) | 2:18 |
+| 56 | [Closer \- Edit](https://open.spotify.com/track/6VtwaoZE98xcL80dSCKnLF) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [ADMNTi](https://open.spotify.com/artist/6OwHQoalPXIQtpqjzG4IgY) | [Closer \(Edit\)](https://open.spotify.com/album/1sNPmXsSDjuvgJgPPFi9iE) | 3:47 |
+| 57 | [Sunset](https://open.spotify.com/track/5XmEceDuVQqzR9kINPTBvP) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Sunset](https://open.spotify.com/album/6HFWbYaXiwvKFewZ5D2Cik) | 3:16 |
+| 58 | [No Tomorrow](https://open.spotify.com/track/5EMkQjEd9ITYi1Pf2WfDZw) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [No Tomorrow](https://open.spotify.com/album/7GY2i0VlmrKs8XJLHac4ZL) | 3:54 |
+| 59 | [Pull Up](https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Pull Up](https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW) | 3:13 |
 | 60 | [Deejay](https://open.spotify.com/track/4Sk2H29XVt3ixGlMrkeJ5c) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Deejay](https://open.spotify.com/album/3UZ3GaJ0Pt5pD6Y0A4hn67) | 4:06 |
 | 61 | [Can't Deny](https://open.spotify.com/track/38aBH2BvMIOr9EWqabmWRn) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Can't Deny](https://open.spotify.com/album/4pazCPqxyf0G5hgJ0dS6A6) | 3:44 |
 | 62 | [SMOOTH](https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z) | [SMOOTH](https://open.spotify.com/album/2iaDVU4Xd8caSSlFJVgJbV) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 69 | [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 |
 | 70 | [Naughties](https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Naughties](https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe) | 2:26 |
 
-Snapshot ID: `AAAAAGoFSS/zXrxGcWNZecPzaZayxQGc`
+Snapshot ID: `AAAAADD5WyOg9AT7/J+DiSqiMlN2maiJ`

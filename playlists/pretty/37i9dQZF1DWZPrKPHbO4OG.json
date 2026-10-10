@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39504,
+  "num_followers": 39518,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,30 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
+        "name": "Ghotala Ghotala Zala (From \"Partu\")",
+        "url": "https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK"
+      },
+      "artists": [
+        {
+          "name": "Janhavi Prabhu Arora",
+          "url": "https://open.spotify.com/artist/0NbtAahNlx9au3aMjEoaOW"
+        },
+        {
+          "name": "Shashank Powar",
+          "url": "https://open.spotify.com/artist/4mtMl6gbwQAGF9UTggGuCt"
+        },
+        {
+          "name": "Guru Thakur",
+          "url": "https://open.spotify.com/artist/1NKmpPhLjRNBoFoc6TVH25"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Ghotala Ghotala Zala - From \"Partu\"",
+      "url": "https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
         "name": "Kajwa",
         "url": "https://open.spotify.com/album/0agxxXxuHkbRoic1f6uYC0"
       },
@@ -643,30 +667,6 @@
       "duration_ms": 249622,
       "name": "Kajwa",
       "url": "https://open.spotify.com/track/7yW1U21NXBawQB8fdlE0vx"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Ghotala Ghotala Zala (From \"Partu\")",
-        "url": "https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK"
-      },
-      "artists": [
-        {
-          "name": "Janhavi Prabhu Arora",
-          "url": "https://open.spotify.com/artist/0NbtAahNlx9au3aMjEoaOW"
-        },
-        {
-          "name": "Shashank Powar",
-          "url": "https://open.spotify.com/artist/4mtMl6gbwQAGF9UTggGuCt"
-        },
-        {
-          "name": "Guru Thakur",
-          "url": "https://open.spotify.com/artist/1NKmpPhLjRNBoFoc6TVH25"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Ghotala Ghotala Zala - From \"Partu\"",
-      "url": "https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw"
     },
     {
       "added_at": "2026-09-24 07:16:44",

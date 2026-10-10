@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:54 | 2023-12-15 | 2026-09-25 |
+| [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:54 | 2023-12-15 |  |
 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 | 2025-05-07 | 2026-02-25 |
 | [100%](https://open.spotify.com/track/26IlCzN5laD4d0QF7pHIiG) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:30 | 2026-02-25 |  |
 | [20 Years From Now](https://open.spotify.com/track/13c4fq3fil9twERAWIKDPk) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick Again](https://open.spotify.com/album/2VKySLHotMO1hAlueSCQrt) | 3:32 | 2022-09-16 | 2022-11-12 |
@@ -118,7 +118,7 @@
 | [Vegas](https://open.spotify.com/track/0of6AXsRCJpTwxE9H9oKQn) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA) | 2:30 | 2025-04-18 | 2025-04-19 |
 | [Vicious Love](https://open.spotify.com/track/3GTapDdoEBfvla87bXolpq) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection](https://open.spotify.com/album/3CLXR1W9TabxVLY2lZbAS1) | 3:23 | 2026-08-26 |  |
 | [Vicious Love \(feat\. Hayley Williams\)](https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection: Ascension](https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk) | 3:17 | 2022-09-16 | 2026-09-20 |
-| [Watch the Lilies Grow](https://open.spotify.com/track/4xEpc9SmK9cAlw0407Cxz9) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 4:33 | 2023-01-22 |  |
+| [Watch the Lilies Grow](https://open.spotify.com/track/4xEpc9SmK9cAlw0407Cxz9) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 4:33 | 2023-01-22 | 2026-10-10 |
 | [You Got This](https://open.spotify.com/track/4Q4jKJIvLEWZsFcTg9eKKH) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:16 | 2026-02-22 | 2026-05-11 |
 | [Your Biggest Mistake](https://open.spotify.com/track/14CYNs0uYiHfnWiOECZqYs) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 2:46 | 2024-05-14 | 2026-08-28 |
 | [Your Jokes Aren't Funny](https://open.spotify.com/track/3KKGoTkLjHsXXAEjxX5kdT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:08 | 2022-09-16 | 2023-01-23 |

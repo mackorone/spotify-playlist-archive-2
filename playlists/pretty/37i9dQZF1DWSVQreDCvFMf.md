@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Over October
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,830 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,885 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 42 | [Fleabag \(feat\. Paolo Sandejas\)](https://open.spotify.com/track/7xRga53GguD9bLi2NtaIv3) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Fleabag \(feat\. Paolo Sandejas\)](https://open.spotify.com/album/1e36Xz5KJvTY3zVjVWIi8h) | 2:53 |
 | 43 | [Totoong tayo](https://open.spotify.com/track/3Fu4WzdH4SpUUPLroN4qyS) | [Jin DC](https://open.spotify.com/artist/4aYM8Vij7I9a2VLcAPJ6Y2) | [Totoong tayo](https://open.spotify.com/album/5Ftd3Rg6FB7A0cvmDMyShR) | 3:47 |
 | 44 | [Bampira](https://open.spotify.com/track/3Ah10IzaPO4Sz4afpKqXe5) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [kung tayo’y nasa isang horror na pelikula, tiyak ako ang una mong papatayin](https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu) | 4:43 |
-| 45 | [Silip](https://open.spotify.com/track/3nHfwCmcwmt1eJX3rqn8xC) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Silip](https://open.spotify.com/album/2IZRTt70Ri8I5G9clDfJEO) | 3:01 |
+| 45 | [Silip](https://open.spotify.com/track/3nHfwCmcwmt1eJX3rqn8xC) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Silip](https://open.spotify.com/album/2IZRTt70Ri8I5G9clDfJEO) | 3:02 |
 | 46 | [Nang Iwan](https://open.spotify.com/track/5CgwESmg9qgxDSa7RBQxFb) | [This Band](https://open.spotify.com/artist/5HIZU0JzM0AgfItVOm4E08) | [Nang Iwan](https://open.spotify.com/album/0u1j9uKeBMlS9mbSPDEN5H) | 6:07 |
 | 47 | [TMA](https://open.spotify.com/track/71b7gpfBHekpvpZMSxqMTT) | [groundZERO Records](https://open.spotify.com/artist/4LsXG0tI52IkUbQmWJwRc1), [Tyler](https://open.spotify.com/artist/37sFfU15cboEujZY15L1SF), [Primera](https://open.spotify.com/artist/2R33KWsIDR49UwHcxuROyv), [ODP](https://open.spotify.com/artist/2pCzdBodmkDTTZZHtfFLTQ) | [TMA](https://open.spotify.com/album/2ej8VukKGOr9GAYmcFTtlM) | 3:18 |
 | 48 | [tara](https://open.spotify.com/track/0S59XL7EhSme77zIb7Lpou) | [Arron Rebustes](https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx) | [tara](https://open.spotify.com/album/63hF4st4hG8Io2zXZ88Avp) | 3:13 |

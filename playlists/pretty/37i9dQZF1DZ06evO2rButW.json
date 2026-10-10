@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 799353,
+  "num_followers": 799510,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAACxHxiDEoOO1fTmWNwktVlK",
+  "snapshot_id": "asbdAAAAAADhuHXtnw0b7mwYL5EZikP7",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Casa",
-        "url": "https://open.spotify.com/album/32fF4N6NziEurvlun5ut92"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 228535,
-      "name": "Nuestra Casa",
-      "url": "https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 243880,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestra Casa",
+        "url": "https://open.spotify.com/album/32fF4N6NziEurvlun5ut92"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 228535,
+      "name": "Nuestra Casa",
+      "url": "https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Que S\u00ed",
+      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -659,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
+        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
       },
       "artists": [
         {
@@ -668,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 203760,
-      "name": "Que S\u00ed",
-      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
+      "duration_ms": 278373,
+      "name": "Tu Falta De Querer - En Vivo",
+      "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
     },
     {
       "added_at": null,
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
-        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 278373,
-      "name": "Tu Falta De Querer - En Vivo",
-      "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
+      "duration_ms": 238893,
+      "name": "Amantes Suicidas",
+      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
     },
     {
       "added_at": null,
@@ -727,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
       "artists": [
         {
@@ -736,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 238893,
-      "name": "Amantes Suicidas",
-      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
+      "duration_ms": 215813,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/171EYIdP4psxhF44HtjlLk"
     },
     {
       "added_at": null,
@@ -759,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+        "name": "Paisaje Japon\u00e9s",
+        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
       },
       "artists": [
         {
@@ -768,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/171EYIdP4psxhF44HtjlLk"
+      "duration_ms": 204733,
+      "name": "Paisaje Japon\u00e9s",
+      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
     },
     {
       "added_at": null,
@@ -791,6 +807,26 @@
       "duration_ms": 242478,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/16mjP6OLNMordGg9FowQrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Jangada",
+        "url": "https://open.spotify.com/album/4eOTZGLOLYa8L4OFKdrXGr"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 315780,
+      "name": "Jangadero - La Jangada",
+      "url": "https://open.spotify.com/track/7s7RSoKV2DcNxpu1OhSFBB"
     },
     {
       "added_at": null,
@@ -827,38 +863,6 @@
       "duration_ms": 220867,
       "name": "La Danza de las Lib\u00e9lulas",
       "url": "https://open.spotify.com/track/67ed4jjP4A0IfcQfgCnGWl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paisaje Japon\u00e9s",
-        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Paisaje Japon\u00e9s",
-      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "El Beso",
-      "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
     }
   ],
   "unique_name": "This Is Mon Laferte",

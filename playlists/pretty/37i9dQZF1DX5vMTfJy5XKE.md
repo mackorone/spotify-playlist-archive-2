@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,230 likes - 241 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,225 likes - 241 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 16 | [secret santa](https://open.spotify.com/track/7KeHUoqosk3skfRbICgHnS) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [wishlist](https://open.spotify.com/album/2CkQy8rPy0PiZSidUhZh8J) | 3:04 |
 | 17 | [Ave Maria](https://open.spotify.com/track/0ipi2o4i8CXREQ3HQD9BkI) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Ave Maria](https://open.spotify.com/album/6kiCVjkuVeFX9mhib5aDDH) | 2:38 |
 | 18 | [Scotland In The Snow](https://open.spotify.com/track/5BIAqf246BYNH3YA8PQ9qg) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Scotland In The Snow](https://open.spotify.com/album/0nYhSrICuH9wF0625WlPBT) | 4:08 |
-| 19 | [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
+| 19 | [Christmas Lights](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
 | 20 | [Wish to Wish](https://open.spotify.com/track/6h49pP33Is5rIPyn70nKzt) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [Wish to Wish](https://open.spotify.com/album/6DmYT4XWlTpyQqKD7Z3rkx) | 3:37 |
 | 21 | [Fairytale of New York](https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Fairytale of New York](https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw) | 3:14 |
 | 22 | [Merry Xmas Everybody](https://open.spotify.com/track/77oczoUAt61bOlQ1CgnsVA) | [Luke Spiller](https://open.spotify.com/artist/5pHfUNtb7HavOPkzrhmVnh) | [Merry Xmas Everybody](https://open.spotify.com/album/5jHlQODrI1Pw0oSYvlJaax) | 3:20 |

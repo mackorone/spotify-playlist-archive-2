@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Itz Tiffany
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,013 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,032 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 34 | [Pray For Me](https://open.spotify.com/track/1GAFNaEY5762667CgS3zZZ) | [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1) | [Ghetto Therapy P.T\. II](https://open.spotify.com/album/1X9cy2cGCDh7acVgRlkUBy) | 2:54 |
 | 35 | [OTOTROBONSU](https://open.spotify.com/track/77Fr6MsU40jiBZ3l5hLxDB) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:31 |
 | 36 | [Bombele](https://open.spotify.com/track/5To9w1yLFlEOfs2EK7Ld7e) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:21 |
-| 37 | [WORK \(feat\. Okese1\)](https://open.spotify.com/track/4GKhNXULdwucDBsL3ZXkON) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc) | [WORK \(feat\. Okese1\)](https://open.spotify.com/album/2Bm07lteF0Vp2Ynd0LbGL4) | 2:01 |
+| 37 | [WORK](https://open.spotify.com/track/4GKhNXULdwucDBsL3ZXkON) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Okese1](https://open.spotify.com/artist/5OWhSdjFohhvZsPEWgdDyp) | [WORK](https://open.spotify.com/album/2Bm07lteF0Vp2Ynd0LbGL4) | 2:01 |
 | 38 | [ON TEN](https://open.spotify.com/track/7ImpI3o1XiuMnrssbqT3xC) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [wavypae](https://open.spotify.com/artist/1pWqsgHNFpgWeKQPsSlkYX) | [ON TEN](https://open.spotify.com/album/1b4hOFonYooA8mD5pGbZKr) | 3:04 |
 | 39 | [ODO PA](https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [ODO PA](https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz) | 2:36 |
 | 40 | [Free My Mind](https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Free My Mind](https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp) | 2:40 |

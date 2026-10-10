@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,320,851 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,320,580 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 68 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
 | 69 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 |
 | 70 | [Banshee Moan](https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Black Irish](https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl) | 4:01 |
-| 71 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
-| 72 | [If Something Breaks](https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 4:56 |
+| 71 | [If Something Breaks](https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 4:56 |
+| 72 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
 | 73 | [Expectations](https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl) | 3:55 |
 | 74 | [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 |
 | 75 | [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 |

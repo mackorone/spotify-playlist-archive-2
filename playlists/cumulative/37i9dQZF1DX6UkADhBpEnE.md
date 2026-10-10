@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-1,188 songs - 2 day 16 hr 56 min
+1,189 songs - 2 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-03 | 2025-06-20 |
 | [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 | 2026-03-05 | 2026-04-03 |
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-02-27 | 2025-08-12 |
+| [Too Cute To Be Lonely](https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Too Cute To Be Lonely](https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY) | 3:16 | 2026-10-01 |  |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-19 | 2024-02-15 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-06-03 | 2024-06-29 |
 | [Tough Love](https://open.spotify.com/track/1qeDiZrY4LBsycOVHSlYWI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Tough Love](https://open.spotify.com/album/7CiptkUx1T0sHuZgUcwxEq) | 3:15 | 2026-10-01 |  |
@@ -1096,7 +1097,7 @@
 | [リスペクト](https://open.spotify.com/track/2KeMTeulC5A6oArHuzDx1i) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [リスペクト](https://open.spotify.com/album/6bQWeVnqqK9UqahXmKt1Ub) | 2:58 | 2023-05-23 | 2023-06-16 |
 | [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-01 | 2024-02-03 |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-01-31 | 2023-05-10 |
-| [ルミナス \- Luminous](https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [ルミナス \- Luminous](https://open.spotify.com/album/4N1jAPvr2Mf3WuWbogas36) | 3:55 | 2026-04-02 |  |
+| [ルミナス \- Luminous](https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [ルミナス \- Luminous](https://open.spotify.com/album/4N1jAPvr2Mf3WuWbogas36) | 3:55 | 2026-04-02 | 2026-10-10 |
 | [ルージュ](https://open.spotify.com/track/7g6lGyhKD2OYByD6YJq4im) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ルージュ](https://open.spotify.com/album/7fH4NYbcCV994KVTuv520x) | 3:10 | 2023-06-22 | 2023-07-05 |
 | [ワラッタラッタ](https://open.spotify.com/track/1pjpRz8aEWtx65Y4HvqFYt) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [ワラッタラッタ](https://open.spotify.com/album/5r1PybiVxHxq7eu5zAr5Qt) | 4:15 | 2023-08-22 | 2023-08-30 |
 | [ワンダーランド](https://open.spotify.com/track/7CdJxQfuNWmEOE9o5uOBeN) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [ワンダーランド](https://open.spotify.com/album/7s8ehl5oKWpGPiuLVA1WBO) | 3:18 | 2023-02-21 | 2023-02-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,161 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,276 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 4 | [El Hob Elly Kan](https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [El Layali](https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6) | 19:45 |
 | 5 | [Yana Yana](https://open.spotify.com/track/5hUQKHs3lnt0dU5UO5ozZV) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 5:05 |
 | 6 | [Kifak Inta](https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 3:31 |
-| 7 | [Alf Leila We Leila](https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 1](https://open.spotify.com/album/4fr12i7Bw7CC6fvGA6bnkn) | 41:37 |
-| 8 | [Haramt Ahebak](https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Haramt Ahebak](https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo) | 7:56 |
+| 7 | [Haramt Ahebak](https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Haramt Ahebak](https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo) | 7:56 |
+| 8 | [Alf Leila We Leila](https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 1](https://open.spotify.com/album/4fr12i7Bw7CC6fvGA6bnkn) | 41:37 |
 | 9 | [Ana Baashaak](https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ana Baashaak](https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG) | 37:02 |
 | 10 | [Zay Elasal](https://open.spotify.com/track/6WL468M0cawkNfDIXMsjPK) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 8:31 |
 | 11 | [Ana Bashaa El Bahr](https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Eyoun El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 5:29 |
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 21 | [Gana El Hawa Live](https://open.spotify.com/track/4vN8c5cbkX3Zg9NyWGf661) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [El Toba](https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu) | 12:22 |
 | 22 | [Al Yadi El Yadi](https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Rege'et Wahdi](https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx) | 3:13 |
 | 23 | [Sallimleh Alayh](https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:49 |
-| 24 | [Baeed Annak](https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Best Of Umm Kulthum 1](https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I) | 38:22 |
-| 25 | [Andak Bahariya](https://open.spotify.com/track/1Ub49Mz15iM2aur0EnTAik) | [Najah Salam](https://open.spotify.com/artist/2h3ONlkzMRAAkanWyh9RTR), [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z), [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Melodies from Lebanon](https://open.spotify.com/album/1gjPfpklxI7kwtl7k0wGDR) | 8:15 |
+| 24 | [Andak Bahariya](https://open.spotify.com/track/1Ub49Mz15iM2aur0EnTAik) | [Najah Salam](https://open.spotify.com/artist/2h3ONlkzMRAAkanWyh9RTR), [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z), [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Melodies from Lebanon](https://open.spotify.com/album/1gjPfpklxI7kwtl7k0wGDR) | 8:15 |
+| 25 | [Baeed Annak](https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Best Of Umm Kulthum 1](https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I) | 38:22 |
 | 26 | [Ya Habaiby Ya Ghaiben](https://open.spotify.com/track/1P1PnCp10v113ANU6WUfHa) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Nagham Fi Hayati](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 8:25 |
 | 27 | [Alayl Ya Layla](https://open.spotify.com/track/1SGE7yd8w2bm8zt32pxs9Y) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Best of Wadih El Safi, Vol\. 1](https://open.spotify.com/album/297hr38v9aZGdsNgHoD9K2) | 6:11 |
 | 28 | [Ala Babee Waqef Qamaren](https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Badak Maleoun Seneh](https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va) | 15:54 |
-| 29 | [Fakarouny](https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 59:37 |
-| 30 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 |
+| 29 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 |
+| 30 | [Fakarouny](https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 59:37 |
 | 31 | [Laktob Aourak El Chagar](https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Hikayet El Omr Kolloh \- Zaman Ya Hob](https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk) | 7:37 |
 | 32 | [علي رمش عيونها](https://open.spotify.com/track/1oEVDEISjcVi6vfgoxRDKQ) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [احلي ما غني وديع الصافي](https://open.spotify.com/album/4VGKoa5R2usWUVP3H1OPkv) | 5:44 |
 | 33 | [Wahashtini](https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:16 |

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1744764,
+  "num_followers": 1745117,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Bad Animals",
-        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 193120,
       "name": "Baby Can I Hold You",
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Bad Animals",
+        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Picture Book (Expanded Version)",
         "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 269840,
       "name": "Holding Back the Years - 2008 Remaster",
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "A New Flame (Expanded Version)",
         "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
+        "name": "New Jersey (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
       },
       "artists": [
         {
-          "name": "Bruce Hornsby and the Range",
-          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 297847,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
+      "duration_ms": 346586,
+      "name": "I'll Be There For You",
+      "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "New Jersey (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Bruce Hornsby and the Range",
+          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
         }
       ],
-      "duration_ms": 346586,
-      "name": "I'll Be There For You",
-      "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
+      "duration_ms": 297847,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "One More Night - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 324040,
       "name": "Biggest Part of Me",
       "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "One More Night - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1451,8 +1451,8 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "New Edition",
-        "url": "https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc"
+        "name": "Heart Break",
+        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
       },
       "artists": [
         {
@@ -1460,9 +1460,25 @@
           "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
         }
       ],
-      "duration_ms": 239160,
-      "name": "Mr. Telephone Man",
-      "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
+      "duration_ms": 297706,
+      "name": "Can You Stand The Rain",
+      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Stars (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 257759,
+      "name": "For Your Babies",
+      "url": "https://open.spotify.com/track/58zZvqjTZdm98YhZXvsATa"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1483,22 +1499,6 @@
       "duration_ms": 253784,
       "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
       "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "Stars (Collector's Edition)",
-        "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 257759,
-      "name": "For Your Babies",
-      "url": "https://open.spotify.com/track/58zZvqjTZdm98YhZXvsATa"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Heart Break",
-        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
+        "name": "New Edition",
+        "url": "https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc"
       },
       "artists": [
         {
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
         }
       ],
-      "duration_ms": 297706,
-      "name": "Can You Stand The Rain",
-      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
+      "duration_ms": 239160,
+      "name": "Mr. Telephone Man",
+      "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Best Of Chris Isaak",
-        "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 286880,
-      "name": "Wicked Game - Remastered",
-      "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 245733,
       "name": "Just Like Jesse James",
       "url": "https://open.spotify.com/track/5JGdpqo9wrRtOZtui5GShI"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Best Of Chris Isaak",
+        "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 286880,
+      "name": "Wicked Game - Remastered",
+      "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "All That Jazz",
+        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
+      },
+      "artists": [
+        {
+          "name": "Breathe",
+          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "Hands To Heaven",
+      "url": "https://open.spotify.com/track/0LBtQiEVfP4ysLQ43Do8uN"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 308133,
       "name": "I've Been In Love Before",
       "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "All That Jazz",
-        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
-      },
-      "artists": [
-        {
-          "name": "Breathe",
-          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
-        }
-      ],
-      "duration_ms": 259506,
-      "name": "Hands To Heaven",
-      "url": "https://open.spotify.com/track/0LBtQiEVfP4ysLQ43Do8uN"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Black & White (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Maxi",
         "url": "https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 218426,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Black & White (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "The Essential Cyndi Lauper",
-        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Introducing The Hardline According To Sananda Maitreya",
         "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 276533,
       "name": "Sign Your Name",
       "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "The Essential Cyndi Lauper",
+        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
     },
     {
       "added_at": "2026-05-04 14:51:52",

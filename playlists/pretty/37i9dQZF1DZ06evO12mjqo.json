@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 481973,
+  "num_followers": 482004,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABc4wFDwo8b3e+bc+0LIbbF",
+  "snapshot_id": "asbdAAAAAAB92a4zXYSzI3PhUR3Z/Om7",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Witch Image",
-      "url": "https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infestissumam",
         "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 350186,
       "name": "Year Zero",
       "url": "https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 210320,
+      "name": "Witch Image",
+      "url": "https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infestissumam",
         "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 353320,
       "name": "Monstrance Clock",
       "url": "https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Con Clavi Con Dio",
-      "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infestissumam",
         "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
       },
@@ -555,38 +539,6 @@
       "duration_ms": 238813,
       "name": "Jigolo Har Megiddo",
       "url": "https://open.spotify.com/track/1nLPwEsvylaNyep39luNRw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
-        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 296999,
-      "name": "Spirit - Live from Mexico City",
-      "url": "https://open.spotify.com/track/3tLHCRTjf7NscTAkocZ8oL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9"
     },
     {
       "added_at": null,
@@ -607,6 +559,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
+        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 296999,
+      "name": "Spirit - Live from Mexico City",
+      "url": "https://open.spotify.com/track/3tLHCRTjf7NscTAkocZ8oL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Infestissumam",
         "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 102426,
       "name": "Infestissumam",
       "url": "https://open.spotify.com/track/7BwScOUaIcnABifoNlK9e9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Con Clavi Con Dio",
+      "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 278106,
-      "name": "Satan Prayer",
-      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infestissumam",
         "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 249146,
       "name": "Per Aspera Ad Inferi",
       "url": "https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 278106,
+      "name": "Satan Prayer",
+      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
     },
     {
       "added_at": null,

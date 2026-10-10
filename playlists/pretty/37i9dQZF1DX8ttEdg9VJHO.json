@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 367557,
+  "num_followers": 367537,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-10-01 22:01:07",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2026-10-01 22:01:07",
-      "album": {
         "name": "Stop The Wedding!",
         "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 198840,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "added_at": "2026-10-01 22:01:07",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
       "added_at": "2026-10-01 22:01:07",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-10-01 22:01:07",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
-    },
-    {
-      "added_at": "2026-10-01 22:01:07",
-      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 181522,
       "name": "If We Have Each Other",
       "url": "https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF"
+    },
+    {
+      "added_at": "2026-10-01 22:01:07",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "added_at": "2026-10-01 22:01:07",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-10-01 22:01:07",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "Lost The Breakup",
-      "url": "https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf"
-    },
-    {
-      "added_at": "2026-10-01 22:01:07",
-      "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 180581,
       "name": "Ready To Be Loved",
       "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
+    },
+    {
+      "added_at": "2026-10-01 22:01:07",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "Lost The Breakup",
+      "url": "https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf"
     },
     {
       "added_at": "2026-10-01 22:01:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-01 22:01:07",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j"
-    },
-    {
-      "added_at": "2026-10-01 22:01:07",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 176040,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
+    },
+    {
+      "added_at": "2026-10-01 22:01:07",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j"
     },
     {
       "added_at": "2026-10-01 22:01:07",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-10-01 22:01:07",
       "album": {
-        "name": "How Beautiful This Life Is",
-        "url": "https://open.spotify.com/album/2CshB3bOrYGHuXyIu9FsP9"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 161093,
-      "name": "Yesterday, Today, Tomorrow",
-      "url": "https://open.spotify.com/track/2rz6LNSkIKcG1ulv67HNZZ"
-    },
-    {
-      "added_at": "2026-10-01 22:01:07",
-      "album": {
         "name": "I Made It",
         "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 269538,
       "name": "I Made It",
       "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+    },
+    {
+      "added_at": "2026-10-01 22:01:07",
+      "album": {
+        "name": "How Beautiful This Life Is",
+        "url": "https://open.spotify.com/album/2CshB3bOrYGHuXyIu9FsP9"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 161093,
+      "name": "Yesterday, Today, Tomorrow",
+      "url": "https://open.spotify.com/track/2rz6LNSkIKcG1ulv67HNZZ"
     },
     {
       "added_at": "2026-10-01 22:01:07",

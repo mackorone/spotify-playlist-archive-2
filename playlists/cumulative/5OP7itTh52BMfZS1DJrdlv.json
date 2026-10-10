@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Christmas in New England",
+        "url": "https://open.spotify.com/album/2lOq547LxWZumv19kK2Aw4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Peter Murphy",
+          "url": "https://open.spotify.com/artist/3Mtej0J9pd8zxe4vnbZcMP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244475,
+      "name": "Christmas in New England",
+      "url": "https://open.spotify.com/track/1EC1ZsLtwpCYtnmH5gwFnF"
+    },
+    {
+      "album": {
         "name": "Christmas in Our Hearts",
         "url": "https://open.spotify.com/album/1M1Gi9L0gttpvARre57p7y"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 133441,
       "name": "Good All Year",
       "url": "https://open.spotify.com/track/7tpZbY9001r2p5ehkaYYmb"

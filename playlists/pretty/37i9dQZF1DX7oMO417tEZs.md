@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 ### [Proto\-](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: OAKK
+> ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: femtanyl
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,279 likes - 88 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,300 likes - 88 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 87 | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/track/4S0TvmAnhdoEXmCTmiFNp6) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/album/6V2s6MGb8X7C9eZfDhF7Jy) | 7:10 |
 | 88 | [MUSIC SAVED MY LIFE](https://open.spotify.com/track/11s4KWKnusrlkZspPoQNyA) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [BEFORE GRANDE](https://open.spotify.com/album/3V2tbjvK7Yl9gquooDh08f) | 3:27 |
 
-Snapshot ID: `AAAAAEq/HMmVMKpuSgWmPaJ4ng4B2z90`
+Snapshot ID: `AAAAAHc13qqI4WX5tCrPwK5bAFGepyNw`

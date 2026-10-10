@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,907 likes - 133 songs - 8 hr 33 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,906 likes - 134 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,5 +141,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 131 | [No Dreams In Your Eyes](https://open.spotify.com/track/6RKwl6hSnS6jawPDnDNwtZ) | [Merlin Swann](https://open.spotify.com/artist/6SnhBPrv5OriKL1Ywet26r) | [Just Two Kids](https://open.spotify.com/album/03uNZiuseMMIt1EsUel7Fx) | 3:34 |
 | 132 | [Shots Fired](https://open.spotify.com/track/1CUbH9qBSyMz7cdvUnapiF) | [AudioCide](https://open.spotify.com/artist/2a1Pi1SeB9Uvo5yKa2QPel) | [Shots Fired](https://open.spotify.com/album/6kuzz2EA3vlhegoE0WxyQa) | 4:40 |
 | 133 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
+| 134 | [Adrenaline](https://open.spotify.com/track/4zrQH961tUHDOG2KLxaLYv) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [Adrenaline](https://open.spotify.com/album/3BplHVb9o00Yro8rvfBWim) | 2:44 |
 
-Snapshot ID: `AAAMsovAPF0kFzlC2FNdtr+wYfSHopJv`
+Snapshot ID: `AAAMsxqlMKEShW/8qfbiBsS6ltmglN8a`

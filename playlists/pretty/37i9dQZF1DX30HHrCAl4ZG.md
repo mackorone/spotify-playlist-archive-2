@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Wishy
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,439 likes - 164 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,381 likes - 164 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

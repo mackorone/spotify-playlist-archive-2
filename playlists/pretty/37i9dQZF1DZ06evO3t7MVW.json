@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 100391,
+  "num_followers": 100396,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADjxbsrqIXLMHzTohpqvESp",
+  "snapshot_id": "asbdAAAAAAD2ws44n1eH4lgg33Q7jy+K",
   "tracks": [
     {
       "added_at": null,
@@ -60,9 +60,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 269500,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
+      "duration_ms": 266481,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea"
     },
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 266481,
-      "name": "All for You",
-      "url": "https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea"
+      "duration_ms": 269500,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+        "name": "Set in Stone",
+        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
+      "duration_ms": 305493,
+      "name": "Choice Is Yours (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set in Stone",
-        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 305493,
-      "name": "Choice Is Yours (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx"
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
     },
     {
       "added_at": null,
@@ -419,26 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got Me On The Run (with Stick Figure and Pepper)",
-        "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
+        "name": "Easy to Love You",
+        "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
       },
       "artists": [
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "KBong",
+          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
         }
       ],
-      "duration_ms": 274498,
-      "name": "Got Me On The Run (with Stick Figure and Pepper)",
-      "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
+      "duration_ms": 269090,
+      "name": "Middle of the Ocean",
+      "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
     },
     {
       "added_at": null,
@@ -459,22 +455,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy to Love You",
-        "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
+        "name": "Got Me On The Run (with Stick Figure and Pepper)",
+        "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
       "artists": [
         {
-          "name": "KBong",
-          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
         }
       ],
-      "duration_ms": 269090,
-      "name": "Middle of the Ocean",
-      "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
+      "duration_ms": 274498,
+      "name": "Got Me On The Run (with Stick Figure and Pepper)",
+      "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set in Stone",
-        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "In This Love",
-      "url": "https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasure (with Stick Figure)",
         "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 202457,
       "name": "Treasure (with Stick Figure)",
       "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set in Stone",
+        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "In This Love",
+      "url": "https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 279323,
+      "name": "Just Another Dream",
+      "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 274813,
       "name": "Out the Door",
       "url": "https://open.spotify.com/track/6fo3vAnEA8NLICFCzYfVI8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 255439,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 255439,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wisdom",
         "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 323068,
       "name": "Old Sunrise",
       "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 279323,
-      "name": "Just Another Dream",
-      "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 256588,
-      "name": "Fall into the Sun",
-      "url": "https://open.spotify.com/track/0dpdFqEAwSh3KPcIiLxSMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 266549,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 256588,
+      "name": "Fall into the Sun",
+      "url": "https://open.spotify.com/track/0dpdFqEAwSh3KPcIiLxSMP"
     },
     {
       "added_at": null,

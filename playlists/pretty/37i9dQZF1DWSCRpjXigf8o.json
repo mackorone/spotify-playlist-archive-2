@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88638,
+  "num_followers": 88642,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Fall Into You",
         "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 168658,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Apple",
-        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
-      },
-      "artists": [
-        {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Pools of Colour",
-        "url": "https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL"
-      },
-      "artists": [
-        {
-          "name": "junodream",
-          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
-        }
-      ],
-      "duration_ms": 228398,
-      "name": "Pools of Colour",
-      "url": "https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 191000,
       "name": "Sweet Lies (feat. Miyu Takeuchi)",
       "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Pools of Colour",
+        "url": "https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "duration_ms": 228398,
+      "name": "Pools of Colour",
+      "url": "https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1361,26 +1361,6 @@
       "url": "https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk"
     },
     {
-      "added_at": "2026-05-21 15:00:24",
-      "album": {
-        "name": "la misma piedra",
-        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
-      },
-      "artists": [
-        {
-          "name": "Ton Felices",
-          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 216996,
-      "name": "la misma piedra",
-      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
@@ -1411,6 +1391,26 @@
       "duration_ms": 161720,
       "name": "\u9f13\u52d5",
       "url": "https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk"
+    },
+    {
+      "added_at": "2026-05-21 15:00:24",
+      "album": {
+        "name": "la misma piedra",
+        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
+      },
+      "artists": [
+        {
+          "name": "Ton Felices",
+          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 216996,
+      "name": "la misma piedra",
+      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "Place Your Hands",
+        "url": "https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Place Your Hands",
+      "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 2 - \u9ad8\u6728\u6b63\u52dd \u3046\u305f\u306e\u6642\u9593",
         "url": "https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 211358,
       "name": "Tanana",
       "url": "https://open.spotify.com/track/5U1bU8Km0S3jrMfY0udtsu"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Place Your Hands",
-        "url": "https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Place Your Hands",
-      "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1659,26 +1659,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Your Light",
-        "url": "https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ"
+        "name": "I know",
+        "url": "https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs"
       },
       "artists": [
         {
-          "name": "8WHAT",
-          "url": "https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i"
-        },
-        {
-          "name": "Alisara Arial",
-          "url": "https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP"
-        },
-        {
-          "name": "YiDD",
-          "url": "https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk"
+          "name": "SOIII",
+          "url": "https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Your Light",
-      "url": "https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ"
+      "duration_ms": 232820,
+      "name": "I know",
+      "url": "https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60"
     }
   ],
   "unique_name": "Mid Tempo Magic",

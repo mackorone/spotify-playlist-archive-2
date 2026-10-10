@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,272 likes - 125 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,247 likes - 125 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,18 +104,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 94 | [Ya No Me Perteneces](https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK) | [Black Power](https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O) | [Black Power](https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0) | 4:27 |
 | 95 | [Pobre Corazon](https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Solo Exitos](https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg) | 4:07 |
 | 96 | [La Cumbia Señal](https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9) | [La Nueva Orquesta Sonidera](https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB) | [La Cumbia Señal](https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj) | 6:15 |
-| 97 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
-| 98 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
+| 97 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
+| 98 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
 | 99 | [Donde Estaras](https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 3:43 |
 | 100 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
 | 101 | [Rumba Frenesi](https://open.spotify.com/track/5jvfvwBAiW0LBm0I7ou4G2) | [Alberto Pedraza](https://open.spotify.com/artist/54RMaVyxUKrZlSCkvMtU4G) | [Video Cumbias Pa' Bailar 2](https://open.spotify.com/album/5UvXruYgho8IhZr3W7h1Ie) | 5:09 |
-| 102 | [Quedate Con Él](https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:36 |
-| 103 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
+| 102 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
+| 103 | [Quedate Con Él](https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:36 |
 | 104 | [Aléjate de Mi](https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W) | [Mexikolombia](https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T) | [Sin Mirar Atrás](https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX) | 3:16 |
-| 105 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
-| 106 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
-| 107 | [Dejame Pensar](https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Dejame Pensar](https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF) | 4:37 |
-| 108 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
+| 105 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
+| 106 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
+| 107 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
+| 108 | [Dejame Pensar](https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Dejame Pensar](https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF) | 4:37 |
 | 109 | [El Final de Nuestra Historia](https://open.spotify.com/track/4m2r8uvZFYzhWNMtEonxKn) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Haciendo Historia](https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e) | 4:36 |
 | 110 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 |
 | 111 | [Cumbia Yemaya](https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 2](https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz) | 3:16 |

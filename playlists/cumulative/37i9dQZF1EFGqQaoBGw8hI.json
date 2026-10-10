@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 206266,
       "name": "Blue Eyes - Remastered 2003",
       "url": "https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5"
@@ -7795,6 +7795,24 @@
     },
     {
       "album": {
+        "name": "Rock Of The Westies",
+        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375266,
+      "name": "Medley: Yell Help / Wednesday Night / Ugly",
+      "url": "https://open.spotify.com/track/1wDOwrbOEQOrcSldtK2riK"
+    },
+    {
+      "album": {
         "name": "The Muse (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
       },
@@ -8460,7 +8478,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"

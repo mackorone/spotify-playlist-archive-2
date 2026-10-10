@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604730,
+  "num_followers": 604687,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Go For Broke",
-        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
+        "name": "2 LITER SPITE",
+        "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
       },
       "artists": [
         {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 170181,
-      "name": "Go For Broke",
-      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
+      "duration_ms": 183500,
+      "name": "2 LITER SPITE",
+      "url": "https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -507,34 +507,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "2 LITER SPITE",
-        "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
+        "name": "Go For Broke",
+        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 183500,
-      "name": "2 LITER SPITE",
-      "url": "https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "Dissolve Me",
-        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
+      "duration_ms": 170181,
+      "name": "Go For Broke",
+      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -551,6 +535,22 @@
       "duration_ms": 202911,
       "name": "Wrist",
       "url": "https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Dissolve Me",
+        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Is This What I\u2019m Made Of",
-        "url": "https://open.spotify.com/album/3Q9younKbwLWzsGLjYBZ6R"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "Is This What I\u2019m Made Of",
-      "url": "https://open.spotify.com/track/7HEfIJthGxKtM7espJqtIF"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 162000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Is This What I\u2019m Made Of",
+        "url": "https://open.spotify.com/album/3Q9younKbwLWzsGLjYBZ6R"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "Is This What I\u2019m Made Of",
+      "url": "https://open.spotify.com/track/7HEfIJthGxKtM7espJqtIF"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Vodka Soda",
         "url": "https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 193714,
       "name": "Vodka Soda",
       "url": "https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "FAKE FEELINGS",
         "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 185741,
       "name": "FAKE FEELINGS",
       "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "As It Is",
-        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 213364,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "LET'S DO SOMETHING STUPID!",
         "url": "https://open.spotify.com/album/4gyEST1wQDRwIcGTXbsnDX"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 165106,
       "name": "Right Thing, Wrong Time (feat. State Champs)",
       "url": "https://open.spotify.com/track/1SHycdx16OZ7Qp2GMm8QR2"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "As It Is",
+        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 213364,
+      "name": "Do You Remember?",
+      "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Fields Behind The House",
-        "url": "https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF"
-      },
-      "artists": [
-        {
-          "name": "Oakwood",
-          "url": "https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Fields Behind the House",
-      "url": "https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Don't Let Me Get Too Low",
         "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 158999,
       "name": "Don't Let Me Get Too Low",
       "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Fields Behind The House",
+        "url": "https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF"
+      },
+      "artists": [
+        {
+          "name": "Oakwood",
+          "url": "https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Fields Behind the House",
+      "url": "https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "me against me",
-        "url": "https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 223229,
-      "name": "me against me",
-      "url": "https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Who Will Look After The Dogs?",
         "url": "https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 119481,
       "name": "No Hope",
       "url": "https://open.spotify.com/track/0OAQGBvxb4XiZCBmsl7nZZ"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "me against me",
+        "url": "https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 223229,
+      "name": "me against me",
+      "url": "https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Circulate",
-        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 159537,
-      "name": "Circulate",
-      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "F.O.M.O.",
         "url": "https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 180563,
       "name": "F.O.M.O.",
       "url": "https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Circulate",
+        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 159537,
+      "name": "Circulate",
+      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "LANDSLIDE",
-        "url": "https://open.spotify.com/album/7MUzrLfPEFJ1am5ZAoWkLF"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
       },
       "artists": [
         {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
         }
       ],
-      "duration_ms": 149943,
-      "name": "LANDSLIDE",
-      "url": "https://open.spotify.com/track/4X5KLpeHYDFBwwhoOkN2q2"
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

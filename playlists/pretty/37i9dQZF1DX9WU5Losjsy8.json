@@ -1,6 +1,6 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 499237,
+  "num_followers": 499241,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-10-08 22:01:50",
       "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "added_at": "2026-10-08 22:01:50",
+      "album": {
         "name": "Handwerker",
         "url": "https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 205842,
       "name": "Handwerker",
       "url": "https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz"
-    },
-    {
-      "added_at": "2026-10-08 22:01:50",
-      "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
     },
     {
       "added_at": "2026-10-08 22:01:50",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-10-08 22:01:50",
       "album": {
-        "name": "Schau mal herein",
-        "url": "https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        },
-        {
-          "name": "Florian Silbereisen",
-          "url": "https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Schau mal herein",
-      "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
-    },
-    {
-      "added_at": "2026-10-08 22:01:50",
-      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "added_at": "2026-10-08 22:01:50",
+      "album": {
+        "name": "Schau mal herein",
+        "url": "https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        },
+        {
+          "name": "Florian Silbereisen",
+          "url": "https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Schau mal herein",
+      "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
     },
     {
       "added_at": "2026-10-08 22:01:50",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-10-08 22:01:50",
       "album": {
-        "name": "Sonne, Mond & Playa",
-        "url": "https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM"
+        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
+        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
       },
       "artists": [
         {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+          "name": "Pur",
+          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
         }
       ],
-      "duration_ms": 188833,
-      "name": "Sonne, Mond & Playa",
-      "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
+      "duration_ms": 280852,
+      "name": "Abenteuerland",
+      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
     },
     {
       "added_at": "2026-10-08 22:01:50",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2026-10-08 22:01:50",
       "album": {
-        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
-        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
+        "name": "Sonne, Mond & Playa",
+        "url": "https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM"
       },
       "artists": [
         {
-          "name": "Pur",
-          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
         }
       ],
-      "duration_ms": 280852,
-      "name": "Abenteuerland",
-      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
+      "duration_ms": 188833,
+      "name": "Sonne, Mond & Playa",
+      "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
     },
     {
       "added_at": "2026-10-08 22:01:50",

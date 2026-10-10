@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,406 likes - 31 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,425 likes - 31 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 2 | [NOCHES FRÍAS](https://open.spotify.com/track/4YVLgx6LURPo1VNeaqBT5x) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:52 |
 | 3 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 |
 | 4 | [Cielo Eterno](https://open.spotify.com/track/5BHyssNPTVo1Exf7LPVtrO) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 4:04 |
-| 5 | [Japón](https://open.spotify.com/track/5guJSVFfWTCkD1w7kfQJZA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 4:21 |
+| 5 | [ROSA PASTEL](https://open.spotify.com/track/4yjeRuoVickg1G87LWeRes) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:24 |
 | 6 | [CORAZÓN FRÍO](https://open.spotify.com/track/3SaYCT004qZHjezJ4orzFZ) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 4:23 |
-| 7 | [ROSA PASTEL](https://open.spotify.com/track/4yjeRuoVickg1G87LWeRes) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:24 |
+| 7 | [Japón](https://open.spotify.com/track/5guJSVFfWTCkD1w7kfQJZA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 4:21 |
 | 8 | [Formula One](https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Formula One](https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI) | 3:05 |
-| 9 | [Adicción](https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:53 |
+| 9 | [Madrid](https://open.spotify.com/track/5T9CTDe93Oj93n9M1bYFdM) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Madrid](https://open.spotify.com/album/51GmWpEhHzRosHUxOfCkY7) | 3:06 |
 | 10 | [0 SENTIMIENTOS](https://open.spotify.com/track/1aBgobDtEToIQvHmjaMD1x) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:15 |
-| 11 | [Madrid](https://open.spotify.com/track/5T9CTDe93Oj93n9M1bYFdM) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Madrid](https://open.spotify.com/album/51GmWpEhHzRosHUxOfCkY7) | 3:06 |
+| 11 | [Adicción](https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:53 |
 | 12 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 |
-| 13 | [Miento](https://open.spotify.com/track/4WeMHNLpQkxKd7raU20wZd) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:03 |
+| 13 | [ME ACTIVO](https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:55 |
 | 14 | [HOLOCAUSTO NUCLEAR](https://open.spotify.com/track/4khbwjIk7vG1NA0W3ILdoF) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:52 |
-| 15 | [ME ACTIVO](https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:55 |
+| 15 | [Miento](https://open.spotify.com/track/4WeMHNLpQkxKd7raU20wZd) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:03 |
 | 16 | [Linda Mujer](https://open.spotify.com/track/4iRdARZrb4eD80jlqRHx6i) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Linda Mujer](https://open.spotify.com/album/6cjEhqFijFqThr4IsYpkkH) | 4:20 |
 | 17 | [Jugando a Perder](https://open.spotify.com/track/2HCBHEC5GOevDnWTIP7OH3) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS) | [Las Que Te Escribí y Nunca Te Canté](https://open.spotify.com/album/2LaGANWLbDpG6A1Mcpj6SB) | 4:33 |
 | 18 | [EN MI MUNDO](https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 5:07 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 30 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
 | 31 | [Bien High](https://open.spotify.com/track/1vuaoGdmz8yVNcucQ5Rq2q) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Bien High](https://open.spotify.com/album/5lcssTyl6yVlMSVQUyPDJa) | 3:27 |
 
-Snapshot ID: `asLogAAAAAAlL0gm+YykxCpns7+AFRjI`
+Snapshot ID: `asbdAAAAAAD/zHEV+b9hw9Hp3pAzFlFF`

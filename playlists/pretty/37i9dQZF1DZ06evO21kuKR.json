@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 99384,
+  "num_followers": 99389,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAVAjLa85u71agW+3/EmMPp",
+  "snapshot_id": "asbdAAAAAADXN2HSYL02JARjxvR5e1jY",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Federal 3X",
-        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 204073,
-      "name": "Side B!+$#es",
-      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 167332,
       "name": "Don't Kno",
       "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Federal 3X",
+        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 204073,
+      "name": "Side B!+$#es",
+      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
     },
     {
       "added_at": null,
@@ -587,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+        "name": "Blockchain",
+        "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
       },
       "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 240917,
-      "name": "If Pain Was A Person",
-      "url": "https://open.spotify.com/track/08Uu8bkE5fuHbjhnZFsyoz"
+      "duration_ms": 195153,
+      "name": "LLC (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
     },
     {
       "added_at": null,
@@ -623,28 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blockchain",
-        "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 195153,
-      "name": "LLC (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 186845,
-      "name": "Where Ya Bih @",
-      "url": "https://open.spotify.com/track/0p6sfWcC7BxC8Pj2DP8Vfr"
+      "duration_ms": 240917,
+      "name": "If Pain Was A Person",
+      "url": "https://open.spotify.com/track/08Uu8bkE5fuHbjhnZFsyoz"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 133631,
       "name": "Switches & Dracs (with Lil Durk feat. EST Gee)",
       "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Where Ya Bih @",
+      "url": "https://open.spotify.com/track/0p6sfWcC7BxC8Pj2DP8Vfr"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Gangsta\u2019s Pain: Reloaded",
+        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 131005,
+      "name": "Wat Be Wrong??",
+      "url": "https://open.spotify.com/track/2dTTzrWtpAN98pTYYRbMJB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Of A Hotboii",
         "url": "https://open.spotify.com/album/02sXWcIVVNCGr6WE30UJyZ"
       },
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain: Reloaded",
-        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 131005,
-      "name": "Wat Be Wrong??",
-      "url": "https://open.spotify.com/track/2dTTzrWtpAN98pTYYRbMJB"
+      "duration_ms": 142437,
+      "name": "Motion God",
+      "url": "https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 204557,
       "name": "Doin 2 Much",
       "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 142437,
-      "name": "Motion God",
-      "url": "https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        }
-      ],
-      "duration_ms": 133136,
-      "name": "OUTTA TOWN (feat. BossMan Dlow)",
-      "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
       },
@@ -871,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 176527,
+      "name": "In da Air",
+      "url": "https://open.spotify.com/track/3Av4FkyTixUk20htpZlwZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -887,18 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
       "artists": [
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
         }
       ],
-      "duration_ms": 176527,
-      "name": "In da Air",
-      "url": "https://open.spotify.com/track/3Av4FkyTixUk20htpZlwZY"
+      "duration_ms": 133136,
+      "name": "OUTTA TOWN (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
     },
     {
       "added_at": null,

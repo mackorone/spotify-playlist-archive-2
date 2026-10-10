@@ -4925,6 +4925,24 @@
     },
     {
       "album": {
+        "name": "Started From The Holler",
+        "url": "https://open.spotify.com/album/6N1kVADLuQBz8UeNdoSpOp"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201456,
+      "name": "Started From The Holler",
+      "url": "https://open.spotify.com/track/6TLVUgJLPo7I4dkvVDIR81"
+    },
+    {
+      "album": {
         "name": "Stay in Your Lane",
         "url": "https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh"
       },

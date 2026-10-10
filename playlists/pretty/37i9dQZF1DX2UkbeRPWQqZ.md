@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,538 likes - 98 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,542 likes - 98 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 97 | [In My Arms Again](https://open.spotify.com/track/6DdZkGNXrDP9SGPbsfEwmI) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [In My Arms Again](https://open.spotify.com/album/0x3Jsqs6vXGb4gpRam46Fo) | 1:55 |
 | 98 | [Daisy Bell](https://open.spotify.com/track/72i5koWfpsQN8AzUEz7KBf) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Guitar Lullabies](https://open.spotify.com/album/7jCdBijkzNHKxB6wGHtUGk) | 2:21 |
 
-Snapshot ID: `AAAAAP1rNb1q7rLYO5PYJPJSV8ia0C6X`
+Snapshot ID: `AAAAAGCCbM9q6ZcqBSn4/8PfxlbOx2Ok`

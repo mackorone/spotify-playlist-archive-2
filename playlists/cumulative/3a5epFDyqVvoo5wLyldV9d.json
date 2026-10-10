@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "El Aaiun Egdat",
+        "url": "https://open.spotify.com/album/2Umu4VppwSC4dO9YS4NOsS"
+      },
+      "artists": [
+        {
+          "name": "Mariem Hassan",
+          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323153,
+      "name": "Ana Saharauia",
+      "url": "https://open.spotify.com/track/68DBgKFFvkBGgEWljgDrTS"
+    },
+    {
+      "album": {
         "name": "Sons of Ethiopia",
         "url": "https://open.spotify.com/album/0YutPaipVH9qoIwMdI81QW"
       },
@@ -8328,6 +8346,24 @@
       "duration_ms": 343600,
       "name": "Ma Huno",
       "url": "https://open.spotify.com/track/0E13ER49Am3UzRpahU5tk4"
+    },
+    {
+      "album": {
+        "name": "Aweeny Beek",
+        "url": "https://open.spotify.com/album/1J4MjWC0FIb4v6HzghTBiP"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240784,
+      "name": "Ma Khalass",
+      "url": "https://open.spotify.com/track/6DRQoLPPaiHl6yX8VLYaBb"
     },
     {
       "album": {

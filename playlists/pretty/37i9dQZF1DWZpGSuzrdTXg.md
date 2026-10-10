@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,983 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,965 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lovesong](https://open.spotify.com/track/1OmvFEul06DRWow1ASDmm3) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Lovesong](https://open.spotify.com/album/25sE3Vx13NiCki6bHxzk3S) | 3:38 |
+| 1 | [Catch You](https://open.spotify.com/track/6ikOvPfy40gVDVt34WkoHk) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Catch You](https://open.spotify.com/album/5wZFv1zlIVCsda4SsvQTo8) | 3:17 |
 | 2 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
 | 3 | [The Heron](https://open.spotify.com/track/1NEzIEe4X1DxPUqQdz0SMc) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [The Heron](https://open.spotify.com/album/7JaPeFm4sXWVw8FMyqbtmq) | 2:50 |
 | 4 | [Figure Me Out](https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Figure Me Out](https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb) | 2:46 |
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 9 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
 | 10 | [This Is All I'll Be](https://open.spotify.com/track/0szz1ZU7v1NkYfMDQX7HeF) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [This Is All I'll Be](https://open.spotify.com/album/5ElZ82ll0Q0d1dFUdzEopC) | 3:10 |
 | 11 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 |
-| 12 | [Catch You](https://open.spotify.com/track/6ikOvPfy40gVDVt34WkoHk) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Catch You](https://open.spotify.com/album/5wZFv1zlIVCsda4SsvQTo8) | 3:17 |
-| 13 | [Wild Mountain Thyme](https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk) | [Roodnoot](https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI) | [Wild Mountain Thyme](https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d) | 4:28 |
-| 14 | [Light Over You](https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN) | [Janna](https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS) | [Light Over You](https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy) | 2:56 |
-| 15 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
-| 16 | [When My Eyes Were Empty](https://open.spotify.com/track/7ew9hyIYWlF5NrU0bJqXlP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [When My Eyes Were Empty](https://open.spotify.com/album/4XmQLa1dvlIoJ8S5nXHe53) | 3:30 |
+| 12 | [Wild Mountain Thyme](https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk) | [Roodnoot](https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI) | [Wild Mountain Thyme](https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d) | 4:28 |
+| 13 | [Light Over You](https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN) | [Janna](https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS) | [Light Over You](https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy) | 2:56 |
+| 14 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
+| 15 | [When My Eyes Were Empty](https://open.spotify.com/track/7ew9hyIYWlF5NrU0bJqXlP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [When My Eyes Were Empty](https://open.spotify.com/album/4XmQLa1dvlIoJ8S5nXHe53) | 3:30 |
+| 16 | [Lovesong](https://open.spotify.com/track/1OmvFEul06DRWow1ASDmm3) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Lovesong](https://open.spotify.com/album/25sE3Vx13NiCki6bHxzk3S) | 3:38 |
 | 17 | [Panacea](https://open.spotify.com/track/3Lw0P6202eEN0KG3rdRhxu) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Panacea](https://open.spotify.com/album/5tCSkZXGKuVYl6jRKGAnjy) | 4:42 |
 | 18 | [Light Behind The Moon \- Acoustic](https://open.spotify.com/track/58n5ZJQGKanPeD9cj8oLTE) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Light Behind The Moon \(Acoustic\)](https://open.spotify.com/album/4e649j0uvHqgGCv6AedN7h) | 3:01 |
 | 19 | [Swallows](https://open.spotify.com/track/3vS0mkHClcbn03knaxNz4l) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Swallows](https://open.spotify.com/album/0iiI1yAtnDZfDNx50O7Flh) | 5:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 | 100 | [Open Hearts \- Acoustic](https://open.spotify.com/track/7nozTCp1Zp3zCgg7oXfWLB) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts \(Acoustic\)](https://open.spotify.com/album/5Mf8DXVCe7LFM11oWcZLKp) | 3:45 |
 
-Snapshot ID: `AAAAAEkTMRC5yBy8gQJERaVpQ5DI1Ou3`
+Snapshot ID: `AAAAAJ15wdE3b8n4QcIIXNE0H67y8YSr`

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 205336,
+  "num_followers": 205349,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAACAA2f8hM6nOhx2aVjEk1qk",
+  "snapshot_id": "asbdAAAAAACSFGZhxJYRUdJsQDoF2jzu",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        }
-      ],
-      "duration_ms": 243436,
-      "name": "Just Breathe",
-      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 178733,
       "name": "Good Hearted Woman",
       "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "duration_ms": 243436,
+      "name": "Just Breathe",
+      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Smoke",
-        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 242920,
-      "name": "From Here to the Moon and Back",
-      "url": "https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yesterday's Wine",
         "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
       },
@@ -775,26 +755,6 @@
       "duration_ms": 229773,
       "name": "Me and Paul",
       "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To All The Girls...",
-        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Paula Nelson",
-          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
-        }
-      ],
-      "duration_ms": 279328,
-      "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
-      "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
     },
     {
       "added_at": null,
@@ -819,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To All The Girls...",
+        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Paula Nelson",
+          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
+        }
+      ],
+      "duration_ms": 279328,
+      "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
+      "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 50721,
       "name": "SMOKE HOUR \u2605 WILLIE NELSON",
       "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Smoke",
+        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 242920,
+      "name": "From Here to the Moon and Back",
+      "url": "https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk About",
-        "url": "https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT"
-      },
-      "artists": [
-        {
-          "name": "Mishka",
-          "url": "https://open.spotify.com/artist/69NJDQCAGapYsKD2JuqQk5"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Willie Nelson",
         "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
@@ -1031,6 +1011,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talk About",
+        "url": "https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT"
+      },
+      "artists": [
+        {
+          "name": "Mishka",
+          "url": "https://open.spotify.com/artist/69NJDQCAGapYsKD2JuqQk5"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Horse Called Music",
-        "url": "https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Nothing I Can Do About It Now",
-      "url": "https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Then I Wrote",
         "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
@@ -1095,22 +1079,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+        "name": "A Horse Called Music",
+        "url": "https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf"
       },
       "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 147507,
-      "name": "I Can Get off on You - Remastered",
-      "url": "https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt"
+      "duration_ms": 199160,
+      "name": "Nothing I Can Do About It Now",
+      "url": "https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo"
     },
     {
       "added_at": null,
@@ -1139,6 +1119,26 @@
       "duration_ms": 148440,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/4raGevWiW8i1gactXulebp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 147507,
+      "name": "I Can Get off on You - Remastered",
+      "url": "https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt"
     }
   ],
   "unique_name": "This Is Willie Nelson",

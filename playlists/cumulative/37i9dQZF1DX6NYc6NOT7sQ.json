@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 397500,
       "name": "A Ghost From The Past",
       "url": "https://open.spotify.com/track/4IpAG6GXTydEHUF3EpQXHp"
@@ -285,6 +285,28 @@
     },
     {
       "album": {
+        "name": "Akihi ( Surv Remix )",
+        "url": "https://open.spotify.com/album/5lRNzBB5ZwBYtsJcEK4r1a"
+      },
+      "artists": [
+        {
+          "name": "Takeshi's Cashew",
+          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
+        },
+        {
+          "name": "Surv",
+          "url": "https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309093,
+      "name": "Akihi - Surv Remix",
+      "url": "https://open.spotify.com/track/7L43S5tAvwiFfAM10FqKGJ"
+    },
+    {
+      "album": {
         "name": "Alageyik Destan\u0131 / Mo\u011fol Halay\u0131",
         "url": "https://open.spotify.com/album/46b4u9O93rd47B1UHgLvTX"
       },
@@ -356,6 +378,28 @@
       "duration_ms": 204878,
       "name": "All That She Wants - Axel Boman X Off The Meds Remix",
       "url": "https://open.spotify.com/track/4tmkNreV0nlayzaEOBwLJf"
+    },
+    {
+      "album": {
+        "name": "The Gumbo Limbo Experiment",
+        "url": "https://open.spotify.com/album/4MjO1bmzqZ8NRZvNUkZokZ"
+      },
+      "artists": [
+        {
+          "name": "Richie Hell",
+          "url": "https://open.spotify.com/artist/6r8AfZY1E8xBDO0df332Bn"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292363,
+      "name": "Amazonia",
+      "url": "https://open.spotify.com/track/5jKYsBWcGHARdFjoHuxbFS"
     },
     {
       "album": {
@@ -636,7 +680,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 341517,
       "name": "Benefit Of The Doubt",
       "url": "https://open.spotify.com/track/38ItKKmhWVWOWAGh217u31"
@@ -840,6 +884,24 @@
       "duration_ms": 344618,
       "name": "Cant Buy Love",
       "url": "https://open.spotify.com/track/4YJFGUiA9qnybz5rryMgAt"
+    },
+    {
+      "album": {
+        "name": "Afro Balearic EP",
+        "url": "https://open.spotify.com/album/29Kgmw11zk7ctPSPOw66y1"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Castillo",
+          "url": "https://open.spotify.com/artist/6K2D6lHehkLagzmMKgYc9V"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432866,
+      "name": "Casaradio - Original Mix",
+      "url": "https://open.spotify.com/track/4uRN2qBkyRBIsfz3fvTwWy"
     },
     {
       "album": {
@@ -1154,7 +1216,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 367841,
       "name": "DIRTY PRINTER",
       "url": "https://open.spotify.com/track/2YnVgsVvf0eg4zSkKSdWEh"
@@ -1245,6 +1307,28 @@
     },
     {
       "album": {
+        "name": "Echo of Essence",
+        "url": "https://open.spotify.com/album/3MwEUkbHonu8UVweTxQxQL"
+      },
+      "artists": [
+        {
+          "name": "Mees Dierdorp",
+          "url": "https://open.spotify.com/artist/2dUsAHSrnsFvNpNpAV4aGI"
+        },
+        {
+          "name": "Marc Daniel van Biemen",
+          "url": "https://open.spotify.com/artist/6GXFVBDE38fJP9odxNMv5J"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454904,
+      "name": "Echo of Essence",
+      "url": "https://open.spotify.com/track/2MI0N984oXBV4XkoV7fQQB"
+    },
+    {
+      "album": {
         "name": "A volta de Secos & Molhados",
         "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
       },
@@ -1318,6 +1402,24 @@
       "duration_ms": 312596,
       "name": "Exils",
       "url": "https://open.spotify.com/track/31S7AfrAvI8wtHDRbDpj4o"
+    },
+    {
+      "album": {
+        "name": "Toast",
+        "url": "https://open.spotify.com/album/719ox0GBgbRLT0glTllUZM"
+      },
+      "artists": [
+        {
+          "name": "Buttering Trio",
+          "url": "https://open.spotify.com/artist/5HthaLyG6SfVxEuA94MAjm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143853,
+      "name": "Falafel",
+      "url": "https://open.spotify.com/track/5NoLgvqo5ArR4BMamrpyRp"
     },
     {
       "album": {
@@ -1775,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Green Pastures",
+        "url": "https://open.spotify.com/album/6nvuJehznFMvmhTy9RHSE0"
+      },
+      "artists": [
+        {
+          "name": "States N Tones",
+          "url": "https://open.spotify.com/artist/1vY77AhIDRYQm1EZkEYF9O"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 774000,
+      "name": "Green Pastures",
+      "url": "https://open.spotify.com/track/0L19FE1wmgUzs3IrOcTIAa"
+    },
+    {
+      "album": {
         "name": "Night Songs",
         "url": "https://open.spotify.com/album/3FlXPVpKw2tMEGng6iPKzM"
       },
@@ -1904,7 +2024,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 283373,
       "name": "Heart Pieces - Nightmares On Wax Club Dub",
       "url": "https://open.spotify.com/track/0dEt696872g2SvvaIbtxSq"
@@ -2112,7 +2232,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 278693,
       "name": "If It Kills Me",
       "url": "https://open.spotify.com/track/6QLaFksSxR2VzgvhiNzq4k"
@@ -2134,7 +2254,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 212869,
       "name": "Il Lupo",
       "url": "https://open.spotify.com/track/1NK60zmQi4UBIwXyCxV2rK"
@@ -2293,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "Dancing Galactic",
+        "url": "https://open.spotify.com/album/5Kqzl32QscECzaGKmxjSwh"
+      },
+      "artists": [
+        {
+          "name": "Munk",
+          "url": "https://open.spotify.com/artist/24iyMncLWykfuMpJZcIjgn"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333093,
+      "name": "ITAL.o.v.e. 2002 - Raw Cut",
+      "url": "https://open.spotify.com/track/4ujziz3bynEJOQMPpq5kkA"
+    },
+    {
+      "album": {
         "name": "Joint Jazz",
         "url": "https://open.spotify.com/album/3RSTh5PjUbx5fedSzW54N7"
       },
@@ -2304,7 +2442,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 219677,
       "name": "Joint Jazz",
       "url": "https://open.spotify.com/track/1RHoqcH6ihNRTOjjKeTqzM"
@@ -2632,7 +2770,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 295384,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/02FGvZ5T8gm572cXfyminx"
@@ -2686,7 +2824,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 380383,
       "name": "Lone Rider",
       "url": "https://open.spotify.com/track/2rZXt6OLGjWhIKgKVauJlN"
@@ -2708,6 +2846,24 @@
       "duration_ms": 421600,
       "name": "Lonesome Lover",
       "url": "https://open.spotify.com/track/3y7ANjEoF3HQCQt4IBu2R3"
+    },
+    {
+      "album": {
+        "name": "It's a Myth",
+        "url": "https://open.spotify.com/album/3rS22VCHV1Phe8gRKpdPnc"
+      },
+      "artists": [
+        {
+          "name": "Sneaks",
+          "url": "https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197613,
+      "name": "Look Like That",
+      "url": "https://open.spotify.com/track/1k3eJPyK6hAXR3xiXcXSn3"
     },
     {
       "album": {
@@ -3613,6 +3769,32 @@
     },
     {
       "album": {
+        "name": "Road Trippin'",
+        "url": "https://open.spotify.com/album/3Vd7wf1dD2WRui5Wr6KFMA"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Lila Swain",
+          "url": "https://open.spotify.com/artist/35D5Ojj9GVGai20x190ChK"
+        },
+        {
+          "name": "Ton Voyaj",
+          "url": "https://open.spotify.com/artist/1OfzSzI6xiSDpxdW5A3qhk"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416500,
+      "name": "Road Trippin'",
+      "url": "https://open.spotify.com/track/45gxg0YztpA1F5Sk9fvqfb"
+    },
+    {
+      "album": {
         "name": "Robots In Lilac Spaceships",
         "url": "https://open.spotify.com/album/1pRQnDjYshduiknpZpWrPc"
       },
@@ -4513,6 +4695,44 @@
     },
     {
       "album": {
+        "name": "Welcome Sunset",
+        "url": "https://open.spotify.com/album/34upnQnI7HV1fe1jr1aiUf"
+      },
+      "artists": [
+        {
+          "name": "Sefi Zisling",
+          "url": "https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H"
+        },
+        {
+          "name": "Nenor",
+          "url": "https://open.spotify.com/artist/1HMwAssufObyNKkyHyCB3V"
+        },
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        },
+        {
+          "name": "Layla Moallem",
+          "url": "https://open.spotify.com/artist/2Lwzf4C9xTyqhi0yNJLXyS"
+        },
+        {
+          "name": "Keren Dun",
+          "url": "https://open.spotify.com/artist/7CRVu7ml6MhPG6F5d8A0hk"
+        },
+        {
+          "name": "Obas Nenor",
+          "url": "https://open.spotify.com/artist/3NI0j0KO6NdKddsYJyGFRA"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 658376,
+      "name": "The Sky Sings - Obas Nenor's Extended Dub",
+      "url": "https://open.spotify.com/track/7nImBcH7IvHFbDfMW8zbgo"
+    },
+    {
+      "album": {
         "name": "This Ordinary Night + Remixes",
         "url": "https://open.spotify.com/album/4BSDdk9bhttR3b5CSEabsl"
       },
@@ -4669,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "Miso Propin",
+        "url": "https://open.spotify.com/album/46dpMOfDV4refCgJholAuK"
+      },
+      "artists": [
+        {
+          "name": "Mees Dierdorp",
+          "url": "https://open.spotify.com/artist/2dUsAHSrnsFvNpNpAV4aGI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424397,
+      "name": "Toumate",
+      "url": "https://open.spotify.com/track/2aIkhKwyKyoDMp43qlXNYZ"
+    },
+    {
+      "album": {
         "name": "Trana's Story",
         "url": "https://open.spotify.com/album/1BvVIp8Ve6FhkWSEQCyWHR"
       },
@@ -4720,7 +4958,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 250493,
       "name": "Tripping In The 16Th",
       "url": "https://open.spotify.com/track/6cu6qCXiE8wVYbxRTfJybm"
@@ -4938,7 +5176,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 357120,
       "name": "Water",
       "url": "https://open.spotify.com/track/3URPEusEkLVXLp2FlAqCQN"
@@ -5124,7 +5362,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 199111,
       "name": "YANGINLAR",
       "url": "https://open.spotify.com/track/2rGCsUpYEtSzfZkal99iyF"
@@ -5204,6 +5442,28 @@
       "duration_ms": 344355,
       "name": "You Can Sit With Us",
       "url": "https://open.spotify.com/track/78adUoNdv1E8VXXFaTdo5G"
+    },
+    {
+      "album": {
+        "name": "You No Fit Touch Am (Retouched)",
+        "url": "https://open.spotify.com/album/2Xi0Cf3dh1kRU2fq2dJ1Dm"
+      },
+      "artists": [
+        {
+          "name": "Dele Sosimi",
+          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
+        },
+        {
+          "name": "Medlar",
+          "url": "https://open.spotify.com/artist/35844Qnlihy0XsZ2zzVljT"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570811,
+      "name": "You No Fit Touch Am - Medlar Remix",
+      "url": "https://open.spotify.com/track/1AeakTSnBi5waUXkP1CcRa"
     },
     {
       "album": {

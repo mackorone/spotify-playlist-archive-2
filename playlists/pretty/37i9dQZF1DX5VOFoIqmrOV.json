@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : 35 Chinna katha kadu!",
-  "num_followers": 469396,
+  "num_followers": 469449,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -443,8 +443,8 @@
     {
       "added_at": "2026-04-17 11:03:44",
       "album": {
-        "name": "Suvvi Suvvi (From \"They Call Him OG\")",
-        "url": "https://open.spotify.com/album/4ER8i28EsRzILUDk1JqTwO"
+        "name": "Mallika Gandha (From \"Telusu Kada\")",
+        "url": "https://open.spotify.com/album/6Gm0qQ2kYWsGfaaYaV69hP"
       },
       "artists": [
         {
@@ -452,17 +452,17 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Sruthi Ranjani",
-          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         },
         {
-          "name": "Kalyan Chakravarthy Tripuraneni",
-          "url": "https://open.spotify.com/artist/5blw1g0NOKg2g02hkN6Dgb"
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
         }
       ],
-      "duration_ms": 275128,
-      "name": "Suvvi Suvvi (From \"They Call Him OG\")",
-      "url": "https://open.spotify.com/track/2DjmhfEJojDTDyCepSXn9y"
+      "duration_ms": 261133,
+      "name": "Mallika Gandha (From \"Telusu Kada\")",
+      "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
     },
     {
       "added_at": "2022-02-09 09:10:51",
@@ -551,8 +551,8 @@
     {
       "added_at": "2026-04-17 11:03:44",
       "album": {
-        "name": "Mallika Gandha (From \"Telusu Kada\")",
-        "url": "https://open.spotify.com/album/6Gm0qQ2kYWsGfaaYaV69hP"
+        "name": "Suvvi Suvvi (From \"They Call Him OG\")",
+        "url": "https://open.spotify.com/album/4ER8i28EsRzILUDk1JqTwO"
       },
       "artists": [
         {
@@ -560,17 +560,17 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Sruthi Ranjani",
+          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
         },
         {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+          "name": "Kalyan Chakravarthy Tripuraneni",
+          "url": "https://open.spotify.com/artist/5blw1g0NOKg2g02hkN6Dgb"
         }
       ],
-      "duration_ms": 261133,
-      "name": "Mallika Gandha (From \"Telusu Kada\")",
-      "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
+      "duration_ms": 275128,
+      "name": "Suvvi Suvvi (From \"They Call Him OG\")",
+      "url": "https://open.spotify.com/track/2DjmhfEJojDTDyCepSXn9y"
     },
     {
       "added_at": "2022-10-17 05:05:06",
@@ -1237,30 +1237,6 @@
       "url": "https://open.spotify.com/track/5c22snIfXnckNXV4FkLVfs"
     },
     {
-      "added_at": "2023-05-04 06:50:45",
-      "album": {
-        "name": "Chitralahari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Sudharshan Ashok",
-          "url": "https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6"
-        },
-        {
-          "name": "Sreemani",
-          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
-        }
-      ],
-      "duration_ms": 217875,
-      "name": "Prema Vennela",
-      "url": "https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj"
-    },
-    {
       "added_at": "2024-01-04 06:17:05",
       "album": {
         "name": "Ammaadi (From \"Hi Nanna\")",
@@ -1283,6 +1259,30 @@
       "duration_ms": 219018,
       "name": "Ammaadi (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN"
+    },
+    {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Chitralahari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sudharshan Ashok",
+          "url": "https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        }
+      ],
+      "duration_ms": 217875,
+      "name": "Prema Vennela",
+      "url": "https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj"
     },
     {
       "added_at": "2025-06-17 05:15:49",
@@ -1801,22 +1801,6 @@
       "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Care Of Kancharapalem",
-        "url": "https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Asha Pasham",
-      "url": "https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Dhruva",
@@ -1831,6 +1815,26 @@
       "duration_ms": 193179,
       "name": "Pareshanura",
       "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Chalo",
+        "url": "https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Mahati Swara Sagar",
+          "url": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
+        }
+      ],
+      "duration_ms": 202111,
+      "name": "Choosi Chudangane",
+      "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
     },
     {
       "added_at": "2023-08-07 09:11:28",

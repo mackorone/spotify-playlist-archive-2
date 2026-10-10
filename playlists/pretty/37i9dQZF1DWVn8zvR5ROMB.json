@@ -1,12 +1,12 @@
 {
   "description": "Country music's latest offerings featuring Lainey Wilson, Joshua Slone, Chase Matthew and more. ",
-  "num_followers": 408492,
+  "num_followers": 408710,
   "original_name": "All New Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHAtjiPLIATT7agGfrE1QCR6GpkE",
+  "snapshot_id": "AAAAABiIDuFGkun17UenF5cmuZGGRxgS",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:38",
@@ -219,6 +219,22 @@
       "duration_ms": 186253,
       "name": "Something's Always Breaking",
       "url": "https://open.spotify.com/track/46eTuJbyBqwbHyIlfggFZ4"
+    },
+    {
+      "added_at": "2026-10-09 15:42:52",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/45pdjlUca5bO7Vm5JnR1DV"
+      },
+      "artists": [
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "duration_ms": 147154,
+      "name": "Hurt Me Tonight",
+      "url": "https://open.spotify.com/track/5NDFD45qTV9gc11JLS7JlA"
     },
     {
       "added_at": "2026-10-09 04:00:38",
@@ -467,6 +483,22 @@
       "duration_ms": 169608,
       "name": "Sobered Me Up",
       "url": "https://open.spotify.com/track/4GTiKaWfM7PjugIFLpT9gi"
+    },
+    {
+      "added_at": "2026-10-09 18:37:54",
+      "album": {
+        "name": "Lower",
+        "url": "https://open.spotify.com/album/775QTB1CHUaqOxcmojybOw"
+      },
+      "artists": [
+        {
+          "name": "Jaren Johnston",
+          "url": "https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs"
+        }
+      ],
+      "duration_ms": 153745,
+      "name": "Lower",
+      "url": "https://open.spotify.com/track/61HUrcDGg7yBJiUQTF7whR"
     },
     {
       "added_at": "2026-10-09 04:00:38",

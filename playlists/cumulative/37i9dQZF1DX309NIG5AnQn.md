@@ -4,7 +4,7 @@
 
 > rock alternativo y sudamericano\. <br/>📷 Pizza
 
-409 songs - 23 hr 11 min
+410 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Creer en Mí Otra Vez](https://open.spotify.com/track/57VKnbRY9PSOHIZtOJ2v1L) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6) | [Creer en Mí Otra Vez](https://open.spotify.com/album/79fP9rAJMPppeJs2TJ1Zln) | 2:23 | 2023-04-07 | 2025-10-25 |
 | [Cruel \- Budaya Remix](https://open.spotify.com/track/21ixBRM8MSmYWmTNIdcqep) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Cruel \- Budaya Remix](https://open.spotify.com/album/7Ii1h7NZyiL3uBI1b5NkJK) | 3:24 | 2022-03-25 | 2023-03-25 |
 | [ctrl v](https://open.spotify.com/track/2ZK6nToeKJdyVMy3pAPJab) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [ctrl v](https://open.spotify.com/album/7sblPYJM0EAAwdDDsjaGP2) | 2:47 | 2026-05-29 | 2026-09-25 |
+| [Cuando Vas al Trabajo](https://open.spotify.com/track/5dQvh98O4WO4PLiUNPrCE1) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Cuando Vas al Trabajo](https://open.spotify.com/album/4ZIcax9d1AXwPRoua42q94) | 2:40 | 2026-10-09 |  |
 | [Cuidado](https://open.spotify.com/track/4FWInLlki1xvIHcRAbbY5c) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX), [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Cuidado](https://open.spotify.com/album/7IyGt8wniTS7XlDf5I3yRZ) | 2:14 | 2023-09-15 | 2026-04-04 |
 | [Cuidado!](https://open.spotify.com/track/72GGPzaWYpeEHstvhkMcBH) | [Parásito Paraíso](https://open.spotify.com/artist/0H6YoMqKk2CF7Z0TPtraUZ) | [Imagen, Defecto](https://open.spotify.com/album/47wbKgA1KXkTfTYsAAp0Zd) | 2:59 | 2024-08-23 |  |
 | [Culpable](https://open.spotify.com/track/1F2MEdnUuZDV23rEFw6ZcM) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Arde](https://open.spotify.com/album/2eZrZxOfzdQKvNthFD5IDJ) | 3:07 | 2022-03-25 | 2022-07-29 |

@@ -2,9 +2,9 @@
 
 ### [indie onderweg](https://open.spotify.com/playlist/37i9dQZF1DXa9XlH8nDPns)
 
-> upbeat indie en alternative voor onderweg, van roadtrip tot treinrit.
+> upbeat indie en alternative voor onderweg: van fietsrit tot een lange roadtrip of treinreis.
 
-125 songs - 7 hr 15 min
+127 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-07-10 |  |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-07-10 |  |
 | [Back of the Bus](https://open.spotify.com/track/7Gwyr1Ri1gV5WpgIdmrp2o) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Back of the Bus](https://open.spotify.com/album/70Mz5Kxdu9EjQQ46VRkN7m) | 3:00 | 2026-07-07 | 2026-09-08 |
+| [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 | 2026-10-09 |  |
 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 | 2025-07-10 | 2025-09-17 |
 | [Black Magic Woman \- Single Version](https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana's Greatest Hits](https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai) | 3:19 | 2026-07-07 | 2026-09-08 |
 | [Bowie's Pressure](https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Bowie's Pressure](https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow) | 3:12 | 2026-04-08 | 2026-09-08 |
@@ -30,7 +31,7 @@
 | [Do It Again](https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 5:57 | 2026-07-07 | 2026-09-08 |
 | [Don't Forget You Love Me](https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [Don't Forget You Love Me](https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1) | 3:37 | 2025-07-10 |  |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2026-07-07 | 2026-09-08 |
-| [Drive](https://open.spotify.com/track/5tdS0ZR30mNjJKGS6YU8kA) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [The Mustard Seed](https://open.spotify.com/album/7ri2zz9FdwG1fcmUMHXe1R) | 3:29 | 2025-07-10 |  |
+| [Drive](https://open.spotify.com/track/5tdS0ZR30mNjJKGS6YU8kA) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [The Mustard Seed](https://open.spotify.com/album/7ri2zz9FdwG1fcmUMHXe1R) | 3:29 | 2025-07-10 | 2026-10-10 |
 | [Drown Me in your River](https://open.spotify.com/track/1o25xpJ1yVFWWG7CzulsUM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 2:46 | 2025-09-16 | 2025-12-01 |
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2026-06-25 |  |
 | [Empty Skies](https://open.spotify.com/track/2g3fPn92feohW3HMlhj9Ok) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Empty Skies](https://open.spotify.com/album/3u0pQzm5VH1Qfv3xCnhNVu) | 3:08 | 2026-07-07 | 2026-09-08 |
@@ -42,12 +43,13 @@
 | [Hang on to Your Love](https://open.spotify.com/track/6KIS5YIZAyeiFNx1aE1OhY) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:30 | 2026-07-07 | 2026-09-08 |
 | [Happy Customers](https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Happy Customers](https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ) | 2:50 | 2025-09-16 | 2026-10-09 |
 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 | 2025-07-10 | 2025-12-12 |
+| [Heart of Darkness](https://open.spotify.com/track/24zbHhoxY7EKcijv98EWL7) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Heart of Darkness](https://open.spotify.com/album/3x9DfNi4Tmn81AI2Db7buQ) | 3:26 | 2026-10-09 |  |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2025-07-10 |  |
 | [Hell or High Water](https://open.spotify.com/track/3uB5VuRR6J6nKbpBYmPCj8) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [Benjamin Longman](https://open.spotify.com/artist/4mXA7wTTHSpP0T2cgHmlVE) | [A Mirror Sometimes](https://open.spotify.com/album/7M64ZCQVyWoEaFRhkdhV1x) | 3:51 | 2026-07-07 | 2026-09-08 |
 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2025-07-10 |  |
 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 | 2026-06-25 |  |
 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 | 2026-07-07 | 2026-09-08 |
-| [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 | 2025-12-18 |  |
+| [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 | 2025-12-18 | 2026-10-10 |
 | [Huis van Zwart en Rood](https://open.spotify.com/track/5YSqlx5eiOU1vXvxRTtYKW) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [De Nachtwacht](https://open.spotify.com/album/6QTcUbIQ0VLethxET8iSah) | 2:15 | 2026-07-07 | 2026-09-08 |
 | [I Don't Dance](https://open.spotify.com/track/1IJYxWXp3UFOgnZDnmH6y9) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [I Don't Dance](https://open.spotify.com/album/1bfNoxTdhtHh34RGUE5zTI) | 3:09 | 2025-07-10 | 2026-09-08 |
 | [I Wanna Know](https://open.spotify.com/track/3dHxz2xClaQdyh8KuZIwrr) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [I Wanna Know](https://open.spotify.com/album/7jqC0VJUpFoEY8W1H69i76) | 3:44 | 2025-07-10 | 2026-10-09 |

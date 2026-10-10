@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2804157,
+  "num_followers": 2804152,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAACNLA2qqn5WKl6Ve9j2+xHz",
+  "snapshot_id": "asbdAAAAAAAvNTGz7JkXUxFunmMCPULy",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 147819,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/3pI3nzi2Y0Iyj1nATDOeQV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "August 26",
         "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 213746,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 147819,
-      "name": "Mourning",
-      "url": "https://open.spotify.com/track/3pI3nzi2Y0Iyj1nATDOeQV"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 204952,
-      "name": "Too Cool To Die",
-      "url": "https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u"
+      "duration_ms": 147679,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 147679,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4"
+      "duration_ms": 204952,
+      "name": "Too Cool To Die",
+      "url": "https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u"
     },
     {
       "added_at": null,
@@ -847,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "August 26",
-        "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         },
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 271573,
-      "name": "Never Understand",
-      "url": "https://open.spotify.com/track/5m2bi24Cc5ABIC14HFJmrs"
+      "duration_ms": 199758,
+      "name": "Wolves (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ"
     },
     {
       "added_at": null,
@@ -883,22 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Detroit 2",
-        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+        "name": "August 26",
+        "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
-      "duration_ms": 199758,
-      "name": "Wolves (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ"
+      "duration_ms": 271573,
+      "name": "Never Understand",
+      "url": "https://open.spotify.com/track/5m2bi24Cc5ABIC14HFJmrs"
     },
     {
       "added_at": null,

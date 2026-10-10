@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 270090,
+  "num_followers": 270124,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,22 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+        "name": "444",
+        "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
         },
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
         }
       ],
-      "duration_ms": 195546,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+      "duration_ms": 175280,
+      "name": "444",
+      "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
     },
     {
       "added_at": "2026-04-10 15:37:56",
@@ -671,22 +671,22 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
       "artists": [
         {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Panda Black",
-          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 175280,
-      "name": "444",
-      "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
+      "duration_ms": 195546,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
       "added_at": "2026-04-10 15:37:56",
@@ -731,38 +731,6 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 184547,
-      "name": "si te pillara",
-      "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
-    },
-    {
-      "added_at": "2026-04-10 15:37:56",
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 222458,
-      "name": "Ivonny Bonita",
-      "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
-    },
-    {
-      "added_at": "2026-04-10 15:37:56",
-      "album": {
         "name": "Talento",
         "url": "https://open.spotify.com/album/0OPj1ePYra9uwgebE6HHpU"
       },
@@ -783,6 +751,38 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 222458,
+      "name": "Ivonny Bonita",
+      "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
+    },
+    {
+      "added_at": "2026-04-10 15:37:56",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 184547,
+      "name": "si te pillara",
+      "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
+    },
+    {
+      "added_at": "2026-04-10 15:37:56",
+      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
       },
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
-        "name": "ISLAND BOYZ",
-        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 218305,
-      "name": "SOLEAO",
-      "url": "https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"
-    },
-    {
-      "added_at": "2026-04-10 15:37:56",
-      "album": {
         "name": "PERO NO TE ENAMORES",
         "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
       },
@@ -831,30 +811,6 @@
       "duration_ms": 149073,
       "name": "NEL",
       "url": "https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4"
-    },
-    {
-      "added_at": "2026-04-10 15:37:56",
-      "album": {
-        "name": "LA VILLA",
-        "url": "https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
-        }
-      ],
-      "duration_ms": 192111,
-      "name": "LA VILLA",
-      "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
     },
     {
       "added_at": "2026-04-10 15:37:56",
@@ -883,6 +839,50 @@
       "duration_ms": 299325,
       "name": "444 - Remix",
       "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
+    },
+    {
+      "added_at": "2026-04-10 15:37:56",
+      "album": {
+        "name": "ISLAND BOYZ",
+        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 218305,
+      "name": "SOLEAO",
+      "url": "https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"
+    },
+    {
+      "added_at": "2026-04-10 15:37:56",
+      "album": {
+        "name": "LA VILLA",
+        "url": "https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "duration_ms": 192111,
+      "name": "LA VILLA",
+      "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
     },
     {
       "added_at": "2026-04-10 15:37:56",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
+        "name": "TUCHAT",
+        "url": "https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 221224,
+      "name": "TUCHAT",
+      "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"
+    },
+    {
+      "added_at": "2026-04-10 15:37:56",
+      "album": {
         "name": "Better Late Than Never",
         "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 239120,
       "name": "Lokita Por M\u00ed",
       "url": "https://open.spotify.com/track/2aG4AXf3TUtlmk4s9BLYDi"
-    },
-    {
-      "added_at": "2026-04-10 15:37:56",
-      "album": {
-        "name": "TUCHAT",
-        "url": "https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 221224,
-      "name": "TUCHAT",
-      "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"
     },
     {
       "added_at": "2026-04-10 15:37:56",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
-        "name": "Mejores Jordans 2",
-        "url": "https://open.spotify.com/album/0WbRuSQuG8O7YzQ3jSGdos"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 267268,
-      "name": "Mejores Jordans 2",
-      "url": "https://open.spotify.com/track/6RYsDCdeXeWK2bsCtYXLgy"
-    },
-    {
-      "added_at": "2026-04-10 15:37:56",
-      "album": {
         "name": "flashes",
         "url": "https://open.spotify.com/album/1xtogJBn8wOmtb7uNHCl6h"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 185076,
       "name": "flashes",
       "url": "https://open.spotify.com/track/6ciaJyxPG3OueX32rd57jA"
+    },
+    {
+      "added_at": "2026-04-10 15:37:56",
+      "album": {
+        "name": "Mejores Jordans 2",
+        "url": "https://open.spotify.com/album/0WbRuSQuG8O7YzQ3jSGdos"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 267268,
+      "name": "Mejores Jordans 2",
+      "url": "https://open.spotify.com/track/6RYsDCdeXeWK2bsCtYXLgy"
     },
     {
       "added_at": "2026-04-10 15:37:56",
@@ -1643,30 +1643,26 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
-        "name": "Tu jard\u00edn con enanitos",
-        "url": "https://open.spotify.com/album/0XpyqlltZS8gGkIrJtSfxk"
+        "name": "MIRAME REMIX",
+        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
       },
       "artists": [
         {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        },
-        {
-          "name": "RAMKY EN LOS CONTROLES",
-          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 175059,
-      "name": "Tu jard\u00edn con enanitos",
-      "url": "https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f"
+      "duration_ms": 238666,
+      "name": "MIRAME REMIX",
+      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
     },
     {
       "added_at": "2026-04-10 15:37:56",
@@ -1703,26 +1699,30 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
-        "name": "MIRAME REMIX",
-        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
+        "name": "Tu jard\u00edn con enanitos",
+        "url": "https://open.spotify.com/album/0XpyqlltZS8gGkIrJtSfxk"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
         },
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        },
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
         }
       ],
-      "duration_ms": 238666,
-      "name": "MIRAME REMIX",
-      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
+      "duration_ms": 175059,
+      "name": "Tu jard\u00edn con enanitos",
+      "url": "https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f"
     },
     {
       "added_at": "2026-04-10 15:37:56",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
+        "name": "Hasta Aqu\u00ed Llegu\u00e9",
+        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 188887,
+      "name": "Hasta Aqu\u00ed Llegu\u00e9",
+      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
+    },
+    {
+      "added_at": "2026-04-10 15:37:56",
+      "album": {
         "name": "Coraz\u00f3n Puro",
         "url": "https://open.spotify.com/album/65iRoPfxzGd1gNJo8bHIPc"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 226285,
       "name": "Coraz\u00f3n Puro",
       "url": "https://open.spotify.com/track/072uRZ2a6okV4m0fyjY4sb"
-    },
-    {
-      "added_at": "2026-04-10 15:37:56",
-      "album": {
-        "name": "Hasta Aqu\u00ed Llegu\u00e9",
-        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188887,
-      "name": "Hasta Aqu\u00ed Llegu\u00e9",
-      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
     },
     {
       "added_at": "2026-04-10 15:37:56",

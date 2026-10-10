@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,372 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,374 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 36 | [Pode Ir Embora \- Ao Vivo](https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [De Volta aos Bares](https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG) | 3:37 |
 | 37 | [É natural \(Participação especial de Bruno Cardoso\) \- Ao vivo](https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Bruno Cardoso](https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:27 |
 | 38 | [10% \- Ao Vivo](https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
-| 39 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
-| 40 | [Final De Tarde](https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Nos Arcos da Lapa](https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi) | 3:57 |
+| 39 | [Final De Tarde](https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Nos Arcos da Lapa](https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi) | 3:57 |
+| 40 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
 | 41 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 |
 | 42 | [Até que enfim \- Ao vivo](https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Chão de estrelas \(Ao vivo\)](https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun) | 3:44 |
 | 43 | [Cê Tá Preparada \- Ao Vivo](https://open.spotify.com/track/1tYJnXtKLoWVIL4lZOouQG) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Cê Tá Preparada \(Ao Vivo\)](https://open.spotify.com/album/0SKpoFXvWGulci9ZGmWKCy) | 3:33 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 60 | [Trovão](https://open.spotify.com/track/1q87J3ftrxGqKKSPXYqOhd) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
 | 61 | [Deixa Tudo Como Tá \- Ao Vivo](https://open.spotify.com/track/0abrd2vT2W3JZBDNezUY7r) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 3:37 |
 | 62 | [Liga Lá em Casa \- Ao Vivo](https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Leonardo 30 Anos \(Ao Vivo\)](https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz) | 3:50 |
-| 63 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
-| 64 | [Sem Esse Coração \- Ao Vivo](https://open.spotify.com/track/5kvsEeN7tv7iqbR4P4do8e) | [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Coração Apaixonou \(Ao Vivo\)](https://open.spotify.com/album/1NcdDNafg1PP6HNZu0fzaH) | 2:53 |
+| 63 | [Sem Esse Coração \- Ao Vivo](https://open.spotify.com/track/5kvsEeN7tv7iqbR4P4do8e) | [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Coração Apaixonou \(Ao Vivo\)](https://open.spotify.com/album/1NcdDNafg1PP6HNZu0fzaH) | 2:53 |
+| 64 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 65 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(Ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
 | 66 | [Nem Tchum \- Ao Vivo](https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:22 |
 | 67 | [Sogra \- Ao Vivo](https://open.spotify.com/track/4x8XaoLvpo6kd51PZD16RK) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sogra \(Ao Vivo\)](https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH) | 2:57 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 71 | [Você Me Trocou \- Ao Vivo](https://open.spotify.com/track/3RYV8juwSUclgwNiwmESlb) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr) | [Clássico \(Ao Vivo / Edição Especial\)](https://open.spotify.com/album/7lHfl8zlZjgdy1aR4Ra66A) | 3:13 |
 | 72 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
 | 73 | [Não Abro Mão \- Ao Vivo](https://open.spotify.com/track/3L2uyIJoJPjYkSETVNSPBQ) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:00 |
-| 74 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 |
-| 75 | [Saudade do Caramba](https://open.spotify.com/track/2UbAMyAhaJIDqlukesBR7I) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Saudade do Caramba](https://open.spotify.com/album/1HcWnyNXAvvQUXPs5VkxDQ) | 2:52 |
+| 74 | [Saudade do Caramba](https://open.spotify.com/track/2UbAMyAhaJIDqlukesBR7I) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Saudade do Caramba](https://open.spotify.com/album/1HcWnyNXAvvQUXPs5VkxDQ) | 2:52 |
+| 75 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 |
 
 Snapshot ID: `AAAAAJ7qYPx5XfWW/TOrfPZ7kYvNIijD`

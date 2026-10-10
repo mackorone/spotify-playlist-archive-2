@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover:  Mack Keane
+> Stripped back vibes\. Cover:  Alex Isley
 
-319 songs - 18 hr 29 min
+322 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [CARI'S HONEYMOON](https://open.spotify.com/track/0AU4Spk0C443gEWAJ6hUh9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 1:00 | 2025-05-09 |  |
 | [Check \- Acoustic](https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check \(Acoustic\)](https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr) | 3:02 | 2024-08-16 |  |
 | [Choose \- Acoustic](https://open.spotify.com/track/6jkghwue86fgr11HEnImKd) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Choose \(Acoustic\)](https://open.spotify.com/album/4R7CPDAXrt2C0JgGrqRd2z) | 3:54 | 2026-03-13 |  |
+| [Closure \- One Take](https://open.spotify.com/track/7BPZi9J5qiPErlJOgK6sv6) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [One Take w/ Eric Bellinger](https://open.spotify.com/album/4Tg2Lc99lG8cz1w6wQliGT) | 3:03 | 2026-10-09 |  |
 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 | 2024-11-01 |  |
 | [Coffee in the Morning](https://open.spotify.com/track/1I3hnFXFmco3dUY2AYcvLL) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [HAVE A NICE DAY!](https://open.spotify.com/album/1I9S6JjC6OtSiNXGNiLMLL) | 3:46 | 2024-01-17 | 2024-04-19 |
 | [Coffee in the Morning](https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Coffee in the Morning](https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1) | 3:46 | 2023-02-17 |  |
@@ -184,12 +185,14 @@
 | [Magic](https://open.spotify.com/track/0hNa2G3CxcEFD1iG0GM2rY) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 4:42 | 2022-10-27 |  |
 | [Make It Right \- Acoustic](https://open.spotify.com/track/7i9u3HorlfNKlLNrgG0k7J) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/79dXpc0J7PolTmt2xaLIoq) | 3:18 | 2025-08-22 |  |
 | [Make the Most \- Live](https://open.spotify.com/track/40jbQpNvRIFpV1i9UTcNgB) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Make the Most \(Live\)](https://open.spotify.com/album/1bGkar5XcMRqcs4sxp02sF) | 3:42 | 2021-12-09 | 2023-08-31 |
+| [Maybe Again \- Stripped](https://open.spotify.com/track/1KqvNXRKB2yslBhrJlrxSG) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Maybe Again \(Stripped\)](https://open.spotify.com/album/3lNKxbfn5KZ9tKouafNnEu) | 3:39 | 2026-10-09 |  |
 | [Meant to Be](https://open.spotify.com/track/4SmFQJI0xNBavjodMBfscN) | [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Thankful](https://open.spotify.com/album/2yhzbRsA4dOr3OV5gzHXqt) | 4:34 | 2021-12-09 | 2023-04-09 |
 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2025-07-11 |  |
 | [Mine to Lose](https://open.spotify.com/track/0rx0LgsgBQ8yGJzDwBNLU5) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/6QSOKuLlCEodRIJLQL6iI5) | 3:31 | 2024-02-09 | 2024-04-19 |
 | [Mine to Lose](https://open.spotify.com/track/4bSJKYB1tRDWMSGRqWR9P3) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO) | 3:31 | 2021-12-09 | 2025-08-23 |
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2021-12-09 | 2023-04-13 |
 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 | 2023-04-07 | 2024-02-09 |
+| [Money \(Interlude\)](https://open.spotify.com/track/0fRBBaQ7N48zNplIJL8ll2) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 1:26 | 2026-10-09 |  |
 | [More Than Twice](https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:33 | 2025-06-06 |  |
 | [MORNING DEW \(DONK\) ACOUSTIC 4:44](https://open.spotify.com/track/6FTmVdG0uNgQ9z2GwsS09I) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\) REMIX PACK](https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl) | 4:44 | 2026-08-07 |  |
 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 | 2022-03-24 | 2022-10-13 |

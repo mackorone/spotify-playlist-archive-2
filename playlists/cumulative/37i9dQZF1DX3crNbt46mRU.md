@@ -4,7 +4,7 @@
 
 > This week's top new releases, including girl in red, Troye Sivan, Sido, Montez, Marlon Hoffstadt, David Guetta & many more!
 
-24,570 songs - 50 day 17 hr 56 min
+24,571 songs - 50 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5764,6 +5764,7 @@
 | [Don‘t Let Our Love Die](https://open.spotify.com/track/15q6JjExkmhAy0KqWTAyw7) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Don‘t Let Our Love Die](https://open.spotify.com/album/6lf0LZoP7jc5P621Rcc5t0) | 2:50 | 2022-07-14 | 2022-07-22 |
 | [Don’t Break Her Heart](https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Don’t Break Her Heart](https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY) | 3:44 | 2026-06-04 | 2026-06-12 |
 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 | 2023-05-04 | 2023-05-12 |
+| [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz) | 2:44 | 2026-10-09 |  |
 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 | 2025-08-21 | 2025-08-30 |
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-26 | 2022-06-03 |
 | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI) | 3:12 | 2026-08-06 | 2026-08-14 |
@@ -13385,7 +13386,7 @@
 | [LÄCHELN IM GESICHT](https://open.spotify.com/track/2GDv2dravk02Ri87HDVkkK) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [LÄCHELN IM GESICHT](https://open.spotify.com/album/4bHrodQzeN5nt9zWnzEB0p) | 2:04 | 2026-08-20 | 2026-08-28 |
 | [Längst gestorben](https://open.spotify.com/track/3t0cg0tINyDnFglUHXzSsO) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7), [Khrome](https://open.spotify.com/artist/4GoCdmGGYtijLZlgTMyhwe), [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Längst gestorben](https://open.spotify.com/album/1boewWdsQZmt0vIrYyBnm1) | 3:11 | 2024-03-14 | 2024-03-22 |
 | [Lärm](https://open.spotify.com/track/1oBy3oAxgmTcWLKS8AAWKK) | [Yosho](https://open.spotify.com/artist/3teKhev8dyP7LKMcDrS2kT) | [Lärm](https://open.spotify.com/album/4PESfTl0glEhMTtEYFRAHy) | 1:38 | 2024-04-25 | 2024-05-03 |
-| [Läuft](https://open.spotify.com/track/4f9rCZcBfNSsoRXeddnbPP) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Läuft](https://open.spotify.com/album/02Tbif5Tfe36aHu9tsNkQI) | 2:01 | 2026-10-08 |  |
+| [läuft](https://open.spotify.com/track/4f9rCZcBfNSsoRXeddnbPP) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [läuft](https://open.spotify.com/album/02Tbif5Tfe36aHu9tsNkQI) | 2:01 | 2026-10-08 |  |
 | [Lève\-toi](https://open.spotify.com/track/5YgSiBZIZIpARpzzISiWsb) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8), [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Lève\-toi](https://open.spotify.com/album/0e9MeZE0DvKs2FYHJsWGAL) | 3:34 | 2023-03-09 | 2023-03-18 |
 | [Légende](https://open.spotify.com/track/0emGnnTL0TQrGY5r6Agbhj) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Légende](https://open.spotify.com/album/6PXVs8Ap2JMUWn2znMlcF7) | 2:45 | 2024-01-11 | 2024-01-19 |
 | [Löli](https://open.spotify.com/track/7jT7LvWCFamvwrMgFQUpmm) | [Koala Smoke](https://open.spotify.com/artist/6NoiARgEVR62LJtz6u7Ov3) | [Löli](https://open.spotify.com/album/0LrQPkhLwftoV2jXiEevre) | 3:16 | 2024-09-19 | 2024-09-27 |

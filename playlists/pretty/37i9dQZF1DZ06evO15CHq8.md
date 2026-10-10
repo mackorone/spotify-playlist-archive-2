@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,302 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,363 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Antarctica](https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Antarctica](https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL) | 2:06 |
 | 2 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 |
 | 3 | [1000 Blunts](https://open.spotify.com/track/09riz9pAPJyYYDVynE5xxY) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:55 |
-| 4 | [My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel](https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok) | 2:47 |
-| 5 | [Kill Yourself \(Part III\)](https://open.spotify.com/track/0kEZlJh4mK1QRfb3CT5LPk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [My Liver Will Handle What My Heart Can't](https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme) | 2:25 |
+| 4 | [Kill Yourself \(Part III\)](https://open.spotify.com/track/0kEZlJh4mK1QRfb3CT5LPk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [My Liver Will Handle What My Heart Can't](https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme) | 2:25 |
+| 5 | [My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel](https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok) | 2:47 |
 | 6 | [Napoleon](https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:36 |
 | 7 | [Runnin' Thru the 7th with My Woadies](https://open.spotify.com/track/1tm7c4V0kqLiN0XPVnoUcT) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$outh $ide $uicide](https://open.spotify.com/album/1p8YahLiju8skFYWBJTEOl) | 3:25 |
 | 8 | [Avalon](https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:20 |
-| 9 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
-| 10 | [For the Last Time](https://open.spotify.com/track/5m61GgCY2vUmDBlOCfNRX9) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd) | 2:36 |
+| 9 | [For the Last Time](https://open.spotify.com/track/5m61GgCY2vUmDBlOCfNRX9) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd) | 2:36 |
+| 10 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
 | 11 | [Monochromatic](https://open.spotify.com/track/6dIIwvSCxyixY2y9vJmyVg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:17 |
 | 12 | [That Just Isn't Empirically Possible](https://open.spotify.com/track/3xQq3mpD6hunD2XG7FXHHu) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:03 |
 | 13 | [Whatever Floats Your Boat Will Definitely Sink My Ship](https://open.spotify.com/track/2t5UTvg5AxfVGBESIdRq7a) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 2:42 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 20 | [Leviticus](https://open.spotify.com/track/2QesOhDm8RV7gQ3xbu41xm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 2:04 |
 | 21 | [Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:24 |
 | 22 | [Oh, What a Wretched Man I Am!](https://open.spotify.com/track/6LCGD2bl7itBHHayQ4ltPc) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:39 |
-| 23 | [Mount Sinai](https://open.spotify.com/track/5vyR3lTiw4zz8B4PvnAO4c) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:25 |
+| 23 | [Diemonds](https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 3:12 |
 | 24 | [BLOODSWEAT](https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 3:41 |
 | 25 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 |
 | 26 | [Full of Grace \(I Refuse to Tend My Own Grave\)](https://open.spotify.com/track/5mSRLKGJ0Uc7FW7SlJFKaP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:00 |
-| 27 | [Diemonds](https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 3:12 |
+| 27 | [Mount Sinai](https://open.spotify.com/track/5vyR3lTiw4zz8B4PvnAO4c) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:25 |
 | 28 | [MSY](https://open.spotify.com/track/2FEuiNcpNqNtJR9GzUjUmC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 2:06 |
 | 29 | [2nd Hand](https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:03 |
 | 30 | [Thorns](https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [2009 Reggie Bush](https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 3:24 |
 | 50 | [AWKWARD CAR DRIVE](https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [GERM HAS A DEATHWISH](https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23) | 1:49 |
 
-Snapshot ID: `asLogAAAAADi0vuXUh72KNaCmiejmvXc`
+Snapshot ID: `asbdAAAAAABhvudyFpFFrEdTRNm5zzbX`

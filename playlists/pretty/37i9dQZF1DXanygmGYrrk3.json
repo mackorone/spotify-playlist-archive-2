@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tus canciones favoritas del momento, todas en un solo lugar! Cover: Julion \u00c1lvarez",
-  "num_followers": 430688,
+  "num_followers": 430848,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-10-02 04:46:29",
       "album": {
-        "name": "Ay\u00fadame",
-        "url": "https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 161348,
-      "name": "Ay\u00fadame",
-      "url": "https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W"
-    },
-    {
-      "added_at": "2026-10-02 04:46:29",
-      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 164386,
       "name": "Lo Tienes Todo",
       "url": "https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA"
+    },
+    {
+      "added_at": "2026-10-02 04:46:29",
+      "album": {
+        "name": "Ay\u00fadame",
+        "url": "https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 161348,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W"
     },
     {
       "added_at": "2026-10-02 04:46:29",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-10-02 04:46:29",
       "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
+    },
+    {
+      "added_at": "2026-10-02 04:46:29",
+      "album": {
         "name": "Todo a Su Tiempo",
         "url": "https://open.spotify.com/album/6kvBev4PFHNvLzWn3IMpEh"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 238240,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
-    },
-    {
-      "added_at": "2026-10-02 04:46:29",
-      "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
     },
     {
       "added_at": "2026-10-02 04:46:29",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-10-02 04:46:29",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
-    },
-    {
-      "added_at": "2026-10-02 04:46:29",
-      "album": {
         "name": "Ya No Vives En M\u00ed",
         "url": "https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2026-10-02 04:46:29",
       "album": {
-        "name": "Experto",
-        "url": "https://open.spotify.com/album/1jbw7dNHbODAxiWgugRRdF"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 171395,
-      "name": "Voy Llegando a tu Ciudad",
-      "url": "https://open.spotify.com/track/25Um6XtI3adYkxZpl1qtQE"
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
     },
     {
       "added_at": "2026-10-02 04:46:29",
@@ -915,6 +899,22 @@
       "duration_ms": 204453,
       "name": "La Buena y la Mala",
       "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+    },
+    {
+      "added_at": "2026-10-02 04:46:29",
+      "album": {
+        "name": "Experto",
+        "url": "https://open.spotify.com/album/1jbw7dNHbODAxiWgugRRdF"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 171395,
+      "name": "Voy Llegando a tu Ciudad",
+      "url": "https://open.spotify.com/track/25Um6XtI3adYkxZpl1qtQE"
     },
     {
       "added_at": "2026-10-02 04:46:29",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-10-02 04:46:29",
       "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 221082,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
-    },
-    {
-      "added_at": "2026-10-02 04:46:29",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 156520,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
+    },
+    {
+      "added_at": "2026-10-02 04:46:29",
+      "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 221082,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
     },
     {
       "added_at": "2026-10-02 04:46:29",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-10-02 04:46:29",
       "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Como Duele El Amor",
-      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
-    },
-    {
-      "added_at": "2026-10-02 04:46:29",
-      "album": {
         "name": "Qu\u00e9 Fuimos (En Vivo)",
         "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 230034,
       "name": "Qu\u00e9 Fuimos - En Vivo",
       "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "added_at": "2026-10-02 04:46:29",
+      "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 222528,
+      "name": "Como Duele El Amor",
+      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
     },
     {
       "added_at": "2026-10-02 04:46:29",

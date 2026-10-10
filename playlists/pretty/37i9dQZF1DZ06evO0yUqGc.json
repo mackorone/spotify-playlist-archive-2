@@ -1,12 +1,12 @@
 {
   "description": "This is Lily Allen. The essential tracks, all in one playlist.",
-  "num_followers": 97078,
+  "num_followers": 97094,
   "original_name": "This Is Lily Allen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABBUa/hsx0+c0wo69Xccdbx",
+  "snapshot_id": "asbdAAAAAACYRSh7YUE2MnvV02mLBJmW",
   "tracks": [
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 175413,
-      "name": "Madeline",
-      "url": "https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE"
+      "duration_ms": 184333,
+      "name": "Dallas Major",
+      "url": "https://open.spotify.com/track/1ECugAb7Pg6UDA501YYgH9"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 184333,
-      "name": "Dallas Major",
-      "url": "https://open.spotify.com/track/1ECugAb7Pg6UDA501YYgH9"
+      "duration_ms": 175413,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE"
     },
     {
       "added_at": null,
@@ -439,18 +439,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Not Me, It's You (Special Edition)",
-        "url": "https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX"
+        "name": "Gang Signs & Prayer",
+        "url": "https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW"
       },
       "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
         {
           "name": "Lily Allen",
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 230986,
-      "name": "Who'd Have Known",
-      "url": "https://open.spotify.com/track/3OFacwSNvln7Bcx3wGOpjV"
+      "duration_ms": 349583,
+      "name": "Cigarettes & Cush (feat. Kehlani & Lily Allen)",
+      "url": "https://open.spotify.com/track/7urCpstCEncypWMreEwJCh"
     },
     {
       "added_at": null,
@@ -487,26 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gang Signs & Prayer",
-        "url": "https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW"
+        "name": "It's Not Me, It's You (Special Edition)",
+        "url": "https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX"
       },
       "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
         {
           "name": "Lily Allen",
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 349583,
-      "name": "Cigarettes & Cush (feat. Kehlani & Lily Allen)",
-      "url": "https://open.spotify.com/track/7urCpstCEncypWMreEwJCh"
+      "duration_ms": 230986,
+      "name": "Who'd Have Known",
+      "url": "https://open.spotify.com/track/3OFacwSNvln7Bcx3wGOpjV"
     },
     {
       "added_at": null,

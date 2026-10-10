@@ -1,12 +1,12 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Sabanis, Nikos Makropoulos",
-  "num_followers": 45701,
+  "num_followers": 45724,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL8vWJTa8jP26WW5vAvjkymrb+GB",
+  "snapshot_id": "AAAAAM7CW9uD33eGWZxuQuvHvqte4pQU",
   "tracks": [
     {
       "added_at": "2026-10-08 21:00:36",
@@ -77,20 +77,20 @@
       "url": "https://open.spotify.com/track/6dvpB2MjuzciJGECODPQdP"
     },
     {
-      "added_at": "2026-10-08 21:00:36",
+      "added_at": "2026-10-09 09:04:24",
       "album": {
-        "name": "Pagkosmia Mera Tou Psefti",
-        "url": "https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT"
+        "name": "I Kathimerinotita",
+        "url": "https://open.spotify.com/album/3xgCqkGMLDwuaXJDTRWGD3"
       },
       "artists": [
         {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+          "name": "Giannis Ploutarhos",
+          "url": "https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD"
         }
       ],
-      "duration_ms": 165239,
-      "name": "Pagkosmia Mera Tou Psefti",
-      "url": "https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9"
+      "duration_ms": 206017,
+      "name": "I Kathimerinotita",
+      "url": "https://open.spotify.com/track/1e43svDgOsrN0IoXn09Fzx"
     },
     {
       "added_at": "2026-10-08 21:00:36",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-10-08 21:00:36",
       "album": {
+        "name": "Pagkosmia Mera Tou Psefti",
+        "url": "https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 165239,
+      "name": "Pagkosmia Mera Tou Psefti",
+      "url": "https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9"
+    },
+    {
+      "added_at": "2026-10-08 21:00:36",
+      "album": {
         "name": "Sta Kalitera Pou Elkontai (Agapate Katallilous)",
         "url": "https://open.spotify.com/album/32QmrCVsuU8DqDaQNqw3Y2"
       },
@@ -215,6 +231,22 @@
     {
       "added_at": "2026-10-08 21:00:36",
       "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/3HpW5sydy4XsJACERKphUg"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 194658,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/2BH6JRPce640O4m9CcIS3f"
+    },
+    {
+      "added_at": "2026-10-08 21:00:36",
+      "album": {
         "name": "Thimizeis Kati Apo Ellada",
         "url": "https://open.spotify.com/album/0XE3PFWYxFVowo50Sm5S03"
       },
@@ -235,42 +267,18 @@
     {
       "added_at": "2026-10-08 21:00:36",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/3HpW5sydy4XsJACERKphUg"
+        "name": "Ximeia",
+        "url": "https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ"
       },
       "artists": [
         {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
         }
       ],
-      "duration_ms": 194658,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/2BH6JRPce640O4m9CcIS3f"
-    },
-    {
-      "added_at": "2026-10-08 21:00:36",
-      "album": {
-        "name": "Apo To Xthes Sto Simera (Part 2)",
-        "url": "https://open.spotify.com/album/2vQAu03RgOqg5ljSPm1fG3"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        },
-        {
-          "name": "Sfera 102.2",
-          "url": "https://open.spotify.com/artist/0eCQu0SIutiqVJzqkSxFmu"
-        },
-        {
-          "name": "George Theofanous",
-          "url": "https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA"
-        }
-      ],
-      "duration_ms": 215937,
-      "name": "Plati",
-      "url": "https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio"
+      "duration_ms": 193099,
+      "name": "Ximeia",
+      "url": "https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun"
     },
     {
       "added_at": "2026-10-08 21:00:36",
@@ -291,18 +299,18 @@
     {
       "added_at": "2026-10-08 21:00:36",
       "album": {
-        "name": "Ximeia",
-        "url": "https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ"
+        "name": "Eipes",
+        "url": "https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB"
       },
       "artists": [
         {
-          "name": "Katerina",
-          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
         }
       ],
-      "duration_ms": 193099,
-      "name": "Ximeia",
-      "url": "https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun"
+      "duration_ms": 243936,
+      "name": "Eipes",
+      "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
     },
     {
       "added_at": "2026-10-08 21:00:36",
@@ -339,22 +347,6 @@
     {
       "added_at": "2026-10-08 21:00:36",
       "album": {
-        "name": "Eipes",
-        "url": "https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 243936,
-      "name": "Eipes",
-      "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
-    },
-    {
-      "added_at": "2026-10-08 21:00:36",
-      "album": {
         "name": "Me Xodepses",
         "url": "https://open.spotify.com/album/1qNcN5xAxlbJ5koajyPnZy"
       },
@@ -387,6 +379,30 @@
       "duration_ms": 231073,
       "name": "Sousouro",
       "url": "https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4"
+    },
+    {
+      "added_at": "2026-10-08 21:00:36",
+      "album": {
+        "name": "Apo To Xthes Sto Simera (Part 2)",
+        "url": "https://open.spotify.com/album/2vQAu03RgOqg5ljSPm1fG3"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        },
+        {
+          "name": "Sfera 102.2",
+          "url": "https://open.spotify.com/artist/0eCQu0SIutiqVJzqkSxFmu"
+        },
+        {
+          "name": "George Theofanous",
+          "url": "https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA"
+        }
+      ],
+      "duration_ms": 215937,
+      "name": "Plati",
+      "url": "https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio"
     },
     {
       "added_at": "2026-10-08 21:00:36",
@@ -443,22 +459,6 @@
     {
       "added_at": "2026-10-08 21:00:36",
       "album": {
-        "name": "Ola Gia Ola",
-        "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        }
-      ],
-      "duration_ms": 281503,
-      "name": "Ola Gia Ola",
-      "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
-    },
-    {
-      "added_at": "2026-10-08 21:00:36",
-      "album": {
         "name": "Kale... Poios Einai Autos?",
         "url": "https://open.spotify.com/album/1p6wochIG0XNOunIdKHdh7"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 240222,
       "name": "Deutera",
       "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
+    },
+    {
+      "added_at": "2026-10-08 21:00:36",
+      "album": {
+        "name": "Ola Gia Ola",
+        "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "duration_ms": 281503,
+      "name": "Ola Gia Ola",
+      "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
     },
     {
       "added_at": "2026-10-08 21:00:36",
@@ -663,6 +679,22 @@
     {
       "added_at": "2026-10-08 21:00:36",
       "album": {
+        "name": "Etsi Exei Mathei",
+        "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 190148,
+      "name": "Etsi Exei Mathei",
+      "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
+    },
+    {
+      "added_at": "2026-10-08 21:00:36",
+      "album": {
         "name": "Etsi Eimai",
         "url": "https://open.spotify.com/album/61uDiFwh8cGDhhFoinSfs5"
       },
@@ -679,18 +711,34 @@
     {
       "added_at": "2026-10-08 21:00:36",
       "album": {
-        "name": "Etsi Exei Mathei",
-        "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
+        "name": "Ta Parapona mou",
+        "url": "https://open.spotify.com/album/3HtI7dLnszDt9CuKvB7MfM"
       },
       "artists": [
         {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
         }
       ],
-      "duration_ms": 190148,
-      "name": "Etsi Exei Mathei",
-      "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
+      "duration_ms": 175147,
+      "name": "Ta Parapona Mou",
+      "url": "https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL"
+    },
+    {
+      "added_at": "2026-10-08 21:00:36",
+      "album": {
+        "name": "Kati Xereis",
+        "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 164181,
+      "name": "Kati Xereis",
+      "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
     },
     {
       "added_at": "2026-10-08 21:00:36",
@@ -715,34 +763,22 @@
     {
       "added_at": "2026-10-08 21:00:36",
       "album": {
-        "name": "Kati Xereis",
-        "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
+        "name": "Kala Na Pernate",
+        "url": "https://open.spotify.com/album/0jabVYWfYrgQEbX4XKNAak"
       },
       "artists": [
         {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 164181,
-      "name": "Kati Xereis",
-      "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
-    },
-    {
-      "added_at": "2026-10-08 21:00:36",
-      "album": {
-        "name": "Ta Parapona mou",
-        "url": "https://open.spotify.com/album/3HtI7dLnszDt9CuKvB7MfM"
-      },
-      "artists": [
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        },
         {
-          "name": "Katerina",
-          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
         }
       ],
-      "duration_ms": 175147,
-      "name": "Ta Parapona Mou",
-      "url": "https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL"
+      "duration_ms": 186428,
+      "name": "Kala Na Pernate",
+      "url": "https://open.spotify.com/track/2puBRG2ig5q8f0JcM1d9wD"
     },
     {
       "added_at": "2026-10-08 21:00:36",
@@ -763,26 +799,6 @@
       "duration_ms": 182574,
       "name": "Ta Xano",
       "url": "https://open.spotify.com/track/5P81M4o7l0SW7Eb0ijR2jr"
-    },
-    {
-      "added_at": "2026-10-08 21:00:36",
-      "album": {
-        "name": "Kala Na Pernate",
-        "url": "https://open.spotify.com/album/0jabVYWfYrgQEbX4XKNAak"
-      },
-      "artists": [
-        {
-          "name": "Despina Vandi",
-          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
-        },
-        {
-          "name": "Teo Tzimas",
-          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "Kala Na Pernate",
-      "url": "https://open.spotify.com/track/2puBRG2ig5q8f0JcM1d9wD"
     },
     {
       "added_at": "2026-10-08 21:00:36",
@@ -819,8 +835,8 @@
     {
       "added_at": "2026-10-08 21:00:36",
       "album": {
-        "name": "Nero (Live Edition)",
-        "url": "https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR"
+        "name": "Perifanos Aetos",
+        "url": "https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1"
       },
       "artists": [
         {
@@ -828,9 +844,9 @@
           "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
         }
       ],
-      "duration_ms": 198444,
-      "name": "Nero - Live Edition",
-      "url": "https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds"
+      "duration_ms": 228835,
+      "name": "Perifanos Aetos",
+      "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
     },
     {
       "added_at": "2026-10-08 21:00:36",
@@ -847,22 +863,6 @@
       "duration_ms": 202615,
       "name": "De Ginetai",
       "url": "https://open.spotify.com/track/0qE3a0JDePYhl0ml3Dy1oe"
-    },
-    {
-      "added_at": "2026-10-08 21:00:36",
-      "album": {
-        "name": "Xereis Pollous?",
-        "url": "https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh"
-      },
-      "artists": [
-        {
-          "name": "Panos Kiamos",
-          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
-        }
-      ],
-      "duration_ms": 226987,
-      "name": "Xereis Pollous?",
-      "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
     }
   ],
   "unique_name": "Laika tou Simera",

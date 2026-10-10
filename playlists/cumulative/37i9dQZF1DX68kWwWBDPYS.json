@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "morrxs chidxs haciendo m\u00fasica chida. Seb Rodr\u00edguez portada.",
+  "description": "morrxs chidxs haciendo m\u00fasica chida. Ainda portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 172660,
       "name": "Amo Que Te Odio (Odio Que Te Amo)",
       "url": "https://open.spotify.com/track/5unQQTNmDVa7Scr3FMl3Bf"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 223800,
       "name": "Cielo, llora por m\u00ed",
       "url": "https://open.spotify.com/track/09ImD0c9clzVLFizFNEzOl"
@@ -1994,6 +1994,24 @@
       "duration_ms": 189203,
       "name": "Cultivo",
       "url": "https://open.spotify.com/track/5kGjkMq36j9RV5pVqR3EGy"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e1nto nos queda",
+        "url": "https://open.spotify.com/album/50yE0eLO8QTDvoY95WfbQy"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194288,
+      "name": "Cu\u00e1nto nos queda",
+      "url": "https://open.spotify.com/track/1AJQzARciyt3rrR9NKEFDO"
     },
     {
       "album": {
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 264522,
       "name": "Ela",
       "url": "https://open.spotify.com/track/5Ru4Fq1D6k1gayg5pIGvrS"
@@ -2734,6 +2752,28 @@
       "duration_ms": 146000,
       "name": "en el cielo solos t\u00fa y yo",
       "url": "https://open.spotify.com/track/3zDXuIwy43XsO6rBXrVwyf"
+    },
+    {
+      "album": {
+        "name": "En Mi Cabeza",
+        "url": "https://open.spotify.com/album/5q34oc3PV0jidJfnDWDwkl"
+      },
+      "artists": [
+        {
+          "name": "La Casa Azul",
+          "url": "https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd"
+        },
+        {
+          "name": "dani dicostas",
+          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194828,
+      "name": "En Mi Cabeza",
+      "url": "https://open.spotify.com/track/0utWmdRRJwHOLCOZ2ahFK2"
     },
     {
       "album": {
@@ -3144,7 +3184,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 231168,
       "name": "Fiesta en el Cielo",
       "url": "https://open.spotify.com/track/6Q4oghoXRGVfDCuzD3Wgyo"
@@ -3962,6 +4002,28 @@
       "duration_ms": 182864,
       "name": "La Protagonista",
       "url": "https://open.spotify.com/track/76ghjeu5kx0IuGSH5kvy5Y"
+    },
+    {
+      "album": {
+        "name": "La Vida Que Debo",
+        "url": "https://open.spotify.com/album/62aR6OG8jETM5rP3qpvB3G"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        },
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282017,
+      "name": "La Vida Que Debo",
+      "url": "https://open.spotify.com/track/7hgVraGyJVFKLhlVxyKf41"
     },
     {
       "album": {
@@ -5002,7 +5064,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 221800,
       "name": "No le encuentro la gracia",
       "url": "https://open.spotify.com/track/5dlOszONMc9nsWt6EemGwM"
@@ -5889,6 +5951,24 @@
     },
     {
       "album": {
+        "name": "Primero yo misma",
+        "url": "https://open.spotify.com/album/4faITFXaPgC4xL4YA4XCQJ"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162579,
+      "name": "Primero yo misma",
+      "url": "https://open.spotify.com/track/2JMvzUCnUS0JSd9HiQYYbT"
+    },
+    {
+      "album": {
         "name": "Promesas",
         "url": "https://open.spotify.com/album/72qPBrZO98nSnEXT3AgmIO"
       },
@@ -5904,6 +5984,24 @@
       "duration_ms": 156461,
       "name": "Promesas",
       "url": "https://open.spotify.com/track/4354fubltNCknagyX8ZirV"
+    },
+    {
+      "album": {
+        "name": "Himnos Nacionales, Vol. 1",
+        "url": "https://open.spotify.com/album/7yzkbBGeviqxNpA0AWcc1A"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "Putita",
+      "url": "https://open.spotify.com/track/0vv37Rsh43hXpgpu4ZJ0S3"
     },
     {
       "album": {
@@ -6822,7 +6920,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 162000,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/2LloUnnPkSIAoqFo9JjiSn"
@@ -8042,6 +8140,24 @@
       "duration_ms": 186021,
       "name": "\u00c9l Nunca Existi\u00f3",
       "url": "https://open.spotify.com/track/3f5F3yvyJOXx0aKNzSJ4xN"
+    },
+    {
+      "album": {
+        "name": "\u00faltima vez!",
+        "url": "https://open.spotify.com/album/6tGk2bbTCCTOmJAUD4fzvp"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217278,
+      "name": "\u00faltima vez!",
+      "url": "https://open.spotify.com/track/2Y6SsgcBR0Kze3efXG54Zu"
     },
     {
       "album": {

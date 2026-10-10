@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,961 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,959 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 20 | [Nel blu dipinto di blu](https://open.spotify.com/track/1y1q6D6BnSPntMeTmq15rh) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Collection: Domenico Modugno](https://open.spotify.com/album/34u4wOfIl7rteIkZxJEu20) | 3:36 |
 | 21 | [Vorrei incontrarti fra cent'anni \(feat\. Tosca\)](https://open.spotify.com/track/6Y2tQcPJaknHKY0RLH3jaf) | [Ron](https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6), [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Vorrei incontrarti fra cent'anni](https://open.spotify.com/album/1WOdMrMh0SxUThs0XM6WP5) | 3:56 |
 | 22 | [Vattene amore \(feat\. Amedeo Minghi\)](https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L) | [Mietta](https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP), [Amedeo Minghi](https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ) | [Canzoni](https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs) | 4:00 |
-| 23 | [Lei verrà](https://open.spotify.com/track/1WrT3pRtE32H2lyLPQFJq1) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:05 |
-| 24 | [Cosa Resterà Degli Anni 80](https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Cosa resterà degli anni 80](https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa) | 5:12 |
-| 25 | [Quando nasce un amore](https://open.spotify.com/track/57J7lg7C1IZRxvA13J1nhw) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [Pensami Per Te](https://open.spotify.com/album/3i6vpMk0xhgOvpkX7cEOXq) | 3:59 |
+| 23 | [Cosa Resterà Degli Anni 80](https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Cosa resterà degli anni 80](https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa) | 5:12 |
+| 24 | [Quando nasce un amore](https://open.spotify.com/track/57J7lg7C1IZRxvA13J1nhw) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [Pensami Per Te](https://open.spotify.com/album/3i6vpMk0xhgOvpkX7cEOXq) | 3:59 |
+| 25 | [Lei verrà](https://open.spotify.com/track/1WrT3pRtE32H2lyLPQFJq1) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:05 |
 | 26 | [CENERE](https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [CENERE](https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh) | 3:28 |
 | 27 | [TANGO](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 |
 | 28 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 38 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 |
 | 39 | [Un Giorno Mi Dirai](https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [Miss Nostalgia](https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH) | 4:04 |
 | 40 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 |
-| 41 | [Noi Ragazzi Di Oggi](https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Canta En Italiano](https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz) | 3:41 |
-| 42 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
+| 41 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
+| 42 | [Noi Ragazzi Di Oggi](https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Canta En Italiano](https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz) | 3:41 |
 | 43 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 |
 | 44 | [Non voglio mica la luna](https://open.spotify.com/track/0xZGPXJ0vzeWIcVlwI4jY8) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Fiordaliso](https://open.spotify.com/album/3oBdY9Ue7M2VSMrsBfdN6s) | 4:02 |
 | 45 | [Senza giacca e cravatta](https://open.spotify.com/track/7DkFHdtNlzHE5gcJT7vGKV) | [Nino D'Angelo](https://open.spotify.com/artist/4xhEhRE75hHgXMeNeeTTsx) | [Stella 'E Matina](https://open.spotify.com/album/70YSojRDllSp9yE0KYOe5P) | 4:14 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 63 | [Non mi avete fatto niente](https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Non mi avete fatto niente](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) | 3:28 |
 | 64 | [Non amarmi](https://open.spotify.com/track/0YRMOyyJw458JBQhZMEvce) | [Francesca Alotta](https://open.spotify.com/artist/4GcNZfx2mvaMpGL76GAqBE), [Aleandro Baldi](https://open.spotify.com/artist/07RQpJUe4UmtHuLO7X17l4) | [Italian Love Songs](https://open.spotify.com/album/1og5fGuVXjSWeAGQMkfLrX) | 4:56 |
 | 65 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
-| 66 | [Signor tenente](https://open.spotify.com/track/6jT1ZkS8MkBZVdI8CGD4cS) | [Giorgio Faletti](https://open.spotify.com/artist/6lXJfV8IwjjXR4EkHOZDxq) | [Come un cartone animato](https://open.spotify.com/album/3yWhVhKidRJpTRQwrd59EN) | 3:17 |
-| 67 | [E poi](https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 4:27 |
+| 66 | [E poi](https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 4:27 |
+| 67 | [Signor tenente](https://open.spotify.com/track/6jT1ZkS8MkBZVdI8CGD4cS) | [Giorgio Faletti](https://open.spotify.com/artist/6lXJfV8IwjjXR4EkHOZDxq) | [Come un cartone animato](https://open.spotify.com/album/3yWhVhKidRJpTRQwrd59EN) | 3:17 |
 | 68 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
 | 69 | [Se stiamo insieme](https://open.spotify.com/track/3V2TMVsl5LlDvEVff9hw31) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Tutti I Miei Sogni](https://open.spotify.com/album/0tkQys6CWErjTUroTILFsA) | 4:39 |
 | 70 | [Dieci](https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Dieci](https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7) | 3:18 |

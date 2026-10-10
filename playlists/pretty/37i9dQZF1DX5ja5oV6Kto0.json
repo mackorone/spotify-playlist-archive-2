@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro fusion music: Wave$tar",
-  "num_followers": 114157,
+  "num_followers": 114162,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,6 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
-        "name": "4 by 4!",
-        "url": "https://open.spotify.com/album/54edT4Q4ZyiD85OnOftdTr"
-      },
-      "artists": [
-        {
-          "name": "Kold AF",
-          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 167882,
-      "name": "4 by 4!",
-      "url": "https://open.spotify.com/track/5j6r3cRdrrY4mz9yI186mf"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
         "name": "Lalakula",
         "url": "https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 152635,
       "name": "Lalakula",
       "url": "https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
+        "name": "4 by 4!",
+        "url": "https://open.spotify.com/album/54edT4Q4ZyiD85OnOftdTr"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 167882,
+      "name": "4 by 4!",
+      "url": "https://open.spotify.com/track/5j6r3cRdrrY4mz9yI186mf"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
-        "name": "Go Again",
-        "url": "https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Go Again",
-      "url": "https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
         "name": "BALLER",
         "url": "https://open.spotify.com/album/4bvkcz78SjbsxFuUEgEkHU"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 116751,
       "name": "BALLER",
       "url": "https://open.spotify.com/track/5UpTDiAmanLIQEWXxw1lnB"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Easy Company",
+      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
         "name": "Massacre The Show",
         "url": "https://open.spotify.com/album/3mF34OMq5P0rGAE6bCDBFd"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 133384,
       "name": "Massacre The Show",
       "url": "https://open.spotify.com/track/49dafbmuBNj0DJEqdokKBv"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
-        "name": "Hope Is A Heavy Thing",
-        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Easy Company",
-      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
+        "name": "OLORIN PACK",
+        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
+      },
+      "artists": [
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "duration_ms": 114461,
+      "name": "DEELA",
+      "url": "https://open.spotify.com/track/5rsXxjz8FQ1SZMjj7QZiYG"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
         "name": "Okunkun",
         "url": "https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 159000,
       "name": "Okunkun",
       "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
-        "name": "OLORIN PACK",
-        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
-      },
-      "artists": [
-        {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "DEELA",
-      "url": "https://open.spotify.com/track/5rsXxjz8FQ1SZMjj7QZiYG"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -507,22 +507,22 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
-        "name": "Here They Come II",
-        "url": "https://open.spotify.com/album/49MuMZHqKMfILrUtUOfuFs"
+        "name": "No Excuses Deluxe",
+        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
       },
       "artists": [
         {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         }
       ],
-      "duration_ms": 187226,
-      "name": "Here They Come II",
-      "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
+      "duration_ms": 132413,
+      "name": "FINE SHYT (feat. Tml Vibez)",
+      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -551,22 +551,22 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
-        "name": "No Excuses Deluxe",
-        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
+        "name": "Here They Come II",
+        "url": "https://open.spotify.com/album/49MuMZHqKMfILrUtUOfuFs"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
         },
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
         }
       ],
-      "duration_ms": 132413,
-      "name": "FINE SHYT (feat. Tml Vibez)",
-      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
+      "duration_ms": 187226,
+      "name": "Here They Come II",
+      "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
-        "name": "to what we were",
-        "url": "https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9"
-      },
-      "artists": [
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
-        }
-      ],
-      "duration_ms": 134250,
-      "name": "I love you",
-      "url": "https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
         "name": "Ten Ten",
         "url": "https://open.spotify.com/album/2S3DHXubpBKKAdlpz6VfCz"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 141250,
       "name": "Ten Ten",
       "url": "https://open.spotify.com/track/6o2i6XRwvtcan3Harp04Jw"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
+        "name": "to what we were",
+        "url": "https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "duration_ms": 134250,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
-        "name": "agbero mu$ic",
-        "url": "https://open.spotify.com/album/5wED2rMBmgCzY6kgqDUOC9"
-      },
-      "artists": [
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "everla$ting konji",
-      "url": "https://open.spotify.com/track/7jMTolQ6pi41jt10KReWkq"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
         "name": "Stop It",
         "url": "https://open.spotify.com/album/2SsU7ZWMzTVM5y4Od5A0Xi"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 159344,
       "name": "Stop It",
       "url": "https://open.spotify.com/track/4d1VFhVgEluNnHttOaZtCf"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
+        "name": "agbero mu$ic",
+        "url": "https://open.spotify.com/album/5wED2rMBmgCzY6kgqDUOC9"
+      },
+      "artists": [
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "everla$ting konji",
+      "url": "https://open.spotify.com/track/7jMTolQ6pi41jt10KReWkq"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
-        "name": "ghanamu$tgo",
-        "url": "https://open.spotify.com/album/0a085Ir8NI4ezgglf0Cs3L"
-      },
-      "artists": [
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        }
-      ],
-      "duration_ms": 117410,
-      "name": "ghanamu$tgo",
-      "url": "https://open.spotify.com/track/0ZUHbz1wLbdOOnl0lVih23"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
         "name": "CHASE",
         "url": "https://open.spotify.com/album/1cg0O9A1WBH5AtojamA5r0"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 139856,
       "name": "CHASE",
       "url": "https://open.spotify.com/track/7zA485o80rElK5sOGJXHKv"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
+        "name": "ghanamu$tgo",
+        "url": "https://open.spotify.com/album/0a085Ir8NI4ezgglf0Cs3L"
+      },
+      "artists": [
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 117410,
+      "name": "ghanamu$tgo",
+      "url": "https://open.spotify.com/track/0ZUHbz1wLbdOOnl0lVih23"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/0LRtmL1W38YeU446puOrcT"
-      },
-      "artists": [
-        {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
-        },
-        {
-          "name": "King Dr. Saheed Osupa",
-          "url": "https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu"
-        }
-      ],
-      "duration_ms": 102353,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/0K79p0MsYPr5G2N7BbuUfS"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
         "name": "Little Us",
         "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 172303,
       "name": "Relations (feat. Braye)",
       "url": "https://open.spotify.com/track/017OPL77HUwYyPONagEQ2E"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/0LRtmL1W38YeU446puOrcT"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        },
+        {
+          "name": "King Dr. Saheed Osupa",
+          "url": "https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu"
+        }
+      ],
+      "duration_ms": 102353,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0K79p0MsYPr5G2N7BbuUfS"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
-        "name": "#flowstate",
-        "url": "https://open.spotify.com/album/6MWeAxK9tsH3ozNCcy1lfH"
-      },
-      "artists": [
-        {
-          "name": "Zen Univrse",
-          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 112741,
-      "name": "#toomuchswag",
-      "url": "https://open.spotify.com/track/1STZzSByzeHohDFEQbe7Vn"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
         "name": "Lasgidi",
         "url": "https://open.spotify.com/album/2n6ubgIXHpKFQFnxFbbeFG"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 141250,
       "name": "Lasgidi",
       "url": "https://open.spotify.com/track/37O3iBiT1tgRuQWCfM7s9G"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
+        "name": "#flowstate",
+        "url": "https://open.spotify.com/album/6MWeAxK9tsH3ozNCcy1lfH"
+      },
+      "artists": [
+        {
+          "name": "Zen Univrse",
+          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 112741,
+      "name": "#toomuchswag",
+      "url": "https://open.spotify.com/track/1STZzSByzeHohDFEQbe7Vn"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
-        "name": "Dide",
-        "url": "https://open.spotify.com/album/5dB8XJyUhDbjfEZa0yxoS6"
-      },
-      "artists": [
-        {
-          "name": "Solana",
-          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
-        }
-      ],
-      "duration_ms": 121025,
-      "name": "Dide",
-      "url": "https://open.spotify.com/track/2wMklzdPVo20FNBwNB0Q6E"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
+        "name": "Dide",
+        "url": "https://open.spotify.com/album/5dB8XJyUhDbjfEZa0yxoS6"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "duration_ms": 121025,
+      "name": "Dide",
+      "url": "https://open.spotify.com/track/2wMklzdPVo20FNBwNB0Q6E"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
         "name": "REVIVAL",
         "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 178861,
       "name": "J\u00f3",
       "url": "https://open.spotify.com/track/60iZfOsrls9EXquR0MK2Q2"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
+        "name": "LUCKY UU",
+        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+      },
+      "artists": [
+        {
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "The Midnight Wanderer",
+      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -1395,22 +1411,6 @@
       "duration_ms": 237134,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4kYo4gwBmu2MJVrUBeYkbO"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
-        "name": "LUCKY UU",
-        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
-      },
-      "artists": [
-        {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "The Midnight Wanderer",
-      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
     },
     {
       "added_at": "2026-10-09 00:01:52",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-10-09 00:01:52",
       "album": {
+        "name": "Todo Bien",
+        "url": "https://open.spotify.com/album/3s2ZaTRY6eM2jsbyOo6MPv"
+      },
+      "artists": [
+        {
+          "name": "St. Seii",
+          "url": "https://open.spotify.com/artist/3WchDhIvtJqPB9zIVk48SV"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Todo Bien",
+      "url": "https://open.spotify.com/track/279MldTawVir8h259h43Mw"
+    },
+    {
+      "added_at": "2026-10-09 00:01:52",
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2lEEbThauZtfld9ofCPPQh"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 173220,
       "name": "Money",
       "url": "https://open.spotify.com/track/1CjTilfvExW83uJDO5N8HP"
-    },
-    {
-      "added_at": "2026-10-09 00:01:52",
-      "album": {
-        "name": "Todo Bien",
-        "url": "https://open.spotify.com/album/3s2ZaTRY6eM2jsbyOo6MPv"
-      },
-      "artists": [
-        {
-          "name": "St. Seii",
-          "url": "https://open.spotify.com/artist/3WchDhIvtJqPB9zIVk48SV"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/279MldTawVir8h259h43Mw"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

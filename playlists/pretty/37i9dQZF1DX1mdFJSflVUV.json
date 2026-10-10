@@ -1,6 +1,6 @@
 {
   "description": "Canciones para subirse al auto y cantar sin parar.",
-  "num_followers": 968094,
+  "num_followers": 968201,
   "original_name": "Canta en el auto",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "A M\u00ed",
-        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "A M\u00ed",
-      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 207333,
       "name": "Am\u00e1rrame",
       "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "A M\u00ed",
+        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "A M\u00ed",
+      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Extreme II - Pornograffitti",
         "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 334106,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 159849,
       "name": "Fuera del mercado",
       "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 232466,
       "name": "Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
+        "name": "El Madrile\u00f1o",
+        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 153960,
+      "name": "Demasiadas Mujeres",
+      "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 214880,
       "name": "Como te extra\u00f1o mi amor",
       "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
-        "name": "El Madrile\u00f1o",
-        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 153960,
-      "name": "Demasiadas Mujeres",
-      "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Sigue Tu Camino",
-        "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Un Osito de Peluche de Taiw\u00e1n",
-      "url": "https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Sigue Tu Camino",
+        "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Un Osito de Peluche de Taiw\u00e1n",
+      "url": "https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn"
     },
     {
       "added_at": "2025-11-19 18:19:27",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "romanticonas y fresonas, pero norte\u00f1onas. Cornelio Vega y La Receta en portada",
+  "description": "romanticonas y fresonas, pero norte\u00f1onas. Nueva Marca en portada",
   "name": "chikilla bonita",
   "tracks": [
     {
@@ -448,6 +448,28 @@
       "duration_ms": 297960,
       "name": "Amor de Antes - Remix",
       "url": "https://open.spotify.com/track/5h8Etk285Yfuk8bAjP3YtP"
+    },
+    {
+      "album": {
+        "name": "Amor De Cuatro Paredes",
+        "url": "https://open.spotify.com/album/6eRdPjQMeMUCntIDeWSLTN"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183076,
+      "name": "Amor De Cuatro Paredes",
+      "url": "https://open.spotify.com/track/1ZXnteLmq7k3b0OvsPrTZn"
     },
     {
       "album": {
@@ -1284,6 +1306,28 @@
       "duration_ms": 198843,
       "name": "Coronada",
       "url": "https://open.spotify.com/track/3EkjYdIcPy5pmRKncozJun"
+    },
+    {
+      "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/48xKDIyG9NdM3apFVAzHLQ"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        },
+        {
+          "name": "Ultima Esencia",
+          "url": "https://open.spotify.com/artist/6Cek7Jo12UlmR5qgc494l6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224772,
+      "name": "Cosas Del Amor",
+      "url": "https://open.spotify.com/track/0DRiyhWg4hQkOluGV27FJR"
     },
     {
       "album": {
@@ -4156,7 +4200,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 138681,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/36ehqS4xs0zCeS73DW72FK"
@@ -4586,6 +4630,24 @@
       "duration_ms": 206611,
       "name": "Para No Verte Mas - En Vivo",
       "url": "https://open.spotify.com/track/6287fa53PCncJzHOC8gtky"
+    },
+    {
+      "album": {
+        "name": "\u00bfBailamos? (En Vivo)",
+        "url": "https://open.spotify.com/album/6GZdI5chDgrYeSTwntQlZg"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "Para No Verte Mas - En Vivo",
+      "url": "https://open.spotify.com/track/4OuRwOO09xyxmuuGgW99pL"
     },
     {
       "album": {
@@ -6214,7 +6276,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 177237,
       "name": "Tu Forma De Ser",
       "url": "https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j"
@@ -6584,7 +6646,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 209792,
       "name": "Volv\u00ed a Nacer - En Vivo",
       "url": "https://open.spotify.com/track/5X6QFB5YNmiJuvIVTcnque"

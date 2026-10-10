@@ -2627,6 +2627,36 @@
     },
     {
       "album": {
+        "name": "Tujh Mein Basi Meri Jaan (From \"Prahaar: The Untold Story Of Ujjwal Nikam\")",
+        "url": "https://open.spotify.com/album/64AlQl7Bmpu0jseIVRX577"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234047,
+      "name": "Tujh Mein Basi Meri Jaan (From \"Prahaar: The Untold Story Of Ujjwal Nikam\")",
+      "url": "https://open.spotify.com/track/2t5tY8gvTlUlGlOuG8Czne"
+    },
+    {
+      "album": {
         "name": "Tujhko (From \u201cCocktail 2\u201d)",
         "url": "https://open.spotify.com/album/5UDscrlkAJfJPEGiKUdt3u"
       },
@@ -2944,7 +2974,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 306818,
       "name": "Yeh Prem Mol Liya Title Track - From \"Yeh Prem Mol Liya\"",
       "url": "https://open.spotify.com/track/3JvD4HC5eiJXG7xK15ARw5"

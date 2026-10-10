@@ -1,6 +1,6 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 91106,
+  "num_followers": 91137,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
@@ -911,42 +911,6 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "Dhurandhar The Revenge",
-        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Anuradha Paudwal",
-          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Anand-Milind",
-          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
-        },
-        {
-          "name": "Sameer Anjaan",
-          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
-        },
-        {
-          "name": "Qveen Herby",
-          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
-        }
-      ],
-      "duration_ms": 208169,
-      "name": "Hum Pyaar Karne Wale",
-      "url": "https://open.spotify.com/track/09WTiAB81RmPHae2BPjtaQ"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
         "name": "Bang Bang (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/52gSIQvhLN9EeGNtHJELEu"
       },
@@ -1003,6 +967,42 @@
       "duration_ms": 258472,
       "name": "Besharam Rang (From \"Pathaan\")",
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
+        "name": "Dhurandhar The Revenge",
+        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand-Milind",
+          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        },
+        {
+          "name": "Qveen Herby",
+          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
+        }
+      ],
+      "duration_ms": 208169,
+      "name": "Hum Pyaar Karne Wale",
+      "url": "https://open.spotify.com/track/09WTiAB81RmPHae2BPjtaQ"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "International Villager",
-        "url": "https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Gippy Grewal",
-          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Angreji Beat",
-      "url": "https://open.spotify.com/track/4psVrPZy07uZTLwc3Mqz4V"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
         "name": "Yaad Piya Ki Aane Lagi",
         "url": "https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 256678,
       "name": "Yaad Piya Ki Aane Lagi",
       "url": "https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
+        "name": "International Villager",
+        "url": "https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Angreji Beat",
+      "url": "https://open.spotify.com/track/4psVrPZy07uZTLwc3Mqz4V"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1563,6 +1563,34 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Loveyatri - A Journey Of Love",
+        "url": "https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        }
+      ],
+      "duration_ms": 249741,
+      "name": "Chogada",
+      "url": "https://open.spotify.com/track/1HBGWNyoRJhxvsfO8LLFDo"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Yaariyan",
         "url": "https://open.spotify.com/album/59RFGu1upndkHRqpJWHvos"
       },
@@ -1599,34 +1627,6 @@
       "duration_ms": 180648,
       "name": "Sapphire (feat. Arijit Singh) - Remix",
       "url": "https://open.spotify.com/track/65dt1vedDHPOCCPS3mVhtN"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Loveyatri - A Journey Of Love",
-        "url": "https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio"
-      },
-      "artists": [
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        },
-        {
-          "name": "Lijo George-Dj Chetas",
-          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
-        },
-        {
-          "name": "Shabbir Ahmed",
-          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
-        }
-      ],
-      "duration_ms": 249741,
-      "name": "Chogada",
-      "url": "https://open.spotify.com/track/1HBGWNyoRJhxvsfO8LLFDo"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Khiladi 786",
+        "url": "https://open.spotify.com/album/5BoZm7cUUN5BpcXrNk1Z0v"
+      },
+      "artists": [
+        {
+          "name": "Sreerama Chandra",
+          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 227578,
+      "name": "Balma",
+      "url": "https://open.spotify.com/track/2AAYoDgYtx5WCAg7Axeg70"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1719,26 +1739,6 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "Khiladi 786",
-        "url": "https://open.spotify.com/album/5BoZm7cUUN5BpcXrNk1Z0v"
-      },
-      "artists": [
-        {
-          "name": "Sreerama Chandra",
-          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 227578,
-      "name": "Balma",
-      "url": "https://open.spotify.com/track/2AAYoDgYtx5WCAg7Axeg70"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
         "name": "Mitron (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
       },
@@ -1763,30 +1763,6 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "Naach Meri Rani (Feat. Nora Fatehi)",
-        "url": "https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 212692,
-      "name": "Naach Meri Rani (Feat. Nora Fatehi)",
-      "url": "https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
         "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
         "url": "https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba"
       },
@@ -1807,6 +1783,30 @@
       "duration_ms": 201655,
       "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
       "url": "https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
+        "name": "Naach Meri Rani (Feat. Nora Fatehi)",
+        "url": "https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 212692,
+      "name": "Naach Meri Rani (Feat. Nora Fatehi)",
+      "url": "https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV"
     },
     {
       "added_at": "2026-09-23 05:15:16",

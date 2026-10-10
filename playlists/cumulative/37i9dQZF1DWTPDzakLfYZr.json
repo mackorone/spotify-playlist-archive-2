@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Manuel Turizo.",
+  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Maisak\n",
   "name": "Popet\u00f3n",
   "tracks": [
     {
@@ -2344,6 +2344,24 @@
       "duration_ms": 161684,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6ANTIKDETHmCjzeBVzMQjf"
+    },
+    {
+      "album": {
+        "name": "Vallenatico pa la Disco",
+        "url": "https://open.spotify.com/album/2NIdcHU9Bs37j9a7WHtUMH"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156712,
+      "name": "Dejarte Ir",
+      "url": "https://open.spotify.com/track/16vfIvWt0Gw8z2Kj3CE3qt"
     },
     {
       "album": {

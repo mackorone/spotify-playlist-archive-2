@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-428 songs - 21 hr 32 min
+429 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-06-28 | 2024-10-05 |
 | [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 | 2025-10-03 | 2025-11-08 |
 | [Bez końca](https://open.spotify.com/track/65EGTb29Squ7K3HHh3sKi8) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Bez końca](https://open.spotify.com/album/1j0BJwMQ93VjRqerPUfV5e) | 2:35 | 2026-07-30 |  |
-| [BINGO](https://open.spotify.com/track/2wGVE0g9O1W0y5qn1dhxWc) | [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [BINGO](https://open.spotify.com/album/7CicXo3iHdF0zdD3yWMFuA) | 3:06 | 2026-10-02 |  |
+| [BINGO](https://open.spotify.com/track/2wGVE0g9O1W0y5qn1dhxWc) | [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [BINGO](https://open.spotify.com/album/7CicXo3iHdF0zdD3yWMFuA) | 3:06 | 2026-10-02 | 2026-10-10 |
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-10-10 | 2026-01-24 |
 | [Boisz się](https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo), [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [Boisz się](https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX) | 3:01 | 2025-10-03 | 2025-10-11 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-07 | 2025-08-09 |
@@ -432,6 +432,7 @@
 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 | 2025-08-08 | 2026-06-19 |
 | [Łapię się na myślach](https://open.spotify.com/track/5NbwPBOEFXAYHRZ4GIFYgb) | [Marcelina](https://open.spotify.com/artist/4kKbItPBdKcK8wQ8A9LXMt) | [Łapię się na myślach](https://open.spotify.com/album/656f6gOTWmdjW65Xy7KPHE) | 3:48 | 2024-06-28 | 2024-07-06 |
 | [Śrubka](https://open.spotify.com/track/42HCLyg66bqYWCPU3wqyMS) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Śrubka](https://open.spotify.com/album/2i4XVKYPGzTpFiesqiGpDj) | 4:10 | 2024-06-28 | 2024-09-07 |
+| [Żebro](https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Plamy](https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P) | 3:31 | 2026-10-02 |  |
 | [ŻURAWIE](https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [ŻURAWIE](https://open.spotify.com/album/5HjIBIK0vlq42Yzc4Mzm3t) | 2:25 | 2026-04-10 | 2026-04-18 |
 | [Życie, używki, kariera](https://open.spotify.com/track/4ZA0UrTvbVchyZUN3pXNfc) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Spektrum uczuć](https://open.spotify.com/album/5UaBEg5wbwohA7Kulzyfrr) | 2:03 | 2025-11-14 | 2025-12-20 |
 | [Żywioły](https://open.spotify.com/track/2qZ8B8fc2kejGqUR3rVKk7) | [Bibobit](https://open.spotify.com/artist/30nbDQcIKNaKHQFCE97DBX) | [Żywioły](https://open.spotify.com/album/1WaBxPeBJFjDNxhcRpWSwp) | 3:41 | 2025-10-03 | 2025-10-11 |

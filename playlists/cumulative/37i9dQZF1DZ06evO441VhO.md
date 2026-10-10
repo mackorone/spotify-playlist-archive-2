@@ -4,7 +4,7 @@
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 59 min
+115 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Doomsday on the Radio](https://open.spotify.com/track/4RdajoSN5zFTyFkQx3rSyc) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:50 | 2026-09-05 | 2026-09-23 |
 | [Doomsday on the Radio](https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Doomsday on the Radio](https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8) | 2:50 | 2024-09-06 | 2026-03-20 |
 | [Down Without a Fight](https://open.spotify.com/track/0oXKsquvboVD6qFut5U9YU) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Bonus Brothers \(Japan Only Bonus Tracks\)](https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs) | 3:36 | 2022-09-16 | 2024-08-30 |
-| [Evil Anonymous](https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 2:56 | 2023-12-14 |  |
+| [Evil Anonymous](https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 2:56 | 2023-12-14 | 2026-10-10 |
 | [Evil Anonymous](https://open.spotify.com/track/6fB3DvO3syABrIW527ISKA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Evil Anonymous](https://open.spotify.com/album/6XrDxDfccAIF248JyKIMvS) | 2:56 | 2022-12-12 | 2023-12-15 |
 | [F.L.F.U.](https://open.spotify.com/track/2Vh5khmfrno2b4kZNcyEi5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [II](https://open.spotify.com/album/0hgsziS63NRPOR0YoCzMkD) | 4:00 | 2023-02-04 | 2023-12-14 |
 | [F.L.F.U.](https://open.spotify.com/track/7CAF2YK0IvvUFiQhGwiqF0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 4:00 | 2023-12-13 | 2024-10-20 |
@@ -119,6 +119,7 @@
 | [When Both Sides Suck, We’re All Winners](https://open.spotify.com/track/5IyQS3m4KcqaGSD2V86EDO) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/3DDxNWfF3bAjK0cB5sOmyt) | 3:03 | 2025-10-10 |  |
 | [Who Brings a Knife to a Gunfight?](https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:51 | 2022-09-16 | 2026-08-28 |
 | [With Legs Like That \(Maria\)](https://open.spotify.com/track/37WKcLIJyGNQKBwaYAKVkx) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [WWE: Wreckless Intent](https://open.spotify.com/album/2m4KqjduGuZ3Vd4xdCnwMc) | 3:07 | 2022-09-20 | 2026-04-26 |
+| [With Legs Like That \(Maria\)](https://open.spotify.com/track/5dXoiHdup6fjz4T8lHRJXM) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [WWE: Wreckless Intent](https://open.spotify.com/album/1168n2EYwmtBVYj3w1lTdD) | 3:07 | 2026-10-10 |  |
 | [Worse Than This](https://open.spotify.com/track/4wjCtIESmOrufJnqpCNeNs) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:23 | 2022-09-16 |  |
 | [You Don't Know Anything About Me](https://open.spotify.com/track/0Bfi4xUfHr3R8GnfYr2rcz) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 2:44 | 2025-09-09 |  |
 | [You Don’t Know Anything About Me](https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:44 | 2022-09-16 | 2025-09-09 |

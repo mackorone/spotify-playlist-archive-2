@@ -166,6 +166,24 @@
     {
       "album": {
         "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Desert Oasis",
+      "url": "https://open.spotify.com/track/3kK4h79kBOzCZrep4LW2ap"
+    },
+    {
+      "album": {
+        "name": "Mirage",
         "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
       "artists": [
@@ -176,7 +194,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 154920,
       "name": "Desert Oasis",
       "url": "https://open.spotify.com/track/4raVYWt5YDX4GlLDUrRM9c"
@@ -238,6 +256,28 @@
     {
       "album": {
         "name": "Heaven",
+        "url": "https://open.spotify.com/album/3dDHsgsMUgGJrgfxPyjdcI"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1MjfmxFnt7CpIG4KnXS7jI"
+    },
+    {
+      "album": {
+        "name": "Heaven",
         "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
       },
       "artists": [
@@ -252,7 +292,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 182906,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
@@ -332,6 +372,24 @@
     {
       "album": {
         "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149253,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/0605IFCVNYSchpfcoS77YU"
+    },
+    {
+      "album": {
+        "name": "Mirage",
         "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
       "artists": [
@@ -342,7 +400,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 149253,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/5as974bpTDV3CJGZYbK6kJ"
@@ -432,7 +490,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 113106,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6mU00UhZ1jCEyEoja3B3hl"
@@ -468,10 +526,28 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 175386,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
+    },
+    {
+      "album": {
+        "name": "Shameless",
+        "url": "https://open.spotify.com/album/3rV6cj8X6K8L1NE7l2qAuo"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175386,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/7FpUhTBcs6Ap2xrx5us2Jp"
     },
     {
       "album": {
@@ -566,6 +642,24 @@
       "duration_ms": 178280,
       "name": "TRACK 02 (Dangerous Lover)",
       "url": "https://open.spotify.com/track/6YoIklDN0qyJA1NuXwKrEw"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "When You Need Me",
+      "url": "https://open.spotify.com/track/5843TGIiIISilnWgOM84vl"
     },
     {
       "album": {

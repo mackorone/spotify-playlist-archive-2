@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Sommerhits 🙂‍↔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584,514 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,584,271 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 28 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 29 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 |
 | 30 | [Show Me Love \(with Tyla\)](https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Show Me Love \(with Tyla\)](https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti) | 2:56 |
-| 31 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
-| 32 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
+| 31 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
+| 32 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
 | 33 | [SHAKE IT TO THE MAX \(FLY\) \- REMIX](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [SHAKE IT TO THE MAX \(FLY\) \(REMIX\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 34 | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs) | 2:14 |
 | 35 | [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 |

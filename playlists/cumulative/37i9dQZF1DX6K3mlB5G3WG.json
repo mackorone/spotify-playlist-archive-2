@@ -46887,6 +46887,24 @@
     },
     {
       "album": {
+        "name": "ok buonanotte",
+        "url": "https://open.spotify.com/album/5XcS6TmwOrLNWXGwIhJV51"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157405,
+      "name": "ok buonanotte",
+      "url": "https://open.spotify.com/track/3D3tkwn0dPmNUg0R0o8qG7"
+    },
+    {
+      "album": {
         "name": "OK Scusa Errore Mio",
         "url": "https://open.spotify.com/album/1MXXmolM5zHQu2VOzWSXup"
       },

@@ -1,6 +1,6 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Victony",
-  "num_followers": 321123,
+  "num_followers": 321128,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
+        "name": "Escaladizzy",
+        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Escaladizzy",
+      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
         "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
         "url": "https://open.spotify.com/album/7weLnc8ITNXPCwG2tVxUXs"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 374237,
       "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
       "url": "https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
-        "name": "Escaladizzy",
-        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "WAVE$TAR",
-          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Escaladizzy",
-      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "PARTYGYAL",
-        "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
-      },
-      "artists": [
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 167355,
-      "name": "PARTYGYAL",
-      "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "PARTYGYAL",
+        "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 167355,
+      "name": "PARTYGYAL",
+      "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
     },
     {
       "added_at": "2026-08-20 23:00:27",

@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra Emma Steinbakken, girl in red\(blue?\),  Chris Holsten og mange fler!! ♥️
 
-12,684 songs - 27 day 12 hr 22 min
+12,685 songs - 27 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11599,7 +11599,7 @@
 | [u make me feel alive](https://open.spotify.com/track/0YxydWXWSf9oUdftt0dXaH) | [Sindresu](https://open.spotify.com/artist/76ABe2gQodROtWDOWQRL9J) | [u make me feel alive](https://open.spotify.com/album/0hFEerEBOcAsHFKiHkHwOs) | 3:03 | 2026-08-27 | 2026-09-04 |
 | [Uansett hvem du er](https://open.spotify.com/track/5nLQt0ahxPkenarXZyd7xn) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Uansett hvem du er](https://open.spotify.com/album/5cCJ1Xn8MSpvXWHjHCE0Z6) | 2:56 | 2024-08-29 | 2024-09-06 |
 | [Uansett ka du gjør](https://open.spotify.com/track/3K1ncsPhCjmsvxK13h4oVi) | [Kordfløyel](https://open.spotify.com/artist/48XfqaX7MK5sRiR4NVl6tq) | [Uansett ka du gjør](https://open.spotify.com/album/4coJiVxxnKkx0F4qBFBnFZ) | 2:44 | 2026-10-08 |  |
-| [Ude Fra Indre](https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Freyy](https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:49 | 2026-10-08 |  |
+| [Ude Fra Indre \(feat\. Freyy\)](https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Freyy](https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:49 | 2026-10-08 |  |
 | [UDØDELIG](https://open.spotify.com/track/4kLjGxRrwhpzFkex5fnexX) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [UDØDELIG](https://open.spotify.com/album/1TOatP9wlGAcYpnFESyzvE) | 3:21 | 2025-03-13 | 2025-03-21 |
 | [Uerstattele](https://open.spotify.com/track/7mwffCXSs61cYihxgqO04h) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Uerstattele](https://open.spotify.com/album/2ovPIfRdXrUfbCKPFL4Gty) | 3:18 | 2026-01-01 | 2026-01-15 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-05-23 | 2024-06-01 |
@@ -12680,6 +12680,7 @@
 | [Över Dig](https://open.spotify.com/track/7z7JxcAWU8Qcl7isuWojg0) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Över Dig](https://open.spotify.com/album/4YHllMfSKktPGgEVUCMjfr) | 2:02 | 2024-12-19 | 2025-01-03 |
 | [Övertänker](https://open.spotify.com/track/3U573wJbbipFNpkGGE2pQh) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Övertänker](https://open.spotify.com/album/38tGxDfs43Mnsip0jruENW) | 3:23 | 2026-01-29 | 2026-02-06 |
 | [Ødela øyeblikket](https://open.spotify.com/track/67QwbL3OuYHDTfGHBnAF1m) | [TØFL](https://open.spotify.com/artist/7lwIdAF5mFXSx37RJdQXR4) | [Eg e deg](https://open.spotify.com/album/3nW4bTh7AdNCMMnvp79BSY) | 3:53 | 2026-09-03 | 2026-09-11 |
+| [Øl På Tapp](https://open.spotify.com/track/7ge3mj530mQOczY2OSob7N) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Øl På Tapp](https://open.spotify.com/album/3mgcwQ8N4fwBXvxpuTWYyK) | 3:40 | 2026-10-09 |  |
 | [Øl, Mobil og Baris](https://open.spotify.com/track/5hJSNMcQ8CQe6jwIFkfNtL) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Øl, Mobil og Baris](https://open.spotify.com/album/5uIw3ow90CVxCwVV9bXcUl) | 3:15 | 2024-06-27 | 2024-07-05 |
 | [Ønsk meg godt](https://open.spotify.com/track/4xhuiFoNuNI1GGEP25FSBV) | [Jan Eggum](https://open.spotify.com/artist/1QfTCSQTI4rrK027UaiSQ6) | [Ønsk meg godt](https://open.spotify.com/album/3ukHOAUjdaZlo7Yv0GnPrs) | 2:55 | 2024-07-26 | 2024-08-02 |
 | [Ønsket](https://open.spotify.com/track/7FgoEtTYNB3S1HxUTGscQm) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7), [Sigrid Aase](https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK) | [Ønsket](https://open.spotify.com/album/3zSObTMHmmRJYjmxHTsxyc) | 3:58 | 2026-08-13 | 2026-08-21 |

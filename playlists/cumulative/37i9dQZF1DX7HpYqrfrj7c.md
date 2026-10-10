@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-100 songs - 5 hr 6 min
+103 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,9 +43,10 @@
 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 | 2024-06-24 |  |
 | [Electric Impression](https://open.spotify.com/track/4Tw2CWFi6qbBZezMBvpUTN) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The SP1200 Project: A Re\-Awakening](https://open.spotify.com/album/6JsylDwCpnODpmaFacekJK) | 4:00 | 2024-06-24 |  |
 | [Fadi Ammous \- Instrumental](https://open.spotify.com/track/6Wq4158Y2nsVntQKToQnyG) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Fadi Ammous \(Instrumental\)](https://open.spotify.com/album/6p5fIROdQYBdpKM5httoSk) | 3:03 | 2024-06-24 |  |
-| [Fall In Love \- Instrumental](https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 | 2024-06-24 |  |
+| [Fall In Love \- Instrumental](https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 | 2024-06-24 | 2026-10-10 |
 | [Family and Loyalty \- Instrumental](https://open.spotify.com/track/0ffXklHorIux1lxo3QdPaA) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [One Of The Best Yet \(Instrumental\)](https://open.spotify.com/album/2RM0ccLK3EL96uOGXTNg1R) | 4:34 | 2024-06-24 |  |
 | [Flava for Your Mind](https://open.spotify.com/track/3vcxZojZDMdjBEdeWFDr9h) | [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Cloudfiles](https://open.spotify.com/album/6JLHKaczyeK3RfC9CdWuag) | 3:16 | 2024-06-24 |  |
+| [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 | 2026-10-09 |  |
 | [garden](https://open.spotify.com/track/74Vg6QC4c1RbUf06QPiFAA) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [garden](https://open.spotify.com/album/4SPyNdJsi4bwa3e8McuCaj) | 1:55 | 2024-06-24 |  |
 | [Getting Ready](https://open.spotify.com/track/3xIrOb8u7IhJ57k1QdOlfH) | [Jake's Jazz](https://open.spotify.com/artist/1JJG6euEgzSf0XsPXEPLNR) | [Getting Ready](https://open.spotify.com/album/2uyvo4G9oLcGFup2e6XCfE) | 2:25 | 2026-03-05 |  |
 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2024-06-24 |  |
@@ -77,12 +78,13 @@
 | [Passin' Me By \- Instrumental](https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde \(25th Anniversary Edition\)](https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke) | 5:02 | 2024-06-24 |  |
 | [pipe dream](https://open.spotify.com/track/3GRAPXTa7fOQXjIPji3kQL) | [Pathos](https://open.spotify.com/artist/000A3Oa2wuuR3oJ5vjXkns) | [pipe dream](https://open.spotify.com/album/4kLl1PI6dgLFGW8HXO2fCq) | 2:34 | 2026-03-05 |  |
 | [Play My Guitar](https://open.spotify.com/track/0NWb5HTrknj2QFMnZb6rYK) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R), [Mr\. Ginseng](https://open.spotify.com/artist/7ttm00ZarLoBYsKnjauVKw) | [Play My Guitar](https://open.spotify.com/album/4wwHYtqvJjDaipxuuGMpGA) | 2:08 | 2025-06-06 |  |
-| [Players \- Instrumental Mix](https://open.spotify.com/track/7tgSKR4pzP2BmJWRQiG0ms) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:08 | 2026-03-17 |  |
+| [Players \- Instrumental Mix](https://open.spotify.com/track/7tgSKR4pzP2BmJWRQiG0ms) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:08 | 2026-03-17 | 2026-10-10 |
 | [Prodigy Vision](https://open.spotify.com/track/7GG2FRZUlqZ4Ll4bNU0G6U) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Prodigy Vision](https://open.spotify.com/album/2cj4KrLQBpngclJF5KErZH) | 3:03 | 2025-05-09 |  |
 | [Proof](https://open.spotify.com/track/5J3blYdGa29GfqTi4FFqTY) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH), [DJ Shon](https://open.spotify.com/artist/2Me9Ky7kqAJtVJKcfTlqHy) | [The All Boom](https://open.spotify.com/album/7xFXnNeyFek3kCgYBkkus0) | 2:00 | 2024-06-24 |  |
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2024-06-24 |  |
 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 | 2024-06-24 |  |
 | [Rather Unique](https://open.spotify.com/track/3Ot1hQQbfRh4Z6wCJuXo7Q) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [It Was Fun While It Lasted](https://open.spotify.com/album/28v6wAkRaAi0FNOaqsPAzi) | 2:42 | 2024-08-14 |  |
+| [Riga By Bike](https://open.spotify.com/track/5LTT4eNSUmsRh5UPWtyhjj) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Riga By Bike](https://open.spotify.com/album/5eziB08STdQkuVE9UAgyOk) | 2:22 | 2026-10-09 |  |
 | [Ruthles \- Instrumental](https://open.spotify.com/track/5ZaZyV92QlH2wGLWLbLfuK) | [Peebs The Prophet](https://open.spotify.com/artist/3orf8fIyCMlFkLUeYK0DCi) | [Ills of the Earth](https://open.spotify.com/album/7lc43Wd0bsY6agW6UIbDH2) | 3:49 | 2024-06-24 |  |
 | [San Francisco Knights \(Instrumental\)](https://open.spotify.com/track/31xZVD02zeo37iR93FRRGv) | [Thes One](https://open.spotify.com/artist/6G69CndLxnRxLdy8MVLNmG) | [10 Years of Thes One](https://open.spotify.com/album/623wsoLB2FtwXyV6dWY9R6) | 3:50 | 2024-06-24 |  |
 | [She Said \- Remix Instrumental](https://open.spotify.com/track/1VPWK4FEOmwLP6jHVmAj1p) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:30 | 2024-06-24 |  |
@@ -107,6 +109,7 @@
 | [What You Want \- Instrumental](https://open.spotify.com/track/5RXxzWwZh6ywqPjWV8qXhq) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [What You Want](https://open.spotify.com/album/0XJn9bM9zWldjvjgWSqhxd) | 4:36 | 2026-03-17 |  |
 | [Where I'm Coming From \- Instrumental](https://open.spotify.com/track/3XXZgmqPvywvV64ZolnAsS) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Cool Classic Jazzstrumentals \(Volume One\)](https://open.spotify.com/album/5QjyX5NN59cQAdkGTJkd4m) | 4:55 | 2024-06-24 |  |
 | [Without A Doubt \- Salaam's Instrumental](https://open.spotify.com/track/6xTaxuMvkwei3jUvURKALP) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [Without A Doubt](https://open.spotify.com/album/1R5aQuxBBfgZCWpJdNwM0L) | 4:26 | 2024-08-21 |  |
+| [Yellow](https://open.spotify.com/track/50diMjsY2J4S7gRe4hxDt9) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Next Heap of Sequences](https://open.spotify.com/album/6NsEhseg7Qzz3JlWMIxeAW) | 2:54 | 2026-10-09 |  |
 | [Zeckenbiss](https://open.spotify.com/track/7gnES6NOL0gFwPhJzkKCEg) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Short Stories \#8](https://open.spotify.com/album/6UL8DzD1lwGsePfoZpt6Ky) | 3:34 | 2024-12-16 |  |
 
 \*This playlist was first scraped on 2024-06-29. Prior content cannot be recovered.

@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 226813,
       "name": "Los de la A",
       "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
@@ -2532,6 +2532,36 @@
       "duration_ms": 346038,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
+    },
+    {
+      "album": {
+        "name": "Tenerte Cerquita De Mi (Remix)",
+        "url": "https://open.spotify.com/album/2vONQlRuGxSzbBwGKJVtsx"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Alcal\u00e1",
+          "url": "https://open.spotify.com/artist/2gbV4mSUB4g53MVC81tMfe"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245411,
+      "name": "Tenerte Cerquita De Mi - Remix",
+      "url": "https://open.spotify.com/track/1DKAk7RhcbZnK3YllWGCVI"
     },
     {
       "album": {

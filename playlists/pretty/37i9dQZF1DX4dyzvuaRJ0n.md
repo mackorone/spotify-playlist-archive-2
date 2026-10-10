@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Cloonee
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,457,602 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,455,321 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 |
 | 75 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 |
 
-Snapshot ID: `AAAAAHeWNhICbAgQ1cwZ3irnPhbte2tD`
+Snapshot ID: `AAAAAGRYuNMGWcODpU4UUERlr+UVRhso`

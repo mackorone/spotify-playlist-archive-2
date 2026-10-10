@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 293649,
+  "num_followers": 293689,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAACUyIF6F/pZiJ/BauF5OR1y",
+  "snapshot_id": "asbdAAAAAAA/aJtW1c4FK6Z3+CvkK0UV",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
       "duration_ms": 250133,
       "name": "Revolution - Abandoned TV Ad",
       "url": "https://open.spotify.com/track/673fCuKOFSiWjWiBm0t0Hn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes (2026 Mix)",
+        "url": "https://open.spotify.com/album/1Fbi1jCqM5EXud9xBGer1K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Heroes - 2026 Mix",
+      "url": "https://open.spotify.com/track/6WLXTE0f4ohzfXTF33cNYZ"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize",
-        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 243321,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Through The Night",
         "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
       },
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 243321,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slang (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 320164,
       "name": "All I Want Is Everything",
       "url": "https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenalize",
-        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 217648,
-      "name": "I Wanna Touch U",
-      "url": "https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Star Halos",
-        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/6hkkdM53ygDdIQtCTxoMPi"
       },
       "artists": [
         {
@@ -752,9 +752,25 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 222506,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
+      "duration_ms": 260500,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/4v8i2jaEKMJyEmlgIEPOZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 217648,
+      "name": "I Wanna Touch U",
+      "url": "https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x"
     },
     {
       "added_at": null,
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/6hkkdM53ygDdIQtCTxoMPi"
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 260500,
-      "name": "Rejoice",
-      "url": "https://open.spotify.com/track/4v8i2jaEKMJyEmlgIEPOZ0"
+      "duration_ms": 222506,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 240920,
       "name": "Now",
       "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Def Leppard",
-        "url": "https://open.spotify.com/album/68zsPqS53fVtv9jUU2GZPz"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic"
     }
   ],
   "unique_name": "This Is Def Leppard",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 
 > Sign up for False Idols at Drumsheds <a href="https://register.broadwicklive.com/false\-idols\-london?ref=dsweb">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,861 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,862 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 30 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 |
 | 31 | [Last One For Today](https://open.spotify.com/track/2Rlwc41Lv2p1bARfNuYfrj) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Nyra](https://open.spotify.com/artist/68JPALv2DlQNPeiyyO7PP8) | [Last One For Today](https://open.spotify.com/album/7JyUDLcqiIs63lqhn1SalC) | 6:23 |
 | 32 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
-| 33 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jen Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 |
+| 33 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/6krQyQ8XW0ZiNB9fjui2ur) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/0Ef1aaC3SD8EPr72sOYceZ) | 2:06 |
 | 34 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 |
-| 35 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/6krQyQ8XW0ZiNB9fjui2ur) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/0Ef1aaC3SD8EPr72sOYceZ) | 2:06 |
+| 35 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jen Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 |
 | 36 | [Affirmations](https://open.spotify.com/track/6kTxmVtwFSqOLatUYH57FH) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P) | 3:34 |
 | 37 | [MADELINE \- Sam Girling Remix](https://open.spotify.com/track/53Az0orgzVQOMQHsjribTZ) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [MADELINE \(Remixes\)](https://open.spotify.com/album/7kbuL98bYaEhxX3q69p5lE) | 3:25 |
 | 38 | [Make Time](https://open.spotify.com/track/55WKq24vogr2aeB0f41K1S) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Make Time](https://open.spotify.com/album/1S0RtAabyNrG88zre9tDWa) | 8:35 |
-| 39 | [Poison \- Club Shy mix](https://open.spotify.com/track/5RJNdm66nI9xUVr3A1g48B) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 3:35 |
-| 40 | [Want Me](https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Want Me](https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u) | 4:34 |
+| 39 | [Want Me](https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Want Me](https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u) | 4:34 |
+| 40 | [Poison \- Club Shy mix](https://open.spotify.com/track/5RJNdm66nI9xUVr3A1g48B) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 3:35 |
 | 41 | [All I Need](https://open.spotify.com/track/6TDatI1isX5XlhT1QQ8kO6) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [Michelle Manetti](https://open.spotify.com/artist/5LcNSaw8X9bRD2r0GU3DyI) | [All I Need](https://open.spotify.com/album/1wywTRTdBa44D3fDwS8yyR) | 4:12 |
 | 42 | [Lifetime \- Planningtorock 'Let It Happen' Remix](https://open.spotify.com/track/6U9opnMMouhZdQaseeVQTq) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Lifetime \(Planningtorock 'Let It Happen' Remix\)](https://open.spotify.com/album/5s9bJNRbfFkJAlxmjJbexn) | 6:59 |
 | 43 | [Forever 2 \(Crush Mix\) \- Edit](https://open.spotify.com/track/3sS48tE1iA7CLb8iAhNHOv) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Forever 2 \(Crush Mix\)](https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR) | 2:55 |

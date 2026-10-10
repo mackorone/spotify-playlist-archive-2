@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Luister La Voz & Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,157 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,132 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 77 | [RAMÉ](https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [RAMÉ](https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw) | 2:41 |
 | 78 | [No Llegamos Ni A Febrero](https://open.spotify.com/track/5yb9zjiSDK9cMBhQxI0TMs) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [No Llegamos Ni A Febrero](https://open.spotify.com/album/6aNgiuAeoVLHICmNiZryZo) | 2:58 |
 | 79 | [Ojitos Chinos](https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Ojitos Chinos](https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk) | 2:21 |
-| 80 | [WAYO :\(](https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [WAYO :\(](https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI) | 2:25 |
-| 81 | [Volver a Verte](https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Volver a Verte](https://open.spotify.com/album/6xn0R7Iv47dIgId3xv9zaw) | 3:03 |
+| 80 | [Volver a Verte](https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Volver a Verte](https://open.spotify.com/album/6xn0R7Iv47dIgId3xv9zaw) | 3:03 |
+| 81 | [WAYO :\(](https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [WAYO :\(](https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI) | 2:25 |
 | 82 | [PAKETE VAS](https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [PAKETE VAS](https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU) | 2:07 |
 | 83 | [Aroma](https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Afro Vibes \(2024\-07\-19\)](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:09 |
 | 84 | [Loba](https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Loba](https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3) | 4:17 |

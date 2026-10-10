@@ -1,12 +1,12 @@
 {
   "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: The Midnight Darlings",
-  "num_followers": 21910,
+  "num_followers": 21924,
   "original_name": "Ke Seberang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALvqTIlRaaskri4xfU5IT5OZ2ScD",
+  "snapshot_id": "AAAAAE3eOlTAQzmxsE3ncyf3kIzHoVH1",
   "tracks": [
     {
       "added_at": "2026-10-02 00:47:00",
@@ -25,6 +25,42 @@
       "url": "https://open.spotify.com/track/1hRmw8AVrlIOa5ehnPYJyy"
     },
     {
+      "added_at": "2026-10-09 11:01:52",
+      "album": {
+        "name": "888 DREAMALDI FM",
+        "url": "https://open.spotify.com/album/5pX9Q3KV0Ol6zJsgM1g5eq"
+      },
+      "artists": [
+        {
+          "name": "RIMALDI",
+          "url": "https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg"
+        },
+        {
+          "name": "Kamga",
+          "url": "https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O"
+        }
+      ],
+      "duration_ms": 206194,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2xRwmHBx73LESapoLP1UTE"
+    },
+    {
+      "added_at": "2026-10-09 11:01:52",
+      "album": {
+        "name": "hang up",
+        "url": "https://open.spotify.com/album/7yORBQzMj1hW43hfwPO5Sa"
+      },
+      "artists": [
+        {
+          "name": "Kendis",
+          "url": "https://open.spotify.com/artist/5HLrlI5LdULY9s740CsAFZ"
+        }
+      ],
+      "duration_ms": 155025,
+      "name": "hang up",
+      "url": "https://open.spotify.com/track/5B1ALcoyNEKkg0vBVmsu3g"
+    },
+    {
       "added_at": "2026-10-02 00:47:00",
       "album": {
         "name": "Purple Skies",
@@ -39,6 +75,22 @@
       "duration_ms": 197400,
       "name": "Purple Skies",
       "url": "https://open.spotify.com/track/77bC0ESV61P6wYnePiO6z3"
+    },
+    {
+      "added_at": "2026-10-09 11:01:52",
+      "album": {
+        "name": "Feels Like A Crime",
+        "url": "https://open.spotify.com/album/7zr0qXtTJQwwZDwCwmXfvT"
+      },
+      "artists": [
+        {
+          "name": "Zolie",
+          "url": "https://open.spotify.com/artist/4pcletN1p2Xcxi8g5YHHgT"
+        }
+      ],
+      "duration_ms": 200645,
+      "name": "Feels Like A Crime",
+      "url": "https://open.spotify.com/track/0R01JwZEAB5HqNZQ3zX9Kn"
     },
     {
       "added_at": "2026-10-02 00:47:00",

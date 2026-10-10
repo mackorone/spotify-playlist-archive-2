@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Sam Alfred
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,715 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,701 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 26 | [Ethereal Connection](https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:42 |
 | 27 | [Shoreditch](https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W) | [Vard.](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Shoreditch](https://open.spotify.com/album/2UI5HpK8lRfHoVFNYqnv3N) | 2:29 |
 | 28 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
-| 29 | [SPRINTER](https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha) | [KARMA](https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9) | [SPRINTER](https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj) | 3:07 |
-| 30 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
+| 29 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
+| 30 | [SPRINTER](https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha) | [KARMA](https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9) | [SPRINTER](https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj) | 3:07 |
 | 31 | [RALLY FUNK](https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK) | [prod\. DTM](https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE) | [RALLY FUNK](https://open.spotify.com/album/46zifhmnByKMPQaZSjw9oh) | 1:34 |
 | 32 | [Two Months Off](https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 9:08 |
 | 33 | [Old' On](https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n) | [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Tastes Like The 90s](https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1) | 3:21 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 36 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
 | 37 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 38 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
-| 39 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
-| 40 | [Feel The Friction](https://open.spotify.com/track/3drghRAvtI2VrNDZsHsmlZ) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Feel The Friction](https://open.spotify.com/album/14AhXf3h67J8auGzUzBWLi) | 3:02 |
-| 41 | [Groovy Thang](https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP) | [DTAILR](https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e) | [Groovy Thang](https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC) | 2:47 |
-| 42 | [Leave Your Life \- Lonely Hearts Mix](https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL) | [Alex Kassian](https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY) | [Leave Your Life](https://open.spotify.com/album/4qeik8tRjrndVWsaS7bRBS) | 6:09 |
+| 39 | [Feel The Friction](https://open.spotify.com/track/3drghRAvtI2VrNDZsHsmlZ) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Feel The Friction](https://open.spotify.com/album/14AhXf3h67J8auGzUzBWLi) | 3:02 |
+| 40 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
+| 41 | [Leave Your Life \- Lonely Hearts Mix](https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL) | [Alex Kassian](https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY) | [Leave Your Life](https://open.spotify.com/album/4qeik8tRjrndVWsaS7bRBS) | 6:09 |
+| 42 | [Groovy Thang](https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP) | [DTAILR](https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e) | [Groovy Thang](https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC) | 2:47 |
 | 43 | [Back To Reality \- Original Mix \- Mixed](https://open.spotify.com/track/5LM5D4axlHlw25FSLB9yqN) | [RMS](https://open.spotify.com/artist/4pJ8HL3kT31Gc3fqXQBG9c) | [DJ Hybrid presents Welcome To The Jungle \(DJ MIX\)](https://open.spotify.com/album/0px7ovg0arQC3wZvRGo74C) | 1:24 |
 | 44 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
 | 45 | [Shut Me Down](https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Clammy](https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 49 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 |
 | 50 | [Taconeando](https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [XXXXX](https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql) | 2:18 |
 
-Snapshot ID: `AAAAADQtnoahlqgRd2PtudDte+spp8/o`
+Snapshot ID: `AAAAAIxbRjJXFcVM6GaqMhYozF/ynDIP`

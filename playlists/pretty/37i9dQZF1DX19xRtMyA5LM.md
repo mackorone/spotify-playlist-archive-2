@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Mula, Ronnie Flex, Dior en Young Ellens
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,101 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,001 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 6 | [100 Tranen](https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [100 Tranen](https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F) | 2:36 |
 | 7 | [Same Level](https://open.spotify.com/track/2zNIOeSUdIKepg20IPSLhg) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Same Level](https://open.spotify.com/album/1i3kJP3pOUXMAtPR5I32hq) | 3:12 |
 | 8 | [CC](https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 2:00 |
-| 9 | [Aventador](https://open.spotify.com/track/660bP3KjUElnQhthrF8d68) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [lostboyshawty](https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ) | [Aventador](https://open.spotify.com/album/7eda0M0da9xAnsvntA1jxb) | 2:15 |
+| 9 | [NO HOOK](https://open.spotify.com/track/660bP3KjUElnQhthrF8d68) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [lostboyshawty](https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ) | [NO HOOK](https://open.spotify.com/album/7eda0M0da9xAnsvntA1jxb) | 2:15 |
 | 10 | [Handschoen](https://open.spotify.com/track/2nronHAna955wZyk3SuS7n) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Handschoen](https://open.spotify.com/album/5SFCedMDXmTcxkENcrl1iL) | 2:08 |
 | 11 | [CHOSSELGAATSLECHT / WIET VERDRIET](https://open.spotify.com/track/6dbtW6f2F1cqfE327CnzC2) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [DOMUS](https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP) | 4:16 |
 | 12 | [Grof Geschud](https://open.spotify.com/track/3MbJfytR4PKUyxOg5EFoKI) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Grof Geschud](https://open.spotify.com/album/76EhZE1BXNn1HMYdCKzQxY) | 2:59 |

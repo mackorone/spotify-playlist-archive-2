@@ -4,7 +4,7 @@
 
 > All the biggest House &amp; Tech House anthems of right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-360 songs - 18 hr 21 min
+362 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Disco Behaviour](https://open.spotify.com/track/2o8dGb8mPyM4ZIsHCZzqTd) | [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb) | [Disco Behaviour](https://open.spotify.com/album/2Vd8g2lvXtujfrdL2mGMza) | 2:39 | 2026-02-13 | 2026-07-18 |
 | [Disco Hammer](https://open.spotify.com/track/7yO6lROS1o8kPPQIYEUYIR) | [Devin Jetski](https://open.spotify.com/artist/5w3dP447XwNHLlWPQI2z3S), [PP Girlfriend](https://open.spotify.com/artist/7oCvOzta8p2njSr9An1NQb) | [Leaders Of The New School 2026 Vol\. 2](https://open.spotify.com/album/7N26ZVAKzJOM48xAqXa45V) | 3:20 | 2026-09-04 |  |
 | [Discolo](https://open.spotify.com/track/6iJXGliSsbbKTecLKZcAfG) | [Angel Heredia](https://open.spotify.com/artist/6CQEcdCb4eIWDQPxCFfFRN) | [Discolo](https://open.spotify.com/album/3HUZU2vbHaFsGCFI2iLcQA) | 3:28 | 2026-08-21 |  |
+| [Diva](https://open.spotify.com/track/5imi10Bjo5TQGRiYoF1m3d) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH), [Ramon Bedoya](https://open.spotify.com/artist/7bca0jrEcYw3lqIHQp3wl2) | [Diva](https://open.spotify.com/album/7Jl0pLdY1xHv0fW4GhG5M6) | 2:52 | 2026-10-09 |  |
 | [Dizzy](https://open.spotify.com/track/0xgH8vk0HiygTzNuSFNRr6) | [Deep Fiktion](https://open.spotify.com/artist/03KjoCxp7LWEqTAV0EN1Le) | [Dizzy](https://open.spotify.com/album/646tI8P5WuQwUGErJKUuEe) | 3:31 | 2025-10-31 | 2026-03-07 |
 | [Do It For The Girls \(feat\. Jalja\)](https://open.spotify.com/track/1n7pkIXGPGK0d6Yd1p3L6V) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Jalja](https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R) | [Do It For The Girls \(feat\. Jalja\)](https://open.spotify.com/album/2N6MzDfkzG6cqacHxegu6C) | 2:39 | 2026-01-16 | 2026-06-20 |
 | [Don Dadda](https://open.spotify.com/track/36umETHgZmiWrhyZdvLiPU) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Saliva Commandos](https://open.spotify.com/artist/1KoSnTUvEhtwNeZqaZnZ9M) | [Don Dadda](https://open.spotify.com/album/44BHcTsU2XAvFUgBnN1Lh6) | 3:22 | 2025-12-01 | 2026-05-16 |
@@ -216,6 +217,7 @@
 | [Makin’ My Move](https://open.spotify.com/track/2jGwRQDrcMfz4Kl92hgSPT) | [Maezbi](https://open.spotify.com/artist/71Wxz6fSM7vVImYxBfZ8xG), [Cocho](https://open.spotify.com/artist/6bL4pO0TGo8umUn9e8WkNa) | [Makin’ My Move](https://open.spotify.com/album/3ZV4ERw1iQxyBWmNa12Buc) | 2:46 | 2026-02-27 | 2026-07-18 |
 | [Miami Vice](https://open.spotify.com/track/3dnE1sm2j3Z6vLA0dQdtig) | [DJ PP](https://open.spotify.com/artist/5mrbZMjvRmXg6s1PeSWSoZ), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Miami Vice](https://open.spotify.com/album/0DvrSM1pqByeKLS9UiiMP1) | 2:59 | 2026-09-25 |  |
 | [Midnight Rumours](https://open.spotify.com/track/0Y24T2ERGosqi7N20d5XK1) | [Dario Nunez](https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh), [Bubba Brothers](https://open.spotify.com/artist/756U8FFjS62P4bWuEp35Iz) | [Midnight Rumours](https://open.spotify.com/album/2jXhcBSJWNUl3rhjGaBP42) | 3:01 | 2026-05-22 | 2026-09-26 |
+| [Mirame](https://open.spotify.com/track/1Hwlp7gj4SV0w46bpny7Zd) | [Tony Cortez](https://open.spotify.com/artist/0vJ1pIGHRduH7om9qJG73s) | [Mirame](https://open.spotify.com/album/1D907ldfcJMT4Wwsc2LePX) | 3:14 | 2026-10-09 |  |
 | [Momo](https://open.spotify.com/track/5cZwfsjkjjyXi2sqLgBUuT) | [Dario Nunez](https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh), [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Momo](https://open.spotify.com/album/6M6LuwKSVW6b9aLpKfBghx) | 3:29 | 2026-02-06 | 2026-06-20 |
 | [Move Like This](https://open.spotify.com/track/6cO8tmMn4Zz8s3HFqUs3gY) | [Fletcher Kerr](https://open.spotify.com/artist/0MMPzOAJySvSWs8lqcDc5k) | [Move Like This](https://open.spotify.com/album/3P3VDUJlrFDpQsQjpiojaM) | 3:13 | 2026-05-22 | 2026-09-26 |
 | [Mr Freaky](https://open.spotify.com/track/6Hj6HotW0xQRPV7ZCW6z31) | [Mas Que Nada Brothers](https://open.spotify.com/artist/3OqXRs7ndYP9YEvzgEYwqW), [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb), [Idriss Kargbo](https://open.spotify.com/artist/6PRc4XFoEVRgMuoBoxxsr6) | [Mr Freaky](https://open.spotify.com/album/4FEnYyPM0oz0Gh6OMCvplL) | 2:31 | 2026-03-20 | 2026-08-22 |

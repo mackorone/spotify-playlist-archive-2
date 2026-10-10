@@ -4,7 +4,7 @@
 
 > Brand new music from Chase & Status, Troye Sivan, Cloonee, Slayyyter and more!
 
-23,940 songs - 54 day 1 hr 27 min
+23,942 songs - 54 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3725,6 +3725,7 @@
 | [Cheerleader](https://open.spotify.com/track/3LiNrrRozLyzYfeK1CflCA) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Caught Stealing Movie](https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo) | [Caught Stealing \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ox54iBEAeghJpulMDAVfD) | 3:28 | 2025-08-28 | 2025-09-06 |
 | [Cheerleader](https://open.spotify.com/track/045jwhrIJmgvS2aYwLA3jx) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Cheerleader](https://open.spotify.com/album/13HDYk2Spl5AN3Sfaq1f8g) | 2:46 | 2024-10-24 | 2024-11-01 |
 | [Cheers](https://open.spotify.com/track/2bPm2KgdHwttB2ZRdL0jdZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Cheers](https://open.spotify.com/album/34r9RSSfxVG5pDXbfcuE8u) | 3:26 | 2025-02-28 | 2025-03-07 |
+| [Chelsea Boots \- \(Bonus Track\)](https://open.spotify.com/track/4bvgMMJ5J2lo0zANPc1SFS) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane \(Special Edition\)](https://open.spotify.com/album/6MZekMcxDFuqd1yXXzliwu) | 2:57 | 2026-10-09 |  |
 | [Chelsea Smiles](https://open.spotify.com/track/1F3rv541aIQFfI5uUTibl9) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Flyte](https://open.spotify.com/album/1HGUCTBuqr8TU9Z9m4xh1k) | 2:29 | 2023-10-26 | 2023-11-03 |
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-13 | 2023-04-21 |
 | [Chemical Animal](https://open.spotify.com/track/6NyWKXFYaw29rFuAIgrgpq) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Chemical Animal](https://open.spotify.com/album/4LUYV8jcT97Xoy9sI1TPs3) | 4:33 | 2024-01-19 | 2024-01-26 |
@@ -4842,7 +4843,7 @@
 | [Days of Old](https://open.spotify.com/track/74XGUBdD7SyIQjbETH7j0m) | [Blue Saint](https://open.spotify.com/artist/342dFFalciw67ddaaOr8pa) | [Days of Old](https://open.spotify.com/album/0y6juOPPNLUvziJfNaZZzl) | 3:55 | 2022-12-23 | 2023-01-06 |
 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 | 2026-03-13 | 2026-03-20 |
 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-03-27 | 2026-04-03 |
-| [Days We Left Behind](https://open.spotify.com/track/4RXpKIi7xLqX8BPanSwXCE) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:18 | 2026-10-08 |  |
+| [Days We Left Behind](https://open.spotify.com/track/4RXpKIi7xLqX8BPanSwXCE) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:18 | 2026-10-08 | 2026-10-10 |
 | [DAYTONA](https://open.spotify.com/track/5gR5qIYrjbfzJBNuFXknz3) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [DAYTONA](https://open.spotify.com/album/2OX4W6pyNYfhvQE9KQjDWX) | 1:30 | 2025-11-21 | 2025-11-28 |
 | [Dazed & Confused](https://open.spotify.com/track/6Bt5utTcV6CB2Uw3tHP34U) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Dazed & Confused](https://open.spotify.com/album/2BmQTGnKZuvnO2Q11jkBaT) | 2:52 | 2024-11-22 | 2024-11-29 |
 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 | 2023-07-13 | 2023-07-21 |
@@ -15051,6 +15052,7 @@
 | [Oh Mother](https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [The TwoCity Chorus](https://open.spotify.com/artist/03G8tzT77pojVBafVhOm3n) | [Oh Mother](https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om) | 3:32 | 2026-07-23 | 2026-07-31 |
 | [oh my](https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [oh my](https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb) | 3:23 | 2024-09-19 | 2024-09-27 |
 | [Oh My](https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Oh My](https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1) | 3:02 | 2023-11-10 | 2023-11-17 |
+| [Oh My \(\#SaveSoil\)](https://open.spotify.com/track/49uZxYCiKkF6rEDz1mztQC) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX), [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0) | [Oh My \(\#SaveSoil\)](https://open.spotify.com/album/5VCO3v7958v34OQSbt19yy) | 3:43 | 2026-10-08 |  |
 | [Oh My \(feat\. Moby\)](https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Oh My \(feat\. Moby\)](https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0) | 2:40 | 2023-01-13 | 2023-01-20 |
 | [Oh My Days](https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Appaloosa](https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2) | 3:33 | 2025-11-14 | 2025-11-21 |
 | [Oh My Days](https://open.spotify.com/track/6pFItbFfi3fNagHGCeXCUF) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Bridging The Gap](https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z) | 2:56 | 2024-03-01 | 2024-03-08 |

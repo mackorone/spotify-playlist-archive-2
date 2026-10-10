@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,481 likes - 368 songs - 22 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,486 likes - 368 songs - 22 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 162 | [Better Life](https://open.spotify.com/track/2Ok3BkZ7qcSfFCm67HSGCM) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:20 |
 | 163 | [Looking For America](https://open.spotify.com/track/31FBEeTXpaeCncCbCmS7ax) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Looking For America](https://open.spotify.com/album/6HTt2MmerBVW0TjGUwfzBD) | 2:42 |
 | 164 | [Stranger](https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:21 |
-| 165 | [Sweeter Than Fiction \- From "One Chance" Soundtrack](https://open.spotify.com/track/0RFCHlNuTeUHIB36VuVbOL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Sweeter Than Fiction](https://open.spotify.com/album/11e4xCXllbvk8pWc1cCas1) | 3:57 |
-| 166 | [Take Me Dancing \(feat\. SZA\)](https://open.spotify.com/track/3jYMt6j13zQGXfFLaO3BKv) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:44 |
+| 165 | [Take Me Dancing \(feat\. SZA\)](https://open.spotify.com/track/3jYMt6j13zQGXfFLaO3BKv) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:44 |
+| 166 | [Sweeter Than Fiction \- From "One Chance" Soundtrack](https://open.spotify.com/track/0RFCHlNuTeUHIB36VuVbOL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Sweeter Than Fiction](https://open.spotify.com/album/11e4xCXllbvk8pWc1cCas1) | 3:57 |
 | 167 | [The Gambler](https://open.spotify.com/track/4Nkn6En6TiZQRuTpEDPOYs) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 4:11 |
 | 168 | [Big Star](https://open.spotify.com/track/2qWVIatUtl2xMCHEvn4j7j) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 2:47 |
 | 169 | [Dope](https://open.spotify.com/track/660JUD1xQLB4XR1dMxUK4x) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:32 |
@@ -234,8 +234,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 224 | [Joanie](https://open.spotify.com/track/1bCFgapvqHqqcuQXgnP94L) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:45 |
 | 225 | [How Come You Don't Want Me](https://open.spotify.com/track/7Cx4OW8ovx6F2qrtxIniXB) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 2:51 |
 | 226 | [Mississippi](https://open.spotify.com/track/0VrQ3dAV7vefMJYb56q0M3) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:37 |
-| 227 | [i dont wanna break](https://open.spotify.com/track/3QhbkvIrMczrLURiNROwJ5) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [head or heart](https://open.spotify.com/album/74PXwYZw2Z5UF6keoLp8qH) | 3:52 |
-| 228 | [I Wanna Be The One](https://open.spotify.com/track/2B2GhXHFNDUsnXdwnDdz4N) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 3:36 |
+| 227 | [I Wanna Be The One](https://open.spotify.com/track/2B2GhXHFNDUsnXdwnDdz4N) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 3:36 |
+| 228 | [i dont wanna break](https://open.spotify.com/track/3QhbkvIrMczrLURiNROwJ5) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [head or heart](https://open.spotify.com/album/74PXwYZw2Z5UF6keoLp8qH) | 3:52 |
 | 229 | [Light A Roman Candle With Me](https://open.spotify.com/track/5YEdQpsrWg0MocndHKfHd5) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 3:04 |
 | 230 | [Dream Of Mickey Mantle](https://open.spotify.com/track/5HDcQM2yGnrtHjcYKjp3x4) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:10 |
 | 231 | [AhHa](https://open.spotify.com/track/4u2dVP4I47U1btgQ3Os77P) | [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [Grand Romantic](https://open.spotify.com/album/0vrIRUpI2gB2QqOUQEG05v) | 4:23 |
@@ -377,4 +377,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 367 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 368 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AceboAAAAAC6rkQb9VNIRmyXUyEJm4UL`
+Snapshot ID: `AcehBAAAAAAXFYOU7/x4N78bt1x3KCyp`

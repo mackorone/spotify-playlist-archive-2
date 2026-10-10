@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264570,
+  "num_followers": 264562,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAABRReF3g9A1yQebD9nd1sMN",
+  "snapshot_id": "asbdAAAAAACNAwZ+MlTVXgKM7dCky4wL",
   "tracks": [
     {
       "added_at": null,
@@ -99,30 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Oh My",
-        "url": "https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 156591,
-      "name": "My Oh My",
-      "url": "https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -175,6 +151,30 @@
       "duration_ms": 628124,
       "name": "Poesia Ac\u00fastica 13",
       "url": "https://open.spotify.com/track/5ZWeAFfmlTGYleUxOq7kcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 156591,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk"
     },
     {
       "added_at": null,
@@ -639,42 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 155798,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRUTAL PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 134710,
-      "name": "Santa Maculada",
-      "url": "https://open.spotify.com/track/67Nv43gpsFhtu0zHeWros3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Combatchy (feat. MC Rebecca)",
         "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
       },
@@ -699,6 +663,42 @@
       "duration_ms": 157600,
       "name": "Combatchy (feat. MC Rebecca)",
       "url": "https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 192766,
+      "name": "Loira Gelada",
+      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 155798,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 192766,
-      "name": "Loira Gelada",
-      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
+      "duration_ms": 134710,
+      "name": "Santa Maculada",
+      "url": "https://open.spotify.com/track/67Nv43gpsFhtu0zHeWros3"
     },
     {
       "added_at": null,

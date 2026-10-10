@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 1354922,
+  "num_followers": 1355241,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "No Angel",
         "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 218360,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Daniel Powter",
-        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Life For Rent",
         "url": "https://open.spotify.com/album/7HlZFlk0jJq3Bb03AOyMTE"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 240040,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/6si71supnBUhddjR2FJc2L"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Daniel Powter",
+        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "A Day Without Rain",
-        "url": "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Born to Do It",
         "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 235133,
       "name": "7 Days",
       "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "A Day Without Rain",
+        "url": "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Double Wide",
-        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
       "artists": [
         {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 218439,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
+      "duration_ms": 311186,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 311186,
-      "name": "All Good Things (Come To An End)",
-      "url": "https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Double Wide",
+        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
+      },
+      "artists": [
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 218439,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "I Don't Want You Back",
-        "url": "https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx"
-      },
-      "artists": [
-        {
-          "name": "Eamon",
-          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "Fuck It (I Don't Want You Back)",
-      "url": "https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "A Million Dreams",
         "url": "https://open.spotify.com/album/6MtlLy42YdFaJNOgDA0NZW"
       },
@@ -1087,18 +1071,34 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+        "name": "I Don't Want You Back",
+        "url": "https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "Eamon",
+          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+      "duration_ms": 225106,
+      "name": "Fuck It (I Don't Want You Back)",
+      "url": "https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Never Gone",
+        "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Never Gone",
-        "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
         }
       ],
-      "duration_ms": 239586,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Go On Girl",
-      "url": "https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Bad Boy 20th Anniversary Box Set Edition",
         "url": "https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 257333,
       "name": "I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster",
       "url": "https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Go On Girl",
+      "url": "https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "\"7\"",
-        "url": "https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ"
-      },
-      "artists": [
-        {
-          "name": "S Club",
-          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
-        }
-      ],
-      "duration_ms": 240492,
-      "name": "Never Had A Dream Come True",
-      "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Divine Discontent",
         "url": "https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 243960,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "\"7\"",
+        "url": "https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ"
+      },
+      "artists": [
+        {
+          "name": "S Club",
+          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
+        }
+      ],
+      "duration_ms": 240492,
+      "name": "Never Had A Dream Come True",
+      "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Dance With My Father",
-        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 266155,
-      "name": "Dance With My Father",
-      "url": "https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 271226,
       "name": "Hometown Glory",
       "url": "https://open.spotify.com/track/3cCPT7eJhpYXXlH2pbWhfP"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Dance With My Father",
+        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 266155,
+      "name": "Dance With My Father",
+      "url": "https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Stop All The World Now",
-        "url": "https://open.spotify.com/album/1MSfGxrYjkxUp8DL60o60T"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/5aDpULK8MbJmHl42kR5KNI"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Slicker than Your Average",
         "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 287226,
       "name": "Rise & Fall (feat. Sting)",
       "url": "https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Stop All The World Now",
+        "url": "https://open.spotify.com/album/1MSfGxrYjkxUp8DL60o60T"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/5aDpULK8MbJmHl42kR5KNI"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "The Soul Sessions",
-        "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Super Duper Love",
-      "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 244106,
       "name": "Realize",
       "url": "https://open.spotify.com/track/6Vi6gx8IMRXORPx8fPd2YJ"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "The Soul Sessions",
+        "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Super Duper Love",
+      "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Taylor Swift (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Teardrops On My Guitar - Radio Single Remix",
-      "url": "https://open.spotify.com/track/2TF4UtYreqNbQ6Z9AccldU"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Taylor Swift (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Teardrops On My Guitar - Radio Single Remix",
+      "url": "https://open.spotify.com/track/2TF4UtYreqNbQ6Z9AccldU"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2175,22 +2175,6 @@
       "duration_ms": 219093,
       "name": "Rise",
       "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "Mind Body & Soul",
-        "url": "https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "Right To Be Wrong",
-      "url": "https://open.spotify.com/track/1atxtvAHagXDZYTuUWAoEC"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2239,6 +2223,22 @@
       "duration_ms": 222160,
       "name": "No Promises",
       "url": "https://open.spotify.com/track/2GdGb6bdMYoq7EHkmWvb5D"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Mind Body & Soul",
+        "url": "https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "Right To Be Wrong",
+      "url": "https://open.spotify.com/track/1atxtvAHagXDZYTuUWAoEC"
     },
     {
       "added_at": "2024-02-12 15:05:39",

@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 196000,
       "name": "Home Movies",
       "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
@@ -6212,6 +6212,24 @@
       "duration_ms": 204309,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9"
+    },
+    {
+      "album": {
+        "name": "Personal Attack",
+        "url": "https://open.spotify.com/album/7L98NY5FMgbWulnhUuNN6j"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155897,
+      "name": "Personal Attack",
+      "url": "https://open.spotify.com/track/5d5YR87TA2KNR5MR6A0LIQ"
     },
     {
       "album": {

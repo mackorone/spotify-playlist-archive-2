@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Ian Lucas y Lauty Gram
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,622 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,588 likes - 99 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 13 | [MI AMOR](https://open.spotify.com/track/1CSdu8EHZzV0DjYB6RNXbX) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:29 |
 | 14 | [Ooh Laka Laka La](https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [Ooh Laka Laka La](https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj) | 2:14 |
 | 15 | [IBUPROFENO](https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [INTELIGENCIA ARTESANAL](https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP) | 2:16 |
-| 16 | [no te vayas: \(](https://open.spotify.com/track/29UvL4gUrPpbH3lhr9Nv0k) | [Valuto](https://open.spotify.com/artist/0AQym39jmsVTiggRZdyiSW) | [no te vayas: \(](https://open.spotify.com/album/3TQg6Ti0jOAzbVmFvFb3HI) | 2:49 |
+| 16 | [no te vayas :\(](https://open.spotify.com/track/29UvL4gUrPpbH3lhr9Nv0k) | [Valuto](https://open.spotify.com/artist/0AQym39jmsVTiggRZdyiSW) | [no te vayas :\(](https://open.spotify.com/album/3TQg6Ti0jOAzbVmFvFb3HI) | 2:49 |
 | 17 | [21 de agosto](https://open.spotify.com/track/76nc1xnr4BxHMDFsJ79A7S) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [21 de agosto](https://open.spotify.com/album/2S2cdxfOdXoALZRPhuZ2jw) | 3:12 |
 | 18 | [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 |
 | 19 | [Todo mal](https://open.spotify.com/track/3bQAkl7oIbEuwLgN9U3l0s) | [Uma German](https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY) | [El Jardín de las horas](https://open.spotify.com/album/6DRAtPhWP63ObNqIEcS3w2) | 3:02 |

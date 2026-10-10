@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 382890,
+  "num_followers": 382885,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Ora\u00e7\u00e3o pela Paz",
-        "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
-      },
-      "artists": [
-        {
-          "name": "Padre Diogo Albuquerque",
-          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        }
-      ],
-      "duration_ms": 221476,
-      "name": "Ora\u00e7\u00e3o pela Paz",
-      "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Em Sil\u00eancio",
         "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 228125,
       "name": "Em Sil\u00eancio",
       "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Ora\u00e7\u00e3o pela Paz",
+        "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
+      },
+      "artists": [
+        {
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+        },
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "Ora\u00e7\u00e3o pela Paz",
+      "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
     },
     {
       "added_at": "2026-08-07 14:21:56",

@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Skhanga
+> Khuphuka lapho… seku\-late! Cover: Mshinwemali
 
-330 songs - 1 day 1 hr 48 min
+331 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Imbizo](https://open.spotify.com/track/2UZruglT1zTqdfT1RffTjZ) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Grand Masters Collection: African Roots](https://open.spotify.com/album/3TZZsyFNPwYd6U7HngzQ0R) | 3:58 | 2018-09-25 | 2022-11-13 |
 | [Imbizo](https://open.spotify.com/track/5rd1OgQZU0TcRndLFOYECO) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Imbizo](https://open.spotify.com/album/33HOA4xP6hyXlm1CcUy5Ce) | 3:58 | 2018-09-25 | 2023-03-10 |
 | [Imbizo](https://open.spotify.com/track/2Kg74EtKg8Lo18r1cUtZBV) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Imbizo](https://open.spotify.com/album/75ZCcbvBeLAzlzM6aDmcml) | 3:59 | 2018-09-25 | 2022-08-27 |
-| [Imbongolo](https://open.spotify.com/track/7csLHpTInB2j139r7suTET) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Sphesihle](https://open.spotify.com/artist/0bLiVRnGVidMR9P5Cycy5S) | [Angidlali Nezingane](https://open.spotify.com/album/7FKPvAqAJcGxuDvyOfcV0s) | 4:30 | 2025-05-22 |  |
+| [Imbongolo](https://open.spotify.com/track/7csLHpTInB2j139r7suTET) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Sphesihle](https://open.spotify.com/artist/0bLiVRnGVidMR9P5Cycy5S) | [Angidlali Nezingane](https://open.spotify.com/album/7FKPvAqAJcGxuDvyOfcV0s) | 4:30 | 2025-05-22 | 2026-10-10 |
 | [Imfolomane](https://open.spotify.com/track/4AzyXKfE7vRXvbgGDJVmQU) | [Igcokama elisha](https://open.spotify.com/artist/0CfaRCWMy2aXtbVQPCGG15) | [Imfolomane](https://open.spotify.com/album/35X0OmXW0Bja31Gf6hWlCF) | 6:14 | 2023-01-30 | 2023-03-25 |
 | [Imikhuba](https://open.spotify.com/track/26ShN8gJb3wLqgLAA9dUSD) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/0xW1FZv5b6GM6hixos2FDu) | 4:11 | 2018-09-25 | 2022-09-26 |
 | [Imikhuba](https://open.spotify.com/track/4SlVGHwa8dQDr8hAa8ZiDf) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [The Ultimate Collection: Phuzekhemisi](https://open.spotify.com/album/4abzxM3Cy35Dg5Mmjwg8ud) | 4:11 | 2018-09-25 | 2022-11-13 |
@@ -184,6 +184,7 @@
 | [Mubi kamnandi](https://open.spotify.com/track/4GuiGH1qje9eYA4trD0hti) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [Amakhothangqoko](https://open.spotify.com/album/3US0Yz8A4um5LpqDKZLooj) | 4:55 | 2024-10-10 |  |
 | [MUNHU WUN'WE TSENA](https://open.spotify.com/track/2zbjp5Ye9hvSevr6xP4hic) | [MR POST](https://open.spotify.com/artist/3Opg7lHePdQNELBye7dkwN) | [MUNHU WUN'WE TSENA](https://open.spotify.com/album/6IhLHOsNgQWjmNKOB3drP2) | 4:52 | 2024-12-12 | 2025-07-12 |
 | [My Dululu](https://open.spotify.com/track/2pdid5w8VxdgMmYlp7r17z) | [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Mnqobi yazo](https://open.spotify.com/artist/4iKk928O7ApC51cf4q2mpO) | [My Dululu](https://open.spotify.com/album/6xIXv9IaFF5tPXwWCukLZ7) | 4:55 | 2024-09-20 |  |
+| [Myeke \(feat\. Sne Ntuli\)](https://open.spotify.com/track/6AHXrxdVlMDI7Zs7buBGiT) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Sne Ntuli](https://open.spotify.com/artist/7a3R5VMZYPhutTAMipMBAc) | [Awulutho Wena](https://open.spotify.com/album/2rFhajmLJkXFyZrW1uXZDw) | 4:21 | 2026-10-09 |  |
 | [National Anthem](https://open.spotify.com/track/0XYP8RrumQd3Iua4NJ7DMh) | [Inkosi Yamagcokama](https://open.spotify.com/artist/0TO77YI4D7Bpo9JKDW2c6M) | [National Anthem](https://open.spotify.com/album/3O1PEMCkjVRr4Nq9qhUB1h) | 4:51 | 2026-08-11 | 2026-08-18 |
 | [Ncono Siyeke](https://open.spotify.com/track/79r4mAwHBAB1x5QnImlUM6) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [Ncono Siyeke](https://open.spotify.com/album/5CYakL1xQm6XjQ8Zjb5p9T) | 4:59 | 2024-09-26 |  |
 | [NDIBUYEL'EMJOLWENI](https://open.spotify.com/track/3HBrBn7eORjfsNzTWqrU9n) | [Amabhinca Smonyo no Mhlengi](https://open.spotify.com/artist/3gZXfUHrXbFP06VZAtpJ5i) | [NDIBUYEL'EMJOLWENI](https://open.spotify.com/album/7yAtqUe2YOeVVkaLKz57cO) | 4:32 | 2023-01-30 | 2026-02-06 |

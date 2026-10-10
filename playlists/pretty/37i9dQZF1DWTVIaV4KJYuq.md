@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,824 likes - 110 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,799 likes - 110 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 69 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 |
 | 70 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 |
 | 71 | [Man in the Mirror](https://open.spotify.com/track/4XTqOeJ9nLeNCHy2fXYi5T) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Man in the Mirror](https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5) | 3:30 |
-| 72 | [Rocket Man](https://open.spotify.com/track/5ujvc1IFzGeBn2hsDX2n6w) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [Rocket Man](https://open.spotify.com/album/2ybfxBbMNc3lyY3ekDuDy4) | 2:54 |
-| 73 | [Both Sides Now](https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Both Sides Now](https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N) | 4:17 |
+| 72 | [Both Sides Now](https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Both Sides Now](https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N) | 4:17 |
+| 73 | [Rocket Man](https://open.spotify.com/track/5ujvc1IFzGeBn2hsDX2n6w) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [Rocket Man](https://open.spotify.com/album/2ybfxBbMNc3lyY3ekDuDy4) | 2:54 |
 | 74 | [Please, Please, Please, Let Me Get What I Want](https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [\(500\) Days of Summer \(Music from the Motion Picture\)](https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB) | 2:12 |
 | 75 | [California Dreamin \- Acoustic Mix](https://open.spotify.com/track/4FmVtdjLVhzHpNuBhMF8Wj) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T) | [California Dreamin](https://open.spotify.com/album/561Ly3AThHF8GOSY0tm0Al) | 3:28 |
 | 76 | [Home](https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Home](https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc) | 3:32 |
@@ -113,10 +113,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 103 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 |
 | 104 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
 | 105 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
-| 106 | [Dreams \- Lanie's Version](https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(Lanie's Version\)](https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb) | 4:20 |
+| 106 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
 | 107 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV) | 4:50 |
-| 108 | [Eye of the Tiger](https://open.spotify.com/track/7bqtShG4VYS372JEtHLXRp) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood b/w Eye Of The Tiger](https://open.spotify.com/album/3ERhhl10nW1ixfxezvCCm7) | 3:00 |
-| 109 | [This Must Be the Place \(Naive Melody\) \[by Talking Heads\]](https://open.spotify.com/track/0udJrKQOgJz6TwZXuhi7IM) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [7" Singles](https://open.spotify.com/album/7JE9DRRB2m7IG1lvlztQ8q) | 3:26 |
-| 110 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
+| 108 | [Dreams \- Lanie's Version](https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(Lanie's Version\)](https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb) | 4:20 |
+| 109 | [Eye of the Tiger](https://open.spotify.com/track/7bqtShG4VYS372JEtHLXRp) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood b/w Eye Of The Tiger](https://open.spotify.com/album/3ERhhl10nW1ixfxezvCCm7) | 3:00 |
+| 110 | [This Must Be the Place \(Naive Melody\) \[by Talking Heads\]](https://open.spotify.com/track/0udJrKQOgJz6TwZXuhi7IM) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [7" Singles](https://open.spotify.com/album/7JE9DRRB2m7IG1lvlztQ8q) | 3:26 |
 
 Snapshot ID: `AAAAAHXZyMPBZniVBe5hAEJx+X3aNkCO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > next level pop 🫧 cover: tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,791 likes - 89 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,738 likes - 89 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

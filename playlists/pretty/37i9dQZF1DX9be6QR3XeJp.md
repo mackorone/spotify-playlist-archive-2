@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Saskia
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,350 likes - 301 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,429 likes - 301 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

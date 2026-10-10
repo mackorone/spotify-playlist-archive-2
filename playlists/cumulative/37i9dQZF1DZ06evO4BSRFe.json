@@ -370,10 +370,28 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 215527,
       "name": "Dime Ven",
       "url": "https://open.spotify.com/track/4v2pHWmKEn3L3OmptYIImz"
+    },
+    {
+      "album": {
+        "name": "La Culebra",
+        "url": "https://open.spotify.com/album/1bpYuP1QPy42QBbMzc1lEU"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Dime Ven",
+      "url": "https://open.spotify.com/track/17VnG9xcYjwMJ17zNopP13"
     },
     {
       "album": {

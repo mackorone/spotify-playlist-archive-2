@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Soul Wun",
-  "num_followers": 139241,
+  "num_followers": 139223,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Anytime, Anywhere, Antoinette",
-        "url": "https://open.spotify.com/album/3hQ0qTkMTio82I4gIJkm4r"
-      },
-      "artists": [
-        {
-          "name": "Wade Forster",
-          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
-        }
-      ],
-      "duration_ms": 258736,
-      "name": "Anytime, Anywhere, Antoinette",
-      "url": "https://open.spotify.com/track/5clq7hPIaE3VUB0mqnKIjn"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "Divine Feelings",
         "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 208176,
       "name": "Divine Feelings",
       "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Anytime, Anywhere, Antoinette",
+        "url": "https://open.spotify.com/album/3hQ0qTkMTio82I4gIJkm4r"
+      },
+      "artists": [
+        {
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
+        }
+      ],
+      "duration_ms": 258736,
+      "name": "Anytime, Anywhere, Antoinette",
+      "url": "https://open.spotify.com/track/5clq7hPIaE3VUB0mqnKIjn"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -571,18 +571,22 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "PQC",
-        "url": "https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY"
+        "name": "Hello (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU"
       },
       "artists": [
         {
           "name": "daine",
           "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
         }
       ],
-      "duration_ms": 212195,
-      "name": "PQC",
-      "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
+      "duration_ms": 205212,
+      "name": "Hello - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6B8XcuiJW6IR8YUEfwCfbi"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -659,22 +663,18 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Hello (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU"
+        "name": "PQC",
+        "url": "https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY"
       },
       "artists": [
         {
           "name": "daine",
           "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        },
-        {
-          "name": "triple j",
-          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
         }
       ],
-      "duration_ms": 205212,
-      "name": "Hello - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6B8XcuiJW6IR8YUEfwCfbi"
+      "duration_ms": 212195,
+      "name": "PQC",
+      "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
+        "name": "Walk a Straight Line",
+        "url": "https://open.spotify.com/album/76fPezEx4UhZ7Tmh4Suefn"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Walk a Straight Line",
+      "url": "https://open.spotify.com/track/0KplVgxoofAxkihR8wOG54"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
         "name": "Things Take Time",
         "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Walk a Straight Line",
-        "url": "https://open.spotify.com/album/76fPezEx4UhZ7Tmh4Suefn"
+        "name": "Lethal Devotion",
+        "url": "https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk"
       },
       "artists": [
         {
-          "name": "Mack Geiger",
-          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Walk a Straight Line",
-      "url": "https://open.spotify.com/track/0KplVgxoofAxkihR8wOG54"
+      "duration_ms": 321777,
+      "name": "Hypoxia",
+      "url": "https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -843,22 +859,6 @@
       "duration_ms": 182769,
       "name": "Super High",
       "url": "https://open.spotify.com/track/01ttMtGfWUAvSuMsZSvGIH"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "Lethal Devotion",
-        "url": "https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 321777,
-      "name": "Hypoxia",
-      "url": "https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "HUMAN AGAIN",
         "url": "https://open.spotify.com/album/6wTs6A9l7dl7C3WcqvF8XX"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
         "name": "Something in the Water",
         "url": "https://open.spotify.com/album/7oPD1sFHv0dsyTHgK7A4FF"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 227221,
       "name": "Something in the Water - Single Version",
       "url": "https://open.spotify.com/track/3AYcaeTecNpJGgcTZOzkXU"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 181112,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1047,54 +1063,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Fluent",
-        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 112353,
-      "name": "Fluent",
-      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 181112,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "Get Away From Me (I Think I'll Love You Soon)",
-        "url": "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 168523,
-      "name": "Get Away From Me (I Think I'll Love You Soon)",
-      "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "Pursuit of Anything",
         "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
       },
@@ -1111,34 +1079,18 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Razor Love - Spotify Singles",
-        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
       },
       "artists": [
         {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 364329,
-      "name": "Razor Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "Love Love (Love Love)",
-        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Love Love (Love Love)",
-      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
+      "duration_ms": 112353,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1159,8 +1111,24 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "If I Had The Hand Of God",
-        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Get Away From Me (I Think I'll Love You Soon)",
+        "url": "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W"
       },
       "artists": [
         {
@@ -1168,9 +1136,25 @@
           "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 161816,
-      "name": "If I Had The Hand Of God",
-      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+      "duration_ms": 168523,
+      "name": "Get Away From Me (I Think I'll Love You Soon)",
+      "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Love Love (Love Love)",
+        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Love Love (Love Love)",
+      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1187,26 +1171,6 @@
       "duration_ms": 178303,
       "name": "Whateverrrr",
       "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "The Only One (feat. Christine and the Queens)",
-        "url": "https://open.spotify.com/album/7ipyPxOUmpmSucbeEjxaPO"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 251515,
-      "name": "The Only One (feat. Christine and the Queens)",
-      "url": "https://open.spotify.com/track/4cU5HrOrG8nz95VcnVQ2YD"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1231,18 +1195,38 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+        "name": "The Only One (feat. Christine and the Queens)",
+        "url": "https://open.spotify.com/album/7ipyPxOUmpmSucbeEjxaPO"
       },
       "artists": [
         {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+      "duration_ms": 251515,
+      "name": "The Only One (feat. Christine and the Queens)",
+      "url": "https://open.spotify.com/track/4cU5HrOrG8nz95VcnVQ2YD"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "If I Had The Hand Of God",
+        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 161816,
+      "name": "If I Had The Hand Of God",
+      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1263,18 +1247,34 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Karaoke Bar",
-        "url": "https://open.spotify.com/album/7DLnvFVKBQog7Iu0fZgrvc"
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 196665,
-      "name": "The Start",
-      "url": "https://open.spotify.com/track/5Jh7h57SHsgmvPLnkN2P76"
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH"
+      },
+      "artists": [
+        {
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "duration_ms": 192855,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH"
+        "name": "Karaoke Bar",
+        "url": "https://open.spotify.com/album/7DLnvFVKBQog7Iu0fZgrvc"
       },
       "artists": [
         {
-          "name": "Yes Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 192855,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
+      "duration_ms": 196665,
+      "name": "The Start",
+      "url": "https://open.spotify.com/track/5Jh7h57SHsgmvPLnkN2P76"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1339,6 +1339,22 @@
       "duration_ms": 163296,
       "name": "The Biggest Dick",
       "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "NEXT2U",
-        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+        "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+        "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
         }
       ],
-      "duration_ms": 196508,
-      "name": "NEXT2U",
-      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
+      "duration_ms": 182278,
+      "name": "WARCRY",
+      "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1415,22 +1431,6 @@
       "duration_ms": 175690,
       "name": "Pull Up - feat. Pino D\u2019Angi\u00f2 & Scrufizzer",
       "url": "https://open.spotify.com/track/6XTQZwVaLM1hu2kvEPeRnZ"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
-        "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "WARCRY",
-      "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
+        "name": "I Need My Woman",
+        "url": "https://open.spotify.com/album/7kwcsiuZPkYrgVIr4SM7im"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 265451,
+      "name": "I Need My Woman",
+      "url": "https://open.spotify.com/track/0xdc0Erm5n6Dsvhp6EYMTS"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
         "name": "Beautiful Noise In My Head",
         "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "I Need My Woman",
-        "url": "https://open.spotify.com/album/7kwcsiuZPkYrgVIr4SM7im"
+        "name": "A PERFECT WORLD",
+        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 265451,
-      "name": "I Need My Woman",
-      "url": "https://open.spotify.com/track/0xdc0Erm5n6Dsvhp6EYMTS"
+      "duration_ms": 187826,
+      "name": "A PERFECT WORLD",
+      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "A PERFECT WORLD",
-        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/32ESWuEYA0d8c74Xium24Z"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 187826,
-      "name": "A PERFECT WORLD",
-      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
+      "duration_ms": 190400,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5x0Uf6AMZTAKqvtzncu0ZH"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1587,22 +1603,6 @@
       "duration_ms": 172125,
       "name": "fever dream",
       "url": "https://open.spotify.com/track/0RkGXPK7gU68W5buwhag6Y"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/32ESWuEYA0d8c74Xium24Z"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/5x0Uf6AMZTAKqvtzncu0ZH"
     },
     {
       "added_at": "2026-10-08 13:01:09",

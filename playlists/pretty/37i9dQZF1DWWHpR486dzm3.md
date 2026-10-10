@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,900 likes - 109 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,906 likes - 109 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 2 | [etkö sä nää?](https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [etkö sä nää?](https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr) | 3:25 |
 | 3 | [Viimeinen kausi](https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Toiveuusintoja](https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB) | 2:52 |
 | 4 | [Miks?](https://open.spotify.com/track/1XTmbOxlk5gDtdyQfElbtV) | [Emmi Saunders](https://open.spotify.com/artist/0apwyWbuf7YaviA81YkQcI) | [Miks?](https://open.spotify.com/album/2ty5KEh9rAgX20KXGe9NLE) | 2:43 |
-| 5 | [Moovaa](https://open.spotify.com/track/7mfJe2fuwPcWOTvjmufHqj) | [Valentin](https://open.spotify.com/artist/2U0XZostSwDFbAltZ59Liz) | [Moovaa](https://open.spotify.com/album/7l0vVQCwtnQWsTu8FeJ1bo) | 2:27 |
+| 5 | [Moovaa](https://open.spotify.com/track/7mfJe2fuwPcWOTvjmufHqj) | [Valentin](https://open.spotify.com/artist/2U0XZostSwDFbAltZ59Liz), [Tursas](https://open.spotify.com/artist/1gaiUznTioZVqNkyNh89WY) | [Moovaa](https://open.spotify.com/album/7l0vVQCwtnQWsTu8FeJ1bo) | 2:27 |
 | 6 | [Kii kaa](https://open.spotify.com/track/2cb3tQAe7yqWmaqwTsGg1B) | [Vanna](https://open.spotify.com/artist/5kLqwu1nHkVed1l5GAbt5B) | [Kii kaa](https://open.spotify.com/album/4G6TLc5U3XYYQkifWeY0xz) | 3:41 |
 | 7 | [Tuittupää](https://open.spotify.com/track/1n1e1U2EGQsyTeAgrAUBFC) | [Vilma Jää](https://open.spotify.com/artist/6xWp5eQ67HQ2Zv7DlAwUaL) | [Tuittupää](https://open.spotify.com/album/2cwTINbTsuUNJbrXBOG8dl) | 2:55 |
 | 8 | [pelkkää hyvää](https://open.spotify.com/track/1AyLjbM4VrTiRhfLPpgiBF) | [aava ella](https://open.spotify.com/artist/5Y2447nvHGZPhlUHsugD6k) | [pelkkää hyvää](https://open.spotify.com/album/3SBNAp2hU25y5cEo21U2EJ) | 4:13 |

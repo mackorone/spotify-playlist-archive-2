@@ -1,6 +1,6 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 1248293,
+  "num_followers": 1248193,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
-    },
-    {
       "added_at": "2021-01-06 18:39:03",
       "album": {
         "name": "Nights Are Forever",
@@ -347,6 +331,22 @@
       "duration_ms": 159106,
       "name": "I'd Really Love to See You Tonight",
       "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+    },
+    {
+      "added_at": "2021-12-14 20:17:09",
+      "album": {
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "added_at": "2021-12-14 20:07:58",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
-      "added_at": "2022-06-30 18:06:09",
-      "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 186567,
-      "name": "Oogum Boogum Song",
-      "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
-    },
-    {
       "added_at": "2021-01-06 18:39:03",
       "album": {
         "name": "Pain in My Heart",
@@ -395,6 +379,22 @@
       "duration_ms": 172333,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu"
+    },
+    {
+      "added_at": "2022-06-30 18:06:09",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 186567,
+      "name": "Oogum Boogum Song",
+      "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "Dock of the Bay Sessions",
         "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 141000,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2022-06-30 18:06:09",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG"
     },
     {
-      "added_at": "2022-06-30 18:06:09",
+      "added_at": "2021-12-14 20:17:09",
       "album": {
-        "name": "Cyan",
-        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
+        "name": "Excitable Boy",
+        "url": "https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg"
       },
       "artists": [
         {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+          "name": "Warren Zevon",
+          "url": "https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Shambala - Single Version",
-      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
+      "duration_ms": 161626,
+      "name": "Excitable Boy",
+      "url": "https://open.spotify.com/track/50fGkq9l9Zsn1x7C8GKIYr"
     }
   ],
   "unique_name": "Good Times, Great Oldies",

@@ -2979,6 +2979,32 @@
     },
     {
       "album": {
+        "name": "Eu Fico e N\u00e3o Vou Embora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Fh88ovBWKcfCcxaP1GlEx"
+      },
+      "artists": [
+        {
+          "name": "Lendas 67",
+          "url": "https://open.spotify.com/artist/0BoqxKbuacxlZZUOh9iR3G"
+        },
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        },
+        {
+          "name": "Anderson Nogueira",
+          "url": "https://open.spotify.com/artist/6CmE5uCiduPdbgzLIAa6UP"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Eu Fico e N\u00e3o Vou Embora - Ao Vivo",
+      "url": "https://open.spotify.com/track/584F4rmUDc04HkIEvURwyr"
+    },
+    {
+      "album": {
         "name": "Eu Lembro",
         "url": "https://open.spotify.com/album/1ZMJJr7Nz9bGEE5cOwjQDZ"
       },
@@ -8092,7 +8118,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 142558,
       "name": "Tampa da Silverado",
       "url": "https://open.spotify.com/track/3AmUBqYceSmsF7wfE3pkDa"

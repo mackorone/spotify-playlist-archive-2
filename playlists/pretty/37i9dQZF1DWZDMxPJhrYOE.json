@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105600,
+  "num_followers": 105616,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-10-08 22:00:41",
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 233037,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/59edZBlolguuivWORanXkJ"
-    },
-    {
-      "added_at": "2026-10-08 22:00:41",
-      "album": {
         "name": "Dream House",
         "url": "https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 188493,
       "name": "Blue Light (feat. Blood Orange)",
       "url": "https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP"
+    },
+    {
+      "added_at": "2026-10-08 22:00:41",
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 233037,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/59edZBlolguuivWORanXkJ"
     },
     {
       "added_at": "2026-10-08 22:00:41",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-10-08 22:00:41",
       "album": {
+        "name": "Har Du M\u00e6rket Dig Selv?",
+        "url": "https://open.spotify.com/album/1apQ8jZgQrju3g8J1xHZ7p"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 190248,
+      "name": "Har Du M\u00e6rket Dig Selv?",
+      "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
+    },
+    {
+      "added_at": "2026-10-08 22:00:41",
+      "album": {
         "name": "Don\u2019t Leave Me on the Dance Floor",
         "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2026-10-08 22:00:41",
       "album": {
-        "name": "We Know Too Much",
-        "url": "https://open.spotify.com/album/3C0YWIcCuiba0l785qwUtk"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 201957,
-      "name": "Fields of Love",
-      "url": "https://open.spotify.com/track/4QdRyyWxOPXOqR6POkOT6V"
-    },
-    {
-      "added_at": "2026-10-08 22:00:41",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
       },
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-10-08 22:00:41",
       "album": {
+        "name": "We Know Too Much",
+        "url": "https://open.spotify.com/album/3C0YWIcCuiba0l785qwUtk"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 201957,
+      "name": "Fields of Love",
+      "url": "https://open.spotify.com/track/4QdRyyWxOPXOqR6POkOT6V"
+    },
+    {
+      "added_at": "2026-10-08 22:00:41",
+      "album": {
         "name": "When He\u2019s Gone",
         "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 186360,
       "name": "When He\u2019s Gone",
       "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
-    },
-    {
-      "added_at": "2026-10-08 22:00:41",
-      "album": {
-        "name": "Har Du M\u00e6rket Dig Selv?",
-        "url": "https://open.spotify.com/album/1apQ8jZgQrju3g8J1xHZ7p"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 190248,
-      "name": "Har Du M\u00e6rket Dig Selv?",
-      "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
     },
     {
       "added_at": "2026-10-08 22:00:41",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-10-08 22:00:41",
       "album": {
-        "name": "Afar",
-        "url": "https://open.spotify.com/album/2c4sPfylEVZmQ0BVy0rGVI"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Afar",
-      "url": "https://open.spotify.com/track/45raOKhmjnJRNChMIpopI3"
-    },
-    {
-      "added_at": "2026-10-08 22:00:41",
-      "album": {
         "name": "Circadian Rhythm",
         "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 144451,
       "name": "Circadian Rhythm",
       "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
+    },
+    {
+      "added_at": "2026-10-08 22:00:41",
+      "album": {
+        "name": "Afar",
+        "url": "https://open.spotify.com/album/2c4sPfylEVZmQ0BVy0rGVI"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Afar",
+      "url": "https://open.spotify.com/track/45raOKhmjnJRNChMIpopI3"
     },
     {
       "added_at": "2026-10-08 22:00:41",
@@ -1179,6 +1179,38 @@
       "duration_ms": 208680,
       "name": "Always on Your Side",
       "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
+    },
+    {
+      "added_at": "2026-10-08 22:00:41",
+      "album": {
+        "name": "Sometimes I rush",
+        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 90867,
+      "name": "Sometimes I rush",
+      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
+    },
+    {
+      "added_at": "2026-10-08 22:00:41",
+      "album": {
+        "name": "9 Liv",
+        "url": "https://open.spotify.com/album/6xije358BkU4pJ9HkSarwK"
+      },
+      "artists": [
+        {
+          "name": "Suspekt",
+          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+        }
+      ],
+      "duration_ms": 115339,
+      "name": "9 Liv",
+      "url": "https://open.spotify.com/track/3GStI8qvcZAKgc2Rsu5qBv"
     },
     {
       "added_at": "2026-10-08 22:00:41",
@@ -1223,22 +1255,6 @@
     {
       "added_at": "2026-10-08 22:00:41",
       "album": {
-        "name": "9 Liv",
-        "url": "https://open.spotify.com/album/6xije358BkU4pJ9HkSarwK"
-      },
-      "artists": [
-        {
-          "name": "Suspekt",
-          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
-        }
-      ],
-      "duration_ms": 115339,
-      "name": "9 Liv",
-      "url": "https://open.spotify.com/track/3GStI8qvcZAKgc2Rsu5qBv"
-    },
-    {
-      "added_at": "2026-10-08 22:00:41",
-      "album": {
         "name": "hej far",
         "url": "https://open.spotify.com/album/016lJisgZ13xUtaBMDXkeM"
       },
@@ -1255,8 +1271,8 @@
     {
       "added_at": "2026-10-08 22:00:41",
       "album": {
-        "name": "Sometimes I rush",
-        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+        "name": "Everything in the shade",
+        "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
       },
       "artists": [
         {
@@ -1264,9 +1280,29 @@
           "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
         }
       ],
-      "duration_ms": 90867,
-      "name": "Sometimes I rush",
-      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
+      "duration_ms": 216750,
+      "name": "Everything in the shade",
+      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
+    },
+    {
+      "added_at": "2026-10-08 22:00:41",
+      "album": {
+        "name": "Vant Til (feat. KESI)",
+        "url": "https://open.spotify.com/album/6QB8wUJIn4hjk6W0Q8ZxCw"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 146204,
+      "name": "Vant Til (feat. KESI)",
+      "url": "https://open.spotify.com/track/0HuDb66kQr9d0Y0nHaG37U"
     },
     {
       "added_at": "2026-10-08 22:00:41",
@@ -1343,78 +1379,38 @@
     {
       "added_at": "2026-10-08 22:00:41",
       "album": {
-        "name": "Everything in the shade",
-        "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
+        "name": "V\u00c6RD AT ELSKE",
+        "url": "https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc"
       },
       "artists": [
         {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
         }
       ],
-      "duration_ms": 216750,
-      "name": "Everything in the shade",
-      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
+      "duration_ms": 166307,
+      "name": "CIRKLER (feat. wicky)",
+      "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
     },
     {
       "added_at": "2026-10-08 22:00:41",
       "album": {
-        "name": "Vant Til (feat. KESI)",
-        "url": "https://open.spotify.com/album/6QB8wUJIn4hjk6W0Q8ZxCw"
+        "name": "\u00d8delagte Mennesker",
+        "url": "https://open.spotify.com/album/1tBnI6uHosQgf1tloFQp9k"
       },
       "artists": [
         {
-          "name": "Merro8",
-          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
-        },
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
         }
       ],
-      "duration_ms": 146204,
-      "name": "Vant Til (feat. KESI)",
-      "url": "https://open.spotify.com/track/0HuDb66kQr9d0Y0nHaG37U"
-    },
-    {
-      "added_at": "2026-10-08 22:00:41",
-      "album": {
-        "name": "De Der Dage (feat. KESI)",
-        "url": "https://open.spotify.com/album/1O5THMplgRFfUbJxhxOdq4"
-      },
-      "artists": [
-        {
-          "name": "OLIVVER",
-          "url": "https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO"
-        },
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 146782,
-      "name": "De Der Dage (feat. KESI)",
-      "url": "https://open.spotify.com/track/42LsVwhoT2WWQ7oKUu2Cko"
-    },
-    {
-      "added_at": "2026-10-08 22:00:41",
-      "album": {
-        "name": "Jeg Mener Det Stadig (feat. Kind mod Kind)",
-        "url": "https://open.spotify.com/album/4sCQiY6rTV8FfPeXr1e4fm"
-      },
-      "artists": [
-        {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
-        },
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 182835,
-      "name": "Jeg Mener Det Stadig (feat. Kind mod Kind)",
-      "url": "https://open.spotify.com/track/6nyBmxdOIunGRdn6uTR8EJ"
+      "duration_ms": 149186,
+      "name": "\u00d8delagte Mennesker",
+      "url": "https://open.spotify.com/track/290GmiHv84n3yg8MlYNeWK"
     }
   ],
   "unique_name": "De nye",

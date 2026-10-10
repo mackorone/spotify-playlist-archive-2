@@ -4,7 +4,7 @@
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Ms\. Ambar
 
-754 songs - 1 day 16 hr 35 min
+757 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Al No Tenerte](https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Al No Tenerte](https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH) | 3:14 | 2023-11-24 | 2025-09-27 |
 | [Al Olvido](https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Al Olvido](https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2) | 3:18 | 2024-09-06 | 2026-01-17 |
 | [Allá Donde Vayas](https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Allá Donde Vayas](https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn) | 3:33 | 2026-03-20 |  |
+| [Almohada](https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Almohada](https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw) | 3:42 | 2026-10-10 |  |
 | [Amar Y Vivir \- En Vivo](https://open.spotify.com/track/5SMGmsiSlbB0mhoM8RVBxQ) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Amar Y Vivir \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/4Xjf9chXOeW3SNxnARpMNT) | 3:02 | 2022-01-21 | 2023-03-04 |
 | [Amiga Traidora \- Cumbia TexMex](https://open.spotify.com/track/7aP0egv8A32jZLoO0OU56O) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(Cumbia TexMex\)](https://open.spotify.com/album/2y4Ew4yL1fhfDyNK38XmD1) | 4:09 | 2025-12-05 | 2026-01-17 |
 | [Amigos No Por Favor](https://open.spotify.com/track/5n3LTNCeqa3MmZFsCzddZm) | [Decibel Norteño](https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu) | [Amigos No Por Favor](https://open.spotify.com/album/0InEKfmd3uDp6i7pyHsGJ0) | 4:02 | 2026-02-20 | 2026-06-27 |
@@ -69,6 +70,7 @@
 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 | 2024-09-20 | 2025-04-05 |
 | [Aún Así Te Vas](https://open.spotify.com/track/1brn629MQJ4GOKmUiIjFSv) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Mío](https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h) | 3:17 | 2025-05-30 | 2026-03-07 |
 | [Baby You Already Know](https://open.spotify.com/track/2KqhiKIOo47WRZMBY30vLy) | [Jaime Carrasco Y Su 37](https://open.spotify.com/artist/1luesZjrXUWCvqfkUF7RCf) | [Baby You Already Know](https://open.spotify.com/album/7ffW9e0vWEcbobN2UYsIPq) | 2:44 | 2026-07-10 |  |
+| [Bajón Emocional](https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Bajón Emocional](https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm) | 3:17 | 2026-10-10 |  |
 | [Bala Perdida](https://open.spotify.com/track/157j8WwiFdDZ6FKIiomEXr) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Bala Perdida](https://open.spotify.com/album/3QpEb97cXKHstSxXt4MSmk) | 3:03 | 2026-02-20 | 2026-06-27 |
 | [Bandera Roja](https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW) | [Irany](https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF) | [Bandera Roja](https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1) | 2:49 | 2026-03-06 |  |
 | [Bandida](https://open.spotify.com/track/2yTBoj98BbfJx72n3Npbt2) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX) | [Bandida](https://open.spotify.com/album/4mWjo0GCQ0LaFZOrZppIEI) | 2:57 | 2025-01-28 | 2026-01-15 |
@@ -361,6 +363,7 @@
 | [Luna](https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 4:31 | 2022-01-07 | 2023-03-04 |
 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 | 2024-02-23 | 2026-02-14 |
 | [Luz de Día](https://open.spotify.com/track/2jBsr5oNW2x6qpJvPbtKwZ) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Luz de Día](https://open.spotify.com/album/12nQRzMQkBi5kY4aBxS9D2) | 4:17 | 2026-03-06 | 2026-05-23 |
+| [Lógica](https://open.spotify.com/track/0fRXgcoGXC7a6VLAZMNk3z) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Lógica](https://open.spotify.com/album/3oHngRBxbxjYe9iOTOXpqz) | 2:44 | 2026-10-10 |  |
 | [Mala Racha](https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mala Racha](https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv) | 2:46 | 2022-01-07 | 2022-07-26 |
 | [Malagradecido](https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Malagradecido](https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9) | 2:54 | 2025-10-17 |  |
 | [Malandrona](https://open.spotify.com/track/29OKkDB5pIV90ZMFED3yf6) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH) | [Malandrona](https://open.spotify.com/album/6UGzuaZvX0FnOgaLtpGIMP) | 3:27 | 2024-08-30 | 2025-10-25 |

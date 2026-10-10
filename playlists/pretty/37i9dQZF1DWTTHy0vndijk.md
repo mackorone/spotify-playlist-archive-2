@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: NiziU\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,099 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,083 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 46 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
 | 47 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 |
 | 48 | [DANCING ALONE](https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/70Dv2gOXbeIyHnwT30Hak5) | 3:18 |
-| 49 | [SHOOT \(Firecracker\)](https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx) | [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [LIL FANTASY vol.1](https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak) | 2:48 |
-| 50 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 |
+| 49 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
+| 50 | [SHOOT \(Firecracker\)](https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx) | [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [LIL FANTASY vol.1](https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak) | 2:48 |
 
 Snapshot ID: `AAAAAKSYymLDy87xl+Gah0p9Om4hQXDd`

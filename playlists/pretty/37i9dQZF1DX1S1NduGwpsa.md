@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Ferdi
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,920 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,958 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 10 | [La Sentencia \- Duo](https://open.spotify.com/track/74oyWihpW29wlh97CLkMaj) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz), [Gonzalo Rubalcaba](https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F) | [La Sentencia \- Duo](https://open.spotify.com/album/3HguosoaEMHpSODZmb1o36) | 4:54 |
 | 11 | [Aberdeen](https://open.spotify.com/track/3iVoB8pt8vazxR7NwvvUCL) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT), [John Medeski](https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD), [Jorge Roeder](https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x), [Kenny Wollesen](https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV) | [Aberdeen](https://open.spotify.com/album/6Djhn6LSBunJkJUZi0el1f) | 7:17 |
 | 12 | [Comme un écho lointain](https://open.spotify.com/track/42C9NNFStIk1wOy0u4zl5U) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Armel Dupas](https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Comme un écho lointain](https://open.spotify.com/album/6L52UdluTRHs4kUHMaLHby) | 4:16 |
-| 13 | [Abathuthu](https://open.spotify.com/track/7CdBGfruRsDm5lOlFsoH8q) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Abathuthu](https://open.spotify.com/album/0Tx7NZnfovKps11qh1mLTf) | 3:22 |
+| 13 | [Abathathu](https://open.spotify.com/track/7CdBGfruRsDm5lOlFsoH8q) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Abathathu](https://open.spotify.com/album/0Tx7NZnfovKps11qh1mLTf) | 3:22 |
 | 14 | [Always](https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Monty Alexander](https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Steve Jordan](https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC) | [Always](https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a) | 5:25 |
 | 15 | [Homecoming](https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Homecoming](https://open.spotify.com/album/7pj3unbvdE8xgxKPBY5siV) | 4:07 |
 | 16 | [The Best Things Happen While You're Dancing](https://open.spotify.com/track/4m0TCAd9hKenEoyTu6D24l) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Count Your Blessings](https://open.spotify.com/album/1ZJX3MkgGkFZmutJAHZS3Y) | 2:45 |

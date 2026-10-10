@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGcHV6BqOiQl.md) - [plain]
 | 19 | [Lonely Refix](https://open.spotify.com/track/2zlA3hLNafWrDQ9he4kRAw) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/5bTVLH0LZmaAdNN0wZAHYZ) | 2:43 |
 | 20 | [4 Days](https://open.spotify.com/track/1a4LL4i5E0UreqNtRB97Dr) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [4 Days](https://open.spotify.com/album/4FRZHLigvKsSZX58K1fuew) | 2:34 |
 | 21 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 |
-| 22 | [Lonely](https://open.spotify.com/track/6LXXudwOb0vgtrWc4w7PBK) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/1ifuuVWSzO9joonBFpBHdQ) | 3:08 |
-| 23 | [Treasure](https://open.spotify.com/track/0ZeU1691bYmy26bDvFCUMc) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:39 |
+| 22 | [Treasure](https://open.spotify.com/track/0ZeU1691bYmy26bDvFCUMc) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:39 |
+| 23 | [Lonely](https://open.spotify.com/track/6LXXudwOb0vgtrWc4w7PBK) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/1ifuuVWSzO9joonBFpBHdQ) | 3:08 |
 | 24 | [Orun](https://open.spotify.com/track/1JRvYBFI7e6meXgjtx5f54) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:37 |
 | 25 | [Tete](https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Tete](https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2) | 2:43 |
 | 26 | [UNLIMITED](https://open.spotify.com/track/5Qt3tb5U0VvYbiQXW8SID9) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [UNLIMITED](https://open.spotify.com/album/6FvHEmAaSR9mgfQVC0XpZm) | 2:06 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGcHV6BqOiQl.md) - [plain]
 | 37 | [Mind](https://open.spotify.com/track/5F8eCL9KDpMgny7MAS7AkD) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Before The Morning Light](https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr) | 2:21 |
 | 38 | [Kayama](https://open.spotify.com/track/7I7aUudSiVMZPj5gqGcbTG) | [DNA](https://open.spotify.com/artist/1FlxUQ2UXUNGGXqJipuytq) | [Gemini EP](https://open.spotify.com/album/4YikoYZN8EAjWlBw3763sU) | 2:56 |
 
-Snapshot ID: `AceblgAAAAB6EYwnAGvMJVZrnF4724i+`
+Snapshot ID: `Aceg+gAAAAC2OPT2ksWnOHpyQfTBClUw`

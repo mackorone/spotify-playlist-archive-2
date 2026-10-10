@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Dabda\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,721 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,726 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [sway](https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:11 |
 | 50 | [Flower](https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [Flower](https://open.spotify.com/album/4crMQvV6BNVcEu7ei8pnd1) | 3:28 |
 
-Snapshot ID: `AAAAAFQZYD7YILSEDxxPtrrXE9wWzjdj`
+Snapshot ID: `AAAAALZYlp4U6ecwsGkfp8JBsivQvLii`

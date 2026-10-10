@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587 likes - 167 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 588 likes - 167 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 79 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
 | 80 | [two nights \(feat\. Aminé\)](https://open.spotify.com/track/1CPNoBoQIc0dgK8MQDyx0T) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:24 |
 | 81 | [Breach \(Walk Alone\)](https://open.spotify.com/track/3X3Go0oPCDC88Rexjt5Npa) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Breach \(Walk Alone\)](https://open.spotify.com/album/2ovvPpqXt4dj2OABryLIKy) | 2:58 |
-| 82 | [Goin Up \(feat\. DyCy\)](https://open.spotify.com/track/6ZXO2ZFcAFmkFoJpMIwzGa) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [DyCy](https://open.spotify.com/artist/2qdqYad94Al0HLIgmUGQM5) | [Goin Up \(feat\. DyCy\)](https://open.spotify.com/album/2xNyHrIBEJynLhUMtylDYZ) | 2:42 |
-| 83 | [Dust and Smoke](https://open.spotify.com/track/1b6qaORLV7CzsUukna3N2W) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Music for the Soul](https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal) | 3:26 |
+| 82 | [Dust and Smoke](https://open.spotify.com/track/1b6qaORLV7CzsUukna3N2W) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Music for the Soul](https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal) | 3:26 |
+| 83 | [Goin Up \(feat\. DyCy\)](https://open.spotify.com/track/6ZXO2ZFcAFmkFoJpMIwzGa) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [DyCy](https://open.spotify.com/artist/2qdqYad94Al0HLIgmUGQM5) | [Goin Up \(feat\. DyCy\)](https://open.spotify.com/album/2xNyHrIBEJynLhUMtylDYZ) | 2:42 |
 | 84 | [Doll House](https://open.spotify.com/track/0lY79Da40npqJ8nYpTXKyq) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/5hPUHlf9lwHK4PZ1Fp0QoV) | 3:11 |
 | 85 | [Overnight](https://open.spotify.com/track/3mVQUlrhWN5Z1i1HUhU8ZH) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:37 |
 | 86 | [Meaning of Life](https://open.spotify.com/track/6YWStBSFmmeE5TZJmlUfhB) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:51 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 166 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 | 167 | [Listen](https://open.spotify.com/track/06IkwCCdPyhRKlpr3GOdYu) | [Androppolis](https://open.spotify.com/artist/4qwtoERXntUZinWjz3Xk5p) | [Exhibit A](https://open.spotify.com/album/51ZXr1PSFscY478GVD7Qux) | 2:00 |
 
-Snapshot ID: `AcebbgAAAAAdhZbB7Y+sF3zs/zYP0kVD`
+Snapshot ID: `AcehDgAAAABKa01utc3eeUu0qo96ZDFi`

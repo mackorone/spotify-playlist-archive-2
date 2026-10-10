@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-790 songs - 2 day 1 hr 16 min
+791 songs - 2 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Addicted to Failure](https://open.spotify.com/track/4VZf9Fvio0gJujRfGwqLl8) | [LUDIOSIS](https://open.spotify.com/artist/0clKpUY5LwTMTMRs9a3Gsp) | [Addicted to Failure](https://open.spotify.com/album/7sp6s7LO5qVt5RNrtnmqEd) | 3:46 | 2026-09-17 |  |
 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2026-04-23 | 2026-06-25 |
 | [Adicta a Mí](https://open.spotify.com/track/6ssOrkkoSG0pOhOyrfgIPK) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Adicta a Mí](https://open.spotify.com/album/5hx182VgnljEq0k68B8DpL) | 4:06 | 2026-03-11 | 2026-04-21 |
+| [Adrenaline](https://open.spotify.com/track/4zrQH961tUHDOG2KLxaLYv) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [Adrenaline](https://open.spotify.com/album/3BplHVb9o00Yro8rvfBWim) | 2:44 | 2026-10-09 |  |
 | [Ain't It Fun?](https://open.spotify.com/track/5XTkhdlsfIAMm5DvRYpG4Z) | [Tent](https://open.spotify.com/artist/0Gv2DlvET0fQVJ8jqLx7RC), [regina hum](https://open.spotify.com/artist/1GzBgXa7ZG3GRRHkhZXYSK), [Gabriel Peralta](https://open.spotify.com/artist/1qhj4RJDwgkhjWXssCAQva) | [Ain't It Fun?](https://open.spotify.com/album/4TXm8iB8yhyJdd5zedbxdK) | 5:01 | 2025-09-22 | 2025-12-17 |
 | [Alive](https://open.spotify.com/track/3EFnLqJaxVBObSn1IjZYJI) | [Samuel Wallace](https://open.spotify.com/artist/0IdsFMsj4oJFFxgaUj6U0Q) | [Alive](https://open.spotify.com/album/0UOEzwaL72Vm7K10onJKWO) | 2:58 | 2026-08-13 |  |
 | [All Alone \- Went to the Bone Solo Version](https://open.spotify.com/track/5RnLoAlp8H4oKl15MGtM4y) | [Riccardo Cantarelli](https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf) | [Back of the Wreck](https://open.spotify.com/album/1UeyVHTtupC0nBL7fr8H9V) | 2:37 | 2026-03-24 | 2026-04-21 |

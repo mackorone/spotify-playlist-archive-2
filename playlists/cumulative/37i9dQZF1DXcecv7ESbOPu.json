@@ -67593,6 +67593,32 @@
     },
     {
       "album": {
+        "name": "Bully The Scene",
+        "url": "https://open.spotify.com/album/5jz5iFQk5VlizmeozaMwZ3"
+      },
+      "artists": [
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        },
+        {
+          "name": "Harrison First",
+          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
+        },
+        {
+          "name": "BGZ",
+          "url": "https://open.spotify.com/artist/6OZkAwjblI61i9DPx7NdvJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190383,
+      "name": "Bully The Scene",
+      "url": "https://open.spotify.com/track/3onz30mMPm0aDPpJBPfcs2"
+    },
+    {
+      "album": {
         "name": "Bumpa",
         "url": "https://open.spotify.com/album/63Pj8e2jkWuOA5i1uDEaNQ"
       },
@@ -205946,10 +205972,6 @@
         {
           "name": "tetteris",
           "url": "https://open.spotify.com/artist/1ESDypoYXnCyOoQrItdFwr"
-        },
-        {
-          "name": "Elias Tetteris",
-          "url": "https://open.spotify.com/artist/533Xxy1cwWiSDnX2ZcVyv9"
         }
       ],
       "date_added": "2026-10-08",
@@ -232019,7 +232041,7 @@
     },
     {
       "album": {
-        "name": "Inte Nationella",
+        "name": "inte nationella",
         "url": "https://open.spotify.com/album/4KDvAViDvy8IlNEDuBvbqB"
       },
       "artists": [
@@ -232032,7 +232054,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153669,
-      "name": "Inte Nationella",
+      "name": "inte nationella",
       "url": "https://open.spotify.com/track/03aThtYW92qG0J75deOfQB"
     },
     {
@@ -347713,6 +347735,28 @@
     },
     {
       "album": {
+        "name": "People Are Strange",
+        "url": "https://open.spotify.com/album/37B2AwmrlgNri7euIfsAe8"
+      },
+      "artists": [
+        {
+          "name": "Yttling Jazz",
+          "url": "https://open.spotify.com/artist/0sHY32geV56IzTbEEomMFG"
+        },
+        {
+          "name": "Chrissie Hynde",
+          "url": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141124,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/5Quh5WCV0UUKJdJUaQlHu7"
+    },
+    {
+      "album": {
         "name": "If I Can\u2019t Have Love, I Want Power (Extended)",
         "url": "https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH"
       },
@@ -349538,6 +349582,24 @@
       "duration_ms": 226398,
       "name": "Phony",
       "url": "https://open.spotify.com/track/1M423Vm3k2Bqk3pA2cx4u7"
+    },
+    {
+      "album": {
+        "name": "Piaggio",
+        "url": "https://open.spotify.com/album/1KFwtUIURcb8rZgdrGWRgI"
+      },
+      "artists": [
+        {
+          "name": "Henning",
+          "url": "https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182482,
+      "name": "Piaggio",
+      "url": "https://open.spotify.com/track/2WwssE1jxBTzt2HgwfU2TT"
     },
     {
       "album": {
@@ -422385,7 +422447,7 @@
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 164411,
+      "duration_ms": 136041,
       "name": "ST\u00d6RD",
       "url": "https://open.spotify.com/track/5vYeSHa82PMlSSfl3Q8vho"
     },

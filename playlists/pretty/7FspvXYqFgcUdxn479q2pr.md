@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: David Guetta and Jast
+> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Joey London Style &amp; Pheelo
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,338 likes - 376 songs - 19 hr 17 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,335 likes - 376 songs - 19 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Te conocí \- with Nicky Jam](https://open.spotify.com/track/3EQjRvevOXHXG9LljcVyAP) | [Zenar](https://open.spotify.com/artist/1VwhS6UWlj4h2z1YLQqHyh), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te conocí \(with Nicky Jam\)](https://open.spotify.com/album/6wb6sxTUqtTCl1GyIAZevv) | 3:02 |
-| 2 | [Mariô](https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Mariô](https://open.spotify.com/album/1l3aOvhCVXwiZ6hORsLh2c) | 2:00 |
-| 3 | [Never Stop](https://open.spotify.com/track/6UOHcOQSNBGCoHqfALH9lG) | [Joey London Style](https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i), [Pheelo](https://open.spotify.com/artist/3R2HL3PzOU2tQNeFiNhcfA) | [Never Stop](https://open.spotify.com/album/6cvhugvu7B0tBi8hZKmbcb) | 2:32 |
+| 1 | [Never Stop](https://open.spotify.com/track/6UOHcOQSNBGCoHqfALH9lG) | [Joey London Style](https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i), [Pheelo](https://open.spotify.com/artist/3R2HL3PzOU2tQNeFiNhcfA) | [Never Stop](https://open.spotify.com/album/6cvhugvu7B0tBi8hZKmbcb) | 2:32 |
+| 2 | [Te conocí \- with Nicky Jam](https://open.spotify.com/track/3EQjRvevOXHXG9LljcVyAP) | [Zenar](https://open.spotify.com/artist/1VwhS6UWlj4h2z1YLQqHyh), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te conocí \(with Nicky Jam\)](https://open.spotify.com/album/6wb6sxTUqtTCl1GyIAZevv) | 3:02 |
+| 3 | [Mariô](https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Mariô](https://open.spotify.com/album/1l3aOvhCVXwiZ6hORsLh2c) | 2:00 |
 | 4 | [Serotonin](https://open.spotify.com/track/0I90jklTm1yNB0FUak33Va) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Serotonin](https://open.spotify.com/album/5XsL9OkrlwSFgGT9626tCF) | 3:30 |
 | 5 | [Motel](https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS) | [Lisa Korver](https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH) | [Motel](https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok) | 3:45 |
 | 6 | [Meet Me In The Dark \- Joel Corry Remix](https://open.spotify.com/track/5lxWnywnnSIhZ5C5n2m889) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Meet Me In The Dark \(Joel Corry Remix\)](https://open.spotify.com/album/0HerfMSZ4Yc60SXiXjnfEM) | 2:56 |
@@ -385,4 +385,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 375 | [Like A Drug](https://open.spotify.com/track/4OPpaJNuTo0j6XyvwDhrxF) | [Ben Wood](https://open.spotify.com/artist/2iDVKvq83UePPjZlTivOcR) | [Like A Drug](https://open.spotify.com/album/6D2mnM4kzrffNbSjNHPaRG) | 2:16 |
 | 376 | [Addicted To Our Chemistry](https://open.spotify.com/track/2Fekdhq7wnbSp8uk8EtkE8) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR) | [Addicted To Our Chemistry](https://open.spotify.com/album/2mwUICka1TnVDUyBwUELYg) | 2:44 |
 
-Snapshot ID: `AAAxLOhBnfm1xStZ8gx8nExA3+swGgxU`
+Snapshot ID: `AAAxLkG7nO6PcnoupQcJlonYzKK3ZNdH`

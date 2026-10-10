@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson
 
-332 songs - 17 hr 45 min
+333 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Song While You're Away](https://open.spotify.com/track/0MEZnFwEu4MSB1ulmarWZ6) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 5:00 | 2024-07-22 | 2025-05-06 |
 | [South of the Suburbs](https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH) | [Matt Bazinet](https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct) | [South of the Suburbs](https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf) | 2:48 | 2024-07-27 |  |
 | [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 | 2024-03-15 | 2024-11-02 |
+| [Started From The Holler](https://open.spotify.com/track/6TLVUgJLPo7I4dkvVDIR81) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Started From The Holler](https://open.spotify.com/album/6N1kVADLuQBz8UeNdoSpOp) | 3:21 | 2026-10-09 |  |
 | [Stay in Your Lane](https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd) | [Bronson Diamond](https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Stay in Your Lane](https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh) | 3:29 | 2025-03-25 |  |
 | [Streetlight](https://open.spotify.com/track/2m3MghNJc7uwB9sBBtTcW9) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Streetlight](https://open.spotify.com/album/5Wo944H6nfB7HS32hKUXRK) | 3:12 | 2024-03-15 | 2024-11-02 |
 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 | 2026-08-21 |  |

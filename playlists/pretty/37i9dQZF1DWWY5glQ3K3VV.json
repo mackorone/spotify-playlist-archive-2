@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 118012,
+  "num_followers": 118028,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191702,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF"
-    },
-    {
-      "added_at": "2026-09-03 22:02:54",
-      "album": {
         "name": "Pookie (feat. Capo Plaza) [Remix]",
         "url": "https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 188400,
       "name": "Pookie (feat. Capo Plaza) - Remix",
       "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
+    },
+    {
+      "added_at": "2026-09-03 22:02:54",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191702,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
+    },
+    {
+      "added_at": "2026-09-03 22:02:54",
+      "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 265637,
       "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
-    },
-    {
-      "added_at": "2026-09-03 22:02:54",
-      "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "ON FIRE - paid in full",
-      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
       "added_at": "2026-09-03 22:02:54",

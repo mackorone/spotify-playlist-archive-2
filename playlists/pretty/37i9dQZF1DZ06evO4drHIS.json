@@ -1,29 +1,13 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 20055,
+  "num_followers": 20059,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAdiDVX6xPSphhbSuaXAwxS",
+  "snapshot_id": "asbdAAAAAAB3a7Od1nzUxPZ11+wxB5yA",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Nadie Sepa Mi Sufrir",
-        "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
-    },
     {
       "added_at": null,
       "album": {
@@ -207,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Nadie Sepa Mi Sufrir",
+        "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Vuelvas",
         "url": "https://open.spotify.com/album/3vmOjzuvn1Pd95ObRtDaIj"
       },
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 203120,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
+      "duration_ms": 281560,
+      "name": "Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 Aniversario",
         "url": "https://open.spotify.com/album/6oDhTZU2iifDYg6RYTKTKA"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 153913,
       "name": "Si Nos Dejamos Querer",
       "url": "https://open.spotify.com/track/4ib3BMMkFenoPc8NckbzQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Canta Con El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cielo Rojo",
         "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 258048,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 192253,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
       "duration_ms": 170400,
       "name": "Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/6aCH4XhrhW0AG7NVZghJad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 192253,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
     },
     {
       "added_at": null,
@@ -571,38 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy Va Por Ti (feat. Karol Sevilla)",
-        "url": "https://open.spotify.com/album/3KFQNaFEQ1MS9hUjujOwn1"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        },
-        {
-          "name": "Benny",
-          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
-        },
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Karol Sevilla",
-          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Hoy Va Por Ti (feat. Karol Sevilla)",
-      "url": "https://open.spotify.com/track/6kJMQNdDHnPav35RRb3hTM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Canta Con El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 199973,
       "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoy Va Por Ti (feat. Karol Sevilla)",
+        "url": "https://open.spotify.com/album/3KFQNaFEQ1MS9hUjujOwn1"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        },
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Hoy Va Por Ti (feat. Karol Sevilla)",
+      "url": "https://open.spotify.com/track/6kJMQNdDHnPav35RRb3hTM"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 183993,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
         "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },
@@ -723,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Cuando Hablo De Ti",
-      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 162146,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 183993,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Cuando Hablo De Ti",
+      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Como T\u00fa",
-        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila (Deluxe)",
         "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 187720,
       "name": "Nos Gan\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
     },
     {
       "added_at": null,

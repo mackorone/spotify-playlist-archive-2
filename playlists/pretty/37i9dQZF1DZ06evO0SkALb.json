@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAR2KIuwZNP2cozJzPviqZB",
+  "snapshot_id": "asbdAAAAAAC2dP5yGDdetqXe6GXUguQM",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 267400,
-      "name": "You've Made Me So Very Happy",
-      "url": "https://open.spotify.com/track/4KClNuFZIA0Tqjk3eTnEUt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 198266,
       "name": "Groovy People",
       "url": "https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "You've Made Me So Very Happy",
+      "url": "https://open.spotify.com/track/4KClNuFZIA0Tqjk3eTnEUt"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Note Plays Bossa Nova",
-        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "The Girl From Ipanema - Live",
-      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Be Good to You",
         "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 276093,
       "name": "Time Will Take Care of Everything",
       "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Note Plays Bossa Nova",
+        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "The Girl From Ipanema - Live",
+      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unmistakably Lou",
-        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 266872,
-      "name": "Spring Again",
-      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
+      "duration_ms": 209040,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+        "name": "Halloween's Gravest Hits",
+        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
       },
       "artists": [
         {
@@ -444,9 +444,25 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 209040,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
+      "duration_ms": 351653,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/65CQSLIsCjbVyGXVRg97K4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unmistakably Lou",
+        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 266872,
+      "name": "Spring Again",
+      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
     },
     {
       "added_at": null,
@@ -467,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halloween's Gravest Hits",
-        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
       "artists": [
         {
@@ -476,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 351653,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/65CQSLIsCjbVyGXVRg97K4"
+      "duration_ms": 339160,
+      "name": "Early Morning Love",
+      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 203573,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/6DasyKHS773Ar1TBMEyKUn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 339160,
-      "name": "Early Morning Love",
-      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sit Down and Talk to Me",
-        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 278946,
-      "name": "Ain't That Loving You (For More Reasons Than One)",
-      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
@@ -575,22 +559,6 @@
       "duration_ms": 294720,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
     },
     {
       "added_at": null,
@@ -611,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
       "artists": [
         {
@@ -620,41 +588,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 274306,
-      "name": "St. James Infirmary - Live/Remastered",
-      "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Let's Fall In Love All Over Again",
-      "url": "https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Be Anything (But Be Mine)",
-      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
+      "duration_ms": 278946,
+      "name": "Ain't That Loving You (For More Reasons Than One)",
+      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
     },
     {
       "added_at": null,
@@ -675,22 +611,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stormy Monday",
-        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
       "artists": [
         {
           "name": "Lou Rawls",
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        },
-        {
-          "name": "Les McCann",
-          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
         }
       ],
-      "duration_ms": 357040,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
+      "duration_ms": 240600,
+      "name": "Let's Fall In Love All Over Again",
+      "url": "https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 274306,
+      "name": "St. James Infirmary - Live/Remastered",
+      "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
     },
     {
       "added_at": null,
@@ -711,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0RHxOjkG1CpNAGba3nN9c5"
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
       "artists": [
         {
@@ -720,9 +668,25 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 317360,
-      "name": "You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening - Live at the Mark Hellinger Theatre, New York, NY - November 1977",
-      "url": "https://open.spotify.com/track/5z0pKiEk0me8RdNYh4gOvj"
+      "duration_ms": 176466,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Be Anything (But Be Mine)",
+      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
     },
     {
       "added_at": null,
@@ -747,6 +711,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0RHxOjkG1CpNAGba3nN9c5"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 317360,
+      "name": "You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening - Live at the Mark Hellinger Theatre, New York, NY - November 1977",
+      "url": "https://open.spotify.com/track/5z0pKiEk0me8RdNYh4gOvj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        }
+      ],
+      "duration_ms": 357040,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 256160,
       "name": "We Understand Each Other",
       "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lou Rawls - The Very Best Of",
+        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "That Would Do It for Me",
+      "url": "https://open.spotify.com/track/018N2ZUUruZrwLHPDtuwj0"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
       "duration_ms": 156133,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lou Rawls - The Very Best Of",
-        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "That Would Do It for Me",
-      "url": "https://open.spotify.com/track/018N2ZUUruZrwLHPDtuwj0"
     }
   ],
   "unique_name": "This Is Lou Rawls",

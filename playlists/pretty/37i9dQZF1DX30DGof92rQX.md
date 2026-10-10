@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,657 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,717 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [chasing you](https://open.spotify.com/track/4FKxdXC4Du5HCZRy3pWAet) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo) | [chasing you](https://open.spotify.com/album/3MZNrl2OzyuecRPqzO979b) | 2:36 |
+| 1 | [chasing you](https://open.spotify.com/track/4FKxdXC4Du5HCZRy3pWAet) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [chasing you](https://open.spotify.com/album/3MZNrl2OzyuecRPqzO979b) | 2:36 |
 | 2 | [Maheya \| Coke Studio Nu.WAV](https://open.spotify.com/track/6M9r6baHDuTaXREdS1Li47) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [AARYAN](https://open.spotify.com/artist/3b1957PW1iBjUULrNYSohi), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Maheya \| Coke Studio Nu.WAV](https://open.spotify.com/album/0il0NJaJAT6DIG5JedUIOK) | 3:38 |
 | 3 | [Das Kaun Aye](https://open.spotify.com/track/4zsNRUET6wjLr479CE0IpS) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Das Kaun Aye](https://open.spotify.com/album/7atl5lJIqQtk9oI4Aqf8EL) | 3:10 |
 | 4 | [Do Kinaray \(feat\. Monica Ahmed\)](https://open.spotify.com/track/3MHrgKrWQP1XDKHweZ0fSM) | [Abdullah Bilal](https://open.spotify.com/artist/5QNf7Yhzb8tp3sGzcpLMeb), [Monica Ahmed](https://open.spotify.com/artist/37ivvpvIXcsn90QNNP3XMr) | [Do Kinaray \(feat\. Monica Ahmed\)](https://open.spotify.com/album/7yNnEAoISaJdmQNzPandHe) | 2:17 |

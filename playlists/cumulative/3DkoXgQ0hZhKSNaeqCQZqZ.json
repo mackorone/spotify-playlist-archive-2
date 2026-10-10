@@ -3193,6 +3193,24 @@
     },
     {
       "album": {
+        "name": "EVERLASTING",
+        "url": "https://open.spotify.com/album/1YFcxKF5BRW33FYz25FqHy"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158723,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/0nmhfTCZXU2cBJR53b6QZm"
+    },
+    {
+      "album": {
         "name": "EVERY SECOND COUNTS",
         "url": "https://open.spotify.com/album/5tK1KX4H4QicRcrlKgSm72"
       },

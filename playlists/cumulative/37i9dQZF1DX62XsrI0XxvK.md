@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Gavendri
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Kaleb J
 
-294 songs - 17 hr 17 min
+296 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Rumah Kaca](https://open.spotify.com/track/6YlTNiiv6UvfEilEcPLC2h) | [Manutized](https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS) | [Rumah Kaca](https://open.spotify.com/album/2hE0QOeElfQgdiNvkVTB2M) | 4:03 | 2024-10-10 | 2025-05-30 |
 | [Runner Up](https://open.spotify.com/track/6R549RTmRikhV9khynVxv3) | [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J) | [Runner Up](https://open.spotify.com/album/4fU3VB9Q1XxP5UH4aBSPwR) | 3:54 | 2025-10-09 | 2026-04-10 |
 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-10-03 | 2026-05-22 |
+| [Safe Space](https://open.spotify.com/track/7kgsoaN1hlyrWp86yjOccu) | [Jakarta Soul System](https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP), [Bryan Renaldo](https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR), [NADI](https://open.spotify.com/artist/3lDdNlDuMRyFbCTWplIrOq) | [Safe Space](https://open.spotify.com/album/5IloQPVPdXfpjMca2azS43) | 4:00 | 2026-10-09 |  |
 | [Safe Spot](https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Safe Spot](https://open.spotify.com/album/55Xq0PeZm8bR3Aimi8xayS) | 3:52 | 2025-09-18 | 2026-06-05 |
 | [Salah Paham](https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Salah Paham](https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k) | 3:27 | 2025-10-24 | 2026-02-20 |
 | [salah paham \(lagi\)](https://open.spotify.com/track/4Hv3IiRfNraG3pWYgL7F72) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ), [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [salah paham \(lagi\)](https://open.spotify.com/album/4IAe0xHPY58mIyDRpYdq17) | 3:28 | 2026-06-11 |  |
@@ -271,6 +272,7 @@
 | [Tak Secinta Itu](https://open.spotify.com/track/4PR85M8Le8SBr4fU7CCadz) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Tak Secinta Itu](https://open.spotify.com/album/6l4mo22pd6Mxxq2rViRGOQ) | 4:01 | 2025-08-28 | 2026-02-13 |
 | [Take It Slow](https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Take It Slow](https://open.spotify.com/album/5tmiUYxb4Xx7GgPC8D3LdZ) | 3:49 | 2024-10-03 | 2025-05-30 |
 | [Talk To Ya](https://open.spotify.com/track/3MSyncAHpVp8qwbcvNNVLH) | [Canti](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ), [Manutized](https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS) | [Citrus](https://open.spotify.com/album/70hWh3H1XXCDE6z4m70XVy) | 3:04 | 2026-04-30 | 2026-08-01 |
+| [Tanda Cinta](https://open.spotify.com/track/0ln5g8IxH6IQMx5CmeBZen) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Tanda Cinta](https://open.spotify.com/album/0Oc1MACglKTcDBVus3HE7J) | 4:34 | 2026-10-09 |  |
 | [Tanpa Dirimu](https://open.spotify.com/track/4LcClXMHZMGsEuYm4rOXRp) | [Christo Edgar](https://open.spotify.com/artist/7i2vbzCSBa8v9jj9BG4jLz) | [Tanpa Dirimu](https://open.spotify.com/album/0A5OYXwLAKLkp1Ezu1VEY6) | 3:02 | 2026-05-21 |  |
 | [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 | 2025-04-16 |  |
 | [Telat!](https://open.spotify.com/track/1NalriTQmBmSbkg0FBfw0D) | [Maisha Kanna](https://open.spotify.com/artist/4E46R3KgyeZmiJjeCaCQze) | [Telat!](https://open.spotify.com/album/0bk9Cm5TdubCQj3LbwUDpD) | 3:43 | 2026-07-31 |  |

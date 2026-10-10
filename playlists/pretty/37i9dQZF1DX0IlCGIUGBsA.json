@@ -1,6 +1,6 @@
 {
   "description": "Get the party going with these classics from across the decades.",
-  "num_followers": 918249,
+  "num_followers": 918251,
   "original_name": "Ultimate Party Classics",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Permission to Land",
-        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
-      },
-      "artists": [
-        {
-          "name": "The Darkness",
-          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "I Believe In A Thing Called Love",
-      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "World Clique",
         "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 231786,
       "name": "Groove Is in the Heart",
       "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Permission to Land",
+        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "I Believe In A Thing Called Love",
+      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "It's Tricky",
-      "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Around the World in a Day",
         "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 215173,
       "name": "Raspberry Beret",
       "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
     },
     {
       "added_at": "2024-07-12 09:33:21",

@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "No Fue Suerte",
+        "url": "https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143577,
+      "name": "5.0",
+      "url": "https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi"
+    },
+    {
+      "album": {
         "name": "Historias Mal Contadas",
         "url": "https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj"
       },
@@ -1392,6 +1410,28 @@
       "duration_ms": 155850,
       "name": "B\u00e9lico Fue Desde Que Naci\u00f3 (El Nini)",
       "url": "https://open.spotify.com/track/3VPAD6zV19DMpdlTjDux7U"
+    },
+    {
+      "album": {
+        "name": "Cabez\u00f3n",
+        "url": "https://open.spotify.com/album/0Nyco4fXjYeSGecS7eC4QB"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        },
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176504,
+      "name": "Cabez\u00f3n",
+      "url": "https://open.spotify.com/track/6y7YORyjqzue1YZUzc1fLn"
     },
     {
       "album": {
@@ -3332,7 +3372,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 163582,
       "name": "El Guty",
       "url": "https://open.spotify.com/track/2efRIKsDPxJ7OG4h5PlHEF"
@@ -4818,7 +4858,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 164565,
       "name": "Hasta Enfrente",
       "url": "https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN"
@@ -8616,7 +8656,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 161684,
       "name": "R\u00e1fagas al Viento",
       "url": "https://open.spotify.com/track/5GIrmSQBxO9LTunilbwMWw"
@@ -9992,6 +10032,24 @@
       "duration_ms": 141500,
       "name": "Una Chevy",
       "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
+    },
+    {
+      "album": {
+        "name": "V2",
+        "url": "https://open.spotify.com/album/1UeuWR9jjyTpiM7Gv70rI6"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157397,
+      "name": "V2",
+      "url": "https://open.spotify.com/track/5aR2nStSG3vJ80cnrDi5m3"
     },
     {
       "album": {

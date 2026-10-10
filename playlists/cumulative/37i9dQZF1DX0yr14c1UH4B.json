@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song \ud83c\udf33 cover: Kodaline",
+  "description": "It's all about the song \ud83c\udfa7 cover: Amble",
   "name": "Common Thread",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 168164,
       "name": "Almost Me, Almost You",
       "url": "https://open.spotify.com/track/2ZDmomo3jbfpCqJLj7XYFF"
@@ -1538,6 +1538,24 @@
       "duration_ms": 229000,
       "name": "Before I Wake",
       "url": "https://open.spotify.com/track/6G5KucQWMMP2xQxhpydS86"
+    },
+    {
+      "album": {
+        "name": "Winning Streak",
+        "url": "https://open.spotify.com/album/3UxecZTNOaTeEApix1kIO0"
+      },
+      "artists": [
+        {
+          "name": "Dan Croll",
+          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Best Laid Plans",
+      "url": "https://open.spotify.com/track/0cyOoNrHqTMcn8FzQ0dyGk"
     },
     {
       "album": {
@@ -2778,6 +2796,24 @@
       "duration_ms": 231746,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
+    },
+    {
+      "album": {
+        "name": "Church Bells",
+        "url": "https://open.spotify.com/album/7Gw42YnewWCUpHfpTrwAOg"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229696,
+      "name": "Church Bells",
+      "url": "https://open.spotify.com/track/2c7JU7iNZ4DO1arCsKtsoC"
     },
     {
       "album": {
@@ -6046,7 +6082,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 206819,
       "name": "Girl Who Cried Wolf",
       "url": "https://open.spotify.com/track/5HNGDqthELv0TBWhLXuIiv"
@@ -6360,6 +6396,24 @@
       "duration_ms": 155788,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/13BDreSwqXdUyIbFyt4ifY"
+    },
+    {
+      "album": {
+        "name": "Goodbye, Forever",
+        "url": "https://open.spotify.com/album/1jjHQWYNVcWc31PfAFxiM2"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186613,
+      "name": "Goodbye, Forever",
+      "url": "https://open.spotify.com/track/3Nb48bT2RQN1saq2KIHgyQ"
     },
     {
       "album": {
@@ -6972,7 +7026,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 229894,
       "name": "High",
       "url": "https://open.spotify.com/track/6vLOevDMJKxwZfalPLgfMZ"
@@ -7766,7 +7820,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 216346,
       "name": "I don\u2019t mind if you don\u2019t mind",
       "url": "https://open.spotify.com/track/1jXDRZjQ36rZrXmq6HiudV"
@@ -7904,6 +7958,24 @@
       "duration_ms": 155443,
       "name": "I love being sad",
       "url": "https://open.spotify.com/track/5Mcj19iLQqbwAf1uun8Td7"
+    },
+    {
+      "album": {
+        "name": "I Love You, That\u2019s All",
+        "url": "https://open.spotify.com/album/2zeJJzOz4HYfpFuIDrVDfx"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223312,
+      "name": "I Love You, That\u2019s All",
+      "url": "https://open.spotify.com/track/7aDQlqbS2sB5Mu3SaaJ7hv"
     },
     {
       "album": {
@@ -9150,7 +9222,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 190163,
       "name": "just us",
       "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
@@ -10650,7 +10722,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 225628,
       "name": "Math of Us",
       "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
@@ -10982,6 +11054,24 @@
       "duration_ms": 234040,
       "name": "Mothers By July",
       "url": "https://open.spotify.com/track/0SSPZy9TM5X1HWJmWcRueE"
+    },
+    {
+      "album": {
+        "name": "move to spain",
+        "url": "https://open.spotify.com/album/6JmLEax9IbPj3AWHtQD8hc"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147136,
+      "name": "move to spain",
+      "url": "https://open.spotify.com/track/6C6UTypgukIESb96SjEErr"
     },
     {
       "album": {
@@ -13402,7 +13492,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 193803,
       "name": "Roses In The Dark",
       "url": "https://open.spotify.com/track/7jWryoFLkDR1jeht78uUeQ"
@@ -17046,7 +17136,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 165680,
       "name": "Time Lost",
       "url": "https://open.spotify.com/track/0aHSrR8RefR8MbMt5X9DYo"
@@ -19166,7 +19256,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 176117,
       "name": "You Don\u2019t Love Me",
       "url": "https://open.spotify.com/track/3t6oBroGQU9T74ul4ZcB1a"

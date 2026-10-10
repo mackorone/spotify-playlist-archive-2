@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Featuring Cameron Winter and the concert of a lifetime 🌟 <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still">\(p.s\. read our new substack!\)</a
+> Featuring Cameron Winter and the concert of a lifetime 🌟  <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still">\(p.s\. read our substack!\)</a>
 
-4,029 songs - 9 day 5 hr 4 min
+4,030 songs - 9 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1322,6 +1322,7 @@
 | [G.I.R.L.](https://open.spotify.com/track/5vpC87nKOdqAXHEzM4X4BL) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [G.I.R.L.](https://open.spotify.com/album/6LHoSmYwvVq6hNHvKhy6Ck) | 2:42 | 2025-04-25 | 2025-09-24 |
 | [Gabriel](https://open.spotify.com/track/3clpq7tgqi0jcvg16K3c0V) | [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Gabriel](https://open.spotify.com/album/2trgK2jomllLUNEY3bnaYt) | 2:57 | 2026-09-25 |  |
 | [Gainsayer](https://open.spotify.com/track/4NjCWIufPR1ygVSNOpyBP4) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Gainsayer](https://open.spotify.com/album/38ZUbp3MOVnqZeSCLgiT4L) | 2:30 | 2025-10-17 | 2026-03-21 |
+| [Gastro](https://open.spotify.com/track/1ER7XeW1dL2SYsO1uTpsON) | [Trusselina](https://open.spotify.com/artist/06DYRh926LZdCKvDKWxsA9) | [The Point's a Truss, My Trusselina](https://open.spotify.com/album/316h93vnHKcXH7iceuMJ8p) | 3:10 | 2026-10-09 |  |
 | [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-13 | 2025-07-12 |
 | [Gemini Eyes](https://open.spotify.com/track/6BXUGrMChRpa4jXpUJWseE) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [A Rush To Nowhere](https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs) | 4:59 | 2026-03-10 | 2026-04-04 |
 | [Genesis](https://open.spotify.com/track/2whpmafYrsKIIeqwdSCjj1) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Genesis](https://open.spotify.com/album/2okSmN83SWjZXl1Fgqwt4S) | 4:29 | 2021-03-18 | 2021-07-23 |

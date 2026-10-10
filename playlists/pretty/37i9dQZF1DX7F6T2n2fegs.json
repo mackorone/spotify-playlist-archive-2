@@ -1,6 +1,6 @@
 {
   "description": "Here it is, the playlist for the ultimate throwback bash!",
-  "num_followers": 635655,
+  "num_followers": 635973,
   "original_name": "Throwback Party",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "The Trinity",
-        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
         "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "The Trinity",
+        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 270506,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 230613,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -951,38 +967,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "Waiting For Love",
-      "url": "https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -1003,6 +987,38 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Alors on danse - Radio Edit",
+      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 236253,
       "name": "Fireball (feat. John Ryan)",
       "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Alors on danse - Radio Edit",
-      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Planet Pit (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 227280,
-      "name": "International Love (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 339018,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Feel This Moment (feat. Christina Aguilera)",
+      "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1547,30 +1547,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        },
-        {
-          "name": "Molella",
-          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
-        },
-        {
-          "name": "Phil Jay",
-          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -1595,6 +1571,30 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        },
+        {
+          "name": "Molella",
+          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
+        },
+        {
+          "name": "Phil Jay",
+          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Freed From Desire",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 234026,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Calabria 2007",
+        "url": "https://open.spotify.com/album/6MEU7vnEiJ0qzsJkZSqPed"
+      },
+      "artists": [
+        {
+          "name": "Enur",
+          "url": "https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC"
+        },
+        {
+          "name": "Natasja",
+          "url": "https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA"
+        }
+      ],
+      "duration_ms": 233480,
+      "name": "Calabria 2007 - Radio Edit",
+      "url": "https://open.spotify.com/track/49ou9vBZLTCi4TYoYzR3F9"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -1923,22 +1943,18 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Calabria 2007",
-        "url": "https://open.spotify.com/album/6MEU7vnEiJ0qzsJkZSqPed"
+        "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
       },
       "artists": [
         {
-          "name": "Enur",
-          "url": "https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC"
-        },
-        {
-          "name": "Natasja",
-          "url": "https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA"
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
         }
       ],
-      "duration_ms": 233480,
-      "name": "Calabria 2007 - Radio Edit",
-      "url": "https://open.spotify.com/track/49ou9vBZLTCi4TYoYzR3F9"
+      "duration_ms": 256946,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1959,22 +1975,6 @@
       "duration_ms": 205933,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
-      },
-      "artists": [
-        {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "Two Princes",
-      "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -2171,18 +2187,18 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
+      "duration_ms": 279786,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2207,18 +2223,18 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
         }
       ],
-      "duration_ms": 279786,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+      "duration_ms": 208600,
+      "name": "Daddy Cool",
+      "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2239,18 +2255,18 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
       "artists": [
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 208600,
-      "name": "Daddy Cool",
-      "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2267,22 +2283,6 @@
       "duration_ms": 188133,
       "name": "Born to Be Alive - The Original",
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 238226,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 202613,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2023-09-08 11:09:25",

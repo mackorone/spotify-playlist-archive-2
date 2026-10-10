@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: The Midnight Darlings
 
-730 songs - 1 day 18 hr 40 min
+733 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-06-27 | 2025-01-24 |
 | [FEEL ALIVE](https://open.spotify.com/track/0a1q1T30ziPZNCA35D5OIQ) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [FEEL ALIVE](https://open.spotify.com/album/0OrLF1qhA5RPtmGZOJATFj) | 3:16 | 2026-06-11 | 2026-08-07 |
 | [Feeling for You](https://open.spotify.com/track/0NA1nlCQ9BlRbbY8F6UTN9) | [LONE](https://open.spotify.com/artist/5HeBFZyF0fqXHw7SU1xZHF) | [Feeling for You](https://open.spotify.com/album/49FXRUWF9fMNgV5BF8vAyk) | 4:13 | 2024-06-27 | 2024-07-27 |
+| [Feels Like A Crime](https://open.spotify.com/track/0R01JwZEAB5HqNZQ3zX9Kn) | [Zolie](https://open.spotify.com/artist/4pcletN1p2Xcxi8g5YHHgT) | [Feels Like A Crime](https://open.spotify.com/album/7zr0qXtTJQwwZDwCwmXfvT) | 3:20 | 2026-10-09 |  |
 | [Feels Like We're Still a Lover](https://open.spotify.com/track/62YskeUHdVoZiLge8ORBrt) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Feels Like We're Still a Lover](https://open.spotify.com/album/0O3xNA5pIZZc8N6L1GF60G) | 4:54 | 2024-08-23 | 2025-01-24 |
 | [Feenin' \- Andezzz Remix](https://open.spotify.com/track/19CfTZUocbSgUJrQGjgvPs) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7), [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd) | [Feenin'](https://open.spotify.com/album/4cZ5TWhsqDaZrU9c9cxuoC) | 4:52 | 2024-06-27 | 2024-07-24 |
 | [Figaro](https://open.spotify.com/track/13BOpGnIOTDvQPNtOuX4K6) | [Fathan Maulana](https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4), [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Figaro](https://open.spotify.com/album/3YqvLwy54tEMwiGwfTUFNh) | 2:48 | 2025-07-18 | 2025-10-17 |
@@ -282,6 +283,7 @@
 | [Guns](https://open.spotify.com/track/0WsNPJMr6iHSi5vbVAcdz4) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Guns](https://open.spotify.com/album/5icW3F94z3FdkoTEoDejwd) | 3:09 | 2025-07-10 | 2026-02-13 |
 | [Hallucinating](https://open.spotify.com/track/1mcRI934kP0AFik3aSl8Yy) | [Helma Namira](https://open.spotify.com/artist/1xzJWprX9mAvTxIUbEaUS1) | [Hallucinating](https://open.spotify.com/album/5S1Um41uYuVKOpMBcI8z1i) | 4:53 | 2024-10-10 | 2025-01-24 |
 | [HANDZ](https://open.spotify.com/track/01Tp7ZXRoDejbgzFY4W6EX) | [Gerald Liu](https://open.spotify.com/artist/5RbFRImP5QQkMWpVfYXaT6), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [HANDZ](https://open.spotify.com/album/0LbIyhrThIId1JDXWA3ePI) | 3:12 | 2024-10-17 | 2024-11-29 |
+| [hang up](https://open.spotify.com/track/5B1ALcoyNEKkg0vBVmsu3g) | [Kendis](https://open.spotify.com/artist/5HLrlI5LdULY9s740CsAFZ) | [hang up](https://open.spotify.com/album/7yORBQzMj1hW43hfwPO5Sa) | 2:35 | 2026-10-09 |  |
 | [Happy](https://open.spotify.com/track/0BuCY0GJ3HmCbeSeI4SMHU) | [Aldhy Ramanda](https://open.spotify.com/artist/06ShWcfuX1vpFBfWiHCboq) | [Happy](https://open.spotify.com/album/5Wsn2Hu3Q4TVrfXSTfuqAR) | 2:56 | 2024-11-28 | 2025-04-25 |
 | [happy ever after](https://open.spotify.com/track/6vkTNFN5FgW3zLEPCiaowP) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [happy ever after](https://open.spotify.com/album/6dUltwYPdCDF5NWkCFjbdc) | 2:25 | 2024-06-27 | 2024-09-06 |
 | [HARDEST PART \(feat\. Suisei\)](https://open.spotify.com/track/08sjKIRWyeDbtyaMbVxiXs) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [FRACTURE](https://open.spotify.com/album/1XMXf6XuiIPxprbim1FAwt) | 3:12 | 2024-06-27 | 2024-08-10 |
@@ -424,6 +426,7 @@
 | [LOVE DON'T COME EASY](https://open.spotify.com/track/6ECqdKKkggFzwcoOJLdeX0) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [LOVE DON'T COME EASY](https://open.spotify.com/album/34bRs6utyGVQKzsbpg5XHL) | 2:53 | 2025-11-06 | 2026-04-24 |
 | [Love in Stereo](https://open.spotify.com/track/5ePhbCEsINvj1ZfX1CUnCX) | [Kenaga](https://open.spotify.com/artist/32X9bL2iCmwTbblt1NEKbR) | [Love in Stereo](https://open.spotify.com/album/0OHHtLLMll4D0G67U48vb8) | 3:03 | 2024-07-25 | 2024-11-29 |
 | [love lesson no\. 1](https://open.spotify.com/track/4g9lDcyGk7dw3y0QtaM6ao) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [love lesson no\. 1](https://open.spotify.com/album/7HLPKx2SE03kwYbRbMxiSE) | 4:06 | 2025-04-24 |  |
+| [Love Me](https://open.spotify.com/track/2xRwmHBx73LESapoLP1UTE) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [888 DREAMALDI FM](https://open.spotify.com/album/5pX9Q3KV0Ol6zJsgM1g5eq) | 3:26 | 2026-10-09 |  |
 | [LOVE ME LIKE YOU](https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [LOVE ME LIKE YOU](https://open.spotify.com/album/0kjnm700HNnAVp3S7TK2n8) | 3:02 | 2024-09-05 | 2025-01-24 |
 | [love signs](https://open.spotify.com/track/3JYw0fvMbKrtAHR0PjgTEO) | [kei](https://open.spotify.com/artist/6BwkCs5yTqTKgg3oKfjVzJ) | [love signs](https://open.spotify.com/album/74MHSQSjAHMYiyIPBIHAWM) | 2:51 | 2024-10-24 | 2024-11-29 |
 | [Love the Way You Are](https://open.spotify.com/track/1JcLZbXpkYvpuSIke3XqRU) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [Love the Way You Are](https://open.spotify.com/album/2aa2TbwE2IDWXwFPlrsHl8) | 3:38 | 2024-11-15 | 2025-09-30 |

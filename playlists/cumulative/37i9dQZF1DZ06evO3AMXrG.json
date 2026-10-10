@@ -1490,10 +1490,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 332533,
       "name": "Nadie Se Atreve",
       "url": "https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F"
+    },
+    {
+      "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/480KRHziOVWmBEuXX5MB6N"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332533,
+      "name": "Nadie Se Atreve",
+      "url": "https://open.spotify.com/track/68g89Ux9IMjlBSDBb64EuR"
     },
     {
       "album": {
@@ -1956,6 +1974,24 @@
     {
       "album": {
         "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/480KRHziOVWmBEuXX5MB6N"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281760,
+      "name": "Sube el Humo",
+      "url": "https://open.spotify.com/track/6AiaeWfD8uyOZ9DFN1QiCK"
+    },
+    {
+      "album": {
+        "name": "M. O. T. A.",
         "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
       "artists": [
@@ -1966,7 +2002,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 281760,
       "name": "Sube el Humo",
       "url": "https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs"
@@ -2166,10 +2202,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 322866,
       "name": "Un Deseo",
       "url": "https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl"
+    },
+    {
+      "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/480KRHziOVWmBEuXX5MB6N"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322866,
+      "name": "Un Deseo",
+      "url": "https://open.spotify.com/track/70PFXqJLPwzMqXG8IcJ9gj"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Lennon Stella",
-  "num_followers": 2799,
+  "num_followers": 2806,
   "original_name": "Editors' Picks: Best Canadian Songs of September",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "SIRENS",
-        "url": "https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm"
-      },
-      "artists": [
-        {
-          "name": "OAKK",
-          "url": "https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "SIRENS",
-      "url": "https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 198549,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "SIRENS",
+        "url": "https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm"
+      },
+      "artists": [
+        {
+          "name": "OAKK",
+          "url": "https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "SIRENS",
+      "url": "https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Vanity Remix Mixtape",
-        "url": "https://open.spotify.com/album/1OWCTCHAS0DmzqVqiraCfw"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Piercing",
-      "url": "https://open.spotify.com/track/5VZB077RvEuzU4XCiaSQGl"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "(+44)",
         "url": "https://open.spotify.com/album/6GUop2qCRSCzAwHQD2a9Ex"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 210810,
       "name": "(+44)",
       "url": "https://open.spotify.com/track/4CpCjWAFFlH0piLysyzoQh"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Vanity Remix Mixtape",
+        "url": "https://open.spotify.com/album/1OWCTCHAS0DmzqVqiraCfw"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Piercing",
+      "url": "https://open.spotify.com/track/5VZB077RvEuzU4XCiaSQGl"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Hurt You",
-        "url": "https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH"
-      },
-      "artists": [
-        {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
-        }
-      ],
-      "duration_ms": 214336,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "I Want It Easy",
         "url": "https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 241159,
       "name": "I Want It Easy",
       "url": "https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Hurt You",
+        "url": "https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 214336,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen"
     },
     {
       "added_at": "2026-10-01 04:01:04",

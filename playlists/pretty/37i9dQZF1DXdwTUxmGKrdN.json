@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 462946,
+  "num_followers": 462969,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOXucSZm2lSOx3vxMGgTbERRZvlS",
+  "snapshot_id": "AAAAAPZZSEBz0aIt2+H9ShtYUM+piU4q",
   "tracks": [
     {
       "added_at": "2026-10-02 07:49:51",
@@ -27,6 +27,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "Stop, Look, Listen (To Your Heart)",
+      "url": "https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 251013,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "Stop, Look, Listen (To Your Heart)",
-      "url": "https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 246237,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Just Doing What I do",
         "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 210773,
       "name": "18th & M",
       "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 246237,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Infinite Love",
+        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 257367,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Rite of Passage",
         "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 240172,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Infinite Love",
-        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 257367,
-      "name": "Infinite Love",
-      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -443,6 +443,22 @@
       "duration_ms": 304266,
       "name": "Can You Hear Me",
       "url": "https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "A Simple Man",
+        "url": "https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Things Are Looking Up",
+      "url": "https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -523,22 +539,6 @@
       "duration_ms": 314312,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "A Simple Man",
-        "url": "https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Things Are Looking Up",
-      "url": "https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Fluid",
-        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 265875,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 257933,
       "name": "Say What's on Your Mind",
       "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 265875,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 295156,
-      "name": "Stockholm Summer",
-      "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Lavish",
         "url": "https://open.spotify.com/album/3dBwv1QVMYxHY9KVMVNeTr"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 295156,
+      "name": "Stockholm Summer",
+      "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Listen to This",
         "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 253577,
       "name": "Listen to This",
       "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Soulfully",
+        "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Soulfully",
+      "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -855,22 +871,6 @@
       "duration_ms": 278200,
       "name": "My Song for You",
       "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Soulfully",
-        "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Soulfully",
-      "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bradley",
+          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
+        }
+      ],
+      "duration_ms": 272342,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
         "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 309981,
       "name": "Imagine (Living as One)",
       "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bradley",
-          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
-        }
-      ],
-      "duration_ms": 272342,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS"
-      },
-      "artists": [
-        {
-          "name": "Dwight Sills",
-          "url": "https://open.spotify.com/artist/6MtRZ8y10C26lLb1LZ9xiH"
-        }
-      ],
-      "duration_ms": 313422,
-      "name": "Sliver Moon",
-      "url": "https://open.spotify.com/track/4IXhfpRsjaIocu1YOXSVpF"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Let's Get Away",
         "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 205880,
       "name": "Down Here On The Ground",
       "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS"
+      },
+      "artists": [
+        {
+          "name": "Dwight Sills",
+          "url": "https://open.spotify.com/artist/6MtRZ8y10C26lLb1LZ9xiH"
+        }
+      ],
+      "duration_ms": 313422,
+      "name": "Sliver Moon",
+      "url": "https://open.spotify.com/track/4IXhfpRsjaIocu1YOXSVpF"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Sean Hector",
-          "url": "https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Spray Bay",
-      "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 259186,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Sean Hector",
+          "url": "https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Spray Bay",
+      "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Sippin the Yak",
-        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
+        "name": "Risin' Up",
+        "url": "https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t"
       },
       "artists": [
         {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
         }
       ],
-      "duration_ms": 267913,
-      "name": "Sippin the Yak",
-      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
+      "duration_ms": 289946,
+      "name": "On The One",
+      "url": "https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Risin' Up",
-        "url": "https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t"
+        "name": "Sippin the Yak",
+        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
       },
       "artists": [
         {
-          "name": "Adam Hawley",
-          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
         }
       ],
-      "duration_ms": 289946,
-      "name": "On The One",
-      "url": "https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ"
+      "duration_ms": 267913,
+      "name": "Sippin the Yak",
+      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Shine!",
-        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
-      },
-      "artists": [
-        {
-          "name": "Ben Tankard",
-          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Soulfood Sunday",
-      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 279186,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Shine!",
+        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
+      },
+      "artists": [
+        {
+          "name": "Ben Tankard",
+          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Soulfood Sunday",
+      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/1xoFifChEKnySmiYpqNXxy"
+      },
+      "artists": [
+        {
+          "name": "Lowell Hopper",
+          "url": "https://open.spotify.com/artist/6v7OnaHSEAOtY1Ib16Chdk"
+        }
+      ],
+      "duration_ms": 253320,
+      "name": "See the Light",
+      "url": "https://open.spotify.com/track/3m5irvcA3IP1wn8twZnmee"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "All About Love",
         "url": "https://open.spotify.com/album/4rxMMiNhCn8FeJiVnoiYxd"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/1xoFifChEKnySmiYpqNXxy"
+        "name": "Finger Painting",
+        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
       },
       "artists": [
         {
-          "name": "Lowell Hopper",
-          "url": "https://open.spotify.com/artist/6v7OnaHSEAOtY1Ib16Chdk"
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 253320,
-      "name": "See the Light",
-      "url": "https://open.spotify.com/track/3m5irvcA3IP1wn8twZnmee"
+      "duration_ms": 228973,
+      "name": "Romantic Nites",
+      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Finger Painting",
-        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "Romantic Nites",
-      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
       },
@@ -1655,6 +1655,22 @@
       "duration_ms": 224000,
       "name": "BLUE MOON",
       "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "I'm All Ears",
         "url": "https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC"
       },
@@ -1739,6 +1739,22 @@
       "duration_ms": 260886,
       "name": "Sample That",
       "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Let's Get Serious",
+        "url": "https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "Let's Get Serious",
+      "url": "https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Let's Get Serious",
-        "url": "https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "Let's Get Serious",
-      "url": "https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Co-Motion",
         "url": "https://open.spotify.com/album/3qfTELA3kgCADlEh7v1PFT"
       },
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/2DkaeGeOgxo1LcrT0VIRFE"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        }
-      ],
-      "duration_ms": 284805,
-      "name": "18th & Vine",
-      "url": "https://open.spotify.com/track/3Jy2TEyOVfBUwVytWu52NP"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Babysoul",
         "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
       },
@@ -1863,8 +1847,24 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/2DkaeGeOgxo1LcrT0VIRFE"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        }
+      ],
+      "duration_ms": 284805,
+      "name": "18th & Vine",
+      "url": "https://open.spotify.com/track/3Jy2TEyOVfBUwVytWu52NP"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
       },
       "artists": [
         {
@@ -1872,9 +1872,9 @@
           "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
         }
       ],
-      "duration_ms": 256973,
-      "name": "Pacifica",
-      "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
+      "duration_ms": 281920,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Romance the Rain",
-        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        }
-      ],
-      "duration_ms": 289356,
-      "name": "Romance The Rain",
-      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Lil' Man Soul",
         "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
       },
@@ -1943,8 +1927,24 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
+        "name": "Romance the Rain",
+        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        }
+      ],
+      "duration_ms": 289356,
+      "name": "Romance The Rain",
+      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
       "artists": [
         {
@@ -1952,9 +1952,9 @@
           "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
         }
       ],
-      "duration_ms": 281920,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
+      "duration_ms": 256973,
+      "name": "Pacifica",
+      "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
     },
     {
       "added_at": "2026-10-02 07:49:51",

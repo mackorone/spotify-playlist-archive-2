@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 186133,
+  "num_followers": 186155,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAaHWPeriyeoVnu9iLeAVvn",
+  "snapshot_id": "asbdAAAAAAC3hNKfmewgENlOabMiWH08",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stained Class",
+        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 409800,
+      "name": "Beyond the Realms of Death",
+      "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "War Pigs (Charity Version)",
         "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 484779,
       "name": "War Pigs - Charity Version",
       "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stained Class",
-        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 409800,
-      "name": "Beyond the Realms of Death",
-      "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 381067,
-      "name": "Invincible Shield",
-      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming For Vengeance (Expanded Edition)",
         "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
@@ -683,22 +667,6 @@
       "duration_ms": 283120,
       "name": "Screaming for Vengeance",
       "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Defenders Of The Faith",
-        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
     },
     {
       "added_at": null,
@@ -719,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
       },
       "artists": [
         {
@@ -728,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 323266,
-      "name": "Rising From Ruins",
-      "url": "https://open.spotify.com/track/1f2qbSrsGznurodPtpfjV2"
+      "duration_ms": 287733,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
     },
     {
       "added_at": null,
@@ -744,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ"
+      "duration_ms": 381067,
+      "name": "Invincible Shield",
+      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
     },
     {
       "added_at": null,
@@ -767,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 323266,
+      "name": "Rising From Ruins",
+      "url": "https://open.spotify.com/track/1f2qbSrsGznurodPtpfjV2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Killing Machine",
         "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
       },
@@ -783,6 +767,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ram It Down",
+        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/307B0j257d72HTyAiohF8N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 263973,
       "name": "Never The Heroes",
       "url": "https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 278067,
-      "name": "Gates of Hell",
-      "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
     }
   ],
   "unique_name": "This Is Judas Priest",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 60508,
+  "num_followers": 60554,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADkk02r6oLzG8yPen+OHCfx",
+  "snapshot_id": "asbdAAAAAAD+UQIsjc8nCajZz4V4X9U7",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 317106,
+      "name": "A Little Bit of Everything - Spotify Singles",
+      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kansas Anymore",
         "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 196560,
       "name": "So Far Gone (feat. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 317106,
-      "name": "A Little Bit of Everything - Spotify Singles",
-      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 235163,
-      "name": "Two elevens",
-      "url": "https://open.spotify.com/track/5eyA1FEEE0pMazqeAA3AYD"
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/5CNeLuqeU7GiY4OFhwiDBf"
     }
   ],
   "unique_name": "This Is Lizzy McAlpine",

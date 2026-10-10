@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188410,
+  "num_followers": 188412,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 297404,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "No Thank You, I Love You, Goodbye",
-        "url": "https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 179042,
-      "name": "No Thank You, I Love You, Goodbye",
-      "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
         "name": "Lucky Again",
         "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
+        "name": "No Thank You, I Love You, Goodbye",
+        "url": "https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 179042,
+      "name": "No Thank You, I Love You, Goodbye",
+      "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
         "name": "La prima estate",
         "url": "https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 240435,
       "name": "La prima estate",
       "url": "https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "Quand on arrive en ville",
-        "url": "https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE"
-      },
-      "artists": [
-        {
-          "name": "Fhin",
-          "url": "https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p"
-        }
-      ],
-      "duration_ms": 218010,
-      "name": "Quand on arrive en ville",
-      "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
         "name": "Chilling Effects",
         "url": "https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 250600,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
+        "name": "Quand on arrive en ville",
+        "url": "https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE"
+      },
+      "artists": [
+        {
+          "name": "Fhin",
+          "url": "https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p"
+        }
+      ],
+      "duration_ms": 218010,
+      "name": "Quand on arrive en ville",
+      "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "100S",
-        "url": "https://open.spotify.com/album/0ECvPUBuvkS1I4U8X3LAjC"
-      },
-      "artists": [
-        {
-          "name": "Milhan",
-          "url": "https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2"
-        }
-      ],
-      "duration_ms": 201521,
-      "name": "100S",
-      "url": "https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
         "name": "Grab",
         "url": "https://open.spotify.com/album/2C3SrEndZq9TIyDFdWHFQR"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 199064,
       "name": "Grab",
       "url": "https://open.spotify.com/track/5k4GcGWTjJFR0LSRwg6nB9"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
+        "name": "100S",
+        "url": "https://open.spotify.com/album/0ECvPUBuvkS1I4U8X3LAjC"
+      },
+      "artists": [
+        {
+          "name": "Milhan",
+          "url": "https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2"
+        }
+      ],
+      "duration_ms": 201521,
+      "name": "100S",
+      "url": "https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "END OF THE SKY",
-        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
+        "name": "Christina",
+        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
       },
       "artists": [
         {
-          "name": "JVLY",
-          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
         }
       ],
-      "duration_ms": 159807,
-      "name": "END OF THE SKY",
-      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
+      "duration_ms": 169160,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "Christina",
-        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
+        "name": "END OF THE SKY",
+        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
       },
       "artists": [
         {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
         }
       ],
-      "duration_ms": 169160,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
+      "duration_ms": 159807,
+      "name": "END OF THE SKY",
+      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "Fou de toi",
-        "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
-      },
-      "artists": [
-        {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        }
-      ],
-      "duration_ms": 140248,
-      "name": "Fou de toi",
-      "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
+        "name": "Fou de toi",
+        "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "duration_ms": 140248,
+      "name": "Fou de toi",
+      "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
     },
     {
       "added_at": "2026-10-02 13:20:06",

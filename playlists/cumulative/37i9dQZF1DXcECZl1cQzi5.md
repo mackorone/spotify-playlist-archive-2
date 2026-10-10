@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-243 songs - 11 hr 35 min
+244 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Santanyi](https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Santanyi](https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA) | 2:41 | 2023-10-23 | 2026-06-13 |
 | [Sapphire Reflection](https://open.spotify.com/track/6BhhpEmEFutl0oyl0VzDN1) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Sapphire Reflection](https://open.spotify.com/album/5bF5LLZdoRDRfrdaKozJHa) | 2:35 | 2025-12-17 | 2026-06-25 |
 | [Scenery](https://open.spotify.com/track/7pbqUZV3IVADNfLD4pa0tc) | [Jianwu](https://open.spotify.com/artist/15UcWbG8WJ71qSwgeOU4XO) | [Scenery](https://open.spotify.com/album/5I4EmI8sSubdnIiei3i154) | 2:45 | 2024-11-22 | 2024-12-02 |
+| [Sea Light](https://open.spotify.com/track/5DHc8JMqpAcsuNrRDumqMF) | [Magic Room](https://open.spotify.com/artist/1pgC9mDwkvCetVYKv3tKcv) | [Sea Light](https://open.spotify.com/album/1ojVKkEI44MmP2BAR3NbBQ) | 3:19 | 2026-10-05 |  |
 | [Seaesta](https://open.spotify.com/track/3URABoQxXx1Grenb3NDklF) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Seaesta](https://open.spotify.com/album/2Dyt2lLbfcgvtTjSPS0jKQ) | 2:29 | 2025-10-02 |  |
 | [Seas in Balance](https://open.spotify.com/track/3nZWbaCeHbuczBt6KrgerH) | [Yin Canopy](https://open.spotify.com/artist/0Noyn207iScjKuf0Rzbe5s) | [Seas in Balance](https://open.spotify.com/album/448smD1wZADRppxWq8tmS4) | 2:22 | 2025-10-02 |  |
 | [Sedated](https://open.spotify.com/track/0ZSyO3bqGpDxGioVHLXbjr) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Sedated](https://open.spotify.com/album/4V3KjRIT8asHHUS1rXlgUm) | 2:44 | 2024-08-22 | 2026-06-13 |
@@ -246,7 +247,7 @@
 | [Wellness](https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Wellness](https://open.spotify.com/album/7nANqw6xoXuhWKJSCKf50f) | 2:45 | 2023-10-23 | 2026-05-21 |
 | [West Waves](https://open.spotify.com/track/4KKSXNzhCqSYRRqhWpmb1S) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [West Waves](https://open.spotify.com/album/3aBLctIuTVuEcWYOMyEhvr) | 2:28 | 2025-06-23 |  |
 | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/track/5PS3msmNfcvZxAxPRpEIL4) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/album/4T0ggBKzuWQuwDRqwGZGXM) | 3:27 | 2025-10-02 |  |
-| [Wind and Sea](https://open.spotify.com/track/4v3BHDfALATOZ3bKhjgc7w) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Wind and Sea](https://open.spotify.com/album/5IlfrNEn3VMwZOZHScI8EN) | 2:42 | 2026-10-05 |  |
+| [Wind and Sea](https://open.spotify.com/track/4v3BHDfALATOZ3bKhjgc7w) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Wind and Sea](https://open.spotify.com/album/5IlfrNEn3VMwZOZHScI8EN) | 2:42 | 2026-10-05 | 2026-10-10 |
 | [Wind of Serenity](https://open.spotify.com/track/1ZFrUu4wdWc9iPW8M48Nil) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Wind of Serenity](https://open.spotify.com/album/092neHTVHilfDCEkuLk7Jn) | 2:40 | 2024-03-01 | 2025-05-16 |
 | [Winds for Serenity](https://open.spotify.com/track/737MJBBOR64E9U7JX25Qol) | [Willow Ward](https://open.spotify.com/artist/6x28OJxhDL0xICscyvqkxA) | [Winds for Serenity](https://open.spotify.com/album/1vZaQoGogZ3sf3AJRrUM7w) | 3:15 | 2025-10-02 | 2026-02-28 |
 | [Wings Over Waves](https://open.spotify.com/track/6RDseU08qfnrodYIXgN1qO) | [Halune](https://open.spotify.com/artist/4KnjWOt271mXcYMTgxeITj) | [Wings Over Waves](https://open.spotify.com/album/4Ib9aeNnXG7SbHLZOSOHLO) | 2:49 | 2026-06-12 | 2026-10-06 |

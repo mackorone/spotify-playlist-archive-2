@@ -6,8 +6,24 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAR4s+Q8RCcGV6M84lvoeBA8XEHfsfE",
+  "snapshot_id": "AAAR79OEy7m47sT57W2WeR81mgVgNuQV",
   "tracks": [
+    {
+      "added_at": "2026-10-09 13:22:51",
+      "album": {
+        "name": "Motel",
+        "url": "https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok"
+      },
+      "artists": [
+        {
+          "name": "Lisa Korver",
+          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+        }
+      ],
+      "duration_ms": 225405,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS"
+    },
     {
       "added_at": "2026-09-18 08:13:34",
       "album": {
@@ -91,6 +107,26 @@
       "duration_ms": 179076,
       "name": "Be My Own",
       "url": "https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41"
+    },
+    {
+      "added_at": "2026-10-09 13:37:46",
+      "album": {
+        "name": "My Motto (feat. ANTICALM)",
+        "url": "https://open.spotify.com/album/1agS0kA7ZJv9QzhVahhasX"
+      },
+      "artists": [
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        },
+        {
+          "name": "ANTICALM",
+          "url": "https://open.spotify.com/artist/4ZxKGoXptSllXcXhlpbD5B"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "My Motto (feat. ANTICALM)",
+      "url": "https://open.spotify.com/track/6JVikpZGtd6yvxI6llxaOj"
     },
     {
       "added_at": "2026-10-02 11:56:50",
@@ -3825,6 +3861,26 @@
       "url": "https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm"
     },
     {
+      "added_at": "2026-10-09 14:17:58",
+      "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/54YWyxtwdcWHZZgzm9Il98"
+      },
+      "artists": [
+        {
+          "name": "El suli",
+          "url": "https://open.spotify.com/artist/7xtbslHTODSgu1AOiyPWwj"
+        },
+        {
+          "name": "MARMUTO",
+          "url": "https://open.spotify.com/artist/0eKp9exotnbzh3pqUWZUva"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/7J4MKfCEJiFnwljMNlujVi"
+    },
+    {
       "added_at": "2026-05-14 23:57:06",
       "album": {
         "name": "State Of Emergency",
@@ -5085,6 +5141,26 @@
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
+      "added_at": "2026-10-09 15:25:20",
+      "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/5KoOTiWTuiUDZ4GNlB3uXU"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "Ribguga",
+          "url": "https://open.spotify.com/artist/6r8StRO47B2qfuqtzddihP"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/42LRClvKFeJdysDNpa0x9Q"
+    },
+    {
       "added_at": "2026-05-14 23:57:06",
       "album": {
         "name": "Vortex",
@@ -5481,6 +5557,26 @@
       "url": "https://open.spotify.com/track/5MX7jV4tLWMut6Cp26ujAB"
     },
     {
+      "added_at": "2026-10-09 15:22:05",
+      "album": {
+        "name": "Tokyo Drift",
+        "url": "https://open.spotify.com/album/3iYooV7ZPKlf0Nh28G4WCv"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        }
+      ],
+      "duration_ms": 163043,
+      "name": "Tokyo Drift",
+      "url": "https://open.spotify.com/track/4pjRWk1NWcAkPndod5Ai0x"
+    },
+    {
       "added_at": "2026-05-14 23:57:06",
       "album": {
         "name": "Casualty (feat. maybealice)",
@@ -5639,6 +5735,26 @@
       "duration_ms": 186562,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/0ZmREvEBuI9cFimAmn86m9"
+    },
+    {
+      "added_at": "2026-10-09 15:17:16",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/32biEGDQFpsc63Rn3wVhA8"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Marco Melandri",
+          "url": "https://open.spotify.com/artist/3AFwIjgWbDwVHRhjp4O5As"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/37YQKc6ZikxkfYJ9D9K712"
     },
     {
       "added_at": "2026-05-14 23:57:06",

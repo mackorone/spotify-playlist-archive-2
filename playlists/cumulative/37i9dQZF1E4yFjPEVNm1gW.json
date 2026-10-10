@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "a lot!",
+        "url": "https://open.spotify.com/album/2uILZiii3NcSVsWHesw3RM"
+      },
+      "artists": [
+        {
+          "name": "Favo",
+          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
+        },
+        {
+          "name": "F4DED!",
+          "url": "https://open.spotify.com/artist/6hNzPXkqNfkpM0PO5iqzal"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125827,
+      "name": "a lot!",
+      "url": "https://open.spotify.com/track/3vMIF9cZ6zZPKFYSKnaE7y"
+    },
+    {
+      "album": {
         "name": "The Rise of MariV",
         "url": "https://open.spotify.com/album/1lAZTf54fgIoUC4FdJDQBd"
       },
@@ -220,7 +242,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 106728,
       "name": "Air Bender",
       "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
@@ -640,7 +662,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -1509,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "Lost Files",
+        "url": "https://open.spotify.com/album/3qad7M3kHg1OtqzBTWS28B"
+      },
+      "artists": [
+        {
+          "name": "SRT Len",
+          "url": "https://open.spotify.com/artist/76KHsd3jS3Dp4FJhMLF4HH"
+        },
+        {
+          "name": "Ant3x",
+          "url": "https://open.spotify.com/artist/5jJ8bLH8mcmfOqSAEm5ndY"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214667,
+      "name": "Dosin Ina Cat",
+      "url": "https://open.spotify.com/track/5PpDV6JnbgVnacHK8F6W0a"
+    },
+    {
+      "album": {
         "name": "Double Trouble",
         "url": "https://open.spotify.com/album/5Mqq72DjK0WOPaa9mTheuJ"
       },
@@ -1928,7 +1972,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -2402,7 +2446,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
@@ -4698,7 +4742,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 147842,
       "name": "Rip Demons",
       "url": "https://open.spotify.com/track/2D0tttu95wwqN7RLJa9DW5"
@@ -5906,7 +5950,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 234322,
       "name": "Thrax Playboi",
       "url": "https://open.spotify.com/track/1SRfrIUmHYaUcnTQMnfPB6"

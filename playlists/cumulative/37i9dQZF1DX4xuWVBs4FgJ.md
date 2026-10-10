@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-511 songs - 1 day 5 hr 55 min
+512 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Hold On, I'm Comin'](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:35 | 2023-05-26 | 2024-01-01 |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2021-06-22 | 2022-05-27 |
 | [Home](https://open.spotify.com/track/7F5hhaayrqMjBz0cykBSQn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Home](https://open.spotify.com/album/7FDhk932YsB1sRp3JV4NAY) | 2:29 | 2021-06-22 | 2022-05-28 |
-| [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 | 2025-10-07 |  |
+| [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 | 2025-10-07 | 2026-10-10 |
 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2022-05-27 | 2023-04-29 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-27 |  |
 | [How Do You Sleep? \- Acoustic](https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep? \(Acoustic\)](https://open.spotify.com/album/0RR2uPlGQKAYXJIXgYNJKE) | 3:25 | 2022-10-28 | 2022-11-13 |
@@ -343,6 +343,7 @@
 | [Ordinary People](https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Ordinary People](https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR) | 4:13 | 2021-06-22 | 2022-05-18 |
 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 | 2024-04-19 | 2024-05-25 |
 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 | 2021-06-22 | 2025-10-08 |
+| [Personal Attack](https://open.spotify.com/track/5d5YR87TA2KNR5MR6A0LIQ) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Personal Attack](https://open.spotify.com/album/7L98NY5FMgbWulnhUuNN6j) | 2:35 | 2026-03-27 |  |
 | [Picking Flowers](https://open.spotify.com/track/25DhGXCrAoGppWiU8beWqX) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [FRONTYARD EP](https://open.spotify.com/album/340CX8mw2SrcHE67JwonOB) | 3:00 | 2021-06-22 | 2022-07-23 |
 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 | 2021-06-22 | 2022-05-14 |
 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 | 2021-06-22 | 2022-07-29 |

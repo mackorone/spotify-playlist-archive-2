@@ -23485,6 +23485,32 @@
     },
     {
       "album": {
+        "name": "TRUE LOVE IN A MADE UP WORLD",
+        "url": "https://open.spotify.com/album/4VFU51NEgeT5It9ocFdsgJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199183,
+      "name": "PULL ME CLOSER",
+      "url": "https://open.spotify.com/track/4TL9YbU53eOeTTvv2ZWDTf"
+    },
+    {
+      "album": {
         "name": "pullmecloser",
         "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
       },

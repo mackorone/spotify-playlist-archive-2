@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 359222,
+  "num_followers": 359267,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,18 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/1H1Z2ip86YI8QPKflYv6Zn"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
         }
       ],
-      "duration_ms": 159500,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
+      "duration_ms": 173842,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/51cMCclxa0Yr6LpaJsfW5z"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -503,18 +499,22 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/1H1Z2ip86YI8QPKflYv6Zn"
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
       },
       "artists": [
         {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
         }
       ],
-      "duration_ms": 173842,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/51cMCclxa0Yr6LpaJsfW5z"
+      "duration_ms": 159500,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "Pitbull",
         "url": "https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 162090,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
     },
     {
       "added_at": "2026-10-02 12:20:02",

@@ -4,7 +4,7 @@
 
 > Brighten your day with a mix of folksy mood boosters.
 
-299 songs - 17 hr 35 min
+301 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Do It All For You](https://open.spotify.com/track/39f347tcVhzzoyjSTVTHxF) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Lucius](https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN) | 4:34 | 2026-03-06 |  |
 | [Domino](https://open.spotify.com/track/5OhOcsBmC5Buaz0Z3gGFTa) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Domino](https://open.spotify.com/album/1lWgeVavytenPpClYpxyDI) | 2:48 | 2021-11-12 | 2022-07-28 |
 | [Down In The Dirt](https://open.spotify.com/track/7tOqak4EI2F6D1x6Qa1FnL) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Down In The Dirt](https://open.spotify.com/album/0q7qdiuMBPLB19eAJSDM25) | 3:35 | 2023-04-14 |  |
+| [Drive Twice](https://open.spotify.com/track/4bWvzorgYJRzCYu2Xu2Pfe) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Drive Twice](https://open.spotify.com/album/0NKXIFQZPUYLAkvfMZh57i) | 2:32 | 2026-10-09 |  |
 | [Earthstar](https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:03 | 2025-03-31 |  |
 | [Easy, Love](https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Oncoming Clouds](https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux) | 3:27 | 2021-11-12 |  |
 | [Either Way](https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Seven Sisters](https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ) | 2:15 | 2021-11-12 | 2026-09-19 |
@@ -143,6 +144,7 @@
 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 | 2021-11-12 |  |
 | [Hummingbird](https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM) | [Traveller](https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l) | [Hummingbird](https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU) | 3:12 | 2021-11-12 |  |
 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 | 2022-06-21 |  |
+| [I DON'T WANNA DIE](https://open.spotify.com/track/33cLNmnocBt4AZ1yPeZOxG) | [verygently](https://open.spotify.com/artist/6G76uCD9fXivb3G4OnnVG8) | [SORRY, SARAH](https://open.spotify.com/album/2aCoeXAnmQAXyqEOFpHJfE) | 3:30 | 2026-10-09 |  |
 | [I Just Love You](https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 3:15 | 2022-06-21 |  |
 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 | 2022-06-21 | 2024-04-19 |
 | [I Keep Ticking On](https://open.spotify.com/track/7BgN5iMlbla6J4LpEDrFMn) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/3xFx5kmywwhfFtTlbX5u2U) | 2:36 | 2021-11-12 | 2022-07-29 |
@@ -171,7 +173,7 @@
 | [Left On The Line](https://open.spotify.com/track/0Ck6JzBBHmAx9osrNNii83) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Left On The Line](https://open.spotify.com/album/0U3u1OkJ0Z1hWFJo30WPRB) | 2:35 | 2024-09-06 | 2024-12-28 |
 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 | 2023-07-21 |  |
 | [Life's What You Make It](https://open.spotify.com/track/5rRDCbF97rcJW0ES9RhPhC) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA) | [Life's What You Make It](https://open.spotify.com/album/2p1lJKQNcodNZVqsuFq6H2) | 3:06 | 2021-11-12 | 2025-11-01 |
-| [Like a Child](https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Like a Child](https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2) | 3:36 | 2026-03-06 |  |
+| [Like a Child](https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Like a Child](https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2) | 3:36 | 2026-03-06 | 2026-10-10 |
 | [Little Road](https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a) | [Devarrow](https://open.spotify.com/artist/5xSDgnp0t87WsXyMUjuKG9) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:15 | 2021-11-12 |  |
 | [Live It Down](https://open.spotify.com/track/46LMLiMIgmpftDNsEirs02) | [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [Live It Down](https://open.spotify.com/album/5qyYwVLbn1hWMzLPNObBV0) | 3:43 | 2026-09-18 |  |
 | [Love Love Love](https://open.spotify.com/track/3e5Ee5GrNzSnCt2laIDm3S) | [Avalanche City](https://open.spotify.com/artist/1PX8bguYn6ba8NaBOJuu8A) | [Love Love Love](https://open.spotify.com/album/09kk6sdd81BYJY5YFzV2uJ) | 3:12 | 2021-11-12 |  |
@@ -247,7 +249,7 @@
 | [Skinny Dipping & Mimosas](https://open.spotify.com/track/0C51lHdZ9TQ8mS9ETwWgft) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Pure Serotonin](https://open.spotify.com/album/3tqL1cqH0EyDDntHkU0qTE) | 2:43 | 2023-12-08 | 2024-04-19 |
 | [Skinny Dipping & Mimosas](https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Skinny Dipping & Mimosas](https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY) | 2:43 | 2023-07-14 | 2024-05-16 |
 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 | 2021-11-12 |  |
-| [Soap](https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Soap](https://open.spotify.com/album/1KYYQCuxfGl7gV9KpXBWRv) | 3:34 | 2022-06-21 |  |
+| [Soap](https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Soap](https://open.spotify.com/album/1KYYQCuxfGl7gV9KpXBWRv) | 3:34 | 2022-06-21 | 2026-10-10 |
 | [Someone New](https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:42 | 2021-11-12 |  |
 | [Sometimes \(with Ben Abraham\)](https://open.spotify.com/track/7cWgxFcVh7ppU0CgCfZ9qE) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE), [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Sometimes \(with Ben Abraham\)](https://open.spotify.com/album/3Vz6utsS6MCzevTtvOiPQx) | 2:55 | 2024-07-12 | 2025-07-29 |
 | [Sparrow and the Wolf](https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:39 | 2021-11-12 |  |

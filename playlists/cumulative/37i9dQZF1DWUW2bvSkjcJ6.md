@@ -4,7 +4,7 @@
 
 > Neue Musik von girl in red, Troye Sivan, Sido, Montez, Marlon Hoffstadt, David Guetta & vielen mehr!
 
-10,885 songs - 22 day 4 hr 22 min
+10,886 songs - 22 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2543,6 +2543,7 @@
 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-27 | 2024-07-05 |
 | [Dont You Know](https://open.spotify.com/track/7kBpCEmqLrRFQ4OGXn4rT3) | [Runway Richy](https://open.spotify.com/artist/4pxxExWqKTzAroozOV3bCl), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Dont You Know](https://open.spotify.com/album/7GO9gaB8qohpGp0ngJdPCf) | 3:20 | 2026-06-18 | 2026-06-26 |
 | [Don’t Break Her Heart](https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Don’t Break Her Heart](https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY) | 3:44 | 2026-06-04 | 2026-06-12 |
+| [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz) | 2:44 | 2026-10-09 |  |
 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 | 2025-08-22 | 2025-08-29 |
 | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI) | 3:12 | 2026-08-06 | 2026-08-14 |
 | [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 | 2025-07-31 | 2025-08-08 |
@@ -6018,7 +6019,7 @@
 | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r) | 2:09 | 2024-05-16 | 2024-05-24 |
 | [LÄCHELN IM GESICHT](https://open.spotify.com/track/2GDv2dravk02Ri87HDVkkK) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [LÄCHELN IM GESICHT](https://open.spotify.com/album/4bHrodQzeN5nt9zWnzEB0p) | 2:04 | 2026-08-20 | 2026-08-28 |
 | [Lärm](https://open.spotify.com/track/1oBy3oAxgmTcWLKS8AAWKK) | [Yosho](https://open.spotify.com/artist/3teKhev8dyP7LKMcDrS2kT) | [Lärm](https://open.spotify.com/album/4PESfTl0glEhMTtEYFRAHy) | 1:38 | 2024-04-26 | 2024-05-03 |
-| [Läuft](https://open.spotify.com/track/4f9rCZcBfNSsoRXeddnbPP) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Läuft](https://open.spotify.com/album/02Tbif5Tfe36aHu9tsNkQI) | 2:01 | 2026-10-08 |  |
+| [läuft](https://open.spotify.com/track/4f9rCZcBfNSsoRXeddnbPP) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [läuft](https://open.spotify.com/album/02Tbif5Tfe36aHu9tsNkQI) | 2:01 | 2026-10-08 |  |
 | [lös mich auf](https://open.spotify.com/track/0fgzZJTtiyozT3Gm9oXWna) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [lös mich auf](https://open.spotify.com/album/1I2gpvKbVr5oURdIDjeTnQ) | 3:21 | 2025-05-09 | 2025-05-16 |
 | [lüge](https://open.spotify.com/track/1JiUWjoYn3GVwJg4dw6dMR) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [lüge](https://open.spotify.com/album/4lcZB8nIcnn07Doc32lDqv) | 2:59 | 2025-08-07 | 2025-08-16 |
 | [Lügen](https://open.spotify.com/track/5bzleNHcpxIxtKK17pqWaS) | [Luca Malina](https://open.spotify.com/artist/7pQSXjUHAvBeqRexDFCojQ) | [Lügen](https://open.spotify.com/album/65iPQCJKCwSxg8Q4yqrDJJ) | 3:28 | 2026-10-01 | 2026-10-09 |

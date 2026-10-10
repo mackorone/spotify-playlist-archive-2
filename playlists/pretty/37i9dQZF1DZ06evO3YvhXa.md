@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 
 > This is Jamiroquai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,301 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,346 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 32 | [If I Like It, I Do It](https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 4:52 |
 | 33 | [Deeper Underground \- Full Version](https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 4:46 |
 | 34 | [Drifting Along \- Remastered 2013](https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:05 |
-| 35 | [Picture of My Life](https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:44 |
-| 36 | [Something About You](https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 3:58 |
+| 35 | [Something About You](https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 3:58 |
+| 36 | [Picture of My Life](https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:44 |
 | 37 | [Goodbye To My Dancer](https://open.spotify.com/track/4GkcuPPvU15cGnI6JDToZK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:05 |
 | 38 | [Manifest Destiny](https://open.spotify.com/track/64BvrMFmtPSFSVK5aiJ1b6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:22 |
 | 39 | [Hot Tequila Brown](https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 49 | [Morning Glory](https://open.spotify.com/track/4YBs74uWL6J9zpmaFL9LXt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:23 |
 | 50 | [Just Another Story](https://open.spotify.com/track/1DLweHBYVlRDMYTGaFtJFR) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 8:49 |
 
-Snapshot ID: `asLogAAAAACutf1I6gIDfF8AKVo7Hz0r`
+Snapshot ID: `asbdAAAAAADIRaKHasT+8HROggDgHb+w`

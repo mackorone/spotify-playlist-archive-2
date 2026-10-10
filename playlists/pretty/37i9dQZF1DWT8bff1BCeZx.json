@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 27008,
+  "num_followers": 27015,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -205,10 +205,10 @@
       "url": "https://open.spotify.com/track/5iqZcZQlGVnyu7lCaYrFyB"
     },
     {
-      "added_at": "2026-01-30 00:01:25",
+      "added_at": "2023-05-26 00:01:00",
       "album": {
-        "name": "Unending Joy",
-        "url": "https://open.spotify.com/album/1JlSlgPAX5ES1G05LZJESr"
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
       },
       "artists": [
         {
@@ -216,13 +216,29 @@
           "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         },
         {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "The membrane",
+          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
+        },
+        {
+          "name": "Uwa",
+          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
+        },
+        {
+          "name": "Chris Heaven",
+          "url": "https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
         }
       ],
-      "duration_ms": 585453,
-      "name": "Unending Joy",
-      "url": "https://open.spotify.com/track/5Ze3zGf8vy3KNI64MAyOXa"
+      "duration_ms": 372035,
+      "name": "Bigger Everyday",
+      "url": "https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb"
     },
     {
       "added_at": "2026-09-25 00:01:16",
@@ -297,10 +313,10 @@
       "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
     },
     {
-      "added_at": "2023-05-26 00:01:00",
+      "added_at": "2026-01-30 00:01:25",
       "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+        "name": "Unending Joy",
+        "url": "https://open.spotify.com/album/1JlSlgPAX5ES1G05LZJESr"
       },
       "artists": [
         {
@@ -308,29 +324,13 @@
           "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         },
         {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "The membrane",
-          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
-        },
-        {
-          "name": "Uwa",
-          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
-        },
-        {
-          "name": "Chris Heaven",
-          "url": "https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ"
-        },
-        {
-          "name": "Temple",
-          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
         }
       ],
-      "duration_ms": 372035,
-      "name": "Bigger Everyday",
-      "url": "https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb"
+      "duration_ms": 585453,
+      "name": "Unending Joy",
+      "url": "https://open.spotify.com/track/5Ze3zGf8vy3KNI64MAyOXa"
     },
     {
       "added_at": "2024-10-18 00:01:00",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/6qMEFM7wncWmD6LvxXdZnQ"
     },
     {
+      "added_at": "2026-09-25 00:01:16",
+      "album": {
+        "name": "Shepherd",
+        "url": "https://open.spotify.com/album/6r2MZXZqt5rTWGi4q3hcq1"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        }
+      ],
+      "duration_ms": 383082,
+      "name": "Shepherd",
+      "url": "https://open.spotify.com/track/1FPaot2iCvVolhpxkR0tmJ"
+    },
+    {
       "added_at": "2026-09-11 00:01:55",
       "album": {
         "name": "Super Power II Pack",
@@ -387,22 +403,6 @@
       "duration_ms": 148607,
       "name": "Super Power II",
       "url": "https://open.spotify.com/track/06GKUmEBjcUAeM0FfbSphf"
-    },
-    {
-      "added_at": "2026-09-25 00:01:16",
-      "album": {
-        "name": "Shepherd",
-        "url": "https://open.spotify.com/album/6r2MZXZqt5rTWGi4q3hcq1"
-      },
-      "artists": [
-        {
-          "name": "Rotimikeys",
-          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
-        }
-      ],
-      "duration_ms": 383082,
-      "name": "Shepherd",
-      "url": "https://open.spotify.com/track/1FPaot2iCvVolhpxkR0tmJ"
     },
     {
       "added_at": "2026-01-09 00:01:28",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
     },
     {
-      "added_at": "2026-03-27 00:01:12",
-      "album": {
-        "name": "Jehovah Move",
-        "url": "https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm"
-      },
-      "artists": [
-        {
-          "name": "Sikaflames",
-          "url": "https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg"
-        }
-      ],
-      "duration_ms": 221077,
-      "name": "Jehovah Move",
-      "url": "https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3"
-    },
-    {
       "added_at": "2026-10-02 00:01:22",
       "album": {
         "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
@@ -563,6 +547,22 @@
       "duration_ms": 218079,
       "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
       "url": "https://open.spotify.com/track/22cqS8goF7fniCFchDok6o"
+    },
+    {
+      "added_at": "2026-03-27 00:01:12",
+      "album": {
+        "name": "Jehovah Move",
+        "url": "https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm"
+      },
+      "artists": [
+        {
+          "name": "Sikaflames",
+          "url": "https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg"
+        }
+      ],
+      "duration_ms": 221077,
+      "name": "Jehovah Move",
+      "url": "https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3"
     },
     {
       "added_at": "2026-08-28 00:01:39",
@@ -705,6 +705,26 @@
       "url": "https://open.spotify.com/track/08tt8cd8Eu0kIM4ErA3f4g"
     },
     {
+      "added_at": "2026-09-25 00:01:16",
+      "album": {
+        "name": "You Are Worthy (Live)",
+        "url": "https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go"
+      },
+      "artists": [
+        {
+          "name": "Sunday Ekaidem",
+          "url": "https://open.spotify.com/artist/6XrqMdeVSpWDBzNCzzVKob"
+        },
+        {
+          "name": "E-Daniels",
+          "url": "https://open.spotify.com/artist/03upCtYnA658rlthncydHW"
+        }
+      ],
+      "duration_ms": 557226,
+      "name": "You Are Worthy - Live",
+      "url": "https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN"
+    },
+    {
       "added_at": "2026-02-13 00:01:36",
       "album": {
         "name": "uptown",
@@ -759,26 +779,6 @@
       "duration_ms": 189000,
       "name": "I Am Blessed - Amapiano",
       "url": "https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3"
-    },
-    {
-      "added_at": "2026-09-25 00:01:16",
-      "album": {
-        "name": "You Are Worthy (Live)",
-        "url": "https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go"
-      },
-      "artists": [
-        {
-          "name": "Sunday Ekaidem",
-          "url": "https://open.spotify.com/artist/6XrqMdeVSpWDBzNCzzVKob"
-        },
-        {
-          "name": "E-Daniels",
-          "url": "https://open.spotify.com/artist/03upCtYnA658rlthncydHW"
-        }
-      ],
-      "duration_ms": 557226,
-      "name": "You Are Worthy - Live",
-      "url": "https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN"
     },
     {
       "added_at": "2026-08-28 00:01:39",
@@ -1009,6 +1009,26 @@
       "url": "https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G"
     },
     {
+      "added_at": "2026-10-02 00:01:22",
+      "album": {
+        "name": "MY LOVE",
+        "url": "https://open.spotify.com/album/0qlVGbPbFM5vQzNPM0dRjz"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Ahonen",
+          "url": "https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9"
+        },
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "duration_ms": 181232,
+      "name": "MY LOVE",
+      "url": "https://open.spotify.com/track/4VCD1SsPXnWv7B8e9Bv7TT"
+    },
+    {
       "added_at": "2026-06-12 00:01:28",
       "album": {
         "name": "Yoyo",
@@ -1119,22 +1139,18 @@
     {
       "added_at": "2026-10-02 00:01:22",
       "album": {
-        "name": "MY LOVE",
-        "url": "https://open.spotify.com/album/0qlVGbPbFM5vQzNPM0dRjz"
+        "name": "Ka Anyi Kelee Aha Ya",
+        "url": "https://open.spotify.com/album/5JMv2eKERNwoyaEq9Y3JMS"
       },
       "artists": [
         {
-          "name": "Jennifer Ahonen",
-          "url": "https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9"
-        },
-        {
-          "name": "Tkeyz",
-          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+          "name": "Minister Prudence",
+          "url": "https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5"
         }
       ],
-      "duration_ms": 181232,
-      "name": "MY LOVE",
-      "url": "https://open.spotify.com/track/4VCD1SsPXnWv7B8e9Bv7TT"
+      "duration_ms": 781090,
+      "name": "Ka Anyi Kelee Aha Ya",
+      "url": "https://open.spotify.com/track/7ryNOQ0MMTRys5vDvPnvCb"
     },
     {
       "added_at": "2026-08-07 00:01:02",
@@ -1155,6 +1171,22 @@
       "duration_ms": 187594,
       "name": "Heaven Is My Home",
       "url": "https://open.spotify.com/track/2AJ9OCRvG9j0TvwmM2Mjgi"
+    },
+    {
+      "added_at": "2026-10-02 00:01:22",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4kv1jaXLYy9OkBUv4UtKlX"
+      },
+      "artists": [
+        {
+          "name": "Ayiba",
+          "url": "https://open.spotify.com/artist/4ZzlkDq3VrsPW4TYhgAJiY"
+        }
+      ],
+      "duration_ms": 196754,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0hNG58Y9aRpGW8ECtDEqu9"
     },
     {
       "added_at": "2026-09-18 00:01:36",
@@ -1183,18 +1215,18 @@
     {
       "added_at": "2026-10-02 00:01:22",
       "album": {
-        "name": "Ka Anyi Kelee Aha Ya",
-        "url": "https://open.spotify.com/album/5JMv2eKERNwoyaEq9Y3JMS"
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc"
       },
       "artists": [
         {
-          "name": "Minister Prudence",
-          "url": "https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5"
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
         }
       ],
-      "duration_ms": 781090,
-      "name": "Ka Anyi Kelee Aha Ya",
-      "url": "https://open.spotify.com/track/7ryNOQ0MMTRys5vDvPnvCb"
+      "duration_ms": 142835,
+      "name": "see the truth",
+      "url": "https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp"
     },
     {
       "added_at": "2026-09-11 00:01:55",
@@ -1237,6 +1269,22 @@
       "url": "https://open.spotify.com/track/6Gq0pwrijTGZj6HQIskVDi"
     },
     {
+      "added_at": "2026-08-07 00:01:02",
+      "album": {
+        "name": "Sinner 2 Winner",
+        "url": "https://open.spotify.com/album/1ElsAvq1I2kv4JKdxmqSob"
+      },
+      "artists": [
+        {
+          "name": "Natalie Okri",
+          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+        }
+      ],
+      "duration_ms": 162405,
+      "name": "Sinner 2 Winner",
+      "url": "https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y"
+    },
+    {
       "added_at": "2026-08-28 00:01:39",
       "album": {
         "name": "Follow",
@@ -1255,54 +1303,6 @@
       "duration_ms": 111676,
       "name": "Follow",
       "url": "https://open.spotify.com/track/4jSkRaRC8JJcnIlfXJNM1i"
-    },
-    {
-      "added_at": "2026-10-02 00:01:22",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4kv1jaXLYy9OkBUv4UtKlX"
-      },
-      "artists": [
-        {
-          "name": "Ayiba",
-          "url": "https://open.spotify.com/artist/4ZzlkDq3VrsPW4TYhgAJiY"
-        }
-      ],
-      "duration_ms": 196754,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0hNG58Y9aRpGW8ECtDEqu9"
-    },
-    {
-      "added_at": "2026-08-07 00:01:02",
-      "album": {
-        "name": "Sinner 2 Winner",
-        "url": "https://open.spotify.com/album/1ElsAvq1I2kv4JKdxmqSob"
-      },
-      "artists": [
-        {
-          "name": "Natalie Okri",
-          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
-        }
-      ],
-      "duration_ms": 162405,
-      "name": "Sinner 2 Winner",
-      "url": "https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y"
-    },
-    {
-      "added_at": "2026-10-02 00:01:22",
-      "album": {
-        "name": "blinded",
-        "url": "https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
-        }
-      ],
-      "duration_ms": 142835,
-      "name": "see the truth",
-      "url": "https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp"
     },
     {
       "added_at": "2026-08-07 00:01:02",
@@ -1389,6 +1389,22 @@
       "url": "https://open.spotify.com/track/6CugPKmjJNGAw18CJnvoRK"
     },
     {
+      "added_at": "2026-10-02 00:01:22",
+      "album": {
+        "name": "My Testimony Go Loud",
+        "url": "https://open.spotify.com/album/6CXTrb9JJQ0iv6HiTS6Esh"
+      },
+      "artists": [
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        }
+      ],
+      "duration_ms": 254571,
+      "name": "My Testimony Go Loud",
+      "url": "https://open.spotify.com/track/3ofRw6SN27rtuPYerPDuIz"
+    },
+    {
       "added_at": "2026-08-21 00:01:32",
       "album": {
         "name": "al is mr",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2026-10-02 00:01:22",
       "album": {
-        "name": "My Testimony Go Loud",
-        "url": "https://open.spotify.com/album/6CXTrb9JJQ0iv6HiTS6Esh"
-      },
-      "artists": [
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
-        }
-      ],
-      "duration_ms": 254571,
-      "name": "My Testimony Go Loud",
-      "url": "https://open.spotify.com/track/3ofRw6SN27rtuPYerPDuIz"
-    },
-    {
-      "added_at": "2026-10-02 00:01:22",
-      "album": {
         "name": "Fine Boy",
         "url": "https://open.spotify.com/album/0SmVsd9yg1q1656VhNZpL3"
       },
@@ -1469,24 +1469,20 @@
       "url": "https://open.spotify.com/track/2OOFMS6Ip8fKrCzbEpVyNX"
     },
     {
-      "added_at": "2026-08-21 00:01:32",
+      "added_at": "2026-05-01 00:02:20",
       "album": {
-        "name": "YES & AMEN",
-        "url": "https://open.spotify.com/album/3X6WyahfxrlilcRlTAi90o"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/56zmZ77VgFYZ2iUMLpBnEA"
       },
       "artists": [
         {
-          "name": "Emmanuel Ekpo",
-          "url": "https://open.spotify.com/artist/3ZXYs6M6hqtNxkytiMnrTz"
-        },
-        {
-          "name": "Manus Akpanke",
-          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+          "name": "The membrane",
+          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
         }
       ],
-      "duration_ms": 747907,
-      "name": "YES & AMEN",
-      "url": "https://open.spotify.com/track/0dTc1BEaPVvtTRG1Gss3rv"
+      "duration_ms": 165624,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/1BJgbTphIqyS2IDe5L8gPY"
     },
     {
       "added_at": "2026-08-14 00:01:29",
@@ -1505,20 +1501,24 @@
       "url": "https://open.spotify.com/track/3RpKqwrluaAhKtjDCT6xOG"
     },
     {
-      "added_at": "2026-05-01 00:02:20",
+      "added_at": "2026-08-21 00:01:32",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/56zmZ77VgFYZ2iUMLpBnEA"
+        "name": "YES & AMEN",
+        "url": "https://open.spotify.com/album/3X6WyahfxrlilcRlTAi90o"
       },
       "artists": [
         {
-          "name": "The membrane",
-          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
+          "name": "Emmanuel Ekpo",
+          "url": "https://open.spotify.com/artist/3ZXYs6M6hqtNxkytiMnrTz"
+        },
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
         }
       ],
-      "duration_ms": 165624,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/1BJgbTphIqyS2IDe5L8gPY"
+      "duration_ms": 747907,
+      "name": "YES & AMEN",
+      "url": "https://open.spotify.com/track/0dTc1BEaPVvtTRG1Gss3rv"
     }
   ],
   "unique_name": "Higher",

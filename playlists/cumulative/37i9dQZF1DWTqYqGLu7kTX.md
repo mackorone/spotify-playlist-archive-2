@@ -2,7 +2,7 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Sidhu Moosewala
+> Best of Punjabi Hip\-Hop! Cover: NIJJAR
 
 356 songs - 17 hr 38 min
 

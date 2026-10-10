@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,893 likes - 300 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,117 likes - 300 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [72 Hours](https://open.spotify.com/track/7dU8Vx5jpNAjhJK1D1rkIZ) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Social Reckoning \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6El985JZ5HPJHkoVCXCY2I) | 3:54 |
 | 2 | [Journey To South Wood](https://open.spotify.com/track/5Xw8jRCE1LpDEVX8u3nt2d) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Journey To South Wood](https://open.spotify.com/album/4GyEAP97wSeWFIRC1agBVs) | 1:48 |
 | 3 | [Brothers United](https://open.spotify.com/track/35WO7Rp8YVVSgw6GUceDiq) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N) | [Skategoat \(Original Soundtrack\)](https://open.spotify.com/album/7qXVN6q86g2yXNLkphJVkG) | 2:36 |
-| 4 | [The Celebration \(feat\. Ani Choying Drolma & Manose Singh\)](https://open.spotify.com/track/1Pmjk95BpMf6vB03UMri5T) | [Rebekka Karijord](https://open.spotify.com/artist/4oPxnYcUKmm0pH33ibXd6u), [Ani Choying Drolma](https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI), [Manose Singh](https://open.spotify.com/artist/5SO7F4RayIPDIqSJozXYSc), [Hugh Brunt](https://open.spotify.com/artist/1Ig4fvZRRJSYnzYWN8Sj8J) | [Tenzing \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/1K3hgxkA6Yy9uIqejUAFwx) | 3:14 |
+| 4 | [The Celebration \(feat\. Ani Choying Drolma & Manose Singh\)](https://open.spotify.com/track/1Pmjk95BpMf6vB03UMri5T) | [Rebekka Karijord](https://open.spotify.com/artist/4oPxnYcUKmm0pH33ibXd6u), [Ani Choying Drolma](https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI), [Manose Singh](https://open.spotify.com/artist/5SO7F4RayIPDIqSJozXYSc) | [Tenzing \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/1K3hgxkA6Yy9uIqejUAFwx) | 3:14 |
 | 5 | [One of You](https://open.spotify.com/track/4Zz0zjjn31yZEUgqvEUktw) | [Remo Anzovino](https://open.spotify.com/artist/3eX54towHuwK80Za9BKZ8l) | [CARLO ACUTIS\. THE MILLENNIAL SAINT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VrslP0U67uXZl2xKEZRiG) | 3:24 |
 | 6 | [The Soul of Racing \(Main Theme\) \- From "Star Wars: Galactic Racer"](https://open.spotify.com/track/7DdAeRJWmIVMzES3he1Zvz) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [The Soul of Racing \(Main Theme\) \[From "Star Wars: Galactic Racer"\]](https://open.spotify.com/album/38NOnClJATSTssK1XcWHxi) | 2:14 |
 | 7 | [Other Mommy Reprise](https://open.spotify.com/track/2xWSiWu6aDgFrwrnh7wRTM) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [Other Mommy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7iSeMdYhSrTTB0CSc918OR) | 2:02 |

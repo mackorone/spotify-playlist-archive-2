@@ -1,13 +1,29 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 114798,
+  "num_followers": 114818,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAA6kTjCt3zTdrvapa+AGmyg",
+  "snapshot_id": "asbdAAAAAADkzPAPoPrrHqBAOg/WlUf3",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prey (Live at the Sydney Opera House)",
+        "url": "https://open.spotify.com/album/1ofXyNxZgZpOqmRp1dvYX9"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 372354,
+      "name": "Prey - Live at the Sydney Opera House",
+      "url": "https://open.spotify.com/track/2ppM3phxrwMZqyIIu0nZCA"
+    },
     {
       "added_at": null,
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 187960,
       "name": "Carrion",
       "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Idols and Anchors",
-      "url": "https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 233079,
       "name": "The Void",
       "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Idols and Anchors",
+      "url": "https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 241033,
-      "name": "Sleepwalker",
-      "url": "https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj"
+      "duration_ms": 380410,
+      "name": "Chronos",
+      "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 380410,
-      "name": "Chronos",
-      "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
+      "duration_ms": 241033,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj"
     },
     {
       "added_at": null,
@@ -331,18 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        },
+        {
+          "name": "Hevenshe",
+          "url": "https://open.spotify.com/artist/5DegVfL32IL9s3kokWEtft"
         }
       ],
-      "duration_ms": 253839,
-      "name": "Deliver Me",
-      "url": "https://open.spotify.com/track/1OuOKS43b3pRYb9d49WrBp"
+      "duration_ms": 240631,
+      "name": "A Deathless Song",
+      "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
     },
     {
       "added_at": null,
@@ -363,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        },
-        {
-          "name": "Hevenshe",
-          "url": "https://open.spotify.com/artist/5DegVfL32IL9s3kokWEtft"
         }
       ],
-      "duration_ms": 240631,
-      "name": "A Deathless Song",
-      "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
+      "duration_ms": 253839,
+      "name": "Deliver Me",
+      "url": "https://open.spotify.com/track/1OuOKS43b3pRYb9d49WrBp"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
       "duration_ms": 211100,
       "name": "Gimme AD",
       "url": "https://open.spotify.com/track/6aiL3ftGl86lXUWkYuN05E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 290126,
+      "name": "I Hope You Rot",
+      "url": "https://open.spotify.com/track/6t1s0Vj1gLkYyzkDQuAQEU"
     }
   ],
   "unique_name": "This Is Parkway Drive",

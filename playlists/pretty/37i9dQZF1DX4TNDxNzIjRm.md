@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,662 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,313 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 44 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 |
 | 45 | [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 |
 | 46 | [Dime Baby](https://open.spotify.com/track/4Du97m5kFIyMZ1nTekYlnh) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Dime Baby](https://open.spotify.com/album/3ORiiEK2HQQYUAA9IFmtQJ) | 3:09 |
-| 47 | [A Xon De Que](https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Xon De Que](https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP) | 2:21 |
-| 48 | [PLAYA FRÍA](https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [PLAYA FRÍA](https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2) | 2:08 |
+| 47 | [PLAYA FRÍA](https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [PLAYA FRÍA](https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2) | 2:08 |
+| 48 | [A Xon De Que](https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Xon De Que](https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP) | 2:21 |
 | 49 | [DROGA](https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:42 |
 | 50 | [Hips Don't Lie \- Spotify Anniversary Version](https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:28 |
 | 51 | [BIENVENIDA](https://open.spotify.com/track/7zwgHkTKv86nMOREN5k1hx) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [No vuelve a suceder \(calentamiento pre álbum\)](https://open.spotify.com/album/13w7ZVbjnSHgp6xEER3KJB) | 1:45 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 65 | [CALLATE Y BESAME \- Remix](https://open.spotify.com/track/2qHxoRWVaOHTDlyHf3cjQn) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [CALLATE Y BESAME \(Remix\)](https://open.spotify.com/album/49ERZPyLhSiglGCl6QRXAO) | 3:26 |
 | 66 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
 | 67 | [CUPIDOxX](https://open.spotify.com/track/65pAD5JQJAgqpcnSzHGbrP) | [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [CUPIDOxX](https://open.spotify.com/album/2sUSOrqJo2ivs5vdROMPfD) | 3:36 |
-| 68 | [Ay Bendito \(with Mora & Ovy On The Drums\)](https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Hermoso](https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED) | 2:54 |
-| 69 | [pikito pikito](https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [pikito pikito](https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB) | 3:00 |
+| 68 | [pikito pikito](https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [pikito pikito](https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB) | 3:00 |
+| 69 | [Ay Bendito \(with Mora & Ovy On The Drums\)](https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Hermoso](https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED) | 2:54 |
 | 70 | [GÓZALO, QUE TU MARIDO ESTÁ PRESO \- RMX](https://open.spotify.com/track/0pOfjsuKWEDHqSjzgXzuhd) | [Zelcok Kp](https://open.spotify.com/artist/34KCWdUCHMLKkx3sFb06zr), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Kiddy Fount](https://open.spotify.com/artist/0pF2lydgnGUlz4s1Zzhxra), [J\-Lit](https://open.spotify.com/artist/7dUBKGHcRsialvNetw2H6v), [Luis Malave](https://open.spotify.com/artist/27FuautCwBe6cBpghICnH2) | [GÓZALO, QUE TU MARIDO ESTÁ PRESO \(RMX\)](https://open.spotify.com/album/0JVVZgd8CUQypp9JhyTJcP) | 3:54 |
 | 71 | [Mírame Ahora](https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mírame Ahora](https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa) | 2:34 |
 | 72 | [/Lentes](https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 99 | [Chamba](https://open.spotify.com/track/2luUwuzmpbFo1FqPGfqUce) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Chamba](https://open.spotify.com/album/4DiXDXU9SExY3wnRPqwxCg) | 3:22 |
 | 100 | [Ay Dale](https://open.spotify.com/track/0S71WAkS1fLsGHMC4NX4zt) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Ay Dale](https://open.spotify.com/album/554YtsiV2xM17gb9XE84TP) | 2:26 |
 
-Snapshot ID: `AAAAAOtKITGfdlKQX8LjOA09DaO3pXP0`
+Snapshot ID: `AAAAAPRhniz4k/LgobMN+CYYyx6u86tt`

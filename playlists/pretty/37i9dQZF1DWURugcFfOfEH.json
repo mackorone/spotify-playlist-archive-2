@@ -1,6 +1,6 @@
 {
   "description": "good vibes, all the time",
-  "num_followers": 456120,
+  "num_followers": 456142,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
+        "name": "The Crux",
+        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 279203,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -675,18 +675,18 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "The Crux",
-        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8"
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 186277,
       "name": "SEEIN\u2019 STARS",
       "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 177520,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 200583,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1473,22 +1473,6 @@
       "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
-      "added_at": "2026-08-14 15:37:09",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 239377,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
-    },
-    {
       "added_at": "2026-06-18 20:32:33",
       "album": {
         "name": "Women In Music Pt III (Expanded Edition)",
@@ -1503,6 +1487,22 @@
       "duration_ms": 204280,
       "name": "Now I'm In It - Bonus Track",
       "url": "https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt"
+    },
+    {
+      "added_at": "2026-08-14 15:37:09",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 239377,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
     },
     {
       "added_at": "2026-06-18 20:32:33",

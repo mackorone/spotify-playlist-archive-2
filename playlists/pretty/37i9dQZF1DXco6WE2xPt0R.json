@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 128201,
+  "num_followers": 128195,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "YES",
-        "url": "https://open.spotify.com/album/7mTgsCUAA1iQGNz7S4TrOr"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 223403,
-      "name": "YES",
-      "url": "https://open.spotify.com/track/6mSFZqIAC0is8g7B9bdl2m"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Slow Grind",
         "url": "https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 219000,
       "name": "Slow Grind",
       "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/7mTgsCUAA1iQGNz7S4TrOr"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "duration_ms": 223403,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/6mSFZqIAC0is8g7B9bdl2m"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "BACK IN MY ARMS",
-        "url": "https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 223498,
-      "name": "BACK IN MY ARMS",
-      "url": "https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Lil' Obsession",
         "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 181921,
       "name": "Lil' Obsession",
       "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "BACK IN MY ARMS",
+        "url": "https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 223498,
+      "name": "BACK IN MY ARMS",
+      "url": "https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
+        "name": "Serial Romantic",
+        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "I Believe (Selfish)",
+      "url": "https://open.spotify.com/track/7vpejOgd1PfPuBqFZ6Sw0y"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 247426,
       "name": "Voicemail (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "Serial Romantic",
-        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "I Believe (Selfish)",
-      "url": "https://open.spotify.com/track/7vpejOgd1PfPuBqFZ6Sw0y"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Forgive To Forget",
-        "url": "https://open.spotify.com/album/5cvv3xLqA1vyxf4mGMfO27"
+        "name": "moonlit room",
+        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         }
       ],
-      "duration_ms": 188424,
-      "name": "TOW",
-      "url": "https://open.spotify.com/track/2uhInkIfAyWSLpRTwFTldW"
+      "duration_ms": 250679,
+      "name": "moonlit room",
+      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "moonlit room",
-        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
+        "name": "Forgive To Forget",
+        "url": "https://open.spotify.com/album/5cvv3xLqA1vyxf4mGMfO27"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 250679,
-      "name": "moonlit room",
-      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
+      "duration_ms": 188424,
+      "name": "TOW",
+      "url": "https://open.spotify.com/track/2uhInkIfAyWSLpRTwFTldW"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 172897,
-      "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Seamless (with Kehlani)",
         "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 195265,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 172897,
+      "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP"
     },
     {
       "added_at": "2026-08-07 14:25:39",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY6ihfVb0m4x>Chris Isaak</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIUZByzgp9TdY>Lewis Capaldi</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXIanoPjZlfL>Gigi Perez</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 244096,
       "name": "100 MESSAGGI",
       "url": "https://open.spotify.com/track/2l4NKSQbBA3sV0nxpNjSkj"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 211250,
       "name": "2 GIORNI DI FILA (feat. Sfera Ebbasta, ANNA)",
       "url": "https://open.spotify.com/track/7C5jPQjXlBf7TxcN45HMH5"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 176785,
       "name": "ALLUCINAZIONE COLLETTIVA",
       "url": "https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 160061,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0LLw0rGBTJ1ErPuYbbvl6a"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 160227,
       "name": "Amore cieco (feat. Madame)",
       "url": "https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ"
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 175200,
       "name": "BERLINO",
       "url": "https://open.spotify.com/track/3l109GEhkVYrTvDoKuNGlu"
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 164572,
       "name": "Buttare, buttare (feat. Latrelle)",
       "url": "https://open.spotify.com/track/0BeeP8VwfLIziYkdv0m6lQ"
@@ -3869,6 +3869,28 @@
     },
     {
       "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Complicato",
+      "url": "https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P"
+    },
+    {
+      "album": {
         "name": "Computer Crash",
         "url": "https://open.spotify.com/album/0ZKEEILAfDXiZo1pQxQXLv"
       },
@@ -3898,7 +3920,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 169515,
       "name": "Computer Crash",
       "url": "https://open.spotify.com/track/0dRbdGC4pyli95gQrIqAmJ"
@@ -4142,7 +4164,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 230922,
       "name": "CRUDELIA - I nervi",
       "url": "https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg"
@@ -4178,7 +4200,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 135168,
       "name": "CRY",
       "url": "https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX"
@@ -4518,7 +4540,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 89624,
       "name": "Dead and Cold",
       "url": "https://open.spotify.com/track/4iNkLQVM0zpIBCdNUiXX3Q"
@@ -5288,7 +5310,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 234446,
       "name": "DUBBI",
       "url": "https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO"
@@ -5954,6 +5976,32 @@
       "duration_ms": 285634,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "album": {
+        "name": "The Illest, Vol. 3",
+        "url": "https://open.spotify.com/album/6dQtxmHiNvZPh5te1zjW3P"
+      },
+      "artists": [
+        {
+          "name": "Mostro",
+          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
+        },
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177193,
+      "name": "Exit (feat. Rizzo)",
+      "url": "https://open.spotify.com/track/6arjHcZGseJYCALGwcEi4y"
     },
     {
       "album": {
@@ -7698,7 +7746,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 136357,
       "name": "HEARTEATER",
       "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
@@ -9036,7 +9084,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 199386,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
@@ -9054,7 +9102,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 146333,
       "name": "Il Filmografo",
       "url": "https://open.spotify.com/track/5nqOdSrqurNq8ejE7Ujc9l"
@@ -10512,7 +10560,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 227321,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/2qf4KviAhT4cNGydUT28Qo"
@@ -10668,7 +10716,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 182787,
       "name": "Le tre di notte",
       "url": "https://open.spotify.com/track/3VX4Sh9oLOHD6Nm9v7ohgC"
@@ -12390,7 +12438,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 169411,
       "name": "Me vs. Me",
       "url": "https://open.spotify.com/track/5tLAqhNvczUx9ufC9LgzmX"
@@ -12780,7 +12828,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 124865,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/2lbl6RWx8acFsyvYcasK0H"
@@ -12946,7 +12994,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 215186,
       "name": "MISTAKE",
       "url": "https://open.spotify.com/track/0rc9XLNs7KZXu2ASA3LbL8"
@@ -13616,7 +13664,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 226808,
       "name": "Niente Canzoni D'Amore - Inedito",
       "url": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk"
@@ -13634,7 +13682,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 181373,
       "name": "Niente Panico",
       "url": "https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU"
@@ -13930,7 +13978,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 174673,
       "name": "Non Lo So (feat. chiello)",
       "url": "https://open.spotify.com/track/5mOazYGaNJnv1zxMyNH6Rc"
@@ -14264,7 +14312,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 179372,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0nrQctfuJf5yEjPKHlMiBp"
@@ -14538,7 +14586,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
@@ -14676,7 +14724,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 244062,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/69pVdg4uAzb5Zvtj1UogPH"
@@ -14730,7 +14778,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 214934,
       "name": "PER TE",
       "url": "https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU"
@@ -14748,7 +14796,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 188803,
       "name": "Per te che Lotto",
       "url": "https://open.spotify.com/track/70600tukZat0m8rM0yqDoD"
@@ -15228,7 +15276,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "Que des cendres",
       "url": "https://open.spotify.com/track/5HgYDX7xLixalIpQ26y02J"
@@ -15470,7 +15518,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 244013,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
@@ -15962,7 +16010,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 128375,
       "name": "S.A.D",
       "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
@@ -16176,7 +16224,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -16514,7 +16562,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 163381,
       "name": "SE NON PROVO DOLORE",
       "url": "https://open.spotify.com/track/7kycm3mVY7yaNOtgiAK6lr"
@@ -17504,7 +17552,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -17956,7 +18004,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Sto Bene",
       "url": "https://open.spotify.com/track/7yDWlv3NjJLXG17O9bgr48"
@@ -18072,7 +18120,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
@@ -19492,7 +19540,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 265454,
       "name": "Ti Amo",
       "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
@@ -19510,7 +19558,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 172198,
       "name": "TI DIREI",
       "url": "https://open.spotify.com/track/5RlANDmPsPHSkYHFzchhIt"
@@ -19790,7 +19838,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
@@ -20008,7 +20056,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 154613,
       "name": "Tutto passa",
       "url": "https://open.spotify.com/track/5Op4TXHjmH8WLEKy1rLotG"
@@ -20132,7 +20180,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Una cotta per te",
       "url": "https://open.spotify.com/track/4VQiyfLMWzryiGAE2FpqTh"
@@ -21360,7 +21408,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 289066,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/2y42xAsl6dfMeVXQgOYsUw"

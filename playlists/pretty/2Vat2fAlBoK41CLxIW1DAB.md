@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,582 likes - 1,193 songs - 3 day 2 hr 46 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,582 likes - 1,203 songs - 3 day 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1201,5 +1201,15 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1191 | [Specchio](https://open.spotify.com/track/0ba4O8AwGCaQoRj7qjFSjV) | [Piede Sinistro](https://open.spotify.com/artist/4Hhfi2Z1ix6ZilrrwBDwZC) | [Specchio](https://open.spotify.com/album/7BL9jp3k7rrUqA9rIDCUae) | 6:29 |
 | 1192 | [La Sangre más Dulce \(en vivo\)](https://open.spotify.com/track/6U7pd09vgHIeWyFFMQbHDy) | [Soporte 68](https://open.spotify.com/artist/7o3krkEDErKnl4s0D7JpSJ) | [DEMO 68 \(sesión en vivo\)](https://open.spotify.com/album/0X5aTxvRmunYnKMtCPjcST) | 4:29 |
 | 1193 | [Voando alto](https://open.spotify.com/track/4Wgh7UCeHU7pGTPrNwRRri) | [Rural 64](https://open.spotify.com/artist/7fgZmIWoF5HC5n4C0jFkds) | [Qual foi, cabeça?](https://open.spotify.com/album/6oY0n7IJSYIelKo1JxXEuf) | 3:13 |
+| 1194 | [noise around](https://open.spotify.com/track/27fE1mDoOHqkExHkgThqYc) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [noise around](https://open.spotify.com/album/0GqjQS5cIPFGyyVJOrwAtL) | 3:43 |
+| 1195 | [Limerence](https://open.spotify.com/track/2O54PRjXCKCN71tMZSTvEO) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV), [NICKØ GLØIRE](https://open.spotify.com/artist/1EbAQq8oSJdBqG0GW197vV) | [Limerence](https://open.spotify.com/album/3AR6R6ekzP12JGbcxV4Jsk) | 3:24 |
+| 1196 | [I'm Gonna Bite You](https://open.spotify.com/track/2zt1HZZmTU9HK3wRIpTP84) | [S.H.O.U.T](https://open.spotify.com/artist/5Gn7doGZ1cPCZuIuzVU6RD) | [I'm Gonna Bite You](https://open.spotify.com/album/4fUJyIKPkaSJykW5sidAXF) | 3:26 |
+| 1197 | [Something Sacred, Something Terrible](https://open.spotify.com/track/70gJ6dc26B2rzNXJkBv8A9) | [Vordermann](https://open.spotify.com/artist/6q8MQV9ZLqQtv1UN44SgwN) | [/Feeding on Fireworks](https://open.spotify.com/album/5cYMOcakFvoZaLXaT7Dz2E) | 7:21 |
+| 1198 | [Thrive](https://open.spotify.com/track/73wBnf9fWYR3rPet5ICcGK) | [The Scene Redacted](https://open.spotify.com/artist/4NyHBdwdugIcjZQUi5uoAC) | [Artificial Conspiracy](https://open.spotify.com/album/6WzuqwNnivxrEdBOgmfw9D) | 2:48 |
+| 1199 | [SERTRALINE](https://open.spotify.com/track/6C8L7mGVXNpWYPKZaIvoUI) | [Lowhill](https://open.spotify.com/artist/7i6h22ezHqGU7V6vQCCfE3) | [SERTRALINE](https://open.spotify.com/album/2PZLnJ439c0vnN28tMQaL3) | 2:02 |
+| 1200 | [Can't Get Away \- Instrumental](https://open.spotify.com/track/7h7W75GUu2vLqKrswjFGN7) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away \(Instrumental\)](https://open.spotify.com/album/6n0QFCB4He47WwpJpcyGfz) | 2:32 |
+| 1201 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 |
+| 1202 | [I'll Call You When I Land](https://open.spotify.com/track/4mcfu6tvXVOBGkQ9Z9vU4Y) | [Amity Hayze](https://open.spotify.com/artist/5NMNo5sQFABJdY3jHH53wf) | [I'll Call You When I Land](https://open.spotify.com/album/2IhBV1aBz2YOth56IHU1vv) | 3:11 |
+| 1203 | [See You](https://open.spotify.com/track/44qnyfMKO22cfAGdJIi1It) | [SUNDRAWN](https://open.spotify.com/artist/29jhmOjKuBK3iZ9aYXNZ3f) | [Recovery](https://open.spotify.com/album/3gKUmhKtQtU6ysFV8VsZFf) | 3:35 |
 
-Snapshot ID: `AAAE12t4clxNNa+1Qr09SNEV2McRzfBl`
+Snapshot ID: `AAAE4ZTool2fZW/RUjGn2IP7r1P6lhbk`

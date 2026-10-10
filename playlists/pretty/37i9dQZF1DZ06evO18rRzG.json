@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 451141,
+  "num_followers": 451231,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADtUyYW+NAQSZvEPcNYomEK",
+  "snapshot_id": "asbdAAAAAAACB8dbmOKl8yvtQkJuEl8d",
   "tracks": [
     {
       "added_at": null,
@@ -79,18 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5QHoG6laR98M4SZumgSLkB"
+        "name": "Indecision (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
       },
       "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
         {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 270556,
-      "name": "Japanese Denim",
-      "url": "https://open.spotify.com/track/7IVukH71OXfAu3KudrrizN"
+      "duration_ms": 186000,
+      "name": "Indecision (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
     },
     {
       "added_at": null,
@@ -155,22 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indecision (feat. Daniel Caesar)",
-        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
+        "name": "Get You - Single",
+        "url": "https://open.spotify.com/album/5QHoG6laR98M4SZumgSLkB"
       },
       "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
         {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Indecision (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
+      "duration_ms": 270556,
+      "name": "Japanese Denim",
+      "url": "https://open.spotify.com/track/7IVukH71OXfAu3KudrrizN"
     },
     {
       "added_at": null,
@@ -611,30 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1AjFcFS1NcE6zB8uUCeUzK"
       },
       "artists": [
         {
-          "name": "MILLENNIUM PARADE",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        },
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        },
-        {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Daiki Tsuneta",
-          "url": "https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z"
         }
       ],
-      "duration_ms": 156780,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4"
+      "duration_ms": 293709,
+      "name": "Made to Fall in Love",
+      "url": "https://open.spotify.com/track/36h1hoNVjKcsLUH2NzGmPj"
     },
     {
       "added_at": null,
@@ -675,18 +663,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1AjFcFS1NcE6zB8uUCeUzK"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0"
       },
       "artists": [
         {
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        },
+        {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Daiki Tsuneta",
+          "url": "https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z"
         }
       ],
-      "duration_ms": 293709,
-      "name": "Made to Fall in Love",
-      "url": "https://open.spotify.com/track/36h1hoNVjKcsLUH2NzGmPj"
+      "duration_ms": 156780,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 305081,
-      "name": "Death & Taxes",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI"
+      "duration_ms": 88916,
+      "name": "A Cappella",
+      "url": "https://open.spotify.com/track/4kgBKSVyDGTIpqnglasnKW"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 88916,
-      "name": "A Cappella",
-      "url": "https://open.spotify.com/track/4kgBKSVyDGTIpqnglasnKW"
+      "duration_ms": 305081,
+      "name": "Death & Taxes",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI"
     },
     {
       "added_at": null,

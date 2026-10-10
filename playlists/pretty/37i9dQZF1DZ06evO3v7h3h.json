@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 45772,
+  "num_followers": 45765,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAD/HYy3o6iVsvxC5602wJ2/",
+  "snapshot_id": "asbdAAAAAADsRacz0FftKIeH0q697esL",
   "tracks": [
     {
       "added_at": null,
@@ -294,15 +294,11 @@
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Luiz Guima",
-          "url": "https://open.spotify.com/artist/6OR9Iir1y9MWuYpySEcqmS"
         }
       ],
-      "duration_ms": 282053,
-      "name": "Hora de Acordar",
-      "url": "https://open.spotify.com/track/4RBXdmsItgDjYh2dHprfhI"
+      "duration_ms": 273320,
+      "name": "E Se",
+      "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
     },
     {
       "added_at": null,
@@ -336,13 +332,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
         }
       ],
-      "duration_ms": 251661,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/2iq5bIEWwj3lr7qLhixq8T"
+      "duration_ms": 165906,
+      "name": "CUMULONIMBUS",
+      "url": "https://open.spotify.com/track/5dUASzzjSVo1iUK3rpk8Rl"
     },
     {
       "added_at": null,
@@ -370,11 +366,15 @@
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Luiz Guima",
+          "url": "https://open.spotify.com/artist/6OR9Iir1y9MWuYpySEcqmS"
         }
       ],
-      "duration_ms": 273320,
-      "name": "E Se",
-      "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
+      "duration_ms": 282053,
+      "name": "Hora de Acordar",
+      "url": "https://open.spotify.com/track/4RBXdmsItgDjYh2dHprfhI"
     },
     {
       "added_at": null,
@@ -408,29 +408,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 165906,
-      "name": "CUMULONIMBUS",
-      "url": "https://open.spotify.com/track/5dUASzzjSVo1iUK3rpk8Rl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conversas Que Nunca Tivemos",
-        "url": "https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 283469,
-      "name": "Conversas Que Nunca Tivemos",
-      "url": "https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr"
+      "duration_ms": 251661,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/2iq5bIEWwj3lr7qLhixq8T"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 1147406,
       "name": "Poetas No Topo 3.3, Pt. 1",
       "url": "https://open.spotify.com/track/67vfgPDV3JirBIMpeUzqYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conversas Que Nunca Tivemos",
+        "url": "https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 283469,
+      "name": "Conversas Que Nunca Tivemos",
+      "url": "https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr"
     },
     {
       "added_at": null,
@@ -627,34 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Drill",
-        "url": "https://open.spotify.com/album/6kslxjuKc2kanTlK2pGMWi"
-      },
-      "artists": [
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Insane Tracks",
-          "url": "https://open.spotify.com/artist/1eEi4Stf9m65EW0JwWodYZ"
-        }
-      ],
-      "duration_ms": 251418,
-      "name": "Aulas e Palestras",
-      "url": "https://open.spotify.com/track/2ld2qut0uiE6tz2TOkAK5H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
@@ -707,46 +679,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Tom",
-        "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
+        "name": "Dr. Drill",
+        "url": "https://open.spotify.com/album/6kslxjuKc2kanTlK2pGMWi"
       },
       "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+          "name": "Insane Tracks",
+          "url": "https://open.spotify.com/artist/1eEi4Stf9m65EW0JwWodYZ"
         }
       ],
-      "duration_ms": 290769,
-      "name": "Um Novo Tom",
-      "url": "https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
-        }
-      ],
-      "duration_ms": 205672,
-      "name": "Cairo",
-      "url": "https://open.spotify.com/track/1oZeoJGcGPP8Ng0UujbgVg"
+      "duration_ms": 251418,
+      "name": "Aulas e Palestras",
+      "url": "https://open.spotify.com/track/2ld2qut0uiE6tz2TOkAK5H"
     },
     {
       "added_at": null,
@@ -795,6 +751,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um Novo Tom",
+        "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 290769,
+      "name": "Um Novo Tom",
+      "url": "https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "duration_ms": 205672,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/1oZeoJGcGPP8Ng0UujbgVg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gratid\u00e3o",
         "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 265896,
-      "name": "Tudo Ou Nada",
-      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUNMI",
         "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
       },
@@ -875,6 +859,66 @@
       "duration_ms": 246107,
       "name": "MAAT",
       "url": "https://open.spotify.com/track/6491xSLJFuKKn4jc1oakvo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Rael da Rima",
+          "url": "https://open.spotify.com/artist/7tJKW0WJmc5M3hm5foKBHf"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/60ym0dw2oPkxwB8ChatGIF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 265896,
+      "name": "Tudo Ou Nada",
+      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Depois do Depois",
+      "url": "https://open.spotify.com/track/5BgqCJerABu6vJEgW2fc4n"
     },
     {
       "added_at": null,
@@ -911,50 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Ruxell",
-          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
-        }
-      ],
-      "duration_ms": 184445,
-      "name": "Sem Norte",
-      "url": "https://open.spotify.com/track/76oZnQuNBeUOZulyZpKZD5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Rael da Rima",
-          "url": "https://open.spotify.com/artist/7tJKW0WJmc5M3hm5foKBHf"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/60ym0dw2oPkxwB8ChatGIF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -975,6 +975,50 @@
       "duration_ms": 238515,
       "name": "Confundindo S\u00e1bios",
       "url": "https://open.spotify.com/track/64VGENNsyTXX2KwSSzuQww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guizo de Cascavel",
+        "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "Pegapacap\u00e1",
+      "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+        }
+      ],
+      "duration_ms": 184445,
+      "name": "Sem Norte",
+      "url": "https://open.spotify.com/track/76oZnQuNBeUOZulyZpKZD5"
     },
     {
       "added_at": null,
@@ -1003,46 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        },
-        {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Depois do Depois",
-      "url": "https://open.spotify.com/track/5BgqCJerABu6vJEgW2fc4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Linhas Inimigas",
-      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -1063,22 +1067,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guizo de Cascavel",
-        "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
       },
       "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 226026,
-      "name": "Pegapacap\u00e1",
-      "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
+      "duration_ms": 162066,
+      "name": "Linhas Inimigas",
+      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
     },
     {
       "added_at": null,

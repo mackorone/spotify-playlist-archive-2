@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 342143,
+  "num_followers": 342187,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hang On Sloopy: The Best Of The McCoys",
-        "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
-      },
-      "artists": [
-        {
-          "name": "The McCoys",
-          "url": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Hang On Sloopy",
-      "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 137133,
       "name": "Surfin' Bird",
       "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hang On Sloopy: The Best Of The McCoys",
+        "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
+      },
+      "artists": [
+        {
+          "name": "The McCoys",
+          "url": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Hang On Sloopy",
+      "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Summer Days (And Summer Nights) [Remastered]",
         "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 162866,
-      "name": "These Boots Are Made for Walkin'",
-      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1183,6 +1167,22 @@
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "These Boots Are Made for Walkin'",
+      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 153760,
       "name": "The Twist",
       "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "It's My Party: The Mercury Anthology",
+        "url": "https://open.spotify.com/album/7wOkRyqP8l6XdHEUfXpxFy"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 144160,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/5A9Lz0DPD0wo2QDqGm4zh9"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Rhino Hi-Five: Trini Lopez",
         "url": "https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI"
       },
@@ -1979,6 +1995,26 @@
       "duration_ms": 179400,
       "name": "If I Had a Hammer",
       "url": "https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2063,22 +2099,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "It's My Party: The Mercury Anthology",
-        "url": "https://open.spotify.com/album/7wOkRyqP8l6XdHEUfXpxFy"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 144160,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/5A9Lz0DPD0wo2QDqGm4zh9"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Trojan Presents: Mod Ska",
         "url": "https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq"
       },
@@ -2127,26 +2147,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        },
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "My Kind Of Broadway",
         "url": "https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv"
       },
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "20 All-Time Greatest Hits!",
+        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 125706,
+      "name": "Papa's Got A Brand New Bag - Pt. 1",
+      "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Best Of Elvis Presley",
         "url": "https://open.spotify.com/album/7Hx0xRn0UTaEOe5LhcLjwU"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/47NBXLVNoAP6nzPOICYfid"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 125706,
-      "name": "Papa's Got A Brand New Bag - Pt. 1",
-      "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
     },
     {
       "added_at": "2022-06-16 22:02:00",

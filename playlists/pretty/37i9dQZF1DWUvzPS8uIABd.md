@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,788 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,768 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 2 | [Koviksen kyyneleet](https://open.spotify.com/track/1yxnYOzBnnnmPQjbmWlzXy) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Koviksen kyyneleet](https://open.spotify.com/album/3peUJ6p4M8vv1jfw6emX8z) | 3:22 |
 | 3 | [Maksan kaiken takas](https://open.spotify.com/track/2PTs04hECkjq3oTzFDFaok) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Maksan kaiken takas](https://open.spotify.com/album/3QoODFnqeJo0SlLaLzo7Bz) | 3:03 |
 | 4 | [Mitä jää \(feat\. Sara Siipola\)](https://open.spotify.com/track/0yBqrsZsP30lSyAEzsF4X7) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Mitä jää \(feat\. Sara Siipola\)](https://open.spotify.com/album/1vCCp4YwMyH3BQYU7BEMB2) | 2:47 |
-| 5 | [Jos \(feat\. emma & matilda\) \[Vain elämää kausi 17\]](https://open.spotify.com/track/2e2GOyK6ZRp33ZjcS5Hipa) | [Jippu](https://open.spotify.com/artist/0KYGvSXrGDHlExTpandhct), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos \(feat\. emma & matilda\) \[Vain elämää kausi 17\]](https://open.spotify.com/album/5UPPfEuCgglu01okzgmuDn) | 2:48 |
+| 5 | [Jos \(Vain elämää kausi 17\)](https://open.spotify.com/track/2e2GOyK6ZRp33ZjcS5Hipa) | [Jippu](https://open.spotify.com/artist/0KYGvSXrGDHlExTpandhct), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos \(Vain elämää kausi 17\)](https://open.spotify.com/album/5UPPfEuCgglu01okzgmuDn) | 2:48 |
 | 6 | [Sydän \(feat\. Elastinen\)](https://open.spotify.com/track/5AcEKHR3zXgnYUvA6FMan9) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Herkkisten liiga](https://open.spotify.com/album/4RkusM584xfB3xMgyufXzt) | 3:15 |
 | 7 | [IDOLI](https://open.spotify.com/track/2J17KAeazngLWW6s7S4eXk) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [IDOLI](https://open.spotify.com/album/1OlnZBTya6p9JTTe8b2jqC) | 2:27 |
 | 8 | [Vois kelle vaan tapahtuu](https://open.spotify.com/track/2U6dhhbgRZM5vOJjELLlcH) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Vois kelle vaan tapahtuu](https://open.spotify.com/album/6c9vGT17RYPJkpB6bRMhY2) | 3:00 |

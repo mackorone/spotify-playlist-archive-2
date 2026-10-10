@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 122 songs - 7 hr 7 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 124 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 120 | [Hypnotize](https://open.spotify.com/track/5ZwlLHblKBlEzqjwoEqHSl) | [Random Anthem](https://open.spotify.com/artist/4OpTBujVkFk2UHjNz63Ou1) | [Hypnotize](https://open.spotify.com/album/1skuWuLALMueDBWPViQTre) | 3:35 |
 | 121 | [Another Liquid Morning](https://open.spotify.com/track/1GUYfGyDlbXPfby77Wokp0) | [Angelo Ceriani Lofi Project](https://open.spotify.com/artist/0LC1JuXqN4iw9mouw8uak0) | [The Nymph's Vessel](https://open.spotify.com/album/6ADS7HvbQTiH8Qf7wMT8ub) | 2:40 |
 | 122 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
+| 123 | [Dime Que Puedo Hacer Sin Ti \- Remix](https://open.spotify.com/track/0WhxLpotzzMvKdF0HKpLcb) | [Dr\. Leo](https://open.spotify.com/artist/1KPjYNSnNtKiZXCyeDfuw5), [Bernal Villegas](https://open.spotify.com/artist/3odi1BKZOHNVgJ1fOpEkWM), [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Dime Que Puedo Hacer Sin Ti \(Remix\)](https://open.spotify.com/album/1nSXeJ5KaW8cCFkjXQSgQe) | 6:38 |
+| 124 | [Kangkung Darat](https://open.spotify.com/track/5tyyqNFUOqYemUMzNHLTy9) | [Vicz GeoHam](https://open.spotify.com/artist/1t5itTb1ZUb5ToCBQR9V1R) | [Kangkung Darat](https://open.spotify.com/album/56HBquJLEOgFYmsHbLpt5O) | 1:54 |
 
-Snapshot ID: `AAAYmDAqkgEjO4No2Fu/sT9nsLRtAnv8`
+Snapshot ID: `AAAYmtUyGdelmirtTbQl0V9nGoahKnW4`

@@ -572,7 +572,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
@@ -3039,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Leo Jaime - As Mais Pedidas",
+        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
+      },
+      "artists": [
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190605,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
+    },
+    {
+      "album": {
         "name": "Preciso Dizer Que Te Amo",
         "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
@@ -3607,6 +3625,28 @@
     },
     {
       "album": {
+        "name": "ContraTempo",
+        "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192519,
+      "name": "Sinto",
+      "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
+    },
+    {
+      "album": {
         "name": "Sonhos & Ilus\u00f5es (acoustic)",
         "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
       },
@@ -4136,7 +4176,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 158000,
       "name": "Vem conversar",
       "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"

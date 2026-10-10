@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-143 songs - 8 hr 49 min
+144 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Maybe](https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 5:37 | 2022-05-25 |  |
 | [Melting Pot \(Mono Version\)](https://open.spotify.com/track/5OAfwamRaDmPHynFb3vJtr) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:30 | 2022-11-11 | 2025-12-15 |
 | [Midnight Train](https://open.spotify.com/track/6iIFbQlbPGfTIv70it0hLT) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Doing Fine](https://open.spotify.com/album/3TtzcnFBXLAbgqzQkU4u3Y) | 4:06 | 2022-09-02 | 2022-09-11 |
-| [My Simple Heart](https://open.spotify.com/track/1DPxZZCpNJ0zbgrvVZ4Ni4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:29 | 2022-05-25 |  |
+| [My Simple Heart](https://open.spotify.com/track/0CdayG55VFidC1B8TCqIo1) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:28 | 2026-10-10 |  |
+| [My Simple Heart](https://open.spotify.com/track/1DPxZZCpNJ0zbgrvVZ4Ni4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:29 | 2022-05-25 | 2026-10-10 |
 | [No, No Not Again](https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [60's Girl Groups](https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP) | 2:45 | 2022-05-25 |  |
 | [Red Light](https://open.spotify.com/track/4brsAsm0UZztPTUuMZaLn4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Together](https://open.spotify.com/album/40eFBdD9yoC9f6NbqlYZbp) | 5:22 | 2022-10-20 | 2022-10-31 |
 | [Red Light](https://open.spotify.com/track/5pxDzfU6DyOHOtCICFUQOI) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 5:42 | 2025-01-05 | 2026-08-27 |
@@ -101,12 +102,12 @@
 | [Requiem](https://open.spotify.com/track/5da5BnxJydeLtlmhjwCBaA) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 4:34 | 2023-09-02 | 2025-01-23 |
 | [Requiem](https://open.spotify.com/track/6BUXiC6FX1ijEQWGf5iQoD) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 4:34 | 2025-05-24 | 2025-06-29 |
 | [Rosegarden](https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:44 | 2022-05-25 |  |
-| [Set Me Free](https://open.spotify.com/track/5nrIgDAuImXGnBLQGrZxQt) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:34 | 2025-09-10 |  |
-| [Shades of Green](https://open.spotify.com/track/3otLXwCQzIHqLxxoHKTXiJ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 4:23 | 2026-10-06 |  |
+| [Set Me Free](https://open.spotify.com/track/5nrIgDAuImXGnBLQGrZxQt) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:34 | 2025-09-10 | 2026-10-10 |
+| [Shades of Green](https://open.spotify.com/track/3otLXwCQzIHqLxxoHKTXiJ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 4:23 | 2026-10-06 | 2026-10-10 |
 | [Somos Novios \(It's Impossible\)](https://open.spotify.com/track/0Q2mrQB3vbLN1cr22NOOf6) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:46 | 2022-05-25 |  |
 | [Standing Up For Love](https://open.spotify.com/track/6v4WVyvDlAvpTBuQe9RL8B) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:39 | 2023-05-02 | 2023-05-04 |
 | [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 | 2022-05-25 | 2026-10-05 |
-| [Starlight](https://open.spotify.com/track/5wgjgccfkPfOZQyrm39aUb) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:43 | 2025-03-09 | 2026-10-08 |
+| [Starlight](https://open.spotify.com/track/5wgjgccfkPfOZQyrm39aUb) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:43 | 2025-03-09 |  |
 | [Strategy](https://open.spotify.com/track/7JxDelauco6wQBtPHh4nWM) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Strategy: Our Tribute to Philadelphia](https://open.spotify.com/album/6UGp2YJFRY7iqtzbkPKNGs) | 4:24 | 2023-12-31 | 2024-01-02 |
 | [Streets](https://open.spotify.com/track/26OtHPTkmfORwu9yAZczJS) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Delta](https://open.spotify.com/album/14BaP4HtDt9fZPg9BSawkL) | 3:23 | 2023-09-02 | 2024-12-23 |
 | [Sugar On Sunday](https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Sunday Music](https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl) | 3:22 | 2022-08-05 |  |
@@ -131,7 +132,7 @@
 | [This Is the House](https://open.spotify.com/track/4vYn3EMWvMEafjNbcsikbG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [This Is the House](https://open.spotify.com/album/44FJsWUUCB3iP7ENd5LDTs) | 3:41 | 2025-09-05 | 2026-09-19 |
 | [This Is the House](https://open.spotify.com/track/7EDI0Ak3KRTgcCZndJJYaG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [This Is the House](https://open.spotify.com/album/3g1eUz81JzJzie1W6CmbiM) | 3:41 | 2022-05-25 | 2023-11-11 |
 | [Through Misty Eyes \(Mono Version\)](https://open.spotify.com/track/060nY8Cccr0RQzDfHuHF5I) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:07 | 2022-12-12 | 2026-09-07 |
-| [Toast Of Love](https://open.spotify.com/track/3fHPWPG4Ef7cI7vOZYTeJZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:41 | 2022-10-10 | 2026-07-26 |
+| [Toast Of Love](https://open.spotify.com/track/3fHPWPG4Ef7cI7vOZYTeJZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:41 | 2022-10-10 |  |
 | [Together](https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:37 | 2022-05-25 | 2026-04-09 |
 | [Trade Winds](https://open.spotify.com/track/2uzwlTsKQimo498MeuJFgb) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 4:33 | 2023-02-13 | 2026-01-26 |
 | [Trade Winds](https://open.spotify.com/track/2wiFw4NQmS8f4au2cPR2EZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 4:33 | 2025-01-28 | 2025-01-30 |

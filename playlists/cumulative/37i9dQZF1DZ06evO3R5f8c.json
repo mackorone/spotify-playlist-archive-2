@@ -1741,6 +1741,32 @@
     },
     {
       "album": {
+        "name": "Reflections (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/4Dzm7vvKoqnPNlQbjDoeLy"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Thoko (SA)",
+          "url": "https://open.spotify.com/artist/7lR5jbhtBvxbwuV4OX7Hmk"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405811,
+      "name": "Reflections - Black Coffee Extended Remix",
+      "url": "https://open.spotify.com/track/3x1JL8NfCBSRgzAuOIO1IM"
+    },
+    {
+      "album": {
         "name": "Rock My World",
         "url": "https://open.spotify.com/album/0ze5I4ST6pYask4NBTKSg9"
       },

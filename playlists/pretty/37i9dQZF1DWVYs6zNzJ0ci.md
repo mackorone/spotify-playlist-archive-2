@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari con Caloncho y Jaze.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,359,614 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,359,374 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,16 +75,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 65 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
 | 66 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
 | 67 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 |
-| 68 | [The Heaven](https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:52 |
-| 69 | [LOCO PERDIDO](https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [LOCO PERDIDO](https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn) | 3:14 |
-| 70 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 |
+| 68 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 |
+| 69 | [The Heaven](https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:52 |
+| 70 | [LOCO PERDIDO](https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [LOCO PERDIDO](https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn) | 3:14 |
 | 71 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
-| 72 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
-| 73 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 |
-| 74 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
+| 72 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
+| 73 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
+| 74 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 |
 | 75 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 |
-| 76 | [Ay Corazón!](https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Ay Corazón!](https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h) | 3:39 |
-| 77 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
+| 76 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
+| 77 | [Ay Corazón!](https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Ay Corazón!](https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h) | 3:39 |
 | 78 | [El Seis](https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 2:57 |
 | 79 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 |
 | 80 | [Despegamos](https://open.spotify.com/track/7jM7bIVRbiRRXY2QhkndK9) | [NOITE](https://open.spotify.com/artist/50Xm9Pr2Kjp5OpnwjUVdlP), [LEVU D FIERRO](https://open.spotify.com/artist/6bDcXuRcytzCey7li5WHeb), [LENNY FACE](https://open.spotify.com/artist/0HZVh7FupbjZwYOgnPU6t8) | [Despegamos](https://open.spotify.com/album/1pCyxb0Apd2OnPknDc2KcM) | 2:53 |

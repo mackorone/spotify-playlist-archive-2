@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2c](https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 7:52 | 2026-03-19 |  |
-| [A 476](https://open.spotify.com/track/3DtqWpoU1uRjyltYDqr4GL) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 2:02 | 2026-03-25 |  |
+| [A 476](https://open.spotify.com/track/3DtqWpoU1uRjyltYDqr4GL) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 2:02 | 2026-03-25 | 2026-10-10 |
 | [A 477](https://open.spotify.com/track/1zpArFIlQ4ZS2j5PFa86al) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 15:51 | 2026-07-29 | 2026-07-31 |
 | [A 478](https://open.spotify.com/track/6CBVE62tXTPwSHBNIRQ5eK) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 4:51 | 2026-03-19 |  |
 | [A 479](https://open.spotify.com/track/3hJgoqoik98ctXroEVMPvA) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 23:03 | 2026-05-29 | 2026-08-01 |

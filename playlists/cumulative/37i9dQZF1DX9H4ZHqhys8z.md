@@ -4,7 +4,7 @@
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Katerina
 
-1,261 songs - 2 day 21 hr 11 min
+1,262 songs - 2 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1030,6 +1030,7 @@
 | [Stin Taratsa](https://open.spotify.com/track/6yf5kepNzMGcSFkBiGv96u) | [Maria Sakellari](https://open.spotify.com/artist/6i4aWj5irKEWGITB8p27sF) | [Stin Taratsa](https://open.spotify.com/album/4ZzKZWYjGofutEiGvJPxG9) | 2:59 | 2024-06-04 | 2024-07-03 |
 | [Stin Tsita](https://open.spotify.com/track/0LAUSTQZvl8SvPrBl1obkk) | [Maritina](https://open.spotify.com/artist/7b6vOjQddiYQZlID8TBDdE), [Rena Morfi](https://open.spotify.com/artist/35QNo6nfps7vs25jpz5jl1) | [Stin Tsita](https://open.spotify.com/album/632PEAga3XsP7NdInSG2ec) | 3:09 | 2026-06-02 | 2026-08-05 |
 | [Sto 90'](https://open.spotify.com/track/75SkDFCgpuSjrMh2IriQpc) | [KIANNA](https://open.spotify.com/artist/4fTmQzW49oi5GGJOpPjuNy) | [Sto 90'](https://open.spotify.com/album/42j5ERFFzsyEJvNReu01G3) | 2:52 | 2024-08-06 | 2024-10-03 |
+| [Sto Liknisma Sou](https://open.spotify.com/track/0QYH7HTck1ERncYeCdWB95) | [Nefeli Fasouli](https://open.spotify.com/artist/0JygyrBVyE7APBHSMsxjtp), [Panos Papadopoulos](https://open.spotify.com/artist/6g4RHd0tWK3g6sd0jcOnUM) | [Sto Liknisma Sou](https://open.spotify.com/album/6AFTdy6dDBn0UBHqbzdePd) | 3:52 | 2026-10-08 |  |
 | [Stohos](https://open.spotify.com/track/6J1bNEWWezdaQx0cDYAnvN) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Stohos](https://open.spotify.com/album/1ybwL2H1oZ5odU8Achjkfk) | 3:31 | 2023-07-04 | 2024-01-10 |
 | [Ston anemo](https://open.spotify.com/track/0cQFHUJMHOyw1Sf3gyYNtB) | [Sofia Kourtidou](https://open.spotify.com/artist/1B9W1Rx6pmnoHdWfshpAA6) | [Ston anemo](https://open.spotify.com/album/608zZNedMrGy0QgRQqagHO) | 4:54 | 2025-02-04 | 2025-03-05 |
 | [Ston Paradeiso](https://open.spotify.com/track/5Bs5dbS7Okei3X8az4OudK) | [Billie Isak](https://open.spotify.com/artist/0RMH7M3gqLAv3DUeLvQzz6) | [Ston Paradeiso](https://open.spotify.com/album/0wlKAK03qiSGQtzZ6RLaZ3) | 3:27 | 2026-04-07 | 2026-06-03 |

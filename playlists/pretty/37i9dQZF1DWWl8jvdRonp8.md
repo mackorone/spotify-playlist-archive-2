@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,637 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,704 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 55 | [Presiento Que Voy a Llorar \- Con Banda](https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:04 |
 | 56 | [La Venia Bendita](https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Mis Dos Vicios](https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e) | 3:05 |
 | 57 | [Navidad Sin Ti](https://open.spotify.com/track/1TXfox4cwT9ubQJXwAnouX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 4:27 |
-| 58 | [Si Te Pudiera Mentir](https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:09 |
-| 59 | [Antes De Que Te Vayas](https://open.spotify.com/track/41uS4bw8JlCC69YuFlXFQH) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Mano A Mano Volumen 2](https://open.spotify.com/album/711RytcGqUZWMK90seBzdV) | 3:21 |
+| 58 | [Antes De Que Te Vayas](https://open.spotify.com/track/41uS4bw8JlCC69YuFlXFQH) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Mano A Mano Volumen 2](https://open.spotify.com/album/711RytcGqUZWMK90seBzdV) | 3:21 |
+| 59 | [Si Te Pudiera Mentir](https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:09 |
 | 60 | [Hasta Cuando](https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:24 |
-| 61 | [Tu Ingratitud](https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Hombre Talentoso](https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af) | 3:33 |
-| 62 | [Se Va Muriendo Mí Alma](https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh) | [María Sorté](https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy) | [Te Voy a Hacer Feliz](https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X) | 4:20 |
+| 61 | [Se Va Muriendo Mí Alma](https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh) | [María Sorté](https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy) | [Te Voy a Hacer Feliz](https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X) | 4:20 |
+| 62 | [Tu Ingratitud](https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Hombre Talentoso](https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af) | 3:33 |
 | 63 | [Sin Él](https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Por Eso...Gracias](https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a) | 3:30 |
 | 64 | [Y Ahora Te Vas](https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:54 |
 | 65 | [Mi Fantasía](https://open.spotify.com/track/2fH7AMRWzhUuWoUgheULIw) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:16 |

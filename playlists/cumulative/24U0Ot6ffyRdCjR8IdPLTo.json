@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/1doYTnF0SbpTuRQqm8FE8R"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171352,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV"
+    },
+    {
+      "album": {
         "name": "the sugar machine (deluxe)",
         "url": "https://open.spotify.com/album/23d5T7FhFdQr7RtrvgcLPm"
       },
@@ -6842,6 +6860,24 @@
       "duration_ms": 245634,
       "name": "The Blue",
       "url": "https://open.spotify.com/track/4LAeAtcbEAFYTRsZRpua6Z"
+    },
+    {
+      "album": {
+        "name": "The Brightest",
+        "url": "https://open.spotify.com/album/26zzLxnYQtJY6D7ORYCH8d"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249049,
+      "name": "The Brightest",
+      "url": "https://open.spotify.com/track/76kuiwPVPJLlw2glwy5RvR"
     },
     {
       "album": {

@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 103 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 |
 | 104 | [Island](https://open.spotify.com/track/5VU3ScIDAKRmdnuWPNTxeW) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Island](https://open.spotify.com/album/4fl7FMAj60Hlj1pfWauR3R) | 2:38 |
 | 105 | [So Mean](https://open.spotify.com/track/4BiBdzJFaHY6VLIXa5CPpc) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [So Mean](https://open.spotify.com/album/1YeB4Y72furzzlpmxTsgFc) | 2:41 |
-| 106 | [Berlin City Girl](https://open.spotify.com/track/214zEjNd21eUMoXxr3VqWj) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:11 |
-| 107 | [Goodbye](https://open.spotify.com/track/57uVeCwm1sjRnS06Wx02fV) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Goodbye](https://open.spotify.com/album/74w4R1v3OWfHB6AWlcuQJe) | 2:18 |
+| 106 | [Goodbye](https://open.spotify.com/track/57uVeCwm1sjRnS06Wx02fV) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Goodbye](https://open.spotify.com/album/74w4R1v3OWfHB6AWlcuQJe) | 2:18 |
+| 107 | [Berlin City Girl](https://open.spotify.com/track/214zEjNd21eUMoXxr3VqWj) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:11 |
 | 108 | [Santa, If You're There](https://open.spotify.com/track/4NJ5o0tcV32BWQCoc3OpaW) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 3:03 |
 | 109 | [Weit, weit weg](https://open.spotify.com/track/5vu4A3HVrkf6kJr0Ik5JSt) | [Versengold](https://open.spotify.com/artist/4tGxWZaAkt50t9VZxSxOGZ) | [Nordlicht](https://open.spotify.com/album/7mHYHavA9Jjop81UQ0iZAz) | 3:33 |
 | 110 | [Et voilà \- Aus Sing meinen Song, Vol\. 7](https://open.spotify.com/track/5KgO77fFcPz4dLvuATJaJo) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 3:24 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 161 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 162 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AceblgAAAABPUnKspiftke4/OF+2BIMn`
+Snapshot ID: `Aceg+gAAAAC5Z7LLN2GyZV0QvFsEFpEF`

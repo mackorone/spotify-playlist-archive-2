@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 171960,
       "name": "Agents of S.H.I.E.L.D. Overture",
       "url": "https://open.spotify.com/track/7g5H7rvDNnb6VAaLxjCgW5"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 277311,
       "name": "Shoulder to Shoulder",
       "url": "https://open.spotify.com/track/7jGFKqKG8RrqiOj4iL37uz"
@@ -2893,6 +2893,40 @@
     },
     {
       "album": {
+        "name": "Outlander: Blood of my Blood (Season 2 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1MzzczScFfaoZ8G0JQWyMh"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Rebekah Lumsden",
+          "url": "https://open.spotify.com/artist/6CCw1qOO2LddrPLapRU94X"
+        },
+        {
+          "name": "Sadhbh Malin",
+          "url": "https://open.spotify.com/artist/0vh1GsHvFQyw6J1xCT0elj"
+        },
+        {
+          "name": "Sally Messham",
+          "url": "https://open.spotify.com/artist/2uNN4t2uWywLOaZeGJdupD"
+        },
+        {
+          "name": "Harriet Slater",
+          "url": "https://open.spotify.com/artist/56VjpVxSr6LYghTP3BUq4y"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95348,
+      "name": "What Hey! What Ho! (feat. Rebekah Lumsden, Sadhbh Malin, Sally Messham & Harriet Slater)",
+      "url": "https://open.spotify.com/track/1dsk2pg2eiQN7eTHLqqeWT"
+    },
+    {
+      "album": {
         "name": "Outlander: Season 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
       },
@@ -2904,7 +2938,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 270440,
       "name": "White Roses of Scotland",
       "url": "https://open.spotify.com/track/7e2Js9jadB6eTuNesmeIxh"

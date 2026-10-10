@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Saloni
 
-595 songs - 1 day 11 hr 21 min
+596 songs - 1 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Naatho Nene](https://open.spotify.com/track/3110yd1QgpP3mUsVe8MdhT) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Naatho Nene](https://open.spotify.com/album/1Sc7iddapaXJvCiPFYvnZN) | 2:52 | 2024-10-01 | 2024-12-21 |
 | [Naatu](https://open.spotify.com/track/4E27f7DTuAJQu8WuuaJvA3) | [HIGHMIC](https://open.spotify.com/artist/6TxPwq9acQ5DsjllDCwaAE), [MC NYCTO](https://open.spotify.com/artist/6Xnv7vYQMQYe8puYAp1suA), [Trishul Beats](https://open.spotify.com/artist/2NymkQcUWoYwzaR1fTcR6c) | [Naatu](https://open.spotify.com/album/6hmjIW4ZgfMZApLMOSpxIj) | 3:17 | 2026-07-10 |  |
 | [Nachadhe](https://open.spotify.com/track/5BciFtQG5SJg6aa2PSgnr9) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Nachadhe](https://open.spotify.com/album/4J3yUcfVx55clLRnAmyKNc) | 3:18 | 2024-09-25 | 2025-09-16 |
+| [Nadiche Devatha](https://open.spotify.com/track/40f8b6ToDqmGxDRSwkmq0I) | [Raazi](https://open.spotify.com/artist/0VKALXldkVaRzYcx7SkKHi) | [Nadiche Devatha](https://open.spotify.com/album/6VXNCowvSrMTtWD3YW9rjs) | 3:06 | 2026-10-09 |  |
 | [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 3:52 | 2023-06-02 | 2023-10-11 |
 | [Nalla Addhal](https://open.spotify.com/track/7atlt82FhkVXvZ40OyvltP) | [ARKID ZANE](https://open.spotify.com/artist/52zmye5qgCJW85bpleNsko) | [N.E.N.U \(Nothing Ever Numbs Us\)](https://open.spotify.com/album/1lPCz7OHCzmlvoemqTJBzl) | 3:14 | 2026-03-27 |  |
 | [Nalo](https://open.spotify.com/track/67vWJfoqPjkRqA2tEMqRo8) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf) | [Nalo](https://open.spotify.com/album/3FRkVdClzNnYcYllwG2v6Q) | 2:23 | 2026-02-20 | 2026-09-26 |
@@ -463,7 +464,7 @@
 | [Raba Raba](https://open.spotify.com/track/1XiHI6xjy82Pkef0EnC8ec) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Megh\-Uh\-Watt](https://open.spotify.com/artist/2UBDp4nIwkdAxlukxa5lbj) | [Raba Raba](https://open.spotify.com/album/05WGgEw9k8SU61WsFU6Ig2) | 4:38 | 2022-07-18 | 2023-08-19 |
 | [Radha Rishi](https://open.spotify.com/track/2rgep6eTj60gjJTCe1zcqV) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN), [K.V\. Bharadwaj](https://open.spotify.com/artist/5Feq6xe7HtFEyEcmpoo3Kz) | [Radha Rishi](https://open.spotify.com/album/1uN0ZHYawADrLNVmEDewu4) | 6:19 | 2025-01-06 | 2025-10-29 |
 | [Radhe Krishna Radhe](https://open.spotify.com/track/3gPcdtrU3nubU5QKdR54k8) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Radhe Krishna Radhe](https://open.spotify.com/album/0wb1P6iFh9Yf7LX90vmAM7) | 5:08 | 2024-11-11 | 2025-01-21 |
-| [Raghava Thagavaa](https://open.spotify.com/track/1ISeQVKqWK3TcUv8lycJSB) | [Sanskari](https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R) | [Vinamrata](https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC) | 2:23 | 2026-03-06 |  |
+| [Raghava Thagavaa](https://open.spotify.com/track/1ISeQVKqWK3TcUv8lycJSB) | [Sanskari](https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R) | [Vinamrata](https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC) | 2:23 | 2026-03-06 | 2026-10-10 |
 | [Rahasyam](https://open.spotify.com/track/7vMbkplpdFYxOUSmIQtdQL) | [Kavin Lavari](https://open.spotify.com/artist/3Y4K8LCLMtBS9lxM46EpMe), [ozzie](https://open.spotify.com/artist/2yuhstU6oVkeKw9dyVcNwO), [sathvik](https://open.spotify.com/artist/1FZJc8yEHsOJDCFIevVahk) | [It's Nice To Meet You](https://open.spotify.com/album/1KlHnPfucRK6pK7jHNjIfN) | 2:42 | 2026-04-17 |  |
 | [Ramaya](https://open.spotify.com/track/1gACI6AAvdUSgfBJ4IattI) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/51ZV12M5Rwx88kZPCksKEs) | 3:35 | 2023-08-05 | 2024-04-19 |
 | [Ramaya](https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/0ThcLdv1zgkPsPf0VYVemw) | 3:35 | 2023-08-05 | 2025-01-08 |

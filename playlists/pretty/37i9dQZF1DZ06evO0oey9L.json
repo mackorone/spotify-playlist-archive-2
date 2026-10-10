@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 101682,
+  "num_followers": 101690,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAACUZ6h3AHPMAHNwy5k+pVd0",
+  "snapshot_id": "asbdAAAAAAA3IgywabL/2NJwSpr9bYvx",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
-        "url": "https://open.spotify.com/album/0JaJMJHnxPKVHVzNiZDICH"
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 171743,
-      "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
-      "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
+      "duration_ms": 157499,
+      "name": "No Andamos Solos",
+      "url": "https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+        "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
+        "url": "https://open.spotify.com/album/0JaJMJHnxPKVHVzNiZDICH"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 157499,
-      "name": "No Andamos Solos",
-      "url": "https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ"
+      "duration_ms": 171743,
+      "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
+      "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
     },
     {
       "added_at": null,
@@ -428,25 +428,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 183409,
-      "name": "Botas Ariat",
-      "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 180197,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
+      "duration_ms": 225226,
+      "name": "Ya Lo Decid\u00ed",
+      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
       "duration_ms": 184751,
       "name": "Cuartitos De Libra",
       "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 180197,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
     },
     {
       "added_at": null,
@@ -492,25 +492,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 186301,
-      "name": "Barrio Xolo",
-      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Derecha La Flecha",
-        "url": "https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 178327,
-      "name": "Derecha La Flecha",
-      "url": "https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp"
+      "duration_ms": 183409,
+      "name": "Botas Ariat",
+      "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
       "duration_ms": 120749,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Derecha La Flecha",
+        "url": "https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 178327,
+      "name": "Derecha La Flecha",
+      "url": "https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp"
     },
     {
       "added_at": null,
@@ -556,25 +556,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 225226,
-      "name": "Ya Lo Decid\u00ed",
-      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 148344,
-      "name": "La Fiesta Ya Empezo",
-      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+      "duration_ms": 186301,
+      "name": "Barrio Xolo",
+      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 192728,
       "name": "Toxico",
       "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 148344,
+      "name": "La Fiesta Ya Empezo",
+      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Exceso Me Encanto",
-        "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 160153,
-      "name": "El Exceso Me Encanto",
-      "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangre De Rancho",
         "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 168881,
       "name": "Sangre De Rancho",
       "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Exceso Me Encanto",
+        "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 160153,
+      "name": "El Exceso Me Encanto",
+      "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
     },
     {
       "added_at": null,

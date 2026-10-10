@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,246 songs - 3 day 8 hr 44 min
+1,249 songs - 3 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Bop Gun \(Endangered Species\)](https://open.spotify.com/track/3fHrnF1MxAZaiGVkGIxM9h) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 8:35 | 2024-11-11 |  |
 | [Born](https://open.spotify.com/track/0BiEG7SI1LyBjwKJIjew4q) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Reptilians](https://open.spotify.com/album/5pfqk4oFycMVynOD8S2Cqs) | 3:23 | 2022-12-18 |  |
 | [Born To Die](https://open.spotify.com/track/5kMAugdkH2coRHRnW5FuDb) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI) | 4:46 | 2024-07-05 |  |
+| [Bottle](https://open.spotify.com/track/0j0Xae7CpwZHoC1QFhIpFb) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 4:18 | 2026-10-09 |  |
 | [Boys](https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 4:39 | 2023-06-08 | 2023-07-11 |
 | [Brain](https://open.spotify.com/track/7HtJdBWRJpVVQhDlk6NndR) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:43 | 2026-08-26 |  |
 | [Brand New](https://open.spotify.com/track/68Jue5HmmY7ZygpiPiEKkd) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Gem](https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic) | 3:14 | 2026-09-25 | 2026-10-03 |
@@ -551,6 +552,7 @@
 | [Is It Real?](https://open.spotify.com/track/0gtZYdvwrD5th0JUpc0xfO) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Blame The Clown](https://open.spotify.com/album/6WVULKossUfiq6AkHBZtIp) | 3:01 | 2026-05-08 |  |
 | [Isometric \(Intro\)](https://open.spotify.com/track/4RWeizdES94TbsDWSrQdLU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Adventure \(Deluxe\)](https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR) | 1:20 | 2022-08-20 |  |
 | [It Ain't Easy, It Ain't Easy \(feat\. Nyck Caution, Kirk Knight, CJ Fly & AKTHESAVIOR\)](https://open.spotify.com/track/4krhkcFf3OqxHSS1QUIsmc) | [Beast Coast](https://open.spotify.com/artist/1Nd1g8fezKoJ6DGauWbZIm), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq), [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Escape From New York](https://open.spotify.com/album/1NPxBmG3k3UzybcaxxSVuB) | 3:40 | 2022-10-18 |  |
+| [It All Fell in the River \- Live at Carnegie Hall](https://open.spotify.com/track/6QoOy0hBf3GnUyZiEVCHol) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Live at Carnegie Hall](https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt) | 4:30 | 2026-10-09 |  |
 | [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 | 2024-09-19 |  |
 | [It Never Happened](https://open.spotify.com/track/0KcdT1eZcoT9keTV397Yu8) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Year of the Newt](https://open.spotify.com/album/75qAoON3tKG7AMtpCQheE4) | 2:31 | 2025-12-25 | 2026-01-01 |
 | [It's A Passage](https://open.spotify.com/track/2AEfMWp1FGvgjASlFPqu8K) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 3:58 | 2024-06-11 | 2025-11-15 |
@@ -929,6 +931,7 @@
 | [Shepherd’s Welcome](https://open.spotify.com/track/5imF1gGEUJ4Ub8FrDKDW3Y) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp) | 2:22 | 2024-01-19 |  |
 | [Sherpa](https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.1](https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn) | 5:43 | 2026-03-23 |  |
 | [She’s Expecting You \(feat\. Phylicia Rashad\)](https://open.spotify.com/track/7Epbvcmjoh3CCOP5RtSVI3) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Phylicia Rashad](https://open.spotify.com/artist/4b6gmSpQTEPc1UZY8oaPVM) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 1:08 | 2024-06-06 |  |
+| [She’s the Best](https://open.spotify.com/track/60JHe6LKotHykqgenefBV2) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 4:14 | 2026-10-09 |  |
 | [shibuya \(feat\. San Holo\)](https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [effloresce](https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny) | 5:45 | 2025-09-23 |  |
 | [Shining](https://open.spotify.com/track/66ALMWldXUZziIOSDv9jYB) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 3:08 | 2025-08-22 |  |
 | [Showrooms](https://open.spotify.com/track/0k2y3MveQl3daR9d21R3qO) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Sam Prekop](https://open.spotify.com/album/5clbSCoEBQwvwnByDJ2Z8D) | 4:21 | 2022-07-31 |  |

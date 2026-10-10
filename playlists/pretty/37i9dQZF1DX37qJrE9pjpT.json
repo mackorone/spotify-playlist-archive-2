@@ -1,12 +1,12 @@
 {
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Young Lunya",
-  "num_followers": 8364,
+  "num_followers": 8379,
   "original_name": "Bongo Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKPFz72VZBNAgv/mIB3xlXh8Gd1D",
+  "snapshot_id": "AAAAAJBOgFkIQCBr3rEFx2urYv6Ev5hn",
   "tracks": [
     {
       "added_at": "2026-09-10 23:59:35",
@@ -59,6 +59,38 @@
       "duration_ms": 170000,
       "name": "Mzigo",
       "url": "https://open.spotify.com/track/74lvxpvYHuyw3JsAgvHPhK"
+    },
+    {
+      "added_at": "2026-10-09 17:24:59",
+      "album": {
+        "name": "Picha (Part 2)",
+        "url": "https://open.spotify.com/album/1u9RlwafXOl6PmCnvrqMqc"
+      },
+      "artists": [
+        {
+          "name": "Baddest 47",
+          "url": "https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ"
+        },
+        {
+          "name": "Moni Centrozone",
+          "url": "https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ"
+        },
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        },
+        {
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "10k Degreez",
+          "url": "https://open.spotify.com/artist/0hL9NKxYiZX01EWaLTWvDN"
+        }
+      ],
+      "duration_ms": 294452,
+      "name": "Picha - Part 2",
+      "url": "https://open.spotify.com/track/4dkNf39igqPXbaLPpZESqd"
     },
     {
       "added_at": "2026-09-10 23:59:35",
@@ -843,22 +875,6 @@
     {
       "added_at": "2026-09-10 23:59:35",
       "album": {
-        "name": "Barbender 8",
-        "url": "https://open.spotify.com/album/2zCJtguOXaiNyNYCAZVIhc"
-      },
-      "artists": [
-        {
-          "name": "MEX CORTEZ",
-          "url": "https://open.spotify.com/artist/1jw2gjV9qktnWQIhOniCyc"
-        }
-      ],
-      "duration_ms": 276816,
-      "name": "Barbender 8",
-      "url": "https://open.spotify.com/track/0exAnaUjXraiJgvrvlUeh9"
-    },
-    {
-      "added_at": "2026-09-10 23:59:35",
-      "album": {
         "name": "DEWJI 2",
         "url": "https://open.spotify.com/album/5xhAyxatrOLYDBKkGSN6KK"
       },
@@ -907,26 +923,6 @@
       "duration_ms": 229000,
       "name": "A City",
       "url": "https://open.spotify.com/track/4yvzxUvMGmUxBPe750w9k2"
-    },
-    {
-      "added_at": "2026-09-10 23:59:35",
-      "album": {
-        "name": "DON'T TAKE GOD'S CREDITS:USICHUKUE SIFA ZA MUNGU",
-        "url": "https://open.spotify.com/album/7Ea4bUIUBMDG1BIuO17K96"
-      },
-      "artists": [
-        {
-          "name": "Rapcha",
-          "url": "https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa"
-        },
-        {
-          "name": "Mapanch BMB",
-          "url": "https://open.spotify.com/artist/1kKifnEoW0iRzvk3qDFXpg"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "AVIATOR",
-      "url": "https://open.spotify.com/track/1iKbeE6VoTG5570TudbE2k"
     },
     {
       "added_at": "2026-09-10 23:59:35",

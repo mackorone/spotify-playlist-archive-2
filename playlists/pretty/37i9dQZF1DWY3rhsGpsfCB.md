@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,419 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,420 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 50 | [Aura \(feat\. Bryson Tiller\)](https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [AMA](https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB) | 4:00 |
 | 51 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
 | 52 | [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 |
-| 53 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
-| 54 | [Ashimolowo](https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:07 |
+| 53 | [Ashimolowo](https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:07 |
+| 54 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
 | 55 | [MAMAN PRIE](https://open.spotify.com/track/6oojgcW5Ffo7GkB54vARCh) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:42 |
 | 56 | [Therapy at the Club](https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Therapy at the Club](https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP) | 2:47 |
 | 57 | [robbery](https://open.spotify.com/track/3ORQAVMG2AUIeHdmdrl08p) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:44 |
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 69 | [Eden](https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love Is a Machinery](https://open.spotify.com/album/2K4Ewhj1JxNbT4WIBStAwC) | 2:43 |
 | 70 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:21 |
 | 71 | [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 |
-| 72 | [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 |
-| 73 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 |
+| 72 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 |
+| 73 | [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 |
 | 74 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
-| 75 | [lonely \(feat\. L.A.X\)](https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [lonely \(feat\. L.A.X\)](https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR) | 2:44 |
-| 76 | [To Me](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:27 |
+| 75 | [Extra Time](https://open.spotify.com/track/0UHNfLj6mQL2kz2qZT5mfC) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Extra Time](https://open.spotify.com/album/0qwtFpkWPaiMG2wh9Zf5yw) | 3:34 |
+| 76 | [lonely \(feat\. L.A.X\)](https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [lonely \(feat\. L.A.X\)](https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR) | 2:44 |
 | 77 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
-| 78 | [Extra Time](https://open.spotify.com/track/0UHNfLj6mQL2kz2qZT5mfC) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Extra Time](https://open.spotify.com/album/0qwtFpkWPaiMG2wh9Zf5yw) | 3:34 |
+| 78 | [To Me](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:27 |
 | 79 | [Better Days](https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Better Days](https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1) | 3:22 |
 | 80 | [SUNSET IN PARIS](https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [SUNSET IN PARIS](https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3) | 2:20 |
 

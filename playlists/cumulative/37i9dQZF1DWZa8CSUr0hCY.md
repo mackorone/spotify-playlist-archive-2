@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-270 songs - 11 hr 54 min
+271 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Fall in Love in September](https://open.spotify.com/track/73cnVIWBUfGotvQQHTkr5y) | [Staysea](https://open.spotify.com/artist/6gxc5HErxRvWbXZBU9feZr) | [Fall in Love in September](https://open.spotify.com/album/5eVh6ovKtRpV6b7GDU8yMK) | 1:43 | 2022-09-08 |  |
 | [Fallen Leaf](https://open.spotify.com/track/7jy55dXHKNQU2z1m8aUfuy) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Hip Dozer, Vol\. 6](https://open.spotify.com/album/2UPZZagR1OvO6uuouU1qJ0) | 2:35 | 2022-04-28 | 2022-08-31 |
 | [Falling Stars](https://open.spotify.com/track/4mIgrbxrhfjvbbi8pSPYZl) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Falling Stars](https://open.spotify.com/album/3VPdb1H1lJCjUnQvJKxQFW) | 1:43 | 2022-08-30 |  |
+| [Far Away](https://open.spotify.com/track/3mWNKiOJwDWmLhk822FBTS) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Far Away](https://open.spotify.com/album/7rQIgp700xm1eCPhr63ijK) | 2:17 | 2026-10-09 |  |
 | [Felted](https://open.spotify.com/track/0pc7pvoTQFPebXtWw35AK2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [nobuddy](https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v) | [Felted October](https://open.spotify.com/album/5vIvFrE4zGmZq2Fveo3ar4) | 1:51 | 2021-06-02 | 2022-08-31 |
 | [First Light](https://open.spotify.com/track/1Q6Z50JAnfy1wOOqAksVIW) | [ourcq](https://open.spotify.com/artist/0ixhosSnDrcxrW8ylF4yXj), [zad.collective](https://open.spotify.com/artist/2M8paQigZedmA3uIOpOa9r) | [Transatlantic](https://open.spotify.com/album/5CMMK15wNl3rR2tBGMKjau) | 2:40 | 2023-12-01 | 2025-02-28 |
 | [Foyer](https://open.spotify.com/track/5xLp8h4lYj0PoevICi9WWq) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7), [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41) | [Foyer](https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu) | 2:49 | 2022-08-30 |  |
@@ -147,7 +148,7 @@
 | [Let It Go](https://open.spotify.com/track/3gBnmlTKVkAL0JnclQuz8s) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Let It Go](https://open.spotify.com/album/5QWRTAdCTbDLhjEWbG1odA) | 2:35 | 2022-08-30 |  |
 | [Letdown](https://open.spotify.com/track/27Yu59D18hcYTp03CAo3vY) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [Letdown](https://open.spotify.com/album/36rlZHCSOIgwDvQSjXa282) | 2:40 | 2022-08-30 |  |
 | [letter to amtis](https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [letter to amtis](https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf) | 1:34 | 2024-08-29 |  |
-| [Letting Go](https://open.spotify.com/track/4p3VoeW620zFuYmGBBBlUK) | [Avira](https://open.spotify.com/artist/1wytsm0cwx7Vw9kIVyyWWI), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Letting Go](https://open.spotify.com/album/3BYrdOwkgixfEOY8YbeOjv) | 2:36 | 2025-06-20 |  |
+| [Letting Go](https://open.spotify.com/track/4p3VoeW620zFuYmGBBBlUK) | [Avira](https://open.spotify.com/artist/1wytsm0cwx7Vw9kIVyyWWI), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Letting Go](https://open.spotify.com/album/3BYrdOwkgixfEOY8YbeOjv) | 2:36 | 2025-06-20 | 2026-10-10 |
 | [Lifted](https://open.spotify.com/track/30DefWKNhQ6Ibyp4Ge3dV4) | [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Lifted](https://open.spotify.com/album/3N63kOvGxPKdidXl5o0yDE) | 1:53 | 2025-04-11 |  |
 | [Limbo](https://open.spotify.com/track/3fnAQeFKgQKsgNylfxBdc7) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Hip\-Hop Symposium, Vol\. 3 \(Childhood\)](https://open.spotify.com/album/50PVjxN9VnL451ll774Xfd) | 3:35 | 2022-04-28 | 2022-08-31 |
 | [Limbo](https://open.spotify.com/track/3mgRwzfkoOQROm3ksVpypG) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Hip Hop Symposium \(Full Compilation\)](https://open.spotify.com/album/1EOH2XDgfavkFltfZkX2TW) | 3:35 | 2020-10-20\* | 2022-07-29 |

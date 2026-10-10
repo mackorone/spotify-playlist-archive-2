@@ -533,6 +533,32 @@
     },
     {
       "album": {
+        "name": "Dat Bad",
+        "url": "https://open.spotify.com/album/3aQtWdtWWtPo9JQD16zimR"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        },
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160101,
+      "name": "Dat Bad",
+      "url": "https://open.spotify.com/track/1fk5Jx5ytAcfc9o1tcrQ1d"
+    },
+    {
+      "album": {
         "name": "Day One",
         "url": "https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi"
       },
@@ -1372,7 +1398,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 230160,
       "name": "In The Way",
       "url": "https://open.spotify.com/track/1n2BgOnlFIO1Ih8lNyNHR6"

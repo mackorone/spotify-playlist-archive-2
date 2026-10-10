@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 167530,
+  "num_followers": 167551,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAD6RWwGYJ8tW+KxYS3TLPbN",
+  "snapshot_id": "asbdAAAAAACzfc69N9vorfjMvoUdbL+W",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey De Corazones",
-        "url": "https://open.spotify.com/album/3QiF1HQLaYyVkxbSi6v1rE"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        },
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 233443,
-      "name": "El Rey De Corazones",
-      "url": "https://open.spotify.com/track/4R5fDuGTh3qi9GxtjzTbK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 187520,
       "name": "Hablemos",
       "url": "https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey De Corazones",
+        "url": "https://open.spotify.com/album/3QiF1HQLaYyVkxbSi6v1rE"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 233443,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/4R5fDuGTh3qi9GxtjzTbK7"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naci\u00f3 Pa' Leyenda",
-        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Tres Botellas",
-      "url": "https://open.spotify.com/track/32ZUnlNEvQ8sgVi3xTtCci"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busc\u00e1bamos Lo Mismo",
         "url": "https://open.spotify.com/album/6sys2zlZ6to8LH8JKVqDfH"
       },
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Cuerdas y Recuerdos (En Vivo)",
-        "url": "https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV"
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 226991,
-      "name": "No Puedo Olvidarla - En Vivo",
-      "url": "https://open.spotify.com/track/2QLbhv0Q4iRgSpQxMu2eyi"
+      "duration_ms": 199773,
+      "name": "Tres Botellas",
+      "url": "https://open.spotify.com/track/32ZUnlNEvQ8sgVi3xTtCci"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
       "duration_ms": 174149,
       "name": "Mi Complemento",
       "url": "https://open.spotify.com/track/53m15VomGDsuaV71S8gXD0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Cuerdas y Recuerdos (En Vivo)",
+        "url": "https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 226991,
+      "name": "No Puedo Olvidarla - En Vivo",
+      "url": "https://open.spotify.com/track/2QLbhv0Q4iRgSpQxMu2eyi"
     },
     {
       "added_at": null,
@@ -671,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+        "name": "Duren",
+        "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
       },
       "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 149120,
-      "name": "No Comprendo",
-      "url": "https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA"
+      "duration_ms": 190423,
+      "name": "Duren",
+      "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
     },
     {
       "added_at": null,
@@ -707,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duren",
-        "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
       },
       "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 190423,
-      "name": "Duren",
-      "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
+      "duration_ms": 149120,
+      "name": "No Comprendo",
+      "url": "https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 5462,
+  "num_followers": 5461,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADdlD9w/yQ+a2mRl2GGkTWc",
+  "snapshot_id": "asbdAAAAAABF8qtj2jCEU65i3t2fFYeV",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "BRL",
-          "url": "https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ"
-        }
-      ],
-      "duration_ms": 547000,
-      "name": "Free - Live",
-      "url": "https://open.spotify.com/track/0RNPiXc8aLrCbuivYlouzd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 359091,
       "name": "Miracles (feat. Pastor Mike Jr.)",
       "url": "https://open.spotify.com/track/2U14rkj4rTCJuvZAtgx39d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "BRL",
+          "url": "https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ"
+        }
+      ],
+      "duration_ms": 547000,
+      "name": "Free - Live",
+      "url": "https://open.spotify.com/track/0RNPiXc8aLrCbuivYlouzd"
     },
     {
       "added_at": null,
@@ -347,6 +347,38 @@
       "duration_ms": 175813,
       "name": "2nd Win",
       "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4rGd4QTextzBZmB9G8yHyk"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 228148,
+      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
+      "url": "https://open.spotify.com/track/7B7kpLpdgSTluPOUEStmgV"
     },
     {
       "added_at": null,
@@ -531,38 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 228148,
-      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
-      "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
@@ -599,26 +599,6 @@
       "duration_ms": 184106,
       "name": "Flaws",
       "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Things of Heaven",
-        "url": "https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 338448,
-      "name": "Now Here (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV"
     },
     {
       "added_at": null,
@@ -663,6 +643,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Things of Heaven",
+        "url": "https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 338448,
+      "name": "Now Here (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Osby Berry",
+          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/0OCXDPJfXimosx1KgjGDcZ"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Eagle - Live",
+      "url": "https://open.spotify.com/track/0ud4zQVgIUszHUOpq8ZwOu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
@@ -703,34 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
-      },
-      "artists": [
-        {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
-        {
-          "name": "Osby Berry",
-          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/0OCXDPJfXimosx1KgjGDcZ"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Eagle - Live",
-      "url": "https://open.spotify.com/track/0ud4zQVgIUszHUOpq8ZwOu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
       },
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 255848,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Big Day",
         "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
       },
@@ -791,62 +807,6 @@
       "duration_ms": 281181,
       "name": "I Got You (Always and Forever)",
       "url": "https://open.spotify.com/track/5iX4fneadO1mAIQQzhvnVf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Anthony Brown",
-          "url": "https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb"
-        }
-      ],
-      "duration_ms": 425334,
-      "name": "All Yours (feat. Anthony Brown)",
-      "url": "https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 265089,
-      "name": "Always Win (Live)",
-      "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Canton Jones",
-          "url": "https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V"
-        }
-      ],
-      "duration_ms": 264346,
-      "name": "Repin My God",
-      "url": "https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs"
     },
     {
       "added_at": null,
@@ -879,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
       },
       "artists": [
         {
@@ -888,9 +848,49 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 255848,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
+      "duration_ms": 265089,
+      "name": "Always Win (Live)",
+      "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Anthony Brown",
+          "url": "https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb"
+        }
+      ],
+      "duration_ms": 425334,
+      "name": "All Yours (feat. Anthony Brown)",
+      "url": "https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Canton Jones",
+          "url": "https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V"
+        }
+      ],
+      "duration_ms": 264346,
+      "name": "Repin My God",
+      "url": "https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs"
     },
     {
       "added_at": null,
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 335816,
+      "name": "Making A Way (feat. Adia)",
+      "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HEART OF MINE (DELUXE)",
         "url": "https://open.spotify.com/album/4qapKMn9FqBtBVCnRo4tV6"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 169912,
       "name": "AMAZING - REMIX",
       "url": "https://open.spotify.com/track/56URSnHWXyLZvgThlyWSOF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 335816,
-      "name": "Making A Way (feat. Adia)",
-      "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SORRY, I CHANGED (AGAIN)",
-        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 196988,
-      "name": "Paid It All",
-      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glory Song",
         "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 307960,
       "name": "All Glory",
       "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SORRY, I CHANGED (AGAIN)",
+        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 196988,
+      "name": "Paid It All",
+      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
     },
     {
       "added_at": null,

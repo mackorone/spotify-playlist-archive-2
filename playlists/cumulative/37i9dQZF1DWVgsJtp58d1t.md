@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:4Y9QKWtGSeL2NnVokmWAvz">Johnny Venus</a>
 
-6,490 songs - 13 day 17 hr 21 min
+6,491 songs - 13 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2596,6 +2596,7 @@
 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 | 2022-06-17 | 2022-07-10 |
 | [Honey Bun](https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Honey Bun](https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7) | 2:14 | 2023-03-31 | 2023-04-22 |
 | [HONEYBUTTER](https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [LVRS PARADISE \(SIDE B\)](https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G) | 3:46 | 2026-07-31 | 2026-08-28 |
+| [HONEYMOON NIGHT](https://open.spotify.com/track/5qlaVYDcab5jX9CXTZQW32) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [HONEYMOON NIGHT](https://open.spotify.com/album/3fUva1Oq4K38WJKDA6RbNl) | 3:18 | 2026-10-09 |  |
 | [Honeysuckle Neckbone](https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Honeysuckle Neckbone](https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12) | 3:20 | 2023-03-17 | 2023-04-01 |
 | [Honor Roll \(feat\. Kraff Gad\)](https://open.spotify.com/track/2nOXbX3xbgDSwmun51UDN4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Forever Reign](https://open.spotify.com/album/7sml8FbT4paFbIelC2WdGr) | 3:10 | 2026-09-30 |  |
 | [Honour \(feat\. Baby Rose\)](https://open.spotify.com/track/6hVfkxD7h8aQtmSgmPlMM5) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Honour \(feat\. Baby Rose\)](https://open.spotify.com/album/4wuPuMG4g7JHwhTopjBPwG) | 4:11 | 2026-05-01 | 2026-05-09 |

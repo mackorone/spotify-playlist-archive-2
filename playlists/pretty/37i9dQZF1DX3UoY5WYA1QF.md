@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,909 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,938 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 23 | [Caminar Contigo](https://open.spotify.com/track/0sAalDce9Sub2EFICiJON8) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:14 |
 | 24 | [La Seven](https://open.spotify.com/track/0H7ECz8veQKTVvi0fctPgs) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:16 |
 | 25 | [Traficante De Besos](https://open.spotify.com/track/2D47X243vXSEXSZ6V5w2OZ) | [La Propiedad De Durango](https://open.spotify.com/artist/6jnzdimCBMx3HvxkvfZxAz) | [Chiquitita](https://open.spotify.com/album/6qzheblXiT9ib7UoMqnuaD) | 2:35 |
-| 26 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
-| 27 | [Carrera a Muerte](https://open.spotify.com/track/5Sn7H60c3q068ywPNMeTWX) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 4:03 |
+| 26 | [Carrera a Muerte](https://open.spotify.com/track/5Sn7H60c3q068ywPNMeTWX) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 4:03 |
+| 27 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
 | 28 | [Escándalo Social](https://open.spotify.com/track/0AYYjkTEMtPFLrQ7YrzcWC) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:19 |
 | 29 | [Bandida](https://open.spotify.com/track/4Yf3iauY3ZGTaWlJibNVFG) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:35 |
 | 30 | [Con La Duda \(with Joan Sebastian\) \- Live Version](https://open.spotify.com/track/5EGVCUlZ4ympyqdQVm6ttR) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Thalia En Primera Fila](https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR) | 3:16 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 59 | [Aunque Me Duela El Alma](https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 3:02 |
 | 60 | [Puede Que Sí](https://open.spotify.com/track/61j37qu0Yn1bXFynsFYXnC) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:10 |
 | 61 | [Quiereme](https://open.spotify.com/track/33viYM3K3VAhasx8OPRtUZ) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:24 |
-| 62 | [](https://open.spotify.com/track/4xznW7HGSngMmCrIeBPgmT) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 0:00 |
+| 62 | [](https://open.spotify.com/track/7DV8csJMyGQ1jR0g3CzIfP) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 0:00 |
 | 63 | [Medios Hermanos](https://open.spotify.com/track/64ipivlugGKqBdGRFbQmpm) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 3:32 |
 | 64 | [Contando Penas](https://open.spotify.com/track/7a37gfqE5ax5abZdPOiwAe) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:44 |
 | 65 | [Mil Navajas](https://open.spotify.com/track/0P6Vil1uRcn6uNfwCm3C5m) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:00 |
 | 66 | [No Me Beses](https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Me Beses](https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic) | 2:54 |
-| 67 | [](https://open.spotify.com/track/7DV8csJMyGQ1jR0g3CzIfP) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 0:00 |
+| 67 | [](https://open.spotify.com/track/4xznW7HGSngMmCrIeBPgmT) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 0:00 |
 | 68 | [Mi Propio Final](https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:41 |
 | 69 | [Amor Limosnero](https://open.spotify.com/track/4QaBFS1O4AvlWrqzaYdz4S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 4:00 |
 | 70 | [En Un Hilo](https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:42 |

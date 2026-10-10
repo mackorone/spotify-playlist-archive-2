@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,356 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,550 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 15 | [Better With You](https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [KIMI](https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4) | [Better With You](https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO) | 3:31 |
 | 16 | [Domino \- Space 92 Remix](https://open.spotify.com/track/2sksm6zC7U7fRmAGSQICiF) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Domino \(Space 92 Remix\)](https://open.spotify.com/album/3RVpReOX57xE9g6OdqaXtF) | 3:52 |
 | 17 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
-| 18 | [Sonne Geht Auf](https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Sonne Geht Auf](https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR) | 2:06 |
-| 19 | [Staub](https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [CATHARSIS](https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd) | 3:25 |
+| 18 | [Staub](https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [CATHARSIS](https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd) | 3:25 |
+| 19 | [Sonne Geht Auf](https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Sonne Geht Auf](https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR) | 2:06 |
 | 20 | [Hooked on the Bassline](https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Hooked on the Bassline](https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv) | 3:17 |
 | 21 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
 | 22 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Testo Skin Part 1](https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Harmony](https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi) | 2:49 |
 | 50 | [Energy](https://open.spotify.com/track/3nT21TJ7LMNnQSfNirrWhT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Ali James](https://open.spotify.com/artist/7dNoRVDPUpw2TTM1pQVGyE) | [Energy](https://open.spotify.com/album/7xR5qRPSosdcuXjqm5TCHj) | 4:33 |
 
-Snapshot ID: `AAAAAIZbBb2aBqj05M8bbAZYlDRs50zy`
+Snapshot ID: `AAAAAB9yrdf/yxo/b6/vACiBmcKLbp4y`

@@ -4,7 +4,7 @@
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 10 min
+110 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [To June This Morning](https://open.spotify.com/track/5j7uJrdZv5JjxSPhDeqPSp) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Johnny Cash: Forever Words Expanded](https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp) | 2:04 | 2024-03-09 | 2024-07-24 |
 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-28 |  |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-09 | 2024-03-29 |
-| [Uncertain, TX \(feat\. Willie Nelson\)](https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:33 | 2026-06-17 |  |
+| [Uncertain, TX \(feat\. Intocable\) \- Spanish Version](https://open.spotify.com/track/3CF6hmINIcPUh0wfxN0ft3) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Uncertain, TX \(feat\. Intocable\) \[Spanish Version\]](https://open.spotify.com/album/7rWbojvauIqKj6PHESW6YB) | 3:33 | 2026-10-10 |  |
+| [Uncertain, TX \(feat\. Willie Nelson\)](https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:33 | 2026-06-17 | 2026-10-10 |
 | [Velvet Elvis](https://open.spotify.com/track/65krgqLiZqW12PZAUQ9l2x) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 2:34 | 2024-05-11 | 2024-11-25 |
 | [waves \(feat\. Kacey Musgraves\) \- Remix](https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:06 | 2024-03-09 | 2026-10-05 |
 | [what doesn’t kill me](https://open.spotify.com/track/7zb8Mm1BjMbS6vM76ktyvQ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:17 | 2024-05-12 | 2024-05-15 |

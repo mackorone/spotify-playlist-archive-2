@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,277 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,285 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 9 | [SEEK](https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [SEEK](https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp) | 2:41 |
 | 10 | [AT&T](https://open.spotify.com/track/4Q5sAFJ9qstk1i8bCWesA6) | [Liquid Mike](https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN) | [Hell Is An Airport](https://open.spotify.com/album/7kDCEqBpm37Arcx9jcfjOJ) | 2:18 |
 | 11 | [I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 3:23 |
-| 12 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
+| 12 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 |
 | 13 | [William](https://open.spotify.com/track/2shtEEiR2LwVUrQ1ynCZs5) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [William](https://open.spotify.com/album/32yIzq2D8D4tFbe7AxIH2a) | 2:18 |
-| 14 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 |
+| 14 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
 | 15 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
 | 16 | [Drugs Callin](https://open.spotify.com/track/1WnvTJMxPIoXT7PV9mdNHk) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Perfect Storm](https://open.spotify.com/album/4StaOoKvc1slai3SMaOhCZ) | 2:36 |
 | 17 | [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 |
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 21 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 22 | [How To Bip](https://open.spotify.com/track/1nriEvBZcTxN212SbHrfq2) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc) | [How To Bip](https://open.spotify.com/album/0NKTZbwoJNJAe3qaIQoHy7) | 1:53 |
 | 23 | [Em Không Cần](https://open.spotify.com/track/3M8XPtbFW7xWyz2JmuDcce) | [Hannie](https://open.spotify.com/artist/7tRkypqswDC2uWg9g9H0Vs) | [Em Không Cần](https://open.spotify.com/album/4b319VI4xcHsxbXZVQmRgy) | 4:10 |
-| 24 | [My World](https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [My World](https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh) | 2:37 |
+| 24 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
 | 25 | [Creature Skin](https://open.spotify.com/track/3uuewLm16NAXIWWu1yy9jq) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Map // Creature Skin](https://open.spotify.com/album/5QbJqqzsFQV2B7JW8ZHwHr) | 3:10 |
-| 26 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
+| 26 | [My World](https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [My World](https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh) | 2:37 |
 | 27 | [Pa q me escribes?](https://open.spotify.com/track/59UT3zWpFwROD3DmsIIZz7) | [Vreno Yg](https://open.spotify.com/artist/6kEIWEdO0AXB40OKkgjfMj) | [Pa q me escribes?](https://open.spotify.com/album/4tvRbe0cAMnn0rm4tUoofk) | 2:00 |
 | 28 | [想當你永遠的星辰](https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [想當你永遠的星辰](https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI) | 3:31 |
 | 29 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
-| 30 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
-| 31 | [Easy Does It](https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Memory Lane](https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk) | 3:04 |
+| 30 | [Easy Does It](https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Memory Lane](https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk) | 3:04 |
+| 31 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
 | 32 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 |
 | 33 | [BRIGHT](https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [BRIGHT](https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P) | 3:49 |
 | 34 | [idk](https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [idk](https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK) | 2:53 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 40 | [Woman Lake](https://open.spotify.com/track/13jIYWdJqaXqON3URRS6Q3) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:44 |
 | 41 | [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 |
 | 42 | [You Don't Know](https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [You Don't Know](https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA) | 2:56 |
-| 43 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 |
-| 44 | [Racing Mount Pleasant](https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:15 |
+| 43 | [Racing Mount Pleasant](https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:15 |
+| 44 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 |
 | 45 | [You Could Hate Me](https://open.spotify.com/track/4FW012Xh3vSGRmw4rpGLAR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 4:11 |
 | 46 | [Perfect](https://open.spotify.com/track/1ZE95YrQTRP8zqMNWhySjP) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Perfect](https://open.spotify.com/album/5m1g4NScg6USxohPQIYpz2) | 3:25 |
 | 47 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |

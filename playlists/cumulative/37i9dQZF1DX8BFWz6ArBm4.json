@@ -2353,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "I Kathimerinotita",
+        "url": "https://open.spotify.com/album/3xgCqkGMLDwuaXJDTRWGD3"
+      },
+      "artists": [
+        {
+          "name": "Giannis Ploutarhos",
+          "url": "https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206017,
+      "name": "I Kathimerinotita",
+      "url": "https://open.spotify.com/track/1e43svDgOsrN0IoXn09Fzx"
+    },
+    {
+      "album": {
         "name": "Agapo Simeni",
         "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
       },
@@ -3774,7 +3792,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 198444,
       "name": "Nero - Live Edition",
       "url": "https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds"
@@ -4414,7 +4432,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 228835,
       "name": "Perifanos Aetos",
       "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
@@ -6654,7 +6672,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 226987,
       "name": "Xereis Pollous?",
       "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"

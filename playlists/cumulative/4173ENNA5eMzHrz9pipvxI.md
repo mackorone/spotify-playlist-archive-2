@@ -2,7 +2,7 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta and Jast
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Zenar &amp; Nick Jam
 
 2,086 songs - 4 day 4 hr 26 min
 

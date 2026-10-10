@@ -4,7 +4,7 @@
 
 > New music from Lost Frequencies, L2B, Adèle Castillon, Bryan Mg and more...
 
-12,163 songs - 26 day 11 hr 46 min
+12,165 songs - 26 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7649,6 +7649,7 @@
 | [Oh Ma Jolie](https://open.spotify.com/track/7u7wn0MqPlSaBV0hSyfF9K) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Oh Ma Jolie](https://open.spotify.com/album/5TpDCjJt83Oibx4RzeUZx3) | 2:15 | 2026-04-09 | 2026-04-17 |
 | [Oh Madeleine](https://open.spotify.com/track/6CvWrgB9HSzuFebUO0A120) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [L'embardée](https://open.spotify.com/album/1iyoSvM9bBIocj3am1DT50) | 2:15 | 2026-04-23 | 2026-05-01 |
 | [Oh Mother](https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [The TwoCity Chorus](https://open.spotify.com/artist/03G8tzT77pojVBafVhOm3n) | [Oh Mother](https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om) | 3:32 | 2026-07-23 | 2026-07-31 |
+| [Oh My \(\#SaveSoil\)](https://open.spotify.com/track/49uZxYCiKkF6rEDz1mztQC) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX), [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0) | [Oh My \(\#SaveSoil\)](https://open.spotify.com/album/5VCO3v7958v34OQSbt19yy) | 3:43 | 2026-10-08 |  |
 | [Oh My God!](https://open.spotify.com/track/75vYTe8ZVGXSBP2lf6464G) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Oh My God!](https://open.spotify.com/album/6gXekwtfJOL3UeP7poBJSs) | 2:51 | 2026-07-23 | 2026-07-31 |
 | [Oh My Lord](https://open.spotify.com/track/0KdIvpscCOvSG7FmmR4Clg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Oh My Lord](https://open.spotify.com/album/5n1f5e0bY7vt51HW63NOAg) | 2:22 | 2025-06-06 | 2025-06-13 |
 | [Oh My Love](https://open.spotify.com/track/0ZdAnLaTWKtZHYtnQWztwa) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations](https://open.spotify.com/album/68sSQ6wu7ZxCAXC1iHjnZe) | 2:57 | 2024-04-26 | 2024-05-03 |
@@ -11372,6 +11373,7 @@
 | [Vrijheid](https://open.spotify.com/track/0ipGoIR14pdAXIL3oW4fOR) | [WIM](https://open.spotify.com/artist/1uaxMtVqqBxUr3wt8wcUky), [Samoerai](https://open.spotify.com/artist/2acTiAeq44pdrghY6wT6m8), [Toma Beats](https://open.spotify.com/artist/53nbN19i6xpB92POL1DKXZ) | [Vrijheid](https://open.spotify.com/album/0IYo1Gtle9bfZjLiNvN5n9) | 4:16 | 2025-03-27 | 2025-04-04 |
 | [vriller](https://open.spotify.com/track/0fhr4CjEHL2TgEaQ2Ggc1J) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [vriller](https://open.spotify.com/album/3OQ1MvLSUdYTSK7GsBUw0T) | 2:04 | 2025-09-11 | 2025-09-20 |
 | [Vrouw Van Een Ander](https://open.spotify.com/track/1uNuz0i6gc5a1SAR9irTjB) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Vrouw Van Een Ander](https://open.spotify.com/album/5K5UFXmqPqhj6B2xhDHLdi) | 3:13 | 2026-04-23 | 2026-05-01 |
+| [Vuelve](https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Vuelve](https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76) | 4:50 | 2026-10-08 |  |
 | [Vulnerability](https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Vulnerability](https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj) | 3:13 | 2026-09-24 | 2026-10-02 |
 | [Vultures](https://open.spotify.com/track/1KM8ubbYZ0eMah7iNtln5h) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Vultures](https://open.spotify.com/album/1lY3VMxRN0ynscHixscIN2) | 3:14 | 2026-09-03 | 2026-09-11 |
 | [Vurige Tranen](https://open.spotify.com/track/0UkjcAw89i9xCPvi8QfuJ0) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM), [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u) | [Vurige Tranen](https://open.spotify.com/album/6MrwfLkuoI20j5hgCeVIyo) | 2:57 | 2026-01-23 | 2026-01-30 |

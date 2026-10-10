@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAD+mzRWXgzANb0L+8Kdyn6r",
+  "snapshot_id": "asbdAAAAAAB5NKIDeoZydZ5qKHEUUT+H",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lord You Are My Song",
-        "url": "https://open.spotify.com/album/7uvmYf2SgOokDnGyxF6moX"
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
       },
       "artists": [
         {
-          "name": "Charity Gayle",
-          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
-        },
-        {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        },
-        {
-          "name": "Kaden Slay",
-          "url": "https://open.spotify.com/artist/5dH8GEZ4cLQddQIWwAkL4o"
         }
       ],
-      "duration_ms": 223565,
-      "name": "My God Fights for Me (feat. Micah Tyler & Kaden Slay)",
-      "url": "https://open.spotify.com/track/5jZpp4a0E77ESDHtriYvlb"
+      "duration_ms": 242508,
+      "name": "Mighty to Love",
+      "url": "https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H"
     },
     {
       "added_at": null,
@@ -275,18 +267,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story I Tell",
-        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+        "name": "Lord You Are My Song",
+        "url": "https://open.spotify.com/album/7uvmYf2SgOokDnGyxF6moX"
       },
       "artists": [
         {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        },
+        {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Kaden Slay",
+          "url": "https://open.spotify.com/artist/5dH8GEZ4cLQddQIWwAkL4o"
         }
       ],
-      "duration_ms": 242508,
-      "name": "Mighty to Love",
-      "url": "https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H"
+      "duration_ms": 223565,
+      "name": "My God Fights for Me (feat. Micah Tyler & Kaden Slay)",
+      "url": "https://open.spotify.com/track/5jZpp4a0E77ESDHtriYvlb"
     },
     {
       "added_at": null,

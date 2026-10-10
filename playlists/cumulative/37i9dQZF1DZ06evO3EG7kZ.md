@@ -4,15 +4,16 @@
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 0 min
+50 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Message from the Fairies \(John Ryan's Polka\)](https://open.spotify.com/track/6Unkt22dubBEegSQAx9j58) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Steven Peach](https://open.spotify.com/artist/1CoomglQR4HaC0LdXJdFYE) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:35 | 2025-07-20 | 2025-08-22 |
 | [Alongside \(Instrumental\)](https://open.spotify.com/track/190HNzzsBBgH7BmCtbzv6f) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Daniel O’Brien](https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 2:24 | 2026-03-30 |  |
 | [Bin Night](https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:13 | 2025-07-20 | 2026-10-08 |
-| [Bluey Theme Tune \(Instrument Parade\)](https://open.spotify.com/track/3ABoIhUlvJZp2ZDlfeThP7) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:12 | 2025-07-20 |  |
+| [Bluey Theme Tune \(Instrument Parade\)](https://open.spotify.com/track/3ABoIhUlvJZp2ZDlfeThP7) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:12 | 2025-07-20 | 2026-10-10 |
 | [Bluey Theme Tune \(Orchestral Version\)](https://open.spotify.com/track/6FoBB5GTeTS27zWRkeq6EQ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey Theme Tune \(Orchestral Version\)](https://open.spotify.com/album/6gTiDDQTIsi9xm6aX6q1Ie) | 3:23 | 2026-01-30 | 2026-02-27 |
+| [Bluey Theme Tune \- Extended](https://open.spotify.com/track/5MEz0gsrxQ772PuDj0phQs) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 1:05 | 2026-10-10 |  |
 | [Bluey Titelsong \(German Version\)](https://open.spotify.com/track/5cYNCZOYRnKoNtsBlX1Xc1) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey Titelsong \(German Version\)](https://open.spotify.com/album/0oRfkNavThhul9SgWb9Jrj) | 1:04 | 2025-11-30 | 2026-04-05 |
 | [Burger Dog](https://open.spotify.com/track/0y40DWseDN3tM4Nv6CrzsY) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Daniel O’Brien](https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL) | [Burger Dog / Bluey Theme Tune \(Burger Dog Version\)](https://open.spotify.com/album/5xAcUALTmNGKjSUbopmkdi) | 2:48 | 2025-07-20 |  |
 | [Café](https://open.spotify.com/track/1DpssfN5yVYJ4NApETYbFU) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:16 | 2025-10-26 |  |

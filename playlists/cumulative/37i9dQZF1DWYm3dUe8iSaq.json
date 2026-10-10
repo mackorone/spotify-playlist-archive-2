@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 238986,
       "name": "Drug Dealer",
       "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 227299,
       "name": "I See You",
       "url": "https://open.spotify.com/track/0QFokWg1OVO1gAfRMJSdVl"
@@ -4758,6 +4758,24 @@
       "duration_ms": 166580,
       "name": "My Oh My",
       "url": "https://open.spotify.com/track/301vWc0Pq7JeQ6GvjpXnCm"
+    },
+    {
+      "album": {
+        "name": "My Vow",
+        "url": "https://open.spotify.com/album/1vgweN3IN3RMAQ7hCvcl5l"
+      },
+      "artists": [
+        {
+          "name": "Odhran Murphy",
+          "url": "https://open.spotify.com/artist/33flJthxKOZaTdeOZHJez0"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179763,
+      "name": "My Vow",
+      "url": "https://open.spotify.com/track/3uuqyt9nWfNbg0qLBdRgM3"
     },
     {
       "album": {
@@ -6305,6 +6323,24 @@
     },
     {
       "album": {
+        "name": "The Weight of the Woods (Extended Edition)",
+        "url": "https://open.spotify.com/album/1R4BIKP7Clt6YoB58FbozL"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344295,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P"
+    },
+    {
+      "album": {
         "name": "Stow Brae",
         "url": "https://open.spotify.com/album/0CbHExiIeCAhFeOVxH8D1T"
       },
@@ -7167,6 +7203,24 @@
     },
     {
       "album": {
+        "name": "Tie Your Laces",
+        "url": "https://open.spotify.com/album/48ovJhAJlfjgOysgEhWU6T"
+      },
+      "artists": [
+        {
+          "name": "OLORUNNS",
+          "url": "https://open.spotify.com/artist/5rM4tRVmdeMeUip9BxT9P6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Tie Your Laces",
+      "url": "https://open.spotify.com/track/6w5FfhPgSJotleH0rEWJxl"
+    },
+    {
+      "album": {
         "name": "til august",
         "url": "https://open.spotify.com/album/3EMZG4Y5HKssmMazBmNlXt"
       },
@@ -7276,7 +7330,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 255195,
       "name": "Times Square Jesus",
       "url": "https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc"
@@ -7558,7 +7612,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 236575,
       "name": "Untangling",
       "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
@@ -7742,6 +7796,24 @@
       "duration_ms": 188400,
       "name": "We Will Run",
       "url": "https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u"
+    },
+    {
+      "album": {
+        "name": "Wet Paint",
+        "url": "https://open.spotify.com/album/1B6xwU3FKEMfvaqAktjWyR"
+      },
+      "artists": [
+        {
+          "name": "Girl In The Year Above",
+          "url": "https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245643,
+      "name": "Wet Paint",
+      "url": "https://open.spotify.com/track/2zQlb1LG6RITfwi2xb73cS"
     },
     {
       "album": {

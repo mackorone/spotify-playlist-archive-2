@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 
 > This is System Of A Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,719 likes - 35 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,870 likes - 35 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 | 19 | [Lost In Hollywood](https://open.spotify.com/track/0GrHWVTDsaWcD4nrCGr7VE) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 5:20 |
 | 20 | [Chic 'N' Stu](https://open.spotify.com/track/11i33j50Gsr90pRoDJBrEA) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:23 |
 | 21 | [Prison Song](https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:21 |
-| 22 | [Holy Mountains](https://open.spotify.com/track/4mj2UMyJTBTaO7pffAK29j) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 5:28 |
+| 22 | [Spiders](https://open.spotify.com/track/70BFDZT6dZTsKKvAYmyyYv) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Bonus Pack\)](https://open.spotify.com/album/2u4DfcR6ga2xHaaXjkc8Vi) | 3:35 |
 | 23 | [Cigaro](https://open.spotify.com/track/47EqCQZG5v4o0WFMufGf5S) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 2:11 |
-| 24 | [Spiders](https://open.spotify.com/track/70BFDZT6dZTsKKvAYmyyYv) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Bonus Pack\)](https://open.spotify.com/album/2u4DfcR6ga2xHaaXjkc8Vi) | 3:35 |
+| 24 | [Holy Mountains](https://open.spotify.com/track/4mj2UMyJTBTaO7pffAK29j) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 5:28 |
 | 25 | [Fuck the System](https://open.spotify.com/track/5hjKYe3NOmWx2NVzVAeIGF) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:12 |
 | 26 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
 | 27 | [Suite\-Pee](https://open.spotify.com/track/2TbPJCaI9Ti1Qz4w8as5up) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe\)](https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb) | 2:31 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 | 34 | [Soil](https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe\)](https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb) | 3:25 |
 | 35 | [Know](https://open.spotify.com/track/3cuZytP8ujEBEiRtQfhsIQ) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG) | 2:56 |
 
-Snapshot ID: `asLogAAAAABgrwQG3mWvcSLYQR+g/jlo`
+Snapshot ID: `asbdAAAAAAD2rMh4lw1LvneX5dTySvwu`

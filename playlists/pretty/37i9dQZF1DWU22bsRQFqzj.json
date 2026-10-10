@@ -1,6 +1,6 @@
 {
   "description": "Sei nella tua running era e stai preparando a tua prossima mezza maratona \ud83c\udfc3\ud83c\udffb",
-  "num_followers": 138926,
+  "num_followers": 138955,
   "original_name": "Hit Per Correre",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
         "name": "Give It To Me (Full Vocal Mix)",
         "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 373626,
       "name": "Pursuit Of Happiness - Extended Steve Aoki Remix",
       "url": "https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Bon Bon",
-        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Bon Bon",
-      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "SATURATION III",
         "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 193154,
       "name": "BOOGIE",
       "url": "https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Bon Bon",
+        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Bon Bon",
+      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Head Down",
-        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "Head Down",
-      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "Unholy (feat. Kim Petras) [ACRAZE Remix]",
         "url": "https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg"
       },
@@ -1463,18 +1443,22 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Drop Your Spirit",
-        "url": "https://open.spotify.com/album/1qAZ2tljtGpX1OoXPWkwbI"
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 198959,
-      "name": "Drop Your Spirit",
-      "url": "https://open.spotify.com/track/5sTUO2Ss8xNJc3t5LbcUCf"
+      "duration_ms": 173888,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 174337,
       "name": "Murder On The Dancefloor - David Guetta Remix",
       "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Drop Your Spirit",
+        "url": "https://open.spotify.com/album/1qAZ2tljtGpX1OoXPWkwbI"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 198959,
+      "name": "Drop Your Spirit",
+      "url": "https://open.spotify.com/track/5sTUO2Ss8xNJc3t5LbcUCf"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 196241,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/5RELMV0mFHuC9IX6It5F3c"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "15 Again (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3XG5dH7LcDZlkOWmtvLzXB"
-      },
-      "artists": [
-        {
-          "name": "Cassius",
-          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Toop Toop",
-      "url": "https://open.spotify.com/track/7cHhpJV9fC2AqgdiLvq1AO"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 283705,
       "name": "When A Fire Starts To Burn",
       "url": "https://open.spotify.com/track/47EMbBZPg4OBe6m1fijQzj"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "15 Again (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3XG5dH7LcDZlkOWmtvLzXB"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Toop Toop",
+      "url": "https://open.spotify.com/track/7cHhpJV9fC2AqgdiLvq1AO"
     },
     {
       "added_at": "2026-09-03 22:03:00",

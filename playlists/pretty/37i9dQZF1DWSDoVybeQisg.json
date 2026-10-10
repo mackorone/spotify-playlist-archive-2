@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1266132,
+  "num_followers": 1266148,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "The Madcap Laughs",
-        "url": "https://open.spotify.com/album/2sKUa8zDgmnn1pHzIou05r"
-      },
-      "artists": [
-        {
-          "name": "Syd Barrett",
-          "url": "https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R"
-        }
-      ],
-      "duration_ms": 302733,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/07QZXkXxtkjlm1GPxfH4gt"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Electric Music For The Mind And Body",
         "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 303000,
       "name": "Bass Strings",
       "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "The Madcap Laughs",
+        "url": "https://open.spotify.com/album/2sKUa8zDgmnn1pHzIou05r"
+      },
+      "artists": [
+        {
+          "name": "Syd Barrett",
+          "url": "https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R"
+        }
+      ],
+      "duration_ms": 302733,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/07QZXkXxtkjlm1GPxfH4gt"
     },
     {
       "added_at": "2024-07-12 17:17:21",

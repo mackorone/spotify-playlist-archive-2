@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,890 likes - 70 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,885 likes - 70 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 44 | [Só por Ti Jesus](https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA) | [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Minha História](https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c) | 3:56 |
 | 45 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |
 | 46 | [Santa Rita de Cássia](https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Santa Rita de Cássia](https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy) | 5:10 |
-| 47 | [Oração pela Paz](https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Oração pela Paz](https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1) | 3:41 |
-| 48 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
+| 47 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
+| 48 | [Oração pela Paz](https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Oração pela Paz](https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1) | 3:41 |
 | 49 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
 | 50 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |
 | 51 | [Romanos 12](https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x) | [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Romanos 12](https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh) | 4:48 |

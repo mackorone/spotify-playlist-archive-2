@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-886 songs - 3 day 5 hr 46 min
+887 songs - 3 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [Kelee Chineke](https://open.spotify.com/track/6ptnzaxcyKNHb33Uk6DYX8) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Kelee Chineke](https://open.spotify.com/album/7LigltsueKJziItb4AwZwx) | 5:32 | 2025-11-14 | 2026-09-26 |
 | [Keneya](https://open.spotify.com/track/7bvytgDbzEeUf2SuwNe5qs) | [Kennyice](https://open.spotify.com/artist/36fj0UBiN4y4kx2H98ofdO), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Keneya](https://open.spotify.com/album/2kPm7KcYImvvkqYoWPETLb) | 2:39 | 2024-11-22 | 2025-02-13 |
 | [Kind](https://open.spotify.com/track/2SLtt8zr8BMh1D2twQ4bcX) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Kind](https://open.spotify.com/album/6lJ9AWcHqRRW7SUTBfSZbZ) | 3:17 | 2023-09-15 | 2023-11-30 |
-| [King of Glory](https://open.spotify.com/track/0OhRz5NKEk9nGjzrSA6F6I) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [King of Glory](https://open.spotify.com/album/2bS4AU43AFQ9CK7XxUflbG) | 4:45 | 2026-08-21 |  |
+| [King of Glory](https://open.spotify.com/track/0OhRz5NKEk9nGjzrSA6F6I) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [King of Glory](https://open.spotify.com/album/2bS4AU43AFQ9CK7XxUflbG) | 4:45 | 2026-08-21 | 2026-10-10 |
 | [KINGS AND PRIESTS \- Live](https://open.spotify.com/track/3V5B57fJImvhzpWuzrVyKi) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Caleb David](https://open.spotify.com/artist/7C2oEPctxS2j9pXPODStKz) | [KINGS AND PRIESTS \(Live\)](https://open.spotify.com/album/4VVIg3orQVZqpGEg3imi6C) | 11:36 | 2025-05-23 | 2025-07-31 |
 | [Know Jesus, Know Road \- Live](https://open.spotify.com/track/7ifOnQtBchzbIuA9DN8YLJ) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Know Jesus, Know Road \(Live\)](https://open.spotify.com/album/2DvdNBFHbRq772GynhQJj8) | 4:12 | 2025-05-16 | 2025-06-20 |
 | [Ko Le Baje II](https://open.spotify.com/track/20z25vY1zdO2VqOSYsRpoU) | [John Cohen](https://open.spotify.com/artist/2FtfAArq8K0ErCdNtzwK4T), [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Ko Le Baje II](https://open.spotify.com/album/3tolOQi728XdH4e4SZVK6R) | 3:52 | 2026-05-01 | 2026-05-22 |
@@ -811,6 +811,7 @@
 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 | 2024-06-21 | 2024-07-12 |
 | [We Bow Down](https://open.spotify.com/track/0IkGmBCu8f9m9K4gOtGQRI) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [We Bow Down](https://open.spotify.com/album/1DpLBJNOvTDBSFosEhYAKA) | 9:00 | 2024-03-30 | 2025-06-06 |
 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 | 2024-10-11 |  |
+| [We Need Your Mercy](https://open.spotify.com/track/0QWo72wWFYr189PTEDJnrp) | [Elijah Daniel Omo Majemu](https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG) | [We Need Your Mercy](https://open.spotify.com/album/7BByt0OjKBaTIPbNv7U1G7) | 5:08 | 2026-10-02 |  |
 | [We Outside](https://open.spotify.com/track/3uGMVZsnoP9UZliJ2kDwtf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [We Outside](https://open.spotify.com/album/4RmmwLWxkxihUhOFlFJQ0h) | 2:47 | 2025-08-01 | 2026-08-07 |
 | [We Pray](https://open.spotify.com/track/782yvAXARMNYwa6UYUNT0F) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Ruthie Namaganda](https://open.spotify.com/artist/2SPhsCFGKEMyOHfk5FWBc4), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [We Pray \(See a Miracle\)](https://open.spotify.com/album/3cmnxmwsuSQDPsWpvEsBoS) | 3:15 | 2026-02-13 | 2026-08-18 |
 | [We Prevail](https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [We Prevail](https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g) | 3:44 | 2024-03-01 | 2025-06-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,091 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,108 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 34 | [Druck Auf Anschlag](https://open.spotify.com/track/0nQGMWTpErR32JMDUBELOr) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [Yellow Pvnk](https://open.spotify.com/artist/5ciuRoDCYAgWi8a5go0GC8) | [Druck Auf Anschlag](https://open.spotify.com/album/5Wmmb4sCkMyG8yDPFv9lfJ) | 2:08 |
 | 35 | [RECKLESS](https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [RECKLESS](https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE) | 2:40 |
 | 36 | [Bring The Hammer Down](https://open.spotify.com/track/2zjlS4UQAgZaxtJCDB79Mt) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Bring The Hammer Down](https://open.spotify.com/album/6dvA9ZepS0SFnVXkKi9E1F) | 2:20 |
-| 37 | [RPG](https://open.spotify.com/track/1TBk77NylAFvQbkmKBYePi) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl) | [RPG](https://open.spotify.com/album/5XKRd978I6t3pb0U82hTuV) | 2:56 |
-| 38 | [The FOMO](https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38), [Kili](https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV), [Complex](https://open.spotify.com/artist/3vJ219v2BFfCtlwd8snjK5) | [The FOMO](https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx) | 3:28 |
+| 37 | [The FOMO](https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38), [Kili](https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV), [Complex](https://open.spotify.com/artist/3vJ219v2BFfCtlwd8snjK5) | [The FOMO](https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx) | 3:28 |
+| 38 | [RPG](https://open.spotify.com/track/1TBk77NylAFvQbkmKBYePi) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl) | [RPG](https://open.spotify.com/album/5XKRd978I6t3pb0U82hTuV) | 2:56 |
 | 39 | [Tequila In My Eyes](https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Tequila In My Eyes](https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ) | 3:03 |
 | 40 | [Goodnight](https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Goodnight](https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx) | 3:25 |
 | 41 | [BEAST INSIDE ME](https://open.spotify.com/track/2Zvcq8xex05KRqhDbmZtZr) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [BEAST INSIDE ME](https://open.spotify.com/album/3rdnLNBB2fsRfinDMEUxlQ) | 3:04 |

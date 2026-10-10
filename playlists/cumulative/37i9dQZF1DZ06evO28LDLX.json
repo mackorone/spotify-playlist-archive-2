@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 93000,
       "name": "13 Pieces for Piano, Op. 76: No. 2, Etude in A Minor",
       "url": "https://open.spotify.com/track/4FWGEOjwmFTauuGNxNtBEc"
@@ -1643,6 +1643,28 @@
     },
     {
       "album": {
+        "name": "\"'The Classical Collection: Bach, Mozart & more\"",
+        "url": "https://open.spotify.com/album/4dIeaV5P4EzKNsGop7bqTd"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96440,
+      "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
+      "url": "https://open.spotify.com/track/0LhPltgg0pit78eBdaGczS"
+    },
+    {
+      "album": {
         "name": "\"Classical on Canvas: Bach, Mozart & more\"",
         "url": "https://open.spotify.com/album/33qHHZO9pNtcIErDQ1uzWi"
       },
@@ -1680,7 +1702,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 96440,
       "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
       "url": "https://open.spotify.com/track/6oiyLMRmCPi3LkvenStWmj"
@@ -1852,6 +1874,28 @@
       "duration_ms": 69346,
       "name": "Piano Sonata in E Minor, D. 769a",
       "url": "https://open.spotify.com/track/1n5wCoGlmhrtuHfmazR2f6"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Sonata in A Major, D. 664; in E Minor, D. 769a; in G Major, D. 894",
+        "url": "https://open.spotify.com/album/4OWWKtFGwUfc3lAKsf4bdG"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463120,
+      "name": "Piano Sonata No. 13 in A Major, D. 664: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/0BteJrDRD5QkJkQmNy08q1"
     },
     {
       "album": {
@@ -2166,7 +2210,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Th\u00e8me vari\u00e9 in A Major, Op. 89",
       "url": "https://open.spotify.com/track/1YysVcXZ4mVOSJ5g7eaBzD"
@@ -2232,7 +2276,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 111000,
       "name": "Travel Diaries, Paris: II. Flower-Sellers (Place de la Madeleine)",
       "url": "https://open.spotify.com/track/1guIbU9DeRkt3odYU05veU"

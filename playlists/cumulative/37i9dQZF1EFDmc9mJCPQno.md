@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-164 songs - 8 hr 35 min
+165 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [True Colours \(feat\. Self Esteem\)](https://open.spotify.com/track/0djt8pab0Si1xC7B2ddfF4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 3:51 | 2024-09-14 |  |
 | [True Colours \(feat\. Self Esteem\)](https://open.spotify.com/track/6RtoIjw4BISeXqbju6b64E) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Believe Me Now?](https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP) | 3:51 | 2024-07-03 | 2024-09-15 |
 | [Undiscovered](https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Satisfied Girl](https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP) | 3:31 | 2026-06-07 |  |
+| [Visions Again](https://open.spotify.com/track/3HqTbczmmX5sl7x3SN10Vk) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:42 | 2026-10-09 |  |
 | [Warning Sign](https://open.spotify.com/track/2nBGVekdWfakwlKWYzc5mI) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Future Dust](https://open.spotify.com/album/7sRAdyIMXnDLFiC6sVo2ke) | 5:02 | 2024-07-03 |  |
 | [Waschesalon](https://open.spotify.com/track/1GnOfC2wWHGiui18OH0Mig) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:12 | 2026-09-27 |  |
 | [Waterfalls \- Acoustic](https://open.spotify.com/track/5b9LcMNcXLRgwTj48qOVDe) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New York EP](https://open.spotify.com/album/5aTEz6cDre6slbcPuF9keI) | 4:02 | 2025-01-09 | 2025-04-12 |

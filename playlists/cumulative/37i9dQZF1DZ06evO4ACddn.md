@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 32 min
+75 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [River, River](https://open.spotify.com/track/76lBOu42eQNLIKLTnpN4MX) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:32 | 2025-05-14 | 2025-11-02 |
 | [Science](https://open.spotify.com/track/4Tlaoj0PUbheFVOfyifb1N) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:23 | 2025-12-11 | 2026-01-15 |
 | [Something I Said](https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 4:12 | 2022-09-21 |  |
-| [Strange Like I](https://open.spotify.com/track/63CSuwy6bDo1Q8sODWuoBq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:04 | 2023-12-13 |  |
+| [Strange Like I](https://open.spotify.com/track/0xdXfcvcx12RJ54EQDxorp) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/1hy5WzaH6D17BwcMm1sdET) | 3:04 | 2026-10-10 |  |
+| [Strange Like I](https://open.spotify.com/track/63CSuwy6bDo1Q8sODWuoBq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:04 | 2023-12-13 | 2026-10-10 |
 | [Tank Wave](https://open.spotify.com/track/4zy4pghyBzcwv3G5hsYLIg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 4:20 | 2022-09-16 | 2022-10-30 |
 | [The Bear](https://open.spotify.com/track/6Gfp9AttKVfsfMu5zkodUS) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Victim / The Bear](https://open.spotify.com/album/1pmdl1AYc4lglNYjqexpDA) | 4:08 | 2023-09-21 | 2023-12-14 |
 | [The Bear](https://open.spotify.com/track/6jME1L8fnNn5uTTMSk1nph) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:08 | 2026-02-11 | 2026-03-09 |

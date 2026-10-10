@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2857232,
+  "num_followers": 2857714,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAC1k8UsEbvhO6igxvNor8sB",
+  "snapshot_id": "asbdAAAAAAANmC5ofoICiiWMi9s/qO00",
   "tracks": [
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4"
+      "duration_ms": 290625,
+      "name": "Music To Watch Boys To",
+      "url": "https://open.spotify.com/track/34rRFl0bz9PocxWuO2ca5J"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 290625,
-      "name": "Music To Watch Boys To",
-      "url": "https://open.spotify.com/track/34rRFl0bz9PocxWuO2ca5J"
+      "duration_ms": 214573,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 203080,
-      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
-      "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Banisters",
         "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
       },
@@ -763,22 +747,6 @@
       "duration_ms": 241426,
       "name": "Living Legend",
       "url": "https://open.spotify.com/track/6pZ9Nj3vzj1RW4ZkR9GcQ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 257573,
-      "name": "High By The Beach",
-      "url": "https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y"
     },
     {
       "added_at": null,
@@ -799,6 +767,38 @@
       "duration_ms": 307540,
       "name": "Tomorrow Never Came (feat. Sean Ono Lennon)",
       "url": "https://open.spotify.com/track/6VZwnDUMkAZs36g6v9MVQX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 257573,
+      "name": "High By The Beach",
+      "url": "https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 203080,
+      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+      "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 204233,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
+      "duration_ms": 238718,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX"
     }
   ],
   "unique_name": "This Is Lana Del Rey",

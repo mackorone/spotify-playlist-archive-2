@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Bhediya
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,828 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,873 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 38 | [Das Haasil Sau Baaki \- Acapella \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/2sdksmVqytLp1aUf8dm4X4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arjun Chandy](https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Das Haasil Sau Baaki \- Acapella \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/5DyDPjmYBREB3XfG8mqQjG) | 3:12 |
 | 39 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |
 | 40 | [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 |
-| 41 | [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 |
+| 41 | [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 |
 | 42 | [Baari Baari \- Acoustic](https://open.spotify.com/track/3NNPhuQMTSGtwqlJs8vJfi) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [John Paul](https://open.spotify.com/artist/7yNLJplNQVIAOTRGCr2bJ0), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Baari Baari \(Acoustic\)](https://open.spotify.com/album/3InN9kuspoLp2LpgzEL5ai) | 2:36 |
 | 43 | [Maula Mere](https://open.spotify.com/track/7ss3vPgVJ4TmIjdVdmjnvT) | [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw) | [Quiet Rooms](https://open.spotify.com/album/5pIoir24ghxEf4LPSFJPlj) | 4:08 |
 | 44 | [Sab Sahi](https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sab Sahi](https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE) | 3:24 |

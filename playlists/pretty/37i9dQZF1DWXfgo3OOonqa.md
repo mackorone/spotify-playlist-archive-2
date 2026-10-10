@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,239 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,217 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cariño](https://open.spotify.com/track/6AHIJQKWEZnKmNCcUeOv7n) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 2:01 |
 | 2 | [Idileey](https://open.spotify.com/track/1LubZfwcC7CCQIbx11IQVU) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue \(Deluxe\)](https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF) | 3:04 |
-| 3 | [STÖRD](https://open.spotify.com/track/5vYeSHa82PMlSSfl3Q8vho) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [STÖRD](https://open.spotify.com/album/4ajmLdPaFRoi2XArBa1WPr) | 2:44 |
+| 3 | [STÖRD](https://open.spotify.com/track/5vYeSHa82PMlSSfl3Q8vho) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [STÖRD](https://open.spotify.com/album/4ajmLdPaFRoi2XArBa1WPr) | 2:16 |
 | 4 | [Kejsar](https://open.spotify.com/track/3wXhaFhjQWn5ZNMUE5hpQH) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Kejsar](https://open.spotify.com/album/3dZzqosnyYll4mlHLBhXPC) | 2:22 |
 | 5 | [Två Somrar Bort](https://open.spotify.com/track/1hvtRnTfZgu9i5JMKCnQRM) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 1:58 |
 | 6 | [G](https://open.spotify.com/track/19rLs0037vQJ2ipGsFI2RO) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [G](https://open.spotify.com/album/5SYEDVpW8S76Z1IWkkUBcg) | 2:22 |

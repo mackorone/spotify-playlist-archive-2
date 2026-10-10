@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/3BplHVb9o00Yro8rvfBWim"
+      },
+      "artists": [
+        {
+          "name": "Lauren Presley",
+          "url": "https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164791,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/4zrQH961tUHDOG2KLxaLYv"
+    },
+    {
+      "album": {
         "name": "Ain't It Fun?",
         "url": "https://open.spotify.com/album/4TXm8iB8yhyJdd5zedbxdK"
       },

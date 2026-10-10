@@ -2,7 +2,7 @@
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> Brand new music from Son & Water, Troye Sivan, Slayyyter, daine, Remi Wolf + more
+> Brand new music from Son & Water, Troye Sivan, Slayyyter, Gunna, daine, Remi Wolf + more
 
 14,982 songs - 34 day 1 hr 9 min
 

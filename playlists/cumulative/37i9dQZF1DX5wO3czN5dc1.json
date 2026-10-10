@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Sykes",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Caiiro",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -444,7 +444,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 347829,
       "name": "Angel Whispers",
       "url": "https://open.spotify.com/track/0Gm3BnC8qh8DqoowbdazrL"
@@ -4295,6 +4295,28 @@
     },
     {
       "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/1IrBQwlHJFx67eZEmbONVa"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224812,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/5UIBtSYRtX3JmBzqSbd9G1"
+    },
+    {
+      "album": {
         "name": "Magic In The Air",
         "url": "https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu"
       },
@@ -4748,6 +4770,32 @@
       "duration_ms": 359618,
       "name": "Molo",
       "url": "https://open.spotify.com/track/528qE2NWaL6Yl3l4iMl2Dk"
+    },
+    {
+      "album": {
+        "name": "morwa masingilo",
+        "url": "https://open.spotify.com/album/1xpYyTTIkMs0yKge7aBDVl"
+      },
+      "artists": [
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Nelia",
+          "url": "https://open.spotify.com/artist/3pmmeqlokckkZrNrbksnBt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "morwa masingilo",
+      "url": "https://open.spotify.com/track/4q6vQCmpu7y47ChMkgJNl9"
     },
     {
       "album": {
@@ -8494,7 +8542,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 393559,
       "name": "Yebo Nkosi (feat. JNR SA)",
       "url": "https://open.spotify.com/track/4BplkwZzrmyaC3eXAwjPNx"

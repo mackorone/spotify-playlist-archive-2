@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Drive Twice",
+        "url": "https://open.spotify.com/album/0NKXIFQZPUYLAkvfMZh57i"
+      },
+      "artists": [
+        {
+          "name": "C. James",
+          "url": "https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152365,
+      "name": "Drive Twice",
+      "url": "https://open.spotify.com/track/4bWvzorgYJRzCYu2Xu2Pfe"
+    },
+    {
+      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -2487,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "SORRY, SARAH",
+        "url": "https://open.spotify.com/album/2aCoeXAnmQAXyqEOFpHJfE"
+      },
+      "artists": [
+        {
+          "name": "verygently",
+          "url": "https://open.spotify.com/artist/6G76uCD9fXivb3G4OnnVG8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210018,
+      "name": "I DON'T WANNA DIE",
+      "url": "https://open.spotify.com/track/33cLNmnocBt4AZ1yPeZOxG"
+    },
+    {
+      "album": {
         "name": "Nightjar and the Nightingale",
         "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
       },
@@ -3006,7 +3042,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 216380,
       "name": "Like a Child",
       "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
@@ -4406,7 +4442,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 214820,
       "name": "Soap",
       "url": "https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q"

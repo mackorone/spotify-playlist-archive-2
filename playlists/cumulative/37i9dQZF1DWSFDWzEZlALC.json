@@ -8979,6 +8979,24 @@
     },
     {
       "album": {
+        "name": "SHARAKTAH",
+        "url": "https://open.spotify.com/album/71c0iGzjoQCNUvrraR0aS8"
+      },
+      "artists": [
+        {
+          "name": "Sharaktah",
+          "url": "https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211113,
+      "name": "EINMAL",
+      "url": "https://open.spotify.com/track/60FmAiDXA1pTM4w7lfvu8U"
+    },
+    {
+      "album": {
         "name": "einmal um die Welt mit dir",
         "url": "https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB"
       },
@@ -31695,42 +31713,6 @@
     },
     {
       "album": {
-        "name": "Fragmente",
-        "url": "https://open.spotify.com/album/34saAcCkHEJ3A25JpDxgRm"
-      },
-      "artists": [
-        {
-          "name": "laela",
-          "url": "https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF"
-        }
-      ],
-      "date_added": "2026-10-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/0H5hye7VY1TE4XnvzwUf68"
-    },
-    {
-      "album": {
-        "name": "SHARAKTAH",
-        "url": "https://open.spotify.com/album/71c0iGzjoQCNUvrraR0aS8"
-      },
-      "artists": [
-        {
-          "name": "Sharaktah",
-          "url": "https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU"
-        }
-      ],
-      "date_added": "2026-10-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/60FmAiDXA1pTM4w7lfvu8U"
-    },
-    {
-      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -34828,6 +34810,24 @@
       "duration_ms": 199026,
       "name": "Wellenl\u00e4ngen",
       "url": "https://open.spotify.com/track/6R2xBCoJhimKect9AxexdZ"
+    },
+    {
+      "album": {
+        "name": "Fragmente",
+        "url": "https://open.spotify.com/album/34saAcCkHEJ3A25JpDxgRm"
+      },
+      "artists": [
+        {
+          "name": "laela",
+          "url": "https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138333,
+      "name": "weltohnefarben",
+      "url": "https://open.spotify.com/track/0H5hye7VY1TE4XnvzwUf68"
     },
     {
       "album": {

@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 260784,
       "name": "Prisoner of Love",
       "url": "https://open.spotify.com/track/0DF1Vus2YUnfnLdsqekXBZ"
@@ -2014,6 +2014,24 @@
       "duration_ms": 159720,
       "name": "Why Kiki?",
       "url": "https://open.spotify.com/track/4PXmBGMfDzosaAVrS1Mjio"
+    },
+    {
+      "album": {
+        "name": "Paniolo Country",
+        "url": "https://open.spotify.com/album/3AB83M15snobqDnCogE1bw"
+      },
+      "artists": [
+        {
+          "name": "Josh Tatofi",
+          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194309,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0L3pn4vsMs60TpjsJBqR3r"
     },
     {
       "album": {

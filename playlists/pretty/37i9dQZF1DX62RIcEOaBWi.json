@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 570084,
+  "num_followers": 570026,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "El lado oscuro",
+      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "El lado oscuro",
-      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "COWBOYS DE LA A3",
         "url": "https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 263942,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "LA GUARACHA (Oh Oh Oh)",
-        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "LA GUARACHA (Oh Oh Oh)",
-      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Si Me Dices Que S\u00ed",
         "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
       },
@@ -1131,18 +1111,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+        "name": "Por un Pendejo no se llora",
+        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
+      "duration_ms": 151146,
+      "name": "Por un Pendejo no se llora",
+      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1163,6 +1143,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Lo mas lejos a tu lado",
         "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
       },
@@ -1175,38 +1171,6 @@
       "duration_ms": 267760,
       "name": "La casa por el tejado",
       "url": "https://open.spotify.com/track/428cFrawSqeLoyooQjAW9d"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Por un Pendejo no se llora",
-        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 151146,
-      "name": "Por un Pendejo no se llora",
-      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Tengo",
-        "url": "https://open.spotify.com/album/36p7j71sxtF196iOkkAeM0"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 166231,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/71zDsjmPR5XyMcjsl9JpWV"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1227,6 +1191,42 @@
       "duration_ms": 181237,
       "name": "CAMBIAR\u00c9",
       "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "LA GUARACHA (Oh Oh Oh)",
+        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "LA GUARACHA (Oh Oh Oh)",
+      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/36p7j71sxtF196iOkkAeM0"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 166231,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/71zDsjmPR5XyMcjsl9JpWV"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Me Despido",
+        "url": "https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 169701,
+      "name": "Me Despido",
+      "url": "https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Punto de Partida",
         "url": "https://open.spotify.com/album/24wPEsqagLXPRA7wCEkyJb"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 211294,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Me Despido",
-        "url": "https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 169701,
-      "name": "Me Despido",
-      "url": "https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Hoy no me siento bien",
         "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
       },
@@ -1779,6 +1763,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Estrella De Mar",
         "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
       },
@@ -1791,26 +1791,6 @@
       "duration_ms": 268706,
       "name": "Sin ti no soy nada",
       "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "mariposas",
-        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
-      },
-      "artists": [
-        {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "mariposas",
-      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1831,6 +1811,26 @@
       "duration_ms": 275848,
       "name": "\u00bfY si lo hacemos? (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/1VamVCJejLZh212lNhygVw"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "mariposas",
+        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "mariposas",
+      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Canciones para el tiempo y la distancia",
         "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 278333,
       "name": "Turnedo",
       "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Amiga Date Cuenta",
+        "url": "https://open.spotify.com/album/33N7FXx1MlXodnPkCoNDNn"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 142516,
+      "name": "Amiga Date Cuenta",
+      "url": "https://open.spotify.com/track/4ydC91kRqtm2ZVVcC77cWz"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Amiga Date Cuenta",
-        "url": "https://open.spotify.com/album/33N7FXx1MlXodnPkCoNDNn"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Amiga Date Cuenta",
-      "url": "https://open.spotify.com/track/4ydC91kRqtm2ZVVcC77cWz"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Baila Morena - New Spanish Version",
-      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Amigos (con Maria Becerra)",
         "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
       },
@@ -2251,18 +2235,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Bailar El Viento",
-        "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
       "artists": [
         {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
         }
       ],
-      "duration_ms": 229720,
-      "name": "Uno X Uno",
-      "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
+      "duration_ms": 246373,
+      "name": "Baila Morena - New Spanish Version",
+      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2283,6 +2267,22 @@
       "duration_ms": 167299,
       "name": "Algo M\u00e1s",
       "url": "https://open.spotify.com/track/1qgBT2VZV4i1ms23Vu9Khd"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Bailar El Viento",
+        "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Uno X Uno",
+      "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "L\u00e1rgate",
-        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 180074,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "A Puerta Cerrada",
         "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 224133,
       "name": "Rojitas las orejas",
       "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "L\u00e1rgate",
+        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 180074,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Luz V",
-        "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
-      },
-      "artists": [
-        {
-          "name": "Luz Casal",
-          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "No me importa nada",
-      "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "INFANCIA MAL CALIBRADA",
         "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 278145,
       "name": "VICTORIA",
       "url": "https://open.spotify.com/track/39F3LM8cs7Wsj48deuXEzq"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Luz V",
+        "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
+      },
+      "artists": [
+        {
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "No me importa nada",
+      "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2643,6 +2643,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Si T\u00fa Te Vas",
+        "url": "https://open.spotify.com/album/1jxKltNf8xeT9pb1NmX8CV"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 193437,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/3qh9SrScSV7wEzIccdECR8"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -2659,22 +2675,6 @@
       "duration_ms": 202129,
       "name": "Desde cero (con Melendi)",
       "url": "https://open.spotify.com/track/3RfmZepJErldBC4JXut6L9"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Si T\u00fa Te Vas",
-        "url": "https://open.spotify.com/album/1jxKltNf8xeT9pb1NmX8CV"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 193437,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/3qh9SrScSV7wEzIccdECR8"
     },
     {
       "added_at": "2026-09-17 16:51:37",

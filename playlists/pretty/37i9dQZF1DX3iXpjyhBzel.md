@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Valesca Mayssa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,716 likes - 100 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,736 likes - 100 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 13 | [Um Novo Dia \- Ao Vivo](https://open.spotify.com/track/3kpWSH8AGR9MkGinPA4XDJ) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67), [Melk Villar](https://open.spotify.com/artist/2aE9MDAGfmKUGmTTKWjKCn), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V) | [Um Novo Dia \(Ao Vivo\)](https://open.spotify.com/album/2PgHfrGTk7oyN7XscjbFrE) | 6:00 |
 | 14 | [Reacende a Chama \- Ao Vivo](https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Reacende a Chama \(Ao Vivo\)](https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc) | 7:57 |
 | 15 | [Santo Pra Sempre \- Ao Vivo no Mineirão](https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo Pra Sempre \(Ao Vivo no Mineirão\)](https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i) | 6:49 |
-| 16 | [IMPERFEITO](https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk) | [Seven Plus](https://open.spotify.com/artist/1xjoyxyvGl817VTGtwMPz9), [Rayssa Andreoli](https://open.spotify.com/artist/0kG8pKY5RTBapy54Id9nd9) | [IMPERFEITO](https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo) | 5:14 |
+| 16 | [Eu Te Entrego o Meu Dia](https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Te Entrego o Meu Dia](https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p) | 3:19 |
 | 17 | [Lindo Momento \- Ao Vivo](https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Lindo Momento](https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV) | 14:53 |
-| 18 | [Eu Te Entrego o Meu Dia](https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Te Entrego o Meu Dia](https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p) | 3:19 |
+| 18 | [IMPERFEITO](https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk) | [Seven Plus](https://open.spotify.com/artist/1xjoyxyvGl817VTGtwMPz9), [Rayssa Andreoli](https://open.spotify.com/artist/0kG8pKY5RTBapy54Id9nd9) | [IMPERFEITO](https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo) | 5:14 |
 | 19 | [Um Coração Que Te Agrada](https://open.spotify.com/track/0qOH9IoqPrmwiwxDGGXtFt) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Um Coração Que Te Agrada](https://open.spotify.com/album/0ZO3ulPEgaFZ9MHKQ9AK2c) | 4:56 |
 | 20 | [Em Todas As Áreas \(Milagres\)](https://open.spotify.com/track/5oqnLlkjFuXzz1xe6Aj8dT) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Em Todas As Áreas \(Milagres\)](https://open.spotify.com/album/3WzDtNKZhRwa5MsIxypB6y) | 4:57 |
 | 21 | [Salva\-me, ó Deus](https://open.spotify.com/track/3GvweYWA2GjqPXdXbh31ot) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67) | [Salva\-me, ó Deus](https://open.spotify.com/album/4rwgrmh2mqhsHCJNBBkNDa) | 5:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Estrela da Manhã \- Ao Vivo](https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Estrela da Manhã \(Ao Vivo\)](https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD) | 3:28 |
 | 100 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC) | 5:50 |
 
-Snapshot ID: `AAAAAPsBIcJJxEEpd0x9W6Pt9vscLCEX`
+Snapshot ID: `AAAAAJiW4S1ivkLNqhKzmxX8vcMJE6KO`

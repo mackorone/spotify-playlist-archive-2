@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-647 songs - 1 day 12 hr 19 min
+648 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 | 2021-10-15 | 2024-03-20 |
 | [Cold Outside \(feat\. DBN Gogo & Blxckie\)](https://open.spotify.com/track/4c0H3e3Mnd9qqnDfPhDN6k) | [Venom](https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2), [Shishiliza](https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [LOVE IS PAIN](https://open.spotify.com/album/1inejscdMY2EBbrGS1UeR2) | 6:38 | 2022-09-01 | 2022-09-10 |
 | [Come My Way](https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Come My Way](https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV) | 3:28 | 2021-10-28 | 2023-04-28 |
+| [Comfort](https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Comfort](https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc) | 2:26 | 2026-10-09 |  |
 | [Commander](https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Commander](https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3) | 2:38 | 2022-02-17 | 2022-11-19 |
 | [Cool Me Down \(feat\. Wizkid\)](https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cool Me Down \(feat\. Wizkid\)](https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM) | 3:28 | 2020-09-30 | 2022-06-24 |
 | [Coupé](https://open.spotify.com/track/7hyoqFb1SsoPW96pcOndPM) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [Coupé](https://open.spotify.com/album/4qGZxpr6XVmHsoM3WKgDR0) | 2:48 | 2026-04-24 | 2026-05-01 |
@@ -430,7 +431,7 @@
 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 | 2021-12-09 | 2022-06-17 |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-03-03 | 2024-03-20 |
 | [No\. 1 Fan](https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d) | 1:57 | 2026-04-17 | 2026-04-24 |
-| [Nostalgia](https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Nostalgia](https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz) | 2:56 | 2026-04-29 |  |
+| [Nostalgia](https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Nostalgia](https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz) | 2:56 | 2026-04-29 | 2026-10-10 |
 | [Not My Fault](https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Not My Fault](https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs) | 3:08 | 2023-06-09 | 2023-07-29 |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-22 | 2022-10-14 |
 | [NSV](https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [NSV](https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB) | 3:08 | 2023-05-11 | 2024-06-26 |

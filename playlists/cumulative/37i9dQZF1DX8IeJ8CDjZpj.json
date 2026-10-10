@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "boot cut, extra heavy el almid\u00f3n y el sombrero que no falte. La Energ\u00eda Norte\u00f1a en portada.",
+  "description": "boot cut, extra heavy el almid\u00f3n y el sombrero que no falte. Kacey Musgraves, Intocable en portada.",
   "name": "Starched",
   "tracks": [
     {
@@ -3271,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/2pZrnwVw54Wb9riZYIyImW"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/409VRwJqpiTUgWLGJiNjUv"
+    },
+    {
+      "album": {
         "name": "CD9",
         "url": "https://open.spotify.com/album/23ZoFAeexQP2AQ2wGEBKO5"
       },
@@ -5822,6 +5840,28 @@
       "duration_ms": 182600,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
+    },
+    {
+      "album": {
+        "name": "Mala Suerte",
+        "url": "https://open.spotify.com/album/3V7N1qDR5PrRlFtlg8rqLJ"
+      },
+      "artists": [
+        {
+          "name": "Brian Ortega",
+          "url": "https://open.spotify.com/artist/7nnT7yQeFZL54yTnBnMv4b"
+        },
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194450,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/66YmtFy5ad1YdK0oinnZJU"
     },
     {
       "album": {
@@ -9005,6 +9045,28 @@
     },
     {
       "album": {
+        "name": "Snakeskin Boots",
+        "url": "https://open.spotify.com/album/68Ar3PfqOqMbP22heuOeE7"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Snakeskin Boots (with Ella Langley)",
+      "url": "https://open.spotify.com/track/48bYALVRHqShR62hOLsXmi"
+    },
+    {
+      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -10426,6 +10488,28 @@
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
+    },
+    {
+      "album": {
+        "name": "Uncertain, TX (feat. Intocable) [Spanish Version]",
+        "url": "https://open.spotify.com/album/7rWbojvauIqKj6PHESW6YB"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213382,
+      "name": "Uncertain, TX (feat. Intocable) - Spanish Version",
+      "url": "https://open.spotify.com/track/3CF6hmINIcPUh0wfxN0ft3"
     },
     {
       "album": {

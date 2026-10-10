@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22513,
+  "num_followers": 22516,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAACENA/1PA63wq/85hdXQF6H",
+  "snapshot_id": "asbdAAAAAACvk+qSBqxv6e+fAYq0kqgu",
   "tracks": [
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 446826,
-      "name": "Diaraby - with Ry Cooder",
-      "url": "https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo"
+      "duration_ms": 420800,
+      "name": "Gomni - with Ry Cooder",
+      "url": "https://open.spotify.com/track/1Rh5IPkuSCl17yPs9UiTtt"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 197106,
-      "name": "Samba Geladio",
-      "url": "https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z"
+      "duration_ms": 291226,
+      "name": "Warb\u00e9",
+      "url": "https://open.spotify.com/track/4fb7CtOq5pb3gNcC6ebfQF"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 420800,
-      "name": "Gomni - with Ry Cooder",
-      "url": "https://open.spotify.com/track/1Rh5IPkuSCl17yPs9UiTtt"
+      "duration_ms": 446826,
+      "name": "Diaraby - with Ry Cooder",
+      "url": "https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 291226,
-      "name": "Warb\u00e9",
-      "url": "https://open.spotify.com/track/4fb7CtOq5pb3gNcC6ebfQF"
+      "duration_ms": 197106,
+      "name": "Samba Geladio",
+      "url": "https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 289120,
-      "name": "Beto",
-      "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
+      "duration_ms": 384866,
+      "name": "Goydiotodam",
+      "url": "https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Mali",
-        "url": "https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r"
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 308866,
-      "name": "Soko",
-      "url": "https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH"
+      "duration_ms": 289120,
+      "name": "Beto",
+      "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
+        "name": "Radio Mali",
+        "url": "https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 384866,
-      "name": "Goydiotodam",
-      "url": "https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc"
+      "duration_ms": 308866,
+      "name": "Soko",
+      "url": "https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH"
     }
   ],
   "unique_name": "This Is Ali Farka Tour\u00e9",

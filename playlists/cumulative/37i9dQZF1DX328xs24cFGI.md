@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-547 songs - 1 day 10 hr 38 min
+548 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [ラブ・デラックス](https://open.spotify.com/track/6lkxg4kEkX4REWbZPll1fD) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [ラブ・デラックス](https://open.spotify.com/album/1MhBOqeA2IXMyhIL1UokPr) | 3:04 | 2025-02-25 | 2025-03-05 |
 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 | 2024-01-30 | 2024-10-09 |
 | [ラヴィング](https://open.spotify.com/track/59xh3LFvPldQlJbLVnFC6K) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [5gの平和](https://open.spotify.com/album/5cQlQCLp87osNFGo5sxBnh) | 3:44 | 2026-01-13 | 2026-04-01 |
-| [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-09-02 |  |
+| [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-09-02 | 2026-10-10 |
 | [リッツパーティー](https://open.spotify.com/track/1FDrCBlNru2OrVXePw1BFQ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [スーパースター](https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI) | 3:16 | 2023-03-16 | 2024-01-24 |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-02-09 | 2024-04-19 |
 | [ルックアットミー](https://open.spotify.com/track/2T41XBXEgCEPJGsiVSUqtP) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [ルックアットミー](https://open.spotify.com/album/1tzE86plPYE5MSi87kLWLD) | 2:24 | 2025-09-09 | 2025-10-22 |
@@ -415,6 +415,7 @@
 | [喩えて](https://open.spotify.com/track/4wOzWeDrLHU6oQN56eyGzw) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [BOARDING PASS](https://open.spotify.com/album/1TrYkmcrIdOOse6hgeHufv) | 3:06 | 2026-01-13 | 2026-02-04 |
 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 | 2024-01-10 | 2024-02-28 |
 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 | 2024-04-16 | 2025-02-28 |
+| [夕星\-ゆうづつ\-](https://open.spotify.com/track/4zFFLQwm2zzQg8bcg9dald) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [夕星\-ゆうづつ\-](https://open.spotify.com/album/3MxAQkUqMhSm1C2aLRSlnQ) | 4:37 | 2026-10-06 |  |
 | [夢中](https://open.spotify.com/track/7KNY1e9x1MDvpBAmIAN3tz) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [夢中](https://open.spotify.com/album/78HCbdRoQpbPL0eZaTk4mS) | 3:09 | 2025-04-29 |  |
 | [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:11 | 2024-04-16 |  |
 | [大切](https://open.spotify.com/track/3tEIBk3DSaw6USVpQzgIKH) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [大切](https://open.spotify.com/album/43IQqwqfhf1xBiFBfA6klF) | 4:59 | 2023-02-09 | 2023-03-18 |

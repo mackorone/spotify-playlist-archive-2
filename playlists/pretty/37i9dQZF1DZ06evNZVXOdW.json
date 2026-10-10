@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9758,
+  "num_followers": 9757,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAKKwJx1rseD0f6fBZAeMFe",
+  "snapshot_id": "asbdAAAAAABj5JDvHXG2KjU9y/L/0R6A",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bait (Music From & Inspired by the Original Series)",
-        "url": "https://open.spotify.com/album/03ZfkSBjBDBWbI5b7yjtzX"
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
       },
       "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 209317,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/0cBwTa35pfbzD3vo5W519M"
+      "duration_ms": 497293,
+      "name": "Man Kunto Maula",
+      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
     },
     {
       "added_at": null,
@@ -318,31 +314,31 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
         }
       ],
-      "duration_ms": 406831,
-      "name": "Saaqi (feat. Vijay Iyer)",
-      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
+      "duration_ms": 307007,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+        "name": "Bait (Music From & Inspired by the Original Series)",
+        "url": "https://open.spotify.com/album/03ZfkSBjBDBWbI5b7yjtzX"
       },
       "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 497293,
-      "name": "Man Kunto Maula",
-      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
+      "duration_ms": 209317,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/0cBwTa35pfbzD3vo5W519M"
     },
     {
       "added_at": null,
@@ -394,11 +390,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
         }
       ],
-      "duration_ms": 307007,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
+      "duration_ms": 406831,
+      "name": "Saaqi (feat. Vijay Iyer)",
+      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
     },
     {
       "added_at": null,
@@ -526,11 +526,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 56597,
-      "name": "Seawall",
-      "url": "https://open.spotify.com/track/0bhwDHpQN2yqBgTxXxPfp4"
+      "duration_ms": 211248,
+      "name": "Abode",
+      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
     },
     {
       "added_at": null,
@@ -602,15 +606,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 211248,
-      "name": "Abode",
-      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
+      "duration_ms": 410467,
+      "name": "Rainy Streets",
+      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
     },
     {
       "added_at": null,
@@ -711,26 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "KARPEH",
-        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Kai Eckhardt",
-          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
         }
       ],
-      "duration_ms": 197474,
-      "name": "Glass Face",
-      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
+      "duration_ms": 1064071,
+      "name": "Island No. 3",
+      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
     },
     {
       "added_at": null,
@@ -772,25 +764,33 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 410467,
-      "name": "Rainy Streets",
-      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
+      "duration_ms": 56597,
+      "name": "Seawall",
+      "url": "https://open.spotify.com/track/0bhwDHpQN2yqBgTxXxPfp4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+        "name": "KARPEH",
+        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
       "artists": [
         {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Kai Eckhardt",
+          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
         }
       ],
-      "duration_ms": 1064071,
-      "name": "Island No. 3",
-      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
+      "duration_ms": 197474,
+      "name": "Glass Face",
+      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
     },
     {
       "added_at": null,

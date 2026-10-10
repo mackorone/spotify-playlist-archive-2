@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 198000,
       "name": "AVIATOR",
       "url": "https://open.spotify.com/track/1iKbeE6VoTG5570TudbE2k"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 276816,
       "name": "Barbender 8",
       "url": "https://open.spotify.com/track/0exAnaUjXraiJgvrvlUeh9"
@@ -4286,6 +4286,40 @@
       "duration_ms": 225351,
       "name": "Penzi La Bando",
       "url": "https://open.spotify.com/track/0SxZTwQeZ8v2o7Y6bH7KEX"
+    },
+    {
+      "album": {
+        "name": "Picha (Part 2)",
+        "url": "https://open.spotify.com/album/1u9RlwafXOl6PmCnvrqMqc"
+      },
+      "artists": [
+        {
+          "name": "Baddest 47",
+          "url": "https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ"
+        },
+        {
+          "name": "Moni Centrozone",
+          "url": "https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ"
+        },
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        },
+        {
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "10k Degreez",
+          "url": "https://open.spotify.com/artist/0hL9NKxYiZX01EWaLTWvDN"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294452,
+      "name": "Picha - Part 2",
+      "url": "https://open.spotify.com/track/4dkNf39igqPXbaLPpZESqd"
     },
     {
       "album": {

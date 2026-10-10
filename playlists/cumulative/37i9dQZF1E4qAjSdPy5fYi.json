@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With UrvTek, Learke, sixwing and more",
+  "description": "With UrvTek, sixwing, STYXVII and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 157935,
       "name": "2007",
       "url": "https://open.spotify.com/track/07cum2wxyGkgFFsbhD3t9L"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 159201,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7A9BxplkAzP1dChZJsHfoB"
@@ -1395,6 +1395,46 @@
     },
     {
       "album": {
+        "name": "THIS CAN'T BE GOOD FOR ME BUT I FEEL GREAT!!!!!!",
+        "url": "https://open.spotify.com/album/10izE4A4cAWATqtg454ac3"
+      },
+      "artists": [
+        {
+          "name": "astrid",
+          "url": "https://open.spotify.com/artist/5XnEaGhnWsAywwADYeeZi1"
+        },
+        {
+          "name": "Charloux",
+          "url": "https://open.spotify.com/artist/0Oxzki1eP9iAWyB43BPCgb"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175195,
+      "name": "catgirl anthem",
+      "url": "https://open.spotify.com/track/4AnrMX0CZot2CVBy6Gz8XX"
+    },
+    {
+      "album": {
+        "name": "CELLULAR",
+        "url": "https://open.spotify.com/album/2ur1AGw5HrpPBW7JFd7xON"
+      },
+      "artists": [
+        {
+          "name": "UrvTek",
+          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220988,
+      "name": "CELLULAR",
+      "url": "https://open.spotify.com/track/3TYt6xQTU3hCazzI8pUoEM"
+    },
+    {
+      "album": {
         "name": "BURNOUT",
         "url": "https://open.spotify.com/album/0i2YrxbwlJb3eUzvSVqSXI"
       },
@@ -1482,7 +1522,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 173000,
       "name": "Choker",
       "url": "https://open.spotify.com/track/51LrY0DllvahLhlbiqqaO1"
@@ -1634,7 +1674,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 165180,
       "name": "Crawling Thru Me (Breathing)",
       "url": "https://open.spotify.com/track/02Dx4qkCBWdhLePwAIU2mh"
@@ -1956,7 +1996,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 204403,
       "name": "DON'T CALL ME @ THE CLUB",
       "url": "https://open.spotify.com/track/2PXv2TL20SdUSZRiv2GhEU"
@@ -2010,7 +2050,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 101210,
       "name": "DRAIN PUPPY MAIL ME IMMEDIATELY",
       "url": "https://open.spotify.com/track/7eD7HWP4KdhTczwpw29YWJ"
@@ -2322,7 +2362,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 225069,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/1uXd50WJFeS1zg3GlQTXsv"
@@ -2710,7 +2750,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 123668,
       "name": "HA! DESERVED",
       "url": "https://open.spotify.com/track/3IP1TdI8S7JMvX8xQnDD2L"
@@ -2746,7 +2786,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 200986,
       "name": "Happy Girl - English Version",
       "url": "https://open.spotify.com/track/5oxB4Ut3wcHLOOnxasrY3z"
@@ -2880,7 +2920,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 163392,
       "name": "Hollywood Yeen",
       "url": "https://open.spotify.com/track/0V6tfonIgu4cExDWY78A6o"
@@ -4040,7 +4080,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "luv u FUREVR!!!",
       "url": "https://open.spotify.com/track/41VoSLujxqqwkKeZobMepl"
@@ -4294,7 +4334,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 119263,
       "name": "MISSED THE PUNCHLINE",
       "url": "https://open.spotify.com/track/1HbGRQ40XkiuquznuDQfNV"
@@ -4598,7 +4638,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 170403,
       "name": "narcissist",
       "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
@@ -5426,7 +5466,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 175301,
       "name": "Puppy-Eyed",
       "url": "https://open.spotify.com/track/1dpbhCJA92PlPEM1mgWKBh"
@@ -5524,7 +5564,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 160733,
       "name": "rainbowz x3!!!",
       "url": "https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1"
@@ -5632,7 +5672,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 108500,
       "name": "Remember when i was 14 that was so CRiNGE lol",
       "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
@@ -6396,7 +6436,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 193103,
       "name": "Tell me!!",
       "url": "https://open.spotify.com/track/4JqNAoZkRgZZrZPgmQe2PI"
@@ -7138,7 +7178,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 205125,
       "name": "www.PUPPYLUV.xoxo",
       "url": "https://open.spotify.com/track/1CnRrvxklPzRwC2oZhJhSZ"

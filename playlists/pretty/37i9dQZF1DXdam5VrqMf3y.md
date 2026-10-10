@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,633 likes - 93 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,624 likes - 93 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 2 | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn) | 2:14 |
 | 3 | [Last Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
 | 4 | [O Come All Ye Faithful \- Spotify Singles Holiday](https://open.spotify.com/track/6iO6ZLKaJF13fuF5HUFSEM) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [O Come All Ye Faithful \(Spotify Singles Holiday\)](https://open.spotify.com/album/6oBl2LRITtZjDTPBYCnuWK) | 3:05 |
-| 5 | [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
+| 5 | [Christmas Lights](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
 | 6 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
 | 7 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 8 | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb) | 2:35 |

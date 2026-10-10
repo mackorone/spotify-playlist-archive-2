@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,342 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,379 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 40 | [Drowning in the Sound](https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Drowning in the Sound](https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo) | 3:43 |
 | 41 | [Dead and Gone](https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:46 |
 | 42 | [Forsake Not the Dream](https://open.spotify.com/track/7wZ48cSDxvoofrFS9aG4l0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:20 |
-| 43 | [The Shadow Of The Abattoir](https://open.spotify.com/track/6PMrbTi4HbEpmf0B1o9APz) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 7:11 |
-| 44 | [Bleed Into Me](https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 3:48 |
+| 43 | [Bleed Into Me](https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 3:48 |
+| 44 | [The Shadow Of The Abattoir](https://open.spotify.com/track/6PMrbTi4HbEpmf0B1o9APz) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 7:11 |
 | 45 | [Shogun](https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 11:54 |
-| 46 | [Inception of the End](https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:48 |
-| 47 | [Six Walls](https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Struck Dead](https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ) | 7:18 |
+| 46 | [Six Walls](https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Struck Dead](https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ) | 7:18 |
+| 47 | [Inception of the End](https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:48 |
 | 48 | [Amongst The Shadows & The Stones](https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 5:40 |
-| 49 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 |
-| 50 | [Brave This Storm](https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
+| 49 | [Entrance of the Conflagration](https://open.spotify.com/track/2icKtrNwH2ugXzPu9DSwVD) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade](https://open.spotify.com/album/42MixogSAsobX5po649Y0j) | 4:35 |
+| 50 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 |
 
-Snapshot ID: `asLogAAAAAD26TQTW2uL5EQ4K8UG9q9Q`
+Snapshot ID: `asbdAAAAAABQl74nawu9F44kAwwtovHT`

@@ -8121,6 +8121,28 @@
     },
     {
       "album": {
+        "name": "Colombian Landscapes",
+        "url": "https://open.spotify.com/album/7I3zRLDboF5ZILrNA9rims"
+      },
+      "artists": [
+        {
+          "name": "Dub Idren",
+          "url": "https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed"
+        },
+        {
+          "name": "Zoonra",
+          "url": "https://open.spotify.com/artist/4QOkHLv4zUND1r3PC0TLVh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "Colombian Landscapes",
+      "url": "https://open.spotify.com/track/55xy6AmYZKo3aEF7xwol5g"
+    },
+    {
+      "album": {
         "name": "COLOR SPOTIFY",
         "url": "https://open.spotify.com/album/39Aop1tF4gQ97S8UoTu7LN"
       },
@@ -13389,6 +13411,28 @@
     },
     {
       "album": {
+        "name": "Colombian Landscapes",
+        "url": "https://open.spotify.com/album/7I3zRLDboF5ZILrNA9rims"
+      },
+      "artists": [
+        {
+          "name": "Dub Idren",
+          "url": "https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed"
+        },
+        {
+          "name": "Zoonra",
+          "url": "https://open.spotify.com/artist/4QOkHLv4zUND1r3PC0TLVh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Espiritual Dub",
+      "url": "https://open.spotify.com/track/4LSJQ9VtyMb2Io6JMDVDxN"
+    },
+    {
+      "album": {
         "name": "Estado Anab\u00f3lico en Vivo",
         "url": "https://open.spotify.com/album/7xZjengGR2VudfFMFxi9h3"
       },
@@ -14568,6 +14612,28 @@
       "duration_ms": 165883,
       "name": "First day of the month",
       "url": "https://open.spotify.com/track/4jd1pxuPftkrDIPAxn1if5"
+    },
+    {
+      "album": {
+        "name": "Colombian Landscapes",
+        "url": "https://open.spotify.com/album/7I3zRLDboF5ZILrNA9rims"
+      },
+      "artists": [
+        {
+          "name": "Dub Idren",
+          "url": "https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed"
+        },
+        {
+          "name": "Zoonra",
+          "url": "https://open.spotify.com/artist/4QOkHLv4zUND1r3PC0TLVh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "First Lights Of The Day",
+      "url": "https://open.spotify.com/track/6KlUajigsUhm6Lqfy06HfD"
     },
     {
       "album": {
@@ -24650,6 +24716,42 @@
       "duration_ms": 170076,
       "name": "Let the Good Times Roll",
       "url": "https://open.spotify.com/track/2iGl68oKx9khwIY7RzOM7b"
+    },
+    {
+      "album": {
+        "name": "Let The Sky",
+        "url": "https://open.spotify.com/album/1u1MDV1JJvZ1vsqnNctOmk"
+      },
+      "artists": [
+        {
+          "name": "Big Reunion",
+          "url": "https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180479,
+      "name": "Let The Sky - Extended Mix",
+      "url": "https://open.spotify.com/track/51lsgNmxCynPK7nn4sk9zp"
+    },
+    {
+      "album": {
+        "name": "Let The Sky",
+        "url": "https://open.spotify.com/album/1u1MDV1JJvZ1vsqnNctOmk"
+      },
+      "artists": [
+        {
+          "name": "Big Reunion",
+          "url": "https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133080,
+      "name": "Let The Sky - Radio Edit",
+      "url": "https://open.spotify.com/track/4K4Z2DcBrWrCeEXRYKGb8h"
     },
     {
       "album": {
@@ -41594,7 +41696,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 158440,
       "name": "Sweet Lullabies",
       "url": "https://open.spotify.com/track/4UR50vuN8TOdyXGguSUUgy"

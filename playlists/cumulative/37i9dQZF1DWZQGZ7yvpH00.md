@@ -4,7 +4,7 @@
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Compa Steve y Adriel Favela en portada.
 
-667 songs - 1 day 12 hr 42 min
+668 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [40 Dias](https://open.spotify.com/track/2UpgILI3v8QLSGdupDM1bS) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [40 Dias](https://open.spotify.com/album/423EClE1s2XAYUHr06UsHo) | 2:58 | 2026-03-20 |  |
 | [7 Vidas](https://open.spotify.com/track/3A812cOvQBpJSDmyxZBNSv) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [7 Vidas](https://open.spotify.com/album/5snLyN1KQSnDi8c7zXsdYo) | 3:23 | 2025-06-06 | 2025-08-17 |
 | [A Tu Manera](https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [A Tu Manera](https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl) | 4:21 | 2024-02-16 | 2024-06-08 |
-| [Acércate Mija](https://open.spotify.com/track/1V83qbHspRnEptdprl8ybq) | [Estilo Real](https://open.spotify.com/artist/4bsgB9vTxAXje3cGitRbFN) | [Lo Que Hiciste](https://open.spotify.com/album/2dXGFz2PIq0w1K1328RFgf) | 2:35 | 2026-01-23 |  |
+| [Acércate Mija](https://open.spotify.com/track/1V83qbHspRnEptdprl8ybq) | [Estilo Real](https://open.spotify.com/artist/4bsgB9vTxAXje3cGitRbFN) | [Lo Que Hiciste](https://open.spotify.com/album/2dXGFz2PIq0w1K1328RFgf) | 2:35 | 2026-01-23 | 2026-10-10 |
 | [Adams Family](https://open.spotify.com/track/5cBYDgW3PiHrVpIPrmRLAJ) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Temporadas](https://open.spotify.com/album/7Adg6dhyDSBRNlum5ghnDJ) | 3:28 | 2025-05-30 | 2025-09-06 |
 | [Adios Eterno](https://open.spotify.com/track/2iX8rlBlhVm7srjoFszWQd) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Pabblo](https://open.spotify.com/artist/352qR89UvJCYHGnCSUwMqw) | [Adios Eterno](https://open.spotify.com/album/1H1df7CB6hpVWSGa0XdNZ3) | 3:10 | 2026-07-24 |  |
 | [Adueñarme](https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Adueñarme](https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF) | 3:03 | 2025-01-10 | 2025-10-11 |
@@ -251,6 +251,7 @@
 | [La Nena](https://open.spotify.com/track/7fW2zhXDOfJi7WnIVRs8PU) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [La Nena](https://open.spotify.com/album/5mPcO23VRSKZbEtyLcl7Zs) | 3:39 | 2025-05-09 | 2025-06-21 |
 | [La Neta](https://open.spotify.com/track/6KLCHorfObfTNApurEUdAq) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [La Neta](https://open.spotify.com/album/1TQtXw5mgUBjaYx73KXSap) | 2:17 | 2022-03-18 | 2023-06-10 |
 | [La Niña Del Instagram](https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG) | [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [La Niña Del Instagram](https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr) | 3:48 | 2023-12-01 | 2024-01-16 |
+| [La Noche](https://open.spotify.com/track/2ZOdl0lyaeEztkcjXcTPjQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Mi Casi Todo](https://open.spotify.com/album/3RiDHLmz1pij7udfvyTiSc) | 2:53 | 2026-10-10 |  |
 | [La Noche en Que Nos Conocimos](https://open.spotify.com/track/302jNlIGeAvA7C47fZsSta) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [La Noche en Que Nos Conocimos](https://open.spotify.com/album/57Z15MO5SFE58fkwK76sBK) | 3:13 | 2025-09-05 | 2025-12-20 |
 | [La Realidad](https://open.spotify.com/track/4EIORNEyx8Ig5zK636Ghvl) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz) | [Noches Tristes](https://open.spotify.com/album/7ij7G7ihXtmrFey0lLllDa) | 4:21 | 2022-03-16 | 2023-02-18 |
 | [La Tarde](https://open.spotify.com/track/1CFBRxQEXXVYwNnMAYXUzh) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [La Tarde](https://open.spotify.com/album/7DNoBF6mIiJZxol7rpNJKa) | 3:36 | 2022-04-01 | 2022-06-04 |

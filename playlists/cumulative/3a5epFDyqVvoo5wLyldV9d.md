@@ -4,7 +4,7 @@
 
 > 
 
-926 songs - 3 day 0 hr 39 min
+928 songs - 3 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Amore..\. aiuto](https://open.spotify.com/track/4jirWiFuNz9HnzlFmFUpnD) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:41 | 2021-01-26 |  |
 | [Ana Damir El Motakallim](https://open.spotify.com/track/57XDB9Db9zCeYG6i0htCdE) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/0XHu0qs3IztGqkDl4jOUpM) | 11:42 | 2021-03-12 |  |
 | [Ana Qalbi Ehtar \- Habibi Funk 021](https://open.spotify.com/track/2Nv9GGqfvggAUo5UgcMHPZ) | [The Free Music](https://open.spotify.com/artist/0I2ig8kucQMSWCNr8rHuY9), [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ana Qalbi Ehtar \(Habibi Funk 021\)](https://open.spotify.com/album/4g7J4UG3vYNDBGmJCQER1P) | 4:45 | 2023-03-15 |  |
+| [Ana Saharauia](https://open.spotify.com/track/68DBgKFFvkBGgEWljgDrTS) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [El Aaiun Egdat](https://open.spotify.com/album/2Umu4VppwSC4dO9YS4NOsS) | 5:23 | 2026-10-09 |  |
 | [Anchi Bale Game](https://open.spotify.com/track/1ivUwqx8QXtteFsxAOF5X1) | [Admas](https://open.spotify.com/artist/6nX6QalHWzPMf7sBnaWNNU) | [Sons of Ethiopia](https://open.spotify.com/album/0YutPaipVH9qoIwMdI81QW) | 5:14 | 2022-01-04 |  |
 | [Anchin Kfu Ayinkash](https://open.spotify.com/track/2EqHdWyuLp2OnqznDt8X7n) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [Dahlak Band](https://open.spotify.com/artist/1JZiZjpnchiZ4mqs5nJggA) | [Wede Harer Guzo](https://open.spotify.com/album/6am5o1eJClWkXeh0Ex9HuL) | 5:24 | 2020-08-06 |  |
 | [Ancora, ancora, ancora \- Radio Edit \(Mark Ronson Remix\)](https://open.spotify.com/track/0uBZ6Yk2k7QFkTEKdkqrKB) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Ancora, ancora, ancora \(Mark Ronson Remix\)](https://open.spotify.com/album/42JwuEeoDbsMeHXZFEoic5) | 4:16 | 2025-09-28 |  |
@@ -453,6 +454,7 @@
 | [Lw Kan](https://open.spotify.com/track/2ov40EF0gnt0t72ilfoXqV) | [El Shab Arab](https://open.spotify.com/artist/7FNcfQiEZbb87WEya2TFat) | [Lw Kan](https://open.spotify.com/album/5CPPXbtpIwPVXXEuaqOmID) | 3:58 | 2025-02-18 |  |
 | [Ma Be Ham Nemiresim](https://open.spotify.com/track/0i27GYpTwao1Yyqn8pv3z3) | [Googoosh](https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY) | [Nimeh Gomshodeh Man](https://open.spotify.com/album/2mOkX0Ykj4hC36QfmUB9TC) | 5:36 | 2023-03-15 |  |
 | [Ma Huno](https://open.spotify.com/track/0E13ER49Am3UzRpahU5tk4) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Coming Home](https://open.spotify.com/album/4t2suyEBeShOXvvzQS4hcV) | 5:43 | 2023-03-26 |  |
+| [Ma Khalass](https://open.spotify.com/track/6DRQoLPPaiHl6yX8VLYaBb) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Aweeny Beek](https://open.spotify.com/album/1J4MjWC0FIb4v6HzghTBiP) | 4:00 | 2026-10-09 |  |
 | [Ma Tfel](https://open.spotify.com/track/0pKxrkFh8fxPKpkO29MYmi) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 4:25 | 2023-10-02 |  |
 | [Maajo](https://open.spotify.com/track/4P4dZe0rLvLIHZOCvRr67b) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9) | 9:06 | 2020-09-28 |  |
 | [Mabo](https://open.spotify.com/track/38Jjc1dM9ZLD9EVoQfgniK) | [Yothu Yindi & The Treaty Project](https://open.spotify.com/artist/7afTjrJigYQTtZdZhAMnhk), [Filthy Lucre](https://open.spotify.com/artist/1UOXfmAFqCMJ5LOouAnbtu) | [Mabo](https://open.spotify.com/album/7v8rg9PLjQ3bgbBgj6llmD) | 3:56 | 2019-09-07 |  |

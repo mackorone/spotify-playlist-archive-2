@@ -6248,7 +6248,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 219013,
       "name": "Arrriba en la Cordillera",
       "url": "https://open.spotify.com/track/5MFmzDIygDTiQuikj5T04Q"
@@ -11193,6 +11193,32 @@
     },
     {
       "album": {
+        "name": "Fisura",
+        "url": "https://open.spotify.com/album/5Xxpm9Qzsa9tqtra0kUUu8"
+      },
+      "artists": [
+        {
+          "name": "Knom",
+          "url": "https://open.spotify.com/artist/275lRnxEO4laSsk72p5YdU"
+        },
+        {
+          "name": "martinaestela",
+          "url": "https://open.spotify.com/artist/6b0xdLSiz2MiD0E7L1eMne"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Calamar Antiguo",
+      "url": "https://open.spotify.com/track/5IDmxAR83Hidglb7ZvustA"
+    },
+    {
+      "album": {
         "name": "Calaveritas",
         "url": "https://open.spotify.com/album/0q48qrRkKubSs1b1STixIq"
       },
@@ -11530,7 +11556,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 180500,
       "name": "Camale\u00f3nica",
       "url": "https://open.spotify.com/track/47SQSKZGE8msSOp1YYZX8m"
@@ -46251,6 +46277,24 @@
     },
     {
       "album": {
+        "name": "A man from the future",
+        "url": "https://open.spotify.com/album/1oooasjRIwxQRUUb0xNiN1"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458896,
+      "name": "Natural wonders every child should know",
+      "url": "https://open.spotify.com/track/0PX8AC95bySVK7BpU2XgG6"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
       },
@@ -72562,7 +72606,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 288542,
       "name": "Times Square - Live At The Wax Museum, Washington, D.C., October 2, 1983",
       "url": "https://open.spotify.com/track/1tX7zP4TaBI1lNPGGvbhE9"
@@ -73494,24 +73538,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/0Y8SvOwjZJRetOycgRAoSg"
-    },
-    {
-      "album": {
-        "name": "A man from the future",
-        "url": "https://open.spotify.com/album/1oooasjRIwxQRUUb0xNiN1"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "date_added": "2026-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/0PX8AC95bySVK7BpU2XgG6"
     },
     {
       "album": {
@@ -80658,7 +80684,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 158613,
       "name": "Ya No Somos Nosotros",
       "url": "https://open.spotify.com/track/4pSgPfUYp8gzntbrK0bbvV"
@@ -81688,7 +81714,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 272000,
       "name": "Zombie (Live from the Riviera Theatre) [feat. Billy Corgan]",
       "url": "https://open.spotify.com/track/1fXrcuQd60w8KhazWP9SPE"

@@ -256,7 +256,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 236894,
       "name": "Amor Factura",
       "url": "https://open.spotify.com/track/7iEZfHR0SE3DMSEAuHsvcq"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 293876,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/3UaxFZPbvtVPWt9HvVemtl"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 295850,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
@@ -640,6 +640,24 @@
       "duration_ms": 254487,
       "name": "Bound 2",
       "url": "https://open.spotify.com/track/48tvnzaGmUTeBPiP9qHTOB"
+    },
+    {
+      "album": {
+        "name": "Build a Bitch",
+        "url": "https://open.spotify.com/album/3CZklraqStkZKMUYcotdTE"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200042,
+      "name": "Build a Bitch",
+      "url": "https://open.spotify.com/track/6Ad8TVPYUn8hR19U76kDd2"
     },
     {
       "album": {
@@ -976,7 +994,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 220842,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/2Nzg1kIyi6zSytLKKZAfF9"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 239210,
       "name": "Happiness Is So Sad",
       "url": "https://open.spotify.com/track/157QjsVq8YdtPgJrd57PFp"
@@ -1546,6 +1564,28 @@
       "duration_ms": 212522,
       "name": "HEAVEN - Live from Governor's Ball 2026",
       "url": "https://open.spotify.com/track/0LCui1qlGQwOrmmUcoyD34"
+    },
+    {
+      "album": {
+        "name": "Heaven Baby",
+        "url": "https://open.spotify.com/album/4YRNQT0gRsTcB6SQJFO8wR"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164255,
+      "name": "Heaven Baby",
+      "url": "https://open.spotify.com/track/5bJrlsBb3AIdZlBKmva5F5"
     },
     {
       "album": {
@@ -1778,7 +1818,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fjpEALt0aBcM2rQZtlHHe"
@@ -1804,7 +1844,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
@@ -1858,7 +1898,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 236341,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/0OSxldm1PQetNTPpYDRLIe"
@@ -1932,7 +1972,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 202368,
       "name": "Jukiar",
       "url": "https://open.spotify.com/track/7bTQLtLEu6GGEAoqBUoedQ"
@@ -2298,7 +2338,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 207893,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6TnBStnQa0UE9ZIzI4Mk49"
@@ -2726,7 +2766,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 277368,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/1BMvI5DMWsAaGtrfNEFQBX"
@@ -3294,7 +3334,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 341290,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5nAEWzFqGYnlU3UWPPRl0e"
@@ -3656,7 +3696,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 227178,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/4iERsUBex9UtUY1osIk6TR"
@@ -3764,7 +3804,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 197376,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/4h8HRVsErpk4N1TxE0sApE"
@@ -3818,7 +3858,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 228437,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/708fgISg1S1a6GT2Q3gxIH"
@@ -3898,7 +3938,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 243050,
       "name": "VAMO A VEL",
       "url": "https://open.spotify.com/track/0125qUd6QK9Wq7qWtimhYH"

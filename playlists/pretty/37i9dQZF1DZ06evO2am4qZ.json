@@ -1,37 +1,13 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 5286,
+  "num_followers": 5284,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAKePX7giPX4TDwV43dn7sr",
+  "snapshot_id": "asbdAAAAAABso7MYuf5LO9CRK4u2ibHL",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIRDS & THE BEES",
-        "url": "https://open.spotify.com/album/1Y8XFnNJAA4mIGcBSFKSZO"
-      },
-      "artists": [
-        {
-          "name": "Adam Oh",
-          "url": "https://open.spotify.com/artist/2iwGr6BtRjn629qLx9w7FQ"
-        },
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 216939,
-      "name": "BIRDS & THE BEES",
-      "url": "https://open.spotify.com/track/6jRwsEpNh6WlEGnlShC82D"
-    },
     {
       "added_at": null,
       "album": {
@@ -195,6 +171,30 @@
       "duration_ms": 172248,
       "name": "Sl*t Him Out",
       "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIRDS & THE BEES",
+        "url": "https://open.spotify.com/album/1Y8XFnNJAA4mIGcBSFKSZO"
+      },
+      "artists": [
+        {
+          "name": "Adam Oh",
+          "url": "https://open.spotify.com/artist/2iwGr6BtRjn629qLx9w7FQ"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 216939,
+      "name": "BIRDS & THE BEES",
+      "url": "https://open.spotify.com/track/6jRwsEpNh6WlEGnlShC82D"
     },
     {
       "added_at": null,
@@ -487,6 +487,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Galopa",
+        "url": "https://open.spotify.com/album/5Q6aCmWjpvdtAoErKlsFD5"
+      },
+      "artists": [
+        {
+          "name": "Sam i",
+          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        }
+      ],
+      "duration_ms": 149710,
+      "name": "Galopa",
+      "url": "https://open.spotify.com/track/5aJ0RwVngFtfr6QI2siwms"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baby Tate Presents - Sexploration: The Musical",
         "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
       },
@@ -547,30 +571,6 @@
       "duration_ms": 162060,
       "name": "oOo that's my type",
       "url": "https://open.spotify.com/track/7qE6dk8O1vZ5ow52r3yXRz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Galopa",
-        "url": "https://open.spotify.com/album/5Q6aCmWjpvdtAoErKlsFD5"
-      },
-      "artists": [
-        {
-          "name": "Sam i",
-          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Mc Rd",
-          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
-        }
-      ],
-      "duration_ms": 149710,
-      "name": "Galopa",
-      "url": "https://open.spotify.com/track/5aJ0RwVngFtfr6QI2siwms"
     },
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 198482,
+      "name": "BLACK PEARLS (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boys Are From Mars (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
       },
@@ -703,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 198482,
-      "name": "BLACK PEARLS (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After The Rain: Deluxe",
         "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tate Tuesday, Vol. 1",
         "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 126400,
       "name": "Super Sick",
       "url": "https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eenie Meenie",
+        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 142175,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baby Tate Presents - Sexploration: The Musical",
         "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
       },
@@ -851,18 +867,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eenie Meenie",
-        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
       "artists": [
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 142175,
-      "name": "Eenie Meenie",
-      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
+      "duration_ms": 184976,
+      "name": "Ain\u2019t No Love (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sailor Moon (2.0)",
+        "url": "https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 197123,
+      "name": "Sailor Moon - 2.0",
+      "url": "https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA"
     },
     {
       "added_at": null,
@@ -914,15 +954,11 @@
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 184976,
-      "name": "Ain\u2019t No Love (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP"
+      "duration_ms": 196154,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv"
     },
     {
       "added_at": null,
@@ -955,42 +991,6 @@
       "duration_ms": 157575,
       "name": "Straight",
       "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sailor Moon (2.0)",
-        "url": "https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 197123,
-      "name": "Sailor Moon - 2.0",
-      "url": "https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 196154,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv"
     },
     {
       "added_at": null,

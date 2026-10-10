@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: New Lore",
-  "num_followers": 623883,
+  "num_followers": 623818,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-09-11 04:00:30",
       "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "SPEECHLESS",
+      "url": "https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta"
+    },
+    {
+      "added_at": "2026-09-11 04:00:30",
+      "album": {
         "name": "Distant Lover",
         "url": "https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 217696,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
-    },
-    {
-      "added_at": "2026-09-11 04:00:30",
-      "album": {
-        "name": "LOVE AGAIN",
-        "url": "https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "SPEECHLESS",
-      "url": "https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta"
     },
     {
       "added_at": "2026-09-11 04:00:30",

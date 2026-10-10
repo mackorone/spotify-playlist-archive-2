@@ -17904,7 +17904,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 112822,
       "name": "TALK SPICY",
       "url": "https://open.spotify.com/track/2nuQeMvwn2uiiCm3w5vCzB"
@@ -21120,6 +21120,32 @@
       "duration_ms": 203125,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/6vnAweL3Sru9mBBopAmwox"
+    },
+    {
+      "album": {
+        "name": "YEAH YEAH",
+        "url": "https://open.spotify.com/album/5pKCqRogkGjiV0sY9XC6Sy"
+      },
+      "artists": [
+        {
+          "name": "RESEY",
+          "url": "https://open.spotify.com/artist/6BRWEbW6MMdKL4xLIDQ304"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        },
+        {
+          "name": "Jah Heer",
+          "url": "https://open.spotify.com/artist/7t7c2HsZbePsrHjo7uZhmg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198653,
+      "name": "YEAH YEAH",
+      "url": "https://open.spotify.com/track/4eN1ChRskzmDrd6oxlrWUv"
     },
     {
       "album": {

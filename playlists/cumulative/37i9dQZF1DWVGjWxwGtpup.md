@@ -4,7 +4,7 @@
 
 > Tous les hits latino du moment sont ici\. Photo : Ozuna
 
-517 songs - 1 day 2 hr 27 min
+518 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [VFC](https://open.spotify.com/track/4cY1IXeIhd00hdQxZj82zD) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [VFC](https://open.spotify.com/album/4rEXPF6DiEnGx8ZlOjsWlK) | 2:48 | 2025-12-18 | 2026-06-12 |
 | [Vibra](https://open.spotify.com/track/0DU150UuvrIsqOzAoeB2Zv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 2:33 | 2023-09-28 | 2023-12-08 |
 | [Viernes](https://open.spotify.com/track/5ydIprMt8QT0XSdapQ4BKt) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [TQ+](https://open.spotify.com/album/136gXSHLFKP4WwV9QbRuK1) | 2:38 | 2025-11-27 | 2026-01-30 |
+| [Vuelve](https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Vuelve](https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76) | 4:50 | 2026-10-08 |  |
 | [Vuelve](https://open.spotify.com/track/4ON0spZpKuq6LfxITWgkcV) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Vuelve](https://open.spotify.com/album/53BSZEU1P0G9DICDS19Fdg) | 3:31 | 2026-03-26 | 2026-04-10 |
 | [Várias Quejas](https://open.spotify.com/track/01FtUiVEcS8JDru6llRRUy) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:55 | 2026-04-16 | 2026-05-15 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-09-28 | 2024-04-19 |

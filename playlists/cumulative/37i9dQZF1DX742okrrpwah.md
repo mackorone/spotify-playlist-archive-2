@@ -4,7 +4,7 @@
 
 > L2B, Adèle Castillon, Ninho x La Rvfleuze, Louane et Troye Sivan au top des nouveautés de la semaine !
 
-11,280 songs - 24 day 7 hr 33 min
+11,282 songs - 24 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7218,6 +7218,7 @@
 | [Oh Madeleine](https://open.spotify.com/track/6CvWrgB9HSzuFebUO0A120) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [L'embardée](https://open.spotify.com/album/1iyoSvM9bBIocj3am1DT50) | 2:15 | 2026-04-23 | 2026-05-01 |
 | [Oh mi Amor](https://open.spotify.com/track/79O6u526DOBHP0IIUxZuxt) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Oh mi Amor](https://open.spotify.com/album/7bm68Bnbwnk5jEC5Km2y1R) | 2:47 | 2024-10-03 | 2024-10-11 |
 | [Oh Mother](https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [The TwoCity Chorus](https://open.spotify.com/artist/03G8tzT77pojVBafVhOm3n) | [Oh Mother](https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om) | 3:32 | 2026-07-23 | 2026-07-31 |
+| [Oh My \(\#SaveSoil\)](https://open.spotify.com/track/49uZxYCiKkF6rEDz1mztQC) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX), [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0) | [Oh My \(\#SaveSoil\)](https://open.spotify.com/album/5VCO3v7958v34OQSbt19yy) | 3:43 | 2026-10-08 |  |
 | [Oh My My](https://open.spotify.com/track/1nGNaLwo8QxCZgZ0JJU5ap) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Oh My My](https://open.spotify.com/album/724Bj9HBsVxr4ADSfRuwvN) | 3:09 | 2026-03-12 | 2026-03-20 |
 | [Oh No](https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Oh No](https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96) | 3:15 | 2026-09-10 | 2026-09-18 |
 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 | 2025-09-04 | 2025-09-12 |
@@ -10676,6 +10677,7 @@
 | [Vrais salauds \(feat\. Gazo & Kore\)](https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 | 2024-06-13 | 2024-06-21 |
 | [vriller](https://open.spotify.com/track/0fhr4CjEHL2TgEaQ2Ggc1J) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [vriller](https://open.spotify.com/album/3OQ1MvLSUdYTSK7GsBUw0T) | 2:04 | 2025-09-11 | 2025-09-19 |
 | [Vroum Vroum](https://open.spotify.com/track/01WDr6maI3v16UgrFsR9y5) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Vroum Vroum](https://open.spotify.com/album/1UBdCuKWPC60U1WTp64Loh) | 2:52 | 2024-08-15 | 2024-08-23 |
+| [Vuelve](https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Vuelve](https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76) | 4:50 | 2026-10-08 |  |
 | [Vulnerability](https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Vulnerability](https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj) | 3:13 | 2026-09-24 | 2026-10-02 |
 | [Vultures](https://open.spotify.com/track/1KM8ubbYZ0eMah7iNtln5h) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Vultures](https://open.spotify.com/album/1lY3VMxRN0ynscHixscIN2) | 3:14 | 2026-09-03 | 2026-09-11 |
 | [Vultures](https://open.spotify.com/track/6BjAYgPPwvW2b0tISAQOeH) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Vultures](https://open.spotify.com/album/68Iezw3wkn4SzuTCM7EXuQ) | 2:58 | 2026-01-15 | 2026-01-23 |

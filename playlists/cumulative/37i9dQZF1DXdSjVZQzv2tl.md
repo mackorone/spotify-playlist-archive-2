@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Ícaro e Gilmar
 
-426 songs - 19 hr 58 min
+427 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 | 2021-12-31 | 2022-03-18 |
 | [Morena De Goiânia \- Ao Vivo](https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [062 \(Ao Vivo\)](https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY) | 2:46 | 2024-03-29 | 2024-12-20 |
 | [Motel Afrodite](https://open.spotify.com/track/2Rlde4R776iKtqODzVhMEM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Motel Afrodite](https://open.spotify.com/album/5NbuHCJlpaeH6g0h1ahYDj) | 2:50 | 2021-12-31 | 2022-05-28 |
+| [Moça Pra Casar \- Ao Vivo](https://open.spotify.com/track/0MuzQYLoFUYqcy89hH8cDR) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [O Décimo Vol\. 02 \(Ao Vivo\)](https://open.spotify.com/album/0AfnwegDE4N2E6l1Hiewfz) | 2:41 | 2026-10-09 |  |
 | [Moça Pra Casar \- Ao Vivo](https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Moça Pra Casar \(Ao Vivo\)](https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT) | 2:41 | 2026-07-02 | 2026-07-09 |
 | [Mudou O Texto](https://open.spotify.com/track/2yo0j2FctlAjVUP3PLl0i1) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Iniciando Os Trabalhos \- Vol\. 1](https://open.spotify.com/album/5SHPSZ3GwCQdLHd1trHxiM) | 2:43 | 2025-07-19 | 2025-10-18 |
 | [Mulher Foda \- Ao Vivo](https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH) | 2:42 | 2024-07-19 | 2025-01-31 |
@@ -328,7 +329,7 @@
 | [Processo Delicado](https://open.spotify.com/track/0aKZSEgjHbUngVi04ZrHBz) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Processo Delicado](https://open.spotify.com/album/34yVeYdpgqlP734gh7kboJ) | 2:52 | 2026-03-06 | 2026-04-17 |
 | [Proibido Terminar \- Ao Vivo](https://open.spotify.com/track/7shkORZD3NNi6waqw7eIqT) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Proibido Terminar \(Ao Vivo\)](https://open.spotify.com/album/2wOZJYlZoefQ4fWRSiz6R8) | 2:45 | 2025-02-14 | 2025-02-22 |
 | [Projeto de Amor \- Ao Vivo](https://open.spotify.com/track/3SiyPnpMfQZmn9Wp24wVxA) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH) | [De Cara Nova \(Ao Vivo\)](https://open.spotify.com/album/5y9O85bYXot8ZKdjggReFl) | 2:40 | 2026-02-06 | 2026-04-17 |
-| [Proposta \- Ao Vivo](https://open.spotify.com/track/1jl948cY8cXkBNv0V2RXCr) | [Mayck & Lyan](https://open.spotify.com/artist/5RVbL4R4oUWvec2pcOXrep), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Proposta \(Ao Vivo\)](https://open.spotify.com/album/2vwk1NFKooTuUVcWzIqR4u) | 2:53 | 2026-08-28 |  |
+| [Proposta \- Ao Vivo](https://open.spotify.com/track/1jl948cY8cXkBNv0V2RXCr) | [Mayck & Lyan](https://open.spotify.com/artist/5RVbL4R4oUWvec2pcOXrep), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Proposta \(Ao Vivo\)](https://open.spotify.com/album/2vwk1NFKooTuUVcWzIqR4u) | 2:53 | 2026-08-28 | 2026-10-10 |
 | [Pula Fora \- Ao Vivo](https://open.spotify.com/track/7f1tZNtc1t456ybBsl5sfK) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Fortaleza \(Ao Vivo\)](https://open.spotify.com/album/0Lo0mXzAAVAjuxyuYHWVZ1) | 2:29 | 2024-08-30 | 2025-06-14 |
 | [Pulando o Muro \- Ao Vivo](https://open.spotify.com/track/0KDxhAvKeiVFL1bZccQVJs) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Intenso, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/5p2auLiTOfPNkdlKyW5eM8) | 2:32 | 2024-09-06 | 2025-11-28 |
 | [Pátio do Posto \- Ao Vivo](https://open.spotify.com/track/4t6eam3rC9JoNFVkfOHK4s) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:58 | 2023-05-05 | 2024-05-10 |

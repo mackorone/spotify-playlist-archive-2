@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,662 likes - 26 songs - 1 hr 36 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,667 likes - 28 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,5 +34,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 24 | [She's Withering](https://open.spotify.com/track/0JobWkE9vHmEfY1LdFh3B0) | [Con Dolore](https://open.spotify.com/artist/1RRyxzaiaX7Zr4bi955ZPP) | [This Sad Movie](https://open.spotify.com/album/6rxVnICK1xsHlgu21HjAcH) | 4:28 |
 | 25 | [Silver Memories](https://open.spotify.com/track/1ah0xxsAYjrZetGZQI7Z0N) | [Stars Of Stage And Screen](https://open.spotify.com/artist/5SwLxpdpUw7kFNpYAc4aJA) | [Dying To Meet You](https://open.spotify.com/album/4SMV7E4jAxYM9X5vuLknjz) | 4:07 |
 | 26 | [O How I Miss You](https://open.spotify.com/track/3IGByygKHzqdaP2m8277IC) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 1:17 |
+| 27 | [Wonderland](https://open.spotify.com/track/6OKmpT84dcGIr2iyeMFjZE) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz), [Alex Sadkin](https://open.spotify.com/artist/6rObMYPGYuDJKyd305PKoH) | [The Compact XTC](https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA) | 4:03 |
+| 28 | [Avril](https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [Put Rings On All My Fingers To Weigh Down My Hands](https://open.spotify.com/album/3eTvTiRjlO02MbHqXL5oyc) | 5:18 |
 
-Snapshot ID: `AAAOzJAONNflgW+fz1hP9+OcfG7JXt65`
+Snapshot ID: `AAAO0EBFPJ4ahz1r3Im1Z/Q5i7ZqmkZb`

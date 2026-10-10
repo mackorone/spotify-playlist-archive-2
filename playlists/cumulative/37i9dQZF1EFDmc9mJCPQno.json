@@ -2753,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Age of the Exhibitionist",
+        "url": "https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Visions Again",
+      "url": "https://open.spotify.com/track/3HqTbczmmX5sl7x3SN10Vk"
+    },
+    {
+      "album": {
         "name": "Future Dust",
         "url": "https://open.spotify.com/album/7sRAdyIMXnDLFiC6sVo2ke"
       },

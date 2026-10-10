@@ -4,7 +4,7 @@
 
 > This is Linkin Park\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 17 min
+94 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 | 2025-05-18 |  |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-04-08 |  |
 | [Lost \- PLZ Tethered Version](https://open.spotify.com/track/6mPBbL3WsTHy2xZ0A7l1Mq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Patrick Lawrence Zappia](https://open.spotify.com/artist/0CuRSsgyTCUJQLXLoUpqpf) | [Lost \(PLZ Tethered Version\)](https://open.spotify.com/album/30LrTt6t4su1DMqI5dTjyv) | 3:22 | 2023-06-11 | 2023-12-14 |
+| [Lost \- Unshatter Film Soundtrack \- Live in São Paulo](https://open.spotify.com/track/5lLYhn61327TTcnPwn5Eb6) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter Film Soundtrack \(Live in São Paulo\)](https://open.spotify.com/album/0PVjo8iVec500UfG9HKmMw) | 2:10 | 2026-10-10 |  |
 | [LOST IN THE ECHO](https://open.spotify.com/track/2oNYsdCasRRlz1shXFAz7D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:25 | 2023-04-08 |  |
 | [Lying from You](https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:55 | 2023-04-08 |  |
 | [Massive](https://open.spotify.com/track/3NvAcUYxfyZhW2ALOGknXB) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:08 | 2023-04-11 | 2024-05-15 |
@@ -99,6 +100,7 @@
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-30 | 2025-07-30 |
 | [Waiting for the End](https://open.spotify.com/track/5JHNg1hxZFT7TDEphhM4wj) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 3:51 | 2023-04-08 |  |
 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 | 2023-04-08 |  |
+| [What I've Done \- Unshatter Film Soundtrack \- Live in São Paulo](https://open.spotify.com/track/043TnILbwnO6PsRcNTZ6cP) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter Film Soundtrack \(Live in São Paulo\)](https://open.spotify.com/album/0PVjo8iVec500UfG9HKmMw) | 3:31 | 2026-10-10 |  |
 | [With You](https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:23 | 2024-06-09 | 2024-07-18 |
 
 \*This playlist was first scraped on 2023-04-09. Prior content cannot be recovered.

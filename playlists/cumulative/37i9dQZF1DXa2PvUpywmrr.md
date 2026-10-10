@@ -4,7 +4,7 @@
 
 > if you wanna party, come over to my house
 
-800 songs - 1 day 17 hr 41 min
+801 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-21 | 2025-12-30 |
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-22 | 2023-10-08 |
 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 | 2025-10-24 | 2025-11-29 |
+| [Bow Bow Bow](https://open.spotify.com/track/7BMDIaCX8e8t8eTkUXB1IM) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Bow Bow Bow](https://open.spotify.com/album/6q6mVz6r3IjpwB02ZX3LUh) | 2:18 | 2026-10-09 |  |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-17 | 2024-04-06 |
 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 | 2023-10-06 | 2023-12-23 |
 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 | 2026-08-21 |  |
@@ -159,7 +160,7 @@
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-26 |  |
 | [DANCE...](https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 4:47 | 2026-08-07 |  |
 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 | 2026-05-16 | 2026-07-25 |
-| [Danceteria Afterhours](https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Danceteria Afterhours](https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9) | 3:50 | 2026-09-25 |  |
+| [Danceteria Afterhours](https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Danceteria Afterhours](https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9) | 3:50 | 2026-09-25 | 2026-10-10 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-03-04 | 2022-07-29 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2025-05-03 |
 | [Dandelion](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Dandelion](https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ) | 2:20 | 2021-12-02 | 2022-07-29 |

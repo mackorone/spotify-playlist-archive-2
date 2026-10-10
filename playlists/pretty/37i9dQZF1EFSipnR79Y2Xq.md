@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736 likes - 116 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 737 likes - 116 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 69 | [INDIRECTAS](https://open.spotify.com/track/4QrhVVSIR2tY17lOZhM8CZ) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:10 |
 | 70 | [3DESEOS](https://open.spotify.com/track/63szpHW8E1jBkPDXuAEusn) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:51 |
 | 71 | [IDIOMA ARDIDA](https://open.spotify.com/track/5VhA5biyUHpzZ8Byy22ScU) | [Bolela](https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [IDIOMA ARDIDA](https://open.spotify.com/album/1m8lMG83A4knORpWJe6zpi) | 2:42 |
-| 72 | [Membresía](https://open.spotify.com/track/6Cg0J9aZvUiGDbfbMqn4Py) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Membresía](https://open.spotify.com/album/1sVTUYzJNPcVfj7NNO8MYn) | 3:15 |
-| 73 | [Tu Amor Como Cigarro](https://open.spotify.com/track/538AGLz9NC2huGce8ggP1w) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 4:00 |
+| 72 | [Tu Amor Como Cigarro](https://open.spotify.com/track/538AGLz9NC2huGce8ggP1w) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 4:00 |
+| 73 | [Membresía](https://open.spotify.com/track/6Cg0J9aZvUiGDbfbMqn4Py) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Membresía](https://open.spotify.com/album/1sVTUYzJNPcVfj7NNO8MYn) | 3:15 |
 | 74 | [Antes](https://open.spotify.com/track/5h3YMVd2Jg3h7bf0a4RTrA) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 2:53 |
 | 75 | [No Era De Tu Talla](https://open.spotify.com/track/4sHJngV1yusJSmevbZYMrT) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:24 |
 | 76 | [Peor Que Mi Ex](https://open.spotify.com/track/7vJWa0MkrA1Dbc5qCfys9B) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Échale](https://open.spotify.com/album/5NlWnz4YflzjQ84vc8x8mW) | 2:34 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 115 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 116 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AceblgAAAAB/oA9vlF+Mv4acv4IBpUEH`
+Snapshot ID: `Aceg+gAAAACTMohB9x+tCr7EOVHG9R5k`

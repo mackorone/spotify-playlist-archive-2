@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: KARM6
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,425 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,410 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 35 | [yenildiğim tek savaştın](https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [yenildiğim tek savaştın](https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30) | 1:49 |
 | 36 | [Bir Güldün](https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa), [Funktakl](https://open.spotify.com/artist/6QgQib1hYAs8Y9OhiSoGoW) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 3:35 |
 | 37 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 |
-| 38 | [Güm Güm \(Serhat Karadağ Remix\) \(feat\. Onurr\)](https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI) | [Ayse Hatun Onal](https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS), [Onurr](https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac), [Serhat Karadag](https://open.spotify.com/artist/5lnel6i9CbZEYoWSyiYnEk) | [Güm Güm \(Serhat Karadağ Remix\) \(feat\. Onurr\)](https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO) | 3:47 |
-| 39 | [Rüya Gibiydin](https://open.spotify.com/track/4JHGcwZZo5yodlq5qQbSQw) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Rüya Gibiydin](https://open.spotify.com/album/1boVHfsKiExh1Pe6zDo2Jl) | 2:59 |
+| 38 | [Rüya Gibiydin](https://open.spotify.com/track/4JHGcwZZo5yodlq5qQbSQw) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Rüya Gibiydin](https://open.spotify.com/album/1boVHfsKiExh1Pe6zDo2Jl) | 2:59 |
+| 39 | [Güm Güm \(Serhat Karadağ Remix\) \(feat\. Onurr\)](https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI) | [Ayse Hatun Onal](https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS), [Onurr](https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac), [Serhat Karadag](https://open.spotify.com/artist/5lnel6i9CbZEYoWSyiYnEk) | [Güm Güm \(Serhat Karadağ Remix\) \(feat\. Onurr\)](https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO) | 3:47 |
 | 40 | [kozzy](https://open.spotify.com/track/04d7aMynHFsfWOhJo4gFIf) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [kozzy](https://open.spotify.com/album/1tfEQVJsIqwsI0cs6qKV2q) | 2:46 |
 | 41 | [Kırmızı](https://open.spotify.com/track/58Y5BrcGgDUd5RWApT1lV9) | [Ayla Çelik](https://open.spotify.com/artist/3Z7GwK4hUEczTklLsVedcx) | [Kırmızı](https://open.spotify.com/album/3wk2gK2cnkhfqMqydtqdf9) | 3:25 |
 | 42 | [Aşkın Ertesi](https://open.spotify.com/track/1XPzrCHbRbhLngUgkPW76c) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Aşkın Ertesi](https://open.spotify.com/album/1v0x4JmlMlpSCqyd4yZeLI) | 2:59 |

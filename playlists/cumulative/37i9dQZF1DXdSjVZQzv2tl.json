@@ -4857,6 +4857,24 @@
     },
     {
       "album": {
+        "name": "O D\u00e9cimo Vol. 02 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AfnwegDE4N2E6l1Hiewfz"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161862,
+      "name": "Mo\u00e7a Pra Casar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0MuzQYLoFUYqcy89hH8cDR"
+    },
+    {
+      "album": {
         "name": "Mo\u00e7a Pra Casar (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT"
       },
@@ -6472,7 +6490,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 173612,
       "name": "Proposta - Ao Vivo",
       "url": "https://open.spotify.com/track/1jl948cY8cXkBNv0V2RXCr"

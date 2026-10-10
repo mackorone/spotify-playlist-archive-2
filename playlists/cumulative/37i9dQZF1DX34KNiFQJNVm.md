@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Grupo Menos É Mais, Cardi B, Naiara Azevedo com Israel & Rodolffo, Gunna e mais!
 
-20,054 songs - 42 day 16 hr 24 min
+20,055 songs - 42 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12462,6 +12462,7 @@
 | [Oceano Rubi](https://open.spotify.com/track/1nYfIBJ2SWVjfYibPrUsuJ) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Oceano Rubi](https://open.spotify.com/album/29GWxLJzMUQc4e1PJbrRJk) | 3:53 | 2022-09-23 | 2022-10-01 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-14 | 2022-10-22 |
 | [Odeio Me Apaixonar](https://open.spotify.com/track/0GUkMgDJPlYRQcGO85Oq7B) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY), [DAY](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Odeio Me Apaixonar](https://open.spotify.com/album/0qGEyeZEeBVN0HxKhMY2eR) | 3:26 | 2022-01-21 | 2022-01-29 |
+| [ODEIO SHOW PARADO](https://open.spotify.com/track/2nv5UkE1FoFrqwwO1DY7PH) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [MKULTRA](https://open.spotify.com/artist/62q4VhTETdekmQYoyws6Dl) | [ODEIO SHOW PARADO](https://open.spotify.com/album/3cYT0k8gOTEpLGX6lkh2sg) | 3:19 | 2026-10-09 |  |
 | [ODEIO te querer](https://open.spotify.com/track/6nwsIT3VvlprmX9QlJ6Q4C) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [ODEIO te querer](https://open.spotify.com/album/2KHLD2Kov8viRQQeIGCaic) | 2:37 | 2025-05-23 | 2025-05-31 |
 | [Odete](https://open.spotify.com/track/0qpJfeDHD15DeQvlmUllCh) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY) | [Odete](https://open.spotify.com/album/4WEkJihCmep6AQnAWfeFzE) | 2:04 | 2022-02-11 | 2022-02-19 |
 | [Odisseia](https://open.spotify.com/track/6zk2KqmVIvyKRbF50hXP5Q) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Odisseia](https://open.spotify.com/album/7boBqgtZPsVLsh2JUIMoyT) | 2:17 | 2025-05-23 | 2025-05-31 |

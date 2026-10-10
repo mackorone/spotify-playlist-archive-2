@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic house and techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,295 likes - 80 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,336 likes - 80 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 36 | [Odyssey](https://open.spotify.com/track/7jw452od74FzquMBqkUXiY) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Odyssey](https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7) | 4:17 |
 | 37 | [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 |
 | 38 | [Purple Days](https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM) | [KlangTherapeuten](https://open.spotify.com/artist/54gKd6ck4Kz5pigQLZUbkW), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Purple Days & Purple Nights](https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm) | 4:29 |
-| 39 | [Nebula](https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Nebula](https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9) | 3:08 |
+| 39 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
 | 40 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 |
-| 41 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
-| 42 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
+| 41 | [Nebula](https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Nebula](https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9) | 3:08 |
+| 42 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
 | 43 | [Welcome](https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano & Electronic Ensemble Op\. 1](https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7) | 6:15 |
 | 44 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
 | 45 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 51 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 |
 | 52 | [Hipotez](https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2) | [Kerem Gell](https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi) | [Hipotez](https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf) | 5:52 |
 | 53 | [Cliff \- Einmusik Remix](https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Cliff \(Einmusik Remix\)](https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy) | 7:24 |
-| 54 | [Black Ice](https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Black Ice](https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E) | 6:20 |
-| 55 | [Ceremony](https://open.spotify.com/track/42VWlnp5ndV2kapnMvXmV1) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ceremony](https://open.spotify.com/album/0NsSwQGz2XD39C5pLEUinH) | 7:58 |
+| 54 | [Ceremony](https://open.spotify.com/track/42VWlnp5ndV2kapnMvXmV1) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ceremony](https://open.spotify.com/album/0NsSwQGz2XD39C5pLEUinH) | 7:58 |
+| 55 | [Black Ice](https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Black Ice](https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E) | 6:20 |
 | 56 | [Tesseract](https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM) | [Nors Kode](https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY) | [Lu \| Sal Amander \| Tesseract](https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm) | 6:37 |
 | 57 | [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 |
 | 58 | [Solid](https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP) | [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Solid](https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy) | 6:44 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 69 | [Shaded](https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Shaded](https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp) | 4:50 |
 | 70 | [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 |
 | 71 | [End of Line](https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB) | [oddchapters](https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc) | [End of Line](https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3) | 4:00 |
-| 72 | [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 |
-| 73 | [Night](https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Night](https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX) | 4:13 |
+| 72 | [Night](https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Night](https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX) | 4:13 |
+| 73 | [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 |
 | 74 | [Curve](https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd) | [Microtrauma](https://open.spotify.com/artist/4abBidW4ScsxlRcISTeKkB) | [Curve \| The Arc](https://open.spotify.com/album/7Cv8pKOfpX7oBQPMRQU0Qd) | 8:35 |
 | 75 | [Planet F](https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Planet F](https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ) | 4:01 |
 | 76 | [Hegn](https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Hegn](https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI) | 6:26 |
 | 77 | [Moon](https://open.spotify.com/track/7zBudMw6yvQNnhB2cf18tX) | [Calaido](https://open.spotify.com/artist/3Jdpz53fJbxtqUlOZxA7SD) | [Moon](https://open.spotify.com/album/4vf8n9s8hML7rpuJDzMMxe) | 3:52 |
-| 78 | [Dark Future](https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Mind Kontrol EP](https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc) | 6:43 |
-| 79 | [Mars Express](https://open.spotify.com/track/6pLId3BTsBZO9uec6j6fe6) | [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Mars Express](https://open.spotify.com/album/3XFsr5IXqQh3n7tg8nzP9d) | 6:51 |
+| 78 | [Mars Express](https://open.spotify.com/track/6pLId3BTsBZO9uec6j6fe6) | [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Mars Express](https://open.spotify.com/album/3XFsr5IXqQh3n7tg8nzP9d) | 6:51 |
+| 79 | [Dark Future](https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Mind Kontrol EP](https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc) | 6:43 |
 | 80 | [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 |
 
 Snapshot ID: `AAAAAMnaUwIg6TcvaQD5CtDmDOEUTTOW`

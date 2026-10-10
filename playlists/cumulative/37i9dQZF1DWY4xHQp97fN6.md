@@ -4,7 +4,7 @@
 
 > Mood: Turnt Cover: Future
 
-1,222 songs - 2 day 9 hr 51 min
+1,223 songs - 2 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Fenty](https://open.spotify.com/track/2jhrlYw2rUsrCtBuIa9Zc5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fenty](https://open.spotify.com/album/7EsSmzg4lNubNUIzEjsV4v) | 2:58 | 2022-10-21 | 2023-02-11 |
 | [FIELD TRIP](https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:47 | 2024-08-03 | 2026-04-04 |
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-10-20 | 2023-12-09 |
-| [Fine \(feat\. Kyle Richh\)](https://open.spotify.com/track/78tYvq3qUChpt8GSsd1AcU) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Fine \(feat\. Kyle Richh\)](https://open.spotify.com/album/2MuKZbf0TkWILo01rP2asf) | 1:57 | 2026-08-14 |  |
+| [Fine \(feat\. Kyle Richh\)](https://open.spotify.com/track/78tYvq3qUChpt8GSsd1AcU) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Fine \(feat\. Kyle Richh\)](https://open.spotify.com/album/2MuKZbf0TkWILo01rP2asf) | 1:57 | 2026-08-14 | 2026-10-10 |
 | [Fine Shit](https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Fine Shit](https://open.spotify.com/album/23Pi9YY0Sp9SKS3ACJmzQw) | 1:53 | 2026-02-20 | 2026-02-28 |
 | [Finger Food](https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ) | [Rolling Loud](https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Finger Food](https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1) | 3:38 | 2022-12-09 | 2023-04-09 |
 | [First](https://open.spotify.com/track/2xREpKaieVj6DP7b6ukMdS) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Kinda Famous](https://open.spotify.com/album/0V2FmNlHJtmiCvZmsQltYF) | 2:44 | 2025-08-01 |  |
@@ -570,6 +570,7 @@
 | [Jalen Hurtski](https://open.spotify.com/track/2qqAPvW9T0xZnp4olmg2I4) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Jalen Hurtski](https://open.spotify.com/album/0QpURvSfU07gskijG2QHHN) | 3:03 | 2025-04-25 | 2025-06-07 |
 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 | 2026-05-18 |  |
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-07-28 | 2024-12-21 |
+| [JFK](https://open.spotify.com/track/4KplIfSakgcRdC6UVw7VwL) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [JFK](https://open.spotify.com/album/5HEDNsrUA45pqSOmKvuBz4) | 2:34 | 2026-10-09 |  |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-17 | 2023-10-07 |
 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 | 2023-06-09 | 2025-08-30 |
 | [JUGGERNAUT \(feat\. Lil Uzi Vert & Pharrell Williams\)](https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:26 | 2021-11-03\* | 2021-11-06 |

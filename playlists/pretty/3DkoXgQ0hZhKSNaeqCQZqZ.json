@@ -6,8 +6,24 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFz/W+3Abhvh0nZZzw06eO4EL4X/tu",
+  "snapshot_id": "AAAF0APqOyJPCCJU0p2b0vUt9wEXoDVK",
   "tracks": [
+    {
+      "added_at": "2026-10-09 14:25:22",
+      "album": {
+        "name": "EVERLASTING",
+        "url": "https://open.spotify.com/album/1YFcxKF5BRW33FYz25FqHy"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 158723,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/0nmhfTCZXU2cBJR53b6QZm"
+    },
     {
       "added_at": "2026-09-20 15:32:43",
       "album": {

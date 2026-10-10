@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,223 likes - 44 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,294 likes - 44 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 13 | [Everybody's Fool](https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:15 |
 | 14 | [All That I’m Living For](https://open.spotify.com/track/4iDQezFTnOwgnrPYiqQ6TP) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:48 |
 | 15 | [The Change](https://open.spotify.com/track/03cH7hozNkNX8qWi8xbkUA) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:42 |
-| 16 | [Rapture](https://open.spotify.com/track/7rA5tlA3YoHwv1tOxDbxwF) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv) | 3:26 |
+| 16 | [Who Will You Follow](https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:55 |
 | 17 | [Tourniquet](https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:38 |
 | 18 | [Weight Of The World](https://open.spotify.com/track/1UfCIFhRr8Bci9LUJ68dvp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 |
 | 19 | [Missing](https://open.spotify.com/track/1kvuT0SqjPAUUqQJW4bxjo) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:16 |
-| 20 | [Who Will You Follow](https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:55 |
+| 20 | [Rapture](https://open.spotify.com/track/7rA5tlA3YoHwv1tOxDbxwF) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv) | 3:26 |
 | 21 | [My Immortal \- Band Version](https://open.spotify.com/track/3PYdxIDuBIuJSDGwfptFx4) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:33 |
 | 22 | [Lacrymosa](https://open.spotify.com/track/1M8YN6ekSgCnjc5UckHYpq) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 |
 | 23 | [Made Of Stone](https://open.spotify.com/track/28FTCznKZRfYwJVA9OmPif) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:33 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 27 | [The End Of The Dream](https://open.spotify.com/track/39UzUACTcDknfjc7umPcuM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:49 |
 | 28 | [Better Without You](https://open.spotify.com/track/11yL2znOQCOSNqiS7Sw6K1) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:05 |
 | 29 | [A New Way To Bleed](https://open.spotify.com/track/3UkDyGtriDY7NzOJbF0rIH) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:46 |
-| 30 | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF) | 3:06 |
+| 30 | [Fight Like A Girl \- feat\. K.Flay](https://open.spotify.com/track/6TUYOU8S2s5l8zgdHeVsjZ) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/album/38tIdig9WXv884CFCXuyuG) | 3:06 |
 | 31 | [Lost In Paradise](https://open.spotify.com/track/7c8unZeNL9gI6Go9DgGYpb) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 4:42 |
 | 32 | [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 |
 | 33 | [Say You Will](https://open.spotify.com/track/4cfoU2UXXsbES5qwvdLHCO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:43 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 43 | [Use My Voice](https://open.spotify.com/track/1Buo891X2sWO0mFEr0VAmm) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:01 |
 | 44 | [The Last Song I'm Wasting on You](https://open.spotify.com/track/0BeBYa53MXh2aQmzc64BHd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 4:07 |
 
-Snapshot ID: `asLogAAAAAB03NLjcZuwPZUQxJ8zkYW/`
+Snapshot ID: `asbdAAAAAAA/n+AirzXc8NxYyAsiPCnV`

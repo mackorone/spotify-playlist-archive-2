@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 24753,
+  "num_followers": 24760,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
-        "name": "SI AYER FUERA HOY",
-        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Segundos Platos",
-      "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
-    },
-    {
-      "added_at": "2026-10-02 04:02:38",
-      "album": {
         "name": "Amapolas",
         "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 205716,
       "name": "Amapolas",
       "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
+    },
+    {
+      "added_at": "2026-10-02 04:02:38",
+      "album": {
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Segundos Platos",
+      "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
     },
     {
       "added_at": "2026-10-02 04:02:38",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
+        "name": "PREGUNTAS A LAS 11:11",
+        "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "\u00bfTrato Hecho?",
+      "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
+    },
+    {
+      "added_at": "2026-10-02 04:02:38",
+      "album": {
         "name": "No es tu estilo",
         "url": "https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 142677,
       "name": "No es tu estilo",
       "url": "https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE"
-    },
-    {
-      "added_at": "2026-10-02 04:02:38",
-      "album": {
-        "name": "PREGUNTAS A LAS 11:11",
-        "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "\u00bfTrato Hecho?",
-      "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
     },
     {
       "added_at": "2026-10-02 04:02:38",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 220830,
-      "name": "Gordo",
-      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
-    },
-    {
-      "added_at": "2026-10-02 04:02:38",
-      "album": {
         "name": "\u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 147640,
       "name": "\u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
+    },
+    {
+      "added_at": "2026-10-02 04:02:38",
+      "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 220830,
+      "name": "Gordo",
+      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
     },
     {
       "added_at": "2026-10-02 04:02:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
-        "name": "P\u00c1JARO AZUL",
-        "url": "https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "invierno",
-      "url": "https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi"
-    },
-    {
-      "added_at": "2026-10-02 04:02:38",
-      "album": {
         "name": "BRRREAK!",
         "url": "https://open.spotify.com/album/5pSsnrYZIOxKiZdWLRLpa9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 167782,
       "name": "BRRREAK!",
       "url": "https://open.spotify.com/track/5bW3kexDHYek62nlbRBi7c"
+    },
+    {
+      "added_at": "2026-10-02 04:02:38",
+      "album": {
+        "name": "P\u00c1JARO AZUL",
+        "url": "https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "invierno",
+      "url": "https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi"
     },
     {
       "added_at": "2026-10-02 04:02:38",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
-        "name": "GOLPE",
-        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 216875,
-      "name": "GOLPE",
-      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
-    },
-    {
-      "added_at": "2026-10-02 04:02:38",
-      "album": {
         "name": "Se me pas\u00f3 llamarte, mam\u00e1",
         "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 110963,
       "name": "AUSENCIA",
       "url": "https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P"
+    },
+    {
+      "added_at": "2026-10-02 04:02:38",
+      "album": {
+        "name": "GOLPE",
+        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 216875,
+      "name": "GOLPE",
+      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
     },
     {
       "added_at": "2026-10-02 04:02:38",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
-        "name": "NI\u00d1O BUENO - Lado A",
-        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
+        "name": "ALGO ESPECIAL",
+        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
       },
       "artists": [
         {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 192933,
-      "name": "a los 20",
-      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
+      "duration_ms": 205067,
+      "name": "ALGO ESPECIAL",
+      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
     }
   ],
   "unique_name": "mi vida es una peli",

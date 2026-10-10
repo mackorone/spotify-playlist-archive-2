@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 155781,
+  "num_followers": 155850,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "If You Got To Ask, You Ain't Got It!",
-        "url": "https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB"
-      },
-      "artists": [
-        {
-          "name": "Fats Waller",
-          "url": "https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa"
-        }
-      ],
-      "duration_ms": 237773,
-      "name": "Ain't Misbehavin'",
-      "url": "https://open.spotify.com/track/3BFRqZFLSrqtQr6cjHbAxU"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Solo Monk (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 157026,
       "name": "I'm Confessin' (That I Love You)",
       "url": "https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "If You Got To Ask, You Ain't Got It!",
+        "url": "https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB"
+      },
+      "artists": [
+        {
+          "name": "Fats Waller",
+          "url": "https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa"
+        }
+      ],
+      "duration_ms": 237773,
+      "name": "Ain't Misbehavin'",
+      "url": "https://open.spotify.com/track/3BFRqZFLSrqtQr6cjHbAxU"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "duration_ms": 378426,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 378426,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "All Kinds Of Weather",
-        "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
-      },
-      "artists": [
-        {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "The Trio",
         "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 363179,
       "name": "How High The Moon",
       "url": "https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "All Kinds Of Weather",
+        "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 372266,
-      "name": "Empty Pockets - Remastered 2007",
-      "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Jazz Moments",
         "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 240133,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 372266,
+      "name": "Empty Pockets - Remastered 2007",
+      "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "My Point Of View (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 499253,
-      "name": "Blind Man, Blind Man",
-      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
         "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 244466,
       "name": "Polka Dots And Moonbeams - Remastered 1998 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "My Point Of View (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 499253,
+      "name": "Blind Man, Blind Man",
+      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
+        "name": "Now He Sings, Now He Sobs (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 423440,
+      "name": "Now He Sings, Now He Sobs",
+      "url": "https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
         "name": "Great Britain's",
         "url": "https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Now He Sings, Now He Sobs (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+        "name": "Treasure Island",
+        "url": "https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 423440,
-      "name": "Now He Sings, Now He Sobs",
-      "url": "https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D"
+      "duration_ms": 566066,
+      "name": "The Rich (And The Poor)",
+      "url": "https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1119,22 +1135,6 @@
       "duration_ms": 160200,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
-        "name": "Treasure Island",
-        "url": "https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 566066,
-      "name": "The Rich (And The Poor)",
-      "url": "https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Fatha",
-        "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
-      },
-      "artists": [
-        {
-          "name": "Earl Hines",
-          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
-        }
-      ],
-      "duration_ms": 151946,
-      "name": "Frankie and Johnnie",
-      "url": "https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 403266,
       "name": "Ralph J. Gleason Blues",
       "url": "https://open.spotify.com/track/0Dg8zEmH6R1l67u1bsNKr0"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Fatha",
+        "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
+      },
+      "artists": [
+        {
+          "name": "Earl Hines",
+          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+        }
+      ],
+      "duration_ms": 151946,
+      "name": "Frankie and Johnnie",
+      "url": "https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
-      },
-      "artists": [
-        {
-          "name": "Shelly Berg Trio",
-          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
-        }
-      ],
-      "duration_ms": 494213,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Some More Love Songs",
         "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 449160,
       "name": "Come Rain Or Come Shine - Remastered 1998",
       "url": "https://open.spotify.com/track/60sUnEBfXTFQJ25htHi8ty"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
+      },
+      "artists": [
+        {
+          "name": "Shelly Berg Trio",
+          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
+        }
+      ],
+      "duration_ms": 494213,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
     },
     {
       "added_at": "2026-01-22 13:51:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,124 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,176 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 12 | [Verdansk](https://open.spotify.com/track/3AEOrh7zWjV2rVS1yOd41q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:02 |
 | 13 | [UK Rap](https://open.spotify.com/track/5d01AUplB1QOZY3kPrAuot) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH) | 3:18 |
 | 14 | [Thiago Silva](https://open.spotify.com/track/3DKCTIiJ97bS9TGiqcABjo) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Thiago Silva](https://open.spotify.com/album/6JYMpRz7M9T2JlkjKHmsdc) | 3:21 |
-| 15 | [Meridian](https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT) | 4:15 |
-| 16 | [Titanium](https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Titanium & Mercury](https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr) | 2:07 |
+| 15 | [Titanium](https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Titanium & Mercury](https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr) | 2:07 |
+| 16 | [Meridian](https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT) | 4:15 |
 | 17 | [History \(feat\. James Blake\)](https://open.spotify.com/track/6OakIaj4T039vJ8V2AJiWa) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 4:06 |
 | 18 | [Professor X](https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Professor X](https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1) | 3:37 |
 | 19 | [Clash \(feat\. Stormzy\)](https://open.spotify.com/track/0hE6By0vNRrRZzhtqoKZzJ) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 4:11 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 30 | [3x](https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:40 |
 | 31 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/1vdP5l03rrRobswkVke5qP) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:24 |
 | 32 | [INTOXYCATED](https://open.spotify.com/track/1lcSY9kXL2PG8HYuDlV4KW) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:32 |
-| 33 | [Psycho](https://open.spotify.com/track/7454StFiLI0EMexuqtvNv4) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:08 |
+| 33 | [Environment](https://open.spotify.com/track/1yfjDqsnu8yPHWlFFniXtn) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 3:22 |
 | 34 | [the people that saved me](https://open.spotify.com/track/4T9hQ3glnJKtH8uWr0MBm9) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV) | 2:46 |
 | 35 | [No Words](https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 3:30 |
 | 36 | [Hangman](https://open.spotify.com/track/7r7NTwtWAhPRtzylDu3hnE) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Hangman](https://open.spotify.com/album/5M13djplqPTZNq7eFBPKdg) | 3:54 |
-| 37 | [Environment](https://open.spotify.com/track/1yfjDqsnu8yPHWlFFniXtn) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 3:22 |
+| 37 | [Psycho](https://open.spotify.com/track/7454StFiLI0EMexuqtvNv4) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:08 |
 | 38 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:42 |
 | 39 | [How I Met My Ex](https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 7:25 |
 | 40 | [Nothing On You \(feat\. Paulo Londra & Dave\)](https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [My 19th Birthday](https://open.spotify.com/track/4KCfCctnZQd5mem6S3HhKi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 8:58 |
 | 50 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
 
-Snapshot ID: `asLogAAAAADMk+yeDixLGSuQxLoouQ5v`
+Snapshot ID: `asbdAAAAAAC1H9nbbGgEv1LivjFwpIQD`

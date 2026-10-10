@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "errybody know",
+        "url": "https://open.spotify.com/album/4IDFh7O0mNQN2oXIuCnpAc"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "errybody know",
+      "url": "https://open.spotify.com/track/5GU8vng4WQCrb2xe2oEzxN"
+    },
+    {
+      "album": {
         "name": "Liability",
         "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
       },

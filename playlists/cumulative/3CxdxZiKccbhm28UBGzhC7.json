@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Put A Smile On For Me",
+        "url": "https://open.spotify.com/album/6lsuxUBgd9TFAfzS9lBkCH"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226643,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/0dHoN2r23LzobJS5FynRip"
+    },
+    {
+      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },

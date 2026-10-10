@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,120 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,131 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 18 | [Close to Me \- Acoustic](https://open.spotify.com/track/4UYzYk1EG7iP8PzL4seLRe) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Carried](https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw) | 5:52 |
 | 19 | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 |
 | 20 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 |
-| 21 | [Meu Repouso](https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn) | [Fabio Sampaio](https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N), [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Meu Repouso](https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx) | 4:18 |
-| 22 | [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 |
+| 21 | [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 |
+| 22 | [Meu Repouso](https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn) | [Fabio Sampaio](https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N), [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Meu Repouso](https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx) | 4:18 |
 | 23 | [Botas Velhas](https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Sou Tão Forte](https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv) | 3:55 |
 | 24 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 |
 | 25 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 |

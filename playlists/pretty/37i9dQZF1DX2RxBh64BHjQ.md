@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0RRUXaSteOOZzo5gMCAeuX">Fatt Smaxk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,704,243 likes - 101 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,703,592 likes - 101 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

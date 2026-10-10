@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Gerilson Insrael",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -4133,6 +4133,40 @@
     },
     {
       "album": {
+        "name": "Espumou",
+        "url": "https://open.spotify.com/album/7mcQpnzU2pkxVOs2X3x3wA"
+      },
+      "artists": [
+        {
+          "name": "Young Double",
+          "url": "https://open.spotify.com/artist/7uxVtHLLKggSUN4MNqqBfY"
+        },
+        {
+          "name": "Smille",
+          "url": "https://open.spotify.com/artist/5ijADqf5vC6rkvVCAhgC6y"
+        },
+        {
+          "name": "Lurhany",
+          "url": "https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi"
+        },
+        {
+          "name": "SilMush",
+          "url": "https://open.spotify.com/artist/2TzxbyUUM1i3uMUWO7xAQl"
+        },
+        {
+          "name": "Mylson",
+          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263363,
+      "name": "Espumou",
+      "url": "https://open.spotify.com/track/1WfGBIvW3sppRNfgBkC8dA"
+    },
+    {
+      "album": {
         "name": "Esquece o Mundo",
         "url": "https://open.spotify.com/album/3LXZA1WxdjcsjOffOWhLQM"
       },
@@ -5621,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "Isso \u00c9 Que Importa",
+        "url": "https://open.spotify.com/album/4f9S09mDYhq0FL0Up0R7Bo"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319999,
+      "name": "Isso \u00c9 Que Importa",
+      "url": "https://open.spotify.com/track/4nbTOJaGw1PxousBL60QQM"
+    },
+    {
+      "album": {
         "name": "Jaj\u00e3o (feat. Eddy Flow)",
         "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
       },
@@ -6868,7 +6920,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 189870,
       "name": "Mais uma Vez",
       "url": "https://open.spotify.com/track/6Nv3ZUW0VuGWQH0oswtLpg"
@@ -7748,7 +7800,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 175813,
       "name": "MOLHO",
       "url": "https://open.spotify.com/track/6rAuqRzgeeA2o73vNOBHYw"
@@ -12060,7 +12112,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 227843,
       "name": "S\u00f3 Sodadi",
       "url": "https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q"
@@ -14132,6 +14184,24 @@
       "duration_ms": 170906,
       "name": "Vibra",
       "url": "https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq"
+    },
+    {
+      "album": {
+        "name": "Viciado em Ti",
+        "url": "https://open.spotify.com/album/2mu7IsbhvAIghL2D9GnshS"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e1udio Pina",
+          "url": "https://open.spotify.com/artist/0q4LqAaTeDu8W3kZCfIX9v"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166922,
+      "name": "Viciado em Ti",
+      "url": "https://open.spotify.com/track/0NGj4CgNFN09iWSNCe5dYn"
     },
     {
       "album": {

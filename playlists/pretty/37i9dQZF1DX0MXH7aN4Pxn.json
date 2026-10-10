@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 723284,
+  "num_followers": 723168,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,26 @@
     {
       "added_at": "2026-07-02 23:00:04",
       "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+    },
+    {
+      "added_at": "2026-07-02 23:00:04",
+      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
-    },
-    {
-      "added_at": "2026-07-02 23:00:04",
-      "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2026-07-02 23:00:04",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2026-07-02 23:00:04",
       "album": {
+        "name": "LEVELS",
+        "url": "https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9"
+      },
+      "artists": [
+        {
+          "name": "FUZION",
+          "url": "https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB"
+        }
+      ],
+      "duration_ms": 198455,
+      "name": "LEVELS",
+      "url": "https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho"
+    },
+    {
+      "added_at": "2026-07-02 23:00:04",
+      "album": {
         "name": "0800 HEAVEN",
         "url": "https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
       "url": "https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5"
-    },
-    {
-      "added_at": "2026-07-02 23:00:04",
-      "album": {
-        "name": "LEVELS",
-        "url": "https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9"
-      },
-      "artists": [
-        {
-          "name": "FUZION",
-          "url": "https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB"
-        }
-      ],
-      "duration_ms": 198455,
-      "name": "LEVELS",
-      "url": "https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho"
     },
     {
       "added_at": "2026-07-02 23:00:04",

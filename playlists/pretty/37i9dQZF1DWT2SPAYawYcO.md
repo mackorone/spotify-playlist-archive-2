@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> Brand new music from Son & Water, Troye Sivan, Slayyyter, daine, Remi Wolf + more
+> Brand new music from Son & Water, Troye Sivan, Slayyyter, Gunna, daine, Remi Wolf + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,968 likes - 101 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,139 likes - 101 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 100 | [not your wife](https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [not your wife](https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA) | 3:45 |
 | 101 | [Ponder Neek](https://open.spotify.com/track/3FQwEFzzf40iVo0xA6SjBb) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [Ponder Neek](https://open.spotify.com/album/0qoSNEhxEAQCgMg9p65AEq) | 2:35 |
 
-Snapshot ID: `AAAAACPZARsOYP4RjIWjqHIIAV013OH1`
+Snapshot ID: `AAAAAKO1efZ4fGARcgQ7HlP9fB4CEA6x`

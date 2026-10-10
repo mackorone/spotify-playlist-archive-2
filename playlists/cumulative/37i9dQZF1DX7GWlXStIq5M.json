@@ -8643,6 +8643,36 @@
     },
     {
       "album": {
+        "name": "EXORCISMO",
+        "url": "https://open.spotify.com/album/0kVpm7KtcOjFAmdHu9LzT7"
+      },
+      "artists": [
+        {
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "name": "RKills",
+          "url": "https://open.spotify.com/artist/4hnqmucHwl4H2F3N2bkgdn"
+        },
+        {
+          "name": "Pedrowl",
+          "url": "https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o"
+        },
+        {
+          "name": "DJ \u00c5NJO",
+          "url": "https://open.spotify.com/artist/2dYbMv07G72igGiZeFkctO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276518,
+      "name": "EXORCISMO",
+      "url": "https://open.spotify.com/track/1JJg0jkyy3zMXxiY8sNbEY"
+    },
+    {
+      "album": {
         "name": "F.O.D.A.",
         "url": "https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm"
       },
@@ -10448,7 +10478,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 119999,
       "name": "HATER",
       "url": "https://open.spotify.com/track/5VwJm9hLYWlRDVUI6zctma"

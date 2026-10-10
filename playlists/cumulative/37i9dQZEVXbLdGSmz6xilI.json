@@ -8188,7 +8188,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 284288,
       "name": "D\u1ea1o N\u00e0y",
       "url": "https://open.spotify.com/track/4MCP9l0QB9YN2LCkIy8mz4"
@@ -14018,7 +14018,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 228413,
       "name": "Kh\u00f4ng Th\u1ec3 Say",
       "url": "https://open.spotify.com/track/1K0HQ30Wc11okzlcnFA7Ub"
@@ -14116,7 +14116,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 232647,
       "name": "Kh\u00f4ng Y\u00eau Em Th\u00ec Y\u00eau Ai?",
       "url": "https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t"
@@ -19280,6 +19280,24 @@
     {
       "album": {
         "name": "nh\u1eafn nh\u1ee7",
+        "url": "https://open.spotify.com/album/1VRw9B6uJUjwX7vdLmSHyJ"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241190,
+      "name": "nh\u1eafn nh\u1ee7",
+      "url": "https://open.spotify.com/track/2Wjghh0RpiBquLsJ932X6R"
+    },
+    {
+      "album": {
+        "name": "nh\u1eafn nh\u1ee7",
         "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
       },
       "artists": [
@@ -19844,7 +19862,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 260117,
       "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
       "url": "https://open.spotify.com/track/5rSAUmbOg4giDrM29vUyHe"
@@ -20012,7 +20030,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 254304,
       "name": "N\u1eafng c\u00f3 mang em v\u1ec1",
       "url": "https://open.spotify.com/track/6nInHlewtrNKguNKlXt0Ur"
@@ -27774,7 +27792,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -28958,7 +28976,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -31536,7 +31554,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 275077,
       "name": "\u0110\u00f4 Tr\u01b0\u1edfng (Remake)",
       "url": "https://open.spotify.com/track/78V670OSHmeb1fF4CJBR4P"
@@ -31926,7 +31944,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 214153,
       "name": "\u0110\u1ec3 D\u00e0nh Khi Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/7Ap1JyVKsS8dWQgyKUCUwy"

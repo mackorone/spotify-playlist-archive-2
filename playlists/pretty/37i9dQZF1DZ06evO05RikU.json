@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43837,
+  "num_followers": 43839,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAApBSqdR0g414wragQuMsHu",
+  "snapshot_id": "asbdAAAAAADK1EBSQNtxq3MbX3Gikgpg",
   "tracks": [
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "tqum",
-        "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
       "artists": [
         {
@@ -256,13 +256,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 149589,
-      "name": "tqum",
-      "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
+      "duration_ms": 170081,
+      "name": "Saberte Querer",
+      "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+        "name": "tqum",
+        "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
       },
       "artists": [
         {
@@ -296,13 +296,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
         }
       ],
-      "duration_ms": 170081,
-      "name": "Saberte Querer",
-      "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
+      "duration_ms": 149589,
+      "name": "tqum",
+      "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "tqum (feat. Kim Petras) [Remix]",
-        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "tqum (feat. Kim Petras) - Remix",
-      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goofy, Pt. 2 (Remix)",
         "url": "https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 201061,
       "name": "Goofy, Pt. 2 - Remix",
       "url": "https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "tqum (feat. Kim Petras) [Remix]",
+        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "tqum (feat. Kim Petras) - Remix",
+      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
     },
     {
       "added_at": null,

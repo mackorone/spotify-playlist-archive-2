@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Nena",
+  "description": "Uma playlist de pura alma pop! Foto: IOLANDA",
   "name": "Pop PT",
   "tracks": [
     {
@@ -516,7 +516,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 136447,
       "name": "AL\u00d4",
       "url": "https://open.spotify.com/track/368RNXKnoAUO91Yu20mUQ1"
@@ -2707,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "Quebranto",
+        "url": "https://open.spotify.com/album/05qf2ghTPLyKUX2p9pkylE"
+      },
+      "artists": [
+        {
+          "name": "IOLANDA",
+          "url": "https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198670,
+      "name": "Dei-te a Minha M\u00e3o",
+      "url": "https://open.spotify.com/track/7acTRQ3bpDo2B4k2eSep9S"
+    },
+    {
+      "album": {
         "name": "Deixa Arder",
         "url": "https://open.spotify.com/album/1rowd4Hk35NW58gUWTvXjU"
       },
@@ -3632,6 +3650,24 @@
       "duration_ms": 155478,
       "name": "Enleado",
       "url": "https://open.spotify.com/track/6AQL4I6BDvAIr75Iy4tXBP"
+    },
+    {
+      "album": {
+        "name": "Entre 4 Paredes",
+        "url": "https://open.spotify.com/album/5TEO2qtvIKGmLwv14vvQsR"
+      },
+      "artists": [
+        {
+          "name": "Fernando Daniel",
+          "url": "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240624,
+      "name": "Entre 4 Paredes",
+      "url": "https://open.spotify.com/track/1lSajwsQw7r9HmP2y5qkiS"
     },
     {
       "album": {
@@ -7468,7 +7504,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 173444,
       "name": "Olha P\u2019ra Ela",
       "url": "https://open.spotify.com/track/65knUcT6YYCnWONjhYYh4r"
@@ -9210,6 +9246,24 @@
       "duration_ms": 158766,
       "name": "sabesamar",
       "url": "https://open.spotify.com/track/1wJeFzk6SsB0o5ozRh2RGf"
+    },
+    {
+      "album": {
+        "name": "Saia Da M\u00e3e",
+        "url": "https://open.spotify.com/album/1PIH68p3AQaRfCOP6Y9Fc8"
+      },
+      "artists": [
+        {
+          "name": "Nuno Ribeiro",
+          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177586,
+      "name": "Saia Da M\u00e3e",
+      "url": "https://open.spotify.com/track/3ULBoc9ijbqodEDcaC9Tp8"
     },
     {
       "album": {
@@ -10966,7 +11020,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 164650,
       "name": "um do outro",
       "url": "https://open.spotify.com/track/6gw8EpXw9txLByfBqqDUL2"

@@ -1,6 +1,6 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
-  "num_followers": 1585554,
+  "num_followers": 1585479,
   "original_name": "Summer House 2026",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,26 @@
     {
       "added_at": "2026-10-09 04:01:56",
       "album": {
-        "name": "TRIPPIN",
-        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         },
         {
-          "name": "Mapei",
-          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
         }
       ],
-      "duration_ms": 202881,
-      "name": "TRIPPIN",
-      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
+      "duration_ms": 181411,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
     },
     {
       "added_at": "2026-10-09 04:01:56",
@@ -291,26 +295,22 @@
     {
       "added_at": "2026-10-09 04:01:56",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
+        "name": "TRIPPIN",
+        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         },
         {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Tristan Henry",
-          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
         }
       ],
-      "duration_ms": 181411,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
+      "duration_ms": 202881,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
     },
     {
       "added_at": "2026-10-09 04:01:56",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-10-09 04:01:56",
       "album": {
+        "name": "Hey Everybody",
+        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 156498,
+      "name": "Hey Everybody",
+      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+    },
+    {
+      "added_at": "2026-10-09 04:01:56",
+      "album": {
         "name": "Sauti",
         "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 208770,
       "name": "Sauti",
       "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
-    },
-    {
-      "added_at": "2026-10-09 04:01:56",
-      "album": {
-        "name": "Hey Everybody",
-        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 156498,
-      "name": "Hey Everybody",
-      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
     },
     {
       "added_at": "2026-10-09 04:01:56",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-10-09 04:01:56",
       "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2026-10-09 04:01:56",
-      "album": {
         "name": "High On Me",
         "url": "https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 189767,
       "name": "High On Me",
       "url": "https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp"
+    },
+    {
+      "added_at": "2026-10-09 04:01:56",
+      "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
       "added_at": "2026-10-09 04:01:56",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-10-09 04:01:56",
       "album": {
-        "name": "Silver Lines (feat. Emily Warren)",
-        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Emily Warren",
-          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
-        }
-      ],
-      "duration_ms": 201296,
-      "name": "Silver Lines (feat. Emily Warren)",
-      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
-    },
-    {
-      "added_at": "2026-10-09 04:01:56",
-      "album": {
         "name": "Actin' Tough",
         "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 140500,
       "name": "Forever (feat. Malou & Yuna)",
       "url": "https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT"
+    },
+    {
+      "added_at": "2026-10-09 04:01:56",
+      "album": {
+        "name": "Silver Lines (feat. Emily Warren)",
+        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Emily Warren",
+          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+        }
+      ],
+      "duration_ms": 201296,
+      "name": "Silver Lines (feat. Emily Warren)",
+      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
       "added_at": "2026-10-09 04:01:56",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-10-09 04:01:56",
       "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
-      },
-      "artists": [
-        {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Positive",
-      "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
-    },
-    {
-      "added_at": "2026-10-09 04:01:56",
-      "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 175708,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+    },
+    {
+      "added_at": "2026-10-09 04:01:56",
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
     },
     {
       "added_at": "2026-10-09 04:01:56",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-10-09 04:01:56",
       "album": {
-        "name": "Share The House",
-        "url": "https://open.spotify.com/album/5htcQ3WE3AZlyiuiScVJJl"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 192755,
-      "name": "Share The House",
-      "url": "https://open.spotify.com/track/6e9r7gwOb02rrn0uDJ4UQS"
-    },
-    {
-      "added_at": "2026-10-09 04:01:56",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 220838,
       "name": "Assumptions",
       "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
+    },
+    {
+      "added_at": "2026-10-09 04:01:56",
+      "album": {
+        "name": "Share The House",
+        "url": "https://open.spotify.com/album/5htcQ3WE3AZlyiuiScVJJl"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "Share The House",
+      "url": "https://open.spotify.com/track/6e9r7gwOb02rrn0uDJ4UQS"
     },
     {
       "added_at": "2026-10-09 04:01:56",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2026-10-09 04:01:56",
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf"
+      },
+      "artists": [
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC"
+    },
+    {
+      "added_at": "2026-10-09 04:01:56",
+      "album": {
         "name": "Solar Skin (feat. jasper.wav)",
         "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 148571,
       "name": "Solar Skin (feat. jasper.wav)",
       "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
-    },
-    {
-      "added_at": "2026-10-09 04:01:56",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf"
-      },
-      "artists": [
-        {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC"
     },
     {
       "added_at": "2026-10-09 04:01:56",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-10-09 04:01:56",
       "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
-    },
-    {
-      "added_at": "2026-10-09 04:01:56",
-      "album": {
         "name": "Not A Problem",
         "url": "https://open.spotify.com/album/4lck2TEXJQ94JSgv3Mhf5p"
       },
@@ -1915,22 +1899,18 @@
     {
       "added_at": "2026-10-09 04:01:56",
       "album": {
-        "name": "Whisper To Me",
-        "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
       },
       "artists": [
         {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Modern Tales",
-          "url": "https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k"
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
         }
       ],
-      "duration_ms": 226896,
-      "name": "Whisper To Me",
-      "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "added_at": "2026-10-09 04:01:56",
@@ -1951,6 +1931,26 @@
       "duration_ms": 199575,
       "name": "Rhythm Of The House",
       "url": "https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj"
+    },
+    {
+      "added_at": "2026-10-09 04:01:56",
+      "album": {
+        "name": "Whisper To Me",
+        "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Modern Tales",
+          "url": "https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Whisper To Me",
+      "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
     },
     {
       "added_at": "2026-10-09 04:01:56",

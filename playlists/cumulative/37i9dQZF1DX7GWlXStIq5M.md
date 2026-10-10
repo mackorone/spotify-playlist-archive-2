@@ -4,7 +4,7 @@
 
 > Hits e novos nomes do pop experimentando no mesmo palco! Foto: Bia Soull, Vita
 
-1,229 songs - 2 day 12 hr 55 min
+1,230 songs - 2 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Ex Mai Love \- 1,99 Remix](https://open.spotify.com/track/1BAiq5hAOtdbo9yohjgFn9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MGZD](https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh) | [Ex Mai Love \(1,99 Remix\)](https://open.spotify.com/album/1udfuU3yTteLuJeidefa3o) | 2:31 | 2023-08-11 | 2023-09-02 |
 | [exausta](https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX) | [GIOLI](https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd) | [baseado em surtos reais](https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC) | 2:19 | 2025-12-12 | 2026-03-14 |
 | [EXCEÇÃO!](https://open.spotify.com/track/1NVm3Ub1m8ONG4DLi6JHRY) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [EXCEÇÃO!](https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt) | 2:58 | 2024-10-11 | 2024-11-16 |
+| [EXORCISMO](https://open.spotify.com/track/1JJg0jkyy3zMXxiY8sNbEY) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb), [RKills](https://open.spotify.com/artist/4hnqmucHwl4H2F3N2bkgdn), [Pedrowl](https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o), [DJ ÅNJO](https://open.spotify.com/artist/2dYbMv07G72igGiZeFkctO) | [EXORCISMO](https://open.spotify.com/album/0kVpm7KtcOjFAmdHu9LzT7) | 4:36 | 2026-10-09 |  |
 | [F.O.D.A.](https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [F.O.D.A.](https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm) | 2:59 | 2024-12-06 | 2025-07-19 |
 | [f:\)da\-se](https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [f:\)da\-se](https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY) | 2:43 | 2023-10-20 | 2023-11-18 |
 | [FAKE](https://open.spotify.com/track/5kMZGY4B9I2ELBX1LdW401) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR) | [FAKE](https://open.spotify.com/album/4cAo61QXa2JBRWcmEznLg8) | 2:13 | 2023-07-14 | 2023-08-25 |
@@ -498,7 +499,7 @@
 | [Grand Piano](https://open.spotify.com/track/7EAqV4qeoHo6IO8IVs7THx) | [ALVA](https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s), [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v) | [Grand Piano](https://open.spotify.com/album/2OhFT1MP2QaII57FQjNEH8) | 2:33 | 2023-10-20 | 2023-12-02 |
 | [Grip](https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 1:50 | 2024-04-26 | 2024-08-31 |
 | [Habilidosamente](https://open.spotify.com/track/1gbls4hHLP5Fx6P5fEgcWr) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Habilidosamente](https://open.spotify.com/album/2BLsvryvNSZk9Tn6oZK8p4) | 3:16 | 2026-04-03 | 2026-06-26 |
-| [HATER](https://open.spotify.com/track/5VwJm9hLYWlRDVUI6zctma) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 1:59 | 2026-09-25 |  |
+| [HATER](https://open.spotify.com/track/5VwJm9hLYWlRDVUI6zctma) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 1:59 | 2026-09-25 | 2026-10-10 |
 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 | 2020-10-20 | 2023-02-15 |
 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 | 2023-08-25 | 2023-09-16 |
 | [High Right Now \(feat\. Wiz Khalifa\) \- Remix](https://open.spotify.com/track/5DPASDOoVakOcD8EIhb46T) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [High Right Now \(feat\. Wiz Khalifa\) \[Remix\]](https://open.spotify.com/album/0imwCieoxougGmptrN1WAx) | 2:55 | 2020-10-20 | 2023-02-15 |

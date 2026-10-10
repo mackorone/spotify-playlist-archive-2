@@ -4,7 +4,7 @@
 
 > Niños Del Cerro en portada.
 
-619 songs - 1 day 13 hr 15 min
+620 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 | 2023-02-24 | 2025-08-02 |
 | [cuando pienses en el destino](https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 3:45 | 2023-11-24 | 2026-07-25 |
 | [Cuando Sea Abuela](https://open.spotify.com/track/1m0cRuKnkpkfX68eF7fir0) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 4:17 | 2022-04-15 | 2022-07-29 |
+| [Cuando Vas al Trabajo](https://open.spotify.com/track/5dQvh98O4WO4PLiUNPrCE1) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Cuando Vas al Trabajo](https://open.spotify.com/album/4ZIcax9d1AXwPRoua42q94) | 2:40 | 2026-10-09 |  |
 | [Cuotas](https://open.spotify.com/track/7pRYt9hsBvUjdiWFGKigld) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Hecho en Casa](https://open.spotify.com/album/3p2eoHbgQS5XRCxUPWLfs1) | 4:12 | 2022-04-15 | 2022-12-10 |
 | [Cuándo y Dónde](https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Luz Elena Mendoza](https://open.spotify.com/artist/1ZHeh74UvOHtp0h6ZNyZtv) | [Cuándo y Dónde](https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf) | 3:14 | 2024-08-23 | 2026-07-25 |
 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-04-15 | 2022-12-10 |

@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 51 | [christmas comes in waves](https://open.spotify.com/track/0wYQEHRa98AdPdmOofZXbS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [christmas comes in waves](https://open.spotify.com/album/6lIIrC3M60Oi45B7D0QAyQ) | 3:41 |
 | 52 | [Jesus, My Mama, My Therapist](https://open.spotify.com/track/2aIYyC8gSLw0H3CNLhGajr) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Jesus, My Mama, My Therapist](https://open.spotify.com/album/5q6jZfZ06KkTYYMwfpWVxi) | 3:04 |
 | 53 | [Hungover in a Deer Stand](https://open.spotify.com/track/1gY1sOB3Vuq51B08iHQ761) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Mid\-Twenties Crisis](https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8) | 3:30 |
-| 54 | [I Can't Unlove You](https://open.spotify.com/track/5VvnMbz2nEBCsuQN85PmXT) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [I Can't Unlove You](https://open.spotify.com/album/45EiBixBQWJo3RlSuBcDSY) | 3:16 |
-| 55 | [Smoke Follows Beauty](https://open.spotify.com/track/0YUA6O8kXbA76KTliaMAnh) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Easy Does It](https://open.spotify.com/album/328tuPAI8AlyW6AC51ud4R) | 3:00 |
+| 54 | [Smoke Follows Beauty](https://open.spotify.com/track/0YUA6O8kXbA76KTliaMAnh) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Easy Does It](https://open.spotify.com/album/328tuPAI8AlyW6AC51ud4R) | 3:00 |
+| 55 | [I Can't Unlove You](https://open.spotify.com/track/5VvnMbz2nEBCsuQN85PmXT) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [I Can't Unlove You](https://open.spotify.com/album/45EiBixBQWJo3RlSuBcDSY) | 3:16 |
 | 56 | [The Goal](https://open.spotify.com/track/4P7rS04aNt7MWwvOpoQF7c) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Runnin’ Outta Time](https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK) | 3:12 |
 | 57 | [taylor did](https://open.spotify.com/track/6Cx68IbqamOsYnfxLh1WLX) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:36 |
 | 58 | [Stranger Things](https://open.spotify.com/track/5ECPTE8flZRbZxiriSrpIl) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 3:11 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AceblgAAAAC1s2YMhybtSm6f+bvRHlgZ`
+Snapshot ID: `Aceg+gAAAADPaKrgpU08aO2Uz3SfcaR8`

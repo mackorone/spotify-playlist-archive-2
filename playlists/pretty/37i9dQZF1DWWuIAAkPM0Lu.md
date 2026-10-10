@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag! Velkommen Noah's Ark II ⛵️⛵️
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,113 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,225 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Push It](https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:33 |
 | 2 | [Larger Than Life ft\. Benjamin Hav](https://open.spotify.com/track/5oz5hbrPeOH7HUPdy1YP8x) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [Larger Than Life ft\. Benjamin Hav](https://open.spotify.com/album/4yImdIG0lmAc3alJc52PGG) | 2:53 |
 | 3 | [Føles For Godt](https://open.spotify.com/track/53deYp0ybqe2d5qGcmjEYi) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Livet Er For Kort \(Del 1\)](https://open.spotify.com/album/27d3ar10qYMhOGRDaApaKt) | 3:32 |
-| 4 | [Ude Fra Indre](https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Freyy](https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:49 |
+| 4 | [Ude Fra Indre \(feat\. Freyy\)](https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Freyy](https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:49 |
 | 5 | [Sygt jeg stadig savner dig](https://open.spotify.com/track/3YT4FLkIGMuMzht3erEUWX) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Sygt jeg stadig savner dig](https://open.spotify.com/album/6o8QEdwfJKT01ZKLbVf2VK) | 2:38 |
 | 6 | [FF](https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 4:22 |
 | 7 | [Jackpot](https://open.spotify.com/track/2AXc5khn0M6yy8eTG7cwfn) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun), [OK OK](https://open.spotify.com/artist/0h4efFgEzH6VH5DP5Yqtqt) | [Jackpot](https://open.spotify.com/album/7g3fNz4Vdw1WhEPu4mdgHK) | 2:53 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 66 | [NOBODY](https://open.spotify.com/track/4ZyE95eUJXDGuOCz8xH7fB) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [NOBODY](https://open.spotify.com/album/1dDedjzFUmg7Y6lF85P2ql) | 2:10 |
 | 67 | [Firesky \(feat\. Mai Soon Young Øvlisen\)](https://open.spotify.com/track/4O9yMqbjDhZLGGacs7i0hB) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q), [Mai Soon Young Øvlisen](https://open.spotify.com/artist/669HjSr4BBC4m3LYRdFSiO) | [Firesky](https://open.spotify.com/album/03vWoveffqoAb2b64VEMds) | 7:53 |
 | 68 | [Superflex](https://open.spotify.com/track/6mkQ4Tocwp7yz3t9wQPmcz) | [Loke Deph](https://open.spotify.com/artist/3oRPfWPis1iIWdFElveUuN) | [ANTIGONE](https://open.spotify.com/album/27IzXahkeU3HvbdIJeHcqF) | 3:38 |
-| 69 | [Love You for a Long Time](https://open.spotify.com/track/6GDkq3L2d3bIlcR2Ag7MXi) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Love You for a Long Time](https://open.spotify.com/album/05QFeVoREENjt8tS2AqYl5) | 2:26 |
+| 69 | [Love You For A Long Time](https://open.spotify.com/track/6GDkq3L2d3bIlcR2Ag7MXi) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Love You For A Long Time](https://open.spotify.com/album/05QFeVoREENjt8tS2AqYl5) | 2:26 |
 | 70 | [Græder Nu](https://open.spotify.com/track/3cgNxFubXigUMpIkUQ66jc) | [Candidates of Ebba](https://open.spotify.com/artist/1Ogv6dsBV9NTZvtT0VZbUT), [Reinhard Vanbergen](https://open.spotify.com/artist/6uvyWuE7z8Rv93plqNWniu) | [Græder Nu](https://open.spotify.com/album/5ybo8ZZH0fs5heEp4jF0Sl) | 5:55 |
 | 71 | [Når Verden Er Sindssyg](https://open.spotify.com/track/1XljFUhsvdKN4U1cTEqfFT) | [Aura Dione](https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj), [Alexander Brown](https://open.spotify.com/artist/7lbTzUBIc6BXQNFFvkTqIF) | [Når Verden Er Sindssyg](https://open.spotify.com/album/04iY5t6l1rxm1uY2OrOACG) | 2:36 |
 | 72 | [Kinda Love It](https://open.spotify.com/track/49uiGJL2F4Nj56cCLCQG4W) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Kinda Love It](https://open.spotify.com/album/1m3Jun2PjCQAOL72bBExnT) | 3:27 |

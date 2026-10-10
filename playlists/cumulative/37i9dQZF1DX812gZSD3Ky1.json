@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Mark Tuan",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PROXIE",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -1388,6 +1388,28 @@
       "duration_ms": 171630,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
+    },
+    {
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/7cZJQRTTktip0yQx3t8sSs"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        },
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155529,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/1waM1iX8oDT7PnR5Abr5IZ"
     },
     {
       "album": {
@@ -6008,7 +6030,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 184347,
       "name": "Flowers for u",
       "url": "https://open.spotify.com/track/3317ol0zcjngV5nlhewYxk"
@@ -13222,7 +13244,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 219427,
       "name": "Obsessica",
       "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
@@ -13980,7 +14002,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -20338,7 +20360,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
@@ -20610,6 +20632,24 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/5hv95Anv6MWYDjVbdJZB7U"
+    },
+    {
+      "album": {
+        "name": "Viva (\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c)",
+        "url": "https://open.spotify.com/album/2FCxb9Ibmejtk2HapqugCw"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185686,
+      "name": "Viva (\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c)",
+      "url": "https://open.spotify.com/track/0TiRqRymaTwwqfvZPlL9TS"
     },
     {
       "album": {
@@ -22639,6 +22679,28 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49 \u0e44\u0e21\u0e48\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e2d\u0e35\u0e01\u0e40\u0e25\u0e22",
+        "url": "https://open.spotify.com/album/2JJE2Q545ndUE2O1JweiG0"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        },
+        {
+          "name": "\u0e2a\u0e22\u0e32\u0e42\u0e21",
+          "url": "https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49 \u0e44\u0e21\u0e48\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e2d\u0e35\u0e01\u0e40\u0e25\u0e22",
+      "url": "https://open.spotify.com/track/44ft9FyuUpoHY7ev7YOEod"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e04\u0e07\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e23\u0e32 [Farewell]",
         "url": "https://open.spotify.com/album/2yMgZeBiXjehbn50YTqXep"
       },
@@ -22672,7 +22734,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 260500,
       "name": "\u0e08\u0e32\u0e23\u0e22\u0e4c",
       "url": "https://open.spotify.com/track/148XXIHC5yeUDkOvlByiPM"
@@ -23164,7 +23226,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 283258,
       "name": "\u0e17\u0e35\u0e48\u0e17\u0e35\u0e48\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
       "url": "https://open.spotify.com/track/0FnnwqW9QVZgoHfB5mH49V"
@@ -23477,6 +23539,46 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e2d SIS (TER)",
+        "url": "https://open.spotify.com/album/3FPSENJW4gkgLHKSe2j28K"
+      },
+      "artists": [
+        {
+          "name": "DICEBLUE",
+          "url": "https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv"
+        },
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240461,
+      "name": "\u0e23\u0e2d SIS (TER)",
+      "url": "https://open.spotify.com/track/0jJ4i5wVYz6ENRrJqDWfz6"
+    },
+    {
+      "album": {
+        "name": "DUST",
+        "url": "https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232175,
+      "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19 (Too Late)",
+      "url": "https://open.spotify.com/track/3J06uWLDn8bNnnQznle5V6"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32?",
         "url": "https://open.spotify.com/album/56BsyBSsRlxzfzc1vO5rYQ"
       },
@@ -23568,6 +23670,24 @@
       "duration_ms": 200170,
       "name": "\u0e23\u0e31\u0e01\u0e21\u0e37\u0e2d\u0e2a\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/6FngEZyo8Gg5P4fzckJeX4"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Town",
+        "url": "https://open.spotify.com/album/2M1M2ILdah6R0VsHA65ePI"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247567,
+      "name": "\u0e23\u0e31\u0e01\u0e2d\u0e22\u0e39\u0e48 (linger)",
+      "url": "https://open.spotify.com/track/5joUZVyzfFEnfDAOQCOt0X"
     },
     {
       "album": {
@@ -24105,6 +24225,28 @@
     },
     {
       "album": {
+        "name": "IN MY ROOM SESSION",
+        "url": "https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228493,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e01\u0e47\u0e1e\u0e2d (Jealous)",
+      "url": "https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2d\u0e47\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e17\u0e19\u0e40\u0e21\u0e49\u0e19\u0e17\u0e4c",
         "url": "https://open.spotify.com/album/60vLpPLaRxohZ1D8gJQRP1"
       },
@@ -24217,6 +24359,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
+        "url": "https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        },
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
+      "url": "https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32? (Was I Just a Lie?) [From \u0e2d\u0e22\u0e48\u0e32\u0e02\u0e2d\u0e1e\u0e35\u0e48\u0e40\u0e08\u0e19 Don't Be Too Emotional]",
         "url": "https://open.spotify.com/album/06HOlX1hxvOUJQR8DNfkva"
       },
@@ -24246,7 +24410,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 163179,
       "name": "\u0e40\u0e08\u0e47\u0e1a\u0e41\u0e15\u0e48\u0e08\u0e1a",
       "url": "https://open.spotify.com/track/5xeSLlhBkNWIVSe1qSrj7m"
@@ -24510,7 +24674,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 243750,
       "name": "\u0e41\u0e04\u0e48...\u0e2b\u0e32\u0e22\u0e44\u0e1b (Gone)",
       "url": "https://open.spotify.com/track/3rsMVOw61uhP7Ub96xsK3o"
@@ -24660,7 +24824,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 196415,
       "name": "\u0e42\u0e14\u0e19\u0e40\u0e18\u0e2d\u0e40\u0e25\u0e48\u0e19 (TWIST)",
       "url": "https://open.spotify.com/track/1bWNe0iAufpzKrPaYBNPZB"
@@ -24751,6 +24915,28 @@
     },
     {
       "album": {
+        "name": "NO FILTER",
+        "url": "https://open.spotify.com/album/4BGJcL9RyfCFBk725IctYB"
+      },
+      "artists": [
+        {
+          "name": "BENZKHAOKHWAN",
+          "url": "https://open.spotify.com/artist/7yH4XTziOEA3lmES4RExCy"
+        },
+        {
+          "name": "HYE",
+          "url": "https://open.spotify.com/artist/0WLEN3JwlwpYYmM8Hu0IUO"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "\u0e44\u0e1b\u0e15\u0e48\u0e2d\u0e44\u0e2b\u0e27 \u0e44\u0e1b\u0e15\u0e48\u0e2d\u0e44\u0e2b\u0e21 (GO ON)",
+      "url": "https://open.spotify.com/track/6nEJGG2R9j6XP2bQeOHOJ7"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
         "url": "https://open.spotify.com/album/2BMwfH1ir5dF3qLYHDny7x"
       },
@@ -24780,7 +24966,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 164005,
       "name": "\u0e44\u0e21\u0e48\u0e0a\u0e31\u0e27\u0e23\u0e4c (Not Sure)",
       "url": "https://open.spotify.com/track/1H99TrJbwr4790x1MxwTe9"
@@ -24860,6 +25046,24 @@
       "duration_ms": 282352,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e44\u0e2b\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (starlost.) [Side by Side Session]",
       "url": "https://open.spotify.com/track/4lulVr9GOlW2DXafBsoyT7"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e23\u0e27\u0e22\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Rich)",
+        "url": "https://open.spotify.com/album/25COxcFDIkLHGpZiXohhb5"
+      },
+      "artists": [
+        {
+          "name": "LEGO",
+          "url": "https://open.spotify.com/artist/3GSFe2yYu6yHS0hI1k4ElL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u0e44\u0e21\u0e48\u0e23\u0e27\u0e22\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Rich)",
+      "url": "https://open.spotify.com/track/6MMQz5ctjNNEE7CWKoEDrM"
     },
     {
       "album": {

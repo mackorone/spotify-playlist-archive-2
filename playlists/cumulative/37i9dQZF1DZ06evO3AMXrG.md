@@ -4,7 +4,7 @@
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-119 songs - 9 hr 44 min
+122 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Mr\. Swin y el Tres Pasitos Jazz Ensemble \- En Vivo](https://open.spotify.com/track/6f9jKcVpOUWJDepavpp2bO) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 6:48 | 2022-05-25 | 2022-10-14 |
 | [Musica Sin Tiempo](https://open.spotify.com/track/6YfZ7Mw1yjo97Ae7ZU5v3Z) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Musica Sin Tiempo](https://open.spotify.com/album/13pukodIQcLgPOSeekqsJj) | 4:44 | 2025-05-20 |  |
 | [Música Sin Tiempo](https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Música Sin Tiempo](https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9) | 4:44 | 2022-05-25 | 2025-05-20 |
-| [Nadie Se Atreve](https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:32 | 2022-05-25 |  |
+| [Nadie Se Atreve](https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:32 | 2022-05-25 | 2026-10-10 |
+| [Nadie Se Atreve](https://open.spotify.com/track/68g89Ux9IMjlBSDBb64EuR) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/480KRHziOVWmBEuXX5MB6N) | 5:32 | 2026-10-10 |  |
 | [Natural Mystic \- Live](https://open.spotify.com/track/2pQQIvdKGssKTYdgr62lPp) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Tribute to the Legend Bob Marley \(Live\)](https://open.spotify.com/album/1a13hH48fVZwvpODjcnjoi) | 4:30 | 2022-05-25 | 2022-10-13 |
 | [No Me Busques \- En Vivo](https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Cultura en Vivo](https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8) | 6:25 | 2022-05-25 | 2024-10-29 |
 | [No Me Interesa](https://open.spotify.com/track/1lIBlgWFQCN9zLwUaUMJfL) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:44 | 2022-05-26 | 2026-10-02 |
@@ -113,7 +114,8 @@
 | [Sobrevolando](https://open.spotify.com/track/6CM3CKkVFpNd7blvc6kpvN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 4:27 | 2025-05-20 |  |
 | [Solo Un Eco](https://open.spotify.com/track/4SBZcKzK0Vhat4I6u1ogXh) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5UHNIjot3Su72sWvuuy0WH) | 4:45 | 2025-06-02 |  |
 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 | 2023-03-19 | 2025-06-02 |
-| [Sube el Humo](https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 4:41 | 2022-05-25 |  |
+| [Sube el Humo](https://open.spotify.com/track/6AiaeWfD8uyOZ9DFN1QiCK) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/480KRHziOVWmBEuXX5MB6N) | 4:41 | 2026-10-10 |  |
+| [Sube el Humo](https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 4:41 | 2022-05-25 | 2026-10-10 |
 | [Suelta los Amarres](https://open.spotify.com/track/76G33BEy8ztidGLSPWlU1b) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:05 | 2022-05-25 | 2026-06-17 |
 | [Sólo Por Ti](https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [El Momento](https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU) | 3:55 | 2022-05-25 |  |
 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 | 2022-05-25 | 2022-07-04 |
@@ -123,7 +125,8 @@
 | [Tempestad Tranquila](https://open.spotify.com/track/3ITXSEYKUp1ISVFhWRClIx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV) | 3:37 | 2025-09-19 | 2026-06-14 |
 | [Tempestad Tranquila](https://open.spotify.com/track/7yTgayrV0QMrB20nTzWdB8) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 3:37 | 2022-05-26 | 2023-05-26 |
 | [Ten Valor](https://open.spotify.com/track/2WzAnFamItmOMGWgIvHzul) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 5:21 | 2025-05-22 | 2025-07-09 |
-| [Un Deseo](https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:22 | 2022-05-25 |  |
+| [Un Deseo](https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:22 | 2022-05-25 | 2026-10-10 |
+| [Un Deseo](https://open.spotify.com/track/70PFXqJLPwzMqXG8IcJ9gj) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/480KRHziOVWmBEuXX5MB6N) | 5:22 | 2026-10-10 |  |
 | [Viértele Flor](https://open.spotify.com/track/03GdgDtxpDN12XyDq6GM2a) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:31 | 2022-05-25 | 2022-10-12 |
 | [¿Qué Será? / Ritmo Que Pesa / Suelta los Amarres / Revolución en Estéreo / Lo de Más \- En Vivo](https://open.spotify.com/track/09BZvRoyzf58jpjBStkEzg) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 13:54 | 2022-05-25 | 2024-06-26 |
 | [Árboles](https://open.spotify.com/track/109IRvp8IFTgPDllZdyWJV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:25 | 2022-05-25 | 2026-06-17 |

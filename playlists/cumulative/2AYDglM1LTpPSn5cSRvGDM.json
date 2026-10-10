@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "Around You",
+        "url": "https://open.spotify.com/album/1ttCtrA5iUWXMfuQLPL4Do"
+      },
+      "artists": [
+        {
+          "name": "Morgin Madison",
+          "url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej"
+        },
+        {
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220781,
+      "name": "Around You",
+      "url": "https://open.spotify.com/track/6oox0upuGz8JH5XqDShOjS"
+    },
+    {
+      "album": {
         "name": "Arrow",
         "url": "https://open.spotify.com/album/4G5oRZRiMpi3imTNZU8QYD"
       },
@@ -1368,7 +1390,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 232320,
       "name": "Embers",
       "url": "https://open.spotify.com/track/119ZdQHm45Y2p0mxn6F3zi"
@@ -2336,7 +2358,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 193440,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/3JuScXVzkJTODvJJFfqeM2"
@@ -2888,6 +2910,24 @@
       "duration_ms": 191612,
       "name": "Kinetic",
       "url": "https://open.spotify.com/track/2jktpTUmFD2Wm2FSsEPpsA"
+    },
+    {
+      "album": {
+        "name": "Kiss You",
+        "url": "https://open.spotify.com/album/7D4Qmi0ZQzYfWCPyiQHmfE"
+      },
+      "artists": [
+        {
+          "name": "Huvagen",
+          "url": "https://open.spotify.com/artist/3ezX0M9Qa3nPqVj6jjttHr"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "Kiss You",
+      "url": "https://open.spotify.com/track/7pJPkkovbBSAjQiRDSJ130"
     },
     {
       "album": {
@@ -3522,7 +3562,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 190486,
       "name": "Memory",
       "url": "https://open.spotify.com/track/5FGMgtXqZW9J5Coo6dbyWr"
@@ -3884,7 +3924,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 188750,
       "name": "Noire",
       "url": "https://open.spotify.com/track/5PSZ7KoaTcOqDz7rIo6bLl"
@@ -4358,7 +4398,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 210491,
       "name": "Read My Mind",
       "url": "https://open.spotify.com/track/0foQv8GJyl3RqAXYH02gY0"
@@ -4868,7 +4908,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 215238,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0HYmlwB0dIDK1A1wfuD9Nw"
@@ -4996,7 +5036,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 139868,
       "name": "Starry Eyed Surprise",
       "url": "https://open.spotify.com/track/3aWmrNmz5vn2qj864CpFkm"
@@ -5036,7 +5076,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 234375,
       "name": "States Of Flux",
       "url": "https://open.spotify.com/track/5OA1CKlkuzizhwDbhFmdCT"
@@ -5376,7 +5416,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 231555,
       "name": "Tell Me You Don't",
       "url": "https://open.spotify.com/track/2dFpOpz7KP12uxhMskcFZL"
@@ -5394,7 +5434,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 220322,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/6M8cnLqv9XJBb9XTxMdwn5"
@@ -5646,7 +5686,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 236160,
       "name": "Today",
       "url": "https://open.spotify.com/track/1vXq8tA3FWMatlTxweb3BJ"
@@ -6180,7 +6220,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 284166,
       "name": "Yo Sano",
       "url": "https://open.spotify.com/track/2JGPEAkEXXc6FFCDIcKKOT"

@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Edumare Adupe",
+        "url": "https://open.spotify.com/album/7dmCVKjaV3ZEcRSKFpRzne"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189010,
+      "name": "Ibadan",
+      "url": "https://open.spotify.com/track/3LqXydNbpqQPJlDdLm8FNi"
+    },
+    {
+      "album": {
         "name": "Ebenezer Obey in London",
         "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
       },
@@ -968,10 +986,28 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-10",
       "duration_ms": 218586,
       "name": "Ijebu",
       "url": "https://open.spotify.com/track/0HdUgqDVLbMewSrfscuf5U"
+    },
+    {
+      "album": {
+        "name": "Edumare Adupe",
+        "url": "https://open.spotify.com/album/7dmCVKjaV3ZEcRSKFpRzne"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225001,
+      "name": "Ijebu (Juju Yoruba)",
+      "url": "https://open.spotify.com/track/3mA4DJTevy6GreHX2IENWF"
     },
     {
       "album": {

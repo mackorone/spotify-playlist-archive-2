@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Jess Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,682,252 likes - 135 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,681,922 likes - 135 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-225 songs - 13 hr 9 min
+228 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 | 2025-07-04 |  |
 | [Beauty Pageant](https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:15 | 2026-04-10 |  |
 | [Been By Now](https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Been By Now](https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4) | 3:33 | 2026-07-27 |  |
+| [before you hit the water.](https://open.spotify.com/track/2V1sCdp5P2uLVjPiPY9GMI) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [before you hit the water.](https://open.spotify.com/album/6bSls2Yh63Ei5G0VQ5or8l) | 3:03 | 2026-10-09 |  |
 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 | 2025-11-07 | 2026-02-20 |
 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 | 2025-07-04 | 2025-10-11 |
 | [BETTER MAN](https://open.spotify.com/track/26MqDvGIe4A4UZpF5J2Ame) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:49 | 2025-09-05 |  |
@@ -35,6 +36,7 @@
 | [Born To](https://open.spotify.com/track/3krLzrgWMoKzcyi0hZQ2F4) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Born To](https://open.spotify.com/album/7HrCHq421CdAnnRgrs2SoF) | 2:52 | 2025-09-18 | 2025-11-08 |
 | [Boy](https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Boy](https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58) | 3:21 | 2025-07-04 | 2026-02-18 |
 | [bridesmaid](https://open.spotify.com/track/2LZ24cM1dh7nIs1tblxiwV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [bridesmaid](https://open.spotify.com/album/26KBwbUyMsbzjiAXyrOKP8) | 3:12 | 2025-07-04 | 2026-03-28 |
+| [Brother](https://open.spotify.com/track/3JSNvRfLyEk2JzJgira7rP) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [I: Keep The Fire On](https://open.spotify.com/album/73PTFhVbYlekS974F7GmSG) | 6:23 | 2026-10-09 |  |
 | [Bullseye \(with Hozier\)](https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:23 | 2025-07-04 | 2026-03-28 |
 | [California](https://open.spotify.com/track/6Fu81TIuJn4rYleNUctqOx) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [California](https://open.spotify.com/album/08Dvx4JDDAICQr0Vzeu0ve) | 2:16 | 2025-07-18 | 2026-07-04 |
 | [California](https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [California](https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO) | 4:24 | 2025-10-31 |  |
@@ -52,6 +54,7 @@
 | [Daylight](https://open.spotify.com/track/4oRB6Rgyq2Y5K30elz9vzs) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Daylight](https://open.spotify.com/album/0dFAxj60T1Mb6gGNTgWcwJ) | 3:17 | 2026-09-09 |  |
 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 | 2026-03-13 |  |
 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-03-27 | 2026-09-03 |
+| [De Echte](https://open.spotify.com/track/3ubs1pAO1vR2Irsqcg27V4) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [De Echte](https://open.spotify.com/album/6MmU4KEF0bxmn4unaxnS7Z) | 2:34 | 2026-10-09 |  |
 | [Dead & Gone](https://open.spotify.com/track/5ckwe0irXGn4hO3QRpzl8F) | [Still Blank](https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71) | [Still Blank](https://open.spotify.com/album/3rDUokLO2pAWEtjT9aRTIc) | 4:23 | 2025-11-21 | 2026-06-19 |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2025-07-04 | 2026-03-28 |
 | [Die Happy](https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Die Happy](https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k) | 3:49 | 2025-11-07 |  |

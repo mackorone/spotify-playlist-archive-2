@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,839 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,957 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 41 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
 | 42 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 |
 | 43 | [Perra](https://open.spotify.com/track/5HgNYJmYucAPD2UpuQfL3t) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Filarmónica de Santa Fe](https://open.spotify.com/artist/3hNlZvzmCEeSSLBTvwJ7E6) | [Sinfónico 45 Años \- En Vivo](https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH) | 4:11 |
-| 44 | [Una Calle Nos Separa](https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:24 |
-| 45 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
+| 44 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
+| 45 | [Una Calle Nos Separa](https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:24 |
 | 46 | [Te Propongo](https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk), [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [El Secreto](https://open.spotify.com/album/5u9ztgTHFrPoyGsXwysaSC) | 3:10 |
 | 47 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 |
 | 48 | [Distancia](https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Volvió el Parrandero!!!](https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7) | 4:09 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 74 | [Voy a Olvidarme de Mí](https://open.spotify.com/track/2YCQpCXM0ebgdFLql30VDh) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo](https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n) | 3:16 |
 | 75 | [Donde Estará Mi Primavera](https://open.spotify.com/track/737mILAFtVz8j8nt6578Ex) | [Los Lirios](https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A), [Leo Matioli](https://open.spotify.com/artist/7wpQO9kv6Y4zNpHiRMc9gR) | [25 Años Clásicos Con Clásicos](https://open.spotify.com/album/3yRkYWmRNloQ3t2zAjx5sY) | 4:27 |
 | 76 | [Antes](https://open.spotify.com/track/2WkYydyAY8QsFhy16KgsCY) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:52 |
-| 77 | [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 |
+| 77 | [Después De Ti](https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:19 |
 | 78 | [A través del vaso](https://open.spotify.com/track/65u2ej8u0QdVjRYNN0s4zm) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [La voz de la cumbia \(Mix\)](https://open.spotify.com/album/3pYJUba60wYrZ54pFVnYOX) | 1:57 |
 | 79 | [Sobreviviendo](https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Los Más Grandes Éxitos](https://open.spotify.com/album/4Eh3Fgofkkc7xpMyKFZYQA) | 3:05 |
 | 80 | [A Decirme Que](https://open.spotify.com/track/4KIoWx4KWdFCH51MoQ3vXw) | [Los Lirios](https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A) | [25 Años Clásicos Con Clásicos](https://open.spotify.com/album/3yRkYWmRNloQ3t2zAjx5sY) | 4:04 |

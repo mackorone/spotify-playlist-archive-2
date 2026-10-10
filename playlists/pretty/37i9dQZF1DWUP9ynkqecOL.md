@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > tradición, modernidad y frescura\. Sonido argentino, del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,688 likes - 35 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,695 likes - 35 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

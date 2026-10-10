@@ -4,7 +4,7 @@
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music.
 
-104 songs - 6 hr 39 min
+105 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Poliahu](https://open.spotify.com/track/1ID6ZAYyyWb8HUwrhenIZl) | [Teresa Bright](https://open.spotify.com/artist/6zsIn96BUt3FjnorApFEH2) | [A Gallery](https://open.spotify.com/album/6BOkerDmpyiUNm8PaOc25k) | 4:22 | 2022-05-02 | 2025-05-02 |
 | [Popoki Slack Key](https://open.spotify.com/track/6oipvFEyEy8DQS9dGKQ5wS) | [Ray Kane](https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR) | [Wa'ahila](https://open.spotify.com/album/2EIWZ57Tbsd1RLdFVKRoSw) | 2:42 | 2022-05-02 | 2024-01-15 |
 | [Popoki Slack Key \- Instrumental](https://open.spotify.com/track/63Fq2OlIJKdNK1kSl54iv5) | [Ray Kane](https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR) | [Wa\`ahila](https://open.spotify.com/album/5Uw3em9fZbu9FYvGzIbbq3) | 2:42 | 2022-05-02 | 2025-05-02 |
-| [Prisoner of Love](https://open.spotify.com/track/0DF1Vus2YUnfnLdsqekXBZ) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Prisoner of Love](https://open.spotify.com/album/5kDBvjhGj56MWI1hjG6PCk) | 4:20 | 2022-10-14 |  |
+| [Prisoner of Love](https://open.spotify.com/track/0DF1Vus2YUnfnLdsqekXBZ) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Prisoner of Love](https://open.spotify.com/album/5kDBvjhGj56MWI1hjG6PCk) | 4:20 | 2022-10-14 | 2026-10-10 |
 | [Prisoner of Love](https://open.spotify.com/track/27dhf3MNqSiNCSX5Z7le3E) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Prisoner of Love](https://open.spotify.com/album/2V0I7vyGKDIgPjgSMhjITp) | 4:20 | 2022-10-14 | 2024-04-19 |
 | [Pua Hone](https://open.spotify.com/track/2Y579kQwREtBRxOzelmCGJ) | [The Brothers Cazimero](https://open.spotify.com/artist/7oFAub69yHYo7cJVlTK4Zb) | [Hoala](https://open.spotify.com/album/6hSkHQVlc7e8Y1J70iDONh) | 3:44 | 2022-05-02 | 2025-05-02 |
 | [Pua Kukui](https://open.spotify.com/track/3Zc3GJyUPUotDpXWfzt2kJ) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Gabby Pahinui Hawaiian Band, Vol\. 2](https://open.spotify.com/album/6ZKOm6EM2prCwhhtSSxD05) | 3:54 | 2022-05-02 |  |
@@ -110,6 +110,7 @@
 | [When I Think About You](https://open.spotify.com/track/60Mv9DQI1mxjaSpfwTJHQZ) | [Ho'onu'a](https://open.spotify.com/artist/7fNv44w4jZllwDLtLMxvup) | [Feel Good Island Music](https://open.spotify.com/album/4bRTEB4bs4fn408VdimJEN) | 3:01 | 2023-08-23 |  |
 | [Who's That Girl?](https://open.spotify.com/track/1LxsogwbSBZBcQAiN94oUA) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Who's That Girl?](https://open.spotify.com/album/1llK6Wl2Vt5pdPOpmQIcgI) | 3:58 | 2024-05-31 |  |
 | [Why Kiki?](https://open.spotify.com/track/4PXmBGMfDzosaAVrS1Mjio) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Why Kiki?](https://open.spotify.com/album/2XQAcE5Yb5FgOwuUroex59) | 2:39 | 2024-04-22 |  |
+| [You](https://open.spotify.com/track/0L3pn4vsMs60TpjsJBqR3r) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Paniolo Country](https://open.spotify.com/album/3AB83M15snobqDnCogE1bw) | 3:14 | 2026-10-09 |  |
 | [You Ku'uipo](https://open.spotify.com/track/3VnRQ8M9wksw8cTXTXoxOw) | [Willie K](https://open.spotify.com/artist/2RzwqtC6CQeZUDXWz6wzlV) | [The Uncle In Me Volume 1](https://open.spotify.com/album/4U9VLjuXnFynCYvlH5xqYM) | 4:44 | 2022-05-02 |  |
 | [Ūlili E \(feat\. David Kamakahi\)](https://open.spotify.com/track/2QzWe2SeKCft3DWKO7DuBS) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y), [David Kamakahi](https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK) | ['Ohana](https://open.spotify.com/album/3gqr13mGk87I6YVstdFl82) | 4:17 | 2023-12-15 | 2024-04-19 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 35468,
+  "num_followers": 35466,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAADAgly3Tc1C3X9Q6MEmDziZ",
+  "snapshot_id": "asbdAAAAAACbk4cqhqChUtG49rKU7ITK",
   "tracks": [
     {
       "added_at": null,
@@ -216,25 +216,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Coming In From the Cold - Live",
-      "url": "https://open.spotify.com/track/15LQnxwp1K12gUCsTpoqxt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Good Ol' Days (featuring Cedella Marley)",
-      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
+      "duration_ms": 292863,
+      "name": "Roots, Rock, Reggae - Live",
+      "url": "https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l"
     },
     {
       "added_at": null,
@@ -259,6 +243,22 @@
       "duration_ms": 261556,
       "name": "Am\u00e9rica Vibra",
       "url": "https://open.spotify.com/track/3RZtzSdjGLrETsnm2JVqMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Good Ol' Days (featuring Cedella Marley)",
+      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
     },
     {
       "added_at": null,
@@ -288,25 +288,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 292863,
-      "name": "Roots, Rock, Reggae - Live",
-      "url": "https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Looking",
-      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
+      "duration_ms": 238626,
+      "name": "Coming In From the Cold - Live",
+      "url": "https://open.spotify.com/track/15LQnxwp1K12gUCsTpoqxt"
     },
     {
       "added_at": null,
@@ -331,28 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jake & Friends",
-        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 149306,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
       },
       "artists": [
         {
@@ -360,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 359923,
-      "name": "Top Rankin'/We And Dem - Live",
-      "url": "https://open.spotify.com/track/1r9uYdbKiB4MGTa5AoOK6p"
+      "duration_ms": 201400,
+      "name": "Looking",
+      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
     },
     {
       "added_at": null,
@@ -383,6 +347,42 @@
       "duration_ms": 230920,
       "name": "Tonika (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/6s3SoB0n5VypXrk84IGiNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 359923,
+      "name": "Top Rankin'/We And Dem - Live",
+      "url": "https://open.spotify.com/track/1r9uYdbKiB4MGTa5AoOK6p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 149306,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 306002,
-      "name": "One Love/People Get Ready - Live",
-      "url": "https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB"
+      "duration_ms": 343995,
+      "name": "War - Live",
+      "url": "https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 343995,
-      "name": "War - Live",
-      "url": "https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn"
+      "duration_ms": 306002,
+      "name": "One Love/People Get Ready - Live",
+      "url": "https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB"
     },
     {
       "added_at": null,
@@ -535,54 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ziggy Marley",
-        "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Weekend's Long",
-      "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "Never Deny You",
-      "url": "https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 256978,
-      "name": "Positive Vibration - Live",
-      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
         "url": "https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf"
       },
@@ -603,6 +555,54 @@
       "duration_ms": 270386,
       "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
       "url": "https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ziggy Marley",
+        "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Weekend's Long",
+      "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 256978,
+      "name": "Positive Vibration - Live",
+      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "Never Deny You",
+      "url": "https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 206013,
-      "name": "Rebellion Rises",
-      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
+      "duration_ms": 260113,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 260113,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
+      "duration_ms": 206013,
+      "name": "Rebellion Rises",
+      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
     },
     {
       "added_at": null,

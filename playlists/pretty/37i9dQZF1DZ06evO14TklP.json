@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 23720,
+  "num_followers": 23734,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asLogAAAAAAfIg77LG2xPQ6lajNneWKW",
+  "snapshot_id": "asbdAAAAAABr6YJC4gtIkKyT5ONGJ/Jv",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/5sYQPKa0a6cIVUjcksLmto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ELAS PINTAM",
         "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 194020,
       "name": "ELAS PINTAM",
       "url": "https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/5sYQPKa0a6cIVUjcksLmto"
     },
     {
       "added_at": null,
@@ -819,30 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
-        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
-      },
-      "artists": [
-        {
-          "name": "Alligatorz",
-          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        }
-      ],
-      "duration_ms": 175440,
-      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
-      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORTAVENTO",
         "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 181537,
       "name": "BADU & 3000",
       "url": "https://open.spotify.com/track/2EunXugitKqwBZLyPyl1yQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
+        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
+      },
+      "artists": [
+        {
+          "name": "Alligatorz",
+          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        }
+      ],
+      "duration_ms": 175440,
+      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
+      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
     },
     {
       "added_at": null,

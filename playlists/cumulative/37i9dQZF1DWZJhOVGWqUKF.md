@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Royal Blood
 
-1,128 songs - 2 day 16 hr 27 min
+1,129 songs - 2 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [Pine Barrens](https://open.spotify.com/track/7IhRLjH1TRUmEAhDElKSaV) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Pine Barrens](https://open.spotify.com/album/4hvKCfvGrWQfcsg6nXXsGr) | 2:18 | 2025-05-01 | 2025-05-09 |
 | [Pitch Black](https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Pitch Black](https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS) | 4:25 | 2024-11-07 | 2025-01-31 |
 | [Plastic Boxes](https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [As Above, So Below](https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ) | 4:07 | 2024-07-18 | 2024-08-23 |
+| [Platform Decay](https://open.spotify.com/track/0yU5CncustQ6CftDXR6eMM) | [Coilguns](https://open.spotify.com/artist/02NSYcRNKSTchMm72ZigOH) | [Platform Decay](https://open.spotify.com/album/1EWoTMCRjFlytemVWYn4u6) | 2:57 | 2026-10-09 |  |
 | [Play Your Games](https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Play Your Games](https://open.spotify.com/album/1lqgUoNJgAXvWSpnNWwXvh) | 3:15 | 2026-05-28 | 2026-08-21 |
 | [Poor Boy](https://open.spotify.com/track/6bRfGqzCq84E0sCk2NMnxR) | [Mother's Cake](https://open.spotify.com/artist/4tXtAqJV0KS75ndQsYh1GG) | [Poor Boy](https://open.spotify.com/album/6LDXkDZ8UuSoNIkK5cywHn) | 3:11 | 2024-09-26 | 2024-10-04 |
 | [Potential](https://open.spotify.com/track/0PXZHf9zoHTJhohJyK6jcO) | [SENNA](https://open.spotify.com/artist/5qq0OWzsawAVBlf63FPU22) | [Stranger To Love](https://open.spotify.com/album/7ethkIDLKAbEKJGCzTJd63) | 3:27 | 2025-05-22 | 2025-05-30 |
@@ -1108,7 +1109,7 @@
 | [Whip](https://open.spotify.com/track/4YM7SjY7fMIUIIdYUdkOKH) | [Poppy Wizard](https://open.spotify.com/artist/1C6oYJnXAnkYy6et1TjzbL) | [Whip](https://open.spotify.com/album/3nVTpZq1ifnXoeQ4Jh19Db) | 4:16 | 2025-12-04 | 2025-12-12 |
 | [Whisper of a Dream](https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Whisper of a Dream](https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF) | 4:24 | 2026-04-02 | 2026-10-05 |
 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 5:50 | 2025-09-18 | 2025-10-10 |
-| [Who Will You Follow](https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Who Will You Follow](https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR) | 3:55 | 2026-04-09 |  |
+| [Who Will You Follow](https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Who Will You Follow](https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR) | 3:55 | 2026-04-09 | 2026-10-10 |
 | [Who'll Stand With Us?](https://open.spotify.com/track/7l7rmR8robHgvvKxxdCgiy) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Who'll Stand With Us?](https://open.spotify.com/album/43HNaHn8x5EEiydIJFZtWs) | 3:51 | 2025-06-05 | 2025-08-01 |
 | [Wild Ones](https://open.spotify.com/track/0Jt6jvNztmehl8yQ66ngvi) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Wild Ones](https://open.spotify.com/album/3sRejvJQPdligiHOLnsnMK) | 4:17 | 2025-06-05 | 2025-06-13 |
 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS) | 3:35 | 2025-11-20 | 2026-02-04 |
