@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover: FOLA
 
-1,069 songs - 2 day 3 hr 43 min
+1,070 songs - 2 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [234](https://open.spotify.com/track/2zCzjoAute0BouO3IVo5eh) | [DJ Savy](https://open.spotify.com/artist/5OXVSxR4R3fhxUIO6nJnNf), [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4), [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [234](https://open.spotify.com/album/7KLupsQWurAEG9XkDxRX5s) | 3:10 | 2023-01-27 | 2023-02-17 |
 | [247](https://open.spotify.com/track/73QW0R1GUPpsRe2aBwkHhR) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [247](https://open.spotify.com/album/06C6RolgHPTQkDjilqsGHN) | 3:25 | 2025-03-14 | 2025-03-29 |
 | [2AM In Lagos](https://open.spotify.com/track/2qfPXqKiNJmjvEEuq7pE8k) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES) | [123...Arcade!](https://open.spotify.com/album/3YARAu2R6ekkXdD9jMwUJF) | 3:15 | 2025-11-07 | 2026-01-23 |
+| [2am in toronto](https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [9](https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm) | 3:04 | 2026-10-09 |  |
 | [2FRESH](https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:34 | 2026-08-21 |  |
 | [2x2](https://open.spotify.com/track/2PDz5WNKhyeiGLHE3UgqaC) | [Offei](https://open.spotify.com/artist/53lrU0w5zDWd58f5hDsftr) | [Butterfly Season](https://open.spotify.com/album/0y2NCccIKyGMBtPJZvLv7L) | 2:39 | 2023-10-27 | 2023-11-17 |
 | [360](https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [360](https://open.spotify.com/album/35BwMj0VAg3BCwB78CO7wa) | 3:08 | 2024-03-15 | 2024-07-05 |
@@ -880,7 +881,7 @@
 | [Soft Prayer](https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Crowther](https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE) | [Lust In Lagos](https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N) | 3:31 | 2025-10-24 | 2025-12-05 |
 | [Softies Vibe](https://open.spotify.com/track/45gohzfD4mrYZgVRkkNSRE) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:45 | 2023-06-16 | 2023-12-08 |
 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 | 2024-07-12 | 2025-02-08 |
-| [Solace](https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Solace](https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA) | 3:16 | 2026-01-23 |  |
+| [Solace](https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Solace](https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA) | 3:16 | 2026-01-23 | 2026-10-11 |
 | [Solace II](https://open.spotify.com/track/6qLshHZOHqWyAVRmSj4qip) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Solace II](https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa) | 2:34 | 2026-02-27 | 2026-10-02 |
 | [Solo](https://open.spotify.com/track/1ouWZkjgXak30KMUDL2iAT) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Solo](https://open.spotify.com/album/7wQgtOaa74hP33p7xzkRHO) | 3:22 | 2024-11-15 | 2024-12-22 |
 | [Somali Rose](https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Somali Rose](https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu) | 4:19 | 2022-04-21 | 2022-07-17 |

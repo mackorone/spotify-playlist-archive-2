@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-791 songs - 2 day 1 hr 19 min
+793 songs - 2 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 | 2025-12-17 |
 | [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 | 2025-11-23 | 2025-12-17 |
 | [Out Of My Head](https://open.spotify.com/track/5RNcdKmLjCdJYyltfkJkhv) | [Alex Tokarev](https://open.spotify.com/artist/5kYgsMU5N1w5IaBJyGisZs) | [Out Of My Head](https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5) | 2:45 | 2025-11-28 | 2025-12-17 |
+| [Out of My Mind](https://open.spotify.com/track/1sv5wWAbgZ4g9VJbW70nHO) | [THE ROCKERS HORIZON](https://open.spotify.com/artist/7vELOY3m3aOCPTFG94ZDBY) | [Out of My Mind](https://open.spotify.com/album/6t39GOgLoDIun7BCryKrnW) | 4:32 | 2026-10-10 |  |
 | [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 | 2026-05-07 | 2026-05-26 |
 | [Outta Control](https://open.spotify.com/track/6CFhnrHIzYr3uYHPAx2ix9) | [Crispy Danger](https://open.spotify.com/artist/3KmwVFNqWQiSY2hVaiIB7b) | [Outta Control](https://open.spotify.com/album/4FPn9FK7LFYNx9UMnsgcFB) | 2:51 | 2026-05-02 | 2026-07-20 |
 | [Overcomplicated](https://open.spotify.com/track/3eLOJc6KBCDesldPeJdk7A) | [LUDIOSIS](https://open.spotify.com/artist/0clKpUY5LwTMTMRs9a3Gsp) | [Overcomplicated](https://open.spotify.com/album/5WRLyg0whosamP7wD8zX1E) | 4:30 | 2026-09-28 |  |
@@ -690,6 +691,7 @@
 | [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 | 2026-06-01 | 2026-06-18 |
 | [The Luge](https://open.spotify.com/track/0LFBLhgHho67qvzexB2NpV) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [The Luge](https://open.spotify.com/album/2Ihewiydstnhs5QvDU6xOc) | 3:48 | 2026-03-22 | 2026-05-26 |
 | [The Monster](https://open.spotify.com/track/5iaAZ53LFUxAZVYN5Pf61u) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/7wKUgvu5sCQAU2w9Zk0yS3) | [Human Side On](https://open.spotify.com/album/3hbMkCzgjGQju7MWlxgNpw) | 3:45 | 2026-02-16 | 2026-03-18 |
+| [The New Witches](https://open.spotify.com/track/3ddQs4JGrpklvhtuESe1hK) | [9th Evolution](https://open.spotify.com/artist/3AUUqI27GNAiKHLG7wr2jS) | [The New Witches](https://open.spotify.com/album/0keI8Aseeb9IJjCGVMLu9w) | 3:00 | 2026-10-10 |  |
 | [The Path of Life](https://open.spotify.com/track/11U2REWAJDmch5GwYOb1T7) | [Shadows Of Earth](https://open.spotify.com/artist/1lkixm50bb6mtDPZspK90Z), [Khaino](https://open.spotify.com/artist/3Cu7fUV3xvZHRJrDlYBmdA) | [The Path of Life](https://open.spotify.com/album/2mLhmToLFY0AHU68IRErSK) | 3:37 | 2025-09-28 | 2025-12-17 |
 | [The Power of My Story \- Blues Rock Mix](https://open.spotify.com/track/3gQgx3NawULgk7MN09P7b8) | [In The Shadow](https://open.spotify.com/artist/6x6mfS5opin69p2aEGbJmT) | [A Devotional Worship Project V.1](https://open.spotify.com/album/1pebEPS01Uovvx5xVlKJ3E) | 3:32 | 2026-04-29 | 2026-05-26 |
 | [THE ROAR](https://open.spotify.com/track/6Xv112AXvwY5Mo5dzvVSLS) | [OTA3D3](https://open.spotify.com/artist/7zTt9AcgJTtOgkIjs45qnp) | [THE ROAR](https://open.spotify.com/album/1dR1Jr4m8CYfA6G4XFwj2t) | 3:23 | 2026-08-22 | 2026-09-20 |

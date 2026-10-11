@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 408464,
       "name": "find yourself in a hole on the beach",
       "url": "https://open.spotify.com/track/45zR8qkw5JuoGNFEqYRezo"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 256688,
       "name": "Forgive",
       "url": "https://open.spotify.com/track/1EYqW7kypKRSgxvbmWGZpU"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 213103,
       "name": "ily2 (feat. Hand Habits)",
       "url": "https://open.spotify.com/track/4cxlsyaMJb4S2P8eT0JQc4"
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "on holding",
+        "url": "https://open.spotify.com/album/0qSW6NlshC0DDvU3S5eCIt"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 759357,
+      "name": "new escape",
+      "url": "https://open.spotify.com/track/5WP0f41nq0lN12Xl1m0DZy"
+    },
+    {
+      "album": {
         "name": "a little death",
         "url": "https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up"
       },
@@ -1430,6 +1448,42 @@
       "duration_ms": 225765,
       "name": "nothing to dread",
       "url": "https://open.spotify.com/track/75LCHnJsoQmdO2FjDzLzZG"
+    },
+    {
+      "album": {
+        "name": "on holding",
+        "url": "https://open.spotify.com/album/0qSW6NlshC0DDvU3S5eCIt"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77250,
+      "name": "odgen home",
+      "url": "https://open.spotify.com/track/0Cp1ImNBs3kEzsfzqIJjcT"
+    },
+    {
+      "album": {
+        "name": "on holding",
+        "url": "https://open.spotify.com/album/0qSW6NlshC0DDvU3S5eCIt"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540198,
+      "name": "on holding",
+      "url": "https://open.spotify.com/track/5qYKWEnqUopYuK2mjDloX0"
     },
     {
       "album": {
@@ -1572,6 +1626,24 @@
       "duration_ms": 96100,
       "name": "preston ave",
       "url": "https://open.spotify.com/track/1O5njSbFQgwnsPpKqJ8UoL"
+    },
+    {
+      "album": {
+        "name": "on holding",
+        "url": "https://open.spotify.com/album/0qSW6NlshC0DDvU3S5eCIt"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190999,
+      "name": "rekindle (for guitar)",
+      "url": "https://open.spotify.com/track/38Sa2v3Adjaoa0CGky2txX"
     },
     {
       "album": {
@@ -1816,7 +1888,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 338428,
       "name": "sunday morning",
       "url": "https://open.spotify.com/track/1y3ncUHQxY9lldcVALuald"

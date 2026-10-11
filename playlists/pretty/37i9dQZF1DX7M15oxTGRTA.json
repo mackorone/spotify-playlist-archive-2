@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 191765,
+  "num_followers": 191827,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "On The Rise",
-        "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
-      },
-      "artists": [
-        {
-          "name": "The S.O.S Band",
-          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
-        }
-      ],
-      "duration_ms": 416733,
-      "name": "Tell Me If You Still Care",
-      "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Diana & Marvin (Expanded Edition)",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 190440,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "On The Rise",
+        "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
+      },
+      "artists": [
+        {
+          "name": "The S.O.S Band",
+          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
+        }
+      ],
+      "duration_ms": 416733,
+      "name": "Tell Me If You Still Care",
+      "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "Isley, Jasper, Isley",
-          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
-        }
-      ],
-      "duration_ms": 341973,
-      "name": "Caravan of Love",
-      "url": "https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "The Songstress",
         "url": "https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 300706,
       "name": "Angel",
       "url": "https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "Isley, Jasper, Isley",
+          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
+        }
+      ],
+      "duration_ms": 341973,
+      "name": "Caravan of Love",
+      "url": "https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
+        "name": "Patti LaBelle's Greatest Hits",
+        "url": "https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 283440,
+      "name": "On My Own - Single Version",
+      "url": "https://open.spotify.com/track/29UXndgjLVTUZ8b1Mhz9CR"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
         "name": "The Best Of Fourplay",
         "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
       },
@@ -1435,22 +1455,18 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Patti LaBelle's Greatest Hits",
-        "url": "https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        },
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 283440,
-      "name": "On My Own - Single Version",
-      "url": "https://open.spotify.com/track/29UXndgjLVTUZ8b1Mhz9CR"
+      "duration_ms": 174400,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1467,22 +1483,6 @@
       "duration_ms": 209106,
       "name": "Cool Cat - Remastered 2011",
       "url": "https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM"
     },
     {
       "added_at": "2025-06-03 20:18:35",

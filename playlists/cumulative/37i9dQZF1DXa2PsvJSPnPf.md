@@ -4,7 +4,7 @@
 
 > Sweet sounds and welcoming vibes
 
-271 songs - 16 hr 56 min
+273 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Olive](https://open.spotify.com/track/3DolcY2auWoB9cWQFt5L7L) | [Sara Marie Rorie](https://open.spotify.com/artist/39YXEVzdhxmjPonCaqbdpz) | [Olive](https://open.spotify.com/album/4ymDc9SrTnwkegqrJgx4U9) | 3:30 | 2021-11-19 |  |
 | [On and On](https://open.spotify.com/track/5HUATXN3sPKF3GfQXN2ATg) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:37 | 2021-11-19 | 2024-04-19 |
 | [On Jordan's Stormy Banks](https://open.spotify.com/track/5VaZGGnQn7JO9uDwh3Y4AF) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:07 | 2021-11-19 | 2022-01-08 |
-| [One Little Feeling](https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [True Meaning](https://open.spotify.com/album/1hAH4XIkzAgTyVqVP3EDsK) | 3:33 | 2021-11-19 |  |
+| [One Little Feeling](https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [True Meaning](https://open.spotify.com/album/1hAH4XIkzAgTyVqVP3EDsK) | 3:33 | 2021-11-19 | 2026-10-11 |
 | [One Of Those Things](https://open.spotify.com/track/6wXr3n9kKYDXkj14qJzttN) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj) | [One Of Those Things](https://open.spotify.com/album/7x2sZhzIZG1TiXpD5iqzm3) | 3:27 | 2026-05-29 |  |
 | [Orphan Girl](https://open.spotify.com/track/28RSIjTle8Rru7vnZxTPQr) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/4naSRPW5EBkUY7d0JxPgP5) | 3:57 | 2026-02-20 |  |
 | [Overland](https://open.spotify.com/track/4x8q2pNkL1UVTf6b4l2TG3) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [See You Around](https://open.spotify.com/album/5CE2xIBgva5wYBhfMbluQW) | 3:25 | 2021-11-19 | 2026-02-21 |
@@ -178,6 +178,7 @@
 | [Paducah](https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/5V1in7tAJUHIuZ5qVkPx5K) | 3:30 | 2022-05-16 | 2023-01-16 |
 | [Paducah](https://open.spotify.com/track/4VmDr13LpbbL1l1rOru8qA) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Paducah](https://open.spotify.com/album/3gBoXOHHHXWL9oVZkp5dUi) | 3:30 | 2021-11-19 | 2026-02-21 |
 | [Paducah](https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo) | 3:30 | 2022-05-16 | 2024-04-19 |
+| [Peace](https://open.spotify.com/track/0pVO7UthKwiYdi9cz40LAj) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Peace](https://open.spotify.com/album/1VKekF82iIVmJtSz6BHDNU) | 4:16 | 2026-10-09 |  |
 | [Peace In The Valley](https://open.spotify.com/track/3WsDleEAEGbfWN7kqdVYMU) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Peace In The Valley / There's A First Time For Everything](https://open.spotify.com/album/0yC97p3MaFfTTJn7i2q13G) | 2:49 | 2021-11-19 | 2026-02-21 |
 | [Peace In The Valley](https://open.spotify.com/track/3dY21TGWCgJWjInJyIVf10) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 3](https://open.spotify.com/album/2A3zdBNByKeHyD5ivtwuOV) | 2:49 | 2022-05-16 | 2024-04-19 |
 | [Perfect Imperfections](https://open.spotify.com/track/7g5xq6q4oQBE6P3NjD0jRB) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 4:02 | 2021-11-19 | 2026-02-21 |
@@ -187,6 +188,7 @@
 | [Poor Lost Souls](https://open.spotify.com/track/3wG5ynGTSJy7JtWzCIMDFR) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/4rRGLoOo2DIwGg8szXLsrK) | 4:16 | 2021-11-19 | 2026-02-21 |
 | [Poor Lost Souls](https://open.spotify.com/track/4E7j3KHM7hCLrgEa1UF6MW) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/3ZFe34ht2OPadmjKbAVT1v) | 4:16 | 2022-05-16 | 2022-11-13 |
 | [Poor Lost Souls](https://open.spotify.com/track/5saHD81HEsU6vCO07JJyVB) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [These 13](https://open.spotify.com/album/5e7me68eSPsVkbQoGdpEkh) | 4:16 | 2022-05-16 | 2024-04-19 |
+| [Postcard](https://open.spotify.com/track/4WQ8w6jr2ZPZ021iUm2J1D) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Postcard](https://open.spotify.com/album/2sd2am38eV9C5aKSnmZpAg) | 3:06 | 2026-10-09 |  |
 | [Reason To Live](https://open.spotify.com/track/2uMnzAOQM1lujLa1k1yUoX) | [Fruition](https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8) | [Reason To Live](https://open.spotify.com/album/04vOxQOY2dr5OmvgRSjPby) | 3:15 | 2026-06-19 |  |
 | [Reasons](https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX) | [Luke Tyler Shelton](https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC) | [Reasons](https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv) | 3:03 | 2026-07-10 |  |
 | [Red Bird Morning](https://open.spotify.com/track/6dZueQyPiXXlvhSZuOQ0IY) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 3:13 | 2021-11-19 |  |
@@ -277,7 +279,7 @@
 | [You're Free Now \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/271g7BFvo00WN1YN78m0JG) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa \(Deluxe\)](https://open.spotify.com/album/2VH2F0wlJCfm7wuUYYD87E) | 4:19 | 2023-12-08 | 2024-04-19 |
 | [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-12 | 2026-02-21 |
 | [You're the One](https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 | 2023-08-11 | 2024-04-19 |
-| [You, Me and The Mountains \- Live Off The Floor](https://open.spotify.com/track/3VyzVPoGB0ikZcAjWnCRdf) | [Ryan Lindsay](https://open.spotify.com/artist/1KWojkmgW6AiDS9yIx9VVu), [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [You, Me and The Mountains \(Live Off The Floor\)](https://open.spotify.com/album/1f2GXONeh0Rbu1ETjLw9uk) | 3:48 | 2022-01-07 |  |
+| [You, Me and The Mountains \- Live Off The Floor](https://open.spotify.com/track/3VyzVPoGB0ikZcAjWnCRdf) | [Ryan Lindsay](https://open.spotify.com/artist/1KWojkmgW6AiDS9yIx9VVu), [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [You, Me and The Mountains \(Live Off The Floor\)](https://open.spotify.com/album/1f2GXONeh0Rbu1ETjLw9uk) | 3:48 | 2022-01-07 | 2026-10-11 |
 | [You’re Free Now \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/0n5BiC98D3E0EZimzsboGW) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa Deluxe](https://open.spotify.com/album/2JPABhQendr6PM7QmR8iLR) | 4:19 | 2021-11-19 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

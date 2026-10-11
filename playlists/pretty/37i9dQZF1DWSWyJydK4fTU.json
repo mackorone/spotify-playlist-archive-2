@@ -1,6 +1,6 @@
 {
   "description": "darf man so ?? (in den tag starten, kurz leben leben, bisschen pause machen) ",
-  "num_followers": 618117,
+  "num_followers": 618043,
   "original_name": "morning glow",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-10-08 22:00:57",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2026-10-08 22:00:57",
-      "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": "2026-10-08 22:00:57",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
       "added_at": "2026-10-08 22:00:57",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-10-08 22:00:57",
       "album": {
-        "name": "High Hopes 3000",
-        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 245755,
-      "name": "High Hopes 3000",
-      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
-    },
-    {
-      "added_at": "2026-10-08 22:00:57",
-      "album": {
         "name": "Leave On A Light",
         "url": "https://open.spotify.com/album/1FOgMp0gqpG3UGcFxxgyhG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 156981,
       "name": "Slow Down, Slow Down",
       "url": "https://open.spotify.com/track/6oivtFX28rYGXmritxchYv"
+    },
+    {
+      "added_at": "2026-10-08 22:00:57",
+      "album": {
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
       "added_at": "2026-10-08 22:00:57",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-10-08 22:00:57",
       "album": {
-        "name": "New Heart",
-        "url": "https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ"
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W"
       },
       "artists": [
         {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+          "name": "Yearboox",
+          "url": "https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM"
         }
       ],
-      "duration_ms": 184481,
-      "name": "New Heart",
-      "url": "https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK"
+      "duration_ms": 140348,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V"
     },
     {
       "added_at": "2026-10-08 22:00:57",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-10-08 22:00:57",
       "album": {
+        "name": "New Heart",
+        "url": "https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 184481,
+      "name": "New Heart",
+      "url": "https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK"
+    },
+    {
+      "added_at": "2026-10-08 22:00:57",
+      "album": {
         "name": "VERSPRICH MIR",
         "url": "https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 144049,
       "name": "VERSPRICH MIR",
       "url": "https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg"
-    },
-    {
-      "added_at": "2026-10-08 22:00:57",
-      "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W"
-      },
-      "artists": [
-        {
-          "name": "Yearboox",
-          "url": "https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM"
-        }
-      ],
-      "duration_ms": 140348,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V"
     },
     {
       "added_at": "2026-10-08 22:00:57",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-10-08 22:00:57",
       "album": {
-        "name": "If You Wanna Be Adored",
-        "url": "https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz"
+        "name": "Was war das",
+        "url": "https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn"
       },
       "artists": [
         {
-          "name": "Eva Rose",
-          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+          "name": "Olson",
+          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
         }
       ],
-      "duration_ms": 145573,
-      "name": "If You Wanna Be Adored",
-      "url": "https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV"
+      "duration_ms": 160448,
+      "name": "Was war das",
+      "url": "https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF"
     }
   ],
   "unique_name": "morning glow",

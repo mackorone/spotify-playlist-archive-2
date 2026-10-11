@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Guessing Games",
+        "url": "https://open.spotify.com/album/5zvspX4vCnEUO4UazyiAmB"
+      },
+      "artists": [
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167803,
+      "name": "Guessing Games",
+      "url": "https://open.spotify.com/track/4ArkpqGXudgNakSV1EGQcx"
+    },
+    {
+      "album": {
         "name": "Modern Melancholia",
         "url": "https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa"
       },

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Fran Gil
 
-1,004 songs - 2 day 2 hr 25 min
+1,005 songs - 2 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [ME LIGA](https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU) | [ME LIGA](https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka) | 2:13 | 2024-06-21 | 2024-08-17 |
 | [ME LIVRA DE TODO MAL](https://open.spotify.com/track/2731kmDfNfoTqJ3WW5K5TF) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [ME LIVRA DE TODO MAL](https://open.spotify.com/album/1moh2bRsNZH5aOsP3jGYnZ) | 3:12 | 2026-05-15 | 2026-06-19 |
 | [Me Namora](https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Lucas](https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He) | 4:00 | 2024-12-06 | 2025-03-07 |
+| [Medo do Escuro](https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x) | [Bruna Foss](https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6) | [ESTRANGEIRA](https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr) | 3:14 | 2026-10-09 |  |
 | [Melaço](https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Melaço](https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT) | 2:43 | 2024-01-12 | 2024-05-18 |
 | [Melhor do Mundo](https://open.spotify.com/track/7KG23Pebr0cPAzLH8RrpO9) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Melhor do Mundo](https://open.spotify.com/album/4qczavWvfkLgJP2nlYOfbJ) | 3:20 | 2022-09-30 | 2022-11-26 |
 | [Melhor Falar Agora](https://open.spotify.com/track/5Ppya3s6VURsZ4oLwiOj1q) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Melhor Falar Agora](https://open.spotify.com/album/4lzWUsgzXAA2NhmkX3XUIp) | 1:55 | 2022-10-14 | 2023-02-04 |
@@ -724,7 +725,7 @@
 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 | 2022-08-01 | 2023-01-28 |
 | [Quando](https://open.spotify.com/track/1hzBmDY92rHMRkWpydY120) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Quando](https://open.spotify.com/album/2iwPRtSrvVoBU9VpAeylfY) | 3:14 | 2022-11-18 | 2023-01-28 |
 | [Quando a Gente Existe](https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Quando a Gente Existe](https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5) | 3:24 | 2024-06-07 | 2024-10-12 |
-| [QUANDO ASSUM VOAR](https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [QUANDO ASSUM VOAR](https://open.spotify.com/album/0m909aW6kNTzgB05lzga06) | 2:55 | 2026-05-22 |  |
+| [QUANDO ASSUM VOAR](https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [QUANDO ASSUM VOAR](https://open.spotify.com/album/0m909aW6kNTzgB05lzga06) | 2:55 | 2026-05-22 | 2026-10-11 |
 | [Quando Cê Vem](https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Quando Cê Vem](https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu) | 2:36 | 2023-10-27 | 2024-06-01 |
 | [Quando isso vai passar?](https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando isso vai passar?](https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH) | 2:36 | 2023-12-08 | 2024-06-22 |
 | [Quando me ver passar](https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando me ver passar](https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7) | 2:14 | 2026-05-22 |  |

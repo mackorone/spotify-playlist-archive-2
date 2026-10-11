@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 102959,
+  "num_followers": 102956,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Cosa rester\u00e0 degli anni 80",
-        "url": "https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa"
-      },
-      "artists": [
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Cosa Rester\u00e0 Degli Anni 80",
-      "url": "https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Pensami Per Te",
         "url": "https://open.spotify.com/album/3i6vpMk0xhgOvpkX7cEOXq"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 245217,
       "name": "Lei verr\u00e0",
       "url": "https://open.spotify.com/track/1WrT3pRtE32H2lyLPQFJq1"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Cosa rester\u00e0 degli anni 80",
+        "url": "https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Cosa Rester\u00e0 Degli Anni 80",
+      "url": "https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Microchip Emozionale",
-        "url": "https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg"
-      },
-      "artists": [
-        {
-          "name": "Subsonica",
-          "url": "https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK"
-        }
-      ],
-      "duration_ms": 243320,
-      "name": "Tutti I Miei Sbagli",
-      "url": "https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Fai rumore",
         "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 216140,
       "name": "Fai rumore",
       "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Microchip Emozionale",
+        "url": "https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg"
+      },
+      "artists": [
+        {
+          "name": "Subsonica",
+          "url": "https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK"
+        }
+      ],
+      "duration_ms": 243320,
+      "name": "Tutti I Miei Sbagli",
+      "url": "https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Nicola Di Bari",
-        "url": "https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD"
-      },
-      "artists": [
-        {
-          "name": "Nicola Di Bari",
-          "url": "https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "La prima cosa bella",
-      "url": "https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Dall'altra parte del cancello",
         "url": "https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 228240,
       "name": "Ti regaler\u00f2 una rosa",
       "url": "https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Nicola Di Bari",
+        "url": "https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD"
+      },
+      "artists": [
+        {
+          "name": "Nicola Di Bari",
+          "url": "https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "La prima cosa bella",
+      "url": "https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Non mi avete fatto niente",
+        "url": "https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8"
+      },
+      "artists": [
+        {
+          "name": "Ermal Meta",
+          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
+        },
+        {
+          "name": "Fabrizio Moro",
+          "url": "https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Non mi avete fatto niente",
+      "url": "https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "My Mamma",
         "url": "https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 170760,
       "name": "Cuore matto",
       "url": "https://open.spotify.com/track/4VgZNaG1PQL2DJ2Y09Kd46"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Non mi avete fatto niente",
-        "url": "https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8"
-      },
-      "artists": [
-        {
-          "name": "Ermal Meta",
-          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
-        },
-        {
-          "name": "Fabrizio Moro",
-          "url": "https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Non mi avete fatto niente",
-      "url": "https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "L'ADDIO",
-        "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
+        "name": "Per Tutte Le Volte Che...",
+        "url": "https://open.spotify.com/album/75d3bNl0ruuqr5tAnJoBJW"
       },
       "artists": [
         {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+          "name": "Valerio Scanu",
+          "url": "https://open.spotify.com/artist/6YqnuGUFh2n0bnLdxpszxE"
         }
       ],
-      "duration_ms": 207750,
-      "name": "L'ADDIO",
-      "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
+      "duration_ms": 238080,
+      "name": "Per Tutte Le Volte Che...",
+      "url": "https://open.spotify.com/track/1qBKrPkpVNu11W4tjY88Gj"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Per Tutte Le Volte Che...",
-        "url": "https://open.spotify.com/album/75d3bNl0ruuqr5tAnJoBJW"
+        "name": "L'ADDIO",
+        "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
       },
       "artists": [
         {
-          "name": "Valerio Scanu",
-          "url": "https://open.spotify.com/artist/6YqnuGUFh2n0bnLdxpszxE"
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
         }
       ],
-      "duration_ms": 238080,
-      "name": "Per Tutte Le Volte Che...",
-      "url": "https://open.spotify.com/track/1qBKrPkpVNu11W4tjY88Gj"
+      "duration_ms": 207750,
+      "name": "L'ADDIO",
+      "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU"
+      },
+      "artists": [
+        {
+          "name": "La rappresentante di lista",
+          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Eiffel 65 (Italian Album)",
         "url": "https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 239407,
       "name": "Quelli Che Non Hanno Et\u00e0 - Gabry Ponte Power Cut",
       "url": "https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU"
-      },
-      "artists": [
-        {
-          "name": "La rappresentante di lista",
-          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Amare",
-      "url": "https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "24 mila baci - Aul\u00ec-Ul\u00e9 - Furore - Movimento di Rock",
-        "url": "https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF"
+        "name": "Nu juorno buono",
+        "url": "https://open.spotify.com/album/2JkdqcQZ9PX0rxk6CffLYb"
       },
       "artists": [
         {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
         }
       ],
-      "duration_ms": 138920,
-      "name": "24 mila baci",
-      "url": "https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn"
+      "duration_ms": 198586,
+      "name": "Nu juorno buono",
+      "url": "https://open.spotify.com/track/2AUyuGpF3sw1bTfPKEoagq"
     }
   ],
   "unique_name": "Sanremo: La Storia",

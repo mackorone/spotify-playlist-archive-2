@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 885,
+  "num_followers": 890,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD9tA/wzz1hrCjg4O6ksFDE9bAzYeP",
+  "snapshot_id": "AAAD91DQTXpz9CeNgY/cuvpMWbbzBZ3u",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1231,6 +1231,22 @@
       "duration_ms": 283288,
       "name": "Photosynthesize",
       "url": "https://open.spotify.com/track/170x4QIJeKPk6MQp87KiU5"
+    },
+    {
+      "added_at": "2026-10-10 19:14:28",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz"
+      },
+      "artists": [
+        {
+          "name": "Groove Vultures",
+          "url": "https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

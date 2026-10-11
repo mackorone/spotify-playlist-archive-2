@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 382885,
+  "num_followers": 382897,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
+        "name": "Eu Descansarei",
+        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        }
+      ],
+      "duration_ms": 378461,
+      "name": "Eu Descansarei",
+      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
         "name": "Voc\u00ea Vai Chegar",
         "url": "https://open.spotify.com/album/1kG2m6EM1BwfJ0fYvIJ1v0"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 300089,
       "name": "Voc\u00ea Vai Chegar",
       "url": "https://open.spotify.com/track/4leQkS7OykGQT6isQoiLCr"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
-        "name": "Eu Descansarei",
-        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        }
-      ],
-      "duration_ms": 378461,
-      "name": "Eu Descansarei",
-      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Can\u00e7\u00f5es de um Cora\u00e7\u00e3o Sereno",
-        "url": "https://open.spotify.com/album/4pozEgu5OwgwNSCv2Op6OW"
-      },
-      "artists": [
-        {
-          "name": "Pe. Zezinho, SCJ",
-          "url": "https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA"
-        }
-      ],
-      "duration_ms": 149743,
-      "name": "Cora\u00e7\u00e3o Sagrado",
-      "url": "https://open.spotify.com/track/1Er3YhGPoKQSLlUtrTKJZu"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Quem Como Deus? (Ao Vivo)",
         "url": "https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye"
       },
@@ -1079,22 +1063,18 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
+        "name": "Can\u00e7\u00f5es de um Cora\u00e7\u00e3o Sereno",
+        "url": "https://open.spotify.com/album/4pozEgu5OwgwNSCv2Op6OW"
       },
       "artists": [
         {
-          "name": "Dyego Afonso",
-          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+          "name": "Pe. Zezinho, SCJ",
+          "url": "https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA"
         }
       ],
-      "duration_ms": 405000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
+      "duration_ms": 149743,
+      "name": "Cora\u00e7\u00e3o Sagrado",
+      "url": "https://open.spotify.com/track/1Er3YhGPoKQSLlUtrTKJZu"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -1111,6 +1091,26 @@
       "duration_ms": 324268,
       "name": "Levanta e Anda - Ao Vivo",
       "url": "https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
+      },
+      "artists": [
+        {
+          "name": "Dyego Afonso",
+          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 405000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
     },
     {
       "added_at": "2026-08-07 14:21:56",

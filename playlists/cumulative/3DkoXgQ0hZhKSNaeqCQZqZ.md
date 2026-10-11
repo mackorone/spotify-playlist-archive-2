@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-599 songs - 1 day 7 hr 55 min
+600 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [I Still Create](https://open.spotify.com/track/0IqTgwWU2syiSYbdBEromt) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [I Still Create](https://open.spotify.com/album/0A8AvUQ22Y2ZtbjvniXSh9) | 3:53 | 2025-12-06 |  |
 | [I WANNA BE ALIVE](https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [I WANNA BE ALIVE](https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ) | 3:33 | 2025-04-16 |  |
 | [I Wish I Loved You](https://open.spotify.com/track/4pVOMSYIsddjrvi3LDlqRp) | [a fox named coyote](https://open.spotify.com/artist/2ZLKUQVWLZAVNY0qFGSY69), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [I Wish I Loved You](https://open.spotify.com/album/0uwMsB1SuYN2DElUEU8rMJ) | 4:47 | 2024-07-23 | 2026-03-01 |
+| [I Won't Lie \- Wyntr\. Remix](https://open.spotify.com/track/3xk2aa8n7MBdQORSSho3w6) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [Wyntr.](https://open.spotify.com/artist/0KewIgBlbp2Jy5exPqyyvM), [Lainxoxo](https://open.spotify.com/artist/59KNCYSlnd2VTXwXecS91j), [d2i](https://open.spotify.com/artist/7tQe6nOTZPN3xQ0pI6vf91) | [I Won't Lie \(The Remixes\)](https://open.spotify.com/album/4rH9JNUtIhwPS8qCG1v3Mn) | 3:00 | 2026-10-11 |  |
 | [i'm now alone with our memories.](https://open.spotify.com/track/4LjHjdgEV3e9VNMLUStVLe) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ) | [i'm now alone with our memories.](https://open.spotify.com/album/4MSJ4mwSZN9ArxNNbnt6ar) | 3:47 | 2025-12-27 |  |
 | [i'm now alone with our memories\. \- Zeonyx Remix](https://open.spotify.com/track/2PnCxSzzzKKM0RXIx1iDWP) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ), [Zeonyx](https://open.spotify.com/artist/1cGNmTGl6Sn5aNWxogHaCg) | [Remixes: Volume One](https://open.spotify.com/album/7md6RQ477cE7hsQ3eqFTf3) | 3:12 | 2026-06-29 | 2026-07-11 |
 | [I've Been Gone](https://open.spotify.com/track/5vwbKI4y8QPHENwh1afdjs) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I've Been Gone](https://open.spotify.com/album/3nkvNUzeXNSoyksBQh5xf6) | 4:30 | 2025-05-17 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grupo Menos É Mais, Cardi B, Naiara Azevedo com Israel & Rodolffo, Gunna e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,316,774 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,316,787 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gilete no Box \- Ao Vivo](https://open.spotify.com/track/3E2EQgBT9T2t2hlp1h0HzQ) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Gilete no Box \(Ao Vivo\)](https://open.spotify.com/album/2xPeTohBI83dILN6cFuYfZ) | 3:19 |
 | 2 | [Pós \- Ao Vivo](https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Pós \(Ao Vivo\)](https://open.spotify.com/album/6fu2Vky35ZXLoGDzdUcHjv) | 2:55 |
 | 3 | [Chama o VAR \- Ao Vivo](https://open.spotify.com/track/44NELhHPHpJ6XbEe5pNLWs) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Chama o VAR \(Ao Vivo\)](https://open.spotify.com/album/5lTnl1KWkZqNT0SFMzzhuM) | 2:18 |
-| 4 | [Depois Desse Solin](https://open.spotify.com/track/66QyVTEB36cbR6gX2hpAjY) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52), [019 Sertanejo](https://open.spotify.com/artist/2zr94M4rTlSfVQ36j8Xo81) | [Depois Desse Solin](https://open.spotify.com/album/5Q1DG3QZdVHGUEq8mqBM1i) | 3:01 |
+| 4 | [Depois Desse Solin \- Ao Vivo](https://open.spotify.com/track/66QyVTEB36cbR6gX2hpAjY) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52), [019 Sertanejo](https://open.spotify.com/artist/2zr94M4rTlSfVQ36j8Xo81) | [Depois Desse Solin \(Ao Vivo\)](https://open.spotify.com/album/5Q1DG3QZdVHGUEq8mqBM1i) | 3:01 |
 | 5 | [Galega](https://open.spotify.com/track/4BvLJKpojkiQFirRRvMKFm) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Galega](https://open.spotify.com/album/4ZNhEgOpHZhWA3xOU2djqp) | 2:48 |
 | 6 | [Alguém Me Namorar \- Naiara 15, Ao Vivo em São Paulo](https://open.spotify.com/track/5VkcNIttZ9dndmQhIkIq5g) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Alguém Me Namorar \(Naiara 15, Ao Vivo em São Paulo\)](https://open.spotify.com/album/2vQbLPOmwTEzUbtKEZ2BQ3) | 2:35 |
 | 7 | [i think he's got a girl](https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [i think he's got a girl](https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0) | 3:34 |

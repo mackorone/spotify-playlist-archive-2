@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 165341,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/3RpKqwrluaAhKtjDCT6xOG"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 205249,
       "name": "Ebelebe",
       "url": "https://open.spotify.com/track/2QuMz77tAyTxt4v8qm0sbl"
@@ -20787,6 +20787,28 @@
     },
     {
       "album": {
+        "name": "Tinotenda",
+        "url": "https://open.spotify.com/album/20woI0LvjJaZPMq2EX1I8P"
+      },
+      "artists": [
+        {
+          "name": "Joseph Briggs",
+          "url": "https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190865,
+      "name": "Tinotenda",
+      "url": "https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM"
+    },
+    {
+      "album": {
         "name": "Titilailai",
         "url": "https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ"
       },
@@ -22878,7 +22900,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 747907,
       "name": "YES & AMEN",
       "url": "https://open.spotify.com/track/0dTc1BEaPVvtTRG1Gss3rv"

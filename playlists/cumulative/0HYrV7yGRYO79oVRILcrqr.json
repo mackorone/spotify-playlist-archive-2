@@ -9265,6 +9265,24 @@
     },
     {
       "album": {
+        "name": "Out of My Mind",
+        "url": "https://open.spotify.com/album/6t39GOgLoDIun7BCryKrnW"
+      },
+      "artists": [
+        {
+          "name": "THE ROCKERS HORIZON",
+          "url": "https://open.spotify.com/artist/7vELOY3m3aOCPTFG94ZDBY"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272580,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/1sv5wWAbgZ4g9VJbW70nHO"
+    },
+    {
+      "album": {
         "name": "Outlaw Skirt",
         "url": "https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7"
       },
@@ -12642,6 +12660,24 @@
       "duration_ms": 225848,
       "name": "The Monster",
       "url": "https://open.spotify.com/track/5iaAZ53LFUxAZVYN5Pf61u"
+    },
+    {
+      "album": {
+        "name": "The New Witches",
+        "url": "https://open.spotify.com/album/0keI8Aseeb9IJjCGVMLu9w"
+      },
+      "artists": [
+        {
+          "name": "9th Evolution",
+          "url": "https://open.spotify.com/artist/3AUUqI27GNAiKHLG7wr2jS"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180572,
+      "name": "The New Witches",
+      "url": "https://open.spotify.com/track/3ddQs4JGrpklvhtuESe1hK"
     },
     {
       "album": {

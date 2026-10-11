@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos de Trap Latino  \ud83d\udcf8  Blessd y Anuel AA\n",
+  "description": "\u00c9xitos de Trap Latino  \ud83d\udcf8  Anuel AA\n",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -658,6 +658,24 @@
       "duration_ms": 211964,
       "name": "A tus Pies",
       "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
+    },
+    {
+      "album": {
+        "name": "A Vuelta Redonda",
+        "url": "https://open.spotify.com/album/3OtoRhhtgSNRmXgVkhcSqK"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150786,
+      "name": "A Vuelta Redonda",
+      "url": "https://open.spotify.com/track/5HbOhMpM8RFU0nACnDohXg"
     },
     {
       "album": {
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 141600,
       "name": "BOOMERANG",
       "url": "https://open.spotify.com/track/3B8goaIeHjjLTjfE5YR8b7"
@@ -6740,7 +6758,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 158400,
       "name": "Kobe Brray",
       "url": "https://open.spotify.com/track/7l0P7PKi5SjdOyln7vWgN1"
@@ -10756,7 +10774,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 178723,
       "name": "Paroliguelido",
       "url": "https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K"
@@ -11780,7 +11798,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 172906,
       "name": "Real OG 4Life (World Cup)",
       "url": "https://open.spotify.com/track/7vOz8TDvTgdUmJycLJxgG2"
@@ -12544,6 +12562,28 @@
       "duration_ms": 195918,
       "name": "Si Lo Puedes So\u00f1ar",
       "url": "https://open.spotify.com/track/529JIZZBymNcDRijYcjTkF"
+    },
+    {
+      "album": {
+        "name": "SI ME QUIERES...",
+        "url": "https://open.spotify.com/album/4HNjqlQN00QqOHl1lPgtQY"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240975,
+      "name": "SI ME QUIERES...",
+      "url": "https://open.spotify.com/track/70A0AekMvr4DdxaKa1tQE0"
     },
     {
       "album": {
@@ -14247,6 +14287,24 @@
     },
     {
       "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/1o9gqrUIxMDoEptWgqViwk"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/7mGZQR7jfW7VTm6sFAUOmD"
+    },
+    {
+      "album": {
         "name": "Veo Veo",
         "url": "https://open.spotify.com/album/6axheBYNM1GRM1aMxZpDN0"
       },
@@ -14434,6 +14492,24 @@
       "duration_ms": 188373,
       "name": "Volando Bajito",
       "url": "https://open.spotify.com/track/6IUgGn3GEWOR7cxW1SxzLn"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290372,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
     },
     {
       "album": {
@@ -14897,6 +14973,36 @@
     },
     {
       "album": {
+        "name": "YO QUIERO (REMIX)",
+        "url": "https://open.spotify.com/album/1lm2EZq4pOP5EOQdv4msEQ"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362908,
+      "name": "YO QUIERO - REMIX",
+      "url": "https://open.spotify.com/track/3t6lnxmOfBc57QRoqvOLdo"
+    },
+    {
+      "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
       },
@@ -15200,7 +15306,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 152571,
       "name": "\u00bfQU\u00c9 PUEDO HACER?",
       "url": "https://open.spotify.com/track/2ftp3fI7p68670n4lHyPDo"

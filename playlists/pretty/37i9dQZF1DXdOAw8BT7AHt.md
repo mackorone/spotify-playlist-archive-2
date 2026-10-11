@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,731 likes - 124 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,753 likes - 124 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 123 | [You Hate Me](https://open.spotify.com/track/5Vpb3sJeb6pWjkPuEZchEG) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [You Hate Me](https://open.spotify.com/album/601KLtTDsvxaDKgtGIJFOS) | 3:32 |
 | 124 | [Kindly, wash yourself](https://open.spotify.com/track/3yLXkE4NWsT9oOc0Vn3CM2) | [Truck Violence](https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l) | [The weathervane is my body](https://open.spotify.com/album/2fVzzo8IRKjQOVpkcUnRQD) | 4:25 |
 
-Snapshot ID: `AAAAAKTGJUizpP/9d6rf/zqKbX0enYh1`
+Snapshot ID: `AAAAAMliS5eQrk5pr0/IlzPGLJRCoJRV`

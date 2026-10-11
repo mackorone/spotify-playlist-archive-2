@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,753 likes - 260 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,957 likes - 260 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 259 | [What the Willow Remembers](https://open.spotify.com/track/6Dm6DUFbpfF680f6nHtwyM) | [Amarillys](https://open.spotify.com/artist/5QwKHQSVtFzfwAjRK2SYIu) | [What the Willow Remembers](https://open.spotify.com/album/1BhUuXKgOQ1sXJHu6554NH) | 3:18 |
 | 260 | [Alagoas](https://open.spotify.com/track/6N0rWMTLZPl4HWYL8A4B2p) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Alagoas](https://open.spotify.com/album/1K12eCdSI5OviKbqQeosUn) | 3:00 |
 
-Snapshot ID: `AAAAACBjhgsLy4LzXKuoAnWGBS1c2lTU`
+Snapshot ID: `AAAAAEzYEVtPMU0nL9jKmycQxATCGVZe`

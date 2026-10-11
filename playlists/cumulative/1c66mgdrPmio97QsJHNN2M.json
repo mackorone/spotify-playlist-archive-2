@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 187680,
       "name": "Addicted to you",
       "url": "https://open.spotify.com/track/0llLaFfUnANhjb5dnnySJa"
@@ -1230,8 +1230,8 @@
       },
       "artists": [
         {
-          "name": "Bless The Artist",
-          "url": "https://open.spotify.com/artist/1OXanIw6SvyFFA5ogVe3h4"
+          "name": "Loudpack Palmz",
+          "url": "https://open.spotify.com/artist/2BOWZqAzl5nR2jM3Dtvnpc"
         }
       ],
       "date_added": "2026-10-04",
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 200000,
       "name": "After The Storm",
       "url": "https://open.spotify.com/track/3ipoYl2ISgn1ZEC3ZZvbt2"
@@ -6730,7 +6730,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 263702,
       "name": "Brothers and Sisters (Stop the Hate)",
       "url": "https://open.spotify.com/track/4Iyy0mLEmGAYgnHUJ6vdnz"
@@ -7524,7 +7524,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 152767,
       "name": "Can't Get Away - Instrumental",
       "url": "https://open.spotify.com/track/7h7W75GUu2vLqKrswjFGN7"
@@ -7708,7 +7708,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 192253,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5GuhG0eK2T57JvxgBLI5X4"
@@ -9324,7 +9324,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 225321,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/1ar3gYsWn4lgL6OLGm37HU"
@@ -11176,7 +11176,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 158400,
       "name": "Devil in a Drop Shoulder",
       "url": "https://open.spotify.com/track/0DEQkZOqImRmrYrK65hvNv"
@@ -11212,7 +11212,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 182343,
       "name": "Devil Stole (My Baby's Ring)",
       "url": "https://open.spotify.com/track/2XwLLAJUGarWI3LzwGGl2s"
@@ -14216,7 +14216,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 206000,
       "name": "Et pourtant (Hallelujah)",
       "url": "https://open.spotify.com/track/53UKuM7q7ufZQC1hIc8lYN"
@@ -14234,7 +14234,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 221844,
       "name": "Etched In Love",
       "url": "https://open.spotify.com/track/4DmVF28ImGzAMzSZoYhIEM"
@@ -14324,7 +14324,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 186294,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5VroSh6kn4T4jqLb2uW8T8"
@@ -16776,7 +16776,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 167058,
       "name": "Forest Retreat",
       "url": "https://open.spotify.com/track/2AE08iJEPxvbrbFfgJPKvn"
@@ -19616,7 +19616,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 286594,
       "name": "Happy Heart",
       "url": "https://open.spotify.com/track/6nFbQuu4DxjT6FjieiboT2"
@@ -22111,6 +22111,24 @@
     },
     {
       "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5A0YjCeul2G05IKCIKHR8f"
+      },
+      "artists": [
+        {
+          "name": "Horizon Beyond",
+          "url": "https://open.spotify.com/artist/7xYPCMdIWqDBS1gUzAtFad"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "I Hear You",
+      "url": "https://open.spotify.com/track/5RSD92OJV6LwOmmpna2Qvl"
+    },
+    {
+      "album": {
         "name": "I heard you",
         "url": "https://open.spotify.com/album/4yMoMfwqAYjz3Gg9i7TN1Y"
       },
@@ -22428,7 +22446,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 208600,
       "name": "I miss you sober",
       "url": "https://open.spotify.com/track/5tFi6x2ezR7AsayLaP6ELv"
@@ -24138,7 +24156,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 152656,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/2JBoBSAEaS5a4GeyIsi8oA"
@@ -24702,7 +24720,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 198243,
       "name": "It Lasted Forever",
       "url": "https://open.spotify.com/track/1m77OG00Rc9So2qCo5xOap"
@@ -27138,7 +27156,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 231916,
       "name": "Life's Good",
       "url": "https://open.spotify.com/track/2h9mFYqMemc0hAgqfks6Bx"
@@ -27632,7 +27650,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 169846,
       "name": "Little By Little I Fall For You",
       "url": "https://open.spotify.com/track/0NIIHYfDKHKmyWzLTbsz0m"
@@ -28414,7 +28432,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 147433,
       "name": "Lost In The Echoes",
       "url": "https://open.spotify.com/track/4LKMCKaM8ljgjRnFIIKXlU"
@@ -28684,7 +28702,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 183263,
       "name": "Love Is a Stranger",
       "url": "https://open.spotify.com/track/3hs7FZwopRhxMeyVVohWP9"
@@ -28724,7 +28742,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 209040,
       "name": "Love me like i love you",
       "url": "https://open.spotify.com/track/5Qu4SQqUDpdCWSMBp1WeS9"
@@ -28970,7 +28988,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 234082,
       "name": "Love, Cherish and Laugh",
       "url": "https://open.spotify.com/track/0R7Bou9pgg2rECHa4SPWFN"
@@ -29526,7 +29544,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 192088,
       "name": "Make a Wish",
       "url": "https://open.spotify.com/track/5JdFTfVOnTgoUXeHRmN0nS"
@@ -31132,7 +31150,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 243935,
       "name": "Moments",
       "url": "https://open.spotify.com/track/2LslhpxPisBrXpnrlv6Hsx"
@@ -34320,7 +34338,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 191624,
       "name": "Occam's Razor - Single Version",
       "url": "https://open.spotify.com/track/05kJjhNaJOWvkJOmIoCucT"
@@ -35396,7 +35414,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 176250,
       "name": "Ordinary Guy",
       "url": "https://open.spotify.com/track/7AmYRSAWrKTmn0eJbtqXD3"
@@ -35742,6 +35760,24 @@
       "duration_ms": 186203,
       "name": "Over",
       "url": "https://open.spotify.com/track/6Y8hVr1YAvcBnM4CxHa26R"
+    },
+    {
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/6a0Boaxx3Cq5rbjnYngQyp"
+      },
+      "artists": [
+        {
+          "name": "Wireless Connection",
+          "url": "https://open.spotify.com/artist/2NzB0aUWHQVbu6DPlBYhuX"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169591,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/1AH3EiYYWnanLmyYw0EQTC"
     },
     {
       "album": {
@@ -38146,7 +38182,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 209212,
       "name": "Quiet Kind of Lost",
       "url": "https://open.spotify.com/track/7DcR9TJpuH6tySVgDcqE4F"
@@ -39660,7 +39696,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 211698,
       "name": "Roar (Instrumental)",
       "url": "https://open.spotify.com/track/5Pu3DsBzhrdr33ZV7oHxzB"
@@ -39714,7 +39750,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 222754,
       "name": "Rollercoaster (Life Is A Rollercoaster)",
       "url": "https://open.spotify.com/track/7rp1lXXfooQnfaQMhicOhR"
@@ -41304,7 +41340,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 208615,
       "name": "Shadow self",
       "url": "https://open.spotify.com/track/1SfXofrk2MsyNnbUoOF9dj"
@@ -43020,7 +43056,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 216040,
       "name": "Somebody Help Britney",
       "url": "https://open.spotify.com/track/4RWms6XOnmNqzmUaHBERaS"
@@ -43146,7 +43182,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 225882,
       "name": "Someone in My Head (Radio Edit)",
       "url": "https://open.spotify.com/track/7ESjGoSzZB207tEKTg2Q8M"
@@ -44420,7 +44456,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 179352,
       "name": "Stroll in the Sun",
       "url": "https://open.spotify.com/track/17sI3RmSvGBraRrRnbeArO"
@@ -44532,6 +44568,24 @@
       "duration_ms": 188051,
       "name": "submerged",
       "url": "https://open.spotify.com/track/4tVKwI5pbW2OctxqIYrHp2"
+    },
+    {
+      "album": {
+        "name": "Substitution",
+        "url": "https://open.spotify.com/album/4ewwQI0f7z1Ah0guWzNjKH"
+      },
+      "artists": [
+        {
+          "name": "Belarussische Nemesis",
+          "url": "https://open.spotify.com/artist/5nxRg1RR7NWteTLSIHzQQR"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196840,
+      "name": "Substitution",
+      "url": "https://open.spotify.com/track/3b77bJGCHhDXm15jzLVd1F"
     },
     {
       "album": {
@@ -44796,7 +44850,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 136000,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/432OnIpU6flCteyB2zt5iH"
@@ -46312,7 +46366,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 264568,
       "name": "The Angels and Flutes",
       "url": "https://open.spotify.com/track/5hmAJzeiCkq718PYr14Zmy"
@@ -46402,7 +46456,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 254321,
       "name": "The Black Hole (Instrumental)",
       "url": "https://open.spotify.com/track/2C0z0Z6UiY6A6HveJhMm7P"
@@ -47678,7 +47732,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 218344,
       "name": "The Space Race",
       "url": "https://open.spotify.com/track/0dUVQTaUGr4gxpLgmjk0UM"
@@ -47822,7 +47876,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 243234,
       "name": "The Twerking Song",
       "url": "https://open.spotify.com/track/2rcpN2VorTLV76EZwtgjKc"
@@ -48634,7 +48688,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 131578,
       "name": "Through the pain - Sped Up",
       "url": "https://open.spotify.com/track/1rhtrRLZ0uxvavmB3LGrBL"
@@ -52014,7 +52068,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 159039,
       "name": "WAVE RAIDER",
       "url": "https://open.spotify.com/track/5xJcH5Z8tKd9FLPOE0sQGM"
@@ -52122,7 +52176,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 136289,
       "name": "We Could Be Something",
       "url": "https://open.spotify.com/track/09w6H1Ka5u3rBPxIYFSKQd"
@@ -53955,6 +54009,24 @@
     },
     {
       "album": {
+        "name": "Winter Skin",
+        "url": "https://open.spotify.com/album/0xjnbuihAyoaHbnWAIOuyW"
+      },
+      "artists": [
+        {
+          "name": "Carmen Olivia",
+          "url": "https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212264,
+      "name": "Winter Skin",
+      "url": "https://open.spotify.com/track/29vkaorI5P1hW1ViaHOtMs"
+    },
+    {
+      "album": {
         "name": "Winter To stay",
         "url": "https://open.spotify.com/album/48KpyK8AzqZd8jRkL3CRil"
       },
@@ -55210,7 +55282,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 198983,
       "name": "You make me feel",
       "url": "https://open.spotify.com/track/3HrjTkUWsc8JG0izMZVsEy"

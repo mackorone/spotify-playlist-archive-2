@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,634 songs - 15 day 11 hr 12 min
+6,635 songs - 15 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Behind the Wall](https://open.spotify.com/track/3XyUX7g16iXyizQEqXFPJN) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Behind the Wall](https://open.spotify.com/album/7hwx298EDOfwpgzVpb1Hg4) | 3:13 | 2020-05-30 | 2020-06-10 |
 | [Beleza](https://open.spotify.com/track/2kpPKUKlX5W4yZjcAHeySG) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Beleza](https://open.spotify.com/album/1pxLUNVikMin57faqHjn5p) | 2:44 | 2020-11-27 | 2020-12-12 |
 | [Believe](https://open.spotify.com/track/7D8MbQyYgjcihxE3sH9FnG) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 2:56 | 2019-09-29\* | 2021-11-19 |
+| [Believe It](https://open.spotify.com/track/4ekgIZMZLd6vnRXyeNwgXR) | [D Mills](https://open.spotify.com/artist/4j15TlEXsoU1f2RHaejASa) | [Back To Our Regularly Scheduled Programming](https://open.spotify.com/album/65D5qDMxfTJVFBcUqxRiPg) | 3:19 | 2026-10-10 |  |
 | [Believing](https://open.spotify.com/track/4age5IROGqo0wCxWe78aOu) | [Mouth Water](https://open.spotify.com/artist/547EWMRMsHvxWdvz3zSxxq) | [Believing](https://open.spotify.com/album/5BDBOJKJsKdTKHdmkozY34) | 3:43 | 2019-11-12 | 2019-12-04 |
 | [Bella](https://open.spotify.com/track/2OhVBqqNeeXUALVYPVakCr) | [Acebergtm](https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4) | [Far from Home](https://open.spotify.com/album/4bPsclPHYOXfY9CntbIvId) | 2:52 | 2021-07-02 | 2021-07-18 |
 | [Bella Hadid \(Come to Madrid\)](https://open.spotify.com/track/721Eo2ZnPI4psc1gTM2Zec) | [Arsenium](https://open.spotify.com/artist/6JZgZ5UWuEx5ZMkSWLoY1B), [TYMMA](https://open.spotify.com/artist/7Dx4fr9NzN8VDWleWWTz7m) | [Bella Hadid \(Come to Madrid\)](https://open.spotify.com/album/5nbdUq57ckrXVRTdCyd5Kj) | 2:05 | 2023-06-30 | 2023-07-22 |
@@ -1653,7 +1654,7 @@
 | [Dsl](https://open.spotify.com/track/0bHtlYaLNtjBH6dTcm5HzN) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Dsl](https://open.spotify.com/album/77VCAQjsTkxYFUAvNdaV8X) | 2:36 | 2025-09-05 | 2025-10-08 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-03-10 | 2026-07-31 |
 | [Duality](https://open.spotify.com/track/1fqs8b6zY88h3rKk3opzzm) | [Naesia](https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA) | [Duality](https://open.spotify.com/album/4ISKXBqCCUuYZ4p5aSC7in) | 2:21 | 2026-05-15 | 2026-06-17 |
-| [Dug a Hole](https://open.spotify.com/track/42V4O2h6s6HEuXhS7n1hgh) | [Scattrbrain](https://open.spotify.com/artist/6lWIyq5Kx1LORlaoCeDoIB), [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Dug a Hole](https://open.spotify.com/album/62vFAXm0OfnbNfqZvNnjZo) | 4:31 | 2026-09-30 |  |
+| [Dug a Hole](https://open.spotify.com/track/42V4O2h6s6HEuXhS7n1hgh) | [Scattrbrain](https://open.spotify.com/artist/6lWIyq5Kx1LORlaoCeDoIB), [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Dug a Hole](https://open.spotify.com/album/62vFAXm0OfnbNfqZvNnjZo) | 4:31 | 2026-09-30 | 2026-10-11 |
 | [Dulce](https://open.spotify.com/track/5C7BPSolWKfJSWKkZvwJun) | [Blenfre](https://open.spotify.com/artist/7lUd9FGvKChodVoY72qf1v) | [DULCE](https://open.spotify.com/album/6HQZv6DGhsCZcxoBnfcnE1) | 2:41 | 2023-01-06 | 2023-01-28 |
 | [Dulce De Leche](https://open.spotify.com/track/7npX4vsXeMhUCtsuuImWkQ) | [EbNFLoW](https://open.spotify.com/artist/52tZK4vEgVwQ8gN3BYYGLb), [Dolores](https://open.spotify.com/artist/083XAVPRmjHxahdFzMvOY6) | [Dulce De Leche](https://open.spotify.com/album/0z7PP07CHaTpnxfkM2gutj) | 3:40 | 2023-12-22 | 2024-01-10 |
 | [Dumb Boy](https://open.spotify.com/track/0ZtnmJIm3fhoTm5bHRbmnn) | [Nahima](https://open.spotify.com/artist/0avtNq4c3sQcobAKKfJnVV) | [Dumb Boy](https://open.spotify.com/album/5gEK6V5PjhsaMM6gwwNMQ7) | 2:44 | 2023-09-18 | 2023-12-14 |
@@ -5990,7 +5991,7 @@
 | [Tu Veneno](https://open.spotify.com/track/5KFHrrBMyGj5MhVbZMM3ts) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Tu Veneno](https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS) | 2:37 | 2021-03-19 | 2021-04-02 |
 | [Tudo o Que Não Fiz](https://open.spotify.com/track/6x9viOhPYo4L6kei7xHgIj) | [Tranquiliza](https://open.spotify.com/artist/7duHwkW7rYvLQ0dxrghENP) | [Tudo o Que Não Fiz](https://open.spotify.com/album/0dmwl9DroEBf8J1X5Rg6ta) | 2:51 | 2026-05-16 | 2026-05-28 |
 | [Tuesday](https://open.spotify.com/track/1dteoSlOryXd0OgghCm1QO) | [STREAMLYNE](https://open.spotify.com/artist/62qsp33q5CVMl9FzQyH14Z) | [Tuesday](https://open.spotify.com/album/2pJeIiKxfCM5DMg7Z7ScvU) | 3:46 | 2020-12-25 | 2021-01-09 |
-| [Tug](https://open.spotify.com/track/0TQgcEcfsq5E0v72YiWlZU) | [Animalweapon](https://open.spotify.com/artist/5AOStJoGuJkR9oZ0zZ4YkP) | [Tug](https://open.spotify.com/album/6k8W54yBT2PEjPIt2YsUFG) | 3:58 | 2026-09-30 |  |
+| [Tug](https://open.spotify.com/track/0TQgcEcfsq5E0v72YiWlZU) | [Animalweapon](https://open.spotify.com/artist/5AOStJoGuJkR9oZ0zZ4YkP) | [Tug](https://open.spotify.com/album/6k8W54yBT2PEjPIt2YsUFG) | 3:58 | 2026-09-30 | 2026-10-11 |
 | [Tulip Girl](https://open.spotify.com/track/7jdbYJi1X4aGAB0gS3aLiD) | [Luego](https://open.spotify.com/artist/4BbSoSyv1hi5DUIQy8AdnL) | [Ristretto](https://open.spotify.com/album/6I5JKptxyigh74bILx904l) | 3:54 | 2023-02-10 | 2023-05-27 |
 | [Tumbling Dice](https://open.spotify.com/track/4hq0S6wznq7SHDyMOFXL9i) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:46 | 2021-07-11 | 2024-04-21 |
 | [tunnel vision](https://open.spotify.com/track/7G3wRnaeSd0ZOVcEiza4dL) | [TAZ](https://open.spotify.com/artist/2dHKp6YLKefE7IoOKIc9Ec) | [tunnel vision](https://open.spotify.com/album/0gqn9UwxfdoDVdI1W7gqMw) | 3:42 | 2024-11-25 | 2024-12-08 |

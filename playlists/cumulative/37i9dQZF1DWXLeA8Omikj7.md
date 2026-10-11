@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,240 songs - 3 day 19 hr 20 min
+1,242 songs - 3 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,7 @@
 | [Homemade Jam \- Tom VR Tech Trip Remix](https://open.spotify.com/track/4ogMF4uBpXqGuWHne74TQw) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru), [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Homemade Jam \(Tom VR / K\-LONE Remixes\)](https://open.spotify.com/album/6xQroJnkPqrDjmVHeZGWu9) | 9:33 | 2024-11-15 | 2025-02-02 |
 | [Homesick](https://open.spotify.com/track/0sb4TomAMz09w1ofDC8nUr) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/34hcfZrsKEC8Xvn0Qddig3) | 3:54 | 2022-09-09 | 2023-02-03 |
 | [Homesick](https://open.spotify.com/track/4CFqL2BS4R4FZka8cibIMc) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/2n0aZMksvAjApZZzeH52l9) | 3:54 | 2021-10-01 | 2022-07-29 |
-| [Hope](https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg) | [Nall](https://open.spotify.com/artist/1TTP6vJbLEjFnjflpE4ahI) | [Hope](https://open.spotify.com/album/3XukZxrnN93zd1LCIHztVc) | 3:40 | 2019-06-19\* |  |
+| [Hope](https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg) | [Nall](https://open.spotify.com/artist/1TTP6vJbLEjFnjflpE4ahI) | [Hope](https://open.spotify.com/album/3XukZxrnN93zd1LCIHztVc) | 3:40 | 2019-06-19\* | 2026-10-11 |
 | [Hora Dorada](https://open.spotify.com/track/2H9uhmMVABgcUHxppF1GK9) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Chill Out Zone](https://open.spotify.com/album/7fyCNZNItiQvcVrzLVouTC) | 3:39 | 2026-02-13 |  |
 | [Horizon](https://open.spotify.com/track/07OBgEQb7HY6ENSqLvO2RW) | [Speo](https://open.spotify.com/artist/0rMH177vw5TAY2Gd1uLLgY) | [Horizon](https://open.spotify.com/album/6ekrtKzBfy0TRcjbK6cY7g) | 4:13 | 2019-05-26\* | 2020-08-26 |
 | [Horizons](https://open.spotify.com/track/0VpSjr6ouIqQYU53y2rOfr) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i), [Dorfex Bos](https://open.spotify.com/artist/60lZ2sr01yS7uJQeq7zoPv) | [Reflective \(Part 1\)](https://open.spotify.com/album/5tRZ2VKwSi6xxnY10Mea4B) | 4:24 | 2019-06-23 | 2020-08-26 |
@@ -646,6 +646,7 @@
 | [Marmo](https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Marmo](https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx) | 3:12 | 2025-04-04 | 2025-04-16 |
 | [Mask](https://open.spotify.com/track/5MWzkrY9OD5kJ7SyXBdRM0) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Reassemblage](https://open.spotify.com/album/6si8jpNmxbNqbgBKwtI4dN) | 5:37 | 2021-02-27 | 2021-03-10 |
 | [Masks Off](https://open.spotify.com/track/1sUe5eWlR1bH0Q4ImgPf1v) | [Yvois](https://open.spotify.com/artist/3pmKFMgS4y92IFbNj8EqmY) | [Masks Off](https://open.spotify.com/album/6C3ZWIlR7sAp9F3McGhhh6) | 4:13 | 2021-07-17 | 2022-07-29 |
+| [Megaptera Novaeangliae \- Nathan Fake Remix](https://open.spotify.com/track/2AfKTuH6ghfdc0p7wVD4Gs) | [Rone](https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Megaptera Novaeangliae](https://open.spotify.com/album/6LRuGRELb7cZVavROw4lPt) | 6:21 | 2026-10-08 |  |
 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 | 2022-07-01 | 2023-04-29 |
 | [Melody Electronics](https://open.spotify.com/track/5a6IshJRj5fnmCrrCNirNk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Light Shines Through](https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k) | 3:02 | 2025-08-08 |  |
 | [Memories](https://open.spotify.com/track/6dVss9aM9HnsxClqD6j6VD) | [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [Circadian](https://open.spotify.com/album/7gWbOaIkcSkpcyPoNZycW6) | 3:51 | 2019-06-19\* | 2022-04-18 |
@@ -1034,6 +1035,7 @@
 | [Sweet Apocalypse](https://open.spotify.com/track/2u5OxLRtgdazMVLcRev2ds) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Last Night \(Bonus Tracks Edition\)](https://open.spotify.com/album/3Aw6wlxCHzSziC4ZNaF4Vd) | 5:18 | 2019-06-23 | 2022-04-18 |
 | [Swift Code](https://open.spotify.com/track/7vxz7zMvdxhsB8CDiN95ec) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Marcus Roloff](https://open.spotify.com/artist/1tSfw9JqNOKJmRzxXioK8w) | [A Forest](https://open.spotify.com/album/7zczp6XRwsdgnAolUjgfEh) | 4:24 | 2019-06-19\* | 2022-04-20 |
 | [Swimming With Him](https://open.spotify.com/track/65j86GdsxXYv8ZVOIvyz8D) | [Ava Rasti](https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY) | [Swimming With Him](https://open.spotify.com/album/5Nfr9r6n2H6Rxqly2LatnZ) | 8:30 | 2024-11-22 | 2024-11-29 |
+| [Syncopaths](https://open.spotify.com/track/66f9FPNjmVDvRGRLwfjpWH) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Syncopaths / Lavender Town](https://open.spotify.com/album/7AIveq2iLVcjb3oj2cp6Bs) | 6:06 | 2026-10-08 |  |
 | [Syria \- Satori Remix](https://open.spotify.com/track/4gPajk6ojip36b3P7sSyvw) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Unders](https://open.spotify.com/artist/58wDbO29TUyzGTz7gZqOue) | [Syria](https://open.spotify.com/album/63QglWXaVZfTcFOKvgIi54) | 8:07 | 2019-05-26\* | 2020-08-26 |
 | [tadpoles lullaby](https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [carepackage](https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN) | 1:32 | 2024-08-05 | 2024-10-08 |
 | [Take Me Away](https://open.spotify.com/track/5N005JHBSGHp98gh8Hrg8A) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Jordin Post](https://open.spotify.com/artist/0bXDktUgihGHdyqpwF86TG) | [Solace](https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4) | 2:47 | 2024-10-11 |  |
@@ -1175,7 +1177,7 @@
 | [VIII](https://open.spotify.com/track/251hpvLqaASyMfT8pyRPYM) | [Anushka Chkheidze](https://open.spotify.com/artist/67m6HVMSpQbjioHGsdmXWs), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [The Sky Was Out of Tune VIII](https://open.spotify.com/album/6GyvR14ZLLiPI4XTTrl6wz) | 2:46 | 2026-07-10 |  |
 | [Vinyl](https://open.spotify.com/track/1BuayIlgZp7H4kuOgmCpge) | [Adrian Roland](https://open.spotify.com/artist/6BOm2bSNuYGS9IeyER3cq2) | [Vinyl](https://open.spotify.com/album/1q94s3rNr164SzFcHEqzpu) | 1:04 | 2019-07-25 | 2025-08-30 |
 | [Violo](https://open.spotify.com/track/5syPwaSJSzNSB6ufaE6sI9) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Madre](https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP) | 7:07 | 2021-05-27 | 2022-04-18 |
-| [Visages Visages](https://open.spotify.com/track/41EeXkqV9iXLKdQv36EEAP) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Visages Visages](https://open.spotify.com/album/5lYGHwWDorsrfjWB4gkj9c) | 5:59 | 2025-06-09 |  |
+| [Visages Visages](https://open.spotify.com/track/41EeXkqV9iXLKdQv36EEAP) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Visages Visages](https://open.spotify.com/album/5lYGHwWDorsrfjWB4gkj9c) | 5:59 | 2025-06-09 | 2026-10-11 |
 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 | 2025-07-25 |  |
 | [Voices In My Head](https://open.spotify.com/track/0JUO6DhIHlpZ4GJWWhr2RG) | [Vikram Dhakal](https://open.spotify.com/artist/4rAXFOfQ4Q5hwOF492tEuI) | [Voices In My Head](https://open.spotify.com/album/1bBeLI0tu55M0Sd7bd7uxB) | 2:57 | 2020-08-26 | 2020-11-06 |
 | [volc4](https://open.spotify.com/track/3IExaQvA4xa2Fv61xCVuip) | [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT), [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [volc4](https://open.spotify.com/album/2KoU78rsQe3AfBOsZPZsTo) | 5:16 | 2025-10-24 | 2026-06-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 55332,
+  "num_followers": 55346,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAADnmH1Op0sDH6Ap1HR+x8iv",
+  "snapshot_id": "asgugAAAAABKl4RzIWHzaFhMbUhLv4J5",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 249746,
-      "name": "Warrior - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/7LmTkCp8eyN3yphDffRsCp"
+      "duration_ms": 124466,
+      "name": "Isis - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2f97EMDsF42qDVDuAyGDHX"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mosquito (Deluxe)",
-        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 288546,
-      "name": "Despair",
-      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 288546,
+      "name": "Despair",
+      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hidden in Pieces: Live at the Royal Albert Hall",
         "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
       },
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 124466,
-      "name": "Isis - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/2f97EMDsF42qDVDuAyGDHX"
+      "duration_ms": 249746,
+      "name": "Warrior - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/7LmTkCp8eyN3yphDffRsCp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,033 likes - 97 songs - 5 hr 29 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,034 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 95 | [Time \- Remix 2026](https://open.spotify.com/track/63SCtPUyi5vAvO0lXbF1ib) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Time \(Remix 2026\)](https://open.spotify.com/album/5jDvy3Ma4jvPprn748FIxC) | 3:46 |
 | 96 | [Mountain Meditation](https://open.spotify.com/track/6Gj1LPrs1G23Hn5WkBJ9JG) | [Dreamweaver](https://open.spotify.com/artist/3KiwMzVL0Z5iyHIUBJB0tp) | [My Way \(Markus Pitzer\)](https://open.spotify.com/album/2hkBwxQmtGd2tsDRJGO9XW) | 4:59 |
 | 97 | [The Way](https://open.spotify.com/track/3Qs4DzYZfRYCsvVYySC68q) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [The Way](https://open.spotify.com/album/209R5C78jtU7cYoPkzjpK1) | 4:27 |
+| 98 | [Fuego](https://open.spotify.com/track/6gsbAhf3XxE8OhabLMmPw7) | [Tebin Ramos](https://open.spotify.com/artist/3JuVLgCeHAGhyLtlF8iCZd) | [Fuego](https://open.spotify.com/album/2cuIJ4oqOCNTtth0wxPJrb) | 3:20 |
+| 99 | [Life in the Slow Lane](https://open.spotify.com/track/5Vys4dZ1Pq4MRUDGHrGfZh) | [Electron Revolt](https://open.spotify.com/artist/7inTXltGl51TDpZAW7BFAm) | [Fluster Crux](https://open.spotify.com/album/2quBW7IVo2JdekZXJc8Qdx) | 4:00 |
 
-Snapshot ID: `AABj/rj7QDxSLj8GEU1Gyck4lA7niE24`
+Snapshot ID: `AABkAGKzYzlU3F6hNJtzAlRb70SgRibh`

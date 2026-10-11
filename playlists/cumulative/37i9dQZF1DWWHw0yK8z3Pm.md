@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Logan Staats
 
-784 songs - 1 day 23 hr 31 min
+786 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [Iydlmlmg](https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2) | [The Secret Beach](https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3) | [Iydlmlmg](https://open.spotify.com/album/1THoy1RiIHbr46SOcADDI1) | 2:57 | 2022-12-09 | 2023-05-04 |
 | [Jaded Songbirds](https://open.spotify.com/track/4Rq65TqCn47STqWZZPfPzf) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [America's Greatest Burnout](https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM) | 3:06 | 2026-08-28 |  |
 | [James Dean](https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [James Dean](https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ) | 2:50 | 2022-08-05 | 2022-09-10 |
-| [January](https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP) | [Marie Dresselhuis](https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL) | [January](https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w) | 3:17 | 2026-01-09 |  |
+| [January](https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP) | [Marie Dresselhuis](https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL) | [January](https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w) | 3:17 | 2026-01-09 | 2026-10-11 |
 | [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-04-21 | 2024-11-01 |
 | [John Came Home](https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:11 | 2023-04-21 | 2023-06-24 |
 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 | 2024-12-06 | 2025-01-18 |
@@ -645,7 +645,7 @@
 | [Still What I'm Looking For](https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Still What I'm Looking For](https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE) | 3:07 | 2024-07-12 | 2025-11-07 |
 | [Stolen Lands](https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Beyond the Reservoir](https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W) | 6:10 | 2022-10-14 | 2023-05-06 |
 | [Stuff](https://open.spotify.com/track/7bGFbEzrG66G5oah25BnHw) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [A Sign In The Weather](https://open.spotify.com/album/17nzheejzWjrbPH3DjOcmz) | 3:23 | 2026-06-05 |  |
-| [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 | 2025-09-26 |  |
+| [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 | 2025-09-26 | 2026-10-11 |
 | [Summer Wine](https://open.spotify.com/track/35j22HqMiHRVFz6aMSYlAd) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Summer Wine](https://open.spotify.com/album/171i564OD81tTVFvBxUEIh) | 4:41 | 2022-06-03 | 2022-07-16 |
 | [Supposed To Be](https://open.spotify.com/track/0GTbfwPBpAJ8B4Dpw5Rwka) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [Supposed To Be](https://open.spotify.com/album/1jMFIViRO10jYNe5KEC9cG) | 4:46 | 2022-05-13 | 2022-07-20 |
 | [Sweet Relief](https://open.spotify.com/track/00VZJCC2kTust8GYSlpxHL) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Sweet Relief](https://open.spotify.com/album/6JZ2zxBOyJXLc5pwUTHGGJ) | 4:15 | 2022-08-05 | 2023-04-22 |
@@ -662,6 +662,7 @@
 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-07-05 | 2025-11-07 |
 | [Tethered](https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Tethered](https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL) | 4:01 | 2026-05-08 | 2026-06-07 |
 | [That Wind](https://open.spotify.com/track/3eOUcXAIHTAO3414qIvyWQ) | [Jade Turner](https://open.spotify.com/artist/2IcuWwM2AJpbLrycJUuELT) | [Breathe](https://open.spotify.com/album/0BTzfUm1qXyeekX8MgMAMC) | 3:27 | 2025-04-11 | 2025-07-12 |
+| [THE ALLIGATOR](https://open.spotify.com/track/68CP4zwZSuMG623V8fQ65G) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [THE ALLIGATOR](https://open.spotify.com/album/60w2zFQHJK1wpWXSI73npq) | 4:41 | 2026-10-09 |  |
 | [The Curse of the Blackened Eye](https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:10 | 2022-05-13 | 2022-10-01 |
 | [The Dress](https://open.spotify.com/track/4pbQxmny6x7hYojKtu77SW) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Dustpiles](https://open.spotify.com/album/7wLlEZobDhLqAYs7slQGBo) | 4:03 | 2026-07-17 |  |
 | [The Fool](https://open.spotify.com/track/29nN7NsUSHJyz3tyZDESED) | [Jennie Harluk](https://open.spotify.com/artist/2nik10Ty0mtiWMAL6bTFWw) | [The Fool](https://open.spotify.com/album/1TXgB7zlcVS7f1PPP8y88o) | 4:00 | 2022-05-13 | 2022-08-20 |
@@ -758,6 +759,7 @@
 | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/album/2GwFSvFseBD11Jk8TZM6fU) | 3:42 | 2025-01-17 | 2025-03-24 |
 | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/4J00D7FgKC3O9O7oSLuX6K) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [The Cloudmaker's Cry](https://open.spotify.com/album/56vReOxfodsnNrt66xgxX6) | 3:42 | 2026-01-16 | 2026-03-07 |
 | [Wildfire](https://open.spotify.com/track/3tFXa569w5PRRtb2rCwoQQ) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Wildfire](https://open.spotify.com/album/7w25Rqt9D2fDxUwntGAlw0) | 2:11 | 2026-06-26 |  |
+| [Wildfire \- Afterburn](https://open.spotify.com/track/63Ga7BbFylK89dZc6H0MF6) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Magnolia Sage \(In Full Bloom\)](https://open.spotify.com/album/0SUFiA1g2CrQfVFxyYRL3N) | 4:21 | 2026-10-09 |  |
 | [Wildflower](https://open.spotify.com/track/4euWcMK8R1oGsh3XtLKgLP) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Wildflower](https://open.spotify.com/album/0Nq37RrtL71QTpiTEYjoiA) | 3:37 | 2026-04-24 | 2026-05-23 |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-05-03 | 2024-12-14 |
 | [Willow Rose](https://open.spotify.com/track/2SEmesSUJHkTDsvUYm71Wf) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Willow Rose](https://open.spotify.com/album/02Y72ZbMHc1vWpksK0BUQH) | 3:52 | 2024-05-31 | 2024-07-23 |

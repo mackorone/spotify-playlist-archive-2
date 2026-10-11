@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,663,430 likes - 95 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,663,438 likes - 95 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 94 | [Moonlight in Vermont](https://open.spotify.com/track/3YXb6d0LRSc3UaYafQ6acE) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Moonlight in Vermont](https://open.spotify.com/album/2uGDhyFVW5LusWVFn5XtsU) | 6:53 |
 | 95 | [Theme For Leon](https://open.spotify.com/track/1PdnJncOIXLLHOjWq6zQBE) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Theme for Leon](https://open.spotify.com/album/587RQMxWOa3jkQKFQt9tKw) | 6:08 |
 
-Snapshot ID: `AAAAAPgw7hnFNziA1/KJEa+HbA0e0LI6`
+Snapshot ID: `AAAAAFqkd7SzRrnn+3E2GKBnKzJjUWog`

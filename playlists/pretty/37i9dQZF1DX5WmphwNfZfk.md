@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,755 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,760 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [GET A GRIP](https://open.spotify.com/track/3lK2gBDAAywjbQ34STiKUH) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [GET A GRIP](https://open.spotify.com/album/21WtvLOkmyhyTcFAOTfwW8) | 2:50 |
 | 50 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
 
-Snapshot ID: `AAAAAHdTPG/UL87tbcfhnZ/7gshDZ2dz`
+Snapshot ID: `AAAAAL1/mKQH0GelLCoEE5zVJmcuZvaC`

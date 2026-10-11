@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAAEJIcd+xpmV3MFKdTvEI/Q",
+  "snapshot_id": "asgugAAAAACHiJOtsVhnbr1lFMW9hpwz",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chopin: Complete Waltzes",
-        "url": "https://open.spotify.com/album/2YeIqBnip7DdRM3EnioPXB"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 52000,
-      "name": "Waltz in A Minor \"Morgan Library & Museum MS\"",
-      "url": "https://open.spotify.com/track/6ePVmtpGtLvUDGgHptSX8m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schumann: Arabeske, Kreisleriana & Fantasie in C",
         "url": "https://open.spotify.com/album/6V3uJu4hhaDw8dQiVpTQuh"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 204600,
       "name": "Kreisleriana, Op. 16: IV. Sehr langsam",
       "url": "https://open.spotify.com/track/7IZbfKsq8IVKaO5dG1D101"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chopin: Complete Waltzes",
+        "url": "https://open.spotify.com/album/2YeIqBnip7DdRM3EnioPXB"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 52000,
+      "name": "Waltz in A Minor \"Morgan Library & Museum MS\"",
+      "url": "https://open.spotify.com/track/6ePVmtpGtLvUDGgHptSX8m"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflection (Arr. Hough for Piano) [From \"Mulan\"]",
-        "url": "https://open.spotify.com/album/6v2uCx9zVpGxPv5H7DYENJ"
-      },
-      "artists": [
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Reflection (Arr. Hough for Piano) - From \"Mulan\"",
-      "url": "https://open.spotify.com/track/5SBUp8syebN6SgKcbFTCOw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hough: Piano Concerto, Sonatina & Partita",
         "url": "https://open.spotify.com/album/6aj6j7obrqKiSJJF9GB51l"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 223666,
       "name": "Piano Concerto \"The World of Yesterday\": II. Waltz Variations \u2013",
       "url": "https://open.spotify.com/track/3yHmzhR9R6b3dUQeVkNCkn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reflection (Arr. Hough for Piano) [From \"Mulan\"]",
+        "url": "https://open.spotify.com/album/6v2uCx9zVpGxPv5H7DYENJ"
+      },
+      "artists": [
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Reflection (Arr. Hough for Piano) - From \"Mulan\"",
+      "url": "https://open.spotify.com/track/5SBUp8syebN6SgKcbFTCOw"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida breve: Bach, Busoni, Chopin, Liszt, Hough, Gounod",
-        "url": "https://open.spotify.com/album/1YjF7cLTit7g5gDR8XZndk"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 109640,
-      "name": "Arirang (Arr. Hough)",
-      "url": "https://open.spotify.com/track/51nZbFahK4ooT7rRGUA93u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6 & Fantasie, Op. 17",
         "url": "https://open.spotify.com/album/4BYqUEEXraeCs8Y4OqrzBm"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 244133,
       "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 17, Wie aus der Ferne",
       "url": "https://open.spotify.com/track/7azbxrt9Wi0ra1qFfcCUOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida breve: Bach, Busoni, Chopin, Liszt, Hough, Gounod",
+        "url": "https://open.spotify.com/album/1YjF7cLTit7g5gDR8XZndk"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 109640,
+      "name": "Arirang (Arr. Hough)",
+      "url": "https://open.spotify.com/track/51nZbFahK4ooT7rRGUA93u"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"The Classical Collection: Bach, Mozart & more\"",
+        "url": "https://open.spotify.com/album/4dIeaV5P4EzKNsGop7bqTd"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 96440,
+      "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
+      "url": "https://open.spotify.com/track/0LhPltgg0pit78eBdaGczS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\"Landscapes\": A Classical Soundtrack",
         "url": "https://open.spotify.com/album/1LLVYFlUXDBEv1hXdKlwrz"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 58105,
       "name": "La plus que lente, CD 128 - Excerpt",
       "url": "https://open.spotify.com/track/2U5EpPYJWFJyb2C8TBWuVB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"'The Classical Collection: Bach, Mozart & more\"",
-        "url": "https://open.spotify.com/album/4dIeaV5P4EzKNsGop7bqTd"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 96440,
-      "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
-      "url": "https://open.spotify.com/track/0LhPltgg0pit78eBdaGczS"
     },
     {
       "added_at": null,
@@ -815,6 +815,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
+        "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
+      },
+      "artists": [
+        {
+          "name": "Roger Quilter",
+          "url": "https://open.spotify.com/artist/3uFNhCH4eh3y1BN0sPwQzC"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 129386,
+      "name": "Quilter: 3 Songs, Op. 3: No. 2, Now Sleeps the Crimson Petal (Arr. Hough for Piano)",
+      "url": "https://open.spotify.com/track/1CvZunMt1k73dAtRltTo2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stephen Hough's Piano Postcards",
+        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile Chaminade",
+          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Th\u00e8me vari\u00e9 in A Major, Op. 89",
+      "url": "https://open.spotify.com/track/1YysVcXZ4mVOSJ5g7eaBzD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
         "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
       },
@@ -843,46 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephen Hough's Piano Postcards",
-        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
-      },
-      "artists": [
-        {
-          "name": "Christian Sinding",
-          "url": "https://open.spotify.com/artist/45Ju84OuCDMX3oH1iLKP63"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Rustle of Spring, Op. 32 No. 3",
-      "url": "https://open.spotify.com/track/0uXvbtWfTrD3KygHfRSBOw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
-        "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
-      },
-      "artists": [
-        {
-          "name": "Roger Quilter",
-          "url": "https://open.spotify.com/artist/3uFNhCH4eh3y1BN0sPwQzC"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 129386,
-      "name": "Quilter: 3 Songs, Op. 3: No. 2, Now Sleeps the Crimson Petal (Arr. Hough for Piano)",
-      "url": "https://open.spotify.com/track/1CvZunMt1k73dAtRltTo2S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children's Cello",
         "url": "https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o"
       },
@@ -903,6 +903,46 @@
       "duration_ms": 102826,
       "name": "No. 5, A Sunday Evening in Autumn",
       "url": "https://open.spotify.com/track/5eqFbgTlAMcxbFYfCt62sx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Schubert: Piano Sonata in A Major, D. 664; in E Minor, D. 769a; in G Major, D. 894",
+        "url": "https://open.spotify.com/album/4OWWKtFGwUfc3lAKsf4bdG"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 463120,
+      "name": "Piano Sonata No. 13 in A Major, D. 664: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/0BteJrDRD5QkJkQmNy08q1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stephen Hough's Piano Postcards",
+        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+      },
+      "artists": [
+        {
+          "name": "Christian Sinding",
+          "url": "https://open.spotify.com/artist/45Ju84OuCDMX3oH1iLKP63"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Rustle of Spring, Op. 32 No. 3",
+      "url": "https://open.spotify.com/track/0uXvbtWfTrD3KygHfRSBOw"
     },
     {
       "added_at": null,
@@ -935,22 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephen Hough's Piano Postcards",
-        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+        "name": "The Piano Album",
+        "url": "https://open.spotify.com/album/7feNtVabPanUXWWbq2SmBL"
       },
       "artists": [
         {
-          "name": "C\u00e9cile Chaminade",
-          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
+          "name": "Mischa Levitzki",
+          "url": "https://open.spotify.com/artist/42V9f8k71W0oF3pS5yPhzf"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 259333,
-      "name": "Th\u00e8me vari\u00e9 in A Major, Op. 89",
-      "url": "https://open.spotify.com/track/1YysVcXZ4mVOSJ5g7eaBzD"
+      "duration_ms": 290173,
+      "name": "Levitzki: The Enchanted Nymph",
+      "url": "https://open.spotify.com/track/3MbiuckD1ew5b6YF0VaaIp"
     },
     {
       "added_at": null,
@@ -971,46 +1011,6 @@
       "duration_ms": 95146,
       "name": "8 Nocturnes, FP 56: No. 4 in C Minor. Bal fant\u00f4me",
       "url": "https://open.spotify.com/track/7JcVLnNzU6pl560SULa72n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Schubert: Piano Sonata in A Major, D. 664; in E Minor, D. 769a; in G Major, D. 894",
-        "url": "https://open.spotify.com/album/4OWWKtFGwUfc3lAKsf4bdG"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 463120,
-      "name": "Piano Sonata No. 13 in A Major, D. 664: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/0BteJrDRD5QkJkQmNy08q1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Piano Album",
-        "url": "https://open.spotify.com/album/7feNtVabPanUXWWbq2SmBL"
-      },
-      "artists": [
-        {
-          "name": "Mischa Levitzki",
-          "url": "https://open.spotify.com/artist/42V9f8k71W0oF3pS5yPhzf"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 290173,
-      "name": "Levitzki: The Enchanted Nymph",
-      "url": "https://open.spotify.com/track/3MbiuckD1ew5b6YF0VaaIp"
     },
     {
       "added_at": null,
@@ -1055,8 +1055,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Nocturne for an Empty Room: Classical Masterpieces\"",
-        "url": "https://open.spotify.com/album/2Nvp9ToPk2WngfSD6xtACB"
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/6nLttkyOq3hrynxwMehBt9"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 82381,
-      "name": "Lyric Pieces, Op. 65: From Early Years - Excerpt",
-      "url": "https://open.spotify.com/track/38fNVFBsWBuCadTQBAJmQg"
+      "duration_ms": 145586,
+      "name": "Lyric Pieces Book 9, Op. 68: No. 5, At the Cradle",
+      "url": "https://open.spotify.com/track/4McgbEFTE84obaK3EJlS0m"
     }
   ],
   "unique_name": "This Is Stephen Hough",

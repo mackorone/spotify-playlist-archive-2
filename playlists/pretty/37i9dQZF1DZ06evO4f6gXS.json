@@ -1,6 +1,6 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3661,
+  "num_followers": 3665,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
       "duration_ms": 300413,
       "name": "Curious",
       "url": "https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 155186,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec"
     },
     {
       "added_at": null,

@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "DEATH OF ME",
+        "url": "https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB"
+      },
+      "artists": [
+        {
+          "name": "EVAN",
+          "url": "https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/2XiGA4e1c6xfISpypmJwGR"
+    },
+    {
+      "album": {
         "name": "You Should Prolly Sit Down For This",
         "url": "https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz"
       },

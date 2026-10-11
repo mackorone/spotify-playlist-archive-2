@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0L9EIg.md) - [plain]
 
 > This is Volker Bertelmann\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836 likes - 49 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 839 likes - 49 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0L9EIg.md) - [plain]
 | 48 | [Finale](https://open.spotify.com/track/3yMvm36EPgxgyzGNE4ZOUo) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [One Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0I9rM6mi4q4yS4mB4MZDI6) | 4:41 |
 | 49 | [The King's Arrival](https://open.spotify.com/track/0GHCK4hUN1RmvMlYAPRGET) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [The Uprising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6) | 2:03 |
 
-Snapshot ID: `asbdAAAAAABY3p0eE23G+Ay3AFkW38qQ`
+Snapshot ID: `asgugAAAAACYrQwmtq3eSfddJzWKNiYm`

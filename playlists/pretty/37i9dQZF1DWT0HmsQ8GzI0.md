@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Дeva
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,039 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,040 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 60 | [NEM NÉMÍTHATTOK EL](https://open.spotify.com/track/7hiLmgxXlxzfpOQlfqeBU0) | [Molnár Tamás](https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm) | [NEM NÉMÍTHATTOK EL](https://open.spotify.com/album/2R1Psv1ZPyF3FggKde4rfp) | 2:33 |
 | 61 | [ÉLEK ÉS VIRULOK](https://open.spotify.com/track/7EknOyrrRIVBQNWrwOkuSl) | [Hűvös](https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA), [Bíró Bence](https://open.spotify.com/artist/7wZnYDn8PGMZ8A0ziYrSmz) | [ÉLEK ÉS VIRULOK](https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT) | 2:56 |
 | 62 | [Blicc](https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9) | [Blicc](https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS) | 3:48 |
-| 63 | [Gyönyörű Rendetlenség](https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Gyönyörű Rendetlenség](https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr) | 4:19 |
-| 64 | [KICSIKE FÉNY](https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [SZÓLNI KELL](https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l) | 3:43 |
+| 63 | [KICSIKE FÉNY](https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [SZÓLNI KELL](https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l) | 3:43 |
+| 64 | [Gyönyörű Rendetlenség](https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Gyönyörű Rendetlenség](https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr) | 4:19 |
 | 65 | [Harmincvalahány](https://open.spotify.com/track/1YcmGlWobFYsT03A4I0kmE) | [Lábas Viki](https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL) | [Harmincvalahány](https://open.spotify.com/album/48NeJ5HjTPHbp56HwP9dYW) | 3:06 |
-| 66 | [buligyilkos](https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [buligyilkos](https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah) | 2:58 |
-| 67 | [i was wrong](https://open.spotify.com/track/6YMgZe04qLOXyc84DCyTHN) | [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [i was wrong](https://open.spotify.com/album/7EXMGa3bhTuRvarlYcGI05) | 2:58 |
+| 66 | [i was wrong](https://open.spotify.com/track/6YMgZe04qLOXyc84DCyTHN) | [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [i was wrong](https://open.spotify.com/album/7EXMGa3bhTuRvarlYcGI05) | 2:58 |
+| 67 | [buligyilkos](https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [buligyilkos](https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah) | 2:58 |
 | 68 | [Akárkifia](https://open.spotify.com/track/3S1PfBDw6xuePLFD7fH0WD) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [AKÁRKIFIA](https://open.spotify.com/album/0TvpE8pe9RGmp5hP6S9Nk7) | 3:17 |
 | 69 | [Tell Me](https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Tell Me](https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln) | 3:25 |
-| 70 | [4 akkordos számok](https://open.spotify.com/track/6Phs4DJE9Vb7mMCZnHIH9m) | [Héra Barnabás](https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR) | [Héra](https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc) | 3:26 |
-| 71 | [A nyaraló teraszán](https://open.spotify.com/track/3ZWlG6uEp0wZldavExZVWG) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Eddig későn feküdtem le](https://open.spotify.com/album/4UxNUQrYMao52xRB5CbhFE) | 3:01 |
+| 70 | [A nyaraló teraszán](https://open.spotify.com/track/3ZWlG6uEp0wZldavExZVWG) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Eddig későn feküdtem le](https://open.spotify.com/album/4UxNUQrYMao52xRB5CbhFE) | 3:01 |
+| 71 | [4 akkordos számok](https://open.spotify.com/track/6Phs4DJE9Vb7mMCZnHIH9m) | [Héra Barnabás](https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR) | [Héra](https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc) | 3:26 |
 | 72 | [MARIO](https://open.spotify.com/track/08m9oJ1bpBWLl1k66Uk7LS) | [veryraredome](https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv), [26ckay](https://open.spotify.com/artist/0VvoEGyKZ9tWbD0EYk9yTv), [starboyrolo](https://open.spotify.com/artist/3A7iNlFgagq1pt7yzyynMq) | [MR\. CITYWIDE](https://open.spotify.com/album/68sblQXoXXUG7KHyXw6RGz) | 3:07 |
 | 73 | [Szilánkok](https://open.spotify.com/track/2u8iSrFqIwMuIlCNRp5IdQ) | [Korinna](https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH), [UTAZØ](https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc) | [Szilánkok](https://open.spotify.com/album/3do3YI0XDOwP50ujHfw4Gc) | 4:06 |
 | 74 | [Menj](https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Menj](https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9) | 3:47 |

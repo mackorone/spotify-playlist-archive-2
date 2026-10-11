@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-705 songs - 1 day 14 hr 39 min
+706 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [New Cool \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/0vsB8qj0vTND3jDQRC0Pu7) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [New Cool \(From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'\)](https://open.spotify.com/album/2bCXFQWFTcvs4xuRCObKGu) | 2:28 | 2024-02-27 |  |
 | [new friends](https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [new friends](https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt) | 2:45 | 2025-06-30 |  |
 | [New Habit](https://open.spotify.com/track/0MgCeAOIKqLKTul51wZWex) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [A Reckoning](https://open.spotify.com/album/2LXTIciAcMZ6wa96d9sLnM) | 3:27 | 2024-02-27 |  |
+| [New Love](https://open.spotify.com/track/1Kqg9ffdQMT47RtG59Dper) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:22 | 2026-10-10 |  |
 | [New Shoes](https://open.spotify.com/track/21Adcn1tBh797XAeqNtkrB) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:05 | 2024-02-27 |  |
 | [Night Vision](https://open.spotify.com/track/0R1nCLcNACYAEW54wXWITx) | [Andreas](https://open.spotify.com/artist/2YRoox3PR4bcI28Hkkgpgu) | [Paradise Caf├⌐](https://open.spotify.com/album/6nFgYbS0ucQRI6SYHFyMEQ) | 6:10 | 2024-02-27 | 2025-06-28 |
 | [Nightmare](https://open.spotify.com/track/4IVlkdE0zQdP56iZiHn5rL) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Have U Seen Her?](https://open.spotify.com/album/6duDuIepi6ZCwgAbBw1BQ1) | 2:31 | 2024-02-27 |  |

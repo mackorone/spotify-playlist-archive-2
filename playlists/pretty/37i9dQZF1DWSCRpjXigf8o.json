@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88642,
+  "num_followers": 88636,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/0ZNbXoRUhaSMhYcL4LWDg9"
     },
     {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "satellite",
-        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 193838,
-      "name": "satellite",
-      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "THRIFTED",
@@ -283,6 +267,22 @@
       "duration_ms": 161066,
       "name": "THRIFTED",
       "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
+    },
+    {
+      "added_at": "2026-07-16 15:00:53",
+      "album": {
+        "name": "satellite",
+        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 193838,
+      "name": "satellite",
+      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "Note of Mothership",
-        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
-      },
-      "artists": [
-        {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
-        }
-      ],
-      "duration_ms": 178995,
-      "name": "Note of Mothership",
-      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "I'd Be Lost",
@@ -791,6 +775,22 @@
       "duration_ms": 167012,
       "name": "I'd Be Lost",
       "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "Note of Mothership",
+        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 178995,
+      "name": "Note of Mothership",
+      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u6803\u6728",
-        "url": "https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE"
-      },
-      "artists": [
-        {
-          "name": "Guiba",
-          "url": "https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN"
-        }
-      ],
-      "duration_ms": 229034,
-      "name": "\u6803\u6728",
-      "url": "https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Turntable in the Lift",
         "url": "https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 426250,
       "name": "Tunes for Suly",
       "url": "https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u6803\u6728",
+        "url": "https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE"
+      },
+      "artists": [
+        {
+          "name": "Guiba",
+          "url": "https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN"
+        }
+      ],
+      "duration_ms": 229034,
+      "name": "\u6803\u6728",
+      "url": "https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "MY\u5922\u4e2d",
-        "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "MY\u5922\u4e2d",
-      "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "This must be the place",
         "url": "https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 232238,
       "name": "This must be the place",
       "url": "https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "MY\u5922\u4e2d",
+        "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "MY\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1393,6 +1393,22 @@
       "url": "https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 221490,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
+    },
+    {
       "added_at": "2026-05-21 15:00:24",
       "album": {
         "name": "la misma piedra",
@@ -1411,22 +1427,6 @@
       "duration_ms": 216996,
       "name": "la misma piedra",
       "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 221490,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
     },
     {
       "added_at": "2026-05-07 16:20:46",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Place Your Hands",
         "url": "https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 195600,
       "name": "Place Your Hands",
       "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 145841,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
     },
     {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "You are Silence",
-        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "You are Silence",
-      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "\u541b\u306f\u8a00\u3046\u304b\u306a",
@@ -1607,6 +1591,22 @@
       "duration_ms": 267933,
       "name": "\u541b\u306f\u8a00\u3046\u304b\u306a",
       "url": "https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb"
+    },
+    {
+      "added_at": "2026-07-16 15:00:53",
+      "album": {
+        "name": "You are Silence",
+        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "duration_ms": 361000,
+      "name": "You are Silence",
+      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1659,18 +1659,26 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "I know",
-        "url": "https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs"
+        "name": "Your Light",
+        "url": "https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ"
       },
       "artists": [
         {
-          "name": "SOIII",
-          "url": "https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp"
+          "name": "8WHAT",
+          "url": "https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i"
+        },
+        {
+          "name": "Alisara Arial",
+          "url": "https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP"
+        },
+        {
+          "name": "YiDD",
+          "url": "https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk"
         }
       ],
-      "duration_ms": 232820,
-      "name": "I know",
-      "url": "https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60"
+      "duration_ms": 164000,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ"
     }
   ],
   "unique_name": "Mid Tempo Magic",

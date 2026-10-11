@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4967,
+  "num_followers": 4974,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAA1fJdr09DjmWfpc/4kBPKr",
+  "snapshot_id": "asgugAAAAABGTiqly728FQGWuWvmJflp",
   "tracks": [
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 123853,
-      "name": "Favorite",
-      "url": "https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW"
+      "duration_ms": 252226,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/02GBtzxf70cvt8wxxhKnyG"
     },
     {
       "added_at": null,
@@ -451,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Brief Intermission in the Flattening of Time",
-        "url": "https://open.spotify.com/album/6Yczxf4YZevAC8ge5Sb1H3"
+        "name": "Run For Cover Subscription Singles Series #3",
+        "url": "https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q"
       },
       "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        },
         {
           "name": "Tigers Jaw",
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 186135,
-      "name": "Berlin (feat. Tigers Jaw)",
-      "url": "https://open.spotify.com/track/7jRtmIC2bixxr2RYGbPBgp"
+      "duration_ms": 265238,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J"
     },
     {
       "added_at": null,
@@ -503,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run For Cover Subscription Singles Series #3",
-        "url": "https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q"
+        "name": "A Brief Intermission in the Flattening of Time",
+        "url": "https://open.spotify.com/album/6Yczxf4YZevAC8ge5Sb1H3"
       },
       "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        },
         {
           "name": "Tigers Jaw",
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 265238,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J"
+      "duration_ms": 186135,
+      "name": "Berlin (feat. Tigers Jaw)",
+      "url": "https://open.spotify.com/track/7jRtmIC2bixxr2RYGbPBgp"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 252226,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/02GBtzxf70cvt8wxxhKnyG"
+      "duration_ms": 123853,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Caloncho y Jaze.",
-  "num_followers": 1359374,
+  "num_followers": 1359248,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "In & On",
-        "url": "https://open.spotify.com/album/33ah8yrHvflRc5aovdORpA"
-      },
-      "artists": [
-        {
-          "name": "NOITE",
-          "url": "https://open.spotify.com/artist/50Xm9Pr2Kjp5OpnwjUVdlP"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "In & On",
-      "url": "https://open.spotify.com/track/3IzhQqMVrgDvM5jYWglOMc"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "Binikini",
         "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 183253,
       "name": "Binikini",
       "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "In & On",
+        "url": "https://open.spotify.com/album/33ah8yrHvflRc5aovdORpA"
+      },
+      "artists": [
+        {
+          "name": "NOITE",
+          "url": "https://open.spotify.com/artist/50Xm9Pr2Kjp5OpnwjUVdlP"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "In & On",
+      "url": "https://open.spotify.com/track/3IzhQqMVrgDvM5jYWglOMc"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
+        "name": "Dimensi\u00f3n Caribe",
+        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
         "name": "Cypher Nightmare Vol.1",
         "url": "https://open.spotify.com/album/7yJ47pc2OfRfKfn57sHk3F"
       },
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "Dimensi\u00f3n Caribe",
-        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 212533,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
-        "name": "Aunque No Sea Conmigo",
-        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 251680,
-      "name": "Aunque No Sea Conmigo",
-      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 251680,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
         "name": "Mar Adentro",
         "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "LOCO PERDIDO",
-        "url": "https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn"
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
       "artists": [
         {
-          "name": "Dollar Selmouni",
-          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
+        },
+        {
+          "name": "Son del Arroyo",
+          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
         }
       ],
-      "duration_ms": 194250,
-      "name": "LOCO PERDIDO",
-      "url": "https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw"
+      "duration_ms": 201347,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
+        "name": "LOCO PERDIDO",
+        "url": "https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn"
       },
       "artists": [
         {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
-        },
-        {
-          "name": "Son del Arroyo",
-          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
+          "name": "Dollar Selmouni",
+          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
         }
       ],
-      "duration_ms": 201347,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+      "duration_ms": 194250,
+      "name": "LOCO PERDIDO",
+      "url": "https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "La Tierra del Desencanto",
-        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x"
       },
       "artists": [
         {
-          "name": "BlackDali",
-          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
-        },
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 249542,
-      "name": "La Tierra del Desencanto",
-      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
+      "duration_ms": 138750,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1699,18 +1695,22 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x"
+        "name": "La Tierra del Desencanto",
+        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "BlackDali",
+          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
+        },
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 138750,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU"
+      "duration_ms": 249542,
+      "name": "La Tierra del Desencanto",
+      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
     },
     {
       "added_at": "2026-09-11 04:59:18",

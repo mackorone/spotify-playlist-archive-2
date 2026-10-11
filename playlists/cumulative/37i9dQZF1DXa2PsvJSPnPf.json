@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 213026,
       "name": "One Little Feeling",
       "url": "https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg"
@@ -3194,6 +3194,28 @@
       "duration_ms": 210613,
       "name": "Paducah",
       "url": "https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/1VKekF82iIVmJtSz6BHDNU"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256920,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0pVO7UthKwiYdi9cz40LAj"
     },
     {
       "album": {
@@ -3368,6 +3390,24 @@
       "duration_ms": 256226,
       "name": "Poor Lost Souls",
       "url": "https://open.spotify.com/track/5saHD81HEsU6vCO07JJyVB"
+    },
+    {
+      "album": {
+        "name": "Postcard",
+        "url": "https://open.spotify.com/album/2sd2am38eV9C5aKSnmZpAg"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186468,
+      "name": "Postcard",
+      "url": "https://open.spotify.com/track/4WQ8w6jr2ZPZ021iUm2J1D"
     },
     {
       "album": {
@@ -5090,7 +5130,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 228741,
       "name": "You, Me and The Mountains - Live Off The Floor",
       "url": "https://open.spotify.com/track/3VyzVPoGB0ikZcAjWnCRdf"

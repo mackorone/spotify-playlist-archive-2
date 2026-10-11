@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: KUKO
 
-411 songs - 1 day 3 hr 23 min
+412 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Keeping Your Head Up](https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Keeping Your Head Up](https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0) | 2:57 | 2024-11-01 | 2025-07-25 |
 | [Kick Bass In Your Face](https://open.spotify.com/track/50aNLhnlmcuJQ2iF7Bpd6q) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Kick Bass In Your Face](https://open.spotify.com/album/0MKm3xNFKPhhDGc16DoT3G) | 2:44 | 2024-09-27 | 2026-06-26 |
 | [Kick Drum Talk](https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Kick Drum Talk](https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1) | 3:47 | 2026-06-11 |  |
-| [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 | 2025-02-20 |  |
+| [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 | 2025-02-20 | 2026-10-11 |
 | [Kindness Makes Me Horny](https://open.spotify.com/track/5w2PBowfXDbOpzLpLrB3kt) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Pako Marckx](https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh), [INNERGATED](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Kindness Makes Me Horny](https://open.spotify.com/album/0WmVahBYsYEZftiokIV4EI) | 4:06 | 2025-06-20 |  |
 | [Kiss Girl](https://open.spotify.com/track/27rVhCihd0rscnZtoj7ZDO) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Kiss Girl](https://open.spotify.com/album/2KQ17ihgLn28kaKFhcN4az) | 3:08 | 2025-01-24 | 2025-03-30 |
 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-07-25 |  |
@@ -359,6 +359,7 @@
 | [Synthetic Dreams \- Anetha Remix](https://open.spotify.com/track/5dDOtrnF2JQrr4yrD5SRdV) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Synthetic Dreams \(Anetha Remix\)](https://open.spotify.com/album/5KV09u5f8tmoFLauTBtyx6) | 6:23 | 2024-04-09 | 2024-04-19 |
 | [Talk Dirty](https://open.spotify.com/track/1NwLs0Im1wNmWJn0o8AV1s) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa) | [Talk Dirty](https://open.spotify.com/album/6kqwQPR50KFYg290sTBcA8) | 2:08 | 2026-03-06 | 2026-04-24 |
 | [Tamara](https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tamara](https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD) | 3:26 | 2024-08-13 | 2024-11-29 |
+| [Tarantula](https://open.spotify.com/track/5KJ4OmlwvbL8m8qYg7EkiB) | [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Tarantula](https://open.spotify.com/album/256jgvKTQIC8S4xFjwLm2Z) | 3:37 | 2026-09-24 |  |
 | [TASTE MY LOVE](https://open.spotify.com/track/6niooL3ngDNKK1iF10U4nB) | [FoxTune](https://open.spotify.com/artist/1DVM9Xl4WPgdIYN5m8m2Lu) | [TASTE MY LOVE](https://open.spotify.com/album/19Uc3mdOToJZ1iEfMhUlrR) | 3:05 | 2026-02-27 |  |
 | [Technique](https://open.spotify.com/track/6g2Q53kY8SYBnJ7RYfDWiV) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [Flydat](https://open.spotify.com/artist/05AhtFXYiMwXiVF4XW8Vq2) | [Technique](https://open.spotify.com/album/2UWlXrpdoNAq5vvG5Nnevl) | 4:11 | 2025-04-18 | 2025-05-24 |
 | [Techno Dream](https://open.spotify.com/track/7At9gHq8Gi66Cch4nnBipm) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [David White](https://open.spotify.com/artist/4sQ7XS59ZQebv14J404ZSn) | [Techno Dream](https://open.spotify.com/album/1PvjVmVZFQqFsiS1RGkMVU) | 1:56 | 2025-04-18 | 2025-05-17 |

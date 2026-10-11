@@ -4,7 +4,7 @@
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 11 min
+65 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,12 +12,13 @@
 | [Agency](https://open.spotify.com/track/6yYfvf1VSPV4GT2Ak06ads) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:38 | 2026-07-19 |  |
 | [Backward](https://open.spotify.com/track/3OzXhpTO6Y3aDH7OzFAIbg) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 1:43 | 2022-11-17 |  |
 | [Blister](https://open.spotify.com/track/6NnO1eSFVOW8cLnfJvfy60) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:08 | 2022-11-17 |  |
-| [Bring On The Psychics](https://open.spotify.com/track/1NxMIykscSdcZNI2BeJSoq) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:44 | 2026-07-19 |  |
+| [Bring On The Psychics](https://open.spotify.com/track/1NxMIykscSdcZNI2BeJSoq) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:44 | 2026-07-19 | 2026-10-11 |
 | [Brushed](https://open.spotify.com/track/16Zjiyrktq6QBnwXF2lDTv) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:35 | 2022-11-17 |  |
 | [Can Opener](https://open.spotify.com/track/2xU47DIlAwcd3XV2Naw5Xs) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:39 | 2026-08-26 | 2026-08-27 |
 | [Clean Slate](https://open.spotify.com/track/5b3GgYZdWKFyAjYBosWdqI) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Quicksand](https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S) | 2:49 | 2022-11-17 | 2026-08-27 |
 | [Colossus](https://open.spotify.com/track/2nxTdYXI2XnscHguTOseg7) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:18 | 2022-11-17 |  |
 | [Compacted Infinity](https://open.spotify.com/track/20EI8dSK9gLe3tYD82VXpj) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 1:10 | 2023-07-13 | 2023-07-18 |
+| [Cool Guy](https://open.spotify.com/track/1XjKZl5jjTzhJOFuX7XEYq) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:09 | 2026-10-11 |  |
 | [Cool Guy](https://open.spotify.com/track/20X1G6CNx9L0hcuHA3oqxi) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Cool Guy](https://open.spotify.com/album/4k9XE5JzzWmtoY8eMQQuRY) | 2:09 | 2026-06-20 | 2026-07-24 |
 | [Cosmonauts](https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:08 | 2022-11-17 |  |
 | [Crazy](https://open.spotify.com/track/1uRdil0iAVexdNLcBBjZJQ) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Crazy](https://open.spotify.com/album/0Qp6B1ZS2LbMNKdjLgYWMC) | 1:31 | 2023-03-11 | 2023-03-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59492,
+  "num_followers": 59480,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Ihmisenpuolikas",
-        "url": "https://open.spotify.com/album/3aPhDcXiZ2MLBFCWNJMcj1"
-      },
-      "artists": [
-        {
-          "name": "Aatulove",
-          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
-        }
-      ],
-      "duration_ms": 172447,
-      "name": "Ihmisenpuolikas",
-      "url": "https://open.spotify.com/track/5XJOXkXEfDWJUmvrsvFbro"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "en tunne",
         "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Miks menit unohtaa",
-        "url": "https://open.spotify.com/album/4cve0eOlBaBDJNAusEbjPT"
+        "name": "Ihmisenpuolikas",
+        "url": "https://open.spotify.com/album/3aPhDcXiZ2MLBFCWNJMcj1"
       },
       "artists": [
         {
-          "name": "Diogi",
-          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+          "name": "Aatulove",
+          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
         }
       ],
-      "duration_ms": 168376,
-      "name": "Miks menit unohtaa",
-      "url": "https://open.spotify.com/track/7hA3nyf76gmBJOE4x6oWMK"
+      "duration_ms": 172447,
+      "name": "Ihmisenpuolikas",
+      "url": "https://open.spotify.com/track/5XJOXkXEfDWJUmvrsvFbro"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -403,6 +387,22 @@
       "duration_ms": 203409,
       "name": "Yksin",
       "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "Miks menit unohtaa",
+        "url": "https://open.spotify.com/album/4cve0eOlBaBDJNAusEbjPT"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "duration_ms": 168376,
+      "name": "Miks menit unohtaa",
+      "url": "https://open.spotify.com/track/7hA3nyf76gmBJOE4x6oWMK"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Tuskasta Taidetta",
-        "url": "https://open.spotify.com/album/2P6IMeL9dhFld17Zck7L48"
-      },
-      "artists": [
-        {
-          "name": "Jemina",
-          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
-        }
-      ],
-      "duration_ms": 211525,
-      "name": "Sisko en tahdo j\u00e4\u00e4d\u00e4",
-      "url": "https://open.spotify.com/track/0OlqM65MBZXycYwXCWHDaE"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Parasta ja paskinta",
         "url": "https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 142329,
       "name": "Joutsenet",
       "url": "https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "Tuskasta Taidetta",
+        "url": "https://open.spotify.com/album/2P6IMeL9dhFld17Zck7L48"
+      },
+      "artists": [
+        {
+          "name": "Jemina",
+          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
+        }
+      ],
+      "duration_ms": 211525,
+      "name": "Sisko en tahdo j\u00e4\u00e4d\u00e4",
+      "url": "https://open.spotify.com/track/0OlqM65MBZXycYwXCWHDaE"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
-        "url": "https://open.spotify.com/album/3d2lm9RKwDOkcXZhbrxztY"
-      },
-      "artists": [
-        {
-          "name": "Hassan Maikal",
-          "url": "https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u"
-        }
-      ],
-      "duration_ms": 178846,
-      "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
-      "url": "https://open.spotify.com/track/2k6OIHOtt5Btwy4cuAAdOI"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Vaarallist",
         "url": "https://open.spotify.com/album/66IQbZGr5Z1KnnDwQEUsCV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 154651,
       "name": "Vaarallist",
       "url": "https://open.spotify.com/track/71PZP10jMrXgBHqAVG6dDz"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
+        "url": "https://open.spotify.com/album/3d2lm9RKwDOkcXZhbrxztY"
+      },
+      "artists": [
+        {
+          "name": "Hassan Maikal",
+          "url": "https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u"
+        }
+      ],
+      "duration_ms": 178846,
+      "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
+      "url": "https://open.spotify.com/track/2k6OIHOtt5Btwy4cuAAdOI"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
+        "name": "Huvipuisto",
+        "url": "https://open.spotify.com/album/3ghZuBW3U57EdcmEmM4Mro"
+      },
+      "artists": [
+        {
+          "name": "EEMELI",
+          "url": "https://open.spotify.com/artist/71lHRJ8M9JmE3uZ5ZrTMiL"
+        }
+      ],
+      "duration_ms": 203541,
+      "name": "Huvipuisto",
+      "url": "https://open.spotify.com/track/3hE4jxLr5p29CynrK4zg4F"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
         "name": "Pullomeri",
         "url": "https://open.spotify.com/album/5ol0SGEohvaATPsXY3bQ1V"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 169746,
       "name": "\u00c4l\u00e4 lannistu",
       "url": "https://open.spotify.com/track/50OEJKYCC6Z8bF2c8TyIs4"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
-        "name": "Huvipuisto",
-        "url": "https://open.spotify.com/album/3ghZuBW3U57EdcmEmM4Mro"
-      },
-      "artists": [
-        {
-          "name": "EEMELI",
-          "url": "https://open.spotify.com/artist/71lHRJ8M9JmE3uZ5ZrTMiL"
-        }
-      ],
-      "duration_ms": 203541,
-      "name": "Huvipuisto",
-      "url": "https://open.spotify.com/track/3hE4jxLr5p29CynrK4zg4F"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Lohtulauluja",
-        "url": "https://open.spotify.com/album/17ennUwc9eY9ZsNEuSlez5"
-      },
-      "artists": [
-        {
-          "name": "Aatulove",
-          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
-        }
-      ],
-      "duration_ms": 126708,
-      "name": "Kallio",
-      "url": "https://open.spotify.com/track/0fGlYL8OWJM8hxiZgyRcmQ"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Yhteiset askeleet",
         "url": "https://open.spotify.com/album/2b3r4ipLoU1rk0g6Z36aAS"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
+        "name": "Lohtulauluja",
+        "url": "https://open.spotify.com/album/17ennUwc9eY9ZsNEuSlez5"
+      },
+      "artists": [
+        {
+          "name": "Aatulove",
+          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
+        }
+      ],
+      "duration_ms": 126708,
+      "name": "Kallio",
+      "url": "https://open.spotify.com/track/0fGlYL8OWJM8hxiZgyRcmQ"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
         "name": "Ruusunen",
         "url": "https://open.spotify.com/album/6hH5TyKIonQlYPjiijinl9"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 202280,
       "name": "Ruusunen",
       "url": "https://open.spotify.com/track/2tXRHusp7SiSnYTk1Kmbuz"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
-        "name": "Lehmitytt\u00f6",
-        "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
-      },
-      "artists": [
-        {
-          "name": "Katariina Juselius",
-          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
-        }
-      ],
-      "duration_ms": 195564,
-      "name": "Lehmitytt\u00f6",
-      "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -807,18 +791,18 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/5XwZhHz1eVPWn951mXvm42"
+        "name": "Lehmitytt\u00f6",
+        "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
       },
       "artists": [
         {
-          "name": "Pasi ja Anssi",
-          "url": "https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt"
+          "name": "Katariina Juselius",
+          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
         }
       ],
-      "duration_ms": 202973,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/3rVKDafQFUMyO42Of3YXKq"
+      "duration_ms": 195564,
+      "name": "Lehmitytt\u00f6",
+      "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -851,6 +835,22 @@
       "duration_ms": 186052,
       "name": "Sori t\u00e4ti",
       "url": "https://open.spotify.com/track/0S7JHKWm7M11juyTnaIHcb"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
+        "url": "https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr"
+      },
+      "artists": [
+        {
+          "name": "viola",
+          "url": "https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
+      "url": "https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS"
     }
   ],
   "unique_name": "Nousussa",

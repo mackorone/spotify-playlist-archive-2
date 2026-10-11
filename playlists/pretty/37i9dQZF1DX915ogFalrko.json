@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188412,
+  "num_followers": 188436,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIc2VszXOnLRIrAuPLxn8ibRRUe5",
+  "snapshot_id": "AAAAAEMMokbJSfnmODReYAc7PRJ7zJpQ",
   "tracks": [
     {
       "added_at": "2026-10-02 13:20:06",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
       },
       "artists": [
         {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 196813,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
+      "duration_ms": 213545,
+      "name": "Yours & Mine",
+      "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -907,34 +907,18 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
         }
       ],
-      "duration_ms": 213545,
-      "name": "Yours & Mine",
-      "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
-        "name": "In N Out",
-        "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
-      },
-      "artists": [
-        {
-          "name": "Zach Stephenson",
-          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "In N Out",
-      "url": "https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6"
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -951,6 +935,22 @@
       "duration_ms": 163301,
       "name": "Cry to Me",
       "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
+        "name": "In N Out",
+        "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
+      },
+      "artists": [
+        {
+          "name": "Zach Stephenson",
+          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "In N Out",
+      "url": "https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "Too High",
-        "url": "https://open.spotify.com/album/2ReD4xaHjWDIsGvZoUfdgb"
-      },
-      "artists": [
-        {
-          "name": "Golf Trip",
-          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
-        }
-      ],
-      "duration_ms": 238990,
-      "name": "Too High",
-      "url": "https://open.spotify.com/track/0efZvIaR1KatgP0Eudg2sH"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
         "name": "Beast of the Night",
         "url": "https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 220906,
       "name": "Beast of the Night",
       "url": "https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
+        "name": "Too High",
+        "url": "https://open.spotify.com/album/2ReD4xaHjWDIsGvZoUfdgb"
+      },
+      "artists": [
+        {
+          "name": "Golf Trip",
+          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
+        }
+      ],
+      "duration_ms": 238990,
+      "name": "Too High",
+      "url": "https://open.spotify.com/track/0efZvIaR1KatgP0Eudg2sH"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "All Back To: Jungle",
-        "url": "https://open.spotify.com/album/5x8fi3qqHSWacxluhUNqW1"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 344680,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/51AbK2bzLTy7ekHeoSujA1"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+        "name": "All Back To: Jungle",
+        "url": "https://open.spotify.com/album/5x8fi3qqHSWacxluhUNqW1"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+      "duration_ms": 344680,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/51AbK2bzLTy7ekHeoSujA1"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -1543,6 +1527,22 @@
       "duration_ms": 140248,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
+        "name": "California Calling",
+        "url": "https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Ricky Ducati",
+          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "Don't Forget Yourself",
+      "url": "https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
         "name": "On Reste L\u00e0",
         "url": "https://open.spotify.com/album/2CpWLA3tGSmMzVRRYqhf7L"
       },
@@ -1603,22 +1623,18 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "California Calling",
-        "url": "https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp"
+        "name": "les choses de la vie",
+        "url": "https://open.spotify.com/album/0Bsp98Xgpu4s6Q975tqJ2i"
       },
       "artists": [
         {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Ricky Ducati",
-          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+          "name": "DO not DO",
+          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
         }
       ],
-      "duration_ms": 201973,
-      "name": "Don't Forget Yourself",
-      "url": "https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw"
+      "duration_ms": 193186,
+      "name": "la vie est belle",
+      "url": "https://open.spotify.com/track/5dfVikb5FBd3IOxabTwfX9"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2026-10-02 13:20:06",
       "album": {
-        "name": "les choses de la vie",
-        "url": "https://open.spotify.com/album/0Bsp98Xgpu4s6Q975tqJ2i"
-      },
-      "artists": [
-        {
-          "name": "DO not DO",
-          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "la vie est belle",
-      "url": "https://open.spotify.com/track/5dfVikb5FBd3IOxabTwfX9"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
         "name": "Manhattan's Madmen",
         "url": "https://open.spotify.com/album/6ttUBNWvlIf5ZzhSUMCIqW"
       },
@@ -1671,22 +1671,6 @@
       "duration_ms": 193493,
       "name": "Spooky",
       "url": "https://open.spotify.com/track/776zAlrJGk1SYM8CEbP0SN"
-    },
-    {
-      "added_at": "2026-10-02 13:20:06",
-      "album": {
-        "name": "Fool of Myself",
-        "url": "https://open.spotify.com/album/5o55Yaxu8QiZwfCiGkSRrZ"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Fool of Myself",
-      "url": "https://open.spotify.com/track/5HlcHBTefv14obQKWMIxgC"
     },
     {
       "added_at": "2026-10-02 13:20:06",
@@ -1707,6 +1691,22 @@
       "duration_ms": 220533,
       "name": "Blue Summer",
       "url": "https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD"
+    },
+    {
+      "added_at": "2026-10-02 13:20:06",
+      "album": {
+        "name": "young rich & beautiful",
+        "url": "https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 118441,
+      "name": "young rich & beautiful",
+      "url": "https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t"
     }
   ],
   "unique_name": "D\u00eener entre amis",

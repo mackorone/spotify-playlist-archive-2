@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Gerilson Insrael",
-  "num_followers": 251653,
+  "num_followers": 251703,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/1PrjC0qhFbOu2JDD4pDP8c"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/5x3IBDo1qvpD409E9mQ0IL"
-    },
-    {
-      "added_at": "2026-10-09 05:05:17",
-      "album": {
         "name": "Bom Dia",
         "url": "https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 195529,
       "name": "Bom Dia",
       "url": "https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB"
+    },
+    {
+      "added_at": "2026-10-09 05:05:17",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/1PrjC0qhFbOu2JDD4pDP8c"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/5x3IBDo1qvpD409E9mQ0IL"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
-        "name": "Totoloto",
-        "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "Totoloto",
-      "url": "https://open.spotify.com/track/5etF10zgERUooGQTRe6Hbl"
-    },
-    {
-      "added_at": "2026-10-09 05:05:17",
-      "album": {
         "name": "OQA?",
         "url": "https://open.spotify.com/album/3WwEvwimIwmoYdZqMcFPyT"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 195714,
       "name": "OQA?",
       "url": "https://open.spotify.com/track/5DgTqQRjIQMsXlmRV3i967"
+    },
+    {
+      "added_at": "2026-10-09 05:05:17",
+      "album": {
+        "name": "Totoloto",
+        "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "duration_ms": 190515,
+      "name": "Totoloto",
+      "url": "https://open.spotify.com/track/5etF10zgERUooGQTRe6Hbl"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
-        "name": "Estou Louco",
-        "url": "https://open.spotify.com/album/1e5HvmOXC3GNOOS3WUDA5A"
-      },
-      "artists": [
-        {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
-        },
-        {
-          "name": "Belostary",
-          "url": "https://open.spotify.com/artist/6tNmEW9EEAcLAWzDujw7jC"
-        }
-      ],
-      "duration_ms": 228919,
-      "name": "Estou Louco",
-      "url": "https://open.spotify.com/track/3RCZjlaSFsZUijfEfJARZB"
-    },
-    {
-      "added_at": "2026-10-09 05:05:17",
-      "album": {
         "name": "Fica longi bo",
         "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
       },
@@ -1235,18 +1215,22 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
-        "name": "Porta",
-        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
+        "name": "Estou Louco",
+        "url": "https://open.spotify.com/album/1e5HvmOXC3GNOOS3WUDA5A"
       },
       "artists": [
         {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Belostary",
+          "url": "https://open.spotify.com/artist/6tNmEW9EEAcLAWzDujw7jC"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Porta",
-      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
+      "duration_ms": 228919,
+      "name": "Estou Louco",
+      "url": "https://open.spotify.com/track/3RCZjlaSFsZUijfEfJARZB"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
-        "name": "M\u00e3e Grande",
-        "url": "https://open.spotify.com/album/1F9XoQNIkkotXxdAqDqjaJ"
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
         }
       ],
-      "duration_ms": 175722,
-      "name": "M\u00e3e Grande",
-      "url": "https://open.spotify.com/track/7D6ebuyPIjenfZLIy3VQIo"
+      "duration_ms": 221538,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
+        "name": "M\u00e3e Grande",
+        "url": "https://open.spotify.com/album/1F9XoQNIkkotXxdAqDqjaJ"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 175722,
+      "name": "M\u00e3e Grande",
+      "url": "https://open.spotify.com/track/7D6ebuyPIjenfZLIy3VQIo"
+    },
+    {
+      "added_at": "2026-10-09 05:05:17",
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 186727,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ"
+    },
+    {
+      "added_at": "2026-10-09 05:05:17",
+      "album": {
+        "name": "Simbiose",
+        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Simbiose",
+      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1331,22 +1347,6 @@
       "duration_ms": 173877,
       "name": "Djan Reforma",
       "url": "https://open.spotify.com/track/5mYj4hLB81UL0iUehhWr5Z"
-    },
-    {
-      "added_at": "2026-10-09 05:05:17",
-      "album": {
-        "name": "Simbiose",
-        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Simbiose",
-      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1375,26 +1375,6 @@
       "duration_ms": 232340,
       "name": "BATOTA",
       "url": "https://open.spotify.com/track/5JB2CNifWQV75f0RlWLmXI"
-    },
-    {
-      "added_at": "2026-10-09 05:05:17",
-      "album": {
-        "name": "N\u00e3o Deixa",
-        "url": "https://open.spotify.com/album/7iVGJ5tk05XHR4NVd9vztR"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Nuno Ribeiro",
-          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
-        }
-      ],
-      "duration_ms": 196948,
-      "name": "N\u00e3o Deixa",
-      "url": "https://open.spotify.com/track/1WuLD3wxu9e9vYkmrPHYqD"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1447,6 +1427,26 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
+        "name": "N\u00e3o Deixa",
+        "url": "https://open.spotify.com/album/7iVGJ5tk05XHR4NVd9vztR"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Nuno Ribeiro",
+          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
+        }
+      ],
+      "duration_ms": 196948,
+      "name": "N\u00e3o Deixa",
+      "url": "https://open.spotify.com/track/1WuLD3wxu9e9vYkmrPHYqD"
+    },
+    {
+      "added_at": "2026-10-09 05:05:17",
+      "album": {
         "name": "Otu Padaz",
         "url": "https://open.spotify.com/album/4dYpEAF4MYTVArbvo2B0cw"
       },
@@ -1475,6 +1475,26 @@
       "duration_ms": 183396,
       "name": "Boss",
       "url": "https://open.spotify.com/track/7KvpAuRJ0Mk7V69FR5578v"
+    },
+    {
+      "added_at": "2026-10-09 05:05:17",
+      "album": {
+        "name": "N\u00e3o Me Importa",
+        "url": "https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE"
+      },
+      "artists": [
+        {
+          "name": "Afro Connexion",
+          "url": "https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD"
+        },
+        {
+          "name": "Tommy Guitar",
+          "url": "https://open.spotify.com/artist/4ryhVAm919tcFgnws5ddti"
+        }
+      ],
+      "duration_ms": 195417,
+      "name": "N\u00e3o Me Importa",
+      "url": "https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1515,26 +1535,6 @@
       "duration_ms": 166588,
       "name": "BONITO (feat. Nelson Freitas)",
       "url": "https://open.spotify.com/track/1H9KcHMX76G2CmcxpQKjR5"
-    },
-    {
-      "added_at": "2026-10-09 05:05:17",
-      "album": {
-        "name": "N\u00e3o Me Importa",
-        "url": "https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE"
-      },
-      "artists": [
-        {
-          "name": "Afro Connexion",
-          "url": "https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD"
-        },
-        {
-          "name": "Tommy Guitar",
-          "url": "https://open.spotify.com/artist/4ryhVAm919tcFgnws5ddti"
-        }
-      ],
-      "duration_ms": 195417,
-      "name": "N\u00e3o Me Importa",
-      "url": "https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
+        "name": "Hey Odja",
+        "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 167180,
+      "name": "Hey Odja",
+      "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
+    },
+    {
+      "added_at": "2026-10-09 05:05:17",
+      "album": {
         "name": "CICLOS",
         "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
       },
@@ -1603,18 +1619,22 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
-        "name": "Hey Odja",
-        "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
       },
       "artists": [
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
         }
       ],
-      "duration_ms": 167180,
-      "name": "Hey Odja",
-      "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
+      "duration_ms": 234666,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1643,26 +1663,6 @@
       "duration_ms": 181764,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/795GBlhlnKl1LQvO7kYAVv"
-    },
-    {
-      "added_at": "2026-10-09 05:05:17",
-      "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
-      },
-      "artists": [
-        {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
-        },
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
-        "name": "FREESTYLE",
-        "url": "https://open.spotify.com/album/5qdYZfdi99cXaqgi61bG8B"
-      },
-      "artists": [
-        {
-          "name": "DENNYH",
-          "url": "https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u"
-        }
-      ],
-      "duration_ms": 176009,
-      "name": "FREESTYLE",
-      "url": "https://open.spotify.com/track/3xsFXbSOXpjUfVzVav58jI"
-    },
-    {
-      "added_at": "2026-10-09 05:05:17",
-      "album": {
         "name": "Inveja",
         "url": "https://open.spotify.com/album/3lfVIqbMPtJdS2bU3Vbbc3"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 195364,
       "name": "Conecta",
       "url": "https://open.spotify.com/track/6BRvWO6nio9hUdWyQBntkn"
+    },
+    {
+      "added_at": "2026-10-09 05:05:17",
+      "album": {
+        "name": "FREESTYLE",
+        "url": "https://open.spotify.com/album/5qdYZfdi99cXaqgi61bG8B"
+      },
+      "artists": [
+        {
+          "name": "DENNYH",
+          "url": "https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u"
+        }
+      ],
+      "duration_ms": 176009,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/3xsFXbSOXpjUfVzVav58jI"
     },
     {
       "added_at": "2026-10-09 05:05:17",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2026-10-09 05:05:17",
       "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 157419,
+      "name": "Quero Mais",
+      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
+    },
+    {
+      "added_at": "2026-10-09 05:05:17",
+      "album": {
         "name": "Viver Tudo Hoje",
         "url": "https://open.spotify.com/album/6boYtyCptIErvbTlBAL3DC"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 196330,
       "name": "Menta",
       "url": "https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj"
-    },
-    {
-      "added_at": "2026-10-09 05:05:17",
-      "album": {
-        "name": "Libra",
-        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 157419,
-      "name": "Quero Mais",
-      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
     }
   ],
   "unique_name": "Dancing Kizomba",

@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49124,
+  "num_followers": 49125,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAABnsmrCEpMFMGHNTKbk4Xbp",
+  "snapshot_id": "asgugAAAAACOo7B5K5Tlm/nxoPyTQJ/U",
   "tracks": [
     {
       "added_at": null,
@@ -318,27 +318,15 @@
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 243210,
-      "name": "lungs (from the motion picture)",
-      "url": "https://open.spotify.com/track/0QtAdzNUP7iVjanZWWGyLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Too Sensitive For This Shit",
-        "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
-      },
-      "artists": [
+        },
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
         }
       ],
-      "duration_ms": 205028,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8"
+      "duration_ms": 181153,
+      "name": "postcard",
+      "url": "https://open.spotify.com/track/1NuOwB56vkR1rKZlaGrPrH"
     },
     {
       "added_at": null,
@@ -367,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 205028,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
       },
@@ -390,15 +394,11 @@
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
         }
       ],
-      "duration_ms": 181153,
-      "name": "postcard",
-      "url": "https://open.spotify.com/track/1NuOwB56vkR1rKZlaGrPrH"
+      "duration_ms": 243210,
+      "name": "lungs (from the motion picture)",
+      "url": "https://open.spotify.com/track/0QtAdzNUP7iVjanZWWGyLh"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "One Bad Night",
-      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Side of Paradise",
         "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 211965,
       "name": "This Side of Paradise",
       "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "One Bad Night",
+      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
     },
     {
       "added_at": null,

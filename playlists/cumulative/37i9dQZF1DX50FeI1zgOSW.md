@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Smith Asher
 
-885 songs - 2 day 1 hr 55 min
+886 songs - 2 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Suzhal \- From "Think Indie"](https://open.spotify.com/track/1t3LWkNGE74hItJrnyqmi8) | [Prithvi Prakash](https://open.spotify.com/artist/6SWFSLF1xO9jZ4XOISZkc9) | [Suzhal \(From "Think Indie"\)](https://open.spotify.com/album/2xrJeAfcVTcn9IhI9V1DZh) | 2:43 | 2026-09-15 |  |
 | [Swipe Swipe](https://open.spotify.com/track/1bxaX79dpWrR7heY2en9SR) | [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1) | [Swipe Swipe](https://open.spotify.com/album/64CwTALMK8Hv2fjvnEt6YO) | 3:00 | 2024-09-18 | 2024-12-06 |
 | [Synth katcheri](https://open.spotify.com/track/0V1UThUx2qSNtsXmaI3Nps) | [Sooriya soe](https://open.spotify.com/artist/1hiwCXRLlIP0qJiTlCv50l), [Nancy Jestilla](https://open.spotify.com/artist/4AngghzFgYDO1L5wYGwSDv) | [Synth katcheri](https://open.spotify.com/album/3lxDGemO8bMYWYnrgirTU0) | 3:14 | 2025-07-25 | 2025-08-26 |
+| [Takkunudhan](https://open.spotify.com/track/6NBTlwHpK1IBIYKgUAvfSB) | [Santhan Anebajagane](https://open.spotify.com/artist/7C0XpfZfYRJrDXK0lA2LSq), [Murali Gunasekaran](https://open.spotify.com/artist/5chCsRDtovQiVt3szfPxpK) | [Takkunudhan](https://open.spotify.com/album/6eS16gt6pZ7nWOQ4i1IZGi) | 3:54 | 2026-10-10 |  |
 | [Teddy Bear](https://open.spotify.com/track/1qmoyvEpWxEzwu7qMdMZ1U) | [Raksheet Ramesh](https://open.spotify.com/artist/1SQEW8b7rB9GPsCBg27YsI), [AVR](https://open.spotify.com/artist/4SmaQj7noSrsSEXIqovJUe), [Kiruthika Aravindan](https://open.spotify.com/artist/3KxMBuBqGhj267r0q7L1H8), [LRC](https://open.spotify.com/artist/3AKzFn3aIfeUwbuVPZKrHa) | [Teddy Bear](https://open.spotify.com/album/4gW8stxvBopqm09xFm2v8k) | 3:15 | 2024-02-09 | 2024-03-09 |
 | [Tha Pop \- Deaffrogs Records](https://open.spotify.com/track/1U0idFt6d537Z3OFC0gdk8) | [TNC](https://open.spotify.com/artist/5q79L7eL1FmDlIMsBF2u12) | [Tha Pop \(Deaffrogs Records\)](https://open.spotify.com/album/3ycrzrsKtsXmmkS91fUTND) | 3:22 | 2024-03-08 | 2024-09-10 |
 | [Thaai Paasam](https://open.spotify.com/track/1rCMd4ocW6OJzqb0lvoGwj) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko), [Vasantha Sankarraman](https://open.spotify.com/artist/1Ec4C4u0suwPwnpeTgFguW) | [Thaai Paasam](https://open.spotify.com/album/7sHQ4PLs8Zq0iLMDrTWId7) | 3:02 | 2024-05-10 | 2024-06-15 |

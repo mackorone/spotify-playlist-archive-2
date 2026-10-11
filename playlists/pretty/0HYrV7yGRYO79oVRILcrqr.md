@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,906 likes - 134 songs - 8 hr 36 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,906 likes - 136 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 132 | [Shots Fired](https://open.spotify.com/track/1CUbH9qBSyMz7cdvUnapiF) | [AudioCide](https://open.spotify.com/artist/2a1Pi1SeB9Uvo5yKa2QPel) | [Shots Fired](https://open.spotify.com/album/6kuzz2EA3vlhegoE0WxyQa) | 4:40 |
 | 133 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
 | 134 | [Adrenaline](https://open.spotify.com/track/4zrQH961tUHDOG2KLxaLYv) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [Adrenaline](https://open.spotify.com/album/3BplHVb9o00Yro8rvfBWim) | 2:44 |
+| 135 | [The New Witches](https://open.spotify.com/track/3ddQs4JGrpklvhtuESe1hK) | [9th Evolution](https://open.spotify.com/artist/3AUUqI27GNAiKHLG7wr2jS) | [The New Witches](https://open.spotify.com/album/0keI8Aseeb9IJjCGVMLu9w) | 3:00 |
+| 136 | [Out of My Mind](https://open.spotify.com/track/1sv5wWAbgZ4g9VJbW70nHO) | [THE ROCKERS HORIZON](https://open.spotify.com/artist/7vELOY3m3aOCPTFG94ZDBY) | [Out of My Mind](https://open.spotify.com/album/6t39GOgLoDIun7BCryKrnW) | 4:32 |
 
-Snapshot ID: `AAAMsxqlMKEShW/8qfbiBsS6ltmglN8a`
+Snapshot ID: `AAAMtXg+sa0rS9emrh9GzNIIEkmURgVb`

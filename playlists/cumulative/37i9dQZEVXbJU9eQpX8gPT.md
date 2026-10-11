@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,176 songs - 4 day 21 hr 44 min
+2,177 songs - 4 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -969,7 +969,7 @@
 | [Kakashi](https://open.spotify.com/track/5C0xjFpBtcSSA3MDRghEee) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 4:48 | 2024-06-25 | 2024-10-01 |
 | [Kakashi](https://open.spotify.com/track/7GmpVT1uBYTLAlHQfYXjbt) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Champion](https://open.spotify.com/album/6C0uQkOm3MCXKLnoMv4flp) | 4:48 | 2024-06-24 | 2024-06-26 |
 | [Kalamoki](https://open.spotify.com/track/7IbntIRatKw4XIi4W5LPdz) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:13 | 2022-01-29 | 2022-02-02 |
-| [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 | 2026-03-21 |  |
+| [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 | 2026-03-21 | 2026-10-11 |
 | [Kamigaz](https://open.spotify.com/track/3rHFfYuVN8R03NmS5hEevV) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 2:38 | 2024-11-15 | 2024-12-15 |
 | [Karma](https://open.spotify.com/track/2sfCFcBZQOnUYwO6nEpWpc) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 3:03 | 2021-09-15 | 2021-09-17 |
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-06-13 | 2022-06-15 |
@@ -1828,6 +1828,7 @@
 | [Staline](https://open.spotify.com/track/5JGhrQuSz5ZkBMVXpynajp) | [Joe Prod](https://open.spotify.com/artist/1wFPvFmZ2g4rzYS2rNncJJ), [Egtoto](https://open.spotify.com/artist/5IawoPaqWPiQqDmruv4p0J) | [Staline](https://open.spotify.com/album/77fkMZXBOlvqjlpnPHVdx1) | 3:58 | 2024-09-19 | 2024-09-21 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 | 2023-11-27 |
 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 | 2023-05-14 | 2023-05-19 |
+| [Star Dancer](https://open.spotify.com/track/4TthkvS9RNTZwTYlT0gvg3) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Star Dancer](https://open.spotify.com/album/76lmEinGtpVfIKd2YxQdQt) | 1:53 | 2026-10-10 |  |
 | [Starry Eyes](https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 2:28 | 2022-01-08 | 2022-01-10 |
 | [Starry Eyes](https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:28 | 2022-01-09 | 2022-01-13 |
 | [Started from the bottom](https://open.spotify.com/track/0EAA24o0ORdGsMnFPRPq9e) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 4:01 | 2022-07-16 | 2022-08-08 |

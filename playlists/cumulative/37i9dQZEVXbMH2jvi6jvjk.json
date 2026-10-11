@@ -5918,7 +5918,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 269867,
       "name": "BAHAMBA BONKE",
       "url": "https://open.spotify.com/track/5lzo1kyHFgALFzPblQlnmI"
@@ -10812,7 +10812,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 283582,
       "name": "Chocolate Gaga",
       "url": "https://open.spotify.com/track/0sz5lMk2ifLqcbqHTFVLeC"
@@ -24151,6 +24151,28 @@
     },
     {
       "album": {
+        "name": "Mended Pieces",
+        "url": "https://open.spotify.com/album/2EJ4ly7gRFfCgvbQ8QXDek"
+      },
+      "artists": [
+        {
+          "name": "Dj Jaivane",
+          "url": "https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl"
+        },
+        {
+          "name": "zem_sa",
+          "url": "https://open.spotify.com/artist/4NZlTDu82l0gg8QjOhB9yw"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399887,
+      "name": "Ibele",
+      "url": "https://open.spotify.com/track/0UcNC2fKhGvuPiKZcyevdR"
+    },
+    {
+      "album": {
         "name": "Ibele",
         "url": "https://open.spotify.com/album/6LyFsrQuV2aLT6wXyqzuqt"
       },
@@ -24166,7 +24188,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 399894,
       "name": "Ibele",
       "url": "https://open.spotify.com/track/6S4t6H2A1UNZKKRJPbSkV1"
@@ -25428,7 +25450,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 244218,
       "name": "Incenge Kancane",
       "url": "https://open.spotify.com/track/3x9eb22Epgzw3GAR3gig5t"
@@ -34230,7 +34252,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 351129,
       "name": "MaDouble",
       "url": "https://open.spotify.com/track/3FBTFjuM26VO1d7qH89Ca3"
@@ -36224,7 +36246,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -41160,7 +41182,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Ningikhonzele",
       "url": "https://open.spotify.com/track/3FQ35B2LboHaOVqOvvDOjh"
@@ -44597,6 +44619,32 @@
     },
     {
       "album": {
+        "name": "Phumelela",
+        "url": "https://open.spotify.com/album/3lxNDi25VzuR7xRRe6pZbm"
+      },
+      "artists": [
+        {
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
+        },
+        {
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+        },
+        {
+          "name": "Zeh McGeba",
+          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463611,
+      "name": "Phumelela",
+      "url": "https://open.spotify.com/track/3JP8KIKHcuCsngfWtq1ok0"
+    },
+    {
+      "album": {
         "name": "Phuthuma",
         "url": "https://open.spotify.com/album/3b3JHW1M80fVIPfiRCvyEv"
       },
@@ -45204,6 +45252,24 @@
       "duration_ms": 290346,
       "name": "Poor Thang",
       "url": "https://open.spotify.com/track/1nhNz1tWU8p5WvFAAgFW2h"
+    },
+    {
+      "album": {
+        "name": "pop it",
+        "url": "https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138866,
+      "name": "pop it",
+      "url": "https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM"
     },
     {
       "album": {
@@ -53754,7 +53820,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -54556,7 +54622,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"

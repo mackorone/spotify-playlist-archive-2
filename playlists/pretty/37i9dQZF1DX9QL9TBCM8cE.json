@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 30566,
+  "num_followers": 30572,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-09-15 16:17:03",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
+        "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
+      },
+      "artists": [
+        {
+          "name": "\u5712\u7530\u667a\u4ee3\u5b50 (CV.\u767d\u77f3\u6674\u9999)",
+          "url": "https://open.spotify.com/artist/7j6xZZMXWEI6ZZHMNSJSq4"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "\u30c1\u30e7\u30b3\u30c7\u30fc\u30c8\u30fb\u30b5\u30f3\u30c7\u30fc",
+      "url": "https://open.spotify.com/track/0ZDPHRKLzOkQeRc785UKuA"
+    },
+    {
+      "added_at": "2026-09-15 16:17:03",
+      "album": {
         "name": "VOY@GER",
         "url": "https://open.spotify.com/album/7A4Smsvs75oTc1uHBwzlF4"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 226433,
       "name": "Give me some more...",
       "url": "https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR"
-    },
-    {
-      "added_at": "2026-09-15 16:17:03",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
-        "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
-      },
-      "artists": [
-        {
-          "name": "\u5712\u7530\u667a\u4ee3\u5b50 (CV.\u767d\u77f3\u6674\u9999)",
-          "url": "https://open.spotify.com/artist/7j6xZZMXWEI6ZZHMNSJSq4"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "\u30c1\u30e7\u30b3\u30c7\u30fc\u30c8\u30fb\u30b5\u30f3\u30c7\u30fc",
-      "url": "https://open.spotify.com/track/0ZDPHRKLzOkQeRc785UKuA"
     },
     {
       "added_at": "2026-09-15 16:17:03",

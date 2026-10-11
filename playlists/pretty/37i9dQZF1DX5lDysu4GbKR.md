@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  Alex Isley
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,774 likes - 173 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,746 likes - 173 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

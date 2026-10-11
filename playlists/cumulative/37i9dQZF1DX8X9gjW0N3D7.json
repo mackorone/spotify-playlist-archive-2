@@ -7686,7 +7686,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 144727,
       "name": "On partira",
       "url": "https://open.spotify.com/track/2xsjEoNJ4nMvTFKK3oPT1y"
@@ -11542,6 +11542,28 @@
       "duration_ms": 192746,
       "name": "Your Name",
       "url": "https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1"
+    },
+    {
+      "album": {
+        "name": "\u00c0 chaque ann\u00e9e",
+        "url": "https://open.spotify.com/album/5hPfxNHm2cpNovQFigeKuB"
+      },
+      "artists": [
+        {
+          "name": "Olivier Couture",
+          "url": "https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121194,
+      "name": "\u00c0 chaque ann\u00e9e (feat. Gabriel Fredette)",
+      "url": "https://open.spotify.com/track/1yjfABm3BYD94VXZSZxTRp"
     },
     {
       "album": {

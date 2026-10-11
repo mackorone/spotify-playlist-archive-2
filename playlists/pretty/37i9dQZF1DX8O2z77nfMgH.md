@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,302 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,187 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 32 | [Vacaciones](https://open.spotify.com/track/3PmJF3vLUXOjJ9c3l3nXgd) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH), [Rey Tony](https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l), [Helabusador](https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Vacaciones](https://open.spotify.com/album/4Uh1g3dBW75BpJLey8PV8j) | 2:37 |
 | 33 | [Zona de mamboteo](https://open.spotify.com/track/0ts008BYOdnBe1ZOcVabvJ) | [Dulzón](https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Zona de Mamboteo](https://open.spotify.com/album/4fPgW765a0rCBlPHv2Dbr9) | 2:04 |
 | 34 | [NEED YOU](https://open.spotify.com/track/7qfylXOwztCv7Eq3FoIJVe) | [Chela](https://open.spotify.com/artist/6hZpNk9z7528toR33pm6xm), [10 QUI](https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq) | [NEED YOU](https://open.spotify.com/album/3gQ85Ruy47gQS8Ouzo6Tb5) | 2:38 |
-| 35 | [El Agua](https://open.spotify.com/track/0U7yZEDu0HYkbhTy5d4lsX) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx) | [El Agua](https://open.spotify.com/album/6MaDaC09BevFB6ajuPmPzx) | 2:14 |
+| 35 | [El Agua](https://open.spotify.com/track/0U7yZEDu0HYkbhTy5d4lsX) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx), [TheKingDeejay](https://open.spotify.com/artist/5YjgsLi14WEuj7oXWVYfbs) | [El Agua](https://open.spotify.com/album/6MaDaC09BevFB6ajuPmPzx) | 2:07 |
 | 36 | [TE ENGOMASTE](https://open.spotify.com/track/0OTXCuWvdNAp8FIGbTEHHu) | [SAI](https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5) | [TE ENGOMASTE](https://open.spotify.com/album/55XyGku2Kcbh5UzaOXY70t) | 2:46 |
 | 37 | [PECADO](https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PECADO](https://open.spotify.com/album/6HdWXqAuMdCKcgmBfk5p7S) | 3:05 |
 | 38 | [que seas tú \-\-](https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [que seas tú \-\- & amor herido \. \. .](https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1) | 3:13 |

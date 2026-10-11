@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Raud
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,297 likes - 85 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,372 likes - 85 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

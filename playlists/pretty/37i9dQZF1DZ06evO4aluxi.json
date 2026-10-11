@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 19518,
+  "num_followers": 19515,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAABjTOCEC9QlRO6FZwXp082Y",
+  "snapshot_id": "asgugAAAAADNkUkew6aBPa8MFF1/+t10",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 284501,
-      "name": "Beautiful Lone Companion",
-      "url": "https://open.spotify.com/track/6eaJbHByHVmTPkSPljXo85"
+      "duration_ms": 225425,
+      "name": "The Me That Remains",
+      "url": "https://open.spotify.com/track/762zDbtUFKydiJ0ZiBejeI"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 225425,
-      "name": "The Me That Remains",
-      "url": "https://open.spotify.com/track/762zDbtUFKydiJ0ZiBejeI"
+      "duration_ms": 284501,
+      "name": "Beautiful Lone Companion",
+      "url": "https://open.spotify.com/track/6eaJbHByHVmTPkSPljXo85"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of Love (Remastered)",
-        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "House Of Love",
-      "url": "https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lead Me On",
         "url": "https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 336386,
       "name": "Lead Me On",
       "url": "https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Of Love (Remastered)",
+        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "House Of Love",
+      "url": "https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV"
     },
     {
       "added_at": null,
@@ -782,19 +782,11 @@
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        },
-        {
-          "name": "Sarah Cannon",
-          "url": "https://open.spotify.com/artist/7dMCLcxGDEpPHQMrVSi0iC"
-        },
-        {
-          "name": "Corrina Gill",
-          "url": "https://open.spotify.com/artist/0XX6hv23ARM9vJoaAGlaHX"
         }
       ],
-      "duration_ms": 210238,
-      "name": "The Other Side Of Goodbye",
-      "url": "https://open.spotify.com/track/6pVEBhRWnQLuIiDB0lsoFg"
+      "duration_ms": 198328,
+      "name": "Til We Get It Right",
+      "url": "https://open.spotify.com/track/1yI5MqoPyDuWhG8EJZssQJ"
     },
     {
       "added_at": null,
@@ -858,11 +850,19 @@
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "Sarah Cannon",
+          "url": "https://open.spotify.com/artist/7dMCLcxGDEpPHQMrVSi0iC"
+        },
+        {
+          "name": "Corrina Gill",
+          "url": "https://open.spotify.com/artist/0XX6hv23ARM9vJoaAGlaHX"
         }
       ],
-      "duration_ms": 198328,
-      "name": "Til We Get It Right",
-      "url": "https://open.spotify.com/track/1yI5MqoPyDuWhG8EJZssQJ"
+      "duration_ms": 210238,
+      "name": "The Other Side Of Goodbye",
+      "url": "https://open.spotify.com/track/6pVEBhRWnQLuIiDB0lsoFg"
     }
   ],
   "unique_name": "This Is Amy Grant",

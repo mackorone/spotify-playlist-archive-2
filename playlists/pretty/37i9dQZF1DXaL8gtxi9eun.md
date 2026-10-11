@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: كريم محسن
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,031 likes - 68 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,022 likes - 68 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

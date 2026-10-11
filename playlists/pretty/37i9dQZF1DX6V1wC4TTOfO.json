@@ -1,15 +1,143 @@
 {
   "description": "<a href=\"spotify:artist:249QVZLSwrDyleKNapaapm\">SAFAR</a>'s favorite tracks. Updated regularly. Curated by SAFAR. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 31840,
+  "num_followers": 31884,
   "original_name": "SAFAR's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHskxsPuzBKFJZW5r/rEmlZ7WKvK",
+  "snapshot_id": "AAAAAOzrbVEAzdX6b+69tqo4VP/7GSrH",
   "tracks": [
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "OK OK OK",
+        "url": "https://open.spotify.com/album/74yQNH6jkHu9Ic9aZSj8NV"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 343417,
+      "name": "OK OK OK - Original",
+      "url": "https://open.spotify.com/track/7vHTVTsL3E2XgUUqQLm3Ae"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Choli",
+        "url": "https://open.spotify.com/album/6tkQCixd9A6k9M6rGErOPg"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 352024,
+      "name": "Choli",
+      "url": "https://open.spotify.com/track/2S7Cf72uvF6gs72LxFFLOA"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "The Stars (Misha Remix)",
+        "url": "https://open.spotify.com/album/4BjgpPlp1k3jVrtitWbOFL"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Meta_",
+          "url": "https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J"
+        },
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/73fHATHR0pvXRyQBPgddDc"
+        }
+      ],
+      "duration_ms": 220487,
+      "name": "The Stars - Misha Remix",
+      "url": "https://open.spotify.com/track/1HxcPm7IgB4i9dZinOcEM3"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Whisper To Me",
+        "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Modern Tales",
+          "url": "https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Whisper To Me",
+      "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Misto",
+        "url": "https://open.spotify.com/album/6QGqUUOTE63zBR1dhBUl2q"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 348041,
+      "name": "Misto",
+      "url": "https://open.spotify.com/track/49XGEcHjQjYtactWFTPxIE"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Goes Like This",
+        "url": "https://open.spotify.com/album/3mes1yISqNTirgUHWBLQhK"
+      },
+      "artists": [
+        {
+          "name": "Avision",
+          "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Goes Like This",
+      "url": "https://open.spotify.com/track/0j0VyKyQngfdIreIzZvCvC"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/3DI06nxabYk5SQtxKbpAQ4"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/7GDYSDlaN16CF1Lhm75VS4"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Kalinka",
         "url": "https://open.spotify.com/album/2UJzK40nPGBfBtwKIwp668"
@@ -25,7 +153,43 @@
       "url": "https://open.spotify.com/track/5WvXBqXQV0yWzbGWbBDD7H"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "This Is Not The James Brown",
+        "url": "https://open.spotify.com/album/0QuREiAzmpoU18fJQhdNfF"
+      },
+      "artists": [
+        {
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
+        }
+      ],
+      "duration_ms": 144375,
+      "name": "This Is Not The James Brown",
+      "url": "https://open.spotify.com/track/1E17lM70NcSvMdDfeAaFJP"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Solo Tu",
+        "url": "https://open.spotify.com/album/2gvdCP0SB5UEDrdNJqFzim"
+      },
+      "artists": [
+        {
+          "name": "Diass",
+          "url": "https://open.spotify.com/artist/1Y9gbwVk4auhrDJFzfkMkb"
+        },
+        {
+          "name": "Andres Matheus",
+          "url": "https://open.spotify.com/artist/2S7UBExINSLdrYRj6kasdV"
+        }
+      ],
+      "duration_ms": 358064,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/7BIDduFrBaHpVYtNNhhHGF"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "You Make Me Fall In Love",
         "url": "https://open.spotify.com/album/0UCdxFzhhm0cllDqyMOg6F"
@@ -45,7 +209,179 @@
       "url": "https://open.spotify.com/track/1AWJX2rUZ66BYv5m3vN9CG"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "What The F*** Is That",
+        "url": "https://open.spotify.com/album/6vm8iOXPTn9MxcyMul87k0"
+      },
+      "artists": [
+        {
+          "name": "Yamagucci",
+          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
+        },
+        {
+          "name": "Darco",
+          "url": "https://open.spotify.com/artist/49Zm4OzK2RcWyrMLSU59ht"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "What The F*** Is That",
+      "url": "https://open.spotify.com/track/1ar4g4Jk5Be21Y63PNerdh"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Kalabancoro",
+        "url": "https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Kalabancoro",
+      "url": "https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Janguariye",
+        "url": "https://open.spotify.com/album/3n4CsGBH9KFScQJSrAfjhn"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        },
+        {
+          "name": "Hind Ennaira",
+          "url": "https://open.spotify.com/artist/1dJaBie9mXTkH6iHV46h1Y"
+        },
+        {
+          "name": "Benda Haloy",
+          "url": "https://open.spotify.com/artist/6tEO4w3ipldLKbWUvQLzCu"
+        }
+      ],
+      "duration_ms": 409255,
+      "name": "Janguariye",
+      "url": "https://open.spotify.com/track/4XfSmoBw5KJwSKbaHaNO33"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Ti Vedo",
+        "url": "https://open.spotify.com/album/3M7UzO6NVE4iVgfltY77rE"
+      },
+      "artists": [
+        {
+          "name": "LUCA SKETTI",
+          "url": "https://open.spotify.com/artist/1FYwl8FVnopCOyNjiekzNq"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Ti Vedo",
+      "url": "https://open.spotify.com/track/3evz2s34Jww0c79lTV43on"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Opa",
+        "url": "https://open.spotify.com/album/7AO9lx2lwoyeaaOh4icaOF"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 405916,
+      "name": "Opa",
+      "url": "https://open.spotify.com/track/4gOMUti3d3zMpCfOGkHlAC"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Sagrado",
+        "url": "https://open.spotify.com/album/2h8cDp04L7mCahfiYc7oJ0"
+      },
+      "artists": [
+        {
+          "name": "Danigo",
+          "url": "https://open.spotify.com/artist/1ikWqf9nQiy8SzP8shG37e"
+        },
+        {
+          "name": "Qloudz",
+          "url": "https://open.spotify.com/artist/3e1Pw7o9HmBivyylarFZCL"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Sagrado",
+      "url": "https://open.spotify.com/track/4AwdEkye1XPeUXtevtF1VU"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Break Your Heart",
+        "url": "https://open.spotify.com/album/635NtpruJUpuTZK3wwsupM"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 156797,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/31KRZnhrddh6tkcRRDKIys"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6rIKOheKkyMo0r8gFWfpXh"
+      },
+      "artists": [
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7hboXRUZSynRcPPAG5x2QL"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Scandalosa",
+        "url": "https://open.spotify.com/album/3mdWkfqmhJ6rpmcIP6dEEj"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        },
+        {
+          "name": "LeCloarec",
+          "url": "https://open.spotify.com/artist/0Aa8SAfVNznvAyAFmfgu1x"
+        }
+      ],
+      "duration_ms": 441177,
+      "name": "Scandalosa",
+      "url": "https://open.spotify.com/track/7tcyt0AGkCSYwiO9nkzCW7"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Mandjou",
         "url": "https://open.spotify.com/album/6HBmnZQbAddEaKfOFlf11K"
@@ -73,235 +409,7 @@
       "url": "https://open.spotify.com/track/1TQrMNDH29GjOnQa528bm6"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Misto",
-        "url": "https://open.spotify.com/album/6QGqUUOTE63zBR1dhBUl2q"
-      },
-      "artists": [
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 348041,
-      "name": "Misto",
-      "url": "https://open.spotify.com/track/49XGEcHjQjYtactWFTPxIE"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Talk To You (ft. 54 Ultra)",
-        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Talk To You (ft. 54 Ultra)",
-      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "What The F*** Is That",
-        "url": "https://open.spotify.com/album/6vm8iOXPTn9MxcyMul87k0"
-      },
-      "artists": [
-        {
-          "name": "Yamagucci",
-          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
-        },
-        {
-          "name": "Darco",
-          "url": "https://open.spotify.com/artist/49Zm4OzK2RcWyrMLSU59ht"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "What The F*** Is That",
-      "url": "https://open.spotify.com/track/1ar4g4Jk5Be21Y63PNerdh"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/3DI06nxabYk5SQtxKbpAQ4"
-      },
-      "artists": [
-        {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
-        },
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/7GDYSDlaN16CF1Lhm75VS4"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/4Q0odGNUdJbSq1wf9ZbTB6"
-      },
-      "artists": [
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 354489,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/174xhQj0374US5RYxIscdA"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "This Is Not The James Brown",
-        "url": "https://open.spotify.com/album/0QuREiAzmpoU18fJQhdNfF"
-      },
-      "artists": [
-        {
-          "name": "Vinter",
-          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
-        }
-      ],
-      "duration_ms": 144375,
-      "name": "This Is Not The James Brown",
-      "url": "https://open.spotify.com/track/1E17lM70NcSvMdDfeAaFJP"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Solo Tu",
-        "url": "https://open.spotify.com/album/2gvdCP0SB5UEDrdNJqFzim"
-      },
-      "artists": [
-        {
-          "name": "Diass",
-          "url": "https://open.spotify.com/artist/1Y9gbwVk4auhrDJFzfkMkb"
-        },
-        {
-          "name": "Andres Matheus",
-          "url": "https://open.spotify.com/artist/2S7UBExINSLdrYRj6kasdV"
-        }
-      ],
-      "duration_ms": 358064,
-      "name": "Solo Tu",
-      "url": "https://open.spotify.com/track/7BIDduFrBaHpVYtNNhhHGF"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Kalabancoro",
-        "url": "https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
-        },
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Kalabancoro",
-      "url": "https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Janguariye",
-        "url": "https://open.spotify.com/album/3n4CsGBH9KFScQJSrAfjhn"
-      },
-      "artists": [
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        },
-        {
-          "name": "Hind Ennaira",
-          "url": "https://open.spotify.com/artist/1dJaBie9mXTkH6iHV46h1Y"
-        },
-        {
-          "name": "Benda Haloy",
-          "url": "https://open.spotify.com/artist/6tEO4w3ipldLKbWUvQLzCu"
-        }
-      ],
-      "duration_ms": 409255,
-      "name": "Janguariye",
-      "url": "https://open.spotify.com/track/4XfSmoBw5KJwSKbaHaNO33"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Ti Vedo",
-        "url": "https://open.spotify.com/album/3M7UzO6NVE4iVgfltY77rE"
-      },
-      "artists": [
-        {
-          "name": "LUCA SKETTI",
-          "url": "https://open.spotify.com/artist/1FYwl8FVnopCOyNjiekzNq"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Ti Vedo",
-      "url": "https://open.spotify.com/track/3evz2s34Jww0c79lTV43on"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Opa",
-        "url": "https://open.spotify.com/album/7AO9lx2lwoyeaaOh4icaOF"
-      },
-      "artists": [
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 405916,
-      "name": "Opa",
-      "url": "https://open.spotify.com/track/4gOMUti3d3zMpCfOGkHlAC"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Sagrado",
-        "url": "https://open.spotify.com/album/2h8cDp04L7mCahfiYc7oJ0"
-      },
-      "artists": [
-        {
-          "name": "Danigo",
-          "url": "https://open.spotify.com/artist/1ikWqf9nQiy8SzP8shG37e"
-        },
-        {
-          "name": "Qloudz",
-          "url": "https://open.spotify.com/artist/3e1Pw7o9HmBivyylarFZCL"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Sagrado",
-      "url": "https://open.spotify.com/track/4AwdEkye1XPeUXtevtF1VU"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Baziman",
         "url": "https://open.spotify.com/album/5roTjXdq5QEUeamhY1TRmL"
@@ -317,167 +425,7 @@
       "url": "https://open.spotify.com/track/3CT8mBCmy5OurDRC8gV5Mq"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Break Your Heart",
-        "url": "https://open.spotify.com/album/635NtpruJUpuTZK3wwsupM"
-      },
-      "artists": [
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 156797,
-      "name": "Break Your Heart",
-      "url": "https://open.spotify.com/track/31KRZnhrddh6tkcRRDKIys"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1"
-      },
-      "artists": [
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        },
-        {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "111",
-      "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6rIKOheKkyMo0r8gFWfpXh"
-      },
-      "artists": [
-        {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/7hboXRUZSynRcPPAG5x2QL"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Too Big For B-Side",
-        "url": "https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 224414,
-      "name": "Like I Like It",
-      "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Deedee (SAFAR's Scandalous Mix)",
-        "url": "https://open.spotify.com/album/3BsdrkQrIDAXLmxEjh5zDD"
-      },
-      "artists": [
-        {
-          "name": "HVMZA",
-          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
-        },
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        },
-        {
-          "name": "Simo Chemchoub",
-          "url": "https://open.spotify.com/artist/1gKFhYULkd0yVePJAPR1IV"
-        }
-      ],
-      "duration_ms": 352020,
-      "name": "Deedee - SAFAR's Scandalous Mix",
-      "url": "https://open.spotify.com/track/0Me5v8MsGEf5b2zoSTxDKu"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Gandagana",
-        "url": "https://open.spotify.com/album/4Ur1Y5qQca5bdn8EWvO9cZ"
-      },
-      "artists": [
-        {
-          "name": "Swanky Tunes",
-          "url": "https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX"
-        },
-        {
-          "name": "Backeer",
-          "url": "https://open.spotify.com/artist/1eIMkjElnyyQ4qbiby3h6w"
-        },
-        {
-          "name": "Elline",
-          "url": "https://open.spotify.com/artist/3X76EEZE5EfyHkOCyrVIkm"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Gandagana",
-      "url": "https://open.spotify.com/track/2CA3v1wyKRZl54wslksKkZ"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Scandalosa",
-        "url": "https://open.spotify.com/album/3mdWkfqmhJ6rpmcIP6dEEj"
-      },
-      "artists": [
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        },
-        {
-          "name": "LeCloarec",
-          "url": "https://open.spotify.com/artist/0Aa8SAfVNznvAyAFmfgu1x"
-        }
-      ],
-      "duration_ms": 441177,
-      "name": "Scandalosa",
-      "url": "https://open.spotify.com/track/7tcyt0AGkCSYwiO9nkzCW7"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Like Dat (Ape Drums Remix)",
-        "url": "https://open.spotify.com/album/3YJqSdB9sI55m2keWWNK41"
-      },
-      "artists": [
-        {
-          "name": "MAAURA",
-          "url": "https://open.spotify.com/artist/40AKih5OpGrRTlHilgilSN"
-        },
-        {
-          "name": "Danidane",
-          "url": "https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3"
-        },
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        }
-      ],
-      "duration_ms": 255605,
-      "name": "Like Dat - Ape Drums Remix",
-      "url": "https://open.spotify.com/track/6pv5Ajnc2fp12ilnkD5Xrr"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Where's My Voice?",
         "url": "https://open.spotify.com/album/1Iix0stRVi0IPp0NPM3CD0"
@@ -501,7 +449,31 @@
       "url": "https://open.spotify.com/track/0ZwwEA0piRDdayPerIsYtm"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Deedee (SAFAR's Scandalous Mix)",
+        "url": "https://open.spotify.com/album/3BsdrkQrIDAXLmxEjh5zDD"
+      },
+      "artists": [
+        {
+          "name": "HVMZA",
+          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
+        },
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        },
+        {
+          "name": "Simo Chemchoub",
+          "url": "https://open.spotify.com/artist/1gKFhYULkd0yVePJAPR1IV"
+        }
+      ],
+      "duration_ms": 352020,
+      "name": "Deedee - SAFAR's Scandalous Mix",
+      "url": "https://open.spotify.com/track/0Me5v8MsGEf5b2zoSTxDKu"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Djobi",
         "url": "https://open.spotify.com/album/3sm0aYOm1VflvPUgYt1Yuu"
@@ -525,7 +497,7 @@
       "url": "https://open.spotify.com/track/2hdUTWqOX1vqGhCPViDb9C"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Tribal Mood",
         "url": "https://open.spotify.com/album/5qf5h8JHPkkAmC0gQjZEv0"
@@ -545,7 +517,7 @@
       "url": "https://open.spotify.com/track/0TknK7w87OpsSWotAeKW3D"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/56DdJtXQmYEdq6fXvlFRhF"
@@ -561,7 +533,7 @@
       "url": "https://open.spotify.com/track/5IAQn5wgKV0v1YHDDgtrgB"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Bask in Me",
         "url": "https://open.spotify.com/album/0HI6gXyRFrgNHJR2VBwB67"
@@ -577,7 +549,7 @@
       "url": "https://open.spotify.com/track/2UZNNb9jIswntSbOQFQraL"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)",
         "url": "https://open.spotify.com/album/1PjYHybPrB6rU3qABrNldm"
@@ -597,7 +569,7 @@
       "url": "https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Out of My Mind EP",
         "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
@@ -613,23 +585,7 @@
       "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Yali",
-        "url": "https://open.spotify.com/album/5IAB4OLqYjiJUk57cQwj7Q"
-      },
-      "artists": [
-        {
-          "name": "Pablo Fierro",
-          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
-        }
-      ],
-      "duration_ms": 307972,
-      "name": "Yali",
-      "url": "https://open.spotify.com/track/0tUy2htwSX9x7Q44RLsare"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Balkans De Majorca",
         "url": "https://open.spotify.com/album/3FfsaDNDmZPQqZf0dfcXmv"
@@ -653,27 +609,7 @@
       "url": "https://open.spotify.com/track/6xldqZH55iDm08lgop5B4e"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "Safarisation Two",
-        "url": "https://open.spotify.com/album/0RDqu48NoLUS9qkvAdbNRV"
-      },
-      "artists": [
-        {
-          "name": "Laroz",
-          "url": "https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9"
-        },
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 309677,
-      "name": "Bayete Bayete - SAFAR's Scandalous Mix",
-      "url": "https://open.spotify.com/track/3KjIItfjjLt6yFL8dX67YW"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Tsa Ma Ndebele Kids (Dr Feel & Oskido Remix)",
         "url": "https://open.spotify.com/album/4Wv2434ZMueT4tAMUzdlCF"
@@ -697,7 +633,7 @@
       "url": "https://open.spotify.com/track/0jwU8c0sAc1MicC64vvQuq"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Day 'n' Night",
         "url": "https://open.spotify.com/album/0Kpol2vLXiCKFfOUfRg47x"
@@ -717,7 +653,7 @@
       "url": "https://open.spotify.com/track/3Qj8zCMTozLpL1tmVcuGKs"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Desert Wind",
         "url": "https://open.spotify.com/album/2vveRwrPB3IDkrZafcNgES"
@@ -733,7 +669,7 @@
       "url": "https://open.spotify.com/track/6sElNFNCq3QLmQxgCdijAD"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Let It Drop Now",
         "url": "https://open.spotify.com/album/53y9064NMj6SqCkONERNa9"
@@ -753,7 +689,7 @@
       "url": "https://open.spotify.com/track/1cXSm3bH8WLXZq6ad60pqA"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Hot Stuff EP",
         "url": "https://open.spotify.com/album/5rHlxsdDjx9wxDnMw7rozh"
@@ -773,7 +709,7 @@
       "url": "https://open.spotify.com/track/1DSzKpOXZjYjLal49RcvRx"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "La Musica",
         "url": "https://open.spotify.com/album/15H21TsLsEIsa8akKIc1Fy"
@@ -793,7 +729,7 @@
       "url": "https://open.spotify.com/track/231fOCG49czmg0DqqWPMsu"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Un Canasto",
         "url": "https://open.spotify.com/album/5wqDtD5cpTZHNS2eFMvsZj"
@@ -813,7 +749,7 @@
       "url": "https://open.spotify.com/track/6PpEF428oOw55KDlPrrrVI"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Inxeba",
         "url": "https://open.spotify.com/album/63WtNqMh5jjqkIz7eRCpgM"
@@ -837,7 +773,7 @@
       "url": "https://open.spotify.com/track/7bg9HW04cJJhSITwCFZeJb"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Don't Stop EP",
         "url": "https://open.spotify.com/album/75CLnzlKbUiiiNdkiX8F0Z"
@@ -853,7 +789,7 @@
       "url": "https://open.spotify.com/track/3bf3tNE3IjOtBsUzUVc9gs"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Rise Of Angel",
         "url": "https://open.spotify.com/album/0CsXeismJ6lw08Hz28Czip"
@@ -873,7 +809,7 @@
       "url": "https://open.spotify.com/track/7MCY93TsEw135UA7hQxGls"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Four Your Head",
         "url": "https://open.spotify.com/album/5CbtpBe4TJn60qdRdxHrPt"
@@ -889,7 +825,7 @@
       "url": "https://open.spotify.com/track/0c4CuqmYMWHCux5CcSlROY"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Desperadio",
         "url": "https://open.spotify.com/album/3NPOZrw3SLfYQOmoZqzXNL"
@@ -905,7 +841,7 @@
       "url": "https://open.spotify.com/track/6AUXyiOlppzJ4yfcZIHLOb"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Labios Rojos",
         "url": "https://open.spotify.com/album/5S5gyYiEsXCyJKJEYEXiYB"
@@ -925,23 +861,7 @@
       "url": "https://open.spotify.com/track/1YwsztmtcCNvLcELX9TOXJ"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
-      "album": {
-        "name": "You See the Trouble with Me",
-        "url": "https://open.spotify.com/album/5XbabXcwYuUc3NfKbRDbdx"
-      },
-      "artists": [
-        {
-          "name": "Black Legend",
-          "url": "https://open.spotify.com/artist/4qLiTGMBoVE95pmqJPseOU"
-        }
-      ],
-      "duration_ms": 398306,
-      "name": "You See the Trouble with Me - We'll Be In Trouble Extended Mix",
-      "url": "https://open.spotify.com/track/3HeGGECmuysHoj1ed3UnWz"
-    },
-    {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Radio Killers in Stereo",
         "url": "https://open.spotify.com/album/2qs3qhbAPSrfABD9F0fG1V"
@@ -965,7 +885,7 @@
       "url": "https://open.spotify.com/track/5foOyxcGmVKHpPfeOfm9oi"
     },
     {
-      "added_at": "2026-07-28 10:00:14",
+      "added_at": "2026-10-10 07:42:10",
       "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
@@ -991,6 +911,114 @@
       "duration_ms": 403293,
       "name": "Music Sounds Better With You",
       "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/0WFglVHx0NvVTeyWl41Bsd"
+      },
+      "artists": [
+        {
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/0qKHpiXu8bjQ9TCW5XEBkl"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Ay Como Hago",
+        "url": "https://open.spotify.com/album/4XnyEfYnFoVOi51YrcKNzq"
+      },
+      "artists": [
+        {
+          "name": "Gianni Romano",
+          "url": "https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK"
+        },
+        {
+          "name": "Emanuele Esposito",
+          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
+        },
+        {
+          "name": "Anlly Mar\u00edn",
+          "url": "https://open.spotify.com/artist/1CkiILgUUV8OFr0t9AUpkr"
+        },
+        {
+          "name": "Yimal\u00e1",
+          "url": "https://open.spotify.com/artist/4MtegK6bkIzJEi0PcyOBrN"
+        },
+        {
+          "name": "Nomis (FR)",
+          "url": "https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V"
+        },
+        {
+          "name": "RAVENS",
+          "url": "https://open.spotify.com/artist/5EJOD31l44fAT7hPI2rxfs"
+        }
+      ],
+      "duration_ms": 329032,
+      "name": "Ay Como Hago - Nomis (Fr) & Ravens Remix",
+      "url": "https://open.spotify.com/track/5HXAeSipJSryjlvIJHBWvh"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Nuthin\u2019 But A \u201cG\u201d Thang",
+        "url": "https://open.spotify.com/album/0pNt3R566kXRkBMEJQpKHV"
+      },
+      "artists": [
+        {
+          "name": "aMouse",
+          "url": "https://open.spotify.com/artist/6qTfeio06RzSz6v1qWClSY"
+        },
+        {
+          "name": "Heliograph",
+          "url": "https://open.spotify.com/artist/1FEutGSizDVYrOB6C8TQXu"
+        }
+      ],
+      "duration_ms": 205712,
+      "name": "Nuthin\u2019 But A \u201cG\u201d Thang",
+      "url": "https://open.spotify.com/track/2aTHmDr4tQkdJmVPJyfmgL"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Everybody Gets Down",
+        "url": "https://open.spotify.com/album/3aGpSLieUSLq9bpKvgq5dZ"
+      },
+      "artists": [
+        {
+          "name": "Mozambo",
+          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Everybody Gets Down",
+      "url": "https://open.spotify.com/track/1XH3pYS0DDJZIHpU5Yg4X5"
+    },
+    {
+      "added_at": "2026-10-10 07:42:10",
+      "album": {
+        "name": "Whisper To Me",
+        "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Trippy Yeah",
+      "url": "https://open.spotify.com/track/3cgNZ61ftRTdwGAIDiZnu1"
     }
   ],
   "unique_name": "SAFAR's track IDs",

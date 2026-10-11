@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-580 songs - 1 day 8 hr 45 min
+582 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-11-11 | 2024-04-19 |
 | [I'm Not The Only One](https://open.spotify.com/track/1Rl7EuhgigYMo5Ylid1Rke) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Dumb Dumb](https://open.spotify.com/album/5TwtsmTGlL07c5C6FASrDj) | 3:59 | 2022-11-11 | 2022-11-14 |
 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 | 2022-11-11 | 2023-03-01 |
-| [Illusion](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [The Inner City](https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI) | 3:00 | 2025-10-24 |  |
+| [Illusion](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [The Inner City](https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI) | 3:00 | 2025-10-24 | 2026-10-11 |
 | [Imagine](https://open.spotify.com/track/4jS6mCmznV5fjTNLf4h61o) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Imagine](https://open.spotify.com/album/6vwrKIrmOCl4MN22Xyh0Ro) | 4:36 | 2022-11-11 | 2024-04-19 |
 | [Imagine](https://open.spotify.com/track/59rTqNq6MwSgmJM2DbEzyy) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [The Best of Eva Cassidy](https://open.spotify.com/album/0mk6OeoHvUJHoHAvkzhtej) | 4:36 | 2024-04-11 | 2024-06-07 |
 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 | 2023-03-16 | 2023-05-13 |
@@ -257,6 +257,7 @@
 | [INSOLITO](https://open.spotify.com/track/05VBdpFyIcXk0Ybe6UY4xS) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Jovencito Fuksbrauner](https://open.spotify.com/artist/4bHXpJ2FCXasr4lx1lZ38V) | [INSOLITO](https://open.spotify.com/album/7EUEvZd0Meiv7StmNSdISn) | 4:06 | 2024-05-02 | 2024-06-21 |
 | [Interior \(Noche\)](https://open.spotify.com/track/3sRr3Eyd3h3p5yustY7bME) | [Dear Leo](https://open.spotify.com/artist/3lfVH6hkFMxtzwUXdlyb60) | [Interior \(Noche\)](https://open.spotify.com/album/52c9Qs5b8Sb6OSEH5ADwrQ) | 3:26 | 2024-08-02 | 2024-10-14 |
 | [Into The Sun \- EP Version](https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 5:00 | 2022-11-11 |  |
+| [Islands in the Fog \(with Gizmo Varillas\)](https://open.spotify.com/track/0Pat9Ok4QEf36WJGAAf3Ga) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Islands in the Fog \(with Gizmo Varillas\)](https://open.spotify.com/album/1LOI0LDHrsOZ5daYAETPZl) | 4:15 | 2026-10-08 |  |
 | [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \(10th Anniversary Edition\)](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 | 2024-08-02 |  |
 | [Jag vill ha allt](https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Orion](https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf) | 3:26 | 2024-02-08 | 2024-03-15 |
 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 | 2022-11-11 | 2026-05-01 |
@@ -426,6 +427,7 @@
 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-09-24 | 2025-06-27 |
 | [Primer Amor](https://open.spotify.com/track/47Q3dGvvrMndhNNejITirX) | [Laaza](https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy) | [Primer Amor](https://open.spotify.com/album/0q4sa4WcOYRKAooPQ4I95z) | 2:26 | 2026-02-19 | 2026-03-27 |
 | [Pro Mundo Ouvir](https://open.spotify.com/track/72QpSvlwGaU3dtEFzmMREZ) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [Pro Mundo Ouvir](https://open.spotify.com/album/69pm6gZwdFLdy1fE3ZBeCb) | 3:10 | 2025-12-04 | 2026-02-27 |
+| [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 | 2026-10-08 |  |
 | [Pudo haber sido](https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ) | [Lucas Marcos](https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO) | [Pudo haber sido](https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK) | 3:04 | 2024-10-24 | 2025-01-10 |
 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2024-12-23 | 2025-03-07 |
 | [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 | 2024-03-15 | 2024-04-12 |
@@ -524,7 +526,7 @@
 | [To be, or not to be ugly](https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:54 | 2023-03-28 | 2023-04-21 |
 | [To Die For](https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Die For](https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf) | 3:13 | 2022-11-11 | 2023-03-28 |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-16 | 2023-03-28 |
-| [Todavía](https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Todavía](https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG) | 4:06 | 2026-04-09 |  |
+| [Todavía](https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Todavía](https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG) | 4:06 | 2026-04-09 | 2026-10-11 |
 | [Todo Este Amor \(Capítulo IV: Huída\)](https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu) | [Víctor Monte](https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf), [nosoymeri](https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd) | [Todo Este Amor \(Capítulo IV: Huída\)](https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4) | 3:06 | 2025-10-09 | 2026-04-10 |
 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2024-04-11 | 2025-12-07 |
 | [Todo Marchitó](https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Todo Marchitó](https://open.spotify.com/album/45vox10mCCmPfUgr3SkJ1v) | 4:07 | 2025-10-09 | 2026-03-14 |

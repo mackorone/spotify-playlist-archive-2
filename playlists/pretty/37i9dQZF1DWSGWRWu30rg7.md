@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Zhafari
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,939 likes - 97 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,942 likes - 97 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

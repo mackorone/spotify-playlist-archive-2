@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Christie
 
-1,830 songs - 4 day 19 hr 43 min
+1,831 songs - 4 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [Hanya Lolongan](https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Hanya Lolongan](https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr) | 3:49 | 2024-05-02 | 2024-09-27 |
 | [Hanya Untukmu](https://open.spotify.com/track/6cXyQ6ogT9uOTNpsu6a11T) | [Prilly Latuconsina](https://open.spotify.com/artist/2ZMfLZnfHC3oXgvA3kKFwi) | [Hanya Untukmu](https://open.spotify.com/album/2LVTP1QTCAQa4DJy01M797) | 3:20 | 2025-11-27 | 2026-02-06 |
 | [Happy Anniversary!](https://open.spotify.com/track/6FldVExrpdTXQUphV3eS3w) | [MAKO.](https://open.spotify.com/artist/0gGCPbJs9MmaHJHGebWAOH) | [Happy Anniversary!](https://open.spotify.com/album/2aLGKWGbtc4ztMBKep58JI) | 3:10 | 2026-07-09 | 2026-08-07 |
+| [Happy Song](https://open.spotify.com/track/1hFbdiVz5BcR39jwSdvqq5) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [Happy Song](https://open.spotify.com/album/6CO2XDEgZLjc6arp3ki5Xt) | 3:50 | 2026-10-09 |  |
 | [Harap Dan Ragu](https://open.spotify.com/track/2FBPuxsygz2z5ZWOPe66Le) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Harap Dan Ragu](https://open.spotify.com/album/1aFNZ4zyms3ykHkZHql4LN) | 3:12 | 2025-11-20 | 2026-04-17 |
 | [Harapan](https://open.spotify.com/track/53FfFy2iSJnv9cNhIIqt9i) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Harapan](https://open.spotify.com/album/1hSMiTdohelU70DaWlfGDZ) | 3:02 | 2024-11-08 | 2024-12-06 |
 | [Hari Ini \(feat\. Hindia\)](https://open.spotify.com/track/7xyGT6XaM9rV4jIb62QvST) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Hari Ini](https://open.spotify.com/album/7zcuwtBduQbPYqPMhC2Oei) | 3:16 | 2025-05-01 | 2025-06-27 |

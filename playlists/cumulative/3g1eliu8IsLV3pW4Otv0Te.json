@@ -4483,6 +4483,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Sound Of Separation",
+        "url": "https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270853,
+      "name": "Too Bright To See, Too Loud To Hear",
+      "url": "https://open.spotify.com/track/22LwhIWG9emahUJCGPWLT0"
+    },
+    {
+      "album": {
         "name": "Trauma",
         "url": "https://open.spotify.com/album/2TMC90olEVaexRP2eZlrrj"
       },

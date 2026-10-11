@@ -1609,6 +1609,32 @@
     },
     {
       "album": {
+        "name": "3K (KRESKA KROPKA KRESKA)",
+        "url": "https://open.spotify.com/album/7FgN5MyOxa4M2VPALL8qZz"
+      },
+      "artists": [
+        {
+          "name": "OG ENZO",
+          "url": "https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "3K (KRESKA KROPKA KRESKA)",
+      "url": "https://open.spotify.com/track/4nJ4Hf9q8YPlGjpAP4CfwH"
+    },
+    {
+      "album": {
         "name": "3KIPA",
         "url": "https://open.spotify.com/album/6PTz8cfAhKWI4wJknwYdH0"
       },
@@ -2560,7 +2586,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 165714,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/6LchyI3DOmqz4oyUMGuv1v"
@@ -2784,7 +2810,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-06",
+      "date_removed": null,
       "duration_ms": 139354,
       "name": "After",
       "url": "https://open.spotify.com/track/2C9ZtYMh1FNpMBB9ARaZhs"
@@ -5968,7 +5994,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 158918,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/2eEhzRhKCXmqqsc405M2Oc"
@@ -12741,6 +12767,28 @@
     },
     {
       "album": {
+        "name": "CYRK",
+        "url": "https://open.spotify.com/album/4TJI9SIZlf2LvsxhZfkcqh"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162233,
+      "name": "CYRK",
+      "url": "https://open.spotify.com/track/3vunhj6tMfUHfyydWqUOTm"
+    },
+    {
+      "album": {
         "name": "JEZU CHRYSTE KUBI",
         "url": "https://open.spotify.com/album/7zL2CHSVPxPpviqfJaL8wu"
       },
@@ -16266,6 +16314,28 @@
       "duration_ms": 196204,
       "name": "DYLEMAT",
       "url": "https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5"
+    },
+    {
+      "album": {
+        "name": "DYMI CZACHA",
+        "url": "https://open.spotify.com/album/2Wx7eeOgSTPEwSklcQGpkY"
+      },
+      "artists": [
+        {
+          "name": "OG ENZO",
+          "url": "https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128984,
+      "name": "DYMI CZACHA",
+      "url": "https://open.spotify.com/track/5mL4RsiWpQj1j9AYbUCayQ"
     },
     {
       "album": {
@@ -24453,6 +24523,28 @@
     },
     {
       "album": {
+        "name": "Impulsy",
+        "url": "https://open.spotify.com/album/1GE86t77f1WKPqfj5FMCjs"
+      },
+      "artists": [
+        {
+          "name": "Fisz Emade Tworzywo",
+          "url": "https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA"
+        },
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468199,
+      "name": "Impulsy",
+      "url": "https://open.spotify.com/track/3kiiCofZYh6qzZYd1GgxQO"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -29408,7 +29500,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 190909,
       "name": "KOSZT BYCIA BOSS",
       "url": "https://open.spotify.com/track/3otQrfJgd2ncNj3s36XzTX"
@@ -34713,6 +34805,24 @@
     },
     {
       "album": {
+        "name": "Mimo najlepszych ch\u0119ci",
+        "url": "https://open.spotify.com/album/51a9Vx7LSsQ43Q4fyiSueg"
+      },
+      "artists": [
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237777,
+      "name": "Mimo najlepszych ch\u0119ci",
+      "url": "https://open.spotify.com/track/0qqOZcLqriEbeUPYWyIaRO"
+    },
+    {
+      "album": {
         "name": "Mini Man",
         "url": "https://open.spotify.com/album/4fjYBRd2IduLUZyXRB06tw"
       },
@@ -35320,7 +35430,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 251400,
       "name": "Molly",
       "url": "https://open.spotify.com/track/1088WwNMjp0QWvEP3aOgsf"
@@ -41430,7 +41540,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 164000,
       "name": "OBJE\u017bD\u017bAMY BLOK",
       "url": "https://open.spotify.com/track/3l9fvHzyXrjaTSvpO1vILu"
@@ -46048,7 +46158,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 123809,
       "name": "Pi\u0119kny sen",
       "url": "https://open.spotify.com/track/6VykKaQAkTTuAk3i9iR7KH"
@@ -49834,7 +49944,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 214000,
       "name": "RED BULL 64 BARS",
       "url": "https://open.spotify.com/track/3Elnl9QQlyYCUsw7ECQnKs"
@@ -50342,7 +50452,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 150000,
       "name": "RIOTT",
       "url": "https://open.spotify.com/track/3mdNniihoiWjYnbBELfrRE"
@@ -53714,7 +53824,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 214101,
       "name": "Sopot",
       "url": "https://open.spotify.com/track/7oz7dVuCTxppywszxv9gol"
@@ -55462,7 +55572,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -59006,7 +59116,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 209908,
       "name": "Toksyna",
       "url": "https://open.spotify.com/track/0QDGplY5KALFQQA2w8bdo9"
@@ -65874,7 +65984,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 152853,
       "name": "Zadzwo\u0144 do mnie",
       "url": "https://open.spotify.com/track/2WFSy9WBAdKH8RnwL5deH2"
@@ -65936,7 +66046,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 190104,
       "name": "Zakochany kundel",
       "url": "https://open.spotify.com/track/2S0tIyYwk80XvzJzYqMiNV"
@@ -67794,7 +67904,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 157720,
       "name": "\u201eTak to lecia\u0142o!\u201d",
       "url": "https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI"

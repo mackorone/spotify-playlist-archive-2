@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Charlotte Cardin, Grimes, Remi Wolf, Gunna, Cardi B, Slayyyter, Troye Sivan, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,038 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,979 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 30 | [Heya](https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Palace for the People](https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS) | 4:39 |
 | 31 | [Carnage \(feat\. Little Simz\)](https://open.spotify.com/track/2DNHy7NQNQO40EkGlrgtkY) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Generic Everything](https://open.spotify.com/album/2cu3mSocMVwnSnV9Ge69Do) | 3:08 |
 | 32 | [PAY AS YOU GO](https://open.spotify.com/track/5OQqfaT8DNcJK6MrJ6Z5GW) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [PAY AS YOU GO](https://open.spotify.com/album/3yXHjvYj5IRiRc9Bw5YX7o) | 3:18 |
-| 33 | [KEY 2 LIFE](https://open.spotify.com/track/5MrGMa1LW3RecdospMQc6B) | [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn) | [KEY 2 LIFE](https://open.spotify.com/album/08C7OtNX3HXbDgyoWzhLiN) | 3:44 |
+| 33 | [KEY 2 LIFE](https://open.spotify.com/track/5MrGMa1LW3RecdospMQc6B) | [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [KEY 2 LIFE](https://open.spotify.com/album/08C7OtNX3HXbDgyoWzhLiN) | 3:44 |
 | 34 | [Memories](https://open.spotify.com/track/1wyzwFsSpEh65mQqApmd7o) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Memories](https://open.spotify.com/album/7iva1QVtX8yUQOzR2ysAVj) | 4:44 |
 | 35 | [Moaning](https://open.spotify.com/track/4LNrbE2jNLlvzIeCmEmklg) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Moaning](https://open.spotify.com/album/5btxgzMmAjCueii6ZtT2R8) | 3:12 |
 | 36 | [HONEYMOON NIGHT](https://open.spotify.com/track/5qlaVYDcab5jX9CXTZQW32) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [HONEYMOON NIGHT](https://open.spotify.com/album/3fUva1Oq4K38WJKDA6RbNl) | 3:18 |

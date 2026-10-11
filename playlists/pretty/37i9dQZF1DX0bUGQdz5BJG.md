@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Noah James
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,665 likes - 201 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,693 likes - 201 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

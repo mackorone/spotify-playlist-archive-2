@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,439 likes - 155 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,505 likes - 155 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 93 | [Open Mind](https://open.spotify.com/track/3uWz3YOFSLri0qCmiWCmzY) | [Sonopad](https://open.spotify.com/artist/6a3JGgQNJ6ugMYY9CgzltE) | [Open Mind](https://open.spotify.com/album/1Mo4q3DGFgrawdBCa179Rf) | 3:30 |
 | 94 | [In The Midst of the Moon](https://open.spotify.com/track/38J8UNRScNxjsO1MuYRNma) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [In The Midst of the Moon](https://open.spotify.com/album/1HXOFCSZut1mD9ahKyLF4g) | 2:46 |
 | 95 | [Temptation](https://open.spotify.com/track/3mogHDo77yIIJHPtUXg3iU) | [Kinetic Arcade](https://open.spotify.com/artist/0uoTGVN3x79OZF0X9WuniX) | [Temptation](https://open.spotify.com/album/1RPwAuCAc3clly6wWtcbQ4) | 2:11 |
-| 96 | [Flood Of Emotion](https://open.spotify.com/track/7LZ88oirlHPrcwukQkXknr) | [ZooKeepr](https://open.spotify.com/artist/07hMsm97BWS43F3TVTkl6W) | [Flood Of Emotion](https://open.spotify.com/album/0EXydxzSYIg0dj2nv0DcMg) | 3:40 |
+| 96 | [Flood Of Emotion](https://open.spotify.com/track/7LZ88oirlHPrcwukQkXknr) | [ZooKeepr](https://open.spotify.com/artist/07hMsm97BWS43F3TVTkl6W), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Flood Of Emotion](https://open.spotify.com/album/0EXydxzSYIg0dj2nv0DcMg) | 3:40 |
 | 97 | [Gaps](https://open.spotify.com/track/4CgWXutt6SVvTMfTnokAJC) | [Nova Glitch](https://open.spotify.com/artist/5bbMdQv3pCzS20lYjRxpB1) | [Gaps](https://open.spotify.com/album/7sd772v0DY0ngF5k5BbtEm) | 2:33 |
 | 98 | [All Night](https://open.spotify.com/track/4lZOe5GgmMBl9udcRxSLGu) | [Golden After](https://open.spotify.com/artist/4oWkikhjgTiZX98eSAWT9R) | [All Night](https://open.spotify.com/album/2zEo09LHIkTQfCEeoxMkJ2) | 2:22 |
 | 99 | [Marbella](https://open.spotify.com/track/5GGuhkp42iSFBeNwPvs5D4) | [Chill Motion](https://open.spotify.com/artist/7uxTNkHkgq1ZLC9tNCxgde) | [Marbella](https://open.spotify.com/album/4CzJRbeF2qgbWvfAvp66no) | 2:24 |

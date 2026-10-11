@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Lyodra, Lafa Pratomo, Ari Lesmana, White Chorus, Troye Sivan, Carly Rae Jepsen dan masih banyak lagi dari dalam dan mancanegara.
 
-33,620 songs - 79 day 15 hr 57 min
+33,621 songs - 79 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11308,6 +11308,7 @@
 | [Happy Order?](https://open.spotify.com/track/42m2Tyvsx9DRuujxfeTjfi) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Happy Order?](https://open.spotify.com/album/0oGqRZnSSNtsbOfUeWTCAG) | 3:31 | 2024-04-04 | 2024-04-12 |
 | [Happy Prince](https://open.spotify.com/track/3iQNce2vHa8N9M4uPYOsiT) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [YILE LIN](https://open.spotify.com/artist/26AmoMf8mCSUdM2p363S6e) | [Happy Prince](https://open.spotify.com/album/37ragGvhMrZgxxyOe9wlKo) | 4:22 | 2023-11-30 | 2023-12-08 |
 | [happy song](https://open.spotify.com/track/2WARwknaUKJtceHeY4Cbac) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [happy song](https://open.spotify.com/album/2bdYuvCWN703YCLzSa6mas) | 2:26 | 2021-06-25 | 2021-07-02 |
+| [Happy Song](https://open.spotify.com/track/1hFbdiVz5BcR39jwSdvqq5) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [Happy Song](https://open.spotify.com/album/6CO2XDEgZLjc6arp3ki5Xt) | 3:50 | 2026-10-08 |  |
 | [Happy Tales](https://open.spotify.com/track/5alM89ocyysP8vq6N7eAJe) | [Rayhan Nadhif](https://open.spotify.com/artist/4zlGL29T5iQ8HWaxylLaTZ) | [Reflection of the Unknown](https://open.spotify.com/album/0E4WWHa7iEubdsh8CqF2Rk) | 2:34 | 2021-08-13 | 2021-08-20 |
 | [Happy to be Unhappy](https://open.spotify.com/track/7B69v617KocKna7CtJFVp6) | [Rifkysetya](https://open.spotify.com/artist/28U66vinWbf17vJbvvfRTB) | [Happy to be Unhappy](https://open.spotify.com/album/2PJIjeqshn7b8VkO6n1Ddh) | 2:52 | 2020-04-16 | 2020-04-24 |
 | [Happy Valentine Nona](https://open.spotify.com/track/61GqDOOY6lsFRG6E7yc5j2) | [FOODOMORE](https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn) | [Happy Valentine Nona](https://open.spotify.com/album/4F7h7J6PlLq9TRWZjGFuuz) | 3:22 | 2024-05-23 | 2024-06-01 |

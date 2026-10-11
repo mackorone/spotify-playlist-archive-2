@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,886 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,888 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Fé / De Valor em Valor \(Ao Vivo\)](https://open.spotify.com/track/7paEEGbwylvFQgP2Bnc9dH) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Fé / De Valor em Valor \(Ao Vivo\)](https://open.spotify.com/album/3DhKlsI0stUY6DR0NFd5Tu) | 4:19 |
 | 50 | [Cartas Vivas \(Ao Vivo\)](https://open.spotify.com/track/0cbFt604EkPvV6yVTPiqSX) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cartas Vivas \(Ao Vivo\)](https://open.spotify.com/album/54bciXCQVKqtS5QKOlydMI) | 3:40 |
 
-Snapshot ID: `asbdAAAAAAC8nUTiJG3dGN7VXezlZLHd`
+Snapshot ID: `asgugAAAAADlmk5/EZteHnRAhIjbt/sD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,585 likes - 75 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,580 likes - 75 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 19 | [Worthy Of It All](https://open.spotify.com/track/6B8EBFomoRMZy4tzHRLxGg) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Worthy Of It All](https://open.spotify.com/album/6mQd2MB4WgST48PnUPjeKX) | 6:49 |
 | 20 | [Make A Way \- Live](https://open.spotify.com/track/0m5DuldDDCH1e9Nb0eHOwM) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Make A Way \(Live\)](https://open.spotify.com/album/1XtYSysw7b0gRFuTeaJLJ1) | 6:36 |
 | 21 | [Love of God \(Live\)](https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Love of God \(Live\)](https://open.spotify.com/album/1NdJ3UWZpGZFkrMu6Xe69K) | 7:48 |
-| 22 | [The Highest \(No Other Name\)](https://open.spotify.com/track/4WwAsRnQYWX5EfXPmQZhfK) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kendra Benay](https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa) | [The Highest \(No Other Name\)](https://open.spotify.com/album/4UVh0LWobjrPWMl6qiW1rn) | 7:37 |
+| 22 | [The Highest \(No Other Name\) \- Live](https://open.spotify.com/track/4WwAsRnQYWX5EfXPmQZhfK) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kendra Benay](https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa) | [The Highest \(No Other Name\)](https://open.spotify.com/album/4UVh0LWobjrPWMl6qiW1rn) | 7:37 |
 | 23 | [King of Kings \(Spontaneous\) \- Live](https://open.spotify.com/track/16olaIjmJHTlXBbihdtXl5) | [Dwell Church Worship](https://open.spotify.com/artist/3LXVX1w2XzpruSHLM6vuDJ), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Live from Dwell Church](https://open.spotify.com/album/6mnaBXBAdgAcmivnP3jwOO) | 7:55 |
 | 24 | [Breathe On It \- From Austin](https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It \(From Austin\)](https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk) | 4:50 |
 | 25 | [Wondrous Cross \(When I Survey\)](https://open.spotify.com/track/4XkcQH03mFG7ofpLmLG5xP) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Wondrous Cross \(When I Survey\)](https://open.spotify.com/album/4q7bUASyy3q5cKYKgsQCdE) | 4:38 |

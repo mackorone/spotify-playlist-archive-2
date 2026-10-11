@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 25561,
+  "num_followers": 25568,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 172391,
-      "name": "My Terms (feat. PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "On Me (Remix) (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 135444,
       "name": "On Me (Remix) (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 172391,
+      "name": "My Terms (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn"
-      },
-      "artists": [
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "The Marathon Continues (Nipsey Tribute) - Bonus Track",
-      "url": "https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Big Bank",
         "url": "https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 178652,
       "name": "Rich Off Grass (Remix) [feat. Young Dolph]",
       "url": "https://open.spotify.com/track/6zCFXBYD4mZCCmDjk33gzb"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "The Marathon Continues (Nipsey Tribute) - Bonus Track",
+      "url": "https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz"
     },
     {
       "added_at": "2022-10-01 20:31:11",

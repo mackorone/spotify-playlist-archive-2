@@ -475,6 +475,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "Music Sounds",
+        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Music Sounds",
+      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "Privacy",
         "url": "https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 194656,
       "name": "Privacy",
       "url": "https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "Music Sounds",
-        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 159551,
-      "name": "Music Sounds",
-      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "To nie o mnie + Zimne ognie",
+        "url": "https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6"
+      },
+      "artists": [
+        {
+          "name": "Kasia Sienkiewicz",
+          "url": "https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH"
+        }
+      ],
+      "duration_ms": 183311,
+      "name": "Zimne ognie",
+      "url": "https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "Sztos",
         "url": "https://open.spotify.com/album/2vQ07EMCA36O2CVbMG2vTY"
       },
@@ -1043,34 +1059,18 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "To nie o mnie + Zimne ognie",
-        "url": "https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6"
+        "name": "Bierz co jest",
+        "url": "https://open.spotify.com/album/3VP7imZWBzBnXbxOB70Xcu"
       },
       "artists": [
         {
-          "name": "Kasia Sienkiewicz",
-          "url": "https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH"
+          "name": "GOLEC UORKIESTRA",
+          "url": "https://open.spotify.com/artist/7sYIwdHZoqVUh6i58SJrmx"
         }
       ],
-      "duration_ms": 183311,
-      "name": "Zimne ognie",
-      "url": "https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "Zapomnij mnie",
-        "url": "https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Zapomnij mnie",
-      "url": "https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4"
+      "duration_ms": 150252,
+      "name": "Bierz co jest",
+      "url": "https://open.spotify.com/track/19FscRLbetzPhQP9lbSB6R"
     }
   ],
   "unique_name": "... ale najpierw kawa",

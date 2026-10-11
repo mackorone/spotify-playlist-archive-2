@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Madiel Lara & Alex Zurdo
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,723 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,773 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 3 | [Tu Tienes El Control](https://open.spotify.com/track/6NrwCYoxQWG8b932QdnBas) | [Wubeat](https://open.spotify.com/artist/1f93uZU90Q2DQMPkjdUgpw), [Diego Lu](https://open.spotify.com/artist/62W11XBTmMK67bpD4bzQbA) | [Tu Tienes El Control](https://open.spotify.com/album/5e9RVLQG26t646CLBGblk4) | 3:02 |
 | 4 | [Ensayo](https://open.spotify.com/track/7tQXhPQSEkRIfFlmz90Eqc) | [Carlito Codigo](https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR), [Dexter Music](https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG) | [Ensayo](https://open.spotify.com/album/0CGHsFmxSqxs434zc7sAI8) | 3:11 |
 | 5 | [My Shoes](https://open.spotify.com/track/7cn3rmoLbb4hTNbjo8nFeo) | [SarieL](https://open.spotify.com/artist/6HLjz3mUSt52nDpFylq93A), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Zoprano](https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl) | [My Shoes](https://open.spotify.com/album/2jUXOAPyVsejJV7RsikZKS) | 4:01 |
-| 6 | [Rendido](https://open.spotify.com/track/2ysVjURAVKWXW6qOVVlZYg) | [Jhex](https://open.spotify.com/artist/4xVN5eUUxtTH7iGqwOoDQ2) | [Rendido](https://open.spotify.com/album/6gG0KbCkWri4wuwtgYewmi) | 3:12 |
+| 6 | [RENDIDO](https://open.spotify.com/track/2ysVjURAVKWXW6qOVVlZYg) | [Jhex](https://open.spotify.com/artist/4xVN5eUUxtTH7iGqwOoDQ2) | [RENDIDO](https://open.spotify.com/album/6gG0KbCkWri4wuwtgYewmi) | 3:12 |
 | 7 | [TuYo](https://open.spotify.com/track/1USbSbVqGa2YNs0szXYlPZ) | [Pedro Morales](https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR) | [TuYo](https://open.spotify.com/album/6A9E5yDtGuWkYCzRwMUNMZ) | 2:12 |
 | 8 | [María](https://open.spotify.com/track/2f0yROQFWKK0if38XtUo9n) | [Santiago Ardila](https://open.spotify.com/artist/01Qj4FIZsyfxQkwXwEwwom), [Miguel Ríos](https://open.spotify.com/artist/0xMuEjGKxa6Ro42AX9xCoZ) | [María](https://open.spotify.com/album/5pRUJ1GjYHqe8lpEe2dd4D) | 3:34 |
 | 9 | [Buen Siervo Fiel](https://open.spotify.com/track/41OHWmq0ROTeeDhqXMOluZ) | [Pedro Gómez](https://open.spotify.com/artist/7KPwITRBXOJdscT1ktIwlx) | [Buen Siervo Fiel](https://open.spotify.com/album/2o7uAuV74qH8g9xfCNSY1D) | 3:58 |

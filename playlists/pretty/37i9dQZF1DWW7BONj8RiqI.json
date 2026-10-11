@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: V'ghn, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>",
-  "num_followers": 250953,
+  "num_followers": 250975,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Roll It Gal",
+      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
         "name": "Mind My Business",
         "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 119040,
       "name": "Mind My Business",
       "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Roll It Gal",
-      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
+        "name": "No Behavior Shell Down",
+        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
+      },
+      "artists": [
+        {
+          "name": "Cloud 5",
+          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
+        }
+      ],
+      "duration_ms": 262556,
+      "name": "No Behavior Shell Down",
+      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
         "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
-        "name": "No Behavior Shell Down",
-        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
-      },
-      "artists": [
-        {
-          "name": "Cloud 5",
-          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
-        }
-      ],
-      "duration_ms": 262556,
-      "name": "No Behavior Shell Down",
-      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1195,18 +1195,22 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
+        "name": "Blockbuster Riddim",
+        "url": "https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr"
       },
       "artists": [
         {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+          "name": "Full Blown",
+          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
         }
       ],
-      "duration_ms": 335652,
-      "name": "Workey Workey",
-      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
+      "duration_ms": 197607,
+      "name": "One For The Team",
+      "url": "https://open.spotify.com/track/1hEcR23cJ3K9GRlEPsvavJ"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Blockbuster Riddim",
-        "url": "https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr"
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
       },
       "artists": [
         {
-          "name": "Full Blown",
-          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
-        },
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
         }
       ],
-      "duration_ms": 197607,
-      "name": "One For The Team",
-      "url": "https://open.spotify.com/track/1hEcR23cJ3K9GRlEPsvavJ"
+      "duration_ms": 335652,
+      "name": "Workey Workey",
+      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Hello (Iced Heart Riddim)",
-        "url": "https://open.spotify.com/album/6zVypAXMxiDbknsJ5dK0N4"
-      },
-      "artists": [
-        {
-          "name": "muddy",
-          "url": "https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Hello (Iced Heart Riddim)",
-      "url": "https://open.spotify.com/track/6coofViEiuNH9OT1T1piL1"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
         "name": "Long Live Soca",
         "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 225251,
       "name": "Long Live Soca",
       "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
+        "name": "Hello (Iced Heart Riddim)",
+        "url": "https://open.spotify.com/album/6zVypAXMxiDbknsJ5dK0N4"
+      },
+      "artists": [
+        {
+          "name": "muddy",
+          "url": "https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Hello (Iced Heart Riddim)",
+      "url": "https://open.spotify.com/track/6coofViEiuNH9OT1T1piL1"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
         "name": "Kool Under Fire",
         "url": "https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 231874,
       "name": "Carnival (feat. Machel Montano)",
       "url": "https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2026-08-20 14:00:42",

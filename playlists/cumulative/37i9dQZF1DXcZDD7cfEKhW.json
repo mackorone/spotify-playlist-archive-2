@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 163948,
       "name": "Camera (CYRIL Remix)",
       "url": "https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF"
@@ -2076,6 +2076,28 @@
       "duration_ms": 230395,
       "name": "Clarity - Chris Malinchak Mix",
       "url": "https://open.spotify.com/track/0Mv64uPH8nm7yZPPAj8HYe"
+    },
+    {
+      "album": {
+        "name": "Close To Me (Solo)",
+        "url": "https://open.spotify.com/album/2mdwvBOoAyI5v17eJW9Nds"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182083,
+      "name": "Close To Me - Solo",
+      "url": "https://open.spotify.com/track/6ptB0Im3hvvsnijvml9e7a"
     },
     {
       "album": {

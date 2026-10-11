@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnilSxqtzxn.md) - [plain]
 
 > A collection of the greatest names to ever grace the Jazz Cafe stage\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,692 likes - 85 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,700 likes - 85 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnilSxqtzxn.md) - [plain]
 | 84 | [Let Me In Your Life](https://open.spotify.com/track/7aVnhyvqaRKwuiPhiZINZi) | [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf) | [Asha Puthli](https://open.spotify.com/album/04MZ8sL3zU0oWJM7q9D38E) | 3:08 |
 | 85 | [At Les](https://open.spotify.com/track/0LBTxmhGhEXbQQtmse1t4r) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [More Songs About Food and Revolutionary Art](https://open.spotify.com/album/1bGa8EVZerZTbJUo5dMbuU) | 6:09 |
 
-Snapshot ID: `AAAAAFbEUgB9Zda46JsfMEH0G5hLRcQu`
+Snapshot ID: `AAAAAJ90/JORZu2dnLkYofj93SWHIvZG`

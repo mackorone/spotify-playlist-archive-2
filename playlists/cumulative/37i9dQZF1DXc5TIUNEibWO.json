@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 340662,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/636hMHPfzNAfq21sUYnib1"
@@ -482,6 +482,28 @@
       "duration_ms": 301766,
       "name": "Cdc Mu Aniqyee Bi",
       "url": "https://open.spotify.com/track/5w3rcInBjwIsOmKhGxm0Sv"
+    },
+    {
+      "album": {
+        "name": "Appietus (Two Decades of Hiplife Hits)",
+        "url": "https://open.spotify.com/album/3VFeXjXGobVYiKixb31Fa8"
+      },
+      "artists": [
+        {
+          "name": "Rex Omar",
+          "url": "https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s"
+        },
+        {
+          "name": "Appietus",
+          "url": "https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376737,
+      "name": "Dadi Dada",
+      "url": "https://open.spotify.com/track/5vzG33HzojMhz0HPmkdVEZ"
     },
     {
       "album": {

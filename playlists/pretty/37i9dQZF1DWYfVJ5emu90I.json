@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26835,
+  "num_followers": 26841,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9"
+      },
+      "artists": [
+        {
+          "name": "D3adStock",
+          "url": "https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd"
+        }
+      ],
+      "duration_ms": 110500,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
         "name": "POP KILLERS (feat. ralph)",
         "url": "https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 165000,
       "name": "My Fan",
       "url": "https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9"
-      },
-      "artists": [
-        {
-          "name": "D3adStock",
-          "url": "https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd"
-        }
-      ],
-      "duration_ms": 110500,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM"
     },
     {
       "added_at": "2026-08-19 00:34:26",

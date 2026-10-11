@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2026!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,286,430 likes - 154 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,460 likes - 154 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

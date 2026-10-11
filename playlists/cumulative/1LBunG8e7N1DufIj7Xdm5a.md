@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,867 songs - 10 day 23 hr 58 min
+4,868 songs - 11 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3009,6 +3009,7 @@
 | [O2](https://open.spotify.com/track/6LEvHdwNte7uSEkZKxenKt) | [DeshYo](https://open.spotify.com/artist/6IvDNnbo1jycPOc48zTOT8) | [O2](https://open.spotify.com/album/3W8mPza24dcodMkvY5Dls0) | 4:07 | 2025-09-26 |  |
 | [OathBreaker's Call](https://open.spotify.com/track/0sM5SlFGAZnwJg4oD4bizw) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [OathBreaker's Call](https://open.spotify.com/album/1c82DbgAJ73HGNLud7Bwvt) | 3:47 | 2025-12-29 |  |
 | [Oblivion](https://open.spotify.com/track/6o5S6TmTAt0PmxSLHhUPfy) | [Monashee](https://open.spotify.com/artist/3aRQ4wIrd9wOGqAY9dJMkI) | [Oblivion](https://open.spotify.com/album/6JxEAIvajQ93CAMEdmnR9E) | 3:41 | 2025-07-31 |  |
+| [Obsession](https://open.spotify.com/track/0SAgfYEHKPEZBPLXV8S8Bs) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Bad Decisions](https://open.spotify.com/album/0NcVWypNt3E0aKXu1BcRXN) | 3:02 | 2026-10-10 |  |
 | [Occhi e sorrisi](https://open.spotify.com/track/4QchW9jZ7JCu2G7Snf2bAP) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Musica buona](https://open.spotify.com/album/35aGpU9MM9yCOCZDHjjqn7) | 3:44 | 2025-06-06 |  |
 | [Occhi stanchi](https://open.spotify.com/track/0kSGVdKJNolp0JS9qKLTvx) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Occhi stanchi](https://open.spotify.com/album/46NeGlXSF0ejKswAwjMB53) | 3:47 | 2025-07-03 |  |
 | [Ocean of Light](https://open.spotify.com/track/37rxIU1EfqWACpbCplsiX1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 2:39 | 2025-09-19 |  |

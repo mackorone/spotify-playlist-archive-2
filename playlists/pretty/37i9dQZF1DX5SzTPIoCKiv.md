@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent hits from your favorite Christian Contemporary artists\.  Cover: Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,669 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,822 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 49 | [Jericho](https://open.spotify.com/track/5pTpq4JWJHkZtcO2BjBN4V) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Jericho](https://open.spotify.com/album/0WXK1Cn2WFzxoPv1USlIbR) | 3:23 |
 | 50 | [My Hope Is Jesus](https://open.spotify.com/track/3Wqc6im6bBdgm1ppqPKRbr) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [My Hope Is Jesus](https://open.spotify.com/album/0suKwr6W4OBe14hvXCTFpS) | 4:02 |
 
-Snapshot ID: `AAAAAKffLFJ8rRg+Q8eCgtfOIsKtv+Ya`
+Snapshot ID: `AAAAAFyGV/QQVScvVjAoeCLFdXacPuuk`

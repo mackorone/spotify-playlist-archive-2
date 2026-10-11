@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2026 \(previous playlists archived on my profile\)
 
-1,097 songs - 2 day 19 hr 2 min
+1,098 songs - 2 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [All Day Long](https://open.spotify.com/track/7dAuc6UOo9aMhT6A6n2iXg) | [Shop Assistants](https://open.spotify.com/artist/3uHLyTtYMnhAWxfPy6VjNm) | [Will Anything Happen](https://open.spotify.com/album/6wtQQXsd3wIKyGhwIfGpE9) | 1:50 | 2025-04-13 | 2025-05-09 |
 | [All I Want for Now](https://open.spotify.com/track/78xtCgOIMJxAsW2HCz5Oh3) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Dizzy Strange Summer](https://open.spotify.com/album/2Zkl4c8OsEeJWEKyCeKQCv) | 2:48 | 2024-01-24 | 2024-03-10 |
 | [All the Same](https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc) | [Jessamine](https://open.spotify.com/artist/25X66pFr8eorCjpasQ2biG) | [The Long Arm of Coincidence](https://open.spotify.com/album/4BajPb9IW0qmQh2uM5pXDZ) | 6:39 | 2024-11-25 | 2025-01-12 |
+| [All the Way](https://open.spotify.com/track/5GWthZwP4OaR7nR80CxNlG) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Amateur](https://open.spotify.com/album/4Jna0PC7dXubuBNNeJtbAA) | 3:09 | 2026-10-11 |  |
 | [All To You](https://open.spotify.com/track/6QsOupxzmw6Ao2PzX5MVVF) | [Ellen McIlwaine](https://open.spotify.com/artist/4YSDDaE2O3teRp9ZPR9DUc) | [We The People](https://open.spotify.com/album/48ZQUb3tHat3E45x3O2znt) | 3:05 | 2026-01-08 | 2026-03-13 |
 | [Alligator Man](https://open.spotify.com/track/6niBxbmgWaDlTBBtXXDb3M) | [Charlie Megira](https://open.spotify.com/artist/45OTuDcvTBxpqMEJZiK4FI), [The Bet She' an Valley Hillbillies](https://open.spotify.com/artist/7GG6yOLAq2ngbdYhCPw0Fk) | [Tomorrow's Gone](https://open.spotify.com/album/4bx5EYBQ62CDkBd3NcszeH) | 3:17 | 2025-12-24 | 2026-01-15 |
 | [Almost Sleeping \- Edit](https://open.spotify.com/track/0wmL7X2D8eUb99yNFjdqgs) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Almost Sleeping](https://open.spotify.com/album/6MQmfI8qfBUgtk9t16unvy) | 3:48 | 2025-07-27 | 2025-09-11 |

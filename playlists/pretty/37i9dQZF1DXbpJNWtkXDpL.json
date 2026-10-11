@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm y Zenei",
-  "num_followers": 93989,
+  "num_followers": 93994,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
+        "name": "ETHEREA",
+        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 224416,
+      "name": "Encu\u00e9ntrame en Tokio",
+      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
         "name": "Uno Pal Otro",
         "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 203276,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "ETHEREA",
-        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 224416,
-      "name": "Encu\u00e9ntrame en Tokio",
-      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
-      },
-      "artists": [
-        {
-          "name": "VV Brujo",
-          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 147586,
-      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "CAMINO",
         "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
       },
@@ -1031,42 +1011,6 @@
       "duration_ms": 184832,
       "name": "CAMINO",
       "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "Manuel (Ojal\u00e1 que nunca escuches este disco)",
-        "url": "https://open.spotify.com/album/2V2m6U5rE9O6zVhWJW8rVm"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 125449,
-      "name": "El alma de la fiesta",
-      "url": "https://open.spotify.com/track/512TbNoyJjDVaCfid6NYh3"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "DIAS LLUVIOSOS",
-        "url": "https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz"
-      },
-      "artists": [
-        {
-          "name": "Jas Marty",
-          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
-        },
-        {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "DIAS LLUVIOSOS",
-      "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -1091,6 +1035,42 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
+        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "Manuel (Ojal\u00e1 que nunca escuches este disco)",
+        "url": "https://open.spotify.com/album/2V2m6U5rE9O6zVhWJW8rVm"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 125449,
+      "name": "El alma de la fiesta",
+      "url": "https://open.spotify.com/track/512TbNoyJjDVaCfid6NYh3"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
         "name": "Cereza",
         "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 198150,
       "name": "Cereza",
       "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "DIAS LLUVIOSOS",
+        "url": "https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz"
+      },
+      "artists": [
+        {
+          "name": "Jas Marty",
+          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "DIAS LLUVIOSOS",
+      "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "ati!",
-        "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
-      },
-      "artists": [
-        {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "ati!",
-      "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "Flash",
         "url": "https://open.spotify.com/album/4PxYN3bvj1bzI8yldB8X0d"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 167892,
       "name": "Flash",
       "url": "https://open.spotify.com/track/4qMjLFddlhMDlSsjhoxvrx"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "ati!",
+        "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "ati!",
+      "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
-        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
-      },
-      "artists": [
-        {
-          "name": "Gloory Hole",
-          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "CADENAS",
-      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "La Culpable",
         "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 237005,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
+        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "CADENAS",
+      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
     },
     {
       "added_at": "2026-09-18 06:00:22",

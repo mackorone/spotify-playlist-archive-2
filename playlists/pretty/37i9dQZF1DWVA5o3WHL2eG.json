@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: LIA LIA",
-  "num_followers": 51626,
+  "num_followers": 51665,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Modern Dreaming",
-        "url": "https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 173659,
-      "name": "Modern Dreaming",
-      "url": "https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "Enter Ecstasy",
         "url": "https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 180419,
       "name": "Leiser",
       "url": "https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Modern Dreaming",
+        "url": "https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 173659,
+      "name": "Modern Dreaming",
+      "url": "https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Ich versteh es jetzt",
-        "url": "https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr"
-      },
-      "artists": [
-        {
-          "name": "Domiziana",
-          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
-        }
-      ],
-      "duration_ms": 155742,
-      "name": "Ich versteh es jetzt",
-      "url": "https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "ich f\u00fchle was, was du nicht siehst",
         "url": "https://open.spotify.com/album/0mdC0loh3n4GEkBl2wCi8W"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 177106,
       "name": "ich f\u00fchle was, was du nicht siehst",
       "url": "https://open.spotify.com/track/0ZScxPE2OcZtD60S5h3yBk"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Ich versteh es jetzt",
+        "url": "https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "Ich versteh es jetzt",
+      "url": "https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -447,34 +447,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "AMG",
-        "url": "https://open.spotify.com/album/6j1LFvHglLSVGl8TTyzlfo"
-      },
-      "artists": [
-        {
-          "name": "Drei Geile Chayas",
-          "url": "https://open.spotify.com/artist/17wFC9W0Gg4SQu02LbdDq9"
-        },
-        {
-          "name": "Marisabelle",
-          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
-        },
-        {
-          "name": "arella",
-          "url": "https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd"
-        },
-        {
-          "name": "REEZA",
-          "url": "https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e"
-        }
-      ],
-      "duration_ms": 170704,
-      "name": "AMG",
-      "url": "https://open.spotify.com/track/4xgcD58eqn1D51v9ETd2XE"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/1f1cgIxZCWi855mvJUDkcv"
       },
@@ -503,6 +475,34 @@
       "duration_ms": 156050,
       "name": "Ich und Ich Selbst",
       "url": "https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/6j1LFvHglLSVGl8TTyzlfo"
+      },
+      "artists": [
+        {
+          "name": "Drei Geile Chayas",
+          "url": "https://open.spotify.com/artist/17wFC9W0Gg4SQu02LbdDq9"
+        },
+        {
+          "name": "Marisabelle",
+          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
+        },
+        {
+          "name": "arella",
+          "url": "https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd"
+        },
+        {
+          "name": "REEZA",
+          "url": "https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e"
+        }
+      ],
+      "duration_ms": 170704,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/4xgcD58eqn1D51v9ETd2XE"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
+        "name": "crocodile tears",
+        "url": "https://open.spotify.com/album/34EWrOMyFRJWTiP3BRtV6o"
+      },
+      "artists": [
+        {
+          "name": "piya",
+          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
+        }
+      ],
+      "duration_ms": 170987,
+      "name": "crocodile tears",
+      "url": "https://open.spotify.com/track/7KLVwQ5aDg5V2SI6cknRrn"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
         "name": "nebelschwadengrau",
         "url": "https://open.spotify.com/album/4dfRHYoDIZuCZ5nYfYhbSu"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 294777,
       "name": "be something",
       "url": "https://open.spotify.com/track/5uv6ABamjf6Xzjc5Kb2Z3W"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
-        "name": "crocodile tears",
-        "url": "https://open.spotify.com/album/34EWrOMyFRJWTiP3BRtV6o"
-      },
-      "artists": [
-        {
-          "name": "piya",
-          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
-        }
-      ],
-      "duration_ms": 170987,
-      "name": "crocodile tears",
-      "url": "https://open.spotify.com/track/7KLVwQ5aDg5V2SI6cknRrn"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Kippe danach",
-        "url": "https://open.spotify.com/album/5jhQj3mNO5bCkGpwMm9GjV"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9lia",
-          "url": "https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa"
-        }
-      ],
-      "duration_ms": 156506,
-      "name": "Kippe danach",
-      "url": "https://open.spotify.com/track/1Qibw04eDR9tZu8rwDBU5U"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "What I Need",
         "url": "https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 218949,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Kippe danach",
+        "url": "https://open.spotify.com/album/5jhQj3mNO5bCkGpwMm9GjV"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lia",
+          "url": "https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa"
+        }
+      ],
+      "duration_ms": 156506,
+      "name": "Kippe danach",
+      "url": "https://open.spotify.com/track/1Qibw04eDR9tZu8rwDBU5U"
     },
     {
       "added_at": "2026-10-07 22:00:17",

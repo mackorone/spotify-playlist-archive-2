@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,081 likes - 61 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,090 likes - 61 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 5 | [Moment](https://open.spotify.com/track/1BqxSsZ3ZcA2UJMvLkSOXw) | [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL), [Deija](https://open.spotify.com/artist/6V8OeO3acZYb6YvSEahsRu) | [Moment](https://open.spotify.com/album/38x5vDdA3GtJQY91vhrjPf) | 3:09 |
 | 6 | [Love Is The Dance \- Ivory Remix](https://open.spotify.com/track/6vyUWwycrsoI92u0R5Rdyb) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Love Is The Dance \(Ivory Remix\)](https://open.spotify.com/album/14cMUHRLUVpMGyBtp887Sc) | 5:36 |
 | 7 | [Beaton](https://open.spotify.com/track/2CKUK0pzKhsmvKGtqVx6mt) | [DiSKOP](https://open.spotify.com/artist/3UUqMSwpudobpQeEq5ktVL) | [Disk 11](https://open.spotify.com/album/75NUwm4wMqnaOY64TmUJSY) | 8:42 |
-| 8 | [Delakufa](https://open.spotify.com/track/6Ipr0DdH8VnsxjlBEmbFcB) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/20aEmw9ZXPhddycV490ObL) | 3:26 |
+| 8 | [Delakufa](https://open.spotify.com/track/6Ipr0DdH8VnsxjlBEmbFcB) | [jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/20aEmw9ZXPhddycV490ObL) | 3:26 |
 | 9 | [Adieu](https://open.spotify.com/track/53Us5C3wTQ2zi6ODWhmHMN) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Adieu](https://open.spotify.com/album/1XPsZ3AN62aI2zxNLx1fe0) | 6:53 |
 | 10 | [Flying Away with You](https://open.spotify.com/track/0GxkWCaowNJxbaCdrcAPFe) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Flying Away with You](https://open.spotify.com/album/1FiNUDXtRm9FOOtWDhvCRv) | 4:09 |
 | 11 | [Alf Youm](https://open.spotify.com/track/68JJodRKWQFPDgJhrlK9UW) | [ReiRei](https://open.spotify.com/artist/5kzMvGnNDZLNTaoblscITp), [Minoas Cirillo](https://open.spotify.com/artist/4IpuSb0XIF8XEhLfJwurs6) | [Cairo](https://open.spotify.com/album/3mEXcid5SpglmqKyhDIeuT) | 5:37 |

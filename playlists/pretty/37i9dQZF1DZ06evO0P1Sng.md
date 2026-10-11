@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,187 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,188 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [São Gonçalo](https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 2:52 |
 | 50 | [Poesia Acústica \#11: Nada Mudou \- Ao Vivo no REP Festival](https://open.spotify.com/track/1KL1zF41NMIFaqiq9tBZOs) | [REP Festival](https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Azzy \(Ao Vivo no REP Festival\)](https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx) | 1:46 |
 
-Snapshot ID: `asbdAAAAAADmtnWqg+7uFu1FO6x6DLlC`
+Snapshot ID: `asgugAAAAABdda0usKHYMdFlx9HCGJhD`

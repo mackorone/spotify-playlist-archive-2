@@ -261,6 +261,28 @@
     },
     {
       "album": {
+        "name": "Owari",
+        "url": "https://open.spotify.com/album/2D3a0mdI5nvHelF8vWL1Lj"
+      },
+      "artists": [
+        {
+          "name": "Nashimoto Ui",
+          "url": "https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "AaAaAaAAaAaAAa (feat. HATSUNE MIKU)",
+      "url": "https://open.spotify.com/track/4NN46C9Wznv1vVWqFhE9wn"
+    },
+    {
+      "album": {
         "name": "Absolute Territory",
         "url": "https://open.spotify.com/album/2N8HOZgX1QWpighqf7Tvo7"
       },
@@ -6556,7 +6578,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 212533,
       "name": "What A Strange Child",
       "url": "https://open.spotify.com/track/41qCOY36xnyCxjLI1oAckJ"
@@ -10724,6 +10746,28 @@
       "duration_ms": 287085,
       "name": "\uc694\ub2e8\uac15",
       "url": "https://open.spotify.com/track/5iHc6qrkJAm8LNoQuuSAlL"
+    },
+    {
+      "album": {
+        "name": "Zinnia (2016-2018 Collection Vol.01)",
+        "url": "https://open.spotify.com/album/77qDP4NFpjc763QSvxNAqF"
+      },
+      "artists": [
+        {
+          "name": "WyvernP",
+          "url": "https://open.spotify.com/artist/2Iw5m7MkqPhLpQxdx0SVmn"
+        },
+        {
+          "name": "\uc720\ub2c8",
+          "url": "https://open.spotify.com/artist/3bFS3jV2rAepYVOuft1iDP"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201031,
+      "name": "\uc800\uaca9\uc218 \uc778\ud615",
+      "url": "https://open.spotify.com/track/5B1us6jlfXwpqhEZRa8s4P"
     },
     {
       "album": {

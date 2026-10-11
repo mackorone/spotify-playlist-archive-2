@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,885 songs - 7 day 9 hr 51 min
+2,887 songs - 7 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Fine Days](https://open.spotify.com/track/7IvySywtSMnhPm2pDPIDfj) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fine Days](https://open.spotify.com/album/5G2H3tBsXRon4X7ska2MwG) | 3:40 | 2022-11-02 | 2022-12-07 |
 | [Fire and Fear](https://open.spotify.com/track/4u5RFaxm6oUbudUouNM2Ep) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [Fire and Fear](https://open.spotify.com/album/2XYnZ0eWdUVEUgAAqPoFZO) | 3:48 | 2024-07-07 | 2024-10-09 |
 | [Fireheart](https://open.spotify.com/track/2tEQ2BZD6wLfjMv3DZHIuW) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Ten to Bluer](https://open.spotify.com/album/4GVzIbLOk18eKJljkDHNO7) | 4:05 | 2024-03-26 | 2024-05-29 |
+| [Firestarter](https://open.spotify.com/track/5JpHfVIJG0XEJjUhnKeyhb) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Firestarter](https://open.spotify.com/album/5onmf5T1bbZColPNDmTiwI) | 3:53 | 2026-10-10 |  |
 | [Firetail](https://open.spotify.com/track/4VocvAYtw3Vad3Fx0YH3p4) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [Firetail](https://open.spotify.com/album/4jSlDDk2biX9KdhQRceKH6) | 3:35 | 2026-06-30 | 2026-10-02 |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-11-29 | 2023-01-13 |
 | [First Flush](https://open.spotify.com/track/0zqwnCW7oIgDuAaknwhL3l) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [First Flush](https://open.spotify.com/album/2JIOGj9OCAItimsbrAO9ai) | 4:36 | 2026-01-15 | 2026-01-23 |
@@ -459,7 +460,7 @@
 | [Fly Higher](https://open.spotify.com/track/677LgZoTudjik89LdA3PxT) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Crazy Crazy / Fly Higher](https://open.spotify.com/album/64thyWJFmAQVIGBDicbijf) | 3:18 | 2024-10-22 | 2024-12-11 |
 | [Follow You!](https://open.spotify.com/track/6Vz2wRCUC46AFLKcsOctWr) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Follow You!](https://open.spotify.com/album/6TXA4m00EeLl10QlKW0PZP) | 3:40 | 2023-05-30 | 2023-07-07 |
 | [Follow your arrows](https://open.spotify.com/track/21oF2n3RXx9pUkXC5q1VYz) | [SSGIRLS（歌：笹倉かな）](https://open.spotify.com/artist/5PdAtSCSED44ZWs9eNxUOj) | [Follow your arrows](https://open.spotify.com/album/6p1d06FpoPwDGlCfO28aT1) | 3:41 | 2024-04-16 | 2024-04-24 |
-| [Foreshadow](https://open.spotify.com/track/0d2mnuL0AzrgxD4JzjtkaQ) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [Foreshadow](https://open.spotify.com/album/12iu5HL04LV8YIwarN194H) | 3:53 | 2026-07-09 |  |
+| [Foreshadow](https://open.spotify.com/track/0d2mnuL0AzrgxD4JzjtkaQ) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [Foreshadow](https://open.spotify.com/album/12iu5HL04LV8YIwarN194H) | 3:53 | 2026-07-09 | 2026-10-11 |
 | [Fortress Defense](https://open.spotify.com/track/0MVKlIHanWrSMgwtsI7WMS) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [Fortress Defense](https://open.spotify.com/album/5NVQVCeD7ZycmmUFlUZZf9) | 3:23 | 2026-10-06 |  |
 | [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 | 2024-01-23 | 2024-05-21 |
 | [Freestyle Lover](https://open.spotify.com/track/2QwawnZ9rdnGhXWd7jJDIx) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [DETONATOR](https://open.spotify.com/album/3Ii5xT9Sreevb2z0eun83F) | 3:44 | 2023-11-07 | 2023-11-16 |
@@ -1165,6 +1166,7 @@
 | [Rivals and Equals](https://open.spotify.com/track/1pUcAjkI2SDa81ky3g7bAD) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Rivals and Equals](https://open.spotify.com/album/1DZRcae6Y7l75XoPqj0eYh) | 2:31 | 2026-01-22 | 2026-03-11 |
 | [Rivals!](https://open.spotify.com/track/4otyBXYhh2gmvZ8mStOIUn) | [ヒプノシスマイク \-D.R.B\- \(有栖川帝統\)](https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht), [ヒプノシスマイク \-D.R.B\- \(観音坂独歩\)](https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 3:18 | 2023-08-22 | 2023-09-27 |
 | [River](https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/5sCPmMx3ctNJX7D68kY3A4) | 3:17 | 2023-01-17 | 2023-04-19 |
+| [ROAD TO BE BLUE](https://open.spotify.com/track/34oBojc7HUtWbMAvn19tAZ) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [ROAD TO BE BLUE](https://open.spotify.com/album/66KRk4xiJcpi3lAnniY9IK) | 3:52 | 2026-10-10 |  |
 | [ROAR](https://open.spotify.com/track/6uivVGH9afiQOD9AbZatrq) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [ROAR](https://open.spotify.com/album/09wcj80hhbm5MghpXgZmtn) | 3:23 | 2023-10-03 | 2023-10-11 |
 | [Rock 'n' Roll !!](https://open.spotify.com/track/0XvZCQLaZvv6QWw56TUwFW) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [TREASURE!](https://open.spotify.com/album/2ejsgAjuBf0hC7PdM4l20x) | 3:35 | 2025-01-28 | 2025-02-14 |
 | [ROCKETEEERS feat\. MICRO](https://open.spotify.com/track/0mfnrU3jD0G7fvCFWlgpsa) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [Micro](https://open.spotify.com/artist/5YgjUcPpadiQTJvck01mE5) | [Before Anyone Else](https://open.spotify.com/album/5SjQDg7O32K7sWnnmQhU0S) | 3:00 | 2024-06-25 | 2024-07-06 |
@@ -2480,7 +2482,7 @@
 | [当事者](https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [当事者](https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn) | 4:01 | 2023-04-18 | 2023-07-12 |
 | [彩られた理想へ](https://open.spotify.com/track/6TQMRuXjVPv6KpNAfqfxvW) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [彩られた理想へ](https://open.spotify.com/album/0IsE5AnEzKYBXsHiSP3wnt) | 4:03 | 2024-08-13 | 2024-10-09 |
 | [影響力∞アイドル](https://open.spotify.com/track/1jkaOiAQmqaI0NvTtR9W0H) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [影響力∞アイドル](https://open.spotify.com/album/3ukdyEcYRG6rKz9SkeXxJi) | 3:26 | 2026-10-06 |  |
-| [彼方](https://open.spotify.com/track/2XxE57jv7wFNmJ9FuaDKaT) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [彼方](https://open.spotify.com/album/3wHbN0ndkziKqj3epXmvEJ) | 5:29 | 2026-09-01 |  |
+| [彼方](https://open.spotify.com/track/2XxE57jv7wFNmJ9FuaDKaT) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [彼方](https://open.spotify.com/album/3wHbN0ndkziKqj3epXmvEJ) | 5:29 | 2026-09-01 | 2026-10-11 |
 | [微熱魔](https://open.spotify.com/track/7guT1V4QGvfUafWOX8NiYI) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [微熱魔](https://open.spotify.com/album/79tn2ImqRFgvcJtLlOtdl2) | 3:36 | 2025-04-18 | 2025-07-09 |
 | [心星](https://open.spotify.com/track/7dPbXBrAPzVDuUYnaqEvy6) | [Ikusaburo Yamazaki](https://open.spotify.com/artist/6Gb2Ypn3fY7iNn9aHQDu85) | [心星](https://open.spotify.com/album/63DC5rhVVRWZwnGbTSVtyy) | 4:30 | 2026-06-23 | 2026-07-11 |
 | [心臓](https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:34 | 2022-10-18 | 2023-01-11 |

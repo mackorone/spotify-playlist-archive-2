@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 357 likes - 2,735 songs - 6 day 15 hr 24 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 357 likes - 2,741 songs - 6 day 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2743,5 +2743,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2733 | [Espiritual Dub](https://open.spotify.com/track/4LSJQ9VtyMb2Io6JMDVDxN) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [Zoonra](https://open.spotify.com/artist/4QOkHLv4zUND1r3PC0TLVh) | [Colombian Landscapes](https://open.spotify.com/album/7I3zRLDboF5ZILrNA9rims) | 2:51 |
 | 2734 | [Colombian Landscapes](https://open.spotify.com/track/55xy6AmYZKo3aEF7xwol5g) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [Zoonra](https://open.spotify.com/artist/4QOkHLv4zUND1r3PC0TLVh) | [Colombian Landscapes](https://open.spotify.com/album/7I3zRLDboF5ZILrNA9rims) | 3:47 |
 | 2735 | [Let The Sky \- Extended Mix](https://open.spotify.com/track/51lsgNmxCynPK7nn4sk9zp) | [Big Reunion](https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls) | [Let The Sky](https://open.spotify.com/album/1u1MDV1JJvZ1vsqnNctOmk) | 3:00 |
+| 2736 | [Bad times](https://open.spotify.com/track/74KldjcC4k4v4WDcIURurj) | [Saes](https://open.spotify.com/artist/3F2WIaenzW5MGMMdS0wLMK) | [Bad times](https://open.spotify.com/album/7ehdY0FpyZDCs4cUYraEPJ) | 1:39 |
+| 2737 | [PERMISSION](https://open.spotify.com/track/4G3tM0hcjCn3Ajx6V9TD25) | [Cénise](https://open.spotify.com/artist/6NbRussUO5FymRoxibmynR) | [PERMISSION](https://open.spotify.com/album/2NWfu6TsLIJv1Vhxv7elvV) | 3:24 |
+| 2738 | [Born Of A Dream](https://open.spotify.com/track/4pbPIGHX5wcgALa1XYoPzW) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Born Of A Dream](https://open.spotify.com/album/58qzzZxmjTrht1q7fomzZa) | 4:49 |
+| 2739 | [Midnight Rain Memories](https://open.spotify.com/track/03iJkNfAoB0zr5pBZxl1Mi) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Midnight Rain Memories](https://open.spotify.com/album/4Aj1gfLDaIKBGb4uPx5Cqa) | 2:46 |
+| 2740 | [Alone in December](https://open.spotify.com/track/46EnMxmiepQ2RtZvjFFet8) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Alone in December](https://open.spotify.com/album/60lSdW7y6So3soJqh71IKW) | 2:23 |
+| 2741 | [The Frame](https://open.spotify.com/track/2n8swjsvLVGr9g4kGq285Q) | [Hasamura](https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG) | [Timewave](https://open.spotify.com/album/0Uwi3TbDhS0BdFe3S0hsnb) | 4:43 |
 
-Snapshot ID: `AAALuFB1JEzBE7LqRc7liTBgSRThCXjS`
+Snapshot ID: `AAALvgJwZR10f3FXJ6rX3oR6cpqLv9wO`

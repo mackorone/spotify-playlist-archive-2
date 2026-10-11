@@ -4,7 +4,7 @@
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 12 min
+110 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blood](https://open.spotify.com/track/3E1q57YmMqnpdcRu9ASuly) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:28 | 2025-06-08 | 2025-06-10 |
 | [Boss](https://open.spotify.com/track/1TNLYKpEPZ0g6jQq34pDcU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 3:05 | 2022-10-28 | 2022-11-17 |
 | [Boss](https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:05 | 2022-11-16 |  |
+| [Carnage \(feat\. Little Simz\)](https://open.spotify.com/track/2DNHy7NQNQO40EkGlrgtkY) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Generic Everything](https://open.spotify.com/album/2cu3mSocMVwnSnV9Ge69Do) | 3:08 | 2026-10-11 |  |
 | [Cuckoo \(feat\. Little Simz\)](https://open.spotify.com/track/7GIkNL7cGq9JBjtUcD5M28) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Cuckoo](https://open.spotify.com/album/5n7NB4rs9T7dYKlsUZkSgl) | 4:12 | 2022-10-28 | 2022-12-14 |
 | [damn right](https://open.spotify.com/track/12sdOBTZdgxRalR74VwABF) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:00 | 2022-10-28 | 2022-12-14 |
 | [damn right](https://open.spotify.com/track/3Q1HNg15qwjOlDy5ia1NJc) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:00 | 2022-12-16 | 2024-11-15 |

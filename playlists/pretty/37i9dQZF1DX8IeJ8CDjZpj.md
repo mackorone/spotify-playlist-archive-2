@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > boot cut, extra heavy el almidón y el sombrero que no falte\. Kacey Musgraves, Intocable en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,210 likes - 119 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,194 likes - 119 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

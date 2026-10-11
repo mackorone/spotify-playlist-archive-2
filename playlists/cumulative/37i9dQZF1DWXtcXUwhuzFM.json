@@ -246167,6 +246167,24 @@
     },
     {
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/3mPvwPbhGvhmR871rxk2K5"
+      },
+      "artists": [
+        {
+          "name": "Stella Lind",
+          "url": "https://open.spotify.com/artist/1KFUPUwdHorL5Xbi5SUH99"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2z6uro3rAXfwhuCmGgHYPh"
+    },
+    {
+      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/63L2QBBcKtrQHBEcLDKhRt"
       },

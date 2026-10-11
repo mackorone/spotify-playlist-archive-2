@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 286645,
+  "num_followers": 286723,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Ni Una Ni Dos",
-        "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 158535,
-      "name": "Ni Una Ni Dos",
-      "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 202440,
       "name": "D\u00edganle",
       "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
+        "name": "Ni Una Ni Dos",
+        "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 158535,
+      "name": "Ni Una Ni Dos",
+      "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        }
-      ],
-      "duration_ms": 164949,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
         "name": "Promet\u00ed",
         "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 164949,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
         "name": "T\u00fa, la m\u00e1s bella (En Vivo)",
         "url": "https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 149420,
       "name": "T\u00fa, la m\u00e1s bella - En Vivo",
       "url": "https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/44Im9L48gDJRpn5Vtp6usG"
-      },
-      "artists": [
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 173543,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2dAvBG6fcCrGlRjsGDj5wL"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/44Im9L48gDJRpn5Vtp6usG"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 173543,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dAvBG6fcCrGlRjsGDj5wL"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
         "name": "Si Te Agarran Las Ganas",
         "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
       },
@@ -1631,22 +1631,6 @@
       "duration_ms": 239418,
       "name": "Si Te Agarran Las Ganas",
       "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
-        "name": "20 LABIOS",
-        "url": "https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 205176,
-      "name": "20 Labios",
-      "url": "https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
-        "url": "https://open.spotify.com/album/6sdJVuMEJlJOWP7rrLISiQ"
+        "name": "20 LABIOS",
+        "url": "https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0"
       },
       "artists": [
         {
-          "name": "Sentimiento Urbano",
-          "url": "https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         }
       ],
-      "duration_ms": 341607,
-      "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
-      "url": "https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC"
+      "duration_ms": 205176,
+      "name": "20 Labios",
+      "url": "https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1703,6 +1687,22 @@
       "duration_ms": 186352,
       "name": "Pero No Puedo Vol.2",
       "url": "https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
+        "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
+        "url": "https://open.spotify.com/album/6sdJVuMEJlJOWP7rrLISiQ"
+      },
+      "artists": [
+        {
+          "name": "Sentimiento Urbano",
+          "url": "https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx"
+        }
+      ],
+      "duration_ms": 341607,
+      "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
+      "url": "https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Anochecemos",
-        "url": "https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 204145,
-      "name": "Anochecemos",
-      "url": "https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
         "name": "Decepci\u00f3n",
         "url": "https://open.spotify.com/album/7IvG7x15PsegRQ5DOUOVm3"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 146878,
       "name": "Decepci\u00f3n",
       "url": "https://open.spotify.com/track/1Hmyi5GKWxEaatdqlBd2ms"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
+        "name": "Anochecemos",
+        "url": "https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 204145,
+      "name": "Anochecemos",
+      "url": "https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu"
     },
     {
       "added_at": "2026-09-25 15:00:19",

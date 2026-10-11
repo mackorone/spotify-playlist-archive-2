@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 森七菜
 
-3,903 songs - 10 day 8 hr 19 min
+3,904 songs - 10 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1343,7 +1343,7 @@
 | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx) | 3:13 | 2023-05-30 | 2023-06-21 |
 | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/track/4DAGg2adRd1PuKrnoUZXOP) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/album/4zDzYgnFLtpLj9Zo2I6zNi) | 3:13 | 2023-05-30 | 2023-06-01 |
 | [New Style](https://open.spotify.com/track/3rlM9fqXIbkKwmJtfFpHyH) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [New Style](https://open.spotify.com/album/4mx79mEF8LR3zhBj3PBqws) | 2:25 | 2025-04-22 | 2025-05-07 |
-| [New Walk](https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [New Walk](https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC) | 4:00 | 2026-04-07 |  |
+| [New Walk](https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [New Walk](https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC) | 4:00 | 2026-04-07 | 2026-10-11 |
 | [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 | 2024-09-10 | 2024-10-09 |
 | [next to you](https://open.spotify.com/track/6WbvNRYhuoPUhirkOfFs01) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [映画「ファーストキス 1ST KISS」オリジナル・サウンドトラック](https://open.spotify.com/album/42V77gbzgpOgJtV4PCtpSj) | 3:54 | 2025-02-11 | 2025-02-19 |
 | [next to your love](https://open.spotify.com/track/54sJZZKIRSm2W16Rtz8ClK) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [next to your love](https://open.spotify.com/album/30Js1gDDvy8YvoRDto8Gp4) | 3:56 | 2026-08-04 |  |
@@ -3681,6 +3681,7 @@
 | [素敵をあつめて](https://open.spotify.com/track/3bCcSJfept6uoueVUOjp3p) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [素敵をあつめて](https://open.spotify.com/album/1vV2k47i94X17l7TQLJuAl) | 3:54 | 2023-08-01 | 2023-08-03 |
 | [素晴らしい人生](https://open.spotify.com/track/6afAPgR7sEBUUYpiqKfMNO) | [lecca](https://open.spotify.com/artist/0IeQisXdixzRUBpYSxQJDu) | [素晴らしい人生](https://open.spotify.com/album/61LhRjIvHZjW5XqZX4pJwF) | 3:54 | 2023-06-13 | 2023-06-21 |
 | [素直](https://open.spotify.com/track/5QLvE8IhvVWnDet6lF1Nnw) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [素直](https://open.spotify.com/album/7d9z7Otels1oG91ZVIukAp) | 3:46 | 2024-01-16 | 2024-01-31 |
+| [素直未満](https://open.spotify.com/track/3UFWG309DWKp4S249wxysd) | [ふみの](https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx) | [素直未満](https://open.spotify.com/album/4a7uDfBpgOkxIB4LfZuhkj) | 3:40 | 2026-10-06 |  |
 | [素肌](https://open.spotify.com/track/7jHdLROWUWdAuKcLSOm7kM) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [素肌](https://open.spotify.com/album/7HAOBgOYaEt2ixPJfjuTdc) | 5:05 | 2023-02-14 | 2023-02-22 |
 | [紡ぐ](https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [紡ぐ](https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ) | 3:51 | 2024-04-16 | 2024-12-05 |
 | [紺色に憧れて](https://open.spotify.com/track/0uNELWoVBRVsmeeGjNgGfc) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [紺色に憧れて](https://open.spotify.com/album/0pamS1zgtw84s4qocKynlk) | 4:02 | 2024-06-18 | 2024-08-07 |

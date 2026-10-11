@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-177 songs - 9 hr 54 min
+178 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Through It All](https://open.spotify.com/track/3Q4XeSw7WbWIYAzWl24LMx) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 2:50 | 2025-10-12 |  |
 | [Together at Christmas](https://open.spotify.com/track/4Y0KsTh7z3u5iCwFQUeR7L) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/4oYP3y50gnOTMe7l3jF3K9) | 3:37 | 2025-01-23 |  |
 | [Together at Christmas](https://open.spotify.com/track/6D4jcmHdZImJpF7dSQsOKq) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/0ZfBk0onUOJHhplkIxoM98) | 3:37 | 2024-03-01 | 2025-01-24 |
-| [Too Far Too Fast](https://open.spotify.com/track/7AjeT5L26HUrxYTPT4W4MI) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [For Those Who Know \(Deluxe\)](https://open.spotify.com/album/0fxgKBBV8CakW0ZSgLaHd3) | 3:28 | 2024-03-01 |  |
+| [Too Far Too Fast](https://open.spotify.com/track/0D1HD4dHM9emndUPA2HzG7) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Too Far Too Fast](https://open.spotify.com/album/1N5bnsNxUjfBa11J5Vnony) | 3:28 | 2026-10-10 |  |
+| [Too Far Too Fast](https://open.spotify.com/track/7AjeT5L26HUrxYTPT4W4MI) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [For Those Who Know \(Deluxe\)](https://open.spotify.com/album/0fxgKBBV8CakW0ZSgLaHd3) | 3:28 | 2024-03-01 | 2026-10-11 |
 | [Too Little Too Late](https://open.spotify.com/track/2H5YDS0csmS7gEuruC6LQt) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/2GJW4wI7cQ0BWkY24Fv5eZ) | 3:41 | 2025-05-31 |  |
 | [Too Little Too Late](https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:41 | 2024-03-01 | 2024-10-20 |
 | [Too Little Too Late](https://open.spotify.com/track/6BxGP8hwjuKKka0J7vvtEd) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/1hpKnksIsZKzFlfJa94SEF) | 3:41 | 2024-10-19 | 2025-06-01 |

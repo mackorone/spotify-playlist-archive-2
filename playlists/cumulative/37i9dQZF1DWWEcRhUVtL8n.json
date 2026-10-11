@@ -15467,6 +15467,24 @@
     },
     {
       "album": {
+        "name": "Fuck Without Feelings",
+        "url": "https://open.spotify.com/album/2krjzTsK934ywr7s3d693H"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208555,
+      "name": "Fuck Without Feelings",
+      "url": "https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks"
+    },
+    {
+      "album": {
         "name": "Fucking Married",
         "url": "https://open.spotify.com/album/0s4XjlVPKuGfZpnk9NRt2c"
       },
@@ -22824,7 +22842,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 194773,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m"
@@ -33080,6 +33098,24 @@
       "duration_ms": 148905,
       "name": "Probabilities",
       "url": "https://open.spotify.com/track/68SHPJk44d9gnbGKdvRcOo"
+    },
+    {
+      "album": {
+        "name": "Problem Child",
+        "url": "https://open.spotify.com/album/4wKgbBsCSTmLrQXhqvlqe1"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "Problem Child",
+      "url": "https://open.spotify.com/track/6jpiquknSI0v7bMTYwSaqx"
     },
     {
       "album": {
@@ -45956,7 +45992,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 206247,
       "name": "Wine",
       "url": "https://open.spotify.com/track/6Ht6IgAvwRHNUDFlwdYdMt"

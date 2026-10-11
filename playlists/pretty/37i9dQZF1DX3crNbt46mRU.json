@@ -1,6 +1,6 @@
 {
   "description": "This week's top new releases, including girl in red, Troye Sivan, Sido, Montez, Marlon Hoffstadt, David Guetta & many more!",
-  "num_followers": 54853,
+  "num_followers": 54847,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
@@ -784,12 +784,12 @@
       },
       "artists": [
         {
-          "name": "BHZ",
-          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
-        },
-        {
           "name": "Longus Mongus",
           "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
         }
       ],
       "duration_ms": 215956,

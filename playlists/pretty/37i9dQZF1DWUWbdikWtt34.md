@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Tasya DA7
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,257 likes - 110 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,262 likes - 110 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

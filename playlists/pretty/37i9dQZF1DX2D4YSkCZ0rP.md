@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Piche
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,140 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,143 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [14 en plein été](https://open.spotify.com/track/2ZmDe8pJKAimfJ1zULlRj3) | [Yann](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh) | [14 en plein été](https://open.spotify.com/album/77KYVzSuFzI5UnexJ2KqSA) | 3:13 |
 | 40 | [Poison](https://open.spotify.com/track/121YFyW8DmAZcMk3ax3PQA) | [Paloma](https://open.spotify.com/artist/0se892wuxZ6XIMUOEPewVb), [Elips](https://open.spotify.com/artist/2AIzKTzFPBh0VNaf87zG24) | [Château Intérieur](https://open.spotify.com/album/0l9T71EcM3Io83UFjIDBFQ) | 3:14 |
 
-Snapshot ID: `AAAAAGkKHUzUi0/7+bI7xJKsVJc5qWJ0`
+Snapshot ID: `AAAAALyOSZT8h6cUlHdFmdL4IT8ORsL5`

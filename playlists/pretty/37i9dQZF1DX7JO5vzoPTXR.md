@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by: <a href="https://artists.spotify.com/songwriter/34YzezAI3nKTv5PilX7qGn">Sasha Alex Sloan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,953 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,982 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Limoncello](https://open.spotify.com/track/1MzrmkSpQO3z0xBIWkh9s0) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:39 |
 | 50 | [to know you](https://open.spotify.com/track/4PewY42ebXnwFJPZ3CaxPu) | [Melissa Kadas](https://open.spotify.com/artist/3eOzCx1fs3vuE0K2R4x29C) | [to know you](https://open.spotify.com/album/6ANeh0U9ijUC8W32tIETrp) | 2:28 |
 
-Snapshot ID: `AAAAAFGEX1svDp0eqcUyN6EDE8eKKrr3`
+Snapshot ID: `AAAAAFgCziXSaQvnlD7ItP9x6+15keni`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,662,954 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,663,049 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 69 | [No One Like The Lord](https://open.spotify.com/track/63PS63EkeqYJMTN7AFh65j) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Lily Hooten](https://open.spotify.com/artist/5pgwHZ02bNDJPgPw6neVim) | [House Church Vol\. 001](https://open.spotify.com/album/2wsjghItFIaMTy5mR0LfvJ) | 5:30 |
 | 70 | [Hallowed Be Your Name](https://open.spotify.com/track/1KacGbIerk18ESTtdCniF9) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [The Chorus](https://open.spotify.com/album/6JThXMOkqvJ8BkF9kOLwbz) | 6:33 |
 | 71 | [Holy](https://open.spotify.com/track/7yb3aJG4qnzXy6PWkg3Dyt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Holy](https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD) | 6:20 |
-| 72 | [Promised Land](https://open.spotify.com/track/2IS9bxq9BqYmK5GdTA8yzB) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Tyler Roberts](https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0) | [Promised Land](https://open.spotify.com/album/4EPC0qdL5Yy7YwzRUNyavs) | 7:58 |
+| 72 | [Promised Land \- Live](https://open.spotify.com/track/2IS9bxq9BqYmK5GdTA8yzB) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Tyler Roberts](https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0) | [Promised Land](https://open.spotify.com/album/4EPC0qdL5Yy7YwzRUNyavs) | 7:58 |
 | 73 | [how it feels to live](https://open.spotify.com/track/2mAxlxo4HlDifY3Hthjtcy) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [how it feels to live](https://open.spotify.com/album/6nN9NFJkKi2auJb5IaDGqD) | 3:40 |
 | 74 | [Come On Home](https://open.spotify.com/track/6X3Aywe78vskLpwYKOqWyE) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [The Art Of Letting Go](https://open.spotify.com/album/49Od7jiemkTsoUkSTdU1py) | 4:27 |
 | 75 | [INFLUENCER$](https://open.spotify.com/track/7oTqtx0H1pivN32cEqMBNQ) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [COULD BE TONIGHT](https://open.spotify.com/album/0Ujfh65wzIk5dRJQ4pIiLf) | 3:20 |

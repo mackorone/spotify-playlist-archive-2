@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 387555,
+  "num_followers": 387621,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,18 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Eu e o Rei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
+        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
         }
       ],
-      "duration_ms": 337525,
-      "name": "Eu e o Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
+      "duration_ms": 443013,
+      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -287,18 +283,22 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
+        "name": "Eu e o Rei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
         }
       ],
-      "duration_ms": 443013,
-      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
+      "duration_ms": 337525,
+      "name": "Eu e o Rei - Ao Vivo",
+      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Teu Amor Por Mim",
-        "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
-      },
-      "artists": [
-        {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
-        }
-      ],
-      "duration_ms": 185969,
-      "name": "Teu Amor Por Mim",
-      "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Encaixe",
         "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 222607,
       "name": "Encaixe",
       "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Teu Amor Por Mim",
+        "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
+      },
+      "artists": [
+        {
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+        }
+      ],
+      "duration_ms": 185969,
+      "name": "Teu Amor Por Mim",
+      "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
     },
     {
       "added_at": "2026-08-10 15:32:09",

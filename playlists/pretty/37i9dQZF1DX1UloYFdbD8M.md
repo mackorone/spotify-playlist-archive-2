@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,878 likes - 79 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,883 likes - 79 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kaamini](https://open.spotify.com/track/7K8k99ltDPuwr3jok0O5AE) | [Ashley Milred](https://open.spotify.com/artist/0XtbBAgEHkxh36kqmHFXyA), [Farhash](https://open.spotify.com/artist/1ItD3Wb7aZHGyfgNaFU1zq), [Humanoid](https://open.spotify.com/artist/6X2NvHmUhgD7p4OC5wHV9b) | [Kaamini](https://open.spotify.com/album/0JPnXWwveo6vWkPG2H2nh9) | 3:06 |
 | 2 | [Ruhani](https://open.spotify.com/track/0TMOKvYLDqVx2TCMREEkjd) | [Nazeeb Billu](https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk), [Fathima Jahaan](https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6) | [Ruhani](https://open.spotify.com/album/6AbmjhcOTUzoXx9iMi9FUF) | 4:02 |
-| 3 | [Jeevana](https://open.spotify.com/track/7e76tfLZK1jI4ZjsRA6Bjp) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Swathy Manu](https://open.spotify.com/artist/3CH8QjibeHbkVF9fC7TnQX), [Vijin Cholakkal](https://open.spotify.com/artist/2WMJeAIHB2egsPOHpOTb9s) | [Jeevana](https://open.spotify.com/album/1ncwCLpCIkwqE8BQ6tz4WI) | 4:19 |
+| 3 | [Jeevana](https://open.spotify.com/track/7e76tfLZK1jI4ZjsRA6Bjp) | [Swathy Manu](https://open.spotify.com/artist/3CH8QjibeHbkVF9fC7TnQX), [Vijin Cholakkal](https://open.spotify.com/artist/2WMJeAIHB2egsPOHpOTb9s), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Shinitha Sijith](https://open.spotify.com/artist/1ZSLkRlthEnfnK09Be4sg3) | [Jeevana](https://open.spotify.com/album/1ncwCLpCIkwqE8BQ6tz4WI) | 4:19 |
 | 4 | [Airdrop](https://open.spotify.com/track/6HNtSPxwnkr10fwNuS4CEE) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [Arcado](https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq) | [Airdrop](https://open.spotify.com/album/4U58qPvJD52ielOEcWzRi2) | 3:02 |
 | 5 | [Nattamthiri](https://open.spotify.com/track/08EvZ9JF4jwBfqiu9i4750) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 3:37 |
 | 6 | [Pokam Dhoore](https://open.spotify.com/track/5y6lOZrsKbK16252lV6PY4) | [Ahad Ayyaril](https://open.spotify.com/artist/5UT8wC1cMQzw31BYrCPfad), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Divya Vineeth](https://open.spotify.com/artist/6Tbn00OQg5ZSjtvHOez29z), [Ajay Unnirajan](https://open.spotify.com/artist/4PFufLE4TnsX6J2cWqg6Up) | [Pokam Dhoore](https://open.spotify.com/album/3vW9R9rtBZ06paEb0qjFBl) | 4:14 |

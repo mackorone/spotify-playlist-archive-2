@@ -932,7 +932,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 150000,
       "name": "KUTMUZIEK",
       "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
@@ -1656,6 +1656,28 @@
       "duration_ms": 178604,
       "name": "Wonderful Days Reloaded",
       "url": "https://open.spotify.com/track/15CrTXlLEtKAtyNDVJeVzr"
+    },
+    {
+      "album": {
+        "name": "WORK!",
+        "url": "https://open.spotify.com/album/0qgkOLybvh0tiGxyEz0TX3"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "WORK!",
+      "url": "https://open.spotify.com/track/1PEnlGgCV27weSdrCubadg"
     },
     {
       "album": {

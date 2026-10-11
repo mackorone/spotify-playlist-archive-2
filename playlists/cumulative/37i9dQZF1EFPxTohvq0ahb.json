@@ -1762,6 +1762,24 @@
     {
       "album": {
         "name": "Full Frequency",
+        "url": "https://open.spotify.com/album/4gt3VqHO74tHXIArG7uzjL"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228346,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/19yVgqV8WeAgU7EQ29THdh"
+    },
+    {
+      "album": {
+        "name": "Full Frequency",
         "url": "https://open.spotify.com/album/4AYXhebGFYlUU4Fh0LLTIB"
       },
       "artists": [
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 228346,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/4efkPzvYnjnJeVHYlCErmS"

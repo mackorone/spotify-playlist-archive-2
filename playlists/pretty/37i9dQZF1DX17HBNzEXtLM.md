@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17HBNzEXtLM.md) - [plain]
 
 > A collection of music that inspired DIGGER, curated by Alejandro G\. Iñárritu\. Featuring songs from the film plus the original score.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494 likes - 54 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551 likes - 54 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17HBNzEXtLM.md) - [plain]
 | 53 | [Ifs, Possibles and Coulds](https://open.spotify.com/track/36sXc4J3zg2ijpjCsBh2mS) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Digger \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IuB2UZ4le2dBMroYF5L3U) | 1:01 |
 | 54 | [Avian Elegy \- Reprise](https://open.spotify.com/track/2Qj9pgTFnDJQB7LJVp2ziE) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Digger \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IuB2UZ4le2dBMroYF5L3U) | 1:06 |
 
-Snapshot ID: `AAAAAEH37q89GQc/fUVESZO5VdolNKbt`
+Snapshot ID: `AAAAANahcIvzc1h5NThjbk562gKLjisU`

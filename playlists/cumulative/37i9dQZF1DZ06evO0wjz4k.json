@@ -1327,6 +1327,28 @@
     },
     {
       "album": {
+        "name": "Tommy Jackson",
+        "url": "https://open.spotify.com/album/3uov1lpwET62tQjA1zl1yc"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305609,
+      "name": "Tommy Jackson",
+      "url": "https://open.spotify.com/track/4nlDfq6tduLEza742Awsbo"
+    },
+    {
+      "album": {
         "name": "Gold Chain Cowboy",
         "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },

@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "D4U (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0GXMun1k687PVQexQFpoAA"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160487,
+      "name": "D4U (Spotify Singles)",
+      "url": "https://open.spotify.com/track/5fakMMK21KeT6Wu5GpEX6t"
+    },
+    {
+      "album": {
         "name": "D4U - Spotify Singles",
         "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
       },
@@ -158,7 +176,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 160487,
       "name": "D4U - Spotify Singles",
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
@@ -220,6 +238,24 @@
     {
       "album": {
         "name": "Eve",
+        "url": "https://open.spotify.com/album/6BegTMIS4njwAMXbRX5aui"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163728,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/0xx52Xbs4MHTsaZZlPaVhT"
+    },
+    {
+      "album": {
+        "name": "Eve",
         "url": "https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5"
       },
       "artists": [
@@ -230,7 +266,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 163728,
       "name": "Eve",
       "url": "https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20"
@@ -480,6 +516,24 @@
     {
       "album": {
         "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113106,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/46a7o30ZuYAhX8LgralbbQ"
+    },
+    {
+      "album": {
+        "name": "Mirage",
         "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
       "artists": [
@@ -602,10 +656,28 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 128919,
       "name": "TMW",
       "url": "https://open.spotify.com/track/19Dhj2zNpcTX2mBYrxlkax"
+    },
+    {
+      "album": {
+        "name": "TMW",
+        "url": "https://open.spotify.com/album/5csnKY1yR98iMm91sEMw9y"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128920,
+      "name": "TMW",
+      "url": "https://open.spotify.com/track/0xNMqGEjgTdsjTYiGJdi8v"
     },
     {
       "album": {
@@ -656,7 +728,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 98000,
       "name": "When You Need Me",
       "url": "https://open.spotify.com/track/5843TGIiIISilnWgOM84vl"

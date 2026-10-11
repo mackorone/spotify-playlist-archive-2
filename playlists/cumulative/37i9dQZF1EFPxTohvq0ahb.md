@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 11 hr 4 min
+191 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [It Takes Two](https://open.spotify.com/track/2tEcSelkEtLtmCw19yVS5Y) | [Rob Base](https://open.spotify.com/artist/5YsrgTpxX1RoZHUtjdUMVo), [DJ E\-Z Rock](https://open.spotify.com/artist/6iyGhG9V0QqRfHH25jPdZv) | [Grand Theft Auto 8 CD Set \(Explicit Version\)](https://open.spotify.com/album/3hMYWO9KfMPGN4VMUlSjrc) | 4:45 | 2026-08-26 | 2026-08-28 |
 | [It Takes Two](https://open.spotify.com/track/0gFB5H3pHN13ERt2FyMuWi) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [It Takes Two](https://open.spotify.com/album/5tocCryeqWvFXn65seo0p6) | 5:00 | 2023-12-30 | 2026-08-19 |
 | [It Takes Two](https://open.spotify.com/track/55jQYM4ymxWGMaDT4B63Pf) | [The Lullabeats](https://open.spotify.com/artist/41izmYWIbbsEk6TvUMYshU) | [80's Hip\-Hop 4 Babies, Vol\. 1](https://open.spotify.com/album/4xZH6qGepDg9wUCvG8643S) | 2:22 | 2026-08-18 | 2026-09-01 |
-| [It's Your Life](https://open.spotify.com/track/4efkPzvYnjnJeVHYlCErmS) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Full Frequency](https://open.spotify.com/album/4AYXhebGFYlUU4Fh0LLTIB) | 3:48 | 2023-12-30 |  |
+| [It's Your Life](https://open.spotify.com/track/19yVgqV8WeAgU7EQ29THdh) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Full Frequency](https://open.spotify.com/album/4gt3VqHO74tHXIArG7uzjL) | 3:48 | 2026-10-10 |  |
+| [It's Your Life](https://open.spotify.com/track/4efkPzvYnjnJeVHYlCErmS) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Full Frequency](https://open.spotify.com/album/4AYXhebGFYlUU4Fh0LLTIB) | 3:48 | 2023-12-30 | 2026-10-11 |
 | [Judgements \(From "Songland"\)](https://open.spotify.com/track/2RLKK69LfFac9PUPLUGu32) | [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Judgements \(From "Songland"\)](https://open.spotify.com/album/0FrkrDhyqUTQ0kFF0bCcIb) | 2:42 | 2023-12-30 |  |
 | [Lay It Down](https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [King Of Hearts \(Deluxe\)](https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx) | 4:00 | 2025-01-09 | 2025-04-12 |
 | [Lay It On Me](https://open.spotify.com/track/2ToM5oaSSOQjgaMogZncaE) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Here I Am](https://open.spotify.com/album/7tZP2PF0RgWx5sOIaEckty) | 4:02 | 2023-12-30 | 2026-04-27 |

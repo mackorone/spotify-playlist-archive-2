@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 
 > This is The Runaways\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,572 likes - 34 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,574 likes - 34 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 | 8 | [I Wanna Be Where The Boys Are \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/6Wu9uWzszLFuCS6dUkVhnx) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 2:56 |
 | 9 | [Rock N Roll](https://open.spotify.com/track/5dfDYizNZT5aL99pOxkRDC) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 3:16 |
 | 10 | [California Paradise](https://open.spotify.com/track/6FuB23mAkJHWLileCU2hqC) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Queens Of Noise](https://open.spotify.com/album/2PUPhJHGBmdiIjMQjM7Dgp) | 2:54 |
-| 11 | [Little Sister](https://open.spotify.com/track/0JCyjA4AyLwOOnvbt7FsKz) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:05 |
-| 12 | [Saturday Nite Special](https://open.spotify.com/track/4eoozcjvDmy5f5AmtV0fnc) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 3:39 |
+| 11 | [Saturday Nite Special](https://open.spotify.com/track/4eoozcjvDmy5f5AmtV0fnc) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 3:39 |
+| 12 | [Little Sister](https://open.spotify.com/track/0JCyjA4AyLwOOnvbt7FsKz) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:05 |
 | 13 | [Dead End Justice](https://open.spotify.com/track/4DliRSOmpVNHoPc60wUmUD) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 7:00 |
 | 14 | [Neon Angels On The Road To Ruin](https://open.spotify.com/track/4i92Z8iFUAQ9SJdjMbFHHM) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Queens Of Noise](https://open.spotify.com/album/2PUPhJHGBmdiIjMQjM7Dgp) | 3:28 |
 | 15 | [Gettin' Hot \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/1AJLqpX8ik2TgIAizuz1Q5) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 2:58 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 | 33 | [C' Mon \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/4wCRQHZSGTfQ1evOYpaxGT) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 4:13 |
 | 34 | [Rock And Roll \- Live](https://open.spotify.com/track/7ceetu1BbvkNuVasWaJNpv) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Gotta Be Free \(Live Cleveland '76\)](https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09) | 4:09 |
 
-Snapshot ID: `asbdAAAAAABTprwzb6qZ+MG8YjPUe4Pe`
+Snapshot ID: `asgugAAAAAD2MAxW4Dv1GisFZ/kOGcIr`

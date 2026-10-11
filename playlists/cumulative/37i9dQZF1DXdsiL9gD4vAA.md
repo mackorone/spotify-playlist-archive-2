@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-243 songs - 21 hr 30 min
+244 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Jal Bhar De](https://open.spotify.com/track/3trMcrv75BKmVVS45moplw) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 4:23 | 2021-12-01 |  |
 | [Jeeye to Jeeye Kaise \(From "Saajan"\)](https://open.spotify.com/track/6xkH51odPN6GVpMgth0lWL) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 3:29 | 2021-12-01 | 2023-05-16 |
 | [Jis Dil Pe Naaz tha Mujhe](https://open.spotify.com/track/1YLSXFY1i6JRl3oKovsqVb) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [50 Greatest Ghazal Hits \- Best of Ghulam Ali and Mehdi Hassan](https://open.spotify.com/album/69LGrqCkZQBrW81maqfZUt) | 4:47 | 2021-12-01 | 2022-07-29 |
+| [Kabhi Dil Ne Chaha](https://open.spotify.com/track/1XQNkdaUv3A7peiSVAv3TH) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Kabhi Dil Ne Chaha](https://open.spotify.com/album/3TaH9UoPs5XaozqgKxtpgv) | 4:32 | 2026-10-06 |  |
 | [Kabhi Ishq Ka](https://open.spotify.com/track/0E0KFzq2dQg19wWRQiuqoV) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Kabhi Ishq Ka](https://open.spotify.com/album/1GvV8MWDKfjrkFYDHjjY3f) | 5:36 | 2023-04-05 | 2025-01-01 |
 | [Kabhi Ishq Ka](https://open.spotify.com/track/1iS03sVMvtSlI9Hv7qeItG) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Kabhi Ishq Ka](https://open.spotify.com/album/7KYHkonLiq66rxQx2EgQbJ) | 5:36 | 2023-12-12 | 2024-04-19 |
 | [Kaisa Manzar](https://open.spotify.com/track/4QmPaU6ipYU0tAS5FUJnn1) | [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Kaisa Manzar](https://open.spotify.com/album/3lEUa9SEtO39Dg0rPuF8uu) | 4:55 | 2026-05-16 | 2026-09-26 |
@@ -217,7 +218,7 @@
 | [Taiy Nahi Kiya Abhi](https://open.spotify.com/track/776QLSBeutwuBJukKGsb7I) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:49 | 2023-08-22 |  |
 | [Tasveer](https://open.spotify.com/track/1qfpfieVEi4SJVpe5gpTez) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tasveer](https://open.spotify.com/album/5ZS8DHF277xtrwG0zmt0xf) | 3:39 | 2023-03-03 | 2025-08-20 |
 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 | 2021-12-01 |  |
-| [Tere Naina](https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw) | [Suraj Bhartti](https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG) | [Tere Naina](https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu) | 4:36 | 2025-02-21 |  |
+| [Tere Naina](https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw) | [Suraj Bhartti](https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG) | [Tere Naina](https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu) | 4:36 | 2025-02-21 | 2026-10-11 |
 | [Teri Aankhon Men Kahaan](https://open.spotify.com/track/5K2z6EX8B2bOKL0OkfxILB) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a) | [Teri Aankhon Men Kahaan](https://open.spotify.com/album/2z1EEOKwsoMKHsnWngDcFA) | 4:57 | 2026-07-28 |  |
 | [Teri Adaa \(Sar\-e\-Shaam \- Mehfilz with Papon\) \- From The Living Room](https://open.spotify.com/track/3yp8vscdlRw20aCTMHEUO2) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Teri Adaa \(Sar\-e\-Shaam \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/2CCbwzWqZpawKUadLYNk4J) | 4:47 | 2026-07-13 |  |
 | [Teri Yaad Yaad Yaad](https://open.spotify.com/track/0fop0xkp8P9b7JTJSDdBB4) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Bewafaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7lSYGvPT8tiSkQtF9SKYAY) | 8:09 | 2022-07-26 | 2024-04-19 |

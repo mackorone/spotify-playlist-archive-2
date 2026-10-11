@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: L.A.B.",
-  "num_followers": 19385,
+  "num_followers": 19394,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
-        "name": "Eldest Daughter Of An Eldest Daughter",
-        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Faery King",
-      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
         "name": "We Belong (feat. Corrella & L.A.B)",
         "url": "https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 215273,
       "name": "We Belong (feat. Corrella & L.A.B)",
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
+        "name": "Eldest Daughter Of An Eldest Daughter",
+        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Faery King",
+      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
     },
     {
       "added_at": "2026-10-08 13:00:24",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
-        "name": "Don\u2019t Call It Love",
-        "url": "https://open.spotify.com/album/2GQA3K9IZkwfrMEallCO1p"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Bree",
-          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
-        },
-        {
-          "name": "Adah Dylan",
-          "url": "https://open.spotify.com/artist/7ByPzrMoxa3wStzuXS1WhU"
-        }
-      ],
-      "duration_ms": 247509,
-      "name": "Don't Call It Love",
-      "url": "https://open.spotify.com/track/5lDBhkVY56oiH5dSbH956X"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
         "name": "Maumahara Noa Ahau",
         "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 170691,
       "name": "Maumahara Noa Ahau",
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
+        "name": "Don\u2019t Call It Love",
+        "url": "https://open.spotify.com/album/2GQA3K9IZkwfrMEallCO1p"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Bree",
+          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
+        },
+        {
+          "name": "Adah Dylan",
+          "url": "https://open.spotify.com/artist/7ByPzrMoxa3wStzuXS1WhU"
+        }
+      ],
+      "duration_ms": 247509,
+      "name": "Don't Call It Love",
+      "url": "https://open.spotify.com/track/5lDBhkVY56oiH5dSbH956X"
     },
     {
       "added_at": "2026-10-08 13:00:24",
@@ -935,6 +935,26 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
+        "name": "Handyman.",
+        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
+      },
+      "artists": [
+        {
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+        },
+        {
+          "name": "Sione Toki",
+          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
+        }
+      ],
+      "duration_ms": 161559,
+      "name": "Handyman.",
+      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
         "name": "Bless the Broken Road",
         "url": "https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 186666,
       "name": "Tip Of My Tongue",
       "url": "https://open.spotify.com/track/2dys238PfKFAblqyoSeaTL"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
-        "name": "Handyman.",
-        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
-      },
-      "artists": [
-        {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
-        },
-        {
-          "name": "Sione Toki",
-          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
-        }
-      ],
-      "duration_ms": 161559,
-      "name": "Handyman.",
-      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     },
     {
       "added_at": "2026-10-08 13:00:24",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
-        "name": "thought of you",
-        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
-      },
-      "artists": [
-        {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 225295,
-      "name": "thought of you",
-      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
-        "name": "Hell Of A Night",
-        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
-      },
-      "artists": [
-        {
-          "name": "LA WOMEN",
-          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Hell Of A Night",
-      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
         "name": "Under The Surface",
         "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 254385,
       "name": "Under The Surface",
       "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
+        "name": "thought of you",
+        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 225295,
+      "name": "thought of you",
+      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
     },
     {
       "added_at": "2026-10-08 13:00:24",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
         "name": "drag",
         "url": "https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu"
       },
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+        "name": "Hell Of A Night",
+        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
         }
       ],
-      "duration_ms": 169693,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
+      "duration_ms": 232615,
+      "name": "Hell Of A Night",
+      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
     },
     {
       "added_at": "2026-10-08 13:00:24",

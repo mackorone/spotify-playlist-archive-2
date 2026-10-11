@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: dj andreoli, MC LUUCKY, MC Lele JP, MC IG, MC Iguinho CT, MC Ryan SP, MC Jacaré, MC Menor da VG
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,811,807 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,812,490 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

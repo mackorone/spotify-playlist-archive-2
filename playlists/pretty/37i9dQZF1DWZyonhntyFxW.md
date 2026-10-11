@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: عفروتو
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,912 likes - 54 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,932 likes - 54 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

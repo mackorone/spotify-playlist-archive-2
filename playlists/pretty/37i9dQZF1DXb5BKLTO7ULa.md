@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Ronnie Flex, Samuel Welten, Slayyyter, DI\-RECT, Sarah Julia, Troye Sivan, Acda en de Munnik en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,752 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,748 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

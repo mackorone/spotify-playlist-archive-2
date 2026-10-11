@@ -5205,6 +5205,24 @@
     },
     {
       "album": {
+        "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
+        "url": "https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr"
+      },
+      "artists": [
+        {
+          "name": "viola",
+          "url": "https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
+      "url": "https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS"
+    },
+    {
+      "album": {
         "name": "Et\u00e4rakastaa",
         "url": "https://open.spotify.com/album/0zBajjIRK4nMoaFWiGnDQn"
       },
@@ -18084,7 +18102,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 202973,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/3rVKDafQFUMyO42Of3YXKq"

@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Minttu, Käärijä & Joost, M//O..\. ja moni muu  🎶
 
-13,055 songs - 28 day 18 hr 37 min
+13,056 songs - 28 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12641,6 +12641,7 @@
 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS) | 3:35 | 2025-11-20 | 2025-11-28 |
 | [Wildfire](https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Wildfire](https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7) | 3:53 | 2026-02-26 | 2026-03-06 |
 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 | 2024-10-04 |
+| [Wildfire](https://open.spotify.com/track/2z6uro3rAXfwhuCmGgHYPh) | [Stella Lind](https://open.spotify.com/artist/1KFUPUwdHorL5Xbi5SUH99) | [Wildfire](https://open.spotify.com/album/3mPvwPbhGvhmR871rxk2K5) | 4:02 | 2026-10-08 |  |
 | [Wildflower](https://open.spotify.com/track/1bIeQdwWPefDKxD3VoZZ4W) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Wildflower](https://open.spotify.com/album/63L2QBBcKtrQHBEcLDKhRt) | 3:23 | 2025-10-16 | 2025-10-24 |
 | [Will We Ever Be Friends Again](https://open.spotify.com/track/3NUDnP8nbcZSCbPCKL5wdl) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Roll With The Punches](https://open.spotify.com/album/5hSKVnqKENCvocHGmMCl4W) | 3:28 | 2025-08-29 | 2025-09-06 |
 | [Will We Ever Wake Up](https://open.spotify.com/track/45EtzfqWioG7Dh84yvTn7h) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Will We Ever Wake Up](https://open.spotify.com/album/1KIxrpDulTev27iGCfDas1) | 4:13 | 2025-09-18 | 2025-09-27 |

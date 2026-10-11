@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 1177709,
+  "num_followers": 1177745,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Who Can It Be Now?",
-      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "Speak and Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "90125 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
       },
       "artists": [
         {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
         }
       ],
-      "duration_ms": 268506,
-      "name": "Owner of a Lonely Heart",
-      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
+      "duration_ms": 201293,
+      "name": "Who Can It Be Now?",
+      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -367,6 +351,22 @@
       "duration_ms": 266600,
       "name": "Voyage voyage",
       "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "Owner of a Lonely Heart",
+      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "In the Heat of the Night",
-        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 387866,
-      "name": "Just an Illusion",
-      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "L'aventurier",
         "url": "https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 231960,
       "name": "L'aventurier",
       "url": "https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "In the Heat of the Night",
+        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "duration_ms": 387866,
+      "name": "Just an Illusion",
+      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Femme Lib\u00e9r\u00e9e",
-        "url": "https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi"
-      },
-      "artists": [
-        {
-          "name": "Cookie Dingler",
-          "url": "https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Femme lib\u00e9r\u00e9e",
-      "url": "https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "War (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/4Saua162eaEOksYc8TrB74"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 234986,
       "name": "Au bout de mes r\u00eaves",
       "url": "https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Femme Lib\u00e9r\u00e9e",
+        "url": "https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi"
+      },
+      "artists": [
+        {
+          "name": "Cookie Dingler",
+          "url": "https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Femme lib\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj"
     },
     {
       "added_at": "2026-09-09 09:06:15",

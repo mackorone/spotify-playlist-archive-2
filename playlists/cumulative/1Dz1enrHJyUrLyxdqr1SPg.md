@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-177 songs - 10 hr 28 min
+179 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Forever Yours](https://open.spotify.com/track/2phRDv92tyNX5XNezzf6GK) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Forever Yours](https://open.spotify.com/album/3c6u2ytsTyiXEOizWF493Z) | 3:55 | 2023-10-12 |  |
 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 | 2026-09-29 |  |
 | [From Darkness to Light](https://open.spotify.com/track/4qvY2noGKvg2OFcTpQe0FJ) | [Barbara Borgelin](https://open.spotify.com/artist/3IsHx0vZYapvC5YBkFOv2V) | [From Darkness to Light](https://open.spotify.com/album/6Faby9zPGISHqe1PubDajM) | 3:54 | 2025-10-31 | 2025-12-17 |
+| [Fuego](https://open.spotify.com/track/6gsbAhf3XxE8OhabLMmPw7) | [Tebin Ramos](https://open.spotify.com/artist/3JuVLgCeHAGhyLtlF8iCZd) | [Fuego](https://open.spotify.com/album/2cuIJ4oqOCNTtth0wxPJrb) | 3:20 | 2026-10-10 |  |
 | [Funky Music Makes Me Lose It](https://open.spotify.com/track/0a2P9IK5t02PRXBqTO3nlM) | [lofthouse leo](https://open.spotify.com/artist/1rpet0LMvxIvChVSUpmuXV), [William Lovitt](https://open.spotify.com/artist/3pRnaBrTzlzx4y4jQMNmmM) | [Funky Music Makes Me Lose It](https://open.spotify.com/album/3EhtKfElVLsWID6fuuw2qp) | 3:40 | 2026-06-11 | 2026-08-31 |
 | [Futon Party](https://open.spotify.com/track/56tS3PlbE47mE5OyyAn3iR) | [MAD SCORPIO](https://open.spotify.com/artist/3TSVFRgaIY3m3zGiM8SrhB) | [Futon Party](https://open.spotify.com/album/4E6OYYnsAsLy8NMnJ6DRQA) | 3:42 | 2025-12-05 | 2025-12-17 |
 | [Født til kærlighed](https://open.spotify.com/track/3iCWrBz2lKiLROBiRFtsid) | [Milly Nou](https://open.spotify.com/artist/4e3dKWaqu93gNcZ70r9scr) | [Født til kærlighed](https://open.spotify.com/album/4R7dD6mpx8yGCvvbfklOnr) | 4:01 | 2025-12-06 | 2026-02-02 |
@@ -95,6 +96,7 @@
 | [Let Me In](https://open.spotify.com/track/10lXkXqFsKjwBa9nYrDEX6) | [Ashes for Dreams](https://open.spotify.com/artist/5AtELzYGDQYauyINzYYgsG) | [Let Me In](https://open.spotify.com/album/3OmY8fEav68PUm5vVtYCyq) | 3:19 | 2025-02-28 |  |
 | [Let the Rhythm Set You Free](https://open.spotify.com/track/2vVZDxnbEQKZE4J8EJsd57) | [Barbara Borgelin](https://open.spotify.com/artist/3IsHx0vZYapvC5YBkFOv2V) | [Let the Rhythm Set You Free](https://open.spotify.com/album/2EkWvoHH8VF4oWIIg6lf8E) | 3:45 | 2025-03-14 | 2025-11-24 |
 | [Liezone](https://open.spotify.com/track/69NybcQA2serENFVWlWfuV) | [FOGG](https://open.spotify.com/artist/1ddmAbXuEKIjsckPmSza3p) | [HORN](https://open.spotify.com/album/6NcSESC9mPGjj5K5QRfhvb) | 5:00 | 2025-12-15 | 2026-02-02 |
+| [Life in the Slow Lane](https://open.spotify.com/track/5Vys4dZ1Pq4MRUDGHrGfZh) | [Electron Revolt](https://open.spotify.com/artist/7inTXltGl51TDpZAW7BFAm) | [Fluster Crux](https://open.spotify.com/album/2quBW7IVo2JdekZXJc8Qdx) | 4:00 | 2026-10-10 |  |
 | [Love Will Show The Way](https://open.spotify.com/track/1J2vll8iWpZvbyWeECZ32r) | [Rose Finn](https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz) | [Love Will Show The Way](https://open.spotify.com/album/7Eqa1yo8hXb7PpIlxuzUFf) | 4:05 | 2026-06-09 |  |
 | [Lyset vender hjem](https://open.spotify.com/track/3kaAE6MEGKB3Fayz2fRxAz) | [Milly Nou](https://open.spotify.com/artist/4e3dKWaqu93gNcZ70r9scr) | [Lyset vender hjem](https://open.spotify.com/album/14ZUN2hMMKLZiMDBog5XYF) | 3:51 | 2025-10-24 | 2025-12-07 |
 | [Mi Navidad](https://open.spotify.com/track/31pUHQcaaxTvCe7br4VWS3) | [Pacoco Junior](https://open.spotify.com/artist/4GRwhJMakVrfxYUYJMMs51), [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12) | [Mi Navidad](https://open.spotify.com/album/1RBCA5ERtbFjlxq6LzrPx2) | 3:20 | 2025-11-15 | 2026-02-02 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6RZkiFMODT1nUffw6ABTvz">Dolly Parton</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-522 songs - 1 day 3 hr 5 min
+523 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Together Forever](https://open.spotify.com/track/44ZQqizqyr4o7QGeVg7b8N) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [I Believe in You](https://open.spotify.com/album/3J9P845yuZgfvHjORh2E6D) | 2:26 | 2026-09-08 |  |
 | [Together You and I](https://open.spotify.com/track/1Haf4ibxzH5iaAejgOiioU) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Better Day](https://open.spotify.com/album/269AiVgbsxhy45pvcTutQi) | 3:56 | 2026-09-08 |  |
 | [Tomorrow Is Forever](https://open.spotify.com/track/4jGw9t2AUPr4H6I5LQBAE2) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Porter Wayne and Dolly Rebecca](https://open.spotify.com/album/2vyozBy7TPPFkGGzUP4izf) | 2:50 | 2026-09-08 |  |
+| [Tomorrow's Tears Today](https://open.spotify.com/track/52PubDL9kqFSqIiRACKSQ7) | [Bill Owens](https://open.spotify.com/artist/1Tf6cTjrIYFQ0DB3ewRGVU), [Louis Owens](https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns) | [The Owens Brothers \- Tomorrow's Tears Today \- Singles 1961 \- 1967](https://open.spotify.com/album/6aCkSUeG211DdQNv14Wwis) | 1:43 | 2026-10-10 |  |
 | [Too Far Gone](https://open.spotify.com/track/2LGCJ651XUCbeLUhkn9zGZ) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Porter 'N' Dolly](https://open.spotify.com/album/2kKDvQ24tqs9M932L3FjiN) | 2:15 | 2026-09-08 |  |
 | [Too Lonely Too Long](https://open.spotify.com/track/5Yn3tQQPiyGKaWArOa7XT0) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Dolly Parton Classics](https://open.spotify.com/album/6k1sooJcIW97QoMXwaswwy) | 2:22 | 2026-09-08 |  |
 | [Too Much Water](https://open.spotify.com/track/5pYOtIys5cSW0n5R0vd7fF) | [Randy Parton](https://open.spotify.com/artist/0QVMwLMXbo3UmRxLBHbd6p) | [Rhinestone \(Soundtrack\)](https://open.spotify.com/album/6gHu4GfP2iUyWP933NCvko) | 2:41 | 2026-09-08 |  |

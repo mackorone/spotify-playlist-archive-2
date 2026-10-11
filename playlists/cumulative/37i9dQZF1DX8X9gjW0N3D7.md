@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Thierry Larose
 
-633 songs - 1 day 11 hr 27 min
+634 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,7 @@
 | [omg](https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 2:28 | 2026-03-20 | 2026-09-20 |
 | [On My Own](https://open.spotify.com/track/4UNJNgzUePpE8ph0r10Dbg) | [Amber Days](https://open.spotify.com/artist/2jNpmcKcRtfzxxKgaMsOmb) | [On My Own](https://open.spotify.com/album/4WREdL8RikGhcfRdCs7iP9) | 3:34 | 2026-02-13 | 2026-06-13 |
 | [On Part en Vacances](https://open.spotify.com/track/2ddgnPyk9wA4kOV5vuSQ8t) | [le.Panda](https://open.spotify.com/artist/2sObweidtH0abGLq6BXqkn) | [On Part en Vacances](https://open.spotify.com/album/0SbnyJhzHmt63cZgjXUV2J) | 4:34 | 2025-07-25 | 2025-11-22 |
-| [On partira](https://open.spotify.com/track/2xsjEoNJ4nMvTFKK3oPT1y) | [Olivier Bergeron](https://open.spotify.com/artist/3nRGJPFVnaypObeVuOkb72) | [On partira](https://open.spotify.com/album/1KTaBrNmY0O4QSEZfmkqzT) | 2:24 | 2026-09-11 |  |
+| [On partira](https://open.spotify.com/track/2xsjEoNJ4nMvTFKK3oPT1y) | [Olivier Bergeron](https://open.spotify.com/artist/3nRGJPFVnaypObeVuOkb72) | [On partira](https://open.spotify.com/album/1KTaBrNmY0O4QSEZfmkqzT) | 2:24 | 2026-09-11 | 2026-10-11 |
 | [On s'en fout](https://open.spotify.com/track/705NCLZBIek6BjM2lj6AKx) | [Les Obliks](https://open.spotify.com/artist/6tHhbivRwy3SyjjWHB2f0x) | [On s'en fout](https://open.spotify.com/album/0DWVfBrmDHx8okcNGFUEkp) | 3:05 | 2025-11-07 | 2026-02-21 |
 | [On s'est fait avaler](https://open.spotify.com/track/5wh1ftmCIJItnYNNgbjDtA) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [On s'est fait avaler](https://open.spotify.com/album/0Cd8eCnOyMIDzUidgqVb2x) | 3:55 | 2026-05-15 | 2026-06-13 |
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2024-06-28 | 2024-09-28 |
@@ -624,6 +624,7 @@
 | [You Can Dance](https://open.spotify.com/track/7qJEpe7TlhgdRSnj0uSbNZ) | [Charlie Flood](https://open.spotify.com/artist/3F7GIoG742wl7pyfVz6BSx) | [You Can Dance](https://open.spotify.com/album/6aYaK2B0XlQmOPoTbIikYG) | 4:07 | 2025-12-05 | 2026-03-14 |
 | [Your Music](https://open.spotify.com/track/59bznsm4D5jlntVHw2rUsN) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Spaceman Dela](https://open.spotify.com/artist/1lhjuAx6fS3snCj8mX5Xxr) | [Your Music](https://open.spotify.com/album/3cDM9ERAT3hjJmN4nxUDIz) | 3:44 | 2025-12-19 | 2026-01-17 |
 | [Your Name](https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1) | [Marianne Beaulieu](https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV) | [Your Name](https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH) | 3:12 | 2026-09-11 |  |
+| [À chaque année \(feat\. Gabriel Fredette\)](https://open.spotify.com/track/1yjfABm3BYD94VXZSZxTRp) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [À chaque année](https://open.spotify.com/album/5hPfxNHm2cpNovQFigeKuB) | 2:01 | 2026-10-09 |  |
 | [À l'envers](https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE) | [Sophie Grenier](https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS) | [À l'envers](https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT) | 2:44 | 2024-06-28 | 2025-05-31 |
 | [À l'ombre dans le désert](https://open.spotify.com/track/5IMkll6yUMCqJIYWPkyVEY) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Après, on va où?](https://open.spotify.com/album/26EVICDblNF9U2qYDtQm8F) | 3:13 | 2025-10-31 | 2026-01-15 |
 | [À la bonne place au bon moment](https://open.spotify.com/track/2kEcw9Ek5Knk1qL8iyypqL) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Perro del amor](https://open.spotify.com/album/458c5LdX8nbbNR3qtyQzBc) | 2:53 | 2024-11-08 | 2025-10-18 |

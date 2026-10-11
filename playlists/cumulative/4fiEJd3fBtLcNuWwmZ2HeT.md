@@ -4,7 +4,7 @@
 
 > Adicta a mi novia
 
-563 songs - 1 day 8 hr 59 min
+565 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [======](https://open.spotify.com/track/3D3UfAdlk4efXuvaOO9xDl) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [======](https://open.spotify.com/album/4i6zsLsQQnXik2tNlM9yis) | 2:15 | 2026-04-27 |  |
 | [\_\_\_\_\_\_](https://open.spotify.com/track/0NjGohOFKKxpJLLAovsEtO) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [\_\_\_\_\_\_](https://open.spotify.com/album/2XgpdopvOJdcBC9Oq3xtCE) | 2:21 | 2025-05-05 |  |
 | [A Little Sly](https://open.spotify.com/track/2ATyWYSGQCmVLPPQQ7lNzG) | [Saica](https://open.spotify.com/artist/7qEEzVU8qrl6cgQypPkvK5) | [A Little Sly](https://open.spotify.com/album/2aFR7ecyJ3eAXDk5I8Z3NS) | 2:01 | 2025-05-05 |  |
+| [AaAaAaAAaAaAAa \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/4NN46C9Wznv1vVWqFhE9wn) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Owari](https://open.spotify.com/album/2D3a0mdI5nvHelF8vWL1Lj) | 3:39 | 2026-10-10 |  |
 | [Absolute Territory](https://open.spotify.com/track/32zqrDpYvNr8BuOClDpavD) | [Ken Ashcorp](https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ) | [Absolute Territory](https://open.spotify.com/album/2N8HOZgX1QWpighqf7Tvo7) | 4:28 | 2022-09-24 |  |
 | [ACHE IN PULSE](https://open.spotify.com/track/0Iqcphch06zxuUFcljKjaI) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 3:28 | 2023-11-08 |  |
 | [Aegen](https://open.spotify.com/track/43gKYs7LrTod5UPSel4GEw) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Aegen](https://open.spotify.com/album/3VEIqbSK27bpVpq5IqUlA6) | 4:56 | 2025-10-30 | 2026-02-13 |
@@ -346,7 +347,7 @@
 | [VORACITY](https://open.spotify.com/track/61jz3LFcAXLKU0i2JFXaSe) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [TVアニメ「オーバーロードⅢ」オープニングテーマ「VORACITY」](https://open.spotify.com/album/45VfXu64lsMhLEgzwOcNkZ) | 3:52 | 2023-03-28 |  |
 | [Wanted, Wasted](https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SINDERELLA](https://open.spotify.com/album/4rDKCCOutbqoVQhNzQYJdD) | 3:03 | 2023-08-27 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2021-08-04 | 2026-09-13 |
-| [What A Strange Child](https://open.spotify.com/track/41qCOY36xnyCxjLI1oAckJ) | [Mushi\-P](https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0) | [The World Of Picture Book](https://open.spotify.com/album/63801ievlG9h3IzGger7u1) | 3:32 | 2026-08-14 |  |
+| [What A Strange Child](https://open.spotify.com/track/41qCOY36xnyCxjLI1oAckJ) | [Mushi\-P](https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0) | [The World Of Picture Book](https://open.spotify.com/album/63801ievlG9h3IzGger7u1) | 3:32 | 2026-08-14 | 2026-10-11 |
 | [WHEELER\-DEALER](https://open.spotify.com/track/2UlgPL6t8KjTwcozqVsXuK) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [WHEELER\-DEALER](https://open.spotify.com/album/5v2fdO3vboOeuBCZU5VA68) | 4:31 | 2024-12-07 |  |
 | [White Happy](https://open.spotify.com/track/5XpvrP7gXzvIXprPar1QBO) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [White Happy](https://open.spotify.com/album/6SOFbTseMyGB6Teu7igCUd) | 3:46 | 2026-01-11 |  |
 | [Why I hate you](https://open.spotify.com/track/4AigtKmfzJzNCrKaBmTv3W) | [ゐろは苹果](https://open.spotify.com/artist/1X0DrV6PmfG5ZoVNCszNNh) | [Why I hate you](https://open.spotify.com/album/6VCQYmfIufXBhxFHMiuK9L) | 1:58 | 2026-03-28 |  |
@@ -569,6 +570,7 @@
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 | 2023-01-01 |  |
 | [밤아.17](https://open.spotify.com/track/2z7QqddTiSejU4ndgMDIGq) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [밤아.17](https://open.spotify.com/album/4aQDERjxfPiZBUFQJAItj9) | 2:35 | 2025-12-31 |  |
 | [요단강](https://open.spotify.com/track/5iHc6qrkJAm8LNoQuuSAlL) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [아홉가지기분](https://open.spotify.com/album/5ooEdlSXdzcTXLTHMg6QMO) | 4:47 | 2025-11-26 |  |
+| [저격수 인형](https://open.spotify.com/track/5B1us6jlfXwpqhEZRa8s4P) | [WyvernP](https://open.spotify.com/artist/2Iw5m7MkqPhLpQxdx0SVmn), [유니](https://open.spotify.com/artist/3bFS3jV2rAepYVOuft1iDP) | [Zinnia \(2016\-2018 Collection Vol.01\)](https://open.spotify.com/album/77qDP4NFpjc763QSvxNAqF) | 3:21 | 2026-10-10 |  |
 | [＃曖昧人生](https://open.spotify.com/track/53hxSCel6qACDWZxH8iscW) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [＃曖昧人生](https://open.spotify.com/album/4eUuJBH7xGW2uNlAX2NTsm) | 3:06 | 2025-06-18 |  |
 | [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-12-17 |  |
 

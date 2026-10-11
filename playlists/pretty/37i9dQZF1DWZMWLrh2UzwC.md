@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Aina Abdul, Troye Sivan, Slayyyter, 蔡恩雨 Priscilla Abby, Ara Johari, Dalia Farhana, mimpi\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,169 likes - 102 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,160 likes - 102 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 55 | [close to you](https://open.spotify.com/track/62EGzcAgn5m00LbligcAMY) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [close to you](https://open.spotify.com/album/11tfftWLFm6rPm63YlgfrD) | 3:31 |
 | 56 | [FML](https://open.spotify.com/track/2q2e0eoBMp4u2dKwU0NgBA) | [YBJ](https://open.spotify.com/artist/51KyiLma2yvVRmm4wjvUyt) | [FML](https://open.spotify.com/album/6u10kw02FyE3hYLh8bvBxg) | 2:55 |
 | 57 | [Khabar 1400](https://open.spotify.com/track/5hwHfCLS9Ioqo3lfTMfcRo) | [Rabithah](https://open.spotify.com/artist/4V4wEHbsFwIarJDvGdCBdl), [Anas Tahir](https://open.spotify.com/artist/0ps4ebLjPOVtVa0r95wZyu) | [Khabar 1400](https://open.spotify.com/album/4VRsXN1AVqVlvSpQbugdSG) | 3:58 |
-| 58 | [KINGSIDE](https://open.spotify.com/track/3Rz3VmIkXYLH1LDpQUwzis) | [Imgkay](https://open.spotify.com/artist/7CR6kT41SeQTwHwLcuD2LS), [JT MIX](https://open.spotify.com/artist/2j14RY5Ob93Nu1BwwZ4nMp), [FENGZI](https://open.spotify.com/artist/4dYX6rhVJsBIbjXMLfwGNE) | [KINGSIDE](https://open.spotify.com/album/2LnkejMe5aKgMuPF9GEbod) | 2:46 |
+| 58 | [KINGSIDE](https://open.spotify.com/track/3Rz3VmIkXYLH1LDpQUwzis) | [Imgkay](https://open.spotify.com/artist/7CR6kT41SeQTwHwLcuD2LS), [JT Mix](https://open.spotify.com/artist/5GTqgMESoB95rI089fhmUc), [FENGZI](https://open.spotify.com/artist/4dYX6rhVJsBIbjXMLfwGNE) | [KINGSIDE](https://open.spotify.com/album/2LnkejMe5aKgMuPF9GEbod) | 2:46 |
 | 59 | [Miselia](https://open.spotify.com/track/7junIqJT4acbxmuz7eNoXM) | [Rezza Shah](https://open.spotify.com/artist/10zyPGuuhCAXEPl9OlLC92), [SolCrate](https://open.spotify.com/artist/3roGRhyf5mD33yk2Pghbcd) | [Miselia](https://open.spotify.com/album/59Tnsso1qgZqODv4tBaERE) | 3:39 |
 | 60 | [HERE & NEAR](https://open.spotify.com/track/4p5DNDcQJZ1JxVbatrco3r) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA) | [HERE & NEAR](https://open.spotify.com/album/5U6QXbdWZQTk1o5APTGt13) | 2:48 |
 | 61 | [New to Love](https://open.spotify.com/track/4tX7t9p8jMLMsou83f6FLm) | [EZMNY](https://open.spotify.com/artist/0HZkAiKdcDbVNHvsWsHudM), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [New to Love](https://open.spotify.com/album/23dHlSzv3ymbgpbQjQ8zQU) | 3:34 |

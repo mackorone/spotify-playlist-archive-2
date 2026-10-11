@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,613 likes - 90 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,629 likes - 90 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 15 | [Faro](https://open.spotify.com/track/59I5OCydnVUAw7v87zJRPU) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Faro](https://open.spotify.com/album/5r90cXr7I4gKnP4TbZ3i7p) | 2:53 |
 | 16 | [Hoy](https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Gira](https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM) | 3:45 |
 | 17 | [Dueña de Mi Alma](https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Dueña de Mi Alma](https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa) | 4:09 |
-| 18 | [El Secreto de Tu Vida](https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Uno Mismo](https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5) | 4:32 |
-| 19 | [Anaranjado \- Mas Allá De La Ternura](https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71) | [Mas Alla De La Ternura](https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc) | 4:12 |
+| 18 | [Anaranjado \- Mas Allá De La Ternura](https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71) | [Mas Alla De La Ternura](https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc) | 4:12 |
+| 19 | [El Secreto de Tu Vida](https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Uno Mismo](https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5) | 4:32 |
 | 20 | [No Te Vayas \- Balada Remix](https://open.spotify.com/track/5VF7ZMcWjiVne6bCbJ44TH) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [No Te Vayas \(Balada Remix\)](https://open.spotify.com/album/6twuTUS4ZNfg1zGSvwjj9z) | 3:45 |
 | 21 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/1dBKW66aAt8LItqKtxqSmf) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Que Sea Con Suerte](https://open.spotify.com/album/3NtQrhAYFIg6An97g6zLIW) | 3:07 |
 | 22 | [Cenizas](https://open.spotify.com/track/168hn8CFcYSLflNGzwjJaS) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Catherine Vergnes](https://open.spotify.com/artist/3dqxFNqXEaIA3janjTRoHW) | [Cenizas](https://open.spotify.com/album/1omjEcXvv6AL8ubYf1Mhsr) | 3:50 |
-| 23 | [Olvida Que Te He Amado](https://open.spotify.com/track/0addwQw947UzHhby2thnGg) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Mi Cantar](https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX) | 4:19 |
-| 24 | [A Escondidas](https://open.spotify.com/track/3hf7Fhg3kMO3teI1xt9fWB) | [Angelo Aranda](https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz) | [A Escondidas](https://open.spotify.com/album/6VUieUgmlyiJ13NYI81Fn2) | 2:50 |
-| 25 | [Si Me Vas Abandonar](https://open.spotify.com/track/4iRXk04qLPsQaaq0ufXfWp) | [Changuito yuteño](https://open.spotify.com/artist/3lSfNecli4niKGN03EKJLF) | [Si Me Vas Abandonar](https://open.spotify.com/album/0u25XHM6hopypfPU43aBcQ) | 3:18 |
+| 23 | [Si Me Vas Abandonar](https://open.spotify.com/track/4iRXk04qLPsQaaq0ufXfWp) | [Changuito yuteño](https://open.spotify.com/artist/3lSfNecli4niKGN03EKJLF) | [Si Me Vas Abandonar](https://open.spotify.com/album/0u25XHM6hopypfPU43aBcQ) | 3:18 |
+| 24 | [Olvida Que Te He Amado](https://open.spotify.com/track/0addwQw947UzHhby2thnGg) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Mi Cantar](https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX) | 4:19 |
+| 25 | [A Escondidas](https://open.spotify.com/track/3hf7Fhg3kMO3teI1xt9fWB) | [Angelo Aranda](https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz) | [A Escondidas](https://open.spotify.com/album/6VUieUgmlyiJ13NYI81Fn2) | 2:50 |
 | 26 | [Nuestro Juramento](https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [La Historia](https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb) | 3:17 |
 | 27 | [Te Pido En Agosto](https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [PACHAKUTI](https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi) | 3:36 |
 | 28 | [Cosa Peligrosa](https://open.spotify.com/track/73P9ywsIA24QwWvL6E1gjT) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Cosa Peligrosa](https://open.spotify.com/album/5eui9pdwONxGwCCO8djIV5) | 3:21 |

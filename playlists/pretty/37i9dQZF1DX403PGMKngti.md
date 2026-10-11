@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Criss y Ronny
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,191 likes - 65 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,217 likes - 65 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 | 5 | [La María](https://open.spotify.com/track/2dbbYIXYJQzJoUoOl6i0LY) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [La María](https://open.spotify.com/album/60vkloFJlu3niw4vEs4TH2) | 3:38 |
 | 6 | [La Invité a Bailar](https://open.spotify.com/track/1KqbEgwOZrAI36yBnGkZ94) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [El Rey de la Champeta Urbana](https://open.spotify.com/album/6YSMVg5CsdVgSL2vjSgZNP) | 4:02 |
 | 7 | [El Chocho](https://open.spotify.com/track/2dozo5SnIQhPq4yZAP3cUB) | [Charles King](https://open.spotify.com/artist/3oOresfoyogzToPBpLUWJL) | [Champeta Fever](https://open.spotify.com/album/1Crhh8zo0qeCHTUYox3A9K) | 4:01 |
-| 8 | [El Agua](https://open.spotify.com/track/0U7yZEDu0HYkbhTy5d4lsX) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx) | [El Agua](https://open.spotify.com/album/6MaDaC09BevFB6ajuPmPzx) | 2:14 |
+| 8 | [El Agua](https://open.spotify.com/track/0U7yZEDu0HYkbhTy5d4lsX) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx), [TheKingDeejay](https://open.spotify.com/artist/5YjgsLi14WEuj7oXWVYfbs) | [El Agua](https://open.spotify.com/album/6MaDaC09BevFB6ajuPmPzx) | 2:07 |
 | 9 | [La Espelucá](https://open.spotify.com/track/5hsooFA9KcUMCnfrDxJghI) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx), [Mr Steve](https://open.spotify.com/artist/0TgEaSmA1DuHClb6dblt3Z) | [La Espelucá](https://open.spotify.com/album/0HiT10T6wjoxHoYZ6jcv8D) | 4:05 |
 | 10 | [Cafe](https://open.spotify.com/track/3277TAKAv27ewlf3pueeXl) | [Keyvin Ce](https://open.spotify.com/artist/59ELR8A5JHmUK402NRjbOE) | [MI VIDA, MI TEATRO](https://open.spotify.com/album/64LomvWP5zkCkPhDUsFKrv) | 3:45 |
 | 11 | [Paola](https://open.spotify.com/track/07rzF2jiwidYzEX51mulN9) | [El Sayayín](https://open.spotify.com/artist/1sZj8fq4nSJnPycjQ2i7sp) | [El Mismo Saya, Vol\. 1 \(Desde Colombia a la USA\)](https://open.spotify.com/album/3AhwT0buFsjNmgp7AK23Uu) | 4:05 |

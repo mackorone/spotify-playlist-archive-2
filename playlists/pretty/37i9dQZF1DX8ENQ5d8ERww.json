@@ -1,6 +1,6 @@
 {
   "description": "Playlist Takeover by Bligg!",
-  "num_followers": 13467,
+  "num_followers": 13578,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Legenda",
-        "url": "https://open.spotify.com/album/6eBJisPt7283GEfYj8hKFL"
-      },
-      "artists": [
-        {
-          "name": "Breitbild",
-          "url": "https://open.spotify.com/artist/07h2T3RrXQzYW5YpQnXd8U"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "F\u00fcr 1 hets Immer no glangt",
-      "url": "https://open.spotify.com/track/7hb9E5NNeqkr60r8QxtrlR"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Noochbrand",
         "url": "https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 249760,
       "name": "Noochbrand",
       "url": "https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "Legenda",
+        "url": "https://open.spotify.com/album/6eBJisPt7283GEfYj8hKFL"
+      },
+      "artists": [
+        {
+          "name": "Breitbild",
+          "url": "https://open.spotify.com/artist/07h2T3RrXQzYW5YpQnXd8U"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "F\u00fcr 1 hets Immer no glangt",
+      "url": "https://open.spotify.com/track/7hb9E5NNeqkr60r8QxtrlR"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/1Y5AZWjEWt1XQgzt3f2976"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/1hYjsaijcMS6kptLUUfOZ3"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Und Nachteil",
         "url": "https://open.spotify.com/album/1yj7QUrcOSpHhig4K5195M"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 337026,
       "name": "I de Schwiiz",
       "url": "https://open.spotify.com/track/0HG4ApJ5c6xTjNwIoG5rpm"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/1Y5AZWjEWt1XQgzt3f2976"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/1hYjsaijcMS6kptLUUfOZ3"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "Bitters\u00fcessi Pille",
+        "url": "https://open.spotify.com/album/4lD6FRCcEBVlGaGtjUGeUU"
+      },
+      "artists": [
+        {
+          "name": "Steff la Cheffe",
+          "url": "https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Annabelle",
+      "url": "https://open.spotify.com/track/77GjjpNE6wNhac8fwTTYud"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Verd\u00e4chtig",
         "url": "https://open.spotify.com/album/3VssVyEuKRopiVCwQZGy7m"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 244266,
       "name": "8i Bahnhof",
       "url": "https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "Bitters\u00fcessi Pille",
-        "url": "https://open.spotify.com/album/4lD6FRCcEBVlGaGtjUGeUU"
-      },
-      "artists": [
-        {
-          "name": "Steff la Cheffe",
-          "url": "https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Annabelle",
-      "url": "https://open.spotify.com/track/77GjjpNE6wNhac8fwTTYud"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -427,6 +427,26 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/5n7l9TK57xauDF3wvA7eZw"
+      },
+      "artists": [
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        },
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "King Size (feat. Kool Savas)",
+      "url": "https://open.spotify.com/track/7h5jNXhlFhGwzsYDyeZFrZ"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/5E8Bj7SAPRdJWbXg3Jxce0"
       },
@@ -459,22 +479,18 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/5n7l9TK57xauDF3wvA7eZw"
+        "name": "VollkontaktHipHop",
+        "url": "https://open.spotify.com/album/6AAoWgx3qJV55wzfZmOTxo"
       },
       "artists": [
         {
-          "name": "Bligg",
-          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
-        },
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+          "name": "Dynamic Duo",
+          "url": "https://open.spotify.com/artist/2a29ulH524zPeiQkHsJ1qM"
         }
       ],
-      "duration_ms": 206426,
-      "name": "King Size (feat. Kool Savas)",
-      "url": "https://open.spotify.com/track/7h5jNXhlFhGwzsYDyeZFrZ"
+      "duration_ms": 289160,
+      "name": "Vollkontakt",
+      "url": "https://open.spotify.com/track/5cG4Kg1sVifhxOiO48P6u1"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -495,22 +511,6 @@
       "duration_ms": 227493,
       "name": "Dune ade Langstrass (feat. Tinguely d\u00e4 Chn\u00e4cht)",
       "url": "https://open.spotify.com/track/4ZwZQKgPVuI2NpBETwWxyE"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "VollkontaktHipHop",
-        "url": "https://open.spotify.com/album/6AAoWgx3qJV55wzfZmOTxo"
-      },
-      "artists": [
-        {
-          "name": "Dynamic Duo",
-          "url": "https://open.spotify.com/artist/2a29ulH524zPeiQkHsJ1qM"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "Vollkontakt",
-      "url": "https://open.spotify.com/track/5cG4Kg1sVifhxOiO48P6u1"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Deheim?",
-        "url": "https://open.spotify.com/album/3TTzTj4qNDBe5FpnsLyjzZ"
-      },
-      "artists": [
-        {
-          "name": "Webba",
-          "url": "https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS"
-        },
-        {
-          "name": "Baze",
-          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Du Hesch Ke",
-      "url": "https://open.spotify.com/track/6AxLcMZFBLbBd5Hqvp7zdt"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Casino",
         "url": "https://open.spotify.com/album/7wHzFREg5v4vxxJoAaSCoN"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 233533,
       "name": "Immer No",
       "url": "https://open.spotify.com/track/7vkh4DsCJoQ4A63VwYvIov"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "Deheim?",
+        "url": "https://open.spotify.com/album/3TTzTj4qNDBe5FpnsLyjzZ"
+      },
+      "artists": [
+        {
+          "name": "Webba",
+          "url": "https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS"
+        },
+        {
+          "name": "Baze",
+          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Du Hesch Ke",
+      "url": "https://open.spotify.com/track/6AxLcMZFBLbBd5Hqvp7zdt"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -699,6 +699,26 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "Dr einzig W\u00e4g",
+        "url": "https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE"
+      },
+      "artists": [
+        {
+          "name": "P-27",
+          "url": "https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ"
+        },
+        {
+          "name": "MC Rony",
+          "url": "https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "Geballte Hip Hop",
+      "url": "https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Beetown Beetz, Vol. 1",
         "url": "https://open.spotify.com/album/5jtnTxD9F5VAESPajW3hGs"
       },
@@ -731,22 +751,6 @@
       "duration_ms": 251626,
       "name": "Brugg",
       "url": "https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "Fresh Stuff 3",
-        "url": "https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF"
-      },
-      "artists": [
-        {
-          "name": "EKR",
-          "url": "https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL"
-        }
-      ],
-      "duration_ms": 299520,
-      "name": "Ein Koenig Regiert",
-      "url": "https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -791,22 +795,34 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Dr einzig W\u00e4g",
-        "url": "https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE"
+        "name": "Fresh Stuff 3",
+        "url": "https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF"
       },
       "artists": [
         {
-          "name": "P-27",
-          "url": "https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ"
-        },
-        {
-          "name": "MC Rony",
-          "url": "https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq"
+          "name": "EKR",
+          "url": "https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL"
         }
       ],
-      "duration_ms": 230960,
-      "name": "Geballte Hip Hop",
-      "url": "https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr"
+      "duration_ms": 299520,
+      "name": "Ein Koenig Regiert",
+      "url": "https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "Au Revoir",
+        "url": "https://open.spotify.com/album/2prE2Na9j25aggFyWD9igm"
+      },
+      "artists": [
+        {
+          "name": "Double Pact",
+          "url": "https://open.spotify.com/artist/3owF80MhEn7JBB5JBUt4ya"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Je t'aime",
+      "url": "https://open.spotify.com/track/5RKhacxAckVl9ANlgdRJcY"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -835,18 +851,18 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Au Revoir",
-        "url": "https://open.spotify.com/album/2prE2Na9j25aggFyWD9igm"
+        "name": "Halbin\u00fcni Chlorzicht",
+        "url": "https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ"
       },
       "artists": [
         {
-          "name": "Double Pact",
-          "url": "https://open.spotify.com/artist/3owF80MhEn7JBB5JBUt4ya"
+          "name": "Primitive Lyrics",
+          "url": "https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Je t'aime",
-      "url": "https://open.spotify.com/track/5RKhacxAckVl9ANlgdRJcY"
+      "duration_ms": 249666,
+      "name": "Schtei",
+      "url": "https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -863,22 +879,6 @@
       "duration_ms": 260000,
       "name": "Possitrack",
       "url": "https://open.spotify.com/track/6M1X6qBmqWF741wjAL3fan"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "Halbin\u00fcni Chlorzicht",
-        "url": "https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ"
-      },
-      "artists": [
-        {
-          "name": "Primitive Lyrics",
-          "url": "https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Schtei",
-      "url": "https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw"
     },
     {
       "added_at": "2026-10-08 22:00:12",

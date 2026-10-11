@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "47 - Spot aan",
+        "url": "https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181815,
+      "name": "Na-aper",
+      "url": "https://open.spotify.com/track/1rk7ChxQG90vK4od2lZSWN"
+    },
+    {
+      "album": {
         "name": "38 - Gruwelijk eng",
         "url": "https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO"
       },
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 155474,
       "name": "Vrienden met de monsters",
       "url": "https://open.spotify.com/track/7fTn6zBh9gJHTcltdXff3j"

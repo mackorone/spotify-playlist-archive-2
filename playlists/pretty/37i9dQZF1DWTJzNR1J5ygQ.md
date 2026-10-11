@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJzNR1J5ygQ.md) - [plain]
 
 > It's a Midwest thing\. Cover: Bone Thugs\-n\-Harmony
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,574 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,585 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJzNR1J5ygQ.md) - [plain]
 | 28 | [My Projects](https://open.spotify.com/track/6dJZY47RgBcd7A9pSsWL6S) | [Coo Coo Cal](https://open.spotify.com/artist/1nK08sVhhZ5JnkFaRvNrmB) | [Disturbed](https://open.spotify.com/album/2qbOLKQzdBMArA5qQm4Ptw) | 3:45 |
 | 29 | [Country Grammar \(Hot Shit\)](https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:47 |
 | 30 | [My Band](https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL) | [D12](https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0) | [D\-12 World](https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ) | 4:58 |
-| 31 | [One Call Away](https://open.spotify.com/track/0UNTBB02C1aB55Fu4H63qd) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:36 |
+| 31 | [One Call Away](https://open.spotify.com/track/0UNTBB02C1aB55Fu4H63qd) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [J/Weav](https://open.spotify.com/artist/1HedE5votykSRqndcTU6OI) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:36 |
 | 32 | [Slow Jamz \(feat\. Kanye West & Jamie Foxx\)](https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Kamikaze](https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N) | 3:32 |
 | 33 | [Day 'N' Nite \(nightmare\)](https://open.spotify.com/track/5wfllwdjglyQislkskYLBv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 3:41 |
 | 34 | [Midwest Swing](https://open.spotify.com/track/3NjAxulzcqR9riwzAnoN7p) | [St\. Lunatics](https://open.spotify.com/artist/6rxiUsSvkn5yTs1kfuV8Le) | [Free City](https://open.spotify.com/album/6NWwv5U9qEB1UsviwgwOYW) | 4:35 |

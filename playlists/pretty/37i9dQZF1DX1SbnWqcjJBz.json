@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 139190,
+  "num_followers": 139206,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 230198,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "It\u2019s About Time",
         "url": "https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 296240,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 230198,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1687,26 +1687,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Don't Cry For Me Argentina",
-        "url": "https://open.spotify.com/album/6Eaw4TN2fuJ3WVicI7Rme1"
+        "name": "Dying to Say This to You (Premium Download Version)",
+        "url": "https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Javier Garza",
-          "url": "https://open.spotify.com/artist/7d6UVb1wJfBBglIebDp5Cz"
-        },
-        {
-          "name": "Pablo Flores",
-          "url": "https://open.spotify.com/artist/1zTUYXZHltJuaK4ONIzKDu"
+          "name": "The Sounds",
+          "url": "https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU"
         }
       ],
-      "duration_ms": 270851,
-      "name": "Don't Cry for Me Argentina - Miami Mix Edit",
-      "url": "https://open.spotify.com/track/6rpPOIl2uqjBVJD9TxY2K9"
+      "duration_ms": 192066,
+      "name": "Tony the Beat",
+      "url": "https://open.spotify.com/track/6QxQz4h8vdcVb9NZq2x8RO"
     }
   ],
   "unique_name": "Deserved",

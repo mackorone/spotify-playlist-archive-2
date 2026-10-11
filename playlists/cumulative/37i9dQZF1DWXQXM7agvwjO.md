@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: Kyoyoko \(China\)
+> Hottest indie sounds from Asia\. Cover: Meaningful Stone \(South Korea\)
 
 2,881 songs - 7 day 8 hr 10 min
 

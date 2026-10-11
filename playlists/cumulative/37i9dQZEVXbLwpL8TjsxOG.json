@@ -9546,7 +9546,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 171696,
       "name": "It\u2019s \u016a",
       "url": "https://open.spotify.com/track/7flVnLkUPtXnSsfrE3WqQj"
@@ -10628,7 +10628,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 230581,
       "name": "Let go",
       "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
@@ -15294,7 +15294,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -23278,7 +23278,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 228819,
       "name": "\u53cd\u5c0d\u7121\u6548",
       "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
@@ -24814,7 +24814,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 205933,
       "name": "\u601d\u89ba\u5931\u8abf",
       "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
@@ -26117,6 +26117,24 @@
     },
     {
       "album": {
+        "name": "Life In Music (\u65b0\u66f2+\u7cbe\u9078)",
+        "url": "https://open.spotify.com/album/6JrHt5HysRyFc6WC561LcS"
+      },
+      "artists": [
+        {
+          "name": "Andy Hui",
+          "url": "https://open.spotify.com/artist/1q8BvOdpOtapWOIgO26sOn"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266013,
+      "name": "\u6628\u9072\u4eba",
+      "url": "https://open.spotify.com/track/5E6KZyyZ54RETXYEDeqq94"
+    },
+    {
+      "album": {
         "name": "On Hits",
         "url": "https://open.spotify.com/album/1xgpuUCtXFhGXsA1JHYvYl"
       },
@@ -27228,7 +27246,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 265121,
       "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
       "url": "https://open.spotify.com/track/4JgANNfSO7liTvGAUHJwOP"
@@ -29480,6 +29498,24 @@
       "duration_ms": 238972,
       "name": "\u81ea\u6bc0\u7684\u7a0b\u5e8f",
       "url": "https://open.spotify.com/track/5cGipBquhoVjNn5U6XX61k"
+    },
+    {
+      "album": {
+        "name": "\u81ea\u7531\u7684\u4f60",
+        "url": "https://open.spotify.com/album/6a7wyq3SNMhGrtYfWdGU4M"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296900,
+      "name": "\u81ea\u7531\u7684\u4f60",
+      "url": "https://open.spotify.com/track/2a3CGolEag3y3weurGvkLV"
     },
     {
       "album": {

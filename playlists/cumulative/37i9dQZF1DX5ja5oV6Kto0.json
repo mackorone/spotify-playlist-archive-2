@@ -5751,6 +5751,28 @@
     },
     {
       "album": {
+        "name": "DEM NVR SEE ++",
+        "url": "https://open.spotify.com/album/6yyjsSoDwe8f3lYkHPQ47A"
+      },
+      "artists": [
+        {
+          "name": "pa1n",
+          "url": "https://open.spotify.com/artist/6ywMMlco7Ew9bieZHPBGke"
+        },
+        {
+          "name": "Monochrome",
+          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "DEM NVR SEE ++",
+      "url": "https://open.spotify.com/track/0eSuuR8RTkFtNOz1w5lNrV"
+    },
+    {
+      "album": {
         "name": "Demure II",
         "url": "https://open.spotify.com/album/1Cvd9Iu8SlgPS0fTiJpcfK"
       },
@@ -11979,6 +12001,24 @@
     },
     {
       "album": {
+        "name": "Swagstar",
+        "url": "https://open.spotify.com/album/02m9kBTURJaGfvmr1Z0rEV"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148002,
+      "name": "LEAN",
+      "url": "https://open.spotify.com/track/52Jqe5qtEbYvQqd1S2E0LL"
+    },
+    {
+      "album": {
         "name": "LEANING",
         "url": "https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO"
       },
@@ -13764,7 +13804,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 173220,
       "name": "Money",
       "url": "https://open.spotify.com/track/1CjTilfvExW83uJDO5N8HP"
@@ -22208,7 +22248,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 113000,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/279MldTawVir8h259h43Mw"

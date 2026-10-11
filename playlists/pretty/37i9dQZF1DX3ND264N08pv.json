@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 97108,
+  "num_followers": 97129,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-09-28 12:47:18",
       "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
+    },
+    {
+      "added_at": "2026-09-28 12:47:18",
+      "album": {
         "name": "Tequila In My Eyes",
         "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 183747,
       "name": "Tequila In My Eyes",
       "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
-    },
-    {
-      "added_at": "2026-09-28 12:47:18",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
-      },
-      "artists": [
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
     },
     {
       "added_at": "2026-09-28 12:47:18",

@@ -19530,7 +19530,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -20294,7 +20294,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 172972,
       "name": "sleep mode",
       "url": "https://open.spotify.com/track/2kPuQ8BYGdJglM9aFX9pA0"
@@ -30628,7 +30628,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 196817,
       "name": "\u0417 \u044f\u043a\u043e\u0433\u043e \u0442\u0438 \u043f\u043e\u0432\u0435\u0440\u0445\u0443 \u043d\u0435\u0431\u0430?",
       "url": "https://open.spotify.com/track/7JZs5hNCz4be2sJxaLIy5l"
@@ -35068,6 +35068,24 @@
       "duration_ms": 152184,
       "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
       "url": "https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430\u0437\u0430\u0434 \u0432 \u041a\u0440\u0435\u0441\u0442\u044b",
+        "url": "https://open.spotify.com/album/3YohhcwKzNTLeugJX5SuJv"
+      },
+      "artists": [
+        {
+          "name": "dabbackwood",
+          "url": "https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89665,
+      "name": "\u043d\u0430\u0437\u0430\u0434 \u0432 \u043a\u0440\u0435\u0441\u0442\u044b",
+      "url": "https://open.spotify.com/track/36zMpCNLEEpNWnFfVOzbt2"
     },
     {
       "album": {

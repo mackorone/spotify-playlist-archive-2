@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Showing Teeth
 
-1,704 songs - 4 day 7 hr 26 min
+1,706 songs - 4 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [All The Love Is Gone](https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [All The Love Is Gone](https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez) | 3:02 | 2025-02-21 | 2026-07-18 |
 | [All This Beauty Can't Be Real](https://open.spotify.com/track/1Sum0C04vG82xEJ2snJtwu) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [All This Beauty Can't Be Real](https://open.spotify.com/album/098oySHjDce2srMZmKPmpz) | 3:51 | 2022-05-06 | 2022-05-28 |
 | [All Wrong](https://open.spotify.com/track/4o8v3qZ0nBh2k5EpdS1IK7) | [MoistCr1tikal](https://open.spotify.com/artist/3NTvftovapkDsi2pc7eeS0), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [All Wrong](https://open.spotify.com/album/1JDT7uQeWyt8HIEZnmv2pv) | 3:02 | 2025-05-23 | 2026-06-16 |
-| [allured](https://open.spotify.com/track/0E5BAno4o00oI3HZFvVXhd) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [allured](https://open.spotify.com/album/2qX9evcsvtcxdRKc0tJKLn) | 3:30 | 2026-04-17 |  |
+| [allured](https://open.spotify.com/track/0E5BAno4o00oI3HZFvVXhd) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [allured](https://open.spotify.com/album/2qX9evcsvtcxdRKc0tJKLn) | 3:30 | 2026-04-17 | 2026-10-11 |
 | [Alone](https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Alone](https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69) | 3:17 | 2022-05-13 | 2022-12-17 |
 | [Alpha Sleep](https://open.spotify.com/track/5TJbc3YJN59ItZKwVcGQng) | [Marina](https://open.spotify.com/artist/5uHdXtqI5H3T17ovMtkqWs) | [Degrader](https://open.spotify.com/album/5mmZn799VQ5Rs2Tdod68Pz) | 3:41 | 2021-12-17 | 2022-07-22 |
 | [Altar of Snakes](https://open.spotify.com/track/2ApG8gUmrvfMJTBGpAact8) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Altar of Snakes](https://open.spotify.com/album/3TngadNqveEE0a65Bfvbya) | 3:34 | 2022-07-13 | 2022-07-23 |
@@ -441,6 +441,7 @@
 | [Digital Hell](https://open.spotify.com/track/4bqhilHNnWjhLX7IJXoXVA) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Digital Hell](https://open.spotify.com/album/64isnUcD3Iw5PXtJMcQ8S3) | 3:57 | 2025-08-01 | 2026-06-16 |
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-01-07 | 2022-03-18 |
 | [Dirge](https://open.spotify.com/track/4tS7QOYoendjupkCIPQ9Em) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [There Are Things Worse Than Death \- EP](https://open.spotify.com/album/5DXsxOvyvZ9uAdfjpBcU7B) | 3:40 | 2021-12-17 | 2022-02-18 |
+| [Dirt](https://open.spotify.com/track/0pyFy1WKgJ64vTI73iLRvc) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dirt](https://open.spotify.com/album/3Bm3vw6rxLUGI2RiD4HdUY) | 3:33 | 2026-10-09 |  |
 | [Disappear](https://open.spotify.com/track/1c04Lv2KJB8gs5Szgf48yo) | [Annalynn](https://open.spotify.com/artist/3VBnJPcfaEGWPpON1aaVIX) | [Disappear](https://open.spotify.com/album/5gYmaHKa0j8GHgpnCqonWz) | 4:19 | 2023-07-14 | 2024-01-13 |
 | [Disclosure](https://open.spotify.com/track/6o56ET8RCtfQTczMrUsCzQ) | [HAWK](https://open.spotify.com/artist/29f2mFV3WUYNmmrhHKV9rX), [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [Disclosure](https://open.spotify.com/album/3cibP6VYknES6QUccch6CJ) | 3:38 | 2025-05-09 | 2025-05-31 |
 | [Disconnected](https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Disconnected](https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2) | 4:26 | 2021-12-17 | 2022-04-02 |
@@ -1063,7 +1064,7 @@
 | [ONE OF US](https://open.spotify.com/track/1y31IHgGUeZc3jBQlw1cd8) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [ONE OF US](https://open.spotify.com/album/4kaJhsddSMU0WP5b3ZEQjv) | 3:12 | 2026-01-16 | 2026-09-05 |
 | [Oni](https://open.spotify.com/track/0duwzHmpcdFDDfmc7bCb0Q) | [Memorist](https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn) | [ONI//KIJO](https://open.spotify.com/album/6eSG2kq7uj7JS8QP39EckW) | 3:52 | 2021-12-17 | 2022-02-18 |
 | [Only endless](https://open.spotify.com/track/4J7nXEIgYTeFOH2sb9MLtk) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Only endless](https://open.spotify.com/album/1hLhvYGxOvyrbRGrFaFBHQ) | 4:01 | 2026-06-16 | 2026-09-05 |
-| [Only Human](https://open.spotify.com/track/1SIYO9wtotySROj8jVHnyv) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Only Human](https://open.spotify.com/album/1Ja5NaBMBHo1fQNhzdnoxy) | 3:04 | 2026-09-04 |  |
+| [Only Human](https://open.spotify.com/track/1SIYO9wtotySROj8jVHnyv) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Only Human](https://open.spotify.com/album/1Ja5NaBMBHo1fQNhzdnoxy) | 3:04 | 2026-09-04 | 2026-10-11 |
 | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [AJ Channer](https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd) | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE) | 3:02 | 2022-04-01 | 2022-07-23 |
 | [Opaline](https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Devoured by the Mouth of Hell](https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l) | 3:21 | 2024-10-18 | 2025-05-24 |
 | [OPTIMIZE](https://open.spotify.com/track/1s8PGnCoTjzcsp3OoDw6tG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [OPTIMIZE](https://open.spotify.com/album/1MsPJsZSrBUsqTDPCx1050) | 3:57 | 2025-10-24 |  |
@@ -1712,5 +1713,6 @@
 | [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 | 2024-03-08 | 2024-07-14 |
 | [Zero](https://open.spotify.com/track/0r4HLuNA4K1WgApAdNf4d3) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Zero](https://open.spotify.com/album/5x6VBSh5VbqSjLJ0WG5oyp) | 4:12 | 2025-11-07 |  |
 | [zero.point.genesis](https://open.spotify.com/track/0pP30F9ruAX0d0Gr7xj8Sh) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [zero.point.genesis](https://open.spotify.com/album/3TCuGF2Cbnu9vP64Wzz30f) | 3:31 | 2025-11-21 |  |
+| [バリバリBuddy](https://open.spotify.com/track/03jc1xUdkdwNbbzum0TPEF) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [バリバリBuddy](https://open.spotify.com/album/3C3xh5nClBcyLQFJlyrWTK) | 3:39 | 2026-10-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

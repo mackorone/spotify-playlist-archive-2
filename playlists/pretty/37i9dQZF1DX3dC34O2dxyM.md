@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 
 > Canciones de cuna relajantes con arpa y guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,342 likes - 75 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,428 likes - 75 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 549477,
+  "num_followers": 549496,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435200,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "The Great American Death Rattle",
         "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 244720,
       "name": "The Great American Death Rattle",
       "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435200,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Through The Eyes Of Heathens",
-        "url": "https://open.spotify.com/album/4oFfTnY3Je6IT4QbeaPbQp"
+        "name": "Burning Village",
+        "url": "https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P"
       },
       "artists": [
         {
-          "name": "Dozer",
-          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
+          "name": "Mountain Witch",
+          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
         }
       ],
-      "duration_ms": 508306,
-      "name": "Big Sky Theory",
-      "url": "https://open.spotify.com/track/676z61jraS43HoLu3Tc9dB"
+      "duration_ms": 282217,
+      "name": "The Dead Won't Sleep",
+      "url": "https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1479,6 +1479,22 @@
       "duration_ms": 505196,
       "name": "Hot Lava Man",
       "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Through The Eyes Of Heathens",
+        "url": "https://open.spotify.com/album/4oFfTnY3Je6IT4QbeaPbQp"
+      },
+      "artists": [
+        {
+          "name": "Dozer",
+          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
+        }
+      ],
+      "duration_ms": 508306,
+      "name": "Big Sky Theory",
+      "url": "https://open.spotify.com/track/676z61jraS43HoLu3Tc9dB"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1591,22 +1607,6 @@
       "duration_ms": 185440,
       "name": "Stray Bullit Woman",
       "url": "https://open.spotify.com/track/6U7yjgpweQna55cfWEZXIk"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Acid Roulette",
-        "url": "https://open.spotify.com/album/6kdoeLhIsFuvjmhnyUFgei"
-      },
-      "artists": [
-        {
-          "name": "Scorpion Child",
-          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
-        }
-      ],
-      "duration_ms": 349466,
-      "name": "Acid Roulette",
-      "url": "https://open.spotify.com/track/65TTWkvvYTpvseubg1pmRa"
     }
   ],
   "unique_name": "Stoner Rock",

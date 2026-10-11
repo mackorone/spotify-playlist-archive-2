@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112942,
+  "num_followers": 112952,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-07-30 22:04:18",
       "album": {
-        "name": "Desacreditar Jamais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 225068,
-      "name": "Desacreditar Jamais - Ao Vivo",
-      "url": "https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp"
-    },
-    {
-      "added_at": "2026-07-30 22:04:18",
-      "album": {
         "name": "A Minha Raz\u00e3o (Reason I Sing)",
         "url": "https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 273552,
       "name": "A Minha Raz\u00e3o (Reason I Sing)",
       "url": "https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe"
+    },
+    {
+      "added_at": "2026-07-30 22:04:18",
+      "album": {
+        "name": "Desacreditar Jamais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 225068,
+      "name": "Desacreditar Jamais - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp"
     },
     {
       "added_at": "2026-07-30 22:04:18",
@@ -615,38 +615,6 @@
     {
       "added_at": "2026-07-30 22:04:18",
       "album": {
-        "name": "\u00c9 Mais Que Uma Honra",
-        "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        }
-      ],
-      "duration_ms": 296058,
-      "name": "\u00c9 Mais Que Uma Honra",
-      "url": "https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI"
-    },
-    {
-      "added_at": "2026-07-30 22:04:18",
-      "album": {
-        "name": "At\u00e9 Sermos Um",
-        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 178446,
-      "name": "At\u00e9 Sermos Um",
-      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
-    },
-    {
-      "added_at": "2026-07-30 22:04:18",
-      "album": {
         "name": "Um Conselho",
         "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
       },
@@ -679,6 +647,38 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2026-07-30 22:04:18",
+      "album": {
+        "name": "At\u00e9 Sermos Um",
+        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 178446,
+      "name": "At\u00e9 Sermos Um",
+      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
+    },
+    {
+      "added_at": "2026-07-30 22:04:18",
+      "album": {
+        "name": "\u00c9 Mais Que Uma Honra",
+        "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        }
+      ],
+      "duration_ms": 296058,
+      "name": "\u00c9 Mais Que Uma Honra",
+      "url": "https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI"
     },
     {
       "added_at": "2026-07-30 22:04:18",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-07-30 22:04:18",
       "album": {
-        "name": "Festa no Deserto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 227717,
-      "name": "Festa no Deserto - Ao Vivo",
-      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
-    },
-    {
-      "added_at": "2026-07-30 22:04:18",
-      "album": {
         "name": "SOCORRO",
         "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 245744,
       "name": "SOCORRO",
       "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2026-07-30 22:04:18",
+      "album": {
+        "name": "Festa no Deserto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 227717,
+      "name": "Festa no Deserto - Ao Vivo",
+      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
     },
     {
       "added_at": "2026-07-30 22:04:18",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-07-30 22:04:18",
       "album": {
-        "name": "Enganoso Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
-      },
-      "artists": [
-        {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Enganoso Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
-    },
-    {
-      "added_at": "2026-07-30 22:04:18",
-      "album": {
         "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
         "url": "https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 179280,
       "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
       "url": "https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU"
+    },
+    {
+      "added_at": "2026-07-30 22:04:18",
+      "album": {
+        "name": "Enganoso Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 190023,
+      "name": "Enganoso Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
     },
     {
       "added_at": "2026-07-30 22:04:18",

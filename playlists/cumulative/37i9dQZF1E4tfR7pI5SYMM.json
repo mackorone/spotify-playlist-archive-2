@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Jon Drake, Autoimmune, The Old and more",
+  "description": "With Autoimmune, Jon Drake, Bad Scullianz and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -572,7 +572,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Alles Historie",
       "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1500,6 +1500,24 @@
       "duration_ms": 233482,
       "name": "Bird - 2023 Remastered Version",
       "url": "https://open.spotify.com/track/7faBwKTlRmeUHfCBwejwt4"
+    },
+    {
+      "album": {
+        "name": "Straight To The Head",
+        "url": "https://open.spotify.com/album/29TVX97T6qczH6zqYVaHQO"
+      },
+      "artists": [
+        {
+          "name": "Pistonhead",
+          "url": "https://open.spotify.com/artist/1VTGpfwYXvkVNPdeDIPO10"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242853,
+      "name": "Bitch Slap Rapper",
+      "url": "https://open.spotify.com/track/3tXV6j9iKqsw7x7P6xgcns"
     },
     {
       "album": {
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 227696,
       "name": "Casca Vazia",
       "url": "https://open.spotify.com/track/7yjoF01OVUYeOSJqmaGxqz"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 208937,
       "name": "Do it again!",
       "url": "https://open.spotify.com/track/2PVUma5gqD6nYpw5qDC1lp"
@@ -3972,7 +3990,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -5536,7 +5554,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 299413,
       "name": "Fear",
       "url": "https://open.spotify.com/track/0CJ6PtUuOi6wUBWo6WDk27"
@@ -6048,7 +6066,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 139000,
       "name": "Fucka Det Opp",
       "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
@@ -6156,7 +6174,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 194458,
       "name": "F\u00f8rrbi",
       "url": "https://open.spotify.com/track/51yl5HUS0n61xMdrvqJoUS"
@@ -7338,6 +7356,28 @@
           "url": "https://open.spotify.com/artist/5ayHuRXUHSFppj9LfuQRoD"
         }
       ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204999,
+      "name": "Hvis jeg f\u00e5r lov",
+      "url": "https://open.spotify.com/track/0442X9eSmosvLUvC2hgL8V"
+    },
+    {
+      "album": {
+        "name": "Hvis jeg f\u00e5r lov",
+        "url": "https://open.spotify.com/album/5cXdap7zpnGn8rFvpnmBRc"
+      },
+      "artists": [
+        {
+          "name": "Autoimmune",
+          "url": "https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc"
+        },
+        {
+          "name": "Dr. J\u00f8rn",
+          "url": "https://open.spotify.com/artist/5ayHuRXUHSFppj9LfuQRoD"
+        }
+      ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
       "date_removed": "2026-09-15",
@@ -8104,7 +8144,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -8212,7 +8252,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -8538,7 +8578,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 155846,
       "name": "Kick the Shit",
       "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
@@ -9144,7 +9184,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 87251,
       "name": "Life In Prison",
       "url": "https://open.spotify.com/track/1fZgTjAaFx0KJRhbmtU09N"
@@ -9300,7 +9340,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -9672,7 +9712,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 265146,
       "name": "Love Let's Go",
       "url": "https://open.spotify.com/track/6sSIgZKqzl8AZybS9bifRF"
@@ -10054,6 +10094,24 @@
       "duration_ms": 362264,
       "name": "Maths of Life",
       "url": "https://open.spotify.com/track/674iqeAq4ExJGbNe65zjp6"
+    },
+    {
+      "album": {
+        "name": "Maybe Now",
+        "url": "https://open.spotify.com/album/15nIi8OwddTfDWiU5LIBRv"
+      },
+      "artists": [
+        {
+          "name": "Whalapoppers",
+          "url": "https://open.spotify.com/artist/4iulaWvL2ILdn9P8YMbvDk"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "Maybe Now",
+      "url": "https://open.spotify.com/track/73s0QLKk5Ys610y8yho2TW"
     },
     {
       "album": {
@@ -10880,7 +10938,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 232000,
       "name": "My Heroin",
       "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
@@ -11426,6 +11484,24 @@
       "duration_ms": 294110,
       "name": "Noen som ser",
       "url": "https://open.spotify.com/track/5GbqHtOcMkKueyj33EVmxt"
+    },
+    {
+      "album": {
+        "name": "Mixtape",
+        "url": "https://open.spotify.com/album/2JYqKbMZmnZYXlCe17qPfQ"
+      },
+      "artists": [
+        {
+          "name": "Slag Rat",
+          "url": "https://open.spotify.com/artist/76BN0B7OM7AYjNzbxui2Y1"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222763,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5qUFjHOWPpy5kwVQaC8y2v"
     },
     {
       "album": {
@@ -12810,7 +12886,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 119052,
       "name": "Por Por - From \"Narakarappor Alias The GrandMaster\"",
       "url": "https://open.spotify.com/track/6GRXpbjruwNCNpAgFsjbIF"
@@ -12958,7 +13034,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 223051,
       "name": "Progress",
       "url": "https://open.spotify.com/track/6UaMb5HuoDC9Kf5N6d72jK"
@@ -14138,7 +14214,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Ship of Sorrow",
       "url": "https://open.spotify.com/track/4nM1YRktjwhcRg41vBbKaA"
@@ -14210,7 +14286,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 220056,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
@@ -15514,7 +15590,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -15702,7 +15778,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 156095,
       "name": "The Ambulance Song",
       "url": "https://open.spotify.com/track/7paZM4Elsbx6BgTGBnUwvQ"
@@ -17330,7 +17406,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 202115,
       "name": "Too Late To Quit",
       "url": "https://open.spotify.com/track/3EyMvyPKzjcwpkCeS0MZeR"
@@ -18294,7 +18370,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 128600,
       "name": "Virus Potus",
       "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
@@ -19802,7 +19878,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 142321,
       "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
       "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"

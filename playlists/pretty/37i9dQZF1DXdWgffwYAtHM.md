@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:24B9XEbZHE4EPRzQ1t3czM">Diálogos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,123 likes - 10 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,124 likes - 10 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 9 | [como superar um quase algo?](https://open.spotify.com/episode/31L6pNKocl29Zau2vqdKQS) | [obra aberta](https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM) | [obra aberta](https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM) | 41:47 |
 | 10 | [Só Pod 108 \- Minha sogra não conseguiu chegar ao banheiro..\. e fez tudo na minha sala](https://open.spotify.com/episode/2BXeSndqicQQSvjnMo1dPE) | [Só Pod Ser História • Podcast](https://open.spotify.com/show/0thgoTntV114tkxYkGwI1t) | [Só Pod Ser História • Podcast](https://open.spotify.com/album/0thgoTntV114tkxYkGwI1t) | 50:23 |
 
-Snapshot ID: `AAAAAJEZgmG5oR43yrh3kTtRfEgmW/iv`
+Snapshot ID: `AAAAAJC7b0EMk3cTloF3KLVbs8xwIylv`

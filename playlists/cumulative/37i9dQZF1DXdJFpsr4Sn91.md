@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,296 songs - 2 day 16 hr 47 min
+1,297 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-02 | 2024-07-05 |
 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 | 2025-05-21 | 2025-08-16 |
 | [Et ollut se](https://open.spotify.com/track/5Ed7CNCkwXVFyoH7K5pRx9) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Et ollut se](https://open.spotify.com/album/3sine6HsKtZdgJTaoXp0NJ) | 3:18 | 2025-09-18 | 2025-11-21 |
+| [etkö sä nää?](https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [etkö sä nää?](https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr) | 3:25 | 2026-10-08 |  |
 | [Etärakastaa](https://open.spotify.com/track/52ZKKXMog4cw5wgGpXKyJa) | [ISA&ALEKSI](https://open.spotify.com/artist/4GQW3FwUg5uqOTvKOGLf3W) | [Etärakastaa](https://open.spotify.com/album/0zBajjIRK4nMoaFWiGnDQn) | 3:25 | 2026-09-10 | 2026-10-05 |
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2024-10-03 | 2024-10-25 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-08-02 |
@@ -936,7 +937,7 @@
 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 | 2024-11-07 | 2024-12-06 |
 | [Samat silmät \(feat\. BESS\)](https://open.spotify.com/track/0UugpyBXMHcOP2ufK5HiD8) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Samat silmät \(feat\. BESS\)](https://open.spotify.com/album/3FbxZJa3Sc2hkzD0A1xDaT) | 3:37 | 2025-05-29 | 2025-08-22 |
 | [Samoilla silmil](https://open.spotify.com/track/13LbLU6tKyeukKbshFT0FO) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Samoilla silmil](https://open.spotify.com/album/0W3qVNLadZJP3CkPlxkdqf) | 2:46 | 2025-06-12 | 2025-08-29 |
-| [Samurai](https://open.spotify.com/track/3rVKDafQFUMyO42Of3YXKq) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Samurai](https://open.spotify.com/album/5XwZhHz1eVPWn951mXvm42) | 3:22 | 2026-09-03 |  |
+| [Samurai](https://open.spotify.com/track/3rVKDafQFUMyO42Of3YXKq) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Samurai](https://open.spotify.com/album/5XwZhHz1eVPWn951mXvm42) | 3:22 | 2026-09-03 | 2026-10-11 |
 | [San Francisco Boy](https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [San Francisco Boy](https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb) | 2:34 | 2025-01-30 | 2025-04-04 |
 | [Sano vaan](https://open.spotify.com/track/3bmaYlyaca8hvQ7cUEzHhG) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sano vaan](https://open.spotify.com/album/3SZuNM26rWPkYk5LGoiDjf) | 2:48 | 2024-07-02 | 2024-10-18 |
 | [Santana](https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Santana](https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT) | 2:52 | 2026-05-28 |  |

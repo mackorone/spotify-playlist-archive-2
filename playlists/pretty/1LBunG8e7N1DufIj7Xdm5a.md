@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,923 songs - 11 day 2 hr 53 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,924 songs - 11 day 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4931,5 +4931,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4921 | [Light Air](https://open.spotify.com/track/46xsmhel32WEYMPdHl63Lu) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [1994](https://open.spotify.com/album/2wfuupUkYaanOecKigtulu) | 3:56 |
 | 4922 | [Goodbye, Goodnight](https://open.spotify.com/track/4Zd2ElhotZnoMwJg5NA6jP) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Goodbye, Goodnight](https://open.spotify.com/album/5MRudKcvra04AYy0kOi30u) | 3:51 |
 | 4923 | [DOE DAN](https://open.spotify.com/track/0k6moj6JXKY0r7g7jDo2oF) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [DOE DAN](https://open.spotify.com/album/62ngumopXDkWWiA1Nrk96e) | 2:30 |
+| 4924 | [Obsession](https://open.spotify.com/track/0SAgfYEHKPEZBPLXV8S8Bs) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Bad Decisions](https://open.spotify.com/album/0NcVWypNt3E0aKXu1BcRXN) | 3:02 |
 
-Snapshot ID: `AAAKd1FJYOdmGsaXctVd8YBJVn+KPkoN`
+Snapshot ID: `AAAKeP2JNPDFy9Kwp0PcYUgEqs9bPnCF`

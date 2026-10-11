@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Morpheuz
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,071 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,029 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 8 | [Cry Baby Cry](https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Cry Baby Cry](https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j) | 3:08 |
 | 9 | [Von hier an blind](https://open.spotify.com/track/2LQZNpXsR6hzsuAz7ROfbP) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Wir sind Helden](https://open.spotify.com/album/6yor2VVRMYFnRz2JmtmpND) | 3:31 |
 | 10 | [Kein Kind von Traurigkeit](https://open.spotify.com/track/1CW7JRNSMvXREclAbROBUJ) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Kein Kind von Traurigkeit](https://open.spotify.com/album/2SL8UcT1wiJjs8OvslW13D) | 2:17 |
-| 11 | [GELD](https://open.spotify.com/track/5NKdJZB3WNYmmxee02WOqb) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [GELD](https://open.spotify.com/album/0MvUkn1OXSYaqSWlC8OCCq) | 3:35 |
+| 11 | [GELD](https://open.spotify.com/track/5NKdJZB3WNYmmxee02WOqb) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [GELD](https://open.spotify.com/album/0MvUkn1OXSYaqSWlC8OCCq) | 3:35 |
 | 12 | [oktober](https://open.spotify.com/track/2HJGbzD9NRvYV9Hs1qOs6a) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [oktober](https://open.spotify.com/album/6C230g1UOxyCivhVA8HMHU) | 2:47 |
 | 13 | [Teenage Dreams 2](https://open.spotify.com/track/2RFKAbEQGDCElii11VArPJ) | [Caprio](https://open.spotify.com/artist/5RfnL0XOwN5cyziUrELBmS) | [Teenage Dreams 2](https://open.spotify.com/album/6w3I4eMCYU2YLdfdcYuvyY) | 2:01 |
 | 14 | [Offensive](https://open.spotify.com/track/5mdyon1c8wQxEjb0tW5Wtb) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Offensive](https://open.spotify.com/album/1K6hZjtZHad2L1tSFvFhu8) | 3:22 |

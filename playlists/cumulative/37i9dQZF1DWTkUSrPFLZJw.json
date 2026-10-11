@@ -72,7 +72,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 163837,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
@@ -346,6 +346,24 @@
       "duration_ms": 301530,
       "name": "BALENCIAGA II",
       "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
+    },
+    {
+      "album": {
+        "name": "4 DA POPPIN'",
+        "url": "https://open.spotify.com/album/7hKjdSxPxbEumo52i77huI"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176118,
+      "name": "BALOTELLI (SUPA)",
+      "url": "https://open.spotify.com/track/1XOUhnk0aG87PZ4c7MhHfU"
     },
     {
       "album": {
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 217959,
       "name": "SEXY & BAD",
       "url": "https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV"
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 189177,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"

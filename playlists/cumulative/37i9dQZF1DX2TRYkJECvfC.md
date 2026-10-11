@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-718 songs - 2 day 10 hr 39 min
+719 songs - 2 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Please \- Jeff Samuel Remix](https://open.spotify.com/track/1jZqT8S8zfyLBw0BdCQn6X) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jeff Samuel](https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 7:07 | 2022-05-03 | 2022-11-17 |
 | [Please \- Jeff Samuel Remix](https://open.spotify.com/track/5hNNUmZYDpn3ECksD3SxoB) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jeff Samuel](https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2) | [Blood Remixed](https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy) | 7:07 | 2021-12-08 | 2022-07-27 |
 | [Poison Of Choice](https://open.spotify.com/track/72zZ2KOn7JbTFsALUmhpt0) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Poison Of Choice](https://open.spotify.com/album/0OyTVoG2ISGrLG3UNnLicA) | 4:01 | 2024-04-12 |  |
+| [Pool](https://open.spotify.com/track/4f2iN7eztSyN0W0DoMoJHu) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Mare \(10th Anniversary Edition\)](https://open.spotify.com/album/4Js9UoFdCF1QbRFGTbgo3X) | 3:54 | 2026-10-09 |  |
 | [potluck](https://open.spotify.com/track/0DeAJmckih4dColRzcdHrA) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [potluck](https://open.spotify.com/album/7z61N7PSOhMOFWpnF7uDvb) | 4:36 | 2024-08-09 | 2025-01-11 |
 | [Procession](https://open.spotify.com/track/4e2xo3upMAjIPywjFUSDBp) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Procession](https://open.spotify.com/album/0b7H7ebK3ojenHC2MiCdfA) | 5:16 | 2025-12-12 |  |
 | [Protection \- Hold Me Rework](https://open.spotify.com/track/1WZeyPexMk2LSa7ABz9wdZ) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Protection](https://open.spotify.com/album/5sGuW9SXq65vmKq2UdFl4z) | 7:05 | 2021-12-08 | 2023-05-06 |
@@ -520,7 +521,7 @@
 | [Reminds Me Of Her](https://open.spotify.com/track/51m6hGfXZwpx9YBbcryUpD) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Reminds Me Of Her](https://open.spotify.com/album/3cpziZcx5ENSn60NopxwT0) | 6:25 | 2021-12-08 | 2023-07-02 |
 | [Renaissance](https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Renaissance](https://open.spotify.com/album/7wENbWzIAZEOmj2a7m4mlZ) | 7:39 | 2021-12-08 | 2025-06-06 |
 | [Renaissance \- Manuel Riva Remix](https://open.spotify.com/track/6kiVi4iXhooHmaty1G5vV5) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Renaissance \(Manuel Riva Remix\)](https://open.spotify.com/album/0InymYk58sowWFJCdLDk1Q) | 3:46 | 2021-12-08 | 2023-01-06 |
-| [Rest Round Here](https://open.spotify.com/track/2VyMyhZrDDh5e5N9kIX87N) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Rest Round Here](https://open.spotify.com/album/0kvwck16ZQJvB9WOWdcZD4) | 3:55 | 2025-04-11 |  |
+| [Rest Round Here](https://open.spotify.com/track/2VyMyhZrDDh5e5N9kIX87N) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Rest Round Here](https://open.spotify.com/album/0kvwck16ZQJvB9WOWdcZD4) | 3:55 | 2025-04-11 | 2026-10-11 |
 | [Resurface](https://open.spotify.com/track/4ztZ2DZsuwUbaeQdvpY78Z) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Resurface](https://open.spotify.com/album/3M73zMomIlYvJfsqoIPmOl) | 7:33 | 2021-12-08 | 2022-02-22 |
 | [Rewind](https://open.spotify.com/track/3KOdeL8kLUYBpM10XMZ2iy) | [Lorenzo De Blanck](https://open.spotify.com/artist/3Px9ffXH2SBEcJWr5fSojM) | [Rewind](https://open.spotify.com/album/387eFJ2wv7ctzaNg645oET) | 6:35 | 2021-12-08 | 2022-07-29 |
 | [Ride](https://open.spotify.com/track/00aNyosmX1zpR0TjJV0Dte) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Drown](https://open.spotify.com/album/4Y7YibFvq0L8ZJTgwgg0dH) | 7:15 | 2022-05-03 | 2023-01-06 |

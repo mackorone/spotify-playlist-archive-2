@@ -4,7 +4,7 @@
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Franz Keloh
 
-1,360 songs - 2 day 18 hr 37 min
+1,361 songs - 2 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,7 +518,7 @@
 | [Gaz au fond](https://open.spotify.com/track/3ahYEYoP0voboULlwJH8Fx) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Dixque d'art](https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS) | 4:34 | 2022-04-15 | 2023-01-28 |
 | [GELATO LATTO](https://open.spotify.com/track/3ZJAYfHJht2qRUGtw9REcx) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [NEPTUNEFINESSE](https://open.spotify.com/album/50t2E1wnAWYuiLz01hQkaK) | 3:10 | 2026-01-16 | 2026-03-14 |
 | [GENERAL FINESSE FREESTYLE](https://open.spotify.com/track/5NgnOkOSKphYngPzkx4wlQ) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [GENERAL FINESSE FREESTYLE](https://open.spotify.com/album/2CEZwsIJ6Eu5D6CHScYhZh) | 2:23 | 2024-09-13 | 2025-06-21 |
-| [GENS DU PAYS](https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:32 | 2025-06-27 |  |
+| [GENS DU PAYS](https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:32 | 2025-06-27 | 2026-10-11 |
 | [Get Away](https://open.spotify.com/track/1G7UMtgnYaE76qqDekIGV4) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_BLEU](https://open.spotify.com/album/6RUw0gpht5CnZnuQEvy1Im) | 3:24 | 2023-06-16 | 2023-09-16 |
 | [Get that Thang](https://open.spotify.com/track/0mgVIOwMXlEKfCZ7W3vtt9) | [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Get that Thang](https://open.spotify.com/album/6b99vKjwOnTWLRHMuHsesG) | 1:52 | 2023-03-10 | 2023-07-15 |
 | [Ghetto génétik \(tome 5\)](https://open.spotify.com/track/0PBiAGRQoDkKj5yhaDwYOG) | [Dramatik](https://open.spotify.com/artist/5emIiPIHrSU5eP2dOd8Ksi) | [Le phénix, il était plusieurs fois](https://open.spotify.com/album/2kYY5eecpmLWrhsG6MRcIQ) | 2:30 | 2023-11-03 | 2023-11-13 |
@@ -1189,6 +1189,7 @@
 | [Suis mes pas](https://open.spotify.com/track/0fREnZJi7nuyRaFEtK9aTw) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Suis mes pas](https://open.spotify.com/album/6mFhy2gP9jazJNyAX0vW0a) | 4:03 | 2025-08-22 | 2026-01-31 |
 | [sunglasses](https://open.spotify.com/track/03O2Q64T2SH6WFNSmUaomv) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg), [Le Joon](https://open.spotify.com/artist/3HMNky1UaIyf7nzfqsKcuh) | [sunglasses](https://open.spotify.com/album/1TewVFNeDdtbVnOtvZ1uNG) | 3:20 | 2026-07-17 | 2026-08-08 |
 | [Sunny Delight](https://open.spotify.com/track/31jvT9OExPCzwIb58lTvcU) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Colin\-Maillard](https://open.spotify.com/album/3ndgfqyim4BNv0ATiLLQ7b) | 3:53 | 2023-11-03 | 2023-11-13 |
+| [Super freak](https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Super freak](https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1) | 2:49 | 2026-10-09 |  |
 | [Sur la lune](https://open.spotify.com/track/0z33yZbU2DpKRGSoPl4lQO) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Sur la lune](https://open.spotify.com/album/6nW9vAQcbtXmaSHh5lbH3X) | 2:13 | 2023-05-12 | 2023-06-17 |
 | [Sur ma tête](https://open.spotify.com/track/44Oh92jkTz1Wwjvn3ljR69) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Sur ma tête](https://open.spotify.com/album/24oeB4y5KtvehmuKPFLGQh) | 2:18 | 2022-07-25 | 2023-01-06 |
 | [SUR MA VIE](https://open.spotify.com/track/2dy5GvWNBz0wFVmrckMRMD) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shah Frank](https://open.spotify.com/artist/02CC6FGDalkdCUBJXAgjc8) | [SUR MA VIE](https://open.spotify.com/album/5gYnlOWSyq1vj0lxMDnFB9) | 2:48 | 2022-03-18 | 2022-04-09 |

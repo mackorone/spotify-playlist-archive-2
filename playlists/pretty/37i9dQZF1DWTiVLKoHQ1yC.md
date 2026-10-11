@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,533 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,580 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 38 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 |
 | 39 | [come home](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [come home](https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap) | 3:23 |
 | 40 | [Beside You](https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Beside You](https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS) | 4:41 |
-| 41 | [Beyond Today](https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Beyond Today](https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b) | 3:35 |
-| 42 | [Down For You \(feat\. Jyll\)](https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Down For You \(feat\. Jyll\)](https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf) | 3:22 |
+| 41 | [Down For You \(feat\. Jyll\)](https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Down For You \(feat\. Jyll\)](https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf) | 3:22 |
+| 42 | [Beyond Today](https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Beyond Today](https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b) | 3:35 |
 | 43 | [Leaving On](https://open.spotify.com/track/3RwtuFcPUZWm7zDEO3YK4J) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Leaving On](https://open.spotify.com/album/7LkAToNygMiqJViyOVr5HR) | 3:40 |
 | 44 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
 | 45 | [Closer](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Closer](https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA) | 4:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [How Does It Feel](https://open.spotify.com/track/1X5zjaul0MoZVJMmq6RtYK) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [How Does It Feel](https://open.spotify.com/album/5g7eHEiWZexaG3OoMTY8Jk) | 4:36 |
 | 60 | [Burn For You](https://open.spotify.com/track/4NKlu1nHjgLMRGo3qxF7di) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Burn For You](https://open.spotify.com/album/48ydweaf3dibsmtvnscQFj) | 2:41 |
 
-Snapshot ID: `AAAAAM47HBN+CxHSFvaNpWtD40wRQZYM`
+Snapshot ID: `AAAAAB9oH6jdJsQbtqZ6QllFChgDoK0K`

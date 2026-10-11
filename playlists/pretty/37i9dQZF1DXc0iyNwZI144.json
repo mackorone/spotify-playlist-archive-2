@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1022062,
+  "num_followers": 1021926,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,26 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
         "name": "Save Me (feat. MKLA)",
         "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 193548,
       "name": "Save Me (feat. MKLA)",
       "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
+        "name": "Stay (Don't Go Away) [feat. Raye]",
+        "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 185942,
+      "name": "Stay (Don't Go Away) [feat. Raye]",
+      "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
         "name": "Human (Remix)",
         "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 211024,
       "name": "Human (Remix)",
       "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
-        "name": "Stay (Don't Go Away) [feat. Raye]",
-        "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 185942,
-      "name": "Stay (Don't Go Away) [feat. Raye]",
-      "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1215,30 +1215,6 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
-        "url": "https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
-      "url": "https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
         "name": "Fica Tudo Bem (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 174125,
       "name": "Fica Tudo Bem - Bhaskar Remix",
       "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
+        "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
+        "url": "https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
+      "url": "https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g"
     },
     {
       "added_at": "2026-07-24 17:31:08",

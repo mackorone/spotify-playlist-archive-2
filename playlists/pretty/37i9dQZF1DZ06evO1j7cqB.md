@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,664 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,667 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 49 | [White Roses of Scotland](https://open.spotify.com/track/7e2Js9jadB6eTuNesmeIxh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 4:30 |
 | 50 | [Postmarks](https://open.spotify.com/track/0oyEz0H3aWZgPkD4vgClPw) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Blood of my Blood \(Season 2 Original Series Soundtrack\)](https://open.spotify.com/album/1MzzczScFfaoZ8G0JQWyMh) | 3:33 |
 
-Snapshot ID: `asbdAAAAAACxuMCT1UQRIBrBMWcr7+59`
+Snapshot ID: `asgugAAAAADYsG6NG6Lx4zcwU2ofDc8l`

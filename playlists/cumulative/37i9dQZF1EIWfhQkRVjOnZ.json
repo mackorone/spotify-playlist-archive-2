@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 240573,
       "name": "A Prophecy: In Reverie",
       "url": "https://open.spotify.com/track/4JV3XcAXfn3TmFRkOMit9m"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 210893,
       "name": "A Threnody For Modern Romance",
       "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Blessed Be Our Ever After",
+        "url": "https://open.spotify.com/album/4J0RyJMOJ9MEjtCXf6WxQJ"
+      },
+      "artists": [
+        {
+          "name": "Burden Of A Day",
+          "url": "https://open.spotify.com/artist/5y0bqaYa1bjJBLeYvFjHwD"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280653,
+      "name": "Battle For Hoth",
+      "url": "https://open.spotify.com/track/6Ig5YhprNWHfdaDuJA2Aa2"
+    },
+    {
+      "album": {
         "name": "As Daylight Dies (Special Edition)",
         "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
       },
@@ -938,7 +956,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 228960,
       "name": "Bruised & Broken",
       "url": "https://open.spotify.com/track/6BXCA3BBhx6c3Idv5cLfR1"
@@ -978,6 +996,24 @@
       "duration_ms": 201800,
       "name": "By Grace",
       "url": "https://open.spotify.com/track/0QYDzSKXoiPsLwiLWlfhy9"
+    },
+    {
+      "album": {
+        "name": "Of Love And Lunacy",
+        "url": "https://open.spotify.com/album/6QiKYJ1Fa3n5wE8viOyRea"
+      },
+      "artists": [
+        {
+          "name": "Still Remains",
+          "url": "https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267373,
+      "name": "Cherished",
+      "url": "https://open.spotify.com/track/7wjCWw8TdapyzVkxLGEuuf"
     },
     {
       "album": {
@@ -1028,7 +1064,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 266653,
       "name": "Circle The Sky",
       "url": "https://open.spotify.com/track/5OW3hWZIfWIGa41N26sL6I"
@@ -1118,7 +1154,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Compromised",
       "url": "https://open.spotify.com/track/62bn0wrhmzWQzsBLQNGlwp"
@@ -1172,7 +1208,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Connected",
       "url": "https://open.spotify.com/track/3vkkXFwSQjjVoHeBTcX4ba"
@@ -1910,7 +1946,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 275120,
       "name": "False Profit",
       "url": "https://open.spotify.com/track/3aahZWSGhy07rsli5H94Jr"
@@ -2612,7 +2648,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 199200,
       "name": "It's Always Darkest Before The Dawn",
       "url": "https://open.spotify.com/track/73zneYI9DlEbvcHvHbct4p"
@@ -3682,7 +3718,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 316466,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/6mjmLznkH7ZHHg0tzWQXIg"
@@ -4226,7 +4262,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 235906,
       "name": "Shipwreck",
       "url": "https://open.spotify.com/track/6LLkb61U9uzCiJlBYkidUQ"
@@ -4712,7 +4748,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 225386,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/5gcqdcjYGAqDMGWL9pRO1b"
@@ -4748,7 +4784,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 216000,
       "name": "The Fear In Your Eyes",
       "url": "https://open.spotify.com/track/4QpMKLBnPPjU1KTq3usyTC"
@@ -4770,6 +4806,24 @@
       "duration_ms": 185200,
       "name": "The Finisher",
       "url": "https://open.spotify.com/track/2IrBOsPFanKlio8U55XUxc"
+    },
+    {
+      "album": {
+        "name": "A Dialogue",
+        "url": "https://open.spotify.com/album/5CkRV85XOyFlqOF6B8MY0F"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stacy",
+          "url": "https://open.spotify.com/artist/0DjT5jHhSqB435AtWp8ef3"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244493,
+      "name": "The First Words",
+      "url": "https://open.spotify.com/track/6V8wuGpVJmzzyxHveZcvM0"
     },
     {
       "album": {
@@ -4863,6 +4917,24 @@
     },
     {
       "album": {
+        "name": "The Life & Death Of A Plea For Purging",
+        "url": "https://open.spotify.com/album/1YVkow0ErNExi51J1fL6N8"
+      },
+      "artists": [
+        {
+          "name": "A Plea for Purging",
+          "url": "https://open.spotify.com/artist/2KMe9muhC1eg1kQq6veejU"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277933,
+      "name": "the life",
+      "url": "https://open.spotify.com/track/4pNqa5A4HbRnhWnRm0QvIJ"
+    },
+    {
+      "album": {
         "name": "Unbreakable",
         "url": "https://open.spotify.com/album/3k4aYVzOplQp6MTye2KlQ0"
       },
@@ -4874,7 +4946,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 244573,
       "name": "The Machinist",
       "url": "https://open.spotify.com/track/2S12ujSo1DbsuAlS2NbNAv"
@@ -5652,7 +5724,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 223960,
       "name": "Visions In Sleep",
       "url": "https://open.spotify.com/track/1xTL2CWYsNaxHfLNDplXRC"

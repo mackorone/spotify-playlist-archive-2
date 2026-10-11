@@ -11153,6 +11153,24 @@
     },
     {
       "album": {
+        "name": "Back To Our Regularly Scheduled Programming",
+        "url": "https://open.spotify.com/album/65D5qDMxfTJVFBcUqxRiPg"
+      },
+      "artists": [
+        {
+          "name": "D Mills",
+          "url": "https://open.spotify.com/artist/4j15TlEXsoU1f2RHaejASa"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199256,
+      "name": "Believe It",
+      "url": "https://open.spotify.com/track/4ekgIZMZLd6vnRXyeNwgXR"
+    },
+    {
+      "album": {
         "name": "Believing",
         "url": "https://open.spotify.com/album/5BDBOJKJsKdTKHdmkozY34"
       },
@@ -31294,7 +31312,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 271466,
       "name": "Dug a Hole",
       "url": "https://open.spotify.com/track/42V4O2h6s6HEuXhS7n1hgh"
@@ -113508,7 +113526,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 238666,
       "name": "Tug",
       "url": "https://open.spotify.com/track/0TQgcEcfsq5E0v72YiWlZU"

@@ -1,6 +1,6 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: The Barr Brothers",
-  "num_followers": 10137,
+  "num_followers": 10147,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/1iZ0lfz4ICkV3iht0kcXOk"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Cangiano",
-          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
-        }
-      ],
-      "duration_ms": 186571,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/3FR6I74FRcFyT3DQqOzA6a"
-    },
-    {
-      "added_at": "2026-10-09 04:03:39",
-      "album": {
         "name": "White Claw Addict",
         "url": "https://open.spotify.com/album/2VzRYpxNzoqq534enPB2RH"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "BASS WOMB ROOM: My \u201890s 4-Track Demos x Field Recordings",
-        "url": "https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p"
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/1iZ0lfz4ICkV3iht0kcXOk"
       },
       "artists": [
         {
-          "name": "Melissa Auf der Maur",
-          "url": "https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP"
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
         }
       ],
-      "duration_ms": 221587,
-      "name": "... And The Next Day",
-      "url": "https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n"
+      "duration_ms": 186571,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/3FR6I74FRcFyT3DQqOzA6a"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -823,6 +807,22 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
+        "name": "BASS WOMB ROOM: My \u201890s 4-Track Demos x Field Recordings",
+        "url": "https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p"
+      },
+      "artists": [
+        {
+          "name": "Melissa Auf der Maur",
+          "url": "https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP"
+        }
+      ],
+      "duration_ms": 221587,
+      "name": "... And The Next Day",
+      "url": "https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n"
+    },
+    {
+      "added_at": "2026-10-09 04:03:39",
+      "album": {
         "name": "WORST PARTY EVER",
         "url": "https://open.spotify.com/album/53MZyV26JLbusVBWkzTkbJ"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 152481,
       "name": "RICH!",
       "url": "https://open.spotify.com/track/034J9CitLjXmZZSqZhY1VK"
-    },
-    {
-      "added_at": "2026-10-09 04:03:39",
-      "album": {
-        "name": "Doldrums, Doldrums, Eviler Than the Devil",
-        "url": "https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL"
-      },
-      "artists": [
-        {
-          "name": "Yoo Doo Right",
-          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
-        }
-      ],
-      "duration_ms": 367386,
-      "name": "Doldrums, Doldrums, Eviler Than the Devil",
-      "url": "https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -871,18 +855,34 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "Machine Machine",
-        "url": "https://open.spotify.com/album/7ajRgpHXmtywk7gHERZcKJ"
+        "name": "Doldrums, Doldrums, Eviler Than the Devil",
+        "url": "https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL"
       },
       "artists": [
         {
-          "name": "Brothel in Belize",
-          "url": "https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH"
+          "name": "Yoo Doo Right",
+          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Machine Machine",
-      "url": "https://open.spotify.com/track/6vSnDfzyexTHZskj0hYJbV"
+      "duration_ms": 367386,
+      "name": "Doldrums, Doldrums, Eviler Than the Devil",
+      "url": "https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g"
+    },
+    {
+      "added_at": "2026-10-09 04:03:39",
+      "album": {
+        "name": "SANS TOi",
+        "url": "https://open.spotify.com/album/2jeZaqhXELmmWfFx0TFOfY"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebm",
+          "url": "https://open.spotify.com/artist/6fiZDVQvW1lOkWfH6PV30w"
+        }
+      ],
+      "duration_ms": 203005,
+      "name": "SANS TOi",
+      "url": "https://open.spotify.com/track/7ibt9DCVtXqnygrvPPSIG7"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "M\u00e9t\u00e9ore",
-        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
+        "name": "Machine Machine",
+        "url": "https://open.spotify.com/album/7ajRgpHXmtywk7gHERZcKJ"
       },
       "artists": [
         {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
+          "name": "Brothel in Belize",
+          "url": "https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH"
         }
       ],
-      "duration_ms": 137379,
-      "name": "M\u00e9t\u00e9ore",
-      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
+      "duration_ms": 160000,
+      "name": "Machine Machine",
+      "url": "https://open.spotify.com/track/6vSnDfzyexTHZskj0hYJbV"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/5j2drAMExkO13GFO7yC7SY"
+        "name": "M\u00e9t\u00e9ore",
+        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
       },
       "artists": [
         {
-          "name": "Dear Youth",
-          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
         }
       ],
-      "duration_ms": 164240,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/30rmOWu5OHa9uP6nw8wRhJ"
+      "duration_ms": 137379,
+      "name": "M\u00e9t\u00e9ore",
+      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "SANS TOi",
-        "url": "https://open.spotify.com/album/2jeZaqhXELmmWfFx0TFOfY"
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/5j2drAMExkO13GFO7yC7SY"
       },
       "artists": [
         {
-          "name": "No\u00ebm",
-          "url": "https://open.spotify.com/artist/6fiZDVQvW1lOkWfH6PV30w"
+          "name": "Dear Youth",
+          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
         }
       ],
-      "duration_ms": 203005,
-      "name": "SANS TOi",
-      "url": "https://open.spotify.com/track/7ibt9DCVtXqnygrvPPSIG7"
+      "duration_ms": 164240,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/30rmOWu5OHa9uP6nw8wRhJ"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1015,22 +1015,6 @@
       "duration_ms": 213011,
       "name": "Shrala",
       "url": "https://open.spotify.com/track/1C97sB0JL8ANe6tczFSEvz"
-    },
-    {
-      "added_at": "2026-10-09 04:03:39",
-      "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/4WVRH77DCjp3xXHnge5FPu"
-      },
-      "artists": [
-        {
-          "name": "Joseph Lorange",
-          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
-        }
-      ],
-      "duration_ms": 118309,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "AVALANCHE",
-        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/4WVRH77DCjp3xXHnge5FPu"
       },
       "artists": [
         {
-          "name": "Oli F\u00e9ra",
-          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
+          "name": "Joseph Lorange",
+          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
         }
       ],
-      "duration_ms": 229355,
-      "name": "AVALANCHE",
-      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
+      "duration_ms": 118309,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1095,6 +1079,22 @@
       "duration_ms": 214741,
       "name": "Promesse",
       "url": "https://open.spotify.com/track/2vt6l1dsKhKchk0AxMjHiX"
+    },
+    {
+      "added_at": "2026-10-09 04:03:39",
+      "album": {
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
+      },
+      "artists": [
+        {
+          "name": "Oli F\u00e9ra",
+          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
+        }
+      ],
+      "duration_ms": 229355,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/48sI9IyvLd7D0fhd9GfGpy"
-      },
-      "artists": [
-        {
-          "name": "distraction4ever",
-          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
-        }
-      ],
-      "duration_ms": 125783,
-      "name": "funny easy time",
-      "url": "https://open.spotify.com/track/06vdhBImZ4PLQg2x7ml8k0"
-    },
-    {
-      "added_at": "2026-10-09 04:03:39",
-      "album": {
         "name": "Bad News",
         "url": "https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/48sI9IyvLd7D0fhd9GfGpy"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "duration_ms": 125783,
+      "name": "funny easy time",
+      "url": "https://open.spotify.com/track/06vdhBImZ4PLQg2x7ml8k0"
+    },
+    {
+      "added_at": "2026-10-09 04:03:39",
+      "album": {
         "name": "sex & cigarettes",
         "url": "https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 147640,
       "name": "sex & cigarettes",
       "url": "https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27"
+    },
+    {
+      "added_at": "2026-10-09 04:03:39",
+      "album": {
+        "name": "Le vice et le culte",
+        "url": "https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm"
+      },
+      "artists": [
+        {
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+        }
+      ],
+      "duration_ms": 177212,
+      "name": "Le vice et le culte",
+      "url": "https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1223,22 +1239,6 @@
       "duration_ms": 235613,
       "name": "Les vagues",
       "url": "https://open.spotify.com/track/1bahlqlm8z6G0L1fIyQ2w6"
-    },
-    {
-      "added_at": "2026-10-09 04:03:39",
-      "album": {
-        "name": "Le vice et le culte",
-        "url": "https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm"
-      },
-      "artists": [
-        {
-          "name": "zouz",
-          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
-        }
-      ],
-      "duration_ms": 177212,
-      "name": "Le vice et le culte",
-      "url": "https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1295,38 +1295,6 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/6cdUcv8WVnmOPY3L9LBeFo"
-      },
-      "artists": [
-        {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
-        }
-      ],
-      "duration_ms": 171455,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/3OEQakVwazPEzEMz6UvPYP"
-    },
-    {
-      "added_at": "2026-10-09 04:03:39",
-      "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc"
-      },
-      "artists": [
-        {
-          "name": "bombe",
-          "url": "https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "l'amour aux temps des samoura\u00efs",
-      "url": "https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg"
-    },
-    {
-      "added_at": "2026-10-09 04:03:39",
-      "album": {
         "name": "Claudia",
         "url": "https://open.spotify.com/album/3xfS34oDQeqgE61cq2e5jI"
       },
@@ -1339,6 +1307,22 @@
       "duration_ms": 132877,
       "name": "Claudia",
       "url": "https://open.spotify.com/track/7AMbEu0blbjmtpyPEnbkgE"
+    },
+    {
+      "added_at": "2026-10-09 04:03:39",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/6cdUcv8WVnmOPY3L9LBeFo"
+      },
+      "artists": [
+        {
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
+        }
+      ],
+      "duration_ms": 171455,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3OEQakVwazPEzEMz6UvPYP"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc"
+      },
+      "artists": [
+        {
+          "name": "bombe",
+          "url": "https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "l'amour aux temps des samoura\u00efs",
+      "url": "https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg"
+    },
+    {
+      "added_at": "2026-10-09 04:03:39",
+      "album": {
         "name": "So Smart",
         "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 169431,
       "name": "So Smart",
       "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
-    },
-    {
-      "added_at": "2026-10-09 04:03:39",
-      "album": {
-        "name": "SEXES",
-        "url": "https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T"
-      },
-      "artists": [
-        {
-          "name": "6ODEM3",
-          "url": "https://open.spotify.com/artist/3u9sQ57bL4NrnDzJd2XLMW"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "SEXES",
-      "url": "https://open.spotify.com/track/4rGBIXMqaemPtSwX6vvetf"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/35dIBCuPTe5tHzE03MVPTn"
+        "name": "SEXES",
+        "url": "https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T"
       },
       "artists": [
         {
-          "name": "Grace of Arc",
-          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+          "name": "6ODEM3",
+          "url": "https://open.spotify.com/artist/3u9sQ57bL4NrnDzJd2XLMW"
         }
       ],
-      "duration_ms": 220493,
-      "name": "Rotten",
-      "url": "https://open.spotify.com/track/0typVO5PXN4GAgmTx5mHip"
+      "duration_ms": 190626,
+      "name": "SEXES",
+      "url": "https://open.spotify.com/track/4rGBIXMqaemPtSwX6vvetf"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/35dIBCuPTe5tHzE03MVPTn"
+      },
+      "artists": [
+        {
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Rotten",
+      "url": "https://open.spotify.com/track/0typVO5PXN4GAgmTx5mHip"
+    },
+    {
+      "added_at": "2026-10-09 04:03:39",
+      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 214618,
       "name": "Seul",
       "url": "https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I"
+    },
+    {
+      "added_at": "2026-10-09 04:03:39",
+      "album": {
+        "name": "L'\u00eele de La R\u00e9union",
+        "url": "https://open.spotify.com/album/4AJt9F847VdpFfnUEGdCXo"
+      },
+      "artists": [
+        {
+          "name": "Vice du Nord",
+          "url": "https://open.spotify.com/artist/4yJ5foa0Em55APjnvFE6qm"
+        }
+      ],
+      "duration_ms": 138992,
+      "name": "L'\u00eele de La R\u00e9union",
+      "url": "https://open.spotify.com/track/4lfOst7QYpgpFlqM4bCs5R"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "L'\u00eele de La R\u00e9union",
-        "url": "https://open.spotify.com/album/4AJt9F847VdpFfnUEGdCXo"
+        "name": "bite",
+        "url": "https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR"
       },
       "artists": [
         {
-          "name": "Vice du Nord",
-          "url": "https://open.spotify.com/artist/4yJ5foa0Em55APjnvFE6qm"
+          "name": "SUUNCAAT",
+          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
         }
       ],
-      "duration_ms": 138992,
-      "name": "L'\u00eele de La R\u00e9union",
-      "url": "https://open.spotify.com/track/4lfOst7QYpgpFlqM4bCs5R"
+      "duration_ms": 154000,
+      "name": "bite",
+      "url": "https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1547,18 +1563,22 @@
     {
       "added_at": "2026-10-09 04:03:39",
       "album": {
-        "name": "bite",
-        "url": "https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR"
+        "name": "Du soleil dans l\u2019oeil",
+        "url": "https://open.spotify.com/album/4WaP4xIVuZcUhJM2yXCdIe"
       },
       "artists": [
         {
-          "name": "SUUNCAAT",
-          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        },
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 154000,
-      "name": "bite",
-      "url": "https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP"
+      "duration_ms": 257359,
+      "name": "Hook IV",
+      "url": "https://open.spotify.com/track/1eiiIwFz5JyRzlCaUnbHLP"
     },
     {
       "added_at": "2026-10-09 04:03:39",
@@ -1591,26 +1611,6 @@
       "duration_ms": 156035,
       "name": "I Still Do",
       "url": "https://open.spotify.com/track/0OzZrhbl9lMvCbHfN1fqRq"
-    },
-    {
-      "added_at": "2026-10-09 04:03:39",
-      "album": {
-        "name": "Du soleil dans l\u2019oeil",
-        "url": "https://open.spotify.com/album/4WaP4xIVuZcUhJM2yXCdIe"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        },
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "Hook IV",
-      "url": "https://open.spotify.com/track/1eiiIwFz5JyRzlCaUnbHLP"
     },
     {
       "added_at": "2026-10-09 04:03:39",

@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20405,
+  "num_followers": 20406,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "Cud",
-      "url": "https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
         "url": "https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 225751,
       "name": "NORADRENALINA",
       "url": "https://open.spotify.com/track/6X2DWPDZ2GumLmw8bGIr1W"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Cud",
+      "url": "https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "M\u00d3J TRUP JEST WI\u0118KSZY NI\u017b TW\u00d3J",
+        "url": "https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR"
+      },
+      "artists": [
+        {
+          "name": "Luxtorpeda",
+          "url": "https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW"
+        }
+      ],
+      "duration_ms": 313226,
+      "name": "KREW Z KRWI",
+      "url": "https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Przed Zmierzchem",
         "url": "https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 159803,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "M\u00d3J TRUP JEST WI\u0118KSZY NI\u017b TW\u00d3J",
-        "url": "https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR"
-      },
-      "artists": [
-        {
-          "name": "Luxtorpeda",
-          "url": "https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW"
-        }
-      ],
-      "duration_ms": 313226,
-      "name": "KREW Z KRWI",
-      "url": "https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK"
     },
     {
       "added_at": "2026-05-26 09:05:26",

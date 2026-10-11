@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,573 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,576 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 49 | [Oh Red](https://open.spotify.com/track/4qLpUcsgpPXX4kCge1wGoV) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n) | 2:44 |
 | 50 | [Hidden Charms \- Single Version](https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:20 |
 
-Snapshot ID: `asbdAAAAAAAXXOuwlwwkg6tUyYjCvHyv`
+Snapshot ID: `asgugAAAAABrByAxAegMP6xAJmTI3EUW`

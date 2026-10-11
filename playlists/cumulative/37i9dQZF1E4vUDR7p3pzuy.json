@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 190236,
       "name": "A Perfect Day",
       "url": "https://open.spotify.com/track/5mrFLqxBLS7t8cMnuLMiVY"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 229875,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/3YiTA333q4lr1k8M6M43IK"
@@ -2740,7 +2740,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 219024,
       "name": "Broken Picasso (A Very British Protest)",
       "url": "https://open.spotify.com/track/3zDIxb2YHxCrxu5ObouenM"
@@ -4929,6 +4929,24 @@
     },
     {
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1SnzA6yEP6mbrgiZj6cnG1"
+      },
+      "artists": [
+        {
+          "name": "Tomorrows Letters",
+          "url": "https://open.spotify.com/artist/170VD9KlR4FyXgVvUfAvD4"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1YZOsLnUkSPpoyzgnXg3ds"
+    },
+    {
+      "album": {
         "name": "Dreams and Falls",
         "url": "https://open.spotify.com/album/6oBrTMaUWMEprQQdTEpWNZ"
       },
@@ -6522,7 +6540,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 216000,
       "name": "EVERY VILLAIN NEEDS ONE IN THEIR OWN STORY",
       "url": "https://open.spotify.com/track/4GrVW9RnOSfJOvrxMoPcYl"
@@ -7746,10 +7764,28 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
+    },
+    {
+      "album": {
+        "name": "Shallow Grave",
+        "url": "https://open.spotify.com/album/4oIadjJXkJrFsmIfbhmgDr"
+      },
+      "artists": [
+        {
+          "name": "Dead Astronauts",
+          "url": "https://open.spotify.com/artist/2DJItX4KCgzrEzCEFp9PTa"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293483,
+      "name": "From Dust",
+      "url": "https://open.spotify.com/track/27YIbPHkUSj2Uz5CCukyFC"
     },
     {
       "album": {
@@ -9846,7 +9882,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 212727,
       "name": "Ice",
       "url": "https://open.spotify.com/track/76qDWTTK2IdoombGHj3lZE"
@@ -11990,7 +12026,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -16694,7 +16730,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 145008,
       "name": "Satin Melody For You",
       "url": "https://open.spotify.com/track/7lQdkgP7E60hs0HGeqtQCX"
@@ -17080,7 +17116,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -19155,6 +19191,24 @@
     },
     {
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2nq8VpmYdq2CEXYCeX4n75"
+      },
+      "artists": [
+        {
+          "name": "Mirror of Venus",
+          "url": "https://open.spotify.com/artist/7MaOzY6rpmZHqmdxdoY125"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261696,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/6MhcROf37o3rAqVnGpVFQK"
+    },
+    {
+      "album": {
         "name": "Suspension",
         "url": "https://open.spotify.com/album/2TWvWl4g7xGZ9ObioMtulo"
       },
@@ -19202,7 +19256,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 245396,
       "name": "swallow the bird",
       "url": "https://open.spotify.com/track/6Qlr7Wt8EHdfAPAdN6tjSD"
@@ -19916,7 +19970,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 289093,
       "name": "The Dark of Light",
       "url": "https://open.spotify.com/track/505s5auBD7triJ8I36BI37"
@@ -20352,6 +20406,24 @@
       "duration_ms": 264000,
       "name": "The Last Plague",
       "url": "https://open.spotify.com/track/1Ql39uWKAixAfwUkXFertZ"
+    },
+    {
+      "album": {
+        "name": "The Last Song",
+        "url": "https://open.spotify.com/album/5QjAl4VNvnfdh8i8JyUFzz"
+      },
+      "artists": [
+        {
+          "name": "Vague Phonique",
+          "url": "https://open.spotify.com/artist/4N2c1Zi3OtpNybZsHkHI2S"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263656,
+      "name": "The Last Song",
+      "url": "https://open.spotify.com/track/7HVk4Edz6QEeKalkqyHCPF"
     },
     {
       "album": {
@@ -20904,6 +20976,24 @@
       "duration_ms": 217733,
       "name": "The Witness Tree",
       "url": "https://open.spotify.com/track/5zJZTmMLUfoVRhZNrqW2Bt"
+    },
+    {
+      "album": {
+        "name": "Out of Breath",
+        "url": "https://open.spotify.com/album/0stqdTktPDvPMlo6ewdZBF"
+      },
+      "artists": [
+        {
+          "name": "Bleep Test",
+          "url": "https://open.spotify.com/artist/7Gx39Dx1D528JGr3r10VgU"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234702,
+      "name": "The Wonders",
+      "url": "https://open.spotify.com/track/3u3l6VpffSldutXDjkCJSl"
     },
     {
       "album": {
@@ -22976,7 +23066,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 185499,
       "name": "War Zone",
       "url": "https://open.spotify.com/track/5xSTOK4FEXiBeRji0zFx61"
@@ -23190,7 +23280,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 259813,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/5i2R6mynkMNZncrwishbGJ"

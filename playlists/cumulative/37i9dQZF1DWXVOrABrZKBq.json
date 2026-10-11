@@ -7027,6 +7027,24 @@
     },
     {
       "album": {
+        "name": "J'encaisse",
+        "url": "https://open.spotify.com/album/6oNGdCN1i1ppjEXNKdDWdh"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "J'encaisse",
+      "url": "https://open.spotify.com/track/7fHhj8uL1vj8Y1CV63i9bm"
+    },
+    {
+      "album": {
         "name": "La route est longue",
         "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
       },
@@ -15150,7 +15168,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 164840,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF"

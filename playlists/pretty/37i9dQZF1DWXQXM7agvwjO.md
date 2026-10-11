@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: Kyoyoko \(China\)
+> Hottest indie sounds from Asia\. Cover: Meaningful Stone \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,117 likes - 110 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,125 likes - 110 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Post\-man](https://open.spotify.com/track/4Xxsc2pcYCULmsJUUIVm1q) | [KyoYoko](https://open.spotify.com/artist/7CgWtTJr3z1XVtSevOHMqT) | [Mirror Chamber](https://open.spotify.com/album/36jZhVxqmxcLGvYliXEmuX) | 5:02 |
+| 1 | [HANA](https://open.spotify.com/track/4YPQaGKgOWTc16ImN17DA5) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [To: Hana](https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9) | 5:02 |
 | 2 | [losing day](https://open.spotify.com/track/49aPNg6BfrtsmRHP5UdWfG) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [losing day](https://open.spotify.com/album/6FGBPy6c3qwggfEORbbkvE) | 6:20 |
 | 3 | [Burgers42](https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Burgers42](https://open.spotify.com/album/77XylCmFSpEZ7bI0Hm0fsi) | 3:42 |
 | 4 | [bed \(Prod\. hinata miyake from luv\)](https://open.spotify.com/track/2kLxmMOyfCls972veUnf5t) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [hinata miyake](https://open.spotify.com/artist/7xuVwXvurcXpbiAt38b6r9) | [bed \(Prod\. hinata miyake from luv\)](https://open.spotify.com/album/74GtCFtVE80hqI9X0EyVG0) | 3:14 |
@@ -33,20 +33,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 23 | [Fujin\-Dori](https://open.spotify.com/track/4bph055fcFRReGUxM83Lsp) | [HUGEN](https://open.spotify.com/artist/6bJa33vi3OFcQ75aITBhIw) | [Fujin\-Dori](https://open.spotify.com/album/6ehWbYdX6jEX8aYZg05b0L) | 3:16 |
 | 24 | [The One](https://open.spotify.com/track/4yxrARgqW2FBvnaCDlqoNc) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [The One](https://open.spotify.com/album/77s1mjVwdAxY6LWsI523yy) | 3:12 |
 | 25 | [marshmallow kisses](https://open.spotify.com/track/2r7qfubJKAMyPMF6NFxp1y) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo), [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [marshmallow kisses](https://open.spotify.com/album/2G6Wrh0AV7YBIdyb1kINAe) | 3:02 |
-| 26 | [I for Little Things](https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:45 |
-| 27 | [halfway](https://open.spotify.com/track/4XEcOOU5HQdE4y9XGi2k7S) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [halfway](https://open.spotify.com/album/1QQDsoSN8mSo4l9GX7tY39) | 3:53 |
-| 28 | [Aku dan Kamu](https://open.spotify.com/track/1zC1d201hDkb0XPB61cVPl) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [L.U.F.S.](https://open.spotify.com/album/3ujE961OraZhbOwYh1eMk7) | 4:25 |
-| 29 | [in your control](https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [in your control](https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF) | 2:19 |
-| 30 | [Nuh Na Na Na](https://open.spotify.com/track/61K8LvdicA2ER5fe6hIqex) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [San San Jo Gak](https://open.spotify.com/album/55R3DccgyCPjbA4zMyLzZi) | 3:54 |
-| 31 | [最浪漫的或許是](https://open.spotify.com/track/3rXRWmdBQbBaGxZRrqkZnh) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [最浪漫的或許是](https://open.spotify.com/album/1K3CPiBawUC47p1IiA1Gct) | 3:51 |
-| 32 | [She's a 10 But..](https://open.spotify.com/track/7yeBaa1PFQk7pdqTI2P0bJ) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [She's a 10 But..](https://open.spotify.com/album/46h18YLoR7aVnMi7mOYcZQ) | 2:32 |
-| 33 | [Rolling On, Marching On](https://open.spotify.com/track/5GQbEFeq3gYmkS34DlQz8Y) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Rolling On, Marching On](https://open.spotify.com/album/2GC0Q11LqMMYGm6DMK4rv7) | 3:58 |
-| 34 | [finally out](https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [finally out](https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY) | 2:10 |
-| 35 | [Vas Bunga](https://open.spotify.com/track/5vJJRr2ase2kzEdazRhwk2) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Setelah: Obrolan Jam 3 Pagi](https://open.spotify.com/album/0FuSu8lc73LKTftfFpKYXL) | 3:21 |
-| 36 | [lazy](https://open.spotify.com/track/2liHqyTSLnswtC0LBd5T8Z) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [society \| lazy](https://open.spotify.com/album/6SqzOoFdO4S4NDl0sBMJxW) | 2:11 |
-| 37 | [on &on](https://open.spotify.com/track/5UzlWqxlvPpzzuNSILt5Du) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [on &on](https://open.spotify.com/album/05aF3NLC9CqgZe8pYrP70l) | 2:34 |
-| 38 | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/track/3pT5LFRvRVVKkuIYEAKrIH) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Obrolan Jam 3 Pagi](https://open.spotify.com/album/0jDClrox8tW0f2g82gVc3D) | 3:54 |
-| 39 | [HANA](https://open.spotify.com/track/4YPQaGKgOWTc16ImN17DA5) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [To: Hana](https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9) | 5:02 |
+| 26 | [Post\-man](https://open.spotify.com/track/4Xxsc2pcYCULmsJUUIVm1q) | [KyoYoko](https://open.spotify.com/artist/7CgWtTJr3z1XVtSevOHMqT) | [Mirror Chamber](https://open.spotify.com/album/36jZhVxqmxcLGvYliXEmuX) | 5:02 |
+| 27 | [I for Little Things](https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:45 |
+| 28 | [halfway](https://open.spotify.com/track/4XEcOOU5HQdE4y9XGi2k7S) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [halfway](https://open.spotify.com/album/1QQDsoSN8mSo4l9GX7tY39) | 3:53 |
+| 29 | [Aku dan Kamu](https://open.spotify.com/track/1zC1d201hDkb0XPB61cVPl) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [L.U.F.S.](https://open.spotify.com/album/3ujE961OraZhbOwYh1eMk7) | 4:25 |
+| 30 | [in your control](https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [in your control](https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF) | 2:19 |
+| 31 | [Nuh Na Na Na](https://open.spotify.com/track/61K8LvdicA2ER5fe6hIqex) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [San San Jo Gak](https://open.spotify.com/album/55R3DccgyCPjbA4zMyLzZi) | 3:54 |
+| 32 | [最浪漫的或許是](https://open.spotify.com/track/3rXRWmdBQbBaGxZRrqkZnh) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [最浪漫的或許是](https://open.spotify.com/album/1K3CPiBawUC47p1IiA1Gct) | 3:51 |
+| 33 | [She's a 10 But..](https://open.spotify.com/track/7yeBaa1PFQk7pdqTI2P0bJ) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [She's a 10 But..](https://open.spotify.com/album/46h18YLoR7aVnMi7mOYcZQ) | 2:32 |
+| 34 | [Rolling On, Marching On](https://open.spotify.com/track/5GQbEFeq3gYmkS34DlQz8Y) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Rolling On, Marching On](https://open.spotify.com/album/2GC0Q11LqMMYGm6DMK4rv7) | 3:58 |
+| 35 | [finally out](https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [finally out](https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY) | 2:10 |
+| 36 | [Vas Bunga](https://open.spotify.com/track/5vJJRr2ase2kzEdazRhwk2) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Setelah: Obrolan Jam 3 Pagi](https://open.spotify.com/album/0FuSu8lc73LKTftfFpKYXL) | 3:21 |
+| 37 | [lazy](https://open.spotify.com/track/2liHqyTSLnswtC0LBd5T8Z) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [society \| lazy](https://open.spotify.com/album/6SqzOoFdO4S4NDl0sBMJxW) | 2:11 |
+| 38 | [on &on](https://open.spotify.com/track/5UzlWqxlvPpzzuNSILt5Du) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [on &on](https://open.spotify.com/album/05aF3NLC9CqgZe8pYrP70l) | 2:34 |
+| 39 | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/track/3pT5LFRvRVVKkuIYEAKrIH) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Obrolan Jam 3 Pagi](https://open.spotify.com/album/0jDClrox8tW0f2g82gVc3D) | 3:54 |
 | 40 | [Morrison's Gifts 莫里森的禮物](https://open.spotify.com/track/4gUTvXvlZOAcuYrcbiJVEg) | [OHAN](https://open.spotify.com/artist/4Z5HJS9e9zr2DWHaNGMJX4), [KangHmm](https://open.spotify.com/artist/6OcW4m07tZh9GBXdFi8hRJ) | [Morrison's Gifts 莫里森的禮物](https://open.spotify.com/album/1DNZrxBLyVnvLGdVr4xCXC) | 4:07 |
 | 41 | [Addiction](https://open.spotify.com/track/2ZUcV0Lh31FJGFc0ud8f9u) | [Inis](https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3) | [Nocturne to Sunrise](https://open.spotify.com/album/6WKvMlOkR05XLpMGPVXf7K) | 2:25 |
 | 42 | [Bug](https://open.spotify.com/track/30G2j91d9mA5VLNU7PsQGw) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [The Veil \(Deluxe\)](https://open.spotify.com/album/40PLdArhWuT0qaA15yEq7n) | 3:09 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 109 | [A Dream That Felt So Real](https://open.spotify.com/track/1C1QP6LxVmK42sVCLgKKjg) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp), [Karen Aoki](https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ) | [A Dream That Felt So Real](https://open.spotify.com/album/2mf1cn4a24EmLlGEu58i6Y) | 3:39 |
 | 110 | [HOME](https://open.spotify.com/track/4trCDJ2kV036TrQwTugy3r) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Homebound](https://open.spotify.com/album/18iyGi60DsPln6akXO3M5X) | 4:10 |
 
-Snapshot ID: `AAAAADDN5VAXuFKRf1fCMUNL/ruYsKlI`
+Snapshot ID: `AAAAALIvJoCr3coydebbetNXHqUdtfyu`

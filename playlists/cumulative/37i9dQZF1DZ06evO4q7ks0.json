@@ -308,7 +308,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 190200,
       "name": "Dying Inside",
       "url": "https://open.spotify.com/track/71yv2oUlDswarpajuXlw5O"
@@ -1498,6 +1498,24 @@
       "duration_ms": 255000,
       "name": "This Is The Day",
       "url": "https://open.spotify.com/track/6zu2y45mkdkdM5pEVCTE8P"
+    },
+    {
+      "album": {
+        "name": "Songs For Fall",
+        "url": "https://open.spotify.com/album/5CtsIrZVFWA8rZscQ1Z64t"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "Time Is Ticking Out",
+      "url": "https://open.spotify.com/track/5C1qze1Oq9TrvpzKvPh17B"
     },
     {
       "album": {

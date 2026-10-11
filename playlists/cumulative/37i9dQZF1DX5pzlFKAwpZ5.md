@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-422 songs - 1 day 6 hr 19 min
+423 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,8 +142,8 @@
 | [Hagoromo](https://open.spotify.com/track/1OAauBqF32EtJHTVsd12Zv) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 3:52 | 2022-12-30 | 2024-04-19 |
 | [HAGOROMO](https://open.spotify.com/track/57R46IG6M5tQ5xgQ30ZSOf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 3:52 | 2024-03-07 | 2025-01-25 |
 | [Hallucination](https://open.spotify.com/track/6DtKj57NhI4fsRjisPsHN8) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Hallucination](https://open.spotify.com/album/7uC2fIb54TkrcnXIWm0b3y) | 2:08 | 2026-01-09 | 2026-01-22 |
-| [Hana](https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Best of Fumio: Music for Sleep](https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V) | 6:56 | 2022-12-30 |  |
-| [Harmonia session1](https://open.spotify.com/track/3mtdyzuxclQOl1TMsAgFkp) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5) | [Harmonia](https://open.spotify.com/album/2vVclPk57QHgrQTu75fb9U) | 3:05 | 2026-07-18 |  |
+| [Hana](https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Best of Fumio: Music for Sleep](https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V) | 6:56 | 2022-12-30 | 2026-10-11 |
+| [Harmonia session1](https://open.spotify.com/track/3mtdyzuxclQOl1TMsAgFkp) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5) | [Harmonia](https://open.spotify.com/album/2vVclPk57QHgrQTu75fb9U) | 3:05 | 2026-07-18 | 2026-10-11 |
 | [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:56 | 2024-03-07 | 2024-09-06 |
 | [HAŌ](https://open.spotify.com/track/1eqGDIj6A7wEouPBIIJcsS) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [AGATE](https://open.spotify.com/album/1aKgkW4UDBKdFxdHK3uYOc) | 5:53 | 2026-04-27 |  |
 | [Hebisan](https://open.spotify.com/track/0Uj5EwGUbETVxa2c6RXMq7) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Hanazono](https://open.spotify.com/album/4zKmJT7y0HpIUZiW5E8UPy) | 2:10 | 2025-05-02 | 2025-05-17 |
@@ -257,6 +257,7 @@
 | [Origami Rework](https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Origami Rework](https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3) | 3:05 | 2023-01-27 |  |
 | [ORIGIN OF HUM](https://open.spotify.com/track/3dhASweBAUqoalCaROi97S) | [Exportion](https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q) | [Resonance Warfront](https://open.spotify.com/album/7tSDHpx85d1jquRuro8aQG) | 4:26 | 2026-06-26 |  |
 | [PALE](https://open.spotify.com/track/4QSh8hKevYk4HAsy6Db0fD) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [PALE](https://open.spotify.com/album/1HVXQw4eQIMJAgrEhaIg9l) | 2:53 | 2026-05-30 | 2026-07-09 |
+| [Palimpsest](https://open.spotify.com/track/0znvgH1Kl2JZ3UZtfLYAfF) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Palimpsest](https://open.spotify.com/album/6D996zHmH91rOZyvGLFtg5) | 4:27 | 2026-09-22 |  |
 | [Pathos](https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [RAN PARK](https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK) | [Pathos](https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8) | 5:05 | 2025-06-27 | 2025-12-13 |
 | [Phase Bloom](https://open.spotify.com/track/04lrTruV5SL6BsBQMj95xq) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Phase Bloom](https://open.spotify.com/album/2iBNTMIHPo3mkJkSEQNR8D) | 6:04 | 2026-08-30 |  |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-12-20 |  |
@@ -325,7 +326,7 @@
 | [solari](https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 3:52 | 2025-12-02 |  |
 | [sour cloud](https://open.spotify.com/track/1U719Rddu9fOErpdmtfLBV) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/3PRhSzJAtheNUhYNFJ6gKL) | 2:36 | 2022-10-15 | 2024-04-19 |
 | [sour cloud](https://open.spotify.com/track/4UlHvguF9t6KpdCXq24qEP) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/1Vuv5R0WLEsksBxRZW7kyb) | 2:36 | 2022-01-07 | 2025-01-25 |
-| [spiral energy](https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [spiral energy](https://open.spotify.com/album/727np887ncP1RuxuHNtLK8) | 2:57 | 2024-09-25 | 2026-10-09 |
+| [spiral energy](https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [spiral energy](https://open.spotify.com/album/727np887ncP1RuxuHNtLK8) | 2:57 | 2024-09-25 |  |
 | [splashes of ink](https://open.spotify.com/track/7CH9rwUG0SOkgIHpNNzjKX) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [splashes of ink / yours to give](https://open.spotify.com/album/5CnrS3T44HOFOF98wfncUj) | 1:51 | 2023-01-27 |  |
 | [Still Park \- Ensemble](https://open.spotify.com/track/3Op3F8ipO0YQO8ps4p5kYv) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Still Way \(Wave Notation 2\)](https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg) | 12:07 | 2022-12-30 | 2024-08-09 |
 | [Still Sky](https://open.spotify.com/track/4O8E7XRXOp8TpqRUYsv0Q9) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Still Way \(Wave Notation 2\)](https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg) | 8:35 | 2022-12-30 |  |

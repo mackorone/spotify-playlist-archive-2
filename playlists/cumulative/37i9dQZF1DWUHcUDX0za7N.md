@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Wave$tar
 
-834 songs - 1 day 14 hr 58 min
+835 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Ara \(600M\)](https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ARA](https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W) | 3:05 | 2026-04-24 | 2026-05-22 |
 | [ASAMPETE](https://open.spotify.com/track/1J9cc7U4jyaOgoCJ7Nssmf) | [Anti World Gangstars](https://open.spotify.com/artist/4em6zsRUNAPC2YTfqdCpow), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Agunna](https://open.spotify.com/artist/1CENr91YcmLqLMk3fPeqze), [Shagba](https://open.spotify.com/artist/5GxgrhXvXlieEQX1KThYzh), [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [NOTHING CHANGED](https://open.spotify.com/album/3WzeQmmXZLjWi7VMt7Pl7S) | 3:00 | 2024-12-19 | 2025-11-14 |
 | [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-12 | 2024-11-22 |
+| [Asawana](https://open.spotify.com/track/1sAFvsYedobf0z7hCF6pwE) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [Asawana](https://open.spotify.com/album/4HS9WgvXeamheMVUeuIfMm) | 3:14 | 2026-10-09 |  |
 | [Astaghfirullah](https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Astaghfirullah](https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw) | 2:40 | 2024-09-06 | 2025-02-16 |
 | [Aura 4 Aura \(feat\. Pa Salieu\)](https://open.spotify.com/track/43sJP8fOjGxkg9UjNs9x3U) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 2:06 | 2025-10-17 | 2026-02-08 |
 | [Aura Salad](https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [Breaking](https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK) | 2:52 | 2026-02-20 |  |
@@ -312,7 +313,7 @@
 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 | 2025-03-28 |  |
 | [GIVENCHY](https://open.spotify.com/track/7BWjBUUdElPrt810wy2pKb) | [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [RICK OWENS & GIVENCHY](https://open.spotify.com/album/59lMRhoxHV8cVChH9l735Z) | 2:14 | 2026-05-29 | 2026-06-12 |
 | [GLACIER GIRL](https://open.spotify.com/track/7DjCte93Dk2YIVMixhUqHO) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx), [DaveTheOracle](https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z), [Kobilou](https://open.spotify.com/artist/2DL38TZNK8x8hxvnxNkQB5) | [GLACIER GIRL / FAAJI](https://open.spotify.com/album/7aV7yb4bhdcAzeBDo0bC5w) | 2:17 | 2026-07-17 |  |
-| [Go Again](https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Go Again](https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6) | 2:12 | 2026-06-12 |  |
+| [Go Again](https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Go Again](https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6) | 2:12 | 2026-06-12 | 2026-10-11 |
 | [Go Crazy](https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Crazy](https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y) | 2:14 | 2025-07-04 | 2026-04-10 |
 | [Go Crazy](https://open.spotify.com/track/10hnbmJMzI4fb7JWWsHks2) | [Ifyzi](https://open.spotify.com/artist/5GQso4fvyQfzgjf2BBZiZ6), [Dinycee](https://open.spotify.com/artist/62X2kqp7VSTVFxQFBCgQt8), [Cb Frosh](https://open.spotify.com/artist/1N4r5AKqhluyksC4NIyAID) | [Go Crazy](https://open.spotify.com/album/3VDWYEiZoqJ41MHtwgpmMr) | 2:49 | 2025-06-20 | 2025-06-28 |
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2022-06-09 | 2024-01-12 |

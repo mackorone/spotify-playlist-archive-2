@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover:  Greta Van Fleet
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,424 likes - 104 songs - 6 hr 19 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,423 likes - 104 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 885 likes - 76 songs - 4 hr 19 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 890 likes - 77 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 74 | [O amor nao pode parar](https://open.spotify.com/track/0kecj9s4fMEkSeBqBjDOHT) | [MELOPIA](https://open.spotify.com/artist/6SMzun0z88Kfv2rUdkRc4E) | [O amor nao pode parar](https://open.spotify.com/album/0Js0Dek5wf5KDMtgMsqRBE) | 2:51 |
 | 75 | [Rams Ram](https://open.spotify.com/track/0plEu3wKASWXx9dul04lDF) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Rams Ram](https://open.spotify.com/album/1vSFAO5S1fEKOAMkgtCh1T) | 4:27 |
 | 76 | [Photosynthesize](https://open.spotify.com/track/170x4QIJeKPk6MQp87KiU5) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Photosynthesize](https://open.spotify.com/album/4qSkBNtL1NcdXjEjRLnupg) | 4:43 |
+| 77 | [Hurricane](https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Hurricane](https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz) | 5:13 |
 
-Snapshot ID: `AAAD9tA/wzz1hrCjg4O6ksFDE9bAzYeP`
+Snapshot ID: `AAAD91DQTXpz9CeNgY/cuvpMWbbzBZ3u`

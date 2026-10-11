@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Morpheuz",
-  "num_followers": 475071,
+  "num_followers": 475029,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
@@ -188,12 +188,12 @@
       },
       "artists": [
         {
-          "name": "BHZ",
-          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
-        },
-        {
           "name": "Longus Mongus",
           "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
         }
       ],
       "duration_ms": 215956,

@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Crazy Little Thing Called Love (Live in Budapest)",
+        "url": "https://open.spotify.com/album/0N8uGniH4WDCxnwsbkermz"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292906,
+      "name": "Crazy Little Thing Called Love - Live in Budapest",
+      "url": "https://open.spotify.com/track/1C96D0D01TZiQ6TpY23DvH"
+    },
+    {
+      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -2712,7 +2730,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 207399,
       "name": "There Must Be More To Life Than This - William Orbit Mix",
       "url": "https://open.spotify.com/track/37wsnfOsPkbXkDMbVL242d"

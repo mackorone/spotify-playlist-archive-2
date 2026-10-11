@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: Bekar
 
-799 songs - 1 day 14 hr 14 min
+800 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [J'aime bien](https://open.spotify.com/track/5ItIDneGkHcjO68Gdam0mU) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [J'aime bien](https://open.spotify.com/album/5rivk9lkTtNj8Qq7kn9dnK) | 2:35 | 2025-11-07 | 2025-12-13 |
 | [J'attends](https://open.spotify.com/track/2bniQFXQRtmHcEx35GJTsN) | [Antes & Madzes](https://open.spotify.com/artist/7Admld0N9GuvBOpoDpje6s) | [J'attends](https://open.spotify.com/album/15YnmEYwfWffBHeRjMqDTR) | 3:31 | 2025-10-10 | 2025-11-29 |
 | [J'en Parle](https://open.spotify.com/track/1y37eoiaZnzDPkVoJ3773L) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [J'en Parle](https://open.spotify.com/album/5cIYy9v6OwfEvu4UqR62MF) | 2:11 | 2026-03-13 | 2026-07-04 |
+| [J'encaisse](https://open.spotify.com/track/7fHhj8uL1vj8Y1CV63i9bm) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [J'encaisse](https://open.spotify.com/album/6oNGdCN1i1ppjEXNKdDWdh) | 2:53 | 2026-10-09 |  |
 | [J'fais plaisir à la zone](https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 3:03 | 2024-01-05 | 2025-01-18 |
 | [J'Fonce](https://open.spotify.com/track/2HondNQ2pnnAYxRrWUDezm) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [J'Fonce](https://open.spotify.com/album/5F3UHcdI6u3T3C3l7ujJOM) | 3:09 | 2023-09-08 | 2024-07-13 |
 | [J'les connais](https://open.spotify.com/track/37IGcM5jMetdYRYoVxfzFv) | [Keeqaid](https://open.spotify.com/artist/7oqEDe1XrV6BFP26onyUMo) | [TATASANDO 2](https://open.spotify.com/album/3NUtfPagidfcSdYe5kAH7n) | 3:07 | 2026-07-17 | 2026-08-15 |
@@ -749,7 +750,7 @@
 | [Tout prendre](https://open.spotify.com/track/5kU24jy5EGIXdWtLMpCjn2) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9) | [Des pieds et des mains](https://open.spotify.com/album/5bx1CGjjFfQpIoOBAUjKps) | 1:49 | 2026-03-13 | 2026-05-30 |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2023-03-03 | 2023-12-09 |
 | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE) | 2:48 | 2023-03-03 | 2023-07-01 |
-| [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 | 2026-07-10 |  |
+| [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 | 2026-07-10 | 2026-10-11 |
 | [TP](https://open.spotify.com/track/71BbAEWBJIaewEK5seMkCg) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [TP](https://open.spotify.com/album/6Mkan2lPAHIebVP04fQucL) | 2:58 | 2023-06-23 | 2024-02-03 |
 | [TRAHISON POUR DU PAPERS](https://open.spotify.com/track/386lC3S1fta3sRqXai233D) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [THUG CEREMONY](https://open.spotify.com/album/7HXLcrvfG2UXJcZFLdKfB5) | 2:29 | 2026-01-16 | 2026-03-21 |
 | [Tranchées](https://open.spotify.com/track/4ojWmrrprVbyVU2zc7lOqf) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Dieu Donne, J'utilise part.2](https://open.spotify.com/album/6vA5LeB2ybi78YZpqhg1yN) | 3:00 | 2026-03-27 | 2026-07-04 |

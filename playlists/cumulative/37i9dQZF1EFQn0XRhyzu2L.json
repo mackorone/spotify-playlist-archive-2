@@ -8631,6 +8631,24 @@
     },
     {
       "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202238,
+      "name": "New Love",
+      "url": "https://open.spotify.com/track/1Kqg9ffdQMT47RtG59Dper"
+    },
+    {
+      "album": {
         "name": "Black Mona Lisa",
         "url": "https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27"
       },

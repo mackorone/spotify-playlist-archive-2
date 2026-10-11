@@ -4472,7 +4472,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 116141,
       "name": "Kick That Bass",
       "url": "https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7"
@@ -7288,6 +7288,28 @@
       "duration_ms": 206068,
       "name": "Tamara",
       "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
+    },
+    {
+      "album": {
+        "name": "Tarantula",
+        "url": "https://open.spotify.com/album/256jgvKTQIC8S4xFjwLm2Z"
+      },
+      "artists": [
+        {
+          "name": "KASIA",
+          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217058,
+      "name": "Tarantula",
+      "url": "https://open.spotify.com/track/5KJ4OmlwvbL8m8qYg7EkiB"
     },
     {
       "album": {

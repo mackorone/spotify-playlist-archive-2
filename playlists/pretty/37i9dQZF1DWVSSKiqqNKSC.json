@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 536023,
+  "num_followers": 536057,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -627,18 +627,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Bailables de Cuba, Vol. 2",
-        "url": "https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX"
+        "name": "Que No Me Controlen",
+        "url": "https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN"
       },
       "artists": [
         {
-          "name": "Son Damas",
-          "url": "https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM"
+          "name": "Juan Guillermo",
+          "url": "https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq"
+        },
+        {
+          "name": "Los Extraterrestres",
+          "url": "https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau"
         }
       ],
-      "duration_ms": 309054,
-      "name": "Soy Cubana",
-      "url": "https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F"
+      "duration_ms": 279173,
+      "name": "El Dueno del Party",
+      "url": "https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -659,22 +663,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Que No Me Controlen",
-        "url": "https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN"
+        "name": "Bailables de Cuba, Vol. 2",
+        "url": "https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX"
       },
       "artists": [
         {
-          "name": "Juan Guillermo",
-          "url": "https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq"
-        },
-        {
-          "name": "Los Extraterrestres",
-          "url": "https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau"
+          "name": "Son Damas",
+          "url": "https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM"
         }
       ],
-      "duration_ms": 279173,
-      "name": "El Dueno del Party",
-      "url": "https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk"
+      "duration_ms": 309054,
+      "name": "Soy Cubana",
+      "url": "https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F"
     },
     {
       "added_at": "2025-03-07 06:00:25",

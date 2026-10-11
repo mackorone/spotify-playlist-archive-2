@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 10650,
+  "num_followers": 10669,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -827,18 +827,22 @@
     {
       "added_at": "2026-09-22 16:52:46",
       "album": {
-        "name": "NICO",
-        "url": "https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U"
+        "name": "Rock the Boat",
+        "url": "https://open.spotify.com/album/6Rr6bZEFB4VZDedY7jLVrR"
       },
       "artists": [
         {
-          "name": "reina",
-          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Lil Summer",
+          "url": "https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX"
         }
       ],
-      "duration_ms": 169208,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP"
+      "duration_ms": 268000,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/13rd7wgmULlHg0EuTwOiTc"
     }
   ],
   "unique_name": "Kimono R&B",

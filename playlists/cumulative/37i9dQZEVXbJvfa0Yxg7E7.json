@@ -6413,6 +6413,24 @@
     },
     {
       "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250049,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
+    },
+    {
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
       },
@@ -12566,7 +12584,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 195180,
       "name": "Du og deg om da",
       "url": "https://open.spotify.com/track/4Fgv82zo4VNvKPITQCyPFy"
@@ -12796,6 +12814,24 @@
       "duration_ms": 154698,
       "name": "d\u00f8ra",
       "url": "https://open.spotify.com/track/0VkP9vc6smKu5TR4lXPMiP"
+    },
+    {
+      "album": {
+        "name": "D\u00f8tre som meg",
+        "url": "https://open.spotify.com/album/6ANIPH0yKbJEl2t3RN8s1B"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144180,
+      "name": "D\u00f8tre som meg",
+      "url": "https://open.spotify.com/track/0qhGKV7IHescrqViy0gePp"
     },
     {
       "album": {
@@ -25033,6 +25069,24 @@
     },
     {
       "album": {
+        "name": "D\u00f8tre som meg",
+        "url": "https://open.spotify.com/album/6ANIPH0yKbJEl2t3RN8s1B"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186045,
+      "name": "ILU",
+      "url": "https://open.spotify.com/track/0ZnYt1zaaZOWmiekyM3E7s"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
@@ -27646,7 +27700,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 166862,
       "name": "KARPE4LIFE",
       "url": "https://open.spotify.com/track/5EMRYazBHIoeKXHZ0941gO"
@@ -32190,7 +32244,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -34348,7 +34402,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -38502,7 +38556,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 211728,
       "name": "Paw Patrol",
       "url": "https://open.spotify.com/track/2XnbiDy4iVlRaoEw0Swnnk"
@@ -48305,6 +48359,24 @@
     },
     {
       "album": {
+        "name": "S\u00c5 LENGE JEG LEVER",
+        "url": "https://open.spotify.com/album/6LKkyzlSAeZHBg3IjQnxDQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198335,
+      "name": "S\u00c5 LENGE JEG LEVER",
+      "url": "https://open.spotify.com/track/50jvnoVELEfoyRknCPAsu3"
+    },
+    {
+      "album": {
         "name": "S\u00e5 l\u00e6nge jeg er sexy.",
         "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
       },
@@ -48906,7 +48978,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
@@ -48924,7 +48996,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
@@ -52530,6 +52602,24 @@
       "duration_ms": 180596,
       "name": "Undeniable (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
+    },
+    {
+      "album": {
+        "name": "Under samme m\u00e5ne",
+        "url": "https://open.spotify.com/album/6gfOfLCSAyYfJIXPmUVcbK"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159590,
+      "name": "Under samme m\u00e5ne",
+      "url": "https://open.spotify.com/track/5Ym5sZ9fL4RThBUvPnfU3t"
     },
     {
       "album": {

@@ -9200,10 +9200,28 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 199499,
       "name": "\u7389",
       "url": "https://open.spotify.com/track/0tVXepBHNe0o5iguyGoYJV"
+    },
+    {
+      "album": {
+        "name": "\u84ee",
+        "url": "https://open.spotify.com/album/4U5C6GUvFre3qgbLicEEvE"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199499,
+      "name": "\u7389",
+      "url": "https://open.spotify.com/track/1H6NIzujdaDvz5MqbpnsUn"
     },
     {
       "album": {

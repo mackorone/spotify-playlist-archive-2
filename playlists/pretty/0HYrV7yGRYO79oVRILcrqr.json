@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMsxqlMKEShW/8qfbiBsS6ltmglN8a",
+  "snapshot_id": "AAAMtXg+sa0rS9emrh9GzNIIEkmURgVb",
   "tracks": [
     {
       "added_at": "2026-08-25 19:38:02",
@@ -2215,6 +2215,38 @@
       "duration_ms": 164791,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/4zrQH961tUHDOG2KLxaLYv"
+    },
+    {
+      "added_at": "2026-10-10 07:48:46",
+      "album": {
+        "name": "The New Witches",
+        "url": "https://open.spotify.com/album/0keI8Aseeb9IJjCGVMLu9w"
+      },
+      "artists": [
+        {
+          "name": "9th Evolution",
+          "url": "https://open.spotify.com/artist/3AUUqI27GNAiKHLG7wr2jS"
+        }
+      ],
+      "duration_ms": 180572,
+      "name": "The New Witches",
+      "url": "https://open.spotify.com/track/3ddQs4JGrpklvhtuESe1hK"
+    },
+    {
+      "added_at": "2026-10-10 09:29:24",
+      "album": {
+        "name": "Out of My Mind",
+        "url": "https://open.spotify.com/album/6t39GOgLoDIun7BCryKrnW"
+      },
+      "artists": [
+        {
+          "name": "THE ROCKERS HORIZON",
+          "url": "https://open.spotify.com/artist/7vELOY3m3aOCPTFG94ZDBY"
+        }
+      ],
+      "duration_ms": 272580,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/1sv5wWAbgZ4g9VJbW70nHO"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

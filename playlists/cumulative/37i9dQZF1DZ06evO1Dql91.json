@@ -274,7 +274,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 366625,
       "name": "Dream Fighter",
       "url": "https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4"
@@ -1200,6 +1200,36 @@
       "duration_ms": 207360,
       "name": "We Are The Light",
       "url": "https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk"
+    },
+    {
+      "album": {
+        "name": "THE BRIDGE",
+        "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "WHAT LOVERS DO",
+      "url": "https://open.spotify.com/track/01FJTTSRharY3U5JUzzgkj"
     },
     {
       "album": {

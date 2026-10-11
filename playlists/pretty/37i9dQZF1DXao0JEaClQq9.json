@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: L'Rain",
-  "num_followers": 1600853,
+  "num_followers": 1600678,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
+        "name": "The Path Less Travelled",
+        "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 224303,
+      "name": "The Path Less Travelled",
+      "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
+    },
+    {
+      "added_at": "2026-09-17 20:11:13",
+      "album": {
         "name": "NEVER ENOUGH: VERSIONS",
         "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 180386,
       "name": "CEILING: HAYLEY WILLIAMS VERSION",
       "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
-    },
-    {
-      "added_at": "2026-09-17 20:11:13",
-      "album": {
-        "name": "The Path Less Travelled",
-        "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        }
-      ],
-      "duration_ms": 224303,
-      "name": "The Path Less Travelled",
-      "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
     },
     {
       "added_at": "2026-09-17 20:11:13",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
+        "name": "Call For Help",
+        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "duration_ms": 198967,
+      "name": "Call For Help",
+      "url": "https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk"
+    },
+    {
+      "added_at": "2026-09-17 20:11:13",
+      "album": {
         "name": "uwu ^^",
         "url": "https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 162077,
       "name": "uwu ^^",
       "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
-    },
-    {
-      "added_at": "2026-09-17 20:11:13",
-      "album": {
-        "name": "Call For Help",
-        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 198967,
-      "name": "Call For Help",
-      "url": "https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk"
     }
   ],
   "unique_name": "Ethereal",

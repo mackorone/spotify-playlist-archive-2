@@ -4,7 +4,7 @@
 
 > 
 
-252 songs - 16 hr 59 min
+253 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Time To Say Goodbye](https://open.spotify.com/track/5Ur5EnREGkva7tIBnhaWwC) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Time To Say Goodbye](https://open.spotify.com/album/4cInccbKirET4XTxgDiiKu) | 4:06 | 2026-09-28 |  |
 | [Timeless \(feat\. Veela\)](https://open.spotify.com/track/571MgoPW0hJtXG1C5SFh4H) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Timeless EP](https://open.spotify.com/album/1bQSMFIWID72F4LIluCnB9) | 4:23 | 2016-01-14 |  |
 | [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 | 2024-08-04 |  |
+| [Too Bright To See, Too Loud To Hear](https://open.spotify.com/track/22LwhIWG9emahUJCGPWLT0) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Lost In The Sound Of Separation](https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw) | 4:30 | 2026-10-10 |  |
 | [Trauma](https://open.spotify.com/track/5YB7kLolhZvyzAoDr0vawF) | [Hybrid Minds feat\. Rocky Nti](https://open.spotify.com/artist/1ALltKNRptau9ez3ca8HEy), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Rocky Nti](https://open.spotify.com/artist/7vxdIF630QOTloFsFLZzgI) | [Trauma](https://open.spotify.com/album/2TMC90olEVaexRP2eZlrrj) | 5:58 | 2016-01-14 |  |
 | [Traveller](https://open.spotify.com/track/6YvswaIDn1zTyYssiIlRjN) | [Melano](https://open.spotify.com/artist/3ccMUmxnP7Poo48pJXu6X7) | [Traveller](https://open.spotify.com/album/6GOKjjEVeozB5eD3zQeNN7) | 3:29 | 2016-09-07 |  |
 | [Trndsttr \(feat\. M\. Maggie\) \- Lucian Remix](https://open.spotify.com/track/5LZQ5s0kRZS9nBSd1xLK7U) | [Black Coast](https://open.spotify.com/artist/4JMdvZoXArDVuMNNelKmjo), [M\. Maggie](https://open.spotify.com/artist/3jaknADFL7EOn3lSRneM7v), [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4) | [Trndsttr \(feat\. M\. Maggie\) \[Lucian Remix\]](https://open.spotify.com/album/5q3vgbTbWJut1Go3qzVgya) | 2:59 | 2016-09-19 |  |

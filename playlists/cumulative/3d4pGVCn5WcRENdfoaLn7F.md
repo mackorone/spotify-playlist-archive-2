@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-440 songs - 1 day 2 hr 21 min
+441 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Hopeless](https://open.spotify.com/track/38kwkqMeKqAnJh8ObitN3r) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Hopeless](https://open.spotify.com/album/2Ftm7kCGOpuiovVEx2Fgxx) | 3:16 | 2025-11-04 | 2025-12-06 |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 | 2026-02-25 |
 | [Howl](https://open.spotify.com/track/33oOuVkCvF8GDgQrGv5Ro0) | [Mrs Bubbles](https://open.spotify.com/artist/2tad4HrJ9d9e0eXB04VIuF) | [Refracted](https://open.spotify.com/album/6bBMlHF44Z1NRUbjlbuQij) | 4:14 | 2025-11-09 | 2025-12-06 |
+| [Hurricane](https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Hurricane](https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz) | 5:13 | 2026-10-10 |  |
 | [I can never say goodbye](https://open.spotify.com/track/5Qo2AgUCYhrKlE63XHuXyB) | [Julian Phelps](https://open.spotify.com/artist/5SWUppAbeDxzYJYvjthlMZ), [Finn Marley](https://open.spotify.com/artist/4h8orojRb1n2nOdw3VLbQp) | [I can never say goodbye](https://open.spotify.com/album/3FnOhzdk1L2NoiTxpDrGfy) | 3:15 | 2026-04-28 | 2026-05-26 |
 | [I Have Learned](https://open.spotify.com/track/44TsdKXUVju1RowqBAnMSh) | [Eddie Wrevlonne](https://open.spotify.com/artist/040oRqmHKhgWDabtyQBiqa) | [I Have Learned](https://open.spotify.com/album/0RKoZpaC5p3giTz43S8bjZ) | 3:28 | 2025-09-19 |  |
 | [I knew for the first time](https://open.spotify.com/track/02Sp5xLnuv0Fz8r8XKmriq) | [Indie Indie](https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa) | [Fading Silhouette](https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk) | 4:06 | 2026-01-22 | 2026-02-19 |

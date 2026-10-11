@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247652,
+  "num_followers": 247643,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-09-25 03:00:37",
       "album": {
+        "name": "POCPOC",
+        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "POCPOC",
+      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
+    },
+    {
+      "added_at": "2026-09-25 03:00:37",
+      "album": {
         "name": "BODY TYPE",
         "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 146500,
       "name": "BODY TYPE",
       "url": "https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo"
-    },
-    {
-      "added_at": "2026-09-25 03:00:37",
-      "album": {
-        "name": "POCPOC",
-        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "POCPOC",
-      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
       "added_at": "2026-09-25 03:00:37",
@@ -735,26 +735,30 @@
     {
       "added_at": "2026-09-25 03:00:37",
       "album": {
-        "name": "Despertador",
-        "url": "https://open.spotify.com/album/7vA9eHv6BrmIa2ctMTZh31"
+        "name": "FENOMENAL",
+        "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
       "artists": [
         {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
         },
         {
-          "name": "Anne Louise",
-          "url": "https://open.spotify.com/artist/6lTGKVOQgWwyEo24373ciw"
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         },
         {
-          "name": "Clementaum",
-          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        },
+        {
+          "name": "TH4I",
+          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
         }
       ],
-      "duration_ms": 106483,
-      "name": "Despertador",
-      "url": "https://open.spotify.com/track/587ueKmuDHoDzAAgTVJ9M2"
+      "duration_ms": 140454,
+      "name": "ME ALIMENTA",
+      "url": "https://open.spotify.com/track/4LPHHIENj6SYHDC92WnbrK"
     },
     {
       "added_at": "2026-09-25 03:00:37",
@@ -799,30 +803,26 @@
     {
       "added_at": "2026-09-25 03:00:37",
       "album": {
-        "name": "FENOMENAL",
-        "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
+        "name": "Despertador",
+        "url": "https://open.spotify.com/album/7vA9eHv6BrmIa2ctMTZh31"
       },
       "artists": [
         {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
         },
         {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "Anne Louise",
+          "url": "https://open.spotify.com/artist/6lTGKVOQgWwyEo24373ciw"
         },
         {
-          "name": "PZZS",
-          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
-        },
-        {
-          "name": "TH4I",
-          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
         }
       ],
-      "duration_ms": 140454,
-      "name": "ME ALIMENTA",
-      "url": "https://open.spotify.com/track/4LPHHIENj6SYHDC92WnbrK"
+      "duration_ms": 106483,
+      "name": "Despertador",
+      "url": "https://open.spotify.com/track/587ueKmuDHoDzAAgTVJ9M2"
     },
     {
       "added_at": "2026-09-25 03:00:37",
@@ -887,26 +887,6 @@
     {
       "added_at": "2026-09-25 03:00:37",
       "album": {
-        "name": "NUVEM NEGRA",
-        "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
-      },
-      "artists": [
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        },
-        {
-          "name": "Fernando Catatau",
-          "url": "https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj"
-        }
-      ],
-      "duration_ms": 294570,
-      "name": "NUVEM NEGRA",
-      "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
-    },
-    {
-      "added_at": "2026-09-25 03:00:37",
-      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 201230,
       "name": "DISK NAMORADA",
       "url": "https://open.spotify.com/track/5lVIdROp3ioxz7NiRvHTSr"
+    },
+    {
+      "added_at": "2026-09-25 03:00:37",
+      "album": {
+        "name": "NUVEM NEGRA",
+        "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
+      },
+      "artists": [
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        },
+        {
+          "name": "Fernando Catatau",
+          "url": "https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj"
+        }
+      ],
+      "duration_ms": 294570,
+      "name": "NUVEM NEGRA",
+      "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
     },
     {
       "added_at": "2026-09-25 03:00:37",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2026-09-25 03:00:37",
       "album": {
-        "name": "romance",
-        "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
-      },
-      "artists": [
-        {
-          "name": "renanrenan",
-          "url": "https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh"
-        },
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "romance",
-      "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
-    },
-    {
-      "added_at": "2026-09-25 03:00:37",
-      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 127600,
       "name": "Volta",
       "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
+    },
+    {
+      "added_at": "2026-09-25 03:00:37",
+      "album": {
+        "name": "romance",
+        "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
+      },
+      "artists": [
+        {
+          "name": "renanrenan",
+          "url": "https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh"
+        },
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "romance",
+      "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
     },
     {
       "added_at": "2026-09-25 03:00:37",
@@ -1575,22 +1575,18 @@
     {
       "added_at": "2026-09-25 03:00:37",
       "album": {
-        "name": "LIA CLARK",
-        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
       },
       "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 155454,
-      "name": "SEREIA",
-      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
+      "duration_ms": 175000,
+      "name": "S\u00e3o Amores",
+      "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
     }
   ],
   "unique_name": "GLOW Brasil",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,673 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,674 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 76 | [The Movement II](https://open.spotify.com/track/3ilwG9iYGH9HecRrT4LgYc) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Massmediah](https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb) | 4:46 |
 | 77 | [뭐 \(feat\. Notorious Kid, Friz & Pumkin\)](https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Notorious Kid](https://open.spotify.com/artist/34jRpqNgQ6oIRmWSRTYjbF), [Friz](https://open.spotify.com/artist/4PuEvEs294YAZWIbWojzDo), [Pumkin](https://open.spotify.com/artist/4Kk6ZkqWkDHVywRCtX20XD) | [Q Train \(Remaster\)](https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX) | 3:38 |
 | 78 | [The Movement](https://open.spotify.com/track/77tm4bsQ9boEXrlIOtI4eC) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:47 |
-| 79 | [개 키워](https://open.spotify.com/track/7nJajp3VF440nxyfmy8TSq) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [but I 드려](https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO) | 4:33 |
+| 79 | [개키워 \- 2010 New Version](https://open.spotify.com/track/6DFdngMMwXceco2zCFbDcT) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [개키워](https://open.spotify.com/album/48lOer0PzEy0zOcSIZoBUH) | 4:21 |
 | 80 | [Watch Ya Self](https://open.spotify.com/track/7GA9RRaJrIvmT48a376CHo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Digiri](https://open.spotify.com/artist/5AkXQoXgGrx1J1zkiyRATG), [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Map of the Human Soul](https://open.spotify.com/album/0HOb3ypZrAVbuGYLiMhC7z) | 4:30 |
 | 81 | [History In The Making \- 2021 Remaster](https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:42 |
 | 82 | [Stars \(feat\. Verbal Jint & Swings\)](https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Quiet Storm: A Night Record](https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC) | 3:38 |
 | 83 | [공식](https://open.spotify.com/track/2mPFyCcfRj3Iil9DlpaL6p) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:14 |
-| 84 | [개키워 \- 2010 New Version](https://open.spotify.com/track/6DFdngMMwXceco2zCFbDcT) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [개키워](https://open.spotify.com/album/48lOer0PzEy0zOcSIZoBUH) | 4:21 |
+| 84 | [개 키워](https://open.spotify.com/track/7nJajp3VF440nxyfmy8TSq) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [but I 드려](https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO) | 4:33 |
 | 85 | [AEAO](https://open.spotify.com/track/7hrlGlLnzusciZyzxwhkn9) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/1CM29NkWfipbcqasYZh0bU) | 5:16 |
 | 86 | [Drama \- 2021 Remaster](https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:59 |
 | 87 | [Interlude \(feat\. Mad Clown\)](https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Q Train \(Remaster\)](https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX) | 1:24 |

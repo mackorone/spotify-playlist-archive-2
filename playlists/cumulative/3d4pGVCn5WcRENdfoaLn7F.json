@@ -2899,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz"
+      },
+      "artists": [
+        {
+          "name": "Groove Vultures",
+          "url": "https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313000,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq"
+    },
+    {
+      "album": {
         "name": "I can never say goodbye",
         "url": "https://open.spotify.com/album/3FnOhzdk1L2NoiTxpDrGfy"
       },

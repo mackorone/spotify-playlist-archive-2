@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210275,
+  "num_followers": 210287,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "All Over The World",
-        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 190434,
-      "name": "All Over The World",
-      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Lovin' You",
         "url": "https://open.spotify.com/album/7e3RIRGn1XMarrqnQqp0cl"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 196200,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/1BtxulmEZ8ydsLAKrq0mvv"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "All Over The World",
+        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 190434,
+      "name": "All Over The World",
+      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Here In Your Arms",
-        "url": "https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7"
-      },
-      "artists": [
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 172702,
-      "name": "Here In Your Arms",
-      "url": "https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Pray With",
         "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
       },
@@ -795,18 +775,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "#YOUTHEONE",
-        "url": "https://open.spotify.com/album/3UlpsQZyqK7utqJRHjlZVX"
+        "name": "Here In Your Arms",
+        "url": "https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7"
       },
       "artists": [
         {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 189959,
-      "name": "#YOUTHEONE",
-      "url": "https://open.spotify.com/track/3cLrK4vOz2WRMDPeaAimx0"
+      "duration_ms": 172702,
+      "name": "Here In Your Arms",
+      "url": "https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -859,6 +843,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "#YOUTHEONE",
+        "url": "https://open.spotify.com/album/3UlpsQZyqK7utqJRHjlZVX"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        }
+      ],
+      "duration_ms": 189959,
+      "name": "#YOUTHEONE",
+      "url": "https://open.spotify.com/track/3cLrK4vOz2WRMDPeaAimx0"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "This Loving",
         "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "Look At Love",
-      "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "i do",
         "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 151016,
       "name": "i do",
       "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 201526,
+      "name": "Look At Love",
+      "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 199846,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 199846,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
+        "name": "Me + You = Pi",
+        "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
       },
       "artists": [
         {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
         }
       ],
-      "duration_ms": 178387,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
+      "duration_ms": 169846,
+      "name": "Me + You = Pi",
+      "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
     }
   ],
   "unique_name": "Higher Love",

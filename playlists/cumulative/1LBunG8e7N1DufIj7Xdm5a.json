@@ -55067,6 +55067,24 @@
     },
     {
       "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/0NcVWypNt3E0aKXu1BcRXN"
+      },
+      "artists": [
+        {
+          "name": "Taylor D",
+          "url": "https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182052,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/0SAgfYEHKPEZBPLXV8S8Bs"
+    },
+    {
+      "album": {
         "name": "Musica buona",
         "url": "https://open.spotify.com/album/35aGpU9MM9yCOCZDHjjqn7"
       },

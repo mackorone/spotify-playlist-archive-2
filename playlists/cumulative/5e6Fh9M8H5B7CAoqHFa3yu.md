@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,674 songs - 6 day 11 hr 43 min
+2,680 songs - 6 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [ALOHA](https://open.spotify.com/track/7qImrsugYnOBTRf22LbQHP) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [ALOHA](https://open.spotify.com/album/4hqqpZw3l01zh8jwdf34Qw) | 2:02 | 2025-09-19 |  |
 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 | 2026-06-26 |  |
 | [Alone](https://open.spotify.com/track/53t7HgLImRHYhmhnei7g1c) | [Rheghen Bell](https://open.spotify.com/artist/1PsTuifMhhQ4qqVJQkFdOB) | [we can't be friends](https://open.spotify.com/album/1Gt06y6LtRAzg9qAqO2Ghh) | 2:43 | 2025-05-19 |  |
+| [Alone in December](https://open.spotify.com/track/46EnMxmiepQ2RtZvjFFet8) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Alone in December](https://open.spotify.com/album/60lSdW7y6So3soJqh71IKW) | 2:23 | 2026-10-10 |  |
 | [Altered Dimensions](https://open.spotify.com/track/4poOYdmSUlo52tEAAraYp0) | [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [Space Stepper](https://open.spotify.com/album/1NTA9xNmI3UWkvfn0m63ui) | 3:34 | 2024-05-04 |  |
 | [Alza Le Mani](https://open.spotify.com/track/4TMGmpr0iuU0f5VnMQwNyn) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Alza Le Mani](https://open.spotify.com/album/3VbUhT0Tn6m6vcdPW3Z0Gt) | 3:43 | 2025-08-27 |  |
 | [Amanecer](https://open.spotify.com/track/2mbpjOVwM7dDfukfXmLjEI) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Tocar la lluvia](https://open.spotify.com/album/1YPCa52lWFtLNr16GgANuh) | 2:24 | 2026-04-12 |  |
@@ -207,6 +208,7 @@
 | [Bad Babylon \- Thriakis Remix](https://open.spotify.com/track/7cVK6ztUNtBUTyLpbfSutR) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE), [Thriakis Dub Destroyer](https://open.spotify.com/artist/2LDXNdDoMSRn8Jnz0hjjgj) | [Bad Babylon \(Thriakis Remix\)](https://open.spotify.com/album/5j16GpK7kyTJrbZFyqFdc1) | 4:50 | 2024-03-23 |  |
 | [Bad Days \(Coming or Gone\)](https://open.spotify.com/track/2o92xafSvsVuIQ78wjtyuV) | [Dallas Baldwin](https://open.spotify.com/artist/4Ula3EkHD5O02DZiwA836Y) | [Bad Days \(Coming or Gone\)](https://open.spotify.com/album/34tPm1GA34iRxN0eaLQ6wi) | 3:09 | 2025-11-09 |  |
 | [Bad Place](https://open.spotify.com/track/7CFbskWjyQA92IvdApIIpV) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Bad Place](https://open.spotify.com/album/0z860fZ61LspJYvgCb2pYT) | 2:19 | 2024-03-04 |  |
+| [Bad times](https://open.spotify.com/track/74KldjcC4k4v4WDcIURurj) | [Saes](https://open.spotify.com/artist/3F2WIaenzW5MGMMdS0wLMK) | [Bad times](https://open.spotify.com/album/7ehdY0FpyZDCs4cUYraEPJ) | 1:39 | 2026-10-10 |  |
 | [Bae](https://open.spotify.com/track/1cjeKHaax2YIMDP2zC714F) | [Carlos Lapin](https://open.spotify.com/artist/6cypL54UbWFB1jP8v8BlqZ) | [Bae](https://open.spotify.com/album/3W2TlP2dI4Snfg5Dbkpe1q) | 1:36 | 2025-05-26 |  |
 | [Baila Mi Navidad](https://open.spotify.com/track/3Xdx0W8H8nTBetAFR5Ia7J) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Mi Navidad](https://open.spotify.com/album/7ykfc5zIGkaCsdF6rXk2Nj) | 3:30 | 2025-12-02 |  |
 | [Baila Mi Navidad](https://open.spotify.com/track/7l1df2zvqlSU4SWa4SgspS) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:30 | 2025-12-19 |  |
@@ -297,6 +299,7 @@
 | [Booty Fitness 144BPM \(Hiit Mix 30\-10\)](https://open.spotify.com/track/0qiqfNcnpu5rUOcDVUln1z) | [CROSSFIT WORKOUT](https://open.spotify.com/artist/25dYdNv02BZie634eo6Ezm) | [High Intensity Training](https://open.spotify.com/album/1JJwI42eaM8Vo4tJjNfwBS) | 1:21 | 2024-03-08 |  |
 | [Booty Workout 144BPM \(Hiit Mix 30\-10\)](https://open.spotify.com/track/3YQ5g2cPChJzzIhKcP182r) | [CROSSFIT WORKOUT](https://open.spotify.com/artist/25dYdNv02BZie634eo6Ezm) | [High Intensity Training](https://open.spotify.com/album/1JJwI42eaM8Vo4tJjNfwBS) | 1:20 | 2024-03-08 |  |
 | [Born Free](https://open.spotify.com/track/2gdJQePF3LkqluWUmFjZnu) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [The Very Best Of Matt Monro](https://open.spotify.com/album/1n4VuuvNLZepFrHucqrBIl) | 2:48 | 2026-03-15 |  |
+| [Born Of A Dream](https://open.spotify.com/track/4pbPIGHX5wcgALa1XYoPzW) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Born Of A Dream](https://open.spotify.com/album/58qzzZxmjTrht1q7fomzZa) | 4:49 | 2026-10-10 |  |
 | [Borrowed Light](https://open.spotify.com/track/1bho1XejCPCYz4G6RJ3CS4) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:54 | 2026-07-16 |  |
 | [Borrowed Time](https://open.spotify.com/track/6UhQ7qEpXlCGreefjM6Ely) | [Sentriz](https://open.spotify.com/artist/0IsnUloaBFGEuNXqPlNn5t) | [Borrowed Time](https://open.spotify.com/album/72QOa3mGgM6Ghh7MOt66Ti) | 3:42 | 2026-10-06 |  |
 | [Bossa Nova](https://open.spotify.com/track/0JP57TrgNaFzRgE3Fq403n) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:29 | 2026-10-02 |  |
@@ -1467,6 +1470,7 @@
 | [Mi Piaci](https://open.spotify.com/track/3zSlNcv2dBJRtGXAHs2WZI) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Mi Piaci](https://open.spotify.com/album/7mnsDOmktahrGHryyMkG5Y) | 3:23 | 2025-02-28 |  |
 | [Mia cara](https://open.spotify.com/track/3jFBCZ4r9HjSNLNk8C1d3a) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:23 | 2022-08-16 |  |
 | [Mia danz ma zu an Glasl Wein](https://open.spotify.com/track/2YrLwazAHjiPusDIloEk9k) | [Da Miche](https://open.spotify.com/artist/53Fd3yx5vQQ9ANNSf2NqFL) | [Mia danz ma zu an Glasl Wein](https://open.spotify.com/album/4ct9NHIgNB1DUD005yRHPd) | 6:10 | 2026-09-28 |  |
+| [Midnight Rain Memories](https://open.spotify.com/track/03iJkNfAoB0zr5pBZxl1Mi) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Midnight Rain Memories](https://open.spotify.com/album/4Aj1gfLDaIKBGb4uPx5Cqa) | 2:46 | 2026-10-10 |  |
 | [Midnight Snow](https://open.spotify.com/track/78PlhkOzWF00jT3x7ALb73) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Midnight Snow](https://open.spotify.com/album/73Gribf2AUb6iTWdjBf3U1) | 2:27 | 2026-10-05 |  |
 | [Midnight Symphony in B\-Flat Minor](https://open.spotify.com/track/0jGrZv6oYBMjewGisdMmLf) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Midnight Symphony in B\-Flat Minor](https://open.spotify.com/album/1NSR8MdqFU94rvtZSbiApm) | 3:19 | 2026-02-05 |  |
 | [Miel](https://open.spotify.com/track/0woqLoAOOZc6YauijRcMN9) | [Compass](https://open.spotify.com/artist/7AVshRAO9zcYZH05T2WNCg) | [Miel](https://open.spotify.com/album/3tQtt41sROzZhAxfHOeJAD) | 4:56 | 2026-01-02 |  |
@@ -1748,6 +1752,7 @@
 | [PerDono](https://open.spotify.com/track/56laDV4hhbukUBpKwvzydh) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [PerDono](https://open.spotify.com/album/08iiCGNE1ZOLfe4MHsCGDl) | 3:11 | 2024-10-11 |  |
 | [Perfect Type \(Mastered\)](https://open.spotify.com/track/30qXFVyiASqCUoZPgrrVuB) | [Edrei Sayo](https://open.spotify.com/artist/5B8s0zI7iAalTjn8eDFbTG) | [Perfect Type \(Mastered\)](https://open.spotify.com/album/1DQ4x6PoxD7B1DjuEHLYqn) | 2:52 | 2025-07-26 |  |
 | [PERMANECEREI](https://open.spotify.com/track/0IKBvGNQBQZyYRFMnjdbtc) | [THOMÉ TRSH](https://open.spotify.com/artist/4WUHMC7ygoxYZgIrhZyrsl) | [QUANTOS PASSOS ATÉ AQUI?](https://open.spotify.com/album/5mLf0aYzCGXPAT0qdQdN43) | 2:58 | 2026-02-23 |  |
+| [PERMISSION](https://open.spotify.com/track/4G3tM0hcjCn3Ajx6V9TD25) | [Cénise](https://open.spotify.com/artist/6NbRussUO5FymRoxibmynR) | [PERMISSION](https://open.spotify.com/album/2NWfu6TsLIJv1Vhxv7elvV) | 3:24 | 2026-10-10 |  |
 | [Perso Tempo](https://open.spotify.com/track/6z1fpAVA10Y24CVDAYW4qf) | [Ego Semper](https://open.spotify.com/artist/2cu7ObYlLsf3yTDHDniIiH) | [Perso Tempo](https://open.spotify.com/album/7ExAkFl05e3oRGGlEUwbFV) | 2:52 | 2024-06-24 |  |
 | [PEÓN](https://open.spotify.com/track/2TKpXnTuIxyWwnGBDaEYmy) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [PEÓN](https://open.spotify.com/album/4kCRGa0XErch7GzjcgCc8q) | 4:07 | 2025-11-13 |  |
 | [PhonkFather](https://open.spotify.com/track/0Nirkqm0gZNueU1VmnZLUO) | [Yagharock](https://open.spotify.com/artist/3n3mQVD5YJmRUavyjIwStb) | [PhonkFather](https://open.spotify.com/album/3p64WAi3an4Vf36qPbsj7Z) | 2:31 | 2025-11-05 |  |
@@ -2276,6 +2281,7 @@
 | [The First Time](https://open.spotify.com/track/4qbVVkHQEe0YHed3OiM801) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF) | [The First Time](https://open.spotify.com/album/0yHB07da4YyM6HNZuvcIup) | 3:35 | 2025-01-27 |  |
 | [The Five Jack O'Lanterns](https://open.spotify.com/track/04n4d2bNgCu8n2lI03s0Cd) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 3:20 | 2026-02-05 |  |
 | [The Fortune of Tom Joe](https://open.spotify.com/track/26jsthRwt4F3KTEozCAfqK) | [Baie Verte B'ys](https://open.spotify.com/artist/5XC5OAvvXghFH8QxTb6tvg) | [The Fortune of Tom Joe](https://open.spotify.com/album/7L70pcEnB0GOUBsHJD66RV) | 4:09 | 2025-08-14 |  |
+| [The Frame](https://open.spotify.com/track/2n8swjsvLVGr9g4kGq285Q) | [Hasamura](https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG) | [Timewave](https://open.spotify.com/album/0Uwi3TbDhS0BdFe3S0hsnb) | 4:43 | 2026-10-10 |  |
 | [The Game \- Hiit 30\-10](https://open.spotify.com/track/2BR62nsHpvauPBnCm1JCpO) | [CROSSFIT WORKOUT](https://open.spotify.com/artist/25dYdNv02BZie634eo6Ezm) | [Hiit 30/10](https://open.spotify.com/album/0nPCoEyWJs2ZHwUGaBcSan) | 1:26 | 2024-03-08 |  |
 | [The Garden](https://open.spotify.com/track/2qxHPdPGlS57jEEaOZEe82) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [The Garden](https://open.spotify.com/album/7fkzC9YeVBhfFBPyeqm9wY) | 3:11 | 2022-08-13 |  |
 | [The Ghost Pirate](https://open.spotify.com/track/0Pb35kHuAwFQTH054uY2cJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [The Ghost Pirate](https://open.spotify.com/album/6uxrv6u2UsLyvbNMFlzCaU) | 3:11 | 2025-10-31 |  |

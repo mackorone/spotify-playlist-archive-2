@@ -8209,6 +8209,24 @@
     },
     {
       "album": {
+        "name": "Firestarter",
+        "url": "https://open.spotify.com/album/5onmf5T1bbZColPNDmTiwI"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233122,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/5JpHfVIJG0XEJjUhnKeyhb"
+    },
+    {
+      "album": {
         "name": "Firetail",
         "url": "https://open.spotify.com/album/4jSlDDk2biX9KdhQRceKH6"
       },
@@ -8674,7 +8692,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 233172,
       "name": "Foreshadow",
       "url": "https://open.spotify.com/track/0d2mnuL0AzrgxD4JzjtkaQ"
@@ -22040,6 +22058,24 @@
       "duration_ms": 197997,
       "name": "River",
       "url": "https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK"
+    },
+    {
+      "album": {
+        "name": "ROAD TO BE BLUE",
+        "url": "https://open.spotify.com/album/66KRk4xiJcpi3lAnniY9IK"
+      },
+      "artists": [
+        {
+          "name": "OxT",
+          "url": "https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232247,
+      "name": "ROAD TO BE BLUE",
+      "url": "https://open.spotify.com/track/34oBojc7HUtWbMAvn19tAZ"
     },
     {
       "album": {
@@ -47060,7 +47096,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 329311,
       "name": "\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/2XxE57jv7wFNmJ9FuaDKaT"

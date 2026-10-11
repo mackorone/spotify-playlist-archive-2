@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 354957,
+  "num_followers": 355060,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
+        "name": "Enganchado Homenaje a Leo Mattioli (Padres e Hijos)",
+        "url": "https://open.spotify.com/album/2zy5hs0VuLBjYwpVo5Pq7Y"
+      },
+      "artists": [
+        {
+          "name": "Palmae",
+          "url": "https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR"
+        },
+        {
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
+        }
+      ],
+      "duration_ms": 311456,
+      "name": "Enganchado Homenaje a Leo Mattioli - Cada vez te quiero m\u00e1s - Te llevo dentro de mi - Despu\u00e9s de ti - Te tengo que olvidar",
+      "url": "https://open.spotify.com/track/4TLBCFkqq1OPNd3USWzL9y"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
         "name": "Mensajes del Corazon",
         "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 232248,
       "name": "Te Llevas Mi Vida",
       "url": "https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
-        "name": "Enganchado Homenaje a Leo Mattioli (Padres e Hijos)",
-        "url": "https://open.spotify.com/album/2zy5hs0VuLBjYwpVo5Pq7Y"
-      },
-      "artists": [
-        {
-          "name": "Palmae",
-          "url": "https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR"
-        },
-        {
-          "name": "Nico Mattioli",
-          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
-        }
-      ],
-      "duration_ms": 311456,
-      "name": "Enganchado Homenaje a Leo Mattioli - Cada vez te quiero m\u00e1s - Te llevo dentro de mi - Despu\u00e9s de ti - Te tengo que olvidar",
-      "url": "https://open.spotify.com/track/4TLBCFkqq1OPNd3USWzL9y"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1278,15 +1278,11 @@
         {
           "name": "Los Lirios",
           "url": "https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A"
-        },
-        {
-          "name": "Leo Matioli",
-          "url": "https://open.spotify.com/artist/7wpQO9kv6Y4zNpHiRMc9gR"
         }
       ],
-      "duration_ms": 267666,
-      "name": "Donde Estar\u00e1 Mi Primavera",
-      "url": "https://open.spotify.com/track/737mILAFtVz8j8nt6578Ex"
+      "duration_ms": 244360,
+      "name": "A Decirme Que",
+      "url": "https://open.spotify.com/track/4KIoWx4KWdFCH51MoQ3vXw"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1327,6 +1323,22 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
+        "name": "Placer y Olvido",
+        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 233429,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
         "name": "La voz de la cumbia (Mix)",
         "url": "https://open.spotify.com/album/3pYJUba60wYrZ54pFVnYOX"
       },
@@ -1347,22 +1359,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Los M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/4Eh3Fgofkkc7xpMyKFZYQA"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 185077,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "25 A\u00f1os Cl\u00e1sicos Con Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/3yRkYWmRNloQ3t2zAjx5sY"
       },
@@ -1370,11 +1366,15 @@
         {
           "name": "Los Lirios",
           "url": "https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A"
+        },
+        {
+          "name": "Leo Matioli",
+          "url": "https://open.spotify.com/artist/7wpQO9kv6Y4zNpHiRMc9gR"
         }
       ],
-      "duration_ms": 244360,
-      "name": "A Decirme Que",
-      "url": "https://open.spotify.com/track/4KIoWx4KWdFCH51MoQ3vXw"
+      "duration_ms": 267666,
+      "name": "Donde Estar\u00e1 Mi Primavera",
+      "url": "https://open.spotify.com/track/737mILAFtVz8j8nt6578Ex"
     }
   ],
   "unique_name": "Cumbia Santafesina",

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Florence Road
 
-2,379 songs - 5 day 18 hr 53 min
+2,380 songs - 5 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,7 +632,7 @@
 | [EDGE OF VEGAS](https://open.spotify.com/track/0pBqWYVX7xbxIRdcI2RxW5) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [EDGE OF VEGAS](https://open.spotify.com/album/3KpH2DBCKo1lF8wNZxo4NU) | 3:40 | 2026-08-21 | 2026-08-30 |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-03-16 | 2023-09-22 |
 | [Ego](https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ego](https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl) | 2:53 | 2026-05-21 | 2026-09-03 |
-| [Eight Legs of Thunder](https://open.spotify.com/track/18QvY9nGqiudkGh1JycyLE) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Eight Legs of Thunder](https://open.spotify.com/album/1N3EG3JoDCRheDwltb442p) | 4:20 | 2026-09-25 |  |
+| [Eight Legs of Thunder](https://open.spotify.com/track/18QvY9nGqiudkGh1JycyLE) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Eight Legs of Thunder](https://open.spotify.com/album/1N3EG3JoDCRheDwltb442p) | 4:20 | 2026-09-25 | 2026-10-11 |
 | [Electric](https://open.spotify.com/track/3HAMzLy6i98K4nj8ye3r4F) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Electric](https://open.spotify.com/album/0qjYSBDQVjd7OrqIeUAIZo) | 3:13 | 2026-09-10 | 2026-09-18 |
 | [Electric Baby](https://open.spotify.com/track/4olhgnQxoGwYmR48vDTJIt) | [STOLEN](https://open.spotify.com/artist/1NiLgDSjGiX5cVrPjhkrm6) | [Cacophonic Symphony](https://open.spotify.com/album/2sShlM225hPkpvJrUhGG6v) | 6:04 | 2026-04-20 | 2026-05-01 |
 | [Elevated Heartbreak](https://open.spotify.com/track/71kN8wL4AFqpMsmk9jb33D) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Elevated Heartbreak](https://open.spotify.com/album/2IAhYPxUgFVgKqLVzQV2By) | 3:23 | 2023-06-08 | 2023-06-23 |
@@ -2118,6 +2118,7 @@
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 | 2026-03-13 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-03-16 | 2024-02-16 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2024-05-03 |
+| [Tourniquet](https://open.spotify.com/track/3PDSQK3LBgjjbatSh1YSPt) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Tourniquet](https://open.spotify.com/album/2U1NHrusYm2RjcbX1tEi56) | 4:00 | 2026-10-08 |  |
 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-07-24 | 2026-03-13 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-16 |
 | [Transgressions \- feat\. Rol3ert](https://open.spotify.com/track/6ReWKgFx1yyQMDumJgHcm4) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB), [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Transgressions \(feat\. Rol3ert\)](https://open.spotify.com/album/7tJLjRb9Y6YyfgF40LwrTA) | 3:11 | 2026-09-10 | 2026-10-02 |

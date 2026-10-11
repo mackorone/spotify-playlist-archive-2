@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > Portola 2026 is over but don't fret, check out some highlights from the festival! For your pre\-games, afters, spurts of manic cleaning, and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,483 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,503 likes - 84 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

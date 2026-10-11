@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4Jna0PC7dXubuBNNeJtbAA"
+      },
+      "artists": [
+        {
+          "name": "Molly Nilsson",
+          "url": "https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/5GWthZwP4OaR7nR80CxNlG"
+    },
+    {
+      "album": {
         "name": "We The People",
         "url": "https://open.spotify.com/album/48ZQUb3tHat3E45x3O2znt"
       },

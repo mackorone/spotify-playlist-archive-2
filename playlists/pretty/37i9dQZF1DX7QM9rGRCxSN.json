@@ -1,6 +1,6 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39440,
+  "num_followers": 39444,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2026-10-09 06:00:22",
       "album": {
-        "name": "LO QUE NO QUIERO ES PERDER (TE)",
-        "url": "https://open.spotify.com/album/70yU5kh1YMIlwbY1Ua16Jn"
+        "name": "Apicultura para principiantes",
+        "url": "https://open.spotify.com/album/4347ivXcsLTFkPFnL8ZXqP"
       },
       "artists": [
         {
-          "name": "San Venus",
-          "url": "https://open.spotify.com/artist/0I1DNEdOBX3s6eL8UlaskZ"
+          "name": "Honey Pot!",
+          "url": "https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7"
         }
       ],
-      "duration_ms": 155249,
-      "name": "LO QUE NO QUIERO ES PERDER (TE)",
-      "url": "https://open.spotify.com/track/6XOMy8PcSUZC44p1r5DKMZ"
+      "duration_ms": 248159,
+      "name": "Pont des Arts (Todo por ti)",
+      "url": "https://open.spotify.com/track/60cIaGeOltpsQuvdehmylx"
     },
     {
       "added_at": "2026-10-09 06:00:22",
@@ -143,18 +143,18 @@
     {
       "added_at": "2026-10-09 06:00:22",
       "album": {
-        "name": "Apicultura para principiantes",
-        "url": "https://open.spotify.com/album/4347ivXcsLTFkPFnL8ZXqP"
+        "name": "LO QUE NO QUIERO ES PERDER (TE)",
+        "url": "https://open.spotify.com/album/70yU5kh1YMIlwbY1Ua16Jn"
       },
       "artists": [
         {
-          "name": "Honey Pot!",
-          "url": "https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7"
+          "name": "San Venus",
+          "url": "https://open.spotify.com/artist/0I1DNEdOBX3s6eL8UlaskZ"
         }
       ],
-      "duration_ms": 248159,
-      "name": "Pont des Arts (Todo por ti)",
-      "url": "https://open.spotify.com/track/60cIaGeOltpsQuvdehmylx"
+      "duration_ms": 155249,
+      "name": "LO QUE NO QUIERO ES PERDER (TE)",
+      "url": "https://open.spotify.com/track/6XOMy8PcSUZC44p1r5DKMZ"
     },
     {
       "added_at": "2026-10-09 06:00:22",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-10-09 06:00:22",
       "album": {
-        "name": "Nunca Pense En Algo Tan Feo Como Odiarte",
-        "url": "https://open.spotify.com/album/0Zr2dw2MSPmv50W6yb2tFi"
-      },
-      "artists": [
-        {
-          "name": "Mi Mascota Leila",
-          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Nunca Pense En Algo Tan Feo Como Odiarte",
-      "url": "https://open.spotify.com/track/1vm2xeAdZmtZAUYNuWVY5e"
-    },
-    {
-      "added_at": "2026-10-09 06:00:22",
-      "album": {
         "name": "kickflip",
         "url": "https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 258300,
       "name": "kickflip",
       "url": "https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX"
+    },
+    {
+      "added_at": "2026-10-09 06:00:22",
+      "album": {
+        "name": "Gu\u00eda para Comprender los Sue\u00f1os",
+        "url": "https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2"
+      },
+      "artists": [
+        {
+          "name": "Nunca Pasa Nada",
+          "url": "https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Todos Preguntaron por Ti",
+      "url": "https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw"
     },
     {
       "added_at": "2026-10-09 06:00:22",
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-10-09 06:00:22",
       "album": {
-        "name": "Gu\u00eda para Comprender los Sue\u00f1os",
-        "url": "https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2"
+        "name": "Nunca Pense En Algo Tan Feo Como Odiarte",
+        "url": "https://open.spotify.com/album/0Zr2dw2MSPmv50W6yb2tFi"
       },
       "artists": [
         {
-          "name": "Nunca Pasa Nada",
-          "url": "https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T"
+          "name": "Mi Mascota Leila",
+          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Todos Preguntaron por Ti",
-      "url": "https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw"
+      "duration_ms": 158117,
+      "name": "Nunca Pense En Algo Tan Feo Como Odiarte",
+      "url": "https://open.spotify.com/track/1vm2xeAdZmtZAUYNuWVY5e"
     },
     {
       "added_at": "2026-10-09 06:00:22",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-10-09 06:00:22",
       "album": {
-        "name": "Efecto Placebo",
-        "url": "https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J"
-      },
-      "artists": [
-        {
-          "name": "DOSMILDOS",
-          "url": "https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Efecto Placebo",
-      "url": "https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM"
-    },
-    {
-      "added_at": "2026-10-09 06:00:22",
-      "album": {
         "name": "Todo Ocaso Resplandece y Acaba",
         "url": "https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 300596,
       "name": "Destello",
       "url": "https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz"
+    },
+    {
+      "added_at": "2026-10-09 06:00:22",
+      "album": {
+        "name": "Efecto Placebo",
+        "url": "https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J"
+      },
+      "artists": [
+        {
+          "name": "DOSMILDOS",
+          "url": "https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Efecto Placebo",
+      "url": "https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM"
     },
     {
       "added_at": "2026-10-09 06:00:22",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-09 06:00:22",
       "album": {
-        "name": "S / T",
-        "url": "https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB"
-      },
-      "artists": [
-        {
-          "name": "recuerdo acariciar con miedo las alas de un ave herida",
-          "url": "https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Mata a Tus \u00cddolos",
-      "url": "https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D"
-    },
-    {
-      "added_at": "2026-10-09 06:00:22",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/42REAsVoQV7Iy2opLm6zCG"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 228198,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/6dVf1FttdaducHgMmsNs36"
+    },
+    {
+      "added_at": "2026-10-09 06:00:22",
+      "album": {
+        "name": "S / T",
+        "url": "https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB"
+      },
+      "artists": [
+        {
+          "name": "recuerdo acariciar con miedo las alas de un ave herida",
+          "url": "https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Mata a Tus \u00cddolos",
+      "url": "https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D"
     },
     {
       "added_at": "2026-10-09 06:00:22",

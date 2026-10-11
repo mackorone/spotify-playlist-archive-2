@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Maribou State
 
-552 songs - 1 day 10 hr 32 min
+553 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 | 2026-08-20 |  |
 | [Angeles](https://open.spotify.com/track/0QNLboKNg60M1PmEBFoY6k) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Angeles / Build A Man](https://open.spotify.com/album/0AGElbWY5WV66ygbTy2aQr) | 2:03 | 2024-04-12 | 2025-02-14 |
 | [Another Life](https://open.spotify.com/track/1yC1hDCkGjI17vwrkb7No8) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Another Life](https://open.spotify.com/album/3VSG0SB1fHnLOMt4zjbA6d) | 3:07 | 2025-01-31 | 2025-03-05 |
+| [Another Planet \(feat\. Pollena\)](https://open.spotify.com/track/2ukTDvCXtV43vG9v9JDp7k) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [Another Planet \(feat\. Pollena\)](https://open.spotify.com/album/0B8L1AR40Qw5PGTs4ViBrX) | 3:15 | 2026-10-02 |  |
 | [Anotherwave](https://open.spotify.com/track/10WZEaaJ2MsKMgPJpxgaRO) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Anotherwave](https://open.spotify.com/album/4RUBLJUANaWzNZSJV7Xmox) | 4:06 | 2026-07-23 | 2026-09-21 |
 | [Any Signs of Love](https://open.spotify.com/track/0LYQCwah3h2YpviChfPWlg) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Any Signs of Love](https://open.spotify.com/album/30RBf9fTDgli7g46pWGQCl) | 6:02 | 2024-06-21 | 2025-02-14 |
 | [Apnea Instructions 04 \- Johannes Albert Remix \- Radio Edit](https://open.spotify.com/track/3q2pd6hTEvTGCanQnKEwaB) | [Alex Medina](https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Apnea Instructions 04 \(Johannes Albert Remix \- Radio Edit\)](https://open.spotify.com/album/1dXxYYkSS5QtwL83JavGmE) | 4:03 | 2021-10-28 | 2024-04-12 |
@@ -263,7 +264,7 @@
 | [Know You Love Me](https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Know You Love Me](https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw) | 2:59 | 2025-02-21 | 2025-05-09 |
 | [Kowloon](https://open.spotify.com/track/6t5c58rVp2TH3hWOvLzetd) | [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Letter To Yu](https://open.spotify.com/album/4NWbM9F8OhWw9pVM0dVNRk) | 5:24 | 2024-03-22 | 2025-02-14 |
 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 | 2026-02-13 | 2026-09-11 |
-| [Last October](https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Last October](https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4) | 3:08 | 2026-05-21 |  |
+| [Last October](https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Last October](https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4) | 3:08 | 2026-05-21 | 2026-10-11 |
 | [Lazy Dreams](https://open.spotify.com/track/7fjRfwPl4Ay7o70O5eaRIp) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Lazy Dreams](https://open.spotify.com/album/1AfMfdbzcWXW4FW5zUkmwq) | 3:16 | 2026-04-30 | 2026-07-24 |
 | [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 | 2026-06-18 |  |
 | [Let the Lips Fall Where They May](https://open.spotify.com/track/5eH0Jh6P971WZ76oeQq43x) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [Let the Lips Fall Where They May](https://open.spotify.com/album/2RdDzLj9oPuly44KbJ8HQI) | 3:48 | 2025-08-07 | 2025-10-04 |

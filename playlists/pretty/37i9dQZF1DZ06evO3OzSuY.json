@@ -1,6 +1,6 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 25909,
+  "num_followers": 25913,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smallfoot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/2AD2chJEFxVPaoPo2IzI5t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/6alQEMqbSAbkkfrfuLKRSo"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 224760,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/654bpQLFU931tUdT7HHqu0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smallfoot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/2AD2chJEFxVPaoPo2IzI5t"
     },
     {
       "added_at": null,

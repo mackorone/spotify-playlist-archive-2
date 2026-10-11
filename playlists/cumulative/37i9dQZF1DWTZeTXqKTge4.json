@@ -10492,7 +10492,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 152187,
       "name": "GENS DU PAYS",
       "url": "https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB"
@@ -24272,6 +24272,24 @@
       "duration_ms": 233726,
       "name": "Sunny Delight",
       "url": "https://open.spotify.com/track/31jvT9OExPCzwIb58lTvcU"
+    },
+    {
+      "album": {
+        "name": "Super freak",
+        "url": "https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Super freak",
+      "url": "https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx"
     },
     {
       "album": {

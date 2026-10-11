@@ -4202,7 +4202,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -20014,7 +20014,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -33203,6 +33203,28 @@
     },
     {
       "album": {
+        "name": "po show",
+        "url": "https://open.spotify.com/album/7yck5CD4hRaABHNAA00R3i"
+      },
+      "artists": [
+        {
+          "name": "Marie April",
+          "url": "https://open.spotify.com/artist/1x5UWbWiwd3P8PYz00coCo"
+        },
+        {
+          "name": "kubmat",
+          "url": "https://open.spotify.com/artist/4kknfnqQZGLYDfUBxhcCG7"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149368,
+      "name": "po show",
+      "url": "https://open.spotify.com/track/71eERERMDR7epp7n2ncgqI"
+    },
+    {
+      "album": {
         "name": "POCH*AL",
         "url": "https://open.spotify.com/album/64gLPxU9VuoX5QWb7nf2AM"
       },
@@ -34862,7 +34884,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "P\u00e1tky",
       "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
@@ -41630,7 +41652,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
@@ -50190,7 +50212,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 158000,
       "name": "\u017ee nechci t\u011b tady",
       "url": "https://open.spotify.com/track/1RkIp8fMQX0nSBqloHW7pM"

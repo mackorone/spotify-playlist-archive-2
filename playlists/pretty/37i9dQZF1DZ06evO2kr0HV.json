@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 42529,
+  "num_followers": 42532,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAA+TZl3DQ0JNn6f6b9IekCh",
+  "snapshot_id": "asgugAAAAACWSsBFZpsixSbuMvLBjysU",
   "tracks": [
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Ha Acabado El Show",
-        "url": "https://open.spotify.com/album/47J0MUBkFuXodl1OEXrUtc"
-      },
-      "artists": [
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 176639,
-      "name": "Problemas de Conversaci\u00f3n",
-      "url": "https://open.spotify.com/track/0pJCbl4k3pOj5Ld0356kny"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1er Acto",
         "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 226253,
       "name": "Aqu\u00ed Estoy Yo (feat. Andrea Echeverri)",
       "url": "https://open.spotify.com/track/1B2tNAkR6GKP2PcjZqf7Sq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Ha Acabado El Show",
+        "url": "https://open.spotify.com/album/47J0MUBkFuXodl1OEXrUtc"
+      },
+      "artists": [
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 176639,
+      "name": "Problemas de Conversaci\u00f3n",
+      "url": "https://open.spotify.com/track/0pJCbl4k3pOj5Ld0356kny"
     },
     {
       "added_at": null,
@@ -1027,22 +1027,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUALIDAD",
-        "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
+        "name": "Fuma",
+        "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
         },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 201499,
-      "name": "DUALIDAD - feat. Esteman",
-      "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
+      "duration_ms": 199200,
+      "name": "Fuma",
+      "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
     }
   ],
   "unique_name": "This Is Esteman",

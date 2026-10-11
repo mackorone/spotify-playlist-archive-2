@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Lafa Pratomo, Ari Lesmana, White Chorus
 
-814 songs - 2 day 4 hr 37 min
+815 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Halo Jakarta](https://open.spotify.com/track/0wTdu8sKRKWFaIUxnNjpU4) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pancarona](https://open.spotify.com/album/1pUhL7RoOg7Lce3VCdIwbx) | 4:29 | 2024-03-14 | 2024-05-03 |
 | [Hancur Lebih Dulu](https://open.spotify.com/track/4nAoRD9mWgB5QvzKz27oqP) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Hancur Lebih Dulu](https://open.spotify.com/album/6QGFq4nA7VJV2DRiyxBi7l) | 4:32 | 2024-03-01 | 2024-06-28 |
 | [Hanya Lolongan](https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Hanya Lolongan](https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr) | 3:49 | 2024-05-03 | 2025-02-14 |
+| [Happy Song](https://open.spotify.com/track/1hFbdiVz5BcR39jwSdvqq5) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [Happy Song](https://open.spotify.com/album/6CO2XDEgZLjc6arp3ki5Xt) | 3:50 | 2026-10-08 |  |
 | [Hari Ini \(feat\. Hindia\)](https://open.spotify.com/track/7xyGT6XaM9rV4jIb62QvST) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Hari Ini](https://open.spotify.com/album/7zcuwtBduQbPYqPMhC2Oei) | 3:16 | 2025-05-01 | 2025-06-21 |
 | [Hari Itu](https://open.spotify.com/track/06wZo8NQVbOkNKXfYb5X3s) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Hari Itu](https://open.spotify.com/album/52zM9Kzo8pzcXG8LJdt3Mo) | 4:07 | 2024-08-15 | 2024-11-15 |
 | [Hari Paling Spe\(sial\)](https://open.spotify.com/track/3BFw9sEMPNS7sF6TNoneR2) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Hari Paling Spe\(sial\)](https://open.spotify.com/album/0S5FhC43M9RkSVEkco5yny) | 4:43 | 2025-11-27 | 2026-01-30 |

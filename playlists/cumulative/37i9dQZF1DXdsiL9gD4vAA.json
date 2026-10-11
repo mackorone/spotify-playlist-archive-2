@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Kabhi Dil Ne Chaha",
+        "url": "https://open.spotify.com/album/3TaH9UoPs5XaozqgKxtpgv"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272415,
+      "name": "Kabhi Dil Ne Chaha",
+      "url": "https://open.spotify.com/track/1XQNkdaUv3A7peiSVAv3TH"
+    },
+    {
+      "album": {
         "name": "Kabhi Ishq Ka",
         "url": "https://open.spotify.com/album/1GvV8MWDKfjrkFYDHjjY3f"
       },
@@ -4202,7 +4220,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 276407,
       "name": "Tere Naina",
       "url": "https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw"

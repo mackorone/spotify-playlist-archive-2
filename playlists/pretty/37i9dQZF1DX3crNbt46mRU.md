@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including girl in red, Troye Sivan, Sido, Montez, Marlon Hoffstadt, David Guetta & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,853 likes - 97 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,847 likes - 97 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 42 | [Simp 4L](https://open.spotify.com/track/6Oic5xGwnzSkDJYmXCVJZI) | [BAMBi](https://open.spotify.com/artist/0AmsS5idobHKGeTxLEErZq) | [Simp 4L](https://open.spotify.com/album/2lO5fDKbXId5KpdHdKAwLC) | 2:31 |
 | 43 | [lauf auf lego](https://open.spotify.com/track/5qmZXCnP1n3O1tGA7lKvs8) | [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [lauf auf lego](https://open.spotify.com/album/5tGwWzm48SFQnYiZWOV6O5) | 1:59 |
 | 44 | [AMORE/DILEMMA](https://open.spotify.com/track/2u4slgqitceKgPbKbCKEii) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [AMORE/DILEMMA](https://open.spotify.com/album/5D4tTGj7iwhVFVMTtSfT9G) | 2:40 |
-| 45 | [GELD](https://open.spotify.com/track/5NKdJZB3WNYmmxee02WOqb) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [GELD](https://open.spotify.com/album/0MvUkn1OXSYaqSWlC8OCCq) | 3:35 |
+| 45 | [GELD](https://open.spotify.com/track/5NKdJZB3WNYmmxee02WOqb) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [GELD](https://open.spotify.com/album/0MvUkn1OXSYaqSWlC8OCCq) | 3:35 |
 | 46 | [pop it](https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [pop it](https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv) | 2:18 |
 | 47 | [ACCELERANDO](https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [VADAKIN](https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ) | [ACCELERANDO](https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv) | 4:02 |
 | 48 | [hoffnung](https://open.spotify.com/track/2I9h4BHA5QTeE4ndha0NbN) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [das schlimmste und das beste](https://open.spotify.com/album/7AWSF6Iz42ITboAbwqSxXV) | 3:23 |

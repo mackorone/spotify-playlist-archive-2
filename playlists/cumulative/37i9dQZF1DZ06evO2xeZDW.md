@@ -4,7 +4,7 @@
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 15 min
+72 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Mission: Impossible Theme](https://open.spotify.com/track/1FL7eUG80aeUeyMO2N4btN) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Mission: Impossible III \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FuLQGtfibFyfzSDDiEUhK) | 0:51 | 2026-07-08 |  |
 | [Moving On](https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Lost: The Final Season \(Original Television Soundtrack\)](https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y) | 7:54 | 2026-07-08 |  |
 | [Ned Man Walking \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/1F3Mopuuv5PPPIgXiMbq4n) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 1:09 | 2026-08-05 | 2026-09-23 |
-| [Nomanisone Island/National Movers](https://open.spotify.com/track/2R3R3dayan27EEINL55jNd) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 4:20 | 2026-07-08 |  |
+| [Nomanisone Island/National Movers](https://open.spotify.com/track/2R3R3dayan27EEINL55jNd) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 4:20 | 2026-07-08 | 2026-10-11 |
 | [Off to Work](https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV) | 1:59 | 2026-07-08 |  |
 | [Peter Parker Picked a Perilously Precarious Profession \- from "Spider\-Man: No Way Home" Soundtrack](https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: No Way Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL) | 1:31 | 2026-08-03 |  |
 | [Pregnancy Testing 1, 2, 3](https://open.spotify.com/track/0Og2yLid9BMCcNy7P9Q2gj) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB) | 1:58 | 2026-07-08 |  |
@@ -69,6 +69,7 @@
 | [The Imperial Suite](https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:29 | 2026-07-08 |  |
 | [The Old Zoo Review](https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 1:52 | 2026-07-08 | 2026-09-18 |
 | [The Park is Closed](https://open.spotify.com/track/3wtb9sGrgRTasl7mOqBS4N) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Jurassic World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pqi0hewWOKo9uDVLpCVoh) | 1:38 | 2026-07-08 |  |
+| [The Suspension Is Killing Me](https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Toy Story of Terror!](https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf) | 0:44 | 2026-10-11 |  |
 | [The Turbomater \- From "Cars 2"/Score](https://open.spotify.com/track/6dtH3YqfLqPM3OIlYQ9CwE) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 0:50 | 2026-07-08 | 2026-10-03 |
 | [Theme \(from "Spider Man"\) \[Original Television Series\]](https://open.spotify.com/track/1tzj2vY4twkNmZ5K3DUOPp) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Homecoming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Aao9FYpxQXuNrAPjJnud1) | 0:39 | 2026-07-08 |  |
 | [Turbo Transmission \- From "Cars 2"/Score](https://open.spotify.com/track/2XWfTQt91OXHKBotO9aBAl) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 0:52 | 2026-07-15 | 2026-07-18 |

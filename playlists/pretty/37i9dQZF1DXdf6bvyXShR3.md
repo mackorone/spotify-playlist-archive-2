@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,601 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,613 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 36 | [Alf Youm](https://open.spotify.com/track/68JJodRKWQFPDgJhrlK9UW) | [ReiRei](https://open.spotify.com/artist/5kzMvGnNDZLNTaoblscITp), [Minoas Cirillo](https://open.spotify.com/artist/4IpuSb0XIF8XEhLfJwurs6) | [Cairo](https://open.spotify.com/album/3mEXcid5SpglmqKyhDIeuT) | 5:37 |
 | 37 | [I Will](https://open.spotify.com/track/5WEyaUpuXCbo0Cc48zDRer) | [Hardt Antoine](https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA) | [I Will](https://open.spotify.com/album/663C9l2cG865dXXs4KJztT) | 5:48 |
 | 38 | [Thandaza](https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm) | 6:01 |
-| 39 | [Delakufa](https://open.spotify.com/track/6Ipr0DdH8VnsxjlBEmbFcB) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/20aEmw9ZXPhddycV490ObL) | 3:26 |
+| 39 | [Delakufa](https://open.spotify.com/track/6Ipr0DdH8VnsxjlBEmbFcB) | [jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/20aEmw9ZXPhddycV490ObL) | 3:26 |
 | 40 | [Celona](https://open.spotify.com/track/2mCQo995qfavaLthM6oaLF) | [Ariaz](https://open.spotify.com/artist/4As6wxZpAR8zGUwlyNkypw), [Nambeh](https://open.spotify.com/artist/2Isto4XW2NZaKYOICNPQ6R) | [Celona EP](https://open.spotify.com/album/3v1lJLwIgKy9iBttVp1Q3O) | 4:19 |
 | 41 | [Jukurpa](https://open.spotify.com/track/2QoNSCfgounwEieEn1OUyE) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [Jukurpa](https://open.spotify.com/album/4N9AfBFNczUeuRvaJvhQZS) | 2:58 |
 | 42 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 |

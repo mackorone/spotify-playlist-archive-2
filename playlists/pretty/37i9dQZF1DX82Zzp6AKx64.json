@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1242900,
+  "num_followers": 1242954,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -831,8 +831,8 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Damn Yankees",
-        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
+        "name": "Don't Tread",
+        "url": "https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
         }
       ],
-      "duration_ms": 339560,
-      "name": "Come Again",
-      "url": "https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r"
+      "duration_ms": 279846,
+      "name": "Where You Goin' Now",
+      "url": "https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -911,8 +911,8 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Don't Tread",
-        "url": "https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8"
+        "name": "Damn Yankees",
+        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
         }
       ],
-      "duration_ms": 279846,
-      "name": "Where You Goin' Now",
-      "url": "https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX"
+      "duration_ms": 339560,
+      "name": "Come Again",
+      "url": "https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Hungry",
-        "url": "https://open.spotify.com/album/6ehiAquVebqoHhN4VXTEQ1"
-      },
-      "artists": [
-        {
-          "name": "XYZ",
-          "url": "https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "When I Find Love",
-      "url": "https://open.spotify.com/track/5jFJ4uD1C5IKc1zmLmp0TO"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 286499,
       "name": "Only My Heart Talkin'",
       "url": "https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Hungry",
+        "url": "https://open.spotify.com/album/6ehiAquVebqoHhN4VXTEQ1"
+      },
+      "artists": [
+        {
+          "name": "XYZ",
+          "url": "https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "When I Find Love",
+      "url": "https://open.spotify.com/track/5jFJ4uD1C5IKc1zmLmp0TO"
     },
     {
       "added_at": "2024-06-26 02:22:53",

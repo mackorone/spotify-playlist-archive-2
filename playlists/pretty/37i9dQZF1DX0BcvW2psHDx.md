@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 
 > T1 홈그라운드를 빛낸 라이브 무대들을 오피셜 플레이리스트에서 다시 즐겨보세요! \(Enjoy the live performances from T1 HOME GROUND, all in the official playlist!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,320 likes - 203 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,323 likes - 203 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

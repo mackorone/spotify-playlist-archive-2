@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/2cuIJ4oqOCNTtth0wxPJrb"
+      },
+      "artists": [
+        {
+          "name": "Tebin Ramos",
+          "url": "https://open.spotify.com/artist/3JuVLgCeHAGhyLtlF8iCZd"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200338,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6gsbAhf3XxE8OhabLMmPw7"
+    },
+    {
+      "album": {
         "name": "Funky Music Makes Me Lose It",
         "url": "https://open.spotify.com/album/3EhtKfElVLsWID6fuuw2qp"
       },
@@ -1688,6 +1706,24 @@
       "duration_ms": 300291,
       "name": "Liezone",
       "url": "https://open.spotify.com/track/69NybcQA2serENFVWlWfuV"
+    },
+    {
+      "album": {
+        "name": "Fluster Crux",
+        "url": "https://open.spotify.com/album/2quBW7IVo2JdekZXJc8Qdx"
+      },
+      "artists": [
+        {
+          "name": "Electron Revolt",
+          "url": "https://open.spotify.com/artist/7inTXltGl51TDpZAW7BFAm"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240857,
+      "name": "Life in the Slow Lane",
+      "url": "https://open.spotify.com/track/5Vys4dZ1Pq4MRUDGHrGfZh"
     },
     {
       "album": {

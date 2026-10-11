@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Josie Edwards",
-  "num_followers": 65714,
+  "num_followers": 65712,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "Honest Woman",
-        "url": "https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 202833,
-      "name": "Same Circus",
-      "url": "https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
         "name": "gloria!",
         "url": "https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 201202,
       "name": "gloria!",
       "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
+        "name": "Honest Woman",
+        "url": "https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 202833,
+      "name": "Same Circus",
+      "url": "https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db"
     },
     {
       "added_at": "2026-10-05 15:51:33",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
+        "name": "Used To Be",
+        "url": "https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
         "name": "the bridge",
         "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
       },
@@ -611,18 +627,34 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "Used To Be",
-        "url": "https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG"
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh"
       },
       "artists": [
         {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
         }
       ],
-      "duration_ms": 181806,
-      "name": "Used To Be",
-      "url": "https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2"
+      "duration_ms": 179735,
+      "name": "Honest To God",
+      "url": "https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
+        "name": "only one way to know",
+        "url": "https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 166378,
+      "name": "only one way to know",
+      "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
     },
     {
       "added_at": "2026-10-05 15:51:33",
@@ -647,38 +679,6 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "only one way to know",
-        "url": "https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 166378,
-      "name": "only one way to know",
-      "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
-        "name": "Here I Am",
-        "url": "https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 179735,
-      "name": "Honest To God",
-      "url": "https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
         "name": "Feelings Are Forever",
         "url": "https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295"
       },
@@ -691,6 +691,38 @@
       "duration_ms": 168146,
       "name": "It Just So Happens",
       "url": "https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
+        "name": "Take It Off For You",
+        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 156540,
+      "name": "Take It Off For You",
+      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
+        "name": "Isn't That Sweet?",
+        "url": "https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw"
+      },
+      "artists": [
+        {
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Sorta, kinda",
+      "url": "https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut"
     },
     {
       "added_at": "2026-10-05 15:51:33",
@@ -715,22 +747,6 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "Crucified",
-        "url": "https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A"
-      },
-      "artists": [
-        {
-          "name": "Gore.",
-          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Crucified",
-      "url": "https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
         "name": "'Til We Meet Again",
         "url": "https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "Isn't That Sweet?",
-        "url": "https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw"
+        "name": "Crucified",
+        "url": "https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A"
       },
       "artists": [
         {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
         }
       ],
-      "duration_ms": 236400,
-      "name": "Sorta, kinda",
-      "url": "https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut"
+      "duration_ms": 190680,
+      "name": "Crucified",
+      "url": "https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1"
     },
     {
       "added_at": "2026-10-05 15:51:33",
@@ -775,22 +791,6 @@
       "duration_ms": 189693,
       "name": "Sugar Trap",
       "url": "https://open.spotify.com/track/0j38sAqoc1QL4MoccmWxD2"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
-        "name": "Take It Off For You",
-        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 156540,
-      "name": "Take It Off For You",
-      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
     },
     {
       "added_at": "2026-10-05 15:51:33",

@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-877 songs - 2 day 22 hr 52 min
+878 songs - 2 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [I Cover The Waterfront](https://open.spotify.com/track/1UdkQHQZs7pMWLpZBDVRxl) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Complete Capitol Recordings Of Art Tatum](https://open.spotify.com/album/0Qp4pPAZ6EP9aMyFenfXpu) | 2:32 | 2023-02-15 | 2024-02-06 |
 | [I Cover The Waterfront](https://open.spotify.com/track/5KdNs4Qy9PDkudut6uX3vo) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Complete Capitol Recordings \(Vol\. One\)](https://open.spotify.com/album/6UeRQJM4gPVe4UkmaUmcDX) | 2:33 | 2022-10-27 | 2023-01-27 |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/5FpmRoCduqD28smrRs6mdl) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [WomanChild](https://open.spotify.com/album/5JE6HnCPJ9is6pnewMaaSe) | 6:07 | 2022-10-27 | 2024-04-19 |
+| [I Don't Stand A Ghost Of A Chance With You](https://open.spotify.com/track/1U40ZDyutQGASuOrNlVM2S) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:48 | 2025-12-04 |  |
 | [I Don't Worry About a Thing](https://open.spotify.com/track/0POJr2bfkh1KYg1L9F7cX8) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [I Don't Worry About A Thing](https://open.spotify.com/album/58vFtbiyFPwDKwdhRI5D4V) | 2:17 | 2022-10-27 | 2026-09-26 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/1wnbi9NzQPBCobZ6OYCpqH) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 2:42 | 2022-10-27 | 2025-06-12 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 7:18 | 2024-07-17 |  |
@@ -742,7 +743,7 @@
 | [The Call](https://open.spotify.com/track/2rb45s3pCXLMZGD1WiKFjG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 4:03 | 2024-07-17 | 2026-10-02 |
 | [The Cat](https://open.spotify.com/track/1AZ5G23Kcn9h5Awws5Ekf3) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Cat](https://open.spotify.com/album/6CvGnsHhBjVvGKgmIkpLMs) | 3:24 | 2022-10-27 | 2026-10-10 |
 | [The Feeling Of Jazz](https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:29 | 2023-06-21 |  |
-| [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-10-27 |  |
+| [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-10-27 | 2026-10-11 |
 | [The Girl From Ipanema \- Single Version](https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:47 | 2023-04-26 | 2024-04-19 |
 | [The Last Time I Saw Paris](https://open.spotify.com/track/1CgkKs5fgX1BiYyYZ6ZzZE) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Not So Dukish](https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv) | 2:54 | 2022-10-27 |  |
 | [The Last Verse](https://open.spotify.com/track/3kmQxusMYqIaXIoWeatRDh) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:01 | 2022-10-27 | 2025-05-03 |

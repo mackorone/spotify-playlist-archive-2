@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 53262,
+  "num_followers": 53289,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-09-30 12:00:17",
       "album": {
+        "name": "Laung Gawacha",
+        "url": "https://open.spotify.com/album/7xva1zIhXOJWf5Zma8coD6"
+      },
+      "artists": [
+        {
+          "name": "Ragini Tandan",
+          "url": "https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA"
+        }
+      ],
+      "duration_ms": 150899,
+      "name": "Laung Gawacha",
+      "url": "https://open.spotify.com/track/255mewBkW1KCqgxoEHJGRW"
+    },
+    {
+      "added_at": "2026-09-30 12:00:17",
+      "album": {
         "name": "Sound Of Soil",
         "url": "https://open.spotify.com/album/7jHbAHAgGKBQtw4g1Dcde0"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 201875,
       "name": "Heere Heere",
       "url": "https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq"
-    },
-    {
-      "added_at": "2026-09-30 12:00:17",
-      "album": {
-        "name": "Laung Gawacha",
-        "url": "https://open.spotify.com/album/7xva1zIhXOJWf5Zma8coD6"
-      },
-      "artists": [
-        {
-          "name": "Ragini Tandan",
-          "url": "https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA"
-        }
-      ],
-      "duration_ms": 150899,
-      "name": "Laung Gawacha",
-      "url": "https://open.spotify.com/track/255mewBkW1KCqgxoEHJGRW"
     },
     {
       "added_at": "2026-09-30 12:00:17",

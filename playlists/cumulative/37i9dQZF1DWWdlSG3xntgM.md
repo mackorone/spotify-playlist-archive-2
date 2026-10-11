@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-356 songs - 1 day 7 hr 1 min
+357 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Ai cho tôi tình yêu](https://open.spotify.com/track/7wyYX2ceXlAnW2ke9RbDPL) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Chuyến tàu hoàng hôn](https://open.spotify.com/album/6GD5IlIf5PiaUJWevmI1I1) | 6:22 | 2025-06-03 |  |
 | [Ai Kho Vi Ai](https://open.spotify.com/track/5T106xgu6e1CovG6dGLpTD) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn) | [Nhac Tuyen 2](https://open.spotify.com/album/4ggb7FWdVhzXhhw9xBg51n) | 4:52 | 2023-12-14 | 2025-11-08 |
 | [Ai Khổ Vì Ai](https://open.spotify.com/track/1xJoJzNejKKw9qpoFjxKUR) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Ai Cho Tôi Tình Yêu](https://open.spotify.com/album/6nuh0xhKDgghXctszWjefR) | 5:42 | 2026-03-01 | 2026-08-19 |
-| [Ai Khổ Vì Ai](https://open.spotify.com/track/1z3Nh5t0LAGO5hoWMV32ai) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 5:25 | 2024-03-12 |  |
+| [Ai Khổ Vì Ai](https://open.spotify.com/track/1z3Nh5t0LAGO5hoWMV32ai) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 5:25 | 2024-03-12 | 2026-10-11 |
 | [Ba tháng tạ từ](https://open.spotify.com/track/2z7DxMbDCN6hvQDc7CiTKa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:33 | 2024-01-05 | 2024-02-22 |
 | [Buc Tam Thu](https://open.spotify.com/track/5FchCbqk8VyiBedLQxzwch) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 3:40 | 2024-03-12 | 2025-10-29 |
 | [Bài Ca Của Nàng](https://open.spotify.com/track/5hFR51zySvPMBRMNxiV6gQ) | [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Bài Ca Của Nàng](https://open.spotify.com/album/2kSVRv41pSQyIsS7VhTGYR) | 4:50 | 2025-05-02 | 2026-02-10 |
@@ -107,6 +107,7 @@
 | [Hoa Trinh Nữ](https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:59 | 2022-03-11 |  |
 | [Hoa Trinh Nữ](https://open.spotify.com/track/10Zelr7nNZECVLeB9aNz2o) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Hoa Trinh Nữ](https://open.spotify.com/album/2KrC9icGI6gZ8pyC4Z1N0A) | 6:17 | 2022-03-11 | 2022-07-28 |
 | [Hoa Xuan](https://open.spotify.com/track/57OFusX1pKeIM9iS1v2Dxz) | [Hoàng Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o) | [Chuyen Do Vi Tuyen \- The Best Of Hoang Oanh](https://open.spotify.com/album/4Rhm5rUxr4JgV3haPPurKN) | 5:42 | 2026-02-08 | 2026-03-02 |
+| [Hàn Mặc Tử](https://open.spotify.com/track/4m8gBw5Xhey2WFVGaXm8lB) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 1](https://open.spotify.com/album/0KP7JvQacUA8pNIsX9wVFp) | 7:10 | 2026-03-01 |  |
 | [Hồn Trinh Nữ](https://open.spotify.com/track/63ARxrKTXP3AXmcas34U7S) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Hồn Trinh Nữ](https://open.spotify.com/album/1QzEsp11RmZmLG0fRnUMrJ) | 5:01 | 2022-03-11 | 2022-07-27 |
 | [Khong Gio Roi \(feat\. Truong Vu\)](https://open.spotify.com/track/1Kinxed6RGvVnPAMhgRDgw) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Khong Gio Roi](https://open.spotify.com/album/1DiR2MBcORbrbhnpqNLJc9) | 5:12 | 2022-03-11 | 2022-07-28 |
 | [Khuya Nay Anh Đi Rồi](https://open.spotify.com/track/0nxkkjvAmUl7mviO0al76E) | [Ngoc Han](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Khuya Nay Anh Đi Rồi](https://open.spotify.com/album/56qWlLfGOyVkCLqj8w682V) | 4:13 | 2022-03-11 | 2022-07-25 |

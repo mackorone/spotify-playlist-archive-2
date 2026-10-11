@@ -1109,6 +1109,36 @@
     },
     {
       "album": {
+        "name": "Mi Suerte",
+        "url": "https://open.spotify.com/album/4KDCVmbEfvx0oRq7kyvhjB"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "underdogs",
+          "url": "https://open.spotify.com/artist/0KTIlyXpaefGQS3Q3BbXQC"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169503,
+      "name": "Mi Suerte",
+      "url": "https://open.spotify.com/track/1t45VJU0gMfYht74Es3NMP"
+    },
+    {
+      "album": {
         "name": "Guisando: Doing A Job (Remastered 2025)",
         "url": "https://open.spotify.com/album/43hcbyQ8jVEzgHY2pMPpJa"
       },
@@ -1642,7 +1672,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-11",
       "duration_ms": 325080,
       "name": "Siembra",
       "url": "https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx"

@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-139 songs - 6 hr 29 min
+140 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [RUN IT BACK](https://open.spotify.com/track/52VGJRZyGPmgvDfGVWWllk) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [RUN IT BACK](https://open.spotify.com/album/3WjWc81c69QEUPMojf5Tpy) | 2:17 | 2026-06-27 |  |
 | [S/O ALYSA LIU](https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [S/O ALYSA LIU](https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH) | 2:17 | 2026-03-06 | 2026-09-13 |
 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 | 2024-01-29 |  |
-| [shake ya ass \(feat\. P\-Lo\)](https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [drink bleach](https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r) | 3:21 | 2024-01-29 |  |
+| [shake ya ass \(feat\. P\-Lo\)](https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [drink bleach](https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r) | 3:21 | 2024-01-29 | 2026-10-11 |
+| [shake ya ass \(feat\. P\-Lo\)](https://open.spotify.com/track/2VJhX120v3hNx3YiKG6kv1) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [drink bleach](https://open.spotify.com/album/6mG8kho0uDweG6pDIUFgHS) | 3:21 | 2026-10-11 |  |
 | [Shine](https://open.spotify.com/track/7reqdhRTImOChEgyZlrqJJ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 1:58 | 2024-01-29 | 2024-06-09 |
 | [SILK](https://open.spotify.com/track/649JkfJv5FNUMTbIarTDty) | [YMTK](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SILK](https://open.spotify.com/album/5aMNCaPqaJDh9BDjrYFdOR) | 3:21 | 2024-01-29 | 2026-07-06 |
 | [Simple \(feat\. demahjiae\)](https://open.spotify.com/track/4XneL9a3JueBGgkirYEsLu) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl), [demahjiae](https://open.spotify.com/artist/0BajT9ZXitGajSuc16Rass) | [For The Soil](https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3) | 1:46 | 2025-02-17 | 2025-04-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Diffrent
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,030 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,042 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 40 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |
 | 41 | [Talking Nonsense](https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Talking Nonsense](https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy) | 5:39 |
 | 42 | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/album/38XV0JAqCJk6RRyrB1JIU0) | 3:01 |
-| 43 | [Power](https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Power](https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm) | 3:14 |
-| 44 | [Fino](https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Fino](https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr) | 2:40 |
+| 43 | [Fino](https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Fino](https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr) | 2:40 |
+| 44 | [Power](https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Power](https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm) | 3:14 |
 | 45 | [Bludz & Cripz](https://open.spotify.com/track/09N6zRXA3FuLciYUnDCM4q) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Bludz & Cripz](https://open.spotify.com/album/4gbKRAMWJN9Q73TWbjUnTl) | 2:29 |
 | 46 | [ur world](https://open.spotify.com/track/6sebQAJWYYNyRwHLIeDvko) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [ur world](https://open.spotify.com/album/0PYMW2KuyFzeeSThG5wAny) | 3:08 |
 | 47 | [GET ON IT](https://open.spotify.com/track/5OQaJTP80UW6G6IpNKueVx) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [GET ON IT](https://open.spotify.com/album/4i5aocSQ5i8ME7kFmAYBe0) | 3:07 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 54 | [Pingers](https://open.spotify.com/track/4NnHBVMaaNLXJ9oZKGK08k) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [CASISDEAD](https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs) | [Pingers](https://open.spotify.com/album/48Gg8EbVBCsBpQAgfHl7ek) | 3:13 |
 | 55 | [WARNING](https://open.spotify.com/track/5coJwd09YfDIbyQdr99dyN) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB), [MAMI](https://open.spotify.com/artist/0HbvIwq1mKjgFSVo6j5HSk) | [WARNING](https://open.spotify.com/album/3EQzXa98IJwsQGTqpZyhnO) | 2:18 |
 | 56 | [Closer \- Edit](https://open.spotify.com/track/6VtwaoZE98xcL80dSCKnLF) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [ADMNTi](https://open.spotify.com/artist/6OwHQoalPXIQtpqjzG4IgY) | [Closer \(Edit\)](https://open.spotify.com/album/1sNPmXsSDjuvgJgPPFi9iE) | 3:47 |
-| 57 | [Sunset](https://open.spotify.com/track/5XmEceDuVQqzR9kINPTBvP) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Sunset](https://open.spotify.com/album/6HFWbYaXiwvKFewZ5D2Cik) | 3:16 |
-| 58 | [No Tomorrow](https://open.spotify.com/track/5EMkQjEd9ITYi1Pf2WfDZw) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [No Tomorrow](https://open.spotify.com/album/7GY2i0VlmrKs8XJLHac4ZL) | 3:54 |
+| 57 | [No Tomorrow](https://open.spotify.com/track/5EMkQjEd9ITYi1Pf2WfDZw) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [No Tomorrow](https://open.spotify.com/album/7GY2i0VlmrKs8XJLHac4ZL) | 3:54 |
+| 58 | [Sunset](https://open.spotify.com/track/5XmEceDuVQqzR9kINPTBvP) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Sunset](https://open.spotify.com/album/6HFWbYaXiwvKFewZ5D2Cik) | 3:16 |
 | 59 | [Pull Up](https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Pull Up](https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW) | 3:13 |
 | 60 | [Deejay](https://open.spotify.com/track/4Sk2H29XVt3ixGlMrkeJ5c) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Deejay](https://open.spotify.com/album/3UZ3GaJ0Pt5pD6Y0A4hn67) | 4:06 |
 | 61 | [Can't Deny](https://open.spotify.com/track/38aBH2BvMIOr9EWqabmWRn) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Can't Deny](https://open.spotify.com/album/4pazCPqxyf0G5hgJ0dS6A6) | 3:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 69 | [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 |
 | 70 | [Naughties](https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Naughties](https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe) | 2:26 |
 
-Snapshot ID: `AAAAADD5WyOg9AT7/J+DiSqiMlN2maiJ`
+Snapshot ID: `AAAAAGoFSS/zXrxGcWNZecPzaZayxQGc`

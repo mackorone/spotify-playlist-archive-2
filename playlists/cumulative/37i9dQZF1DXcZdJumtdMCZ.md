@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Yung Raja
 
-392 songs - 20 hr 21 min
+394 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [DON](https://open.spotify.com/track/7frAypBRuiy1v89gqBciwz) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [DON](https://open.spotify.com/album/5v3vzw90OLxBR4eagYjD9y) | 2:08 | 2026-09-15 |  |
 | [Dosa Kallu Entry](https://open.spotify.com/track/0LU2HsVMYgMDxEz3wUppJ4) | [Dosa Kallu](https://open.spotify.com/artist/0UV8GmHrMz7yAWyjsgYMBo), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [I\-Popstar Tamil \| Ep 02](https://open.spotify.com/album/1H4XAUBpojjbzOlg94Tipk) | 3:04 | 2026-07-27 |  |
 | [En Jannal Vandha](https://open.spotify.com/track/04fYoQSUTfPhVjyW8aXkix) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva), [Divya Vijay](https://open.spotify.com/artist/0JsEu4bfMtGZeV7YhANSTf) | [Theeratha Vilayaatu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JutgYHaEXEC32O2FUbo1U) | 4:43 | 2022-02-08 | 2024-12-29 |
+| [En Peru Malli](https://open.spotify.com/track/0frXho4A27bnYIMBcRWsij) | [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Suganthi](https://open.spotify.com/artist/6ZSsP4Rqq7IyRwK75fSPkt) | [En Peru Malli](https://open.spotify.com/album/65uXiZmRofB1eHENEHYg3x) | 2:47 | 2026-10-10 |  |
 | [En Rathiye](https://open.spotify.com/track/6S5Jm4AvNbWLpfsva0Y9fp) | [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G) | [En Rathiye](https://open.spotify.com/album/5jc178NqJDyw9NHQSNEZAQ) | 2:08 | 2026-04-24 | 2026-05-16 |
 | [En Seethai \- From "Think Indie"](https://open.spotify.com/track/4YhaVwyQwgLeQ8n1guCqM4) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [En Seethai \(From "Think Indie"\)](https://open.spotify.com/album/56mtzq9LbNDe3XxyJxdJ6K) | 2:38 | 2025-08-07 | 2026-05-16 |
 | [En Thatha](https://open.spotify.com/track/5JgqHSDiOHbRduevfvbDnV) | [Zhagaran sethu](https://open.spotify.com/artist/543tJ8IQ1VsXFyZDya6JHw) | [En Thatha](https://open.spotify.com/album/5S8IBhLpwZf5CuYK59RiSP) | 2:51 | 2026-05-15 |  |
@@ -105,6 +106,7 @@
 | [Gomma](https://open.spotify.com/track/5gLOXGdvIw7BXijWKcrDSh) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3) | [Gomma](https://open.spotify.com/album/2mFCrjm44GnaxZSyjx6GrD) | 2:31 | 2026-04-16 | 2026-05-06 |
 | [Gomma](https://open.spotify.com/track/0wcqQ3JXI84MzCpbFfEeei) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Thajmola](https://open.spotify.com/artist/361xEllKxAW0hPs2wEtGzV) | [Gomma](https://open.spotify.com/album/01jALrurkyRy9qnNJRE1gL) | 2:18 | 2024-12-29 | 2025-02-07 |
 | [Gomma Podu](https://open.spotify.com/track/6hSuVbNKcKnc3KXoqZCIU9) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [Ungal Nachi](https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB) | [Gomma Podu](https://open.spotify.com/album/69MCTdiYHPHIJmHf5z2NEn) | 2:44 | 2024-12-29 | 2025-03-18 |
+| [GULABI](https://open.spotify.com/track/3xfzvVe8ZbOsJPFO11Ox1u) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [VENGAYO](https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [GULABI](https://open.spotify.com/album/5gPbJzh40u3rg8bLEAXidY) | 2:21 | 2026-10-10 |  |
 | [Gumbal Kulla Naan Single](https://open.spotify.com/track/1squAzsvBl7TblbpRlzlJV) | [Sokku](https://open.spotify.com/artist/4MjorUxUOXiATEWsP4CwI9) | [Gumbal Kulla Naan Single](https://open.spotify.com/album/2cA1VWeALoyFZnEr89MiqR) | 1:54 | 2025-06-27 | 2026-04-10 |
 | [Happy New Year](https://open.spotify.com/track/0iJVDupX9f0VPwceljd4Ux) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kuruvi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5icGP6ZdCCL8SWk4WamuHU) | 4:03 | 2022-02-08 | 2023-05-15 |
 | [Happy New Year](https://open.spotify.com/track/3n6tB0RkaxQkgWtF1LmsU9) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kuruvi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lExCsa5xo22Dr1vRoAXsb) | 4:03 | 2022-02-08 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Anexxado en portada.",
-  "num_followers": 532263,
+  "num_followers": 532268,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,18 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "Ponte Bonita",
-        "url": "https://open.spotify.com/album/7MwgfDkiNM51w3v3gf145j"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/44u0YqrJSVXucB6qs5hdkP"
       },
       "artists": [
         {
           "name": "LOS DOS DE TAMAULIPAS",
           "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         }
       ],
-      "duration_ms": 161086,
-      "name": "Ponte Bonita",
-      "url": "https://open.spotify.com/track/7i5KGCofSsgoU801R2wW8m"
+      "duration_ms": 117136,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/4LPNlYouyfk0R2kvIiVWgB"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -371,18 +367,22 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/44u0YqrJSVXucB6qs5hdkP"
+        "name": "Ponte Bonita",
+        "url": "https://open.spotify.com/album/7MwgfDkiNM51w3v3gf145j"
       },
       "artists": [
         {
           "name": "LOS DOS DE TAMAULIPAS",
           "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         }
       ],
-      "duration_ms": 117136,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/4LPNlYouyfk0R2kvIiVWgB"
+      "duration_ms": 161086,
+      "name": "Ponte Bonita",
+      "url": "https://open.spotify.com/track/7i5KGCofSsgoU801R2wW8m"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -403,18 +403,18 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "The Gemeliza",
-        "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
+        "name": "Cuando Se Haga De Noche",
+        "url": "https://open.spotify.com/album/1JBjepMflPft1aLR3dwWFN"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 145595,
-      "name": "Chamba Chamba",
-      "url": "https://open.spotify.com/track/1rZjkFYjU8FnPaki0aJ4vf"
+      "duration_ms": 198466,
+      "name": "Cuando Se Haga De Noche",
+      "url": "https://open.spotify.com/track/2gBbXhcJKwji4r3aWTEksV"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -431,6 +431,38 @@
       "duration_ms": 198225,
       "name": "Entre Golpes Y Besos",
       "url": "https://open.spotify.com/track/4XkWzUXLNSrJ6O9o7ogVOD"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
+        "name": "The Gemeliza",
+        "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 145595,
+      "name": "Chamba Chamba",
+      "url": "https://open.spotify.com/track/1rZjkFYjU8FnPaki0aJ4vf"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
+        "name": "Bragado",
+        "url": "https://open.spotify.com/album/4vmP29ek1PBQs21zttHJOl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Mercado",
+          "url": "https://open.spotify.com/artist/2horMImTmjmQUUwfmiRXiP"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "COVA 31",
+      "url": "https://open.spotify.com/track/1VOIqRMekQhtWrVjpdBlgM"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -455,38 +487,6 @@
       "duration_ms": 191481,
       "name": "La Cazadora",
       "url": "https://open.spotify.com/track/5CJSOx4mGZk5jIoCv1QjR6"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
-        "name": "Bragado",
-        "url": "https://open.spotify.com/album/4vmP29ek1PBQs21zttHJOl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Mercado",
-          "url": "https://open.spotify.com/artist/2horMImTmjmQUUwfmiRXiP"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "COVA 31",
-      "url": "https://open.spotify.com/track/1VOIqRMekQhtWrVjpdBlgM"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
-        "name": "Cuando Se Haga De Noche",
-        "url": "https://open.spotify.com/album/1JBjepMflPft1aLR3dwWFN"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Cuando Se Haga De Noche",
-      "url": "https://open.spotify.com/track/2gBbXhcJKwji4r3aWTEksV"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
+        "name": "De M\u00e9xico Soy",
+        "url": "https://open.spotify.com/album/3TlUK5ukcTDdHXan3QEIQp"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 162112,
+      "name": "De M\u00e9xico Soy",
+      "url": "https://open.spotify.com/track/6DGPN25C9jioipnxlahZ3J"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
         "name": "La Meta Es Ser",
         "url": "https://open.spotify.com/album/01BRbJbk8itR8nCetRX16p"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 163669,
       "name": "La Pen\u00ednsula",
       "url": "https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
-        "name": "De M\u00e9xico Soy",
-        "url": "https://open.spotify.com/album/3TlUK5ukcTDdHXan3QEIQp"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 162112,
-      "name": "De M\u00e9xico Soy",
-      "url": "https://open.spotify.com/track/6DGPN25C9jioipnxlahZ3J"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "Pata De Perro",
-        "url": "https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 133636,
-      "name": "Pata De Perro",
-      "url": "https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
         "name": "Viejos Tiempos",
         "url": "https://open.spotify.com/album/2kXVZ9atw5dK5SPUMUNmgy"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
+        "name": "Pata De Perro",
+        "url": "https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 133636,
+      "name": "Pata De Perro",
+      "url": "https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
         "name": "Faltaba Fe",
         "url": "https://open.spotify.com/album/7iaRcI3nN3VWZVtcn700h5"
       },
@@ -1007,6 +1007,26 @@
       "duration_ms": 169386,
       "name": "Faltaba Fe",
       "url": "https://open.spotify.com/track/2otuxWCtbaoZns3f00itTQ"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
+        "name": "LA MOVIE",
+        "url": "https://open.spotify.com/album/4e8mMg7JkhltafeA9aDFuQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
+        {
+          "name": "Santiago Figueroa",
+          "url": "https://open.spotify.com/artist/4Ckh2tfEnFmoGg3ROP6qLi"
+        }
+      ],
+      "duration_ms": 142098,
+      "name": "LA MOVIE",
+      "url": "https://open.spotify.com/track/2KUkF0TRwu05j4HdDahmSM"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -1039,26 +1059,6 @@
       "duration_ms": 185781,
       "name": "Millonario",
       "url": "https://open.spotify.com/track/0qZcNjtKS4bAJ7NllfVN4n"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
-        "name": "LA MOVIE",
-        "url": "https://open.spotify.com/album/4e8mMg7JkhltafeA9aDFuQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        },
-        {
-          "name": "Santiago Figueroa",
-          "url": "https://open.spotify.com/artist/4Ckh2tfEnFmoGg3ROP6qLi"
-        }
-      ],
-      "duration_ms": 142098,
-      "name": "LA MOVIE",
-      "url": "https://open.spotify.com/track/2KUkF0TRwu05j4HdDahmSM"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d"
-      },
-      "artists": [
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        }
-      ],
-      "duration_ms": 182593,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
         "name": "Voy Llegando A Tu Ciudad",
         "url": "https://open.spotify.com/album/3BzvXrVdM42LwrwuAJcJTW"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 145813,
       "name": "Voy Llegando A Tu Ciudad",
       "url": "https://open.spotify.com/track/1W4C7KeRMYRCKQJLrbnzlT"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        }
+      ],
+      "duration_ms": 182593,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
+        "name": "\"De Rancho en Rancho\" Vol. 1 Edicion: Guasave (En Vivo)",
+        "url": "https://open.spotify.com/album/47aTy4eu806DDgrTkkpHlz"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "El Baron del Desierto - En Vivo",
+      "url": "https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
         "name": "El Plan Perfecto",
         "url": "https://open.spotify.com/album/2gl7Zc325H3DISVMSj9R39"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 187691,
       "name": "Vibra Perfecta",
       "url": "https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
-        "name": "\"De Rancho en Rancho\" Vol. 1 Edicion: Guasave (En Vivo)",
-        "url": "https://open.spotify.com/album/47aTy4eu806DDgrTkkpHlz"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "El Baron del Desierto - En Vivo",
-      "url": "https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "Lo Que Yo M\u00e1s Quiero",
-        "url": "https://open.spotify.com/album/1YajfU6lgORvLT54x7ddhY"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        }
-      ],
-      "duration_ms": 153168,
-      "name": "Lo Que Yo M\u00e1s Quiero",
-      "url": "https://open.spotify.com/track/2NezX5wn4kfTeyIcyqPFdk"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
         "name": "Con Aktitud Corazon Y Huevos",
         "url": "https://open.spotify.com/album/13mRHd5JtLn6Apw9sT1MCL"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 195088,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/69VqFk2qKYiKneTt1dJQp4"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
+        "name": "Lo Que Yo M\u00e1s Quiero",
+        "url": "https://open.spotify.com/album/1YajfU6lgORvLT54x7ddhY"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "duration_ms": 153168,
+      "name": "Lo Que Yo M\u00e1s Quiero",
+      "url": "https://open.spotify.com/track/2NezX5wn4kfTeyIcyqPFdk"
     },
     {
       "added_at": "2026-10-09 04:00:26",

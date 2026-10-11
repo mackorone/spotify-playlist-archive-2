@@ -1,28 +1,28 @@
 {
-  "description": "Most exciting artists from the Indian Indie scene. Cover: OutStation",
-  "num_followers": 204741,
+  "description": "Most exciting artists from the Indian Indie scene. Cover: Anubha Bajaj",
+  "num_followers": 204833,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADSlbyQNmhcwiewVOJh9aW3IFXek",
+  "snapshot_id": "AAAAAG3FXDSGDqZpjxd+YFHnvF9n31QV",
   "tracks": [
     {
-      "added_at": "2026-10-05 08:00:18",
+      "added_at": "2026-10-10 03:44:03",
       "album": {
-        "name": "Kuch Toh Hai Yahan",
-        "url": "https://open.spotify.com/album/0msPrwR0zs2nsv8I1B4SuB"
+        "name": "Ishaare",
+        "url": "https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9"
       },
       "artists": [
         {
-          "name": "OutStation",
-          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Kuch Toh Hai Yahan",
-      "url": "https://open.spotify.com/track/6Lfn1GiEJZB4XSvDpRpbWV"
+      "duration_ms": 142173,
+      "name": "Ishaare",
+      "url": "https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
+        "name": "Kuch Toh Hai Yahan",
+        "url": "https://open.spotify.com/album/0msPrwR0zs2nsv8I1B4SuB"
+      },
+      "artists": [
+        {
+          "name": "OutStation",
+          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Kuch Toh Hai Yahan",
+      "url": "https://open.spotify.com/track/6Lfn1GiEJZB4XSvDpRpbWV"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
         "name": "Bairan",
         "url": "https://open.spotify.com/album/3ZIsrV7xUXWX4tR0vk1CGF"
       },
@@ -123,30 +139,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Aarzu",
-        "url": "https://open.spotify.com/album/0TU6nutUkqYYUqZHeB0JHs"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm"
-        },
-        {
-          "name": "Khan",
-          "url": "https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS"
-        },
-        {
-          "name": "Madhurxo",
-          "url": "https://open.spotify.com/artist/0o5KaItv2mU6ACmRP19Qc2"
-        }
-      ],
-      "duration_ms": 187567,
-      "name": "Aarzu",
-      "url": "https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
         "url": "https://open.spotify.com/album/0edE5xT1gEo2H0nB6iYz5E"
       },
@@ -171,6 +163,30 @@
       "duration_ms": 281800,
       "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
       "url": "https://open.spotify.com/track/1E0acRF3Nnf38iLIKqfj0p"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Aarzu",
+        "url": "https://open.spotify.com/album/0TU6nutUkqYYUqZHeB0JHs"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm"
+        },
+        {
+          "name": "Khan",
+          "url": "https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS"
+        },
+        {
+          "name": "Madhurxo",
+          "url": "https://open.spotify.com/artist/0o5KaItv2mU6ACmRP19Qc2"
+        }
+      ],
+      "duration_ms": 187567,
+      "name": "Aarzu",
+      "url": "https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -419,6 +435,22 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
+        "name": "I-Popstar: Vol. 1 | Episodes 4&5",
+        "url": "https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        }
+      ],
+      "duration_ms": 190166,
+      "name": "Hope - I-Popstar: Vol. 1",
+      "url": "https://open.spotify.com/track/6s58j8SuMg3gXrYsjYOwcX"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
         "name": "Isharey",
         "url": "https://open.spotify.com/album/2xvDzxgUsM6IPnAfR9G16I"
       },
@@ -435,22 +467,6 @@
       "duration_ms": 152232,
       "name": "Isharey",
       "url": "https://open.spotify.com/track/7CLYyEz0QhDevkWyJ33MhW"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
-        "name": "I-Popstar: Vol. 1 | Episodes 4&5",
-        "url": "https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO"
-      },
-      "artists": [
-        {
-          "name": "Maan Panu",
-          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
-        }
-      ],
-      "duration_ms": 190166,
-      "name": "Hope - I-Popstar: Vol. 1",
-      "url": "https://open.spotify.com/track/6s58j8SuMg3gXrYsjYOwcX"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -723,6 +739,26 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
+        "name": "Better With You (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Ansh4sure",
+          "url": "https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "Better With You (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
         "name": "Paatha Edathila",
         "url": "https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya"
       },
@@ -743,26 +779,6 @@
       "duration_ms": 192984,
       "name": "Paatha Edathila",
       "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
-        "name": "Better With You (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3"
-      },
-      "artists": [
-        {
-          "name": "Kushagra",
-          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
-        },
-        {
-          "name": "Ansh4sure",
-          "url": "https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "Better With You (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -979,22 +995,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Chandni",
-        "url": "https://open.spotify.com/album/0eXeInZLi8DMMtncmsk2w5"
-      },
-      "artists": [
-        {
-          "name": "Bharat Chandak",
-          "url": "https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Chandni",
-      "url": "https://open.spotify.com/track/4TYSwFH0LcKo32RuWJiaao"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Naina",
         "url": "https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 138600,
       "name": "Naina",
       "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Chandni",
+        "url": "https://open.spotify.com/album/0eXeInZLi8DMMtncmsk2w5"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chandak",
+          "url": "https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Chandni",
+      "url": "https://open.spotify.com/track/4TYSwFH0LcKo32RuWJiaao"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1155,26 +1171,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "NYC",
-        "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
-      },
-      "artists": [
-        {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        },
-        {
-          "name": "Hunna G",
-          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Jaa Tujhe Ishq Ho",
         "url": "https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt"
       },
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Tuu",
-        "url": "https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp"
+        "name": "NYC",
+        "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
       },
       "artists": [
         {
-          "name": "Akanksha Bhandari",
-          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        },
+        {
+          "name": "Hunna G",
+          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Tuu",
-      "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
+      "duration_ms": 125714,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1235,26 +1235,18 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Jaane Bhi Do",
-        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
+        "name": "Tuu",
+        "url": "https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp"
       },
       "artists": [
         {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        },
-        {
-          "name": "Pavithra Chari",
-          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
-        },
-        {
-          "name": "Rahul Shah",
-          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
         }
       ],
-      "duration_ms": 170890,
-      "name": "Jaane Bhi Do",
-      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
+      "duration_ms": 190000,
+      "name": "Tuu",
+      "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1275,6 +1267,30 @@
       "duration_ms": 183071,
       "name": "Thirinjin",
       "url": "https://open.spotify.com/track/7xks8vdAWuKzoh8xHJLntX"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Jaane Bhi Do",
+        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        }
+      ],
+      "duration_ms": 170890,
+      "name": "Jaane Bhi Do",
+      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1351,26 +1367,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Mere Qareeb",
-        "url": "https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K"
-      },
-      "artists": [
-        {
-          "name": "Neyhal",
-          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
-        },
-        {
-          "name": "Ramil Ganjoo",
-          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
-        }
-      ],
-      "duration_ms": 224284,
-      "name": "Mere Qareeb",
-      "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Naina",
         "url": "https://open.spotify.com/album/16u0hCKXEmbfM66kvDOhjM"
       },
@@ -1387,6 +1383,26 @@
       "duration_ms": 121442,
       "name": "Naina",
       "url": "https://open.spotify.com/track/786tJX7yEXubSAyvmBlgvg"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Mere Qareeb",
+        "url": "https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K"
+      },
+      "artists": [
+        {
+          "name": "Neyhal",
+          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
+        },
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        }
+      ],
+      "duration_ms": 224284,
+      "name": "Mere Qareeb",
+      "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1475,26 +1491,6 @@
       "duration_ms": 201235,
       "name": "feeling good",
       "url": "https://open.spotify.com/track/1VXRl2GXUBaHboKPq7usqS"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
-        "name": "Kehndi Hai",
-        "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
-      },
-      "artists": [
-        {
-          "name": "Zanai Bhosle",
-          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
-        },
-        {
-          "name": "Siddhant Bhosle",
-          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
-        }
-      ],
-      "duration_ms": 149927,
-      "name": "Kehndi Hai",
-      "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
     }
   ],
   "unique_name": "RADAR India",
